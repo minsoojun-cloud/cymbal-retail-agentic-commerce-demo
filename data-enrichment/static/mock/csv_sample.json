@@ -1,0 +1,72 @@
+{
+ "items": [
+  {
+   "sku": "CSV-FOOD-001",
+   "title": "Cymbal 国産若鶏 ささみ竜田揚げ（冷凍）",
+   "brand": "Cymbal",
+   "category": "冷凍食品・アイス > 冷凍 おかず > からあげ・竜田揚げ",
+   "description": "国産若鶏のささみをしょうゆベースの下味に漬け込み、片栗粉の衣でカラッと揚げました。凍ったまま電子レンジで温めるだけ（600Wで約2分30秒）。お弁当のおかずや夕食のもう一品に。内容量：300g（約12個） / 原料原産地：国産 / 保存方法：-18℃以下で保存 / 特定原材料：小麦・大豆・鶏肉 / 賞味期限：製造日より12ヶ月",
+   "price": 498.0,
+   "product_url": "https://example.com/cymbal/p/CSV-FOOD-001",
+   "image_url": "",
+   "group": "prepared",
+   "raw_attributes": {},
+   "group_label": "惣菜・冷凍・主食",
+   "fill_before": 0.0,
+   "raw_attr_count": 0
+  },
+  {
+   "sku": "CSV-FOOD-002",
+   "title": "北海道産 秋鮭 切り身 甘塩 4切",
+   "brand": "",
+   "category": "お魚・水産加工品 > 鮭・サーモン > 塩鮭",
+   "description": "脂ののった北海道産の秋鮭を甘塩に仕上げた切り身。焼くだけで朝食やお弁当に。旬：9月〜11月。4切（約320g）。要冷蔵（10℃以下）。",
+   "price": 698.0,
+   "product_url": "https://example.com/cymbal/p/CSV-FOOD-002",
+   "image_url": "",
+   "group": "fresh",
+   "raw_attributes": {
+    "origin": "北海道産"
+   },
+   "group_label": "生鮮（野菜・果物・肉・魚）",
+   "fill_before": 0.111,
+   "raw_attr_count": 1
+  },
+  {
+   "sku": "CSV-GM-003",
+   "title": "Cymbal キッチン 軽量 IH対応 深型フライパン 26cm",
+   "brand": "Cymbal キッチン",
+   "category": "キッチン・調理器具 > フライパン・鍋 > フライパン",
+   "description": "アルミ鋳物ボディにチタンコートのフッ素樹脂加工で、こびりつきにくく軽い深型フライパン。炒め物も煮込みもこれ1つ。IH・ガス火対応（IH 200V可）。食洗機対応。サイズ：直径26×深さ7.5cm、重量約780g。",
+   "price": 2980.0,
+   "product_url": "https://example.com/cymbal/p/CSV-GM-003",
+   "image_url": "",
+   "group": "kitchen",
+   "raw_attributes": {
+    "material": "アルミニウム合金（鋳物）・フッ素樹脂加工",
+    "color": "ブラウン"
+   },
+   "group_label": "キッチン・調理器具",
+   "fill_before": 0.167,
+   "raw_attr_count": 2
+  }
+ ],
+ "count": 3,
+ "columns": [
+  "sku",
+  "title",
+  "brand",
+  "category",
+  "description",
+  "price",
+  "product_url",
+  "image_url",
+  "size",
+  "origin",
+  "storage_type",
+  "allergens",
+  "material",
+  "color"
+ ],
+ "csv_text": "﻿sku,title,brand,category,description,price,product_url,image_url,size,origin,storage_type,allergens,material,color\r\nCSV-FOOD-001,Cymbal 国産若鶏 ささみ竜田揚げ（冷凍）,Cymbal,冷凍食品・アイス > 冷凍 おかず > からあげ・竜田揚げ,国産若鶏のささみをしょうゆベースの下味に漬け込み、片栗粉の衣でカラッと揚げました。凍ったまま電子レンジで温めるだけ（600Wで約2分30秒）。お弁当のおかずや夕食のもう一品に。内容量：300g（約12個） / 原料原産地：国産 / 保存方法：-18℃以下で保存 / 特定原材料：小麦・大豆・鶏肉 / 賞味期限：製造日より12ヶ月,498,https://example.com/cymbal/p/CSV-FOOD-001,,,,,,,\r\nCSV-FOOD-002,北海道産 秋鮭 切り身 甘塩 4切,,お魚・水産加工品 > 鮭・サーモン > 塩鮭,脂ののった北海道産の秋鮭を甘塩に仕上げた切り身。焼くだけで朝食やお弁当に。旬：9月〜11月。4切（約320g）。要冷蔵（10℃以下）。,698,https://example.com/cymbal/p/CSV-FOOD-002,,,北海道産,,,,\r\nCSV-GM-003,Cymbal キッチン 軽量 IH対応 深型フライパン 26cm,Cymbal キッチン,キッチン・調理器具 > フライパン・鍋 > フライパン,アルミ鋳物ボディにチタンコートのフッ素樹脂加工で、こびりつきにくく軽い深型フライパン。炒め物も煮込みもこれ1つ。IH・ガス火対応（IH 200V可）。食洗機対応。サイズ：直径26×深さ7.5cm、重量約780g。,2980,https://example.com/cymbal/p/CSV-GM-003,,,,,,アルミニウム合金（鋳物）・フッ素樹脂加工,ブラウン\r\n"
+}

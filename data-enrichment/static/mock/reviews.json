@@ -1,0 +1,532 @@
+{
+ "items": [
+  {
+   "rec": {
+    "sku": "4909270706758",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "",
+    "unit": "",
+    "norm_note": "原本に表示なし（推測しない）",
+    "evidence": "",
+    "source_field": "",
+    "self_conf": 0.0,
+    "evidence_match": 0.0,
+    "token_conf": null,
+    "score": 0.0,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 特定原材料の表示が原本にありません。推測で補完せず、パッケージ表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:13.739538+00:00",
+    "value": null
+   },
+   "product": {
+    "sku": "4909270706758",
+    "title": "静岡県産 めかじき 切り身 3切（約240g）",
+    "image_url": "https://cymbal-store.example.com/img/products/x_fish_swordfish_fillet_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】静岡県産 めかじき 切り身 3切（約240g）\n【ブランド】\n【カテゴリ】お魚・水産加工品 > さわら・かじき > かじき\n【説明文】骨がなく子どもにも食べやすいめかじきの切り身です。照り焼きやムニエル、竜田揚げなど和洋どちらのおかずにも使え、お弁当にも便利です。　■内容量 ３切（約２４０g）　■産地 静岡県産　要冷蔵\n【属性】\nbase_id: x_fish_swordfish_fillet"
+  },
+  {
+   "rec": {
+    "sku": "4929728033878",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "",
+    "unit": "",
+    "norm_note": "原本に表示なし（推測しない）",
+    "evidence": "",
+    "source_field": "",
+    "self_conf": 0.0,
+    "evidence_match": 0.0,
+    "token_conf": null,
+    "score": 0.0,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 特定原材料の表示が原本にありません。推測で補完せず、パッケージ表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:42.198077+00:00",
+    "value": null
+   },
+   "product": {
+    "sku": "4929728033878",
+    "title": "Cymbal 冷凍 厚切り 味付け牛タン 塩味 400g",
+    "image_url": "https://cymbal-store.example.com/img/products/x_processed_meat_frozen_seasoned_gyutan_p.jpg",
+    "group_label": "惣菜・冷凍・主食"
+   },
+   "source_text": "【タイトル】Cymbal 冷凍 厚切り 味付け牛タン 塩味 400g\n【ブランド】Cymbal\n【カテゴリ】冷凍食品・アイス > 冷凍 肉・肉加工品 > 味付け牛タン\n【説明文】厚切りの牛タンに塩味の下味をつけて冷凍しました。解凍してフライパンやホットプレートで焼くだけで、歯ごたえのある牛タン焼きが楽しめます。ごはんにのせて牛タン丼にするのもおすすめです。　■内容量 ４００g　■産地 アメリカ産　要冷凍（-１８℃以下）\n【属性】\nbase_id: x_processed_meat_frozen_seasoned_gyutan"
+  },
+  {
+   "rec": {
+    "sku": "4946311911337",
+    "kind": "attribute",
+    "attr_key": "height_cm",
+    "label": "高さ",
+    "raw_value": "7cm",
+    "unit": "cm",
+    "norm_note": "寸法を解釈できません",
+    "evidence": "深さ7cm",
+    "source_field": "description",
+    "self_conf": 0.95,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.5,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "単位正規化に失敗: 寸法を解釈できません",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:31.773110+00:00",
+    "value": null
+   },
+   "product": {
+    "sku": "4946311911337",
+    "title": "Cymbal セレクト 深型フライパン ガラス蓋付き 28cm ネイビー",
+    "image_url": "https://cymbal-store.example.com/img/products/z_kitchen_deep_frying_pan_p.jpg",
+    "group_label": "キッチン・調理器具"
+   },
+   "source_text": "【タイトル】Cymbal セレクト 深型フライパン ガラス蓋付き 28cm ネイビー\n【ブランド】Cymbal セレクト\n【カテゴリ】キッチン・調理器具 > フライパン・鍋 > フライパン\n【説明文】深さ7cmの深型設計で、炒める・煮る・揚げ焼きまで1台でこなせます。5層の高耐久コーティングで長く使え、食洗機にも対応。ガラス蓋付きで中の様子を確認しながら調理できます。\nサイズ・容量：28cm / 素材：アルミニウム（5層フッ素コート） / カラー：ネイビー / 生産国：日本製\n【属性】\non_sale: false\nsize: 28cm\nlabels: IH対応 / 食洗機対応\norigin: 日本製\nmaterial: アルミニウム（5層フッ素コート）\ncolor: ネイビー\nbrand_line: Cymbal セレクト\nbase_id: z_kitchen_deep_frying_pan\ndishes: 煮物・炒め煮 / 揚げ焼き / パスタ料理"
+  },
+  {
+   "rec": {
+    "sku": "4913667472959",
+    "kind": "attribute",
+    "attr_key": "pack_count",
+    "label": "入数",
+    "raw_value": "1/2カット",
+    "unit": "個",
+    "norm_note": "数量の単位（個・本・切 など）がありません",
+    "evidence": "size: 1/2カット",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.5,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "単位正規化に失敗: 数量の単位（個・本・切 など）がありません",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:15.539984+00:00",
+    "value": null
+   },
+   "product": {
+    "sku": "4913667472959",
+    "title": "茨城県産 白菜 1/2カット",
+    "image_url": "https://cymbal-store.example.com/img/products/veg_hakusai_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】茨城県産 白菜 1/2カット\n【ブランド】\n【カテゴリ】野菜・果物 > 野菜 > 葉物野菜\n【説明文】寒さとともに甘みが増していく白菜です。鍋物やクリーム煮、浅漬けにぴったり。芯はシャキッと、葉はとろりと、部位ごとの食感も楽しめます。\n内容量：1/2カット / 産地：茨城県産 / 保存方法：冷蔵\n【属性】\non_sale: true\npromo_text: タイムセール\nsize: 1/2カット\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品 / 旬\norigin: 茨城県産\nallergens: なし\nseason_months: 10 / 11 / 12 / 1 / 2\nbase_id: veg_hakusai\ndishes: 寄せ鍋 / 白菜と豚肉のミルフィーユ鍋 / 浅漬け / クリーム煮 / 八宝菜"
+  },
+  {
+   "rec": {
+    "sku": "4913667472959",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:15.540069+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4913667472959",
+    "title": "茨城県産 白菜 1/2カット",
+    "image_url": "https://cymbal-store.example.com/img/products/veg_hakusai_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】茨城県産 白菜 1/2カット\n【ブランド】\n【カテゴリ】野菜・果物 > 野菜 > 葉物野菜\n【説明文】寒さとともに甘みが増していく白菜です。鍋物やクリーム煮、浅漬けにぴったり。芯はシャキッと、葉はとろりと、部位ごとの食感も楽しめます。\n内容量：1/2カット / 産地：茨城県産 / 保存方法：冷蔵\n【属性】\non_sale: true\npromo_text: タイムセール\nsize: 1/2カット\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品 / 旬\norigin: 茨城県産\nallergens: なし\nseason_months: 10 / 11 / 12 / 1 / 2\nbase_id: veg_hakusai\ndishes: 寄せ鍋 / 白菜と豚肉のミルフィーユ鍋 / 浅漬け / クリーム煮 / 八宝菜"
+  },
+  {
+   "rec": {
+    "sku": "4922773303767",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:15.020224+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4922773303767",
+    "title": "青森県産 りんご（紅玉）4玉 袋入",
+    "image_url": "https://cymbal-store.example.com/img/products/y_fresh_premium_apple_kogyoku_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】青森県産 りんご（紅玉）4玉 袋入\n【ブランド】\n【カテゴリ】野菜・果物 > 果物 > りんご\n【説明文】甘酸っぱさがはっきりした紅玉は、加熱しても煮崩れしにくくお菓子作りに最適です。アップルパイや焼きりんご、手作りジャムにおすすめです。\n内容量：4玉 / 産地：青森県産 / 保存方法：常温\n【属性】\non_sale: true\npromo_text: タイムセール / Cymbalポイント 20ポイント進呈\nsize: 4玉\nstorage_type: 常温食品\nlabels: 常温食品 / 旬\norigin: 青森県産\nallergens: なし\nseason_months: 9 / 10 / 11\nbase_id: y_fresh_premium_apple_kogyoku\ndishes: アップルパイ / 焼きりんご / ジャム / コンポート / おやつ"
+  },
+  {
+   "rec": {
+    "sku": "4925319234365",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:18.601736+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4925319234365",
+    "title": "北海道産 生さんま 2尾",
+    "image_url": "https://cymbal-store.example.com/img/products/fish_fresh_saury_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】北海道産 生さんま 2尾\n【ブランド】\n【カテゴリ】お魚・水産加工品 > 鮮魚 > さんま・いわし\n【説明文】北海道沖で水揚げされた、秋の味覚の代表・生さんまです。脂ののった身は塩焼きにすると香ばしく、大根おろしとすだちを添えて旬の味わいをどうぞ。\n内容量：2尾 / 産地：北海道産 / 保存方法：冷蔵\n【属性】\non_sale: true\npromo_text: 今週のおトクな！おすすめ品 / Cymbalポイント 10ポイント進呈\nsize: 2尾\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品 / 旬\norigin: 北海道産\nallergens: なし\nseason_months: 9 / 10 / 11\nbase_id: fish_fresh_saury\ndishes: さんまの塩焼き / さんまの蒲焼き / さんまの煮付け / さんまご飯"
+  },
+  {
+   "rec": {
+    "sku": "4978886449342",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:20.467895+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4978886449342",
+    "title": "国産 ぶなしめじ 3パック（約300g）",
+    "image_url": "https://cymbal-store.example.com/img/products/fruit_bunashimeji_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】国産 ぶなしめじ 3パック（約300g）\n【ブランド】\n【カテゴリ】野菜・果物 > きのこ > しめじ\n【説明文】株ごとしっかり詰まった、歯ざわりのよいぶなしめじです。石づきを切ってほぐすだけで使えるので、炒め物や味噌汁、炊き込みご飯に手軽に加えられます。加熱するとうま味がだしに溶け出し、和食の献立がぐっと秋らしくなります。\n内容量：約300g / 産地：国産 / 保存方法：冷蔵\n【属性】\non_sale: true\npromo_text: まとめ買いでおトク\nsize: 約300g\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品 / 旬\norigin: 国産\nallergens: なし\nseason_months: 9 / 10 / 11\nbase_id: fruit_bunashimeji\ndishes: 炊き込みご飯 / 味噌汁 / きのこのバター醤油炒め / 寄せ鍋 / 和風パスタ"
+  },
+  {
+   "rec": {
+    "sku": "4966160611684",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:22.598150+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4966160611684",
+    "title": "宮崎県産 若鶏もも 唐揚げ用 400g",
+    "image_url": "https://cymbal-store.example.com/img/products/x_beef_chicken_chicken_thigh_karaage_cut_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】宮崎県産 若鶏もも 唐揚げ用 400g\n【ブランド】\n【カテゴリ】お肉・お肉加工品 > 鶏肉 > もも肉\n【説明文】唐揚げに使いやすい大きめサイズにカットした若鶏もも肉です。下味をつけて揚げるだけなので、唐揚げや竜田揚げが手早く作れます。\n内容量：400g / 産地：宮崎県産 / 保存方法：冷蔵\n【属性】\non_sale: false\nsize: 400g\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品\norigin: 宮崎県産\nallergens: なし\nbase_id: x_beef_chicken_chicken_thigh_karaage_cut\ndishes: 唐揚げ / 竜田揚げ / チキン南蛮 / お弁当のおかず"
+  },
+  {
+   "rec": {
+    "sku": "4946948029931",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:24.183725+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4946948029931",
+    "title": "Cymbal ベーシック スイートコーン ホールカーネル 190g",
+    "image_url": "https://cymbal-store.example.com/img/products/x_dry_can_corn_can_p.jpg",
+    "group_label": "加工食品・飲料"
+   },
+   "source_text": "【タイトル】Cymbal ベーシック スイートコーン ホールカーネル 190g\n【ブランド】Cymbal ベーシック\n【カテゴリ】缶詰・粉類・乾物 > 缶詰 > コーン缶\n【説明文】甘みのあるスイートコーンの缶詰・パウチです。粒タイプはサラダやチャーハン、コーンバターに、クリームタイプはコーンスープやグラタンにぴったりです。\n内容量：190g / 産地：タイ産 / 保存方法：常温\n【属性】\non_sale: true\npromo_text: 今週のおトクな！おすすめ品\nsize: 190g\nstorage_type: 常温食品\nlabels: 常温食品\norigin: タイ産\nallergens: なし\nbrand_line: Cymbal ベーシック\nbase_id: x_dry_can_corn_can\ndishes: コーンスープ / コーンバター / ポテトサラダ / チャーハン / グラタン / お弁当のおかず"
+  },
+  {
+   "rec": {
+    "sku": "4958688424846",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:24.933309+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4958688424846",
+    "title": "宮城県産 かき むき身 生食用 150g",
+    "image_url": "https://cymbal-store.example.com/img/products/x_fish_raw_oyster_p.jpg",
+    "group_label": "生鮮（野菜・果物・肉・魚）"
+   },
+   "source_text": "【タイトル】宮城県産 かき むき身 生食用 150g\n【ブランド】\n【カテゴリ】お魚・水産加工品 > 貝類 > かき\n【説明文】身がぷっくりとしたかきのむき身です。カキフライや土手鍋、かきご飯など冬のごちそうに使え、グラタンにするとクリーミーなソースとよく合います。\n内容量：150g / 産地：宮城県産 / 保存方法：冷蔵\n【属性】\non_sale: false\nsize: 150g\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品 / 旬\norigin: 宮城県産\nallergens: なし\nseason_months: 11 / 12 / 1 / 2 / 3\nbase_id: x_fish_raw_oyster\ndishes: カキフライ / 鍋 / 土手鍋 / かきご飯 / グラタン"
+  },
+  {
+   "rec": {
+    "sku": "4966417877245",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:26.711213+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4966417877245",
+    "title": "Cymbal 黒糖しょうがのど飴 100g",
+    "image_url": "https://cymbal-store.example.com/img/products/y_snack_nodo_ame_p.jpg",
+    "group_label": "加工食品・飲料"
+   },
+   "source_text": "【タイトル】Cymbal 黒糖しょうがのど飴 100g\n【ブランド】Cymbal\n【カテゴリ】お菓子・製菓 > グミ・キャンディ > のど飴\n【説明文】ハーブやはちみつレモンなど、すっきりとした味わいののど飴です。個包装でバッグやポケットに入れておきやすく、家族それぞれの好みに合わせて選べます。大袋のアソートは家庭の常備用にもおすすめです。\n内容量：100g / 産地：国内製造 / 保存方法：常温\n【属性】\non_sale: false\nsize: 100g\nstorage_type: 常温食品\nlabels: 常温食品\norigin: 国内製造\nallergens: なし\nbrand_line: Cymbal\nbase_id: y_snack_nodo_ame\ndishes: 常備おやつ / お出かけ / 仕事の合間 / ドライブ"
+  },
+  {
+   "rec": {
+    "sku": "4958140347720",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:27.159296+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4958140347720",
+    "title": "国産 奈良漬 詰合せ（白瓜・きゅうり・すいか）200g",
+    "image_url": "https://cymbal-store.example.com/img/products/y_tofu_natto_pickles_narazuke_kasuzuke_p.jpg",
+    "group_label": "加工食品・飲料"
+   },
+   "source_text": "【タイトル】国産 奈良漬 詰合せ（白瓜・きゅうり・すいか）200g\n【ブランド】\n【カテゴリ】豆腐・納豆・練り物 > 漬物 > 奈良漬・粕漬\n【説明文】酒粕でじっくり漬け込んだ、芳醇な香りの粕漬です。薄く切ってごはんのお供や晩酌のおつまみに、うな丼の箸休めにもよく合います。\n内容量：200g / 産地：国産 / 保存方法：冷蔵\n【属性】\non_sale: false\npromo_text: Cymbalポイント 10ポイント進呈\nsize: 200g\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品\norigin: 国産\nallergens: なし\nbase_id: y_tofu_natto_pickles_narazuke_kasuzuke\ndishes: 晩酌 / 朝ごはん / お茶漬け / うな丼 / おもてなし"
+  },
+  {
+   "rec": {
+    "sku": "4982888192861",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:31.989552+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4982888192861",
+    "title": "Cymbal 冷やしぜんざい 白玉入り 大容量 300g",
+    "image_url": "https://cymbal-store.example.com/img/products/y_dessert_ice_shiratama_zenzai_p.jpg",
+    "group_label": "加工食品・飲料"
+   },
+   "source_text": "【タイトル】Cymbal 冷やしぜんざい 白玉入り 大容量 300g\n【ブランド】Cymbal\n【カテゴリ】卵・乳製品・豆乳・デザート > 和スイーツ > ぜんざい・おしるこ\n【説明文】やわらかな白玉と、ふっくら炊いた小豆を合わせた白玉ぜんざいです。冷たいままでも、温めてもおいしく召し上がれます。おやつやお茶うけにどうぞ。\n内容量：300g / 産地：国内製造 / 保存方法：冷蔵\n【属性】\non_sale: true\npromo_text: まとめ買いでおトク\nsize: 300g\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品\norigin: 国内製造\nallergens: なし\nbrand_line: Cymbal\nbase_id: y_dessert_ice_shiratama_zenzai\ndishes: おやつ / お茶うけ / 食後のデザート"
+  },
+  {
+   "rec": {
+    "sku": "4939722637538",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:42.210217+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4939722637538",
+    "title": "Cymbal ごはん 国産米100% 200g×3食",
+    "image_url": "https://cymbal-store.example.com/img/products/staple_pack_rice_p.jpg",
+    "group_label": "惣菜・冷凍・主食"
+   },
+   "source_text": "【タイトル】Cymbal ごはん 国産米100% 200g×3食\n【ブランド】Cymbal\n【カテゴリ】お米・麺・インスタント > お米 > パックご飯\n【説明文】電子レンジで温めるだけで、炊きたてのようなふっくらごはんが味わえるパックご飯です。国産米100%使用で、忙しい日のお夕飯やお弁当、ストック用にも便利。ご家族の人数に合わせて選べるサイズをそろえました。\n内容量：200g×3 / 産地：国産 / 保存方法：常温\n【属性】\non_sale: true\npromo_text: 秋の味覚フェア 特価\nsize: 200g×3\nstorage_type: 常温食品\nlabels: 常温食品\norigin: 国産\nallergens: なし\nbrand_line: Cymbal\nbase_id: staple_pack_rice\ndishes: 白ごはん / お茶漬け / 雑炊 / チャーハン / 丼もの"
+  },
+  {
+   "rec": {
+    "sku": "4998110953391",
+    "kind": "attribute",
+    "attr_key": "allergens",
+    "label": "特定原材料（アレルゲン）",
+    "raw_value": "なし",
+    "unit": "",
+    "norm_note": "表示対象なし",
+    "evidence": "allergens: なし",
+    "source_field": "attributes",
+    "self_conf": 1.0,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.6,
+    "gate_status": "needs_review",
+    "gate": "gate1",
+    "reason": "食品安全ルール: 「なし」は構造化属性のみの記載です。パッケージの表示で確認してください",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:46.986120+00:00",
+    "value": "なし"
+   },
+   "product": {
+    "sku": "4998110953391",
+    "title": "Cymbal フリーズドライ みそ汁 とうふ 5食入",
+    "image_url": "https://cymbal-store.example.com/img/products/y_rice_retort_freeze_dried_miso_soup_p.jpg",
+    "group_label": "惣菜・冷凍・主食"
+   },
+   "source_text": "【タイトル】Cymbal フリーズドライ みそ汁 とうふ 5食入\n【ブランド】Cymbal\n【カテゴリ】お米・麺・インスタント > インスタントスープ・みそ汁 > 即席みそ汁\n【説明文】具材の形と食感を生かしたフリーズドライのみそ汁です。お椀に入れてお湯を注ぐだけで、なすやほうれん草、豆腐などの具がふっくら戻ります。ブロックタイプで保存しやすいのも魅力です。\n内容量：5食 / 産地：国内製造 / 保存方法：常温\n【属性】\non_sale: true\npromo_text: 週末限定 お買い得\nsize: 5食\nstorage_type: 常温食品\nlabels: 常温食品\norigin: 国内製造\nallergens: なし\nbrand_line: Cymbal\nbase_id: y_rice_retort_freeze_dried_miso_soup\ndishes: 朝ごはん / お弁当のお供 / 夜食 / 定食の汁物"
+  },
+  {
+   "rec": {
+    "sku": "4973176388264",
+    "kind": "tag",
+    "attr_key": "tag:おもてなし",
+    "label": "おもてなし",
+    "raw_value": "",
+    "unit": "",
+    "norm_note": "",
+    "evidence": "一年の締めくくりにどうぞ",
+    "source_field": "",
+    "self_conf": 0.7,
+    "evidence_match": 1.0,
+    "token_conf": null,
+    "score": 0.88,
+    "gate_status": "needs_review",
+    "gate": "gate2",
+    "reason": "複合スコア 0.88 < 0.90（確信度不足）",
+    "job_id": "online-20261111_001308",
+    "model": "gemini-3.8-flash",
+    "created_at": "2026-11-11T00:13:45.123192+00:00",
+    "value": "おもてなし"
+   },
+   "product": {
+    "sku": "4973176388264",
+    "title": "Cymbal 年越し 天ぷらそば えび天・つゆ付 2食入",
+    "image_url": "https://cymbal-store.example.com/img/products/y_seasonal_event_toshikoshi_soba_p.jpg",
+    "group_label": "惣菜・冷凍・主食"
+   },
+   "source_text": "【タイトル】Cymbal 年越し 天ぷらそば えび天・つゆ付 2食入\n【ブランド】Cymbal\n【カテゴリ】お米・麺・インスタント > そば > 年越しそば\n【説明文】大晦日に家族で味わう、つゆ付きの年越しそばです。えび天やかき揚げをのせて、一年の締めくくりにどうぞ。\n内容量：2食入 / 産地：国内製造 / 保存方法：冷蔵 / 特定原材料：そば・小麦・えび\n【属性】\non_sale: true\npromo_text: 週末限定 お買い得\nsize: 2食入\nstorage_type: 冷蔵食品\nlabels: 冷蔵食品\norigin: 国内製造\nallergens: そば / 小麦 / えび\nbrand_line: Cymbal\nseason_months: 12\nbase_id: y_seasonal_event_toshikoshi_soba\ndishes: 年越しそば / 天ぷらそば / にしんそば / 鴨南蛮"
+  }
+ ],
+ "count": 17
+}

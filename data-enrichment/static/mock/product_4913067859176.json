@@ -1,0 +1,533 @@
+{
+ "product": {
+  "sku": "4913067859176",
+  "title": "Cymbal えびピラフ 450g",
+  "brand": "Cymbal",
+  "category": "冷凍食品・アイス > 冷凍 ごはん・チャーハン > ピラフ・炒めごはん",
+  "description": "ぷりっとしたえびと野菜をバター風味で炒めた冷凍えびピラフです。フライパンや電子レンジで手軽に作れ、ホワイトソースをかけて焼けばドリアにもなります。\n内容量：450g / 産地：国内製造 / 保存方法：冷凍 / 特定原材料：えび・小麦・乳",
+  "product_url": "https://cymbal-store.example.com/?product=4913067859176",
+  "image_url": "https://cymbal-store.example.com/img/products/x_frozen_shrimp_pilaf_p.jpg",
+  "price": 354.0,
+  "group": "prepared",
+  "raw_attributes": {
+   "on_sale": "false",
+   "size": "450g",
+   "storage_type": "冷凍食品",
+   "labels": "冷凍食品",
+   "origin": "国内製造",
+   "allergens": "えび / 小麦 / 乳",
+   "brand_line": "Cymbal",
+   "base_id": "x_frozen_shrimp_pilaf",
+   "dishes": "ピラフ / ドリア / オムライス / お弁当 / グラタン"
+  },
+  "group_label": "惣菜・冷凍・主食",
+  "doc_sources": [],
+  "source": "cymbal",
+  "images": []
+ },
+ "source_text": "【タイトル】Cymbal えびピラフ 450g\n【ブランド】Cymbal\n【カテゴリ】冷凍食品・アイス > 冷凍 ごはん・チャーハン > ピラフ・炒めごはん\n【説明文】ぷりっとしたえびと野菜をバター風味で炒めた冷凍えびピラフです。フライパンや電子レンジで手軽に作れ、ホワイトソースをかけて焼けばドリアにもなります。\n内容量：450g / 産地：国内製造 / 保存方法：冷凍 / 特定原材料：えび・小麦・乳\n【属性】\non_sale: false\nsize: 450g\nstorage_type: 冷凍食品\nlabels: 冷凍食品\norigin: 国内製造\nallergens: えび / 小麦 / 乳\nbrand_line: Cymbal\nbase_id: x_frozen_shrimp_pilaf\ndishes: ピラフ / ドリア / オムライス / お弁当 / グラタン",
+ "targets": [
+  {
+   "key": "net_weight_g",
+   "label": "内容量（重量）",
+   "unit": "g",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "net_volume_ml",
+   "label": "内容量・容量（ml）",
+   "unit": "ml",
+   "type": "number",
+   "raw_keys": [
+    "size",
+    "capacity"
+   ]
+  },
+  {
+   "key": "pack_count",
+   "label": "入数",
+   "unit": "個",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "servings",
+   "label": "目安人数（人前・皿分）",
+   "unit": "人前",
+   "type": "number",
+   "raw_keys": []
+  },
+  {
+   "key": "origin",
+   "label": "産地・原産国",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "origin"
+   ]
+  },
+  {
+   "key": "storage_method",
+   "label": "保存方法",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "storage_type"
+   ]
+  },
+  {
+   "key": "allergens",
+   "label": "特定原材料（アレルゲン）",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "allergens"
+   ]
+  },
+  {
+   "key": "best_before_days",
+   "label": "賞味期限目安",
+   "unit": "日",
+   "type": "number",
+   "raw_keys": []
+  },
+  {
+   "key": "cook_time_min",
+   "label": "調理時間",
+   "unit": "分",
+   "type": "number",
+   "raw_keys": []
+  },
+  {
+   "key": "cooking_method",
+   "label": "調理方法",
+   "unit": "",
+   "type": "text",
+   "raw_keys": []
+  },
+  {
+   "key": "dishes",
+   "label": "用途・おすすめメニュー",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "dishes"
+   ]
+  },
+  {
+   "key": "flavor",
+   "label": "味・辛さ",
+   "unit": "",
+   "type": "text",
+   "raw_keys": []
+  }
+ ],
+ "records": [
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "net_weight_g",
+   "label": "内容量（重量）",
+   "raw_value": "450g",
+   "unit": "g",
+   "norm_note": "",
+   "evidence": "size: 450g",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.298968+00:00",
+   "value": 450
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "origin",
+   "label": "産地・原産国",
+   "raw_value": "国内製造",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "origin: 国内製造",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.298988+00:00",
+   "value": "国内製造"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "storage_method",
+   "label": "保存方法",
+   "raw_value": "冷凍食品",
+   "unit": "",
+   "norm_note": "冷蔵/冷凍/常温に標準化",
+   "evidence": "storage_type: 冷凍食品",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.298996+00:00",
+   "value": "冷凍"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "allergens",
+   "label": "特定原材料（アレルゲン）",
+   "raw_value": "えび / 小麦 / 乳",
+   "unit": "",
+   "norm_note": "28品目の標準表記に統一",
+   "evidence": "allergens: えび / 小麦 / 乳",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299092+00:00",
+   "value": "えび・小麦・乳"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "cooking_method",
+   "label": "調理方法",
+   "raw_value": "フライパンや電子レンジ",
+   "unit": "",
+   "norm_note": "標準の調理方法に分類",
+   "evidence": "フライパンや電子レンジで手軽に作れ",
+   "source_field": "description",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.98,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299108+00:00",
+   "value": "電子レンジ・フライパン"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "dishes",
+   "label": "用途・おすすめメニュー",
+   "raw_value": "ピラフ / ドリア / オムライス / お弁当 / グラタン",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "dishes: ピラフ / ドリア / オムライス / お弁当 / グラタン",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299118+00:00",
+   "value": "ピラフ・ドリア・オムライス・お弁当・グラタン"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "attribute",
+   "attr_key": "flavor",
+   "label": "味・辛さ",
+   "raw_value": "バター風味",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "バター風味で炒めた冷凍えびピラフ",
+   "source_field": "description",
+   "self_conf": 0.9,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.96,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.96 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299129+00:00",
+   "value": "バター風味"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "tag",
+   "attr_key": "tag:お弁当向き",
+   "label": "お弁当向き",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "お弁当",
+   "source_field": "",
+   "self_conf": 0.9,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.96,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.96 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299176+00:00",
+   "value": "お弁当向き"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "tag",
+   "attr_key": "tag:フライパン調理",
+   "label": "フライパン調理",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "フライパンや電子レンジで手軽に作れ",
+   "source_field": "",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.98,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299162+00:00",
+   "value": "フライパン調理"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "tag",
+   "attr_key": "tag:冷凍保存",
+   "label": "冷凍保存",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "保存方法：冷凍",
+   "source_field": "",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.98,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299168+00:00",
+   "value": "冷凍保存"
+  },
+  {
+   "sku": "4913067859176",
+   "kind": "tag",
+   "attr_key": "tag:電子レンジ調理",
+   "label": "電子レンジ調理",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "電子レンジで手軽に作れ",
+   "source_field": "",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.98,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 0.98 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:41.299155+00:00",
+   "value": "電子レンジ調理"
+  }
+ ],
+ "extras": {
+  "search_keywords": [
+   "えびピラフ",
+   "冷凍ピラフ",
+   "エビピラフ",
+   "冷凍食品",
+   "電子レンジ調理",
+   "ドリア",
+   "Cymbal"
+  ],
+  "ai_summary": "ぷりっとしたえびと野菜をバター風味で炒めた冷凍えびピラフです。フライパンや電子レンジで手軽に作れ、ホワイトソースをかけて焼けばドリアにもアレンジできます。"
+ },
+ "gmc": {
+  "sku": "4913067859176",
+  "item_group_id": "x_frozen_shrimp_pilaf",
+  "item_group_title": "Cymbal えびピラフ",
+  "variant_options": [
+   {
+    "name": "内容量",
+    "value": "450g",
+    "evidence": "内容量：450g",
+    "evidence_match": 1.0
+   },
+   {
+    "name": "産地",
+    "value": "国内製造",
+    "evidence": "産地：国内製造",
+    "evidence_match": 1.0
+   }
+  ],
+  "questions_and_answers": [
+   {
+    "question": "内容量はどれくらいですか？",
+    "answer": "内容量は450gです。",
+    "evidence": "内容量：450g",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "どのように調理しますか？",
+    "answer": "フライパンや電子レンジで手軽に調理できます。",
+    "evidence": "フライパンや電子レンジで手軽に作れ",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "どのようなアレルギー物質（特定原材料）が含まれていますか？",
+    "answer": "えび、小麦、乳が含まれています。",
+    "evidence": "特定原材料：えび・小麦・乳",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "保存方法を教えてください。",
+    "answer": "冷凍で保存してください。",
+    "evidence": "保存方法：冷凍",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "おすすめのアレンジ方法はありますか？",
+    "answer": "ホワイトソースをかけて焼くことでドリアにアレンジできます。",
+    "evidence": "ホワイトソースをかけて焼けばドリアにもなります",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   }
+  ],
+  "product_highlights": [
+   "ぷりっとしたえびと野菜のバター風味仕立て",
+   "フライパンや電子レンジで手軽に簡単調理",
+   "ホワイトソースをかければドリアにもアレンジ可能",
+   "安心の国内製造・たっぷり使える450g"
+  ],
+  "product_details": [
+   {
+    "section": "調理・おすすめ",
+    "attribute": "味・辛さ",
+    "value": "バター風味"
+   },
+   {
+    "section": "調理・おすすめ",
+    "attribute": "調理方法",
+    "value": "電子レンジ・フライパン"
+   },
+   {
+    "section": "食品表示・保存",
+    "attribute": "特定原材料（アレルゲン）",
+    "value": "えび・小麦・乳"
+   },
+   {
+    "section": "調理・おすすめ",
+    "attribute": "用途・おすすめメニュー",
+    "value": "ピラフ・ドリア・オムライス・お弁当・グラタン"
+   },
+   {
+    "section": "内容量・サイズ",
+    "attribute": "内容量（重量）",
+    "value": "450g"
+   },
+   {
+    "section": "食品表示・保存",
+    "attribute": "産地・原産国",
+    "value": "国内製造"
+   },
+   {
+    "section": "食品表示・保存",
+    "attribute": "保存方法",
+    "value": "冷凍"
+   },
+   {
+    "section": "機能・特長",
+    "attribute": "搭載機能",
+    "value": "お弁当向き / フライパン調理 / 冷凍保存 / 電子レンジ調理"
+   }
+  ],
+  "related_products": [
+   {
+    "relationship_type": "often_bought_with",
+    "identifier_type": "id",
+    "identifier": "ホワイトソース",
+    "title": "ホワイトソース"
+   },
+   {
+    "relationship_type": "often_bought_with",
+    "identifier_type": "id",
+    "identifier": "4958688424846",
+    "title": "宮城県産 かき むき身 生食用 150g"
+   },
+   {
+    "relationship_type": "often_bought_with",
+    "identifier_type": "id",
+    "identifier": "4903577695999",
+    "title": "Cymbal ベーシック 白玉子 Mサイズ 10個入"
+   }
+  ],
+  "popularity_rank": 90.0,
+  "document_link": "",
+  "model": "gemini-3.8-flash",
+  "job_id": "online-20261111_001308",
+  "updated_at": "2026-11-11T00:13:41.299346+00:00",
+  "variant_option": "内容量:450g,産地:国内製造",
+  "question_and_answer": "\"内容量はどれくらいですか？\":\"内容量は450gです。\", \"どのように調理しますか？\":\"フライパンや電子レンジで手軽に調理できます。\", \"どのようなアレルギー物質（特定原材料）が含まれていますか？\":\"えび、小麦、乳が含まれています。\", \"保存方法を教えてください。\":\"冷凍で保存してください。\", \"おすすめのアレンジ方法はありますか？\":\"ホワイトソースをかけて焼くことでドリアにアレンジできます。\"",
+  "product_highlight": "\"ぷりっとしたえびと野菜のバター風味仕立て\", \"フライパンや電子レンジで手軽に簡単調理\", \"ホワイトソースをかければドリアにもアレンジ可能\", \"安心の国内製造・たっぷり使える450g\"",
+  "product_detail": "調理・おすすめ:味・辛さ:\"バター風味\", 調理・おすすめ:調理方法:\"電子レンジ・フライパン\", 食品表示・保存:特定原材料（アレルゲン）:\"えび・小麦・乳\", 調理・おすすめ:用途・おすすめメニュー:\"ピラフ・ドリア・オムライス・お弁当・グラタン\", 内容量・サイズ:内容量（重量）:\"450g\", 食品表示・保存:産地・原産国:\"国内製造\", 食品表示・保存:保存方法:\"冷凍\", 機能・特長:搭載機能:\"お弁当向き / フライパン調理 / 冷凍保存 / 電子レンジ調理\"",
+  "related_product": "often_bought_with:id:ホワイトソース,often_bought_with:id:4958688424846,often_bought_with:id:4903577695999"
+ },
+ "status": "completed",
+ "fill_before": 0.333,
+ "fill_after": 0.583
+}

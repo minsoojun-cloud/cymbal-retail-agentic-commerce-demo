@@ -1,0 +1,504 @@
+{
+ "product": {
+  "sku": "4946311911337",
+  "title": "Cymbal セレクト 深型フライパン ガラス蓋付き 28cm ネイビー",
+  "brand": "Cymbal セレクト",
+  "category": "キッチン・調理器具 > フライパン・鍋 > フライパン",
+  "description": "深さ7cmの深型設計で、炒める・煮る・揚げ焼きまで1台でこなせます。5層の高耐久コーティングで長く使え、食洗機にも対応。ガラス蓋付きで中の様子を確認しながら調理できます。\nサイズ・容量：28cm / 素材：アルミニウム（5層フッ素コート） / カラー：ネイビー / 生産国：日本製",
+  "product_url": "https://cymbal-store.example.com/?product=4946311911337",
+  "image_url": "https://cymbal-store.example.com/img/products/z_kitchen_deep_frying_pan_p.jpg",
+  "price": 6578.0,
+  "group": "kitchen",
+  "raw_attributes": {
+   "on_sale": "false",
+   "size": "28cm",
+   "labels": "IH対応 / 食洗機対応",
+   "origin": "日本製",
+   "material": "アルミニウム（5層フッ素コート）",
+   "color": "ネイビー",
+   "brand_line": "Cymbal セレクト",
+   "base_id": "z_kitchen_deep_frying_pan",
+   "dishes": "煮物・炒め煮 / 揚げ焼き / パスタ料理"
+  },
+  "group_label": "キッチン・調理器具",
+  "doc_sources": [],
+  "source": "cymbal",
+  "images": []
+ },
+ "source_text": "【タイトル】Cymbal セレクト 深型フライパン ガラス蓋付き 28cm ネイビー\n【ブランド】Cymbal セレクト\n【カテゴリ】キッチン・調理器具 > フライパン・鍋 > フライパン\n【説明文】深さ7cmの深型設計で、炒める・煮る・揚げ焼きまで1台でこなせます。5層の高耐久コーティングで長く使え、食洗機にも対応。ガラス蓋付きで中の様子を確認しながら調理できます。\nサイズ・容量：28cm / 素材：アルミニウム（5層フッ素コート） / カラー：ネイビー / 生産国：日本製\n【属性】\non_sale: false\nsize: 28cm\nlabels: IH対応 / 食洗機対応\norigin: 日本製\nmaterial: アルミニウム（5層フッ素コート）\ncolor: ネイビー\nbrand_line: Cymbal セレクト\nbase_id: z_kitchen_deep_frying_pan\ndishes: 煮物・炒め煮 / 揚げ焼き / パスタ料理",
+ "targets": [
+  {
+   "key": "net_volume_ml",
+   "label": "内容量・容量（ml）",
+   "unit": "ml",
+   "type": "number",
+   "raw_keys": [
+    "size",
+    "capacity"
+   ]
+  },
+  {
+   "key": "pack_count",
+   "label": "入数",
+   "unit": "個",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "origin",
+   "label": "産地・原産国",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "origin"
+   ]
+  },
+  {
+   "key": "material",
+   "label": "素材",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "material"
+   ]
+  },
+  {
+   "key": "width_cm",
+   "label": "幅",
+   "unit": "cm",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "depth_cm",
+   "label": "奥行",
+   "unit": "cm",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "height_cm",
+   "label": "高さ",
+   "unit": "cm",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "diameter_cm",
+   "label": "直径・口径",
+   "unit": "cm",
+   "type": "number",
+   "raw_keys": [
+    "size"
+   ]
+  },
+  {
+   "key": "color",
+   "label": "カラー",
+   "unit": "",
+   "type": "text",
+   "raw_keys": [
+    "color"
+   ]
+  },
+  {
+   "key": "ih_compatible",
+   "label": "IH対応",
+   "unit": "",
+   "type": "bool",
+   "raw_keys": []
+  },
+  {
+   "key": "dishwasher_safe",
+   "label": "食洗機対応",
+   "unit": "",
+   "type": "bool",
+   "raw_keys": []
+  },
+  {
+   "key": "microwave_safe",
+   "label": "電子レンジ対応",
+   "unit": "",
+   "type": "bool",
+   "raw_keys": []
+  }
+ ],
+ "records": [
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "origin",
+   "label": "産地・原産国",
+   "raw_value": "日本製",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "origin: 日本製",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773080+00:00",
+   "value": "日本製"
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "material",
+   "label": "素材",
+   "raw_value": "アルミニウム（5層フッ素コート）",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "material: アルミニウム（5層フッ素コート）",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773100+00:00",
+   "value": "アルミニウム(5層フッ素コート)"
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "height_cm",
+   "label": "高さ",
+   "raw_value": "7cm",
+   "unit": "cm",
+   "norm_note": "寸法を解釈できません",
+   "evidence": "深さ7cm",
+   "source_field": "description",
+   "self_conf": 0.95,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 0.5,
+   "gate_status": "needs_review",
+   "gate": "gate1",
+   "reason": "単位正規化に失敗: 寸法を解釈できません",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773110+00:00",
+   "value": null
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "diameter_cm",
+   "label": "直径・口径",
+   "raw_value": "28cm",
+   "unit": "cm",
+   "norm_note": "単一寸法を直径とみなしました",
+   "evidence": "size: 28cm",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773120+00:00",
+   "value": 28
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "color",
+   "label": "カラー",
+   "raw_value": "ネイビー",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "color: ネイビー",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773128+00:00",
+   "value": "ネイビー"
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "ih_compatible",
+   "label": "IH対応",
+   "raw_value": "IH対応",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "labels: IH対応 / 食洗機対応",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773136+00:00",
+   "value": true
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "attribute",
+   "attr_key": "dishwasher_safe",
+   "label": "食洗機対応",
+   "raw_value": "食洗機対応",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "labels: IH対応 / 食洗機対応",
+   "source_field": "attributes",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773143+00:00",
+   "value": true
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "tag",
+   "attr_key": "tag:IH対応",
+   "label": "IH対応",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "IH対応",
+   "source_field": "",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773163+00:00",
+   "value": "IH対応"
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "tag",
+   "attr_key": "tag:日本製",
+   "label": "日本製",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "生産国：日本製",
+   "source_field": "",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773177+00:00",
+   "value": "日本製"
+  },
+  {
+   "sku": "4946311911337",
+   "kind": "tag",
+   "attr_key": "tag:食洗機対応",
+   "label": "食洗機対応",
+   "raw_value": "",
+   "unit": "",
+   "norm_note": "",
+   "evidence": "食洗機にも対応",
+   "source_field": "",
+   "self_conf": 1.0,
+   "evidence_match": 1.0,
+   "token_conf": null,
+   "score": 1.0,
+   "gate_status": "auto_approved",
+   "gate": "gate2",
+   "reason": "複合スコア 1.00 ≥ 0.90",
+   "job_id": "online-20261111_001308",
+   "model": "gemini-3.8-flash",
+   "created_at": "2026-11-11T00:13:31.773171+00:00",
+   "value": "食洗機対応"
+  }
+ ],
+ "extras": {
+  "search_keywords": [
+   "深型フライパン",
+   "フライパン 28cm",
+   "ガラス蓋付き",
+   "IH対応 フライパン",
+   "食洗機対応 フライパン",
+   "日本製 フライパン",
+   "フッ素コート フライパン"
+  ],
+  "ai_summary": "深さ7cmで炒める・煮る・揚げ焼きに対応する28cm深型フライパン。高耐久5層フッ素コートを施した日本製で、ガラス蓋付き。食洗機やIH調理にも対応しています。"
+ },
+ "gmc": {
+  "sku": "4946311911337",
+  "item_group_id": "z_kitchen_deep_frying_pan",
+  "item_group_title": "Cymbal セレクト 深型フライパン ガラス蓋付き",
+  "variant_options": [
+   {
+    "name": "サイズ",
+    "value": "28cm",
+    "evidence": "28cm",
+    "evidence_match": 1.0
+   },
+   {
+    "name": "カラー",
+    "value": "ネイビー",
+    "evidence": "ネイビー",
+    "evidence_match": 1.0
+   }
+  ],
+  "questions_and_answers": [
+   {
+    "question": "IHや食洗機には対応していますか？",
+    "answer": "IH対応および食洗機対応です。",
+    "evidence": "IH対応 / 食洗機対応",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "フライパンの深さはどれくらいですか？",
+    "answer": "深さ7cmの深型設計となっています。",
+    "evidence": "深さ7cmの深型設計",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "どのような素材やコーティングが使われていますか？",
+    "answer": "アルミニウム素材に5層の高耐久フッ素コーティングが施されています。",
+    "evidence": "アルミニウム（5層フッ素コート）",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "生産国はどこですか？",
+    "answer": "日本製です。",
+    "evidence": "生産国：日本製",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   },
+   {
+    "question": "蓋は付属していますか？",
+    "answer": "中の様子を確認しながら調理できるガラス蓋が付いています。",
+    "evidence": "ガラス蓋付きで中の様子を確認しながら調理できます",
+    "confidence": 1.0,
+    "evidence_match": 1.0,
+    "score": 1.0,
+    "status": "auto_approved"
+   }
+  ],
+  "product_highlights": [
+   "深さ7cmの深型設計で炒める・煮る・揚げ焼きまで1台でこなせる",
+   "5層の高耐久コーティングで長く使え、食洗機にも対応",
+   "中の調理の様子を確認できるガラス蓋付き",
+   "IH対応かつ安心の日本製"
+  ],
+  "product_details": [
+   {
+    "section": "基本仕様",
+    "attribute": "カラー",
+    "value": "ネイビー"
+   },
+   {
+    "section": "内容量・サイズ",
+    "attribute": "直径・口径",
+    "value": "28cm"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "食洗機対応",
+    "value": "対応"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "IH対応",
+    "value": "対応"
+   },
+   {
+    "section": "基本仕様",
+    "attribute": "素材",
+    "value": "アルミニウム(5層フッ素コート)"
+   },
+   {
+    "section": "食品表示・保存",
+    "attribute": "産地・原産国",
+    "value": "日本製"
+   },
+   {
+    "section": "機能・特長",
+    "attribute": "搭載機能",
+    "value": "IH対応 / 日本製 / 食洗機対応"
+   }
+  ],
+  "related_products": [
+   {
+    "relationship_type": "similar_to",
+    "identifier_type": "id",
+    "identifier": "4929021288920",
+    "title": "Cymbal ベーシック 冷凍・レンジ対応保存容器 700ml×3個"
+   },
+   {
+    "relationship_type": "similar_to",
+    "identifier_type": "id",
+    "identifier": "4938749288693",
+    "title": "Cymbal セレクト 銅製卵焼き器 関東型 15×18cm"
+   }
+  ],
+  "popularity_rank": 88.0,
+  "document_link": "",
+  "model": "gemini-3.8-flash",
+  "job_id": "online-20261111_001308",
+  "updated_at": "2026-11-11T00:13:31.773459+00:00",
+  "variant_option": "サイズ:28cm,カラー:ネイビー",
+  "question_and_answer": "\"IHや食洗機には対応していますか？\":\"IH対応および食洗機対応です。\", \"フライパンの深さはどれくらいですか？\":\"深さ7cmの深型設計となっています。\", \"どのような素材やコーティングが使われていますか？\":\"アルミニウム素材に5層の高耐久フッ素コーティングが施されています。\", \"生産国はどこですか？\":\"日本製です。\", \"蓋は付属していますか？\":\"中の様子を確認しながら調理できるガラス蓋が付いています。\"",
+  "product_highlight": "\"深さ7cmの深型設計で炒める・煮る・揚げ焼きまで1台でこなせる\", \"5層の高耐久コーティングで長く使え、食洗機にも対応\", \"中の調理の様子を確認できるガラス蓋付き\", \"IH対応かつ安心の日本製\"",
+  "product_detail": "基本仕様:カラー:\"ネイビー\", 内容量・サイズ:直径・口径:\"28cm\", 基本仕様:食洗機対応:\"対応\", 基本仕様:IH対応:\"対応\", 基本仕様:素材:\"アルミニウム(5層フッ素コート)\", 食品表示・保存:産地・原産国:\"日本製\", 機能・特長:搭載機能:\"IH対応 / 日本製 / 食洗機対応\"",
+  "related_product": "similar_to:id:4929021288920,similar_to:id:4938749288693"
+ },
+ "status": "needs_review",
+ "fill_before": 0.25,
+ "fill_after": 0.5
+}

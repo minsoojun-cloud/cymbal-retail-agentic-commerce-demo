@@ -1,0 +1,267 @@
+[
+  {
+    "coupon_id": "CP-WINTER-01",
+    "customer_id": null,
+    "store_id": null,
+    "title": "かぜ・乾燥対策 応援クーポン",
+    "description": "冷却シート・マスク・のどケア用品が10%OFF",
+    "discount_type": "percent",
+    "discount_value": 10,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > 衛生・救急用品 > 冷却シート",
+        "ビューティー・パーソナルケア > 衛生・救急用品 > 子ども用冷却シート",
+        "日用品・キッチン消耗品 > 衛生用品 > マスク",
+        "日用品・キッチン消耗品 > 衛生用品 > マスク（子ども用）",
+        "医薬品・ヘルスケア > のど・せき > 薬用のどドロップ"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "冬のかぜ・乾燥対策シーズン",
+    "color": "#1a73e8"
+  },
+  {
+    "coupon_id": "CP-WINTER-02",
+    "customer_id": null,
+    "store_id": null,
+    "title": "保湿ケア 2点以上で15%OFF",
+    "description": "ハンドクリーム・リップ・ボディクリームを2点以上お買い上げで15%OFF",
+    "discount_type": "percent",
+    "discount_value": 15,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > ボディケア > ハンドクリーム",
+        "ビューティー・パーソナルケア > スキンケア > リップケア",
+        "ビューティー・パーソナルケア > ボディケア > ボディクリーム",
+        "ビューティー・パーソナルケア > ボディケア > かかとクリーム"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "空気が乾燥する季節に",
+    "color": "#e91e63"
+  },
+  {
+    "coupon_id": "CP-DRINK-01",
+    "customer_id": null,
+    "store_id": null,
+    "title": "経口補水液・スポーツドリンク 50円引き",
+    "description": "対象の経口補水液・スポーツドリンク1本につき50円引き",
+    "discount_type": "yen",
+    "discount_value": 50,
+    "target": {
+      "categories": [
+        "飲料・水 > スポーツドリンク"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-11-30",
+    "reason": "発熱時の水分補給の備えに",
+    "color": "#00acc1"
+  },
+  {
+    "coupon_id": "CP-S01-01",
+    "customer_id": null,
+    "store_id": "S01",
+    "title": "川崎駅前店 夜トクポイント",
+    "description": "19時以降のお買い物でポイント2倍",
+    "discount_type": "points",
+    "discount_value": 2,
+    "target": {
+      "categories": [],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "通勤帰りのお買い物に",
+    "color": "#f9ab00"
+  },
+  {
+    "coupon_id": "CP-S02-01",
+    "customer_id": null,
+    "store_id": "S02",
+    "title": "武蔵小杉店 冷凍食品 20%OFF",
+    "description": "冷凍食品・アイスが全品20%OFF（武蔵小杉店限定）",
+    "discount_type": "percent",
+    "discount_value": 20,
+    "target": {
+      "categories": [
+        "冷凍食品・アイス"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-11-30",
+    "reason": "食品もそろう武蔵小杉店限定",
+    "color": "#34a853"
+  },
+  {
+    "coupon_id": "CP-S03-01",
+    "customer_id": null,
+    "store_id": "S03",
+    "title": "渋谷店 スキンケア 10%OFF",
+    "description": "スキンケア全品10%OFF（渋谷店限定）",
+    "discount_type": "percent",
+    "discount_value": 10,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > スキンケア"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "ビューティー旗艦店限定",
+    "color": "#ea4335"
+  },
+  {
+    "coupon_id": "CP-CR0001-01",
+    "customer_id": "CR-0001",
+    "store_id": null,
+    "title": "お子さまのかぜ対策 100円引き",
+    "description": "子ども用冷却シート・子ども用マスク・キッズ飲料が100円引き（1,000円以上）",
+    "discount_type": "yen",
+    "discount_value": 100,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > 衛生・救急用品 > 子ども用冷却シート",
+        "日用品・キッチン消耗品 > 衛生用品 > マスク（子ども用）",
+        "ベビー・キッズ食品 > キッズ飲料"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "お子さま（蓮くん・陽菜ちゃん）のかぜ・発熱シーズンの備えに",
+    "color": "#ff7043"
+  },
+  {
+    "coupon_id": "CP-CR0001-02",
+    "customer_id": "CR-0001",
+    "store_id": null,
+    "title": "体温計・救急用品 ポイント3倍",
+    "description": "体温計・絆創膏など衛生・救急用品がポイント3倍",
+    "discount_type": "points",
+    "discount_value": 3,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > 衛生・救急用品"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "ご家族の体調管理に",
+    "color": "#7e57c2"
+  },
+  {
+    "coupon_id": "CP-CR0002-01",
+    "customer_id": "CR-0002",
+    "store_id": null,
+    "title": "湿布・外用薬 15%OFF",
+    "description": "温湿布・冷湿布・消炎鎮痛テープが15%OFF",
+    "discount_type": "percent",
+    "discount_value": 15,
+    "target": {
+      "categories": [
+        "医薬品・ヘルスケア > 外用薬・湿布"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "よく購入される湿布・外用薬",
+    "color": "#1e88e5"
+  },
+  {
+    "coupon_id": "CP-CR0002-02",
+    "customer_id": "CR-0002",
+    "store_id": null,
+    "title": "サポーター・健康グッズ 200円引き",
+    "description": "ひざ・腰サポーター、血圧計など健康グッズが200円引き（1,500円以上）",
+    "discount_type": "yen",
+    "discount_value": 200,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > 健康グッズ"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "毎日の散歩とひざのケアに",
+    "color": "#43a047"
+  },
+  {
+    "coupon_id": "CP-CR0002-03",
+    "customer_id": "CR-0002",
+    "store_id": null,
+    "title": "健康茶・青汁 ポイント3倍",
+    "description": "健康茶・青汁がポイント3倍",
+    "discount_type": "points",
+    "discount_value": 3,
+    "target": {
+      "categories": [
+        "飲料・水 > 健康茶・青汁"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-11-30",
+    "reason": "定期的にご購入の健康茶",
+    "color": "#8d6e63"
+  },
+  {
+    "coupon_id": "CP-CR0003-01",
+    "customer_id": "CR-0003",
+    "store_id": null,
+    "title": "敏感肌スキンケア 15%OFF",
+    "description": "敏感肌用の化粧水・乳液・クリーム・洗顔が15%OFF",
+    "discount_type": "percent",
+    "discount_value": 15,
+    "target": {
+      "categories": [],
+      "product_ids": [
+        "4902406378140",
+        "4908903962202",
+        "4920484522286",
+        "4924573170426",
+        "4933131063124",
+        "4933156210992"
+      ]
+    },
+    "valid_until": "2026-12-15",
+    "reason": "よく購入される低刺激スキンケア",
+    "color": "#d81b60"
+  },
+  {
+    "coupon_id": "CP-CR0003-02",
+    "customer_id": "CR-0003",
+    "store_id": null,
+    "title": "目薬・アイケア 100円引き",
+    "description": "目薬・ホットアイマスクが100円引き",
+    "discount_type": "yen",
+    "discount_value": 100,
+    "target": {
+      "categories": [
+        "医薬品・ヘルスケア > 目薬",
+        "ビューティー・パーソナルケア > 健康グッズ > ホットアイマスク"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-12-15",
+    "reason": "よく購入されるアイケア用品",
+    "color": "#3949ab"
+  },
+  {
+    "coupon_id": "CP-CR0003-03",
+    "customer_id": "CR-0003",
+    "store_id": "S03",
+    "title": "渋谷店 フェイスマスク 2点で20%OFF",
+    "description": "フェイスマスクを2点以上で20%OFF（渋谷店）",
+    "discount_type": "percent",
+    "discount_value": 20,
+    "target": {
+      "categories": [
+        "ビューティー・パーソナルケア > スキンケア > フェイスマスク"
+      ],
+      "product_ids": []
+    },
+    "valid_until": "2026-11-30",
+    "reason": "乾燥する季節のスペシャルケアに",
+    "color": "#ab47bc"
+  }
+]
