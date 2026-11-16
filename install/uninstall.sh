@@ -59,6 +59,8 @@ SERVICES=(
   "${STORE_APP_SERVICE}"
   "${STORE_STAFF_SERVICE}"
   "${ENRICH_SERVICE}"
+  "${FLYER_STUDIO_SERVICE}"
+  "${SPEC_BANNER_SERVICE}"
   "${ADK_AGENT_SERVICE}"
   "${MCP_SERVICE}"
 )
@@ -80,6 +82,8 @@ if [[ "${PURGE_DATA}" -eq 1 ]]; then
   printf "  - GCS バケット          : gs://%s\n" "${CATALOG_BUCKET}"
   printf "  - GCS バケット          : gs://%s\n" "${STORE_NAVI_BUCKET}"
   printf "  - GCS バケット          : gs://%s\n" "${ENRICH_IMAGE_BUCKET}"
+  printf "  - GCS バケット          : gs://%s\n" "${FLYERS_BUCKET}"
+  printf "  - GCS バケット          : gs://%s\n" "${SPEC_BANNER_BUCKET}"
 fi
 
 if [[ "${DELETE_SA}" -eq 1 ]]; then
@@ -120,7 +124,7 @@ if [[ "${PURGE_DATA}" -eq 1 ]]; then
   done
 
   log_info "Cloud Storage バケットを削除しています..."
-  for bkt in "${CATALOG_BUCKET}" "${STORE_NAVI_BUCKET}" "${ENRICH_IMAGE_BUCKET}"; do
+  for bkt in "${CATALOG_BUCKET}" "${STORE_NAVI_BUCKET}" "${ENRICH_IMAGE_BUCKET}" "${FLYERS_BUCKET}" "${SPEC_BANNER_BUCKET}"; do
     if gcloud storage buckets describe "gs://${bkt}" --project "${PROJECT_ID}" >/dev/null 2>&1; then
       gcloud storage rm --recursive "gs://${bkt}" --project "${PROJECT_ID}" --quiet
       log_ok "GCS バケット削除完了: gs://${bkt}"

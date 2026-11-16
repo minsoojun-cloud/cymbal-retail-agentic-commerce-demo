@@ -1,0 +1,32 @@
+[
+  {
+    "name": "origin_label",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "unit_label",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pack_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "price_per_100g",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "flyer_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "product_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }
+]

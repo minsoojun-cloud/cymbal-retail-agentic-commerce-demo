@@ -2,11 +2,11 @@
 
 **Cymbal Retail（シンバル・リテール）エージェンティック・コマース デモ**は、Google Cloud の **Vertex AI Search for Commerce (Retail API)**、**Agent Development Kit (ADK)**、**Model Context Protocol (MCP)**、および最新の **Gemini モデル**を組み合わせた総合小売・ネットスーパー・実店舗連携・商品マスタ高度化のリファレンス実装パッケージです。
 
-任意の Google Cloud プロジェクトに対して、アプリケーション一式（Cloud Run 6 サービス）と検証済みデモデータ（商品カタログ 21,534 件・AI 生成商品画像 4,100 枚超・店舗レイアウト・エンリッチメント結果）を再現性高くインストールし、提案先のお客様に合わせて自由にカスタマイズできます。
+任意の Google Cloud プロジェクトに対して、アプリケーション一式（Cloud Run 8 サービス: 公開 Web 6 + 内部バックエンド 2）と検証済みデモデータ（商品カタログ 21,534 件・AI 生成商品画像 4,100 枚超・店舗レイアウト・エンリッチメント結果・チラシ/機能表シード）を再現性高くインストールし、提案先のお客様に合わせて自由にカスタマイズできます。
 
 ---
 
-## デモを構成する 4 つのアプリケーションと 2 つのバックエンド
+## デモを構成する 6 つのアプリケーションと 2 つのバックエンド
 
 | 種別 | サービス名（既定） | ディレクトリ | 主なデモ体験 |
 |---|---|---|---|
@@ -14,6 +14,8 @@
 | 公開 Web | `cymbal-store-app` | `store-navi/` (`APP_MODE=customer`) | **店舗ナビ（お客様向け）**: 来店店舗のリアルタイム在庫検索、フロアマップ上の棚位置ピン表示・最短お買い物ルート案内、店内 AIコンシェルジュ、パーソナルクーポン |
 | 公開 Web | `cymbal-store-staff` | `store-navi/` (`APP_MODE=staff`) | **店舗ナビ（スタッフ向け）**: 売場写真を Gemini Vision で解析してゴンドラ番号・段・商品を自動認識しワンタップで棚位置登録、全店横断在庫照会・在庫数更新、フロアマップ棚番管理 (`/admin`) |
 | 公開 Web | `cymbal-data-enrichment` | `data-enrichment/` | **商品情報エンリッチメント スタジオ**: レガシー商品マスタ・帳票 PDF/Excel/ラベル画像からの属性自動抽出、3 段階品質ゲート（自動承認 / 要レビュー / 却下）、GMC 会話型コマースフィード生成、季節シーン画像生成、Gemini モデル別トークン・コスト試算 |
+| 公開 Web | `cymbal-flyer-studio` | `flyer-studio/` | **チラシ作成スタジオ**: AI による特売チラシ自動レイアウト・価格相場チェック・承認アーカイブ・PDF/JPEG 出力 |
+| 公開 Web | `cymbal-spec-banner` | `spec-banner/` | **機能表・POP 自動生成スタジオ**: Cymbal Retail ブランドの店頭ディスプレイ機能表・3D ドア図入り POP の作成・Excel 取込・AI スペック補完・PDF/JPEG 出力 |
 | 内部 API | `cymbal-adk-agent` | `shared/adk_agent/` | **ADK AIコンシェルジュ**: Google ADK + 最新 Gemini モデルによるマルチターン接客・ツールオーケストレーション（IAM 認証・内部公開） |
 | 内部 API | `cymbal-commerce-mcp` | `shared/mcp_server/` | **Commerce MCP サーバー**: Retail API 検索・顧客プロフィール・購買履歴・夕食セット構築を標準 MCP ツールとして提供（IAM 認証・内部公開） |
 

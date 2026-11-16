@@ -1,0 +1,9 @@
+.venv/
+web/node_modules/
+web/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.db
+data/banners/
+.git/

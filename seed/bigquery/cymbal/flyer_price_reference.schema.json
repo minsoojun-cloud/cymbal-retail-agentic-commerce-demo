@@ -1,0 +1,27 @@
+[
+  {
+    "name": "observed_price",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "unit",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "item_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "source_record",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "category",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

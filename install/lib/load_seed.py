@@ -31,7 +31,6 @@ if str(HERE) not in sys.path:
 import rewrite_urls  # noqa: E402
 
 EXCLUDED_TABLE_PREFIXES = (
-    "flyer_",
     "products_backup_",
     "batch_requests_",
     "batch_predictions_",
@@ -153,6 +152,10 @@ def build_string_rewriter(cfg: dict[str, str]):
     enrich_bucket = cfg["ENRICH_IMAGE_BUCKET"]
     navi_bucket = cfg["STORE_NAVI_BUCKET"]
     cat_bucket = cfg["CATALOG_BUCKET"]
+    flyers_bucket = cfg["FLYERS_BUCKET"]
+    spec_bucket = cfg["SPEC_BANNER_BUCKET"]
+    flyer_url = cfg["FLYER_STUDIO_URL"].rstrip("/")
+    spec_url = cfg["SPEC_BANNER_URL"].rstrip("/")
     project_id = cfg["PROJECT_ID"]
     project_number = cfg.get("PROJECT_NUMBER", "")
     bq_ds = cfg["BQ_DATASET"]
@@ -168,11 +171,22 @@ def build_string_rewriter(cfg: dict[str, str]):
         (re.compile(r"__ENRICH_IMAGE_BUCKET__"), enrich_bucket),
         (re.compile(r"__STORE_NAVI_BUCKET__"), navi_bucket),
         (re.compile(r"__CATALOG_BUCKET__"), cat_bucket),
+        (re.compile(r"__FLYERS_BUCKET__"), flyers_bucket),
         # GCS バケット名 (gs:// 有無両方に対応、任意の元プロジェクト名を置換)
         (re.compile(r"\bproducts_images_[a-z][a-z0-9-]{4,29}\b"), enrich_bucket),
         (re.compile(r"\b[a-z][a-z0-9-]{4,29}-store-navi\b"), navi_bucket),
         (re.compile(r"\b[a-z][a-z0-9-]{4,29}-catalog\b"), cat_bucket),
+        (re.compile(r"\b[a-z][a-z0-9-]{4,29}-flyers\b"), flyers_bucket),
+        (re.compile(r"\b[a-z][a-z0-9-]{4,29}-spec-banner\b"), spec_bucket),
         # Cloud Run URL (プロジェクト番号形式 または ハッシュ形式)
+        (
+            re.compile(r"https?://cymbal-flyer-studio-(?:[0-9]{8,15}\.[a-z0-9-]+\.run\.app|[a-z0-9]{8,14}-[a-z0-9-]+\.a\.run\.app)"),
+            flyer_url,
+        ),
+        (
+            re.compile(r"https?://(?:cymbal|edion)-spec-banner-(?:[0-9]{8,15}\.[a-z0-9-]+\.run\.app|[a-z0-9]{8,14}-[a-z0-9-]+\.a\.run\.app)"),
+            spec_url,
+        ),
         (
             re.compile(r"https?://cymbal-data-enrichment-(?:[0-9]{8,15}\.[a-z0-9-]+\.run\.app|[a-z0-9]{8,14}-[a-z0-9-]+\.a\.run\.app)"),
             enrich_url,
@@ -238,7 +252,7 @@ def build_string_rewriter(cfg: dict[str, str]):
 def rewrite_seed_table_jsonl(src_file: Path, dst_jsonl: Path, rewriter) -> tuple[int, int]:
     """シード JSONL(.gz) を展開・URL/バケット置換して一時 JSONL に書き出します。"""
     opener = gzip.open if src_file.name.endswith(".gz") else open
-    triggers = ("http", "gs://", "projects/", ".cymbal", "store-navi", "products_images_", "-catalog", "__")
+    triggers = ("http", "gs://", "projects/", ".cymbal", "store-navi", "products_images_", "-catalog", "-flyers", "-spec-banner", "__")
     rows = 0
     rewrites = 0
     with opener(src_file, "rt", encoding="utf-8") as fin, dst_jsonl.open("w", encoding="utf-8") as fout:
@@ -362,6 +376,8 @@ def main(argv: list[str] | None = None) -> int:
     catalog_bucket = os.environ.get("CATALOG_BUCKET") or f"{project}-catalog"
     store_navi_bucket = os.environ.get("STORE_NAVI_BUCKET") or f"{project}-store-navi"
     enrich_image_bucket = os.environ.get("ENRICH_IMAGE_BUCKET") or f"products_images_{project}"
+    flyers_bucket = os.environ.get("FLYERS_BUCKET") or f"{project}-flyers"
+    spec_banner_bucket = os.environ.get("SPEC_BANNER_BUCKET") or f"{project}-spec-banner"
     online_store_url = os.environ.get("ONLINE_STORE_URL", "")
     if not online_store_url:
         print("エラー: ONLINE_STORE_URL が未設定です（common.sh 経由で実行してください）。", file=sys.stderr)
@@ -380,21 +396,26 @@ def main(argv: list[str] | None = None) -> int:
         "CATALOG_BUCKET": catalog_bucket,
         "STORE_NAVI_BUCKET": store_navi_bucket,
         "ENRICH_IMAGE_BUCKET": enrich_image_bucket,
+        "FLYERS_BUCKET": flyers_bucket,
+        "SPEC_BANNER_BUCKET": spec_banner_bucket,
         "ONLINE_STORE_URL": online_store_url,
         "ENRICH_URL": os.environ.get("ENRICH_URL", online_store_url),
         "STAFF_URL": os.environ.get("STAFF_URL", online_store_url),
         "CUSTOMER_URL": os.environ.get("CUSTOMER_URL", online_store_url),
         "ADK_AGENT_URL": os.environ.get("ADK_AGENT_URL", online_store_url),
         "MCP_URL": os.environ.get("MCP_URL", online_store_url),
+        "FLYER_STUDIO_URL": os.environ.get("FLYER_STUDIO_URL", online_store_url),
+        "SPEC_BANNER_URL": os.environ.get("SPEC_BANNER_URL", online_store_url),
     }
 
     # 1. GCS バケット作成 + シードファイルのアップロード
     if not args.skip_gcs:
         print("[1/3] Cloud Storage バケットの準備とシード画像のアップロードを実行しています...")
-        for bkt in (catalog_bucket, store_navi_bucket, enrich_image_bucket):
+        for bkt in (catalog_bucket, store_navi_bucket, enrich_image_bucket, flyers_bucket, spec_banner_bucket):
             ensure_gcs_bucket(project, bkt, region)
         upload_gcs_seed_dir(project, repo_root / "seed" / "gcs" / "store-navi", store_navi_bucket)
         upload_gcs_seed_dir(project, repo_root / "seed" / "gcs" / "enrichment-images", enrich_image_bucket)
+        upload_gcs_seed_dir(project, repo_root / "seed" / "gcs" / "flyers", flyers_bucket)
 
     if args.skip_bq:
         print("[完了] --skip-bq 指定のため BigQuery ロードをスキップしました。")

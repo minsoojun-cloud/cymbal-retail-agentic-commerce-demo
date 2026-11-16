@@ -1,0 +1,72 @@
+[
+  {
+    "name": "flyer_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "title",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "theme",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "target",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "template_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "period_from",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "period_to",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "item_count",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "created_by",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "approved_by",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "approved_at",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "gcs_prefix",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

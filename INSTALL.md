@@ -168,17 +168,17 @@ flowchart TD
   1. `shared/mcp_server/deploy.sh` により `cymbal-commerce-mcp` を `--no-allow-unauthenticated` でデプロイし、ランタイム SA に `roles/run.invoker` を付与。
   2. `shared/adk_agent/deploy.sh` により `cymbal-adk-agent` を `--no-allow-unauthenticated` でデプロイ（`MCP_URL` 連携）し、ランタイム SA に `roles/run.invoker` を付与。
 
-### ステップ 9: `70_apps` — ユーザー向け 4 アプリのデプロイ
+### ステップ 9: `70_apps` — ユーザー向け 6 アプリのデプロイ
 ```bash
 ./install/install.sh --steps 70_apps
 ```
-- **処理内容**: 4 つの Cloud Run サービス（`cymbal-site-adk`, `cymbal-store-app`, `cymbal-store-staff`, `cymbal-data-enrichment`）に相互リンク URL と自動検出された最新 Gemini モデルを注入して並列デプロイします。デプロイ後に実測 URL を確認し、予測 URL と差異がある場合は環境変数を自動更新します。
+- **処理内容**: 6 つの Cloud Run サービス（`cymbal-site-adk`, `cymbal-store-app`, `cymbal-store-staff`, `cymbal-data-enrichment`, `cymbal-flyer-studio`, `cymbal-spec-banner`）に相互リンク URL と自動検出された最新 Gemini モデルを注入して並列デプロイします。デプロイ後に実測 URL を確認し、予測 URL と差異がある場合は環境変数を自動更新します。
 
 ### ステップ 10: `80_public` — 公開アクセスの確認とコンソール案内
 ```bash
 ./install/install.sh --steps 80_public
 ```
-- **処理内容**: 4 つのフロントエンド URL に対する匿名アクセスを確認します。組織ポリシーにより `allUsers` がブロックされている場合は、ポリシーを一切変更せず、Cloud Console の「セキュリティ」タブから「パブリック アクセスを許可」を有効化する手順と、ID トークン / プロキシでの確認コマンドを表示します。
+- **処理内容**: 6 つのフロントエンド URL に対する匿名アクセスを確認します。組織ポリシーにより `allUsers` がブロックされている場合は、ポリシーを一切変更せず、Cloud Console の「セキュリティ」タブから「パブリック アクセスを許可」を有効化する手順と、ID トークン / プロキシでの確認コマンドを表示します。
 
 ### ステップ 11: `90_verify` — 総合スモークテスト
 ```bash

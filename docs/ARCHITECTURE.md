@@ -6,7 +6,7 @@
 
 ## 1. サービス構成とセキュリティ境界
 
-本デモは単一の Google Cloud プロジェクト上に **6 つの Cloud Run サービス**（公開 Web 4 サービス + IAM 保護された内部 API 2 サービス）を展開します。すべてのサービスは最小権限の専用サービスアカウント（既定: `cymbal-runtime@<PROJECT_ID>.iam.gserviceaccount.com`）で稼働します。
+本デモは単一の Google Cloud プロジェクト上に **8 つの Cloud Run サービス**（公開 Web 6 サービス + IAM 保護された内部 API 2 サービス）を展開します。すべてのサービスは最小権限の専用サービスアカウント（既定: `cymbal-runtime@<PROJECT_ID>.iam.gserviceaccount.com`）で稼働します。
 
 ```mermaid
 flowchart TB

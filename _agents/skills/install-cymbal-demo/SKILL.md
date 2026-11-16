@@ -57,7 +57,7 @@ description: Cymbal Retail エージェンティック・コマース デモ一�
 | 6 | `40_data` | GCS 3 バケット・BigQuery 2 データセット作成、URL/バケット置換付きシードデータ一括ロード |
 | 7 | `50_catalog_import` | 商品カタログ 21,534 件の Retail API FULL インポート + カスタム属性設定 + 検索候補登録 |
 | 8 | `60_backend` | `cymbal-commerce-mcp` → `cymbal-adk-agent` の非公開デプロイと内部 `run.invoker` 付与 |
-| 9 | `70_apps` | 4 つのフロントエンドアプリを並列デプロイし、実測 URL に基づき相互リンク環境変数を同期 |
+| 9 | `70_apps` | 6 つのフロントエンドアプリを並列デプロイし、実測 URL に基づき相互リンク環境変数を同期 |
 | 10 | `80_public` | 匿名公開アクセスの確認と、組織ポリシー制限時の Cloud Console 手順案内 |
 | 11 | `90_verify` | `tests/smoke_install.py` による全サービス・検索・推薦・ADK 会話・相互リンクの自動検証 |
 
@@ -70,11 +70,13 @@ Argolis や企業組織配下の GCP プロジェクトでは、組織ポリシ�
 - **絶対に行わないこと**: 組織ポリシーの変更・無効化、`--no-invoker-iam-check` の使用、認証バイパス。
 - **正しい対応**:
   1. `80_public` および `90_verify` は公開設定がブロックされていてもエラー終了せず、自動で ID トークン認証に切り替えて動作確認を完了させます。
-  2. ユーザーに対して、ブラウザから認証なしで開きたい場合は **Google Cloud Console → Cloud Run → 対象サービス（下記4件） → 「セキュリティ」タブ → 「パブリック アクセスを許可（未認証の呼び出しを許可）」** を選択して保存するよう案内してください:
+  2. ユーザーに対して、ブラウザから認証なしで開きたい場合は **Google Cloud Console → Cloud Run → 対象サービス（下記6件） → 「セキュリティ」タブ → 「パブリック アクセスを許可（未認証の呼び出しを許可）」** を選択して保存するよう案内してください:
      - `${SERVICE_PREFIX}-site-adk`（ADK オンラインストア）
      - `${SERVICE_PREFIX}-store-app`（店舗ナビ お客様向け）
      - `${SERVICE_PREFIX}-store-staff`（店舗ナビ スタッフ向け）
      - `${SERVICE_PREFIX}-data-enrichment`（商品情報エンリッチメント スタジオ）
+     - `${SERVICE_PREFIX}-flyer-studio`（チラシ作成スタジオ）
+     - `${SERVICE_PREFIX}-spec-banner`（機能表・POP自動生成スタジオ）
   3. コンソール設定前でも手元のブラウザで今すぐ確認したい場合は、`gcloud run services proxy <サービス名> --project=<PROJECT_ID> --region=<REGION> --port=8080` を案内してください。
 
 ---
@@ -86,6 +88,6 @@ Argolis や企業組織配下の GCP プロジェクトでは、組織ポリシ�
    python3 tests/smoke_install.py --config install/config.env
    ```
 2. 全チェック項目が `PASS` であることを確認し、以下の情報を日本語の表形式でユーザーに報告してください:
-   - デプロイされた 4 つのフロントエンド URL と 2 つの内部バックエンド URL
+   - デプロイされた 6 つのフロントエンド URL と 2 つの内部バックエンド URL
    - 自動選択された Gemini モデル（`GEMINI_MODEL`, `AGENT_MODEL`, `ENRICH_GEMINI_MODEL`, `IMAGE_MODEL`）
    - 公開アクセス状態（公開済み / Cloud Console での「パブリック アクセスを許可」案内）

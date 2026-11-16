@@ -14,15 +14,22 @@ PUBLIC_SERVICES=(
   "${STORE_APP_SERVICE}|${CUSTOMER_URL}"
   "${STORE_STAFF_SERVICE}|${STAFF_URL}"
   "${ENRICH_SERVICE}|${ENRICH_URL}"
+  "${FLYER_STUDIO_SERVICE}|${FLYER_STUDIO_URL}"
+  "${SPEC_BANNER_SERVICE}|${SPEC_BANNER_URL}"
 )
 
 check_anon_status() {
   local url="$1"
-  curl -sS -o /dev/null -w "%{http_code}" --max-time 15 "${url}/api/health" 2>/dev/null || echo "000"
+  local code
+  code="$(curl -sS -o /dev/null -w "%{http_code}" --max-time 15 "${url}/api/health" 2>/dev/null || echo "000")"
+  if [[ "${code}" == "404" ]]; then
+    code="$(curl -sS -o /dev/null -w "%{http_code}" --max-time 15 "${url}/" 2>/dev/null || echo "000")"
+  fi
+  echo "${code}"
 }
 
 blocked_services=()
-log_info "ユーザー向け 4 サービスの匿名 HTTP アクセス状態を確認しています..."
+log_info "ユーザー向け 6 サービスの匿名 HTTP アクセス状態を確認しています..."
 
 for entry in "${PUBLIC_SERVICES[@]}"; do
   svc="${entry%%|*}"

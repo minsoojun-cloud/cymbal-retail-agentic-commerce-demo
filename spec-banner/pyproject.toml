@@ -1,0 +1,37 @@
+[project]
+name = "cymbal-spec-banner"
+version = "0.1.0"
+description = "Cymbal Retail VMD 機能表・POP自動生成スタジオ"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.0",
+    "google-cloud-storage>=2.18.0",
+    "google-genai>=1.0.0",
+    "openpyxl>=3.1.5",
+    "pillow>=10.4.0",
+    "psycopg[binary]>=3.2.0",
+    "pydantic>=2.9.0",
+    "python-multipart>=0.0.12",
+    "reportlab>=4.2.0",
+    "sqlalchemy>=2.0.35",
+    "uvicorn[standard]>=0.32.0",
+    "httpx>=0.27.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/edion_banner"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.27.0",
+    "pytest>=8.3.0",
+]

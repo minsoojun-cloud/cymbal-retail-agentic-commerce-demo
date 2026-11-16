@@ -75,6 +75,8 @@ printf "│ BigQuery データセット      │ %-47s │\n" "${BQ_DATASET}, ${
 printf "│ カタログ GCS バケット      │ %-47s │\n" "gs://${CATALOG_BUCKET}"
 printf "│ 店舗ナビ GCS バケット      │ %-47s │\n" "gs://${STORE_NAVI_BUCKET}"
 printf "│ 生成画像 GCS バケット      │ %-47s │\n" "gs://${ENRICH_IMAGE_BUCKET}"
+printf "│ チラシ GCS バケット        │ %-47s │\n" "gs://${FLYERS_BUCKET}"
+printf "│ 機能表バナー GCS バケット  │ %-47s │\n" "gs://${SPEC_BANNER_BUCKET}"
 printf "│ 音声対話 (VOICE_ENABLED)   │ %-47s │\n" "${VOICE_ENABLED}"
 printf "│ ブランド名 (BRAND_NAME)    │ %-47s │\n" "${BRAND_NAME}"
 printf "├────────────────────────────┴─────────────────────────────────────────────────┤\n"
@@ -85,6 +87,8 @@ printf "│   [公開]   %-24s %s\n" "${ONLINE_STORE_SERVICE}" "${ONLINE_STORE_U
 printf "│   [公開]   %-24s %s\n" "${STORE_APP_SERVICE}" "${CUSTOMER_URL}"
 printf "│   [公開]   %-24s %s\n" "${STORE_STAFF_SERVICE}" "${STAFF_URL}"
 printf "│   [公開]   %-24s %s\n" "${ENRICH_SERVICE}" "${ENRICH_URL}"
+printf "│   [公開]   %-24s %s\n" "${FLYER_STUDIO_SERVICE}" "${FLYER_STUDIO_URL}"
+printf "│   [公開]   %-24s %s\n" "${SPEC_BANNER_SERVICE}" "${SPEC_BANNER_URL}"
 printf "└──────────────────────────────────────────────────────────────────────────────┘\n"
 
 log_ok "事前チェックが完了しました。"

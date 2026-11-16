@@ -137,13 +137,15 @@ def resolve_target_config(config_path: Path | None, cli_project: str, cli_region
         "STORE_APP_SERVICE": cfg.get("STORE_APP_SERVICE") or f"{prefix}-store-app",
         "STORE_STAFF_SERVICE": cfg.get("STORE_STAFF_SERVICE") or f"{prefix}-store-staff",
         "ENRICH_SERVICE": cfg.get("ENRICH_SERVICE") or f"{prefix}-data-enrichment",
+        "FLYER_STUDIO_SERVICE": cfg.get("FLYER_STUDIO_SERVICE") or f"{prefix}-flyer-studio",
+        "SPEC_BANNER_SERVICE": cfg.get("SPEC_BANNER_SERVICE") or f"{prefix}-spec-banner",
         "ADK_AGENT_SERVICE": cfg.get("ADK_AGENT_SERVICE") or f"{prefix}-adk-agent",
         "MCP_SERVICE": cfg.get("MCP_SERVICE") or f"{prefix}-commerce-mcp",
     }
 
     urls_state = parse_env_file(STATE_DIR / "urls.env")
     if urls_state.get("URLS_PROJECT_ID") == project and urls_state.get("URLS_REGION") == region:
-        for uk in ("ONLINE_STORE_URL", "CUSTOMER_URL", "STAFF_URL", "ENRICH_URL", "ADK_AGENT_URL", "MCP_URL"):
+        for uk in ("ONLINE_STORE_URL", "CUSTOMER_URL", "STAFF_URL", "ENRICH_URL", "FLYER_STUDIO_URL", "SPEC_BANNER_URL", "ADK_AGENT_URL", "MCP_URL"):
             cfg.setdefault(uk, urls_state.get(uk, ""))
 
     online_url = resolve_service_url(
@@ -157,6 +159,12 @@ def resolve_target_config(config_path: Path | None, cli_project: str, cli_region
     )
     enrich_url = resolve_service_url(
         project, region, services["ENRICH_SERVICE"], cfg.get("ENRICH_URL") or f"https://{services['ENRICH_SERVICE']}-{suffix}"
+    )
+    flyer_url = resolve_service_url(
+        project, region, services["FLYER_STUDIO_SERVICE"], cfg.get("FLYER_STUDIO_URL") or cfg.get("FLYER_URL") or f"https://{services['FLYER_STUDIO_SERVICE']}-{suffix}"
+    )
+    spec_banner_url = resolve_service_url(
+        project, region, services["SPEC_BANNER_SERVICE"], cfg.get("SPEC_BANNER_URL") or f"https://{services['SPEC_BANNER_SERVICE']}-{suffix}"
     )
     adk_url = resolve_service_url(
         project, region, services["ADK_AGENT_SERVICE"], cfg.get("ADK_AGENT_URL") or f"https://{services['ADK_AGENT_SERVICE']}-{suffix}"
@@ -174,6 +182,8 @@ def resolve_target_config(config_path: Path | None, cli_project: str, cli_region
         "CUSTOMER_URL": customer_url.rstrip("/"),
         "STAFF_URL": staff_url.rstrip("/"),
         "ENRICH_URL": enrich_url.rstrip("/"),
+        "FLYER_STUDIO_URL": flyer_url.rstrip("/"),
+        "SPEC_BANNER_URL": spec_banner_url.rstrip("/"),
         "ADK_AGENT_URL": adk_url.rstrip("/"),
         "MCP_URL": mcp_url.rstrip("/"),
     }
@@ -317,11 +327,15 @@ def run_all_checks(cfg: dict[str, str], client: HttpClient, skip_agent: bool = F
     customer_url = cfg["CUSTOMER_URL"]
     staff_url = cfg["STAFF_URL"]
     enrich_url = cfg["ENRICH_URL"]
+    flyer_url = cfg["FLYER_STUDIO_URL"]
+    spec_banner_url = cfg["SPEC_BANNER_URL"]
     allowed_urls = {
         online_url,
         customer_url,
         staff_url,
         enrich_url,
+        flyer_url,
+        spec_banner_url,
         cfg["ADK_AGENT_URL"],
         cfg["MCP_URL"],
     }
@@ -580,6 +594,44 @@ def run_all_checks(cfg: dict[str, str], client: HttpClient, skip_agent: bool = F
         ok, detail = False, f"HTTP {st} ({exc})"
     results.append(CheckResult(svc_en, "コスト試算 API (/api/cost/models)", ok, detail, ms))
 
+    # ==========================================================================
+    # 5. チラシ作成スタジオ (cymbal-flyer-studio)
+    # ==========================================================================
+    svc_fl = "flyer-studio"
+
+    st, body, ms = client.request(svc_fl, "GET", f"{flyer_url}/api/health")
+    ok = st == 200 and '"ok"' in body
+    results.append(CheckResult(svc_fl, "ヘルスチェック (/api/health)", ok, f"HTTP {st}", ms))
+
+    st, body, ms = client.request(svc_fl, "GET", f"{flyer_url}/api/templates")
+    try:
+        tpl = json.loads(body) if st == 200 else {}
+        t_cnt = len(tpl.get("templates") or [])
+        ok = st == 200 and t_cnt > 0
+        detail = f"テンプレート数={t_cnt}"
+    except Exception as exc:  # noqa: BLE001
+        ok, detail = False, f"HTTP {st} ({exc})"
+    results.append(CheckResult(svc_fl, "テンプレート一覧 (/api/templates)", ok, detail, ms))
+
+    # ==========================================================================
+    # 6. 機能表・POP自動生成スタジオ (cymbal-spec-banner)
+    # ==========================================================================
+    svc_sb = "spec-banner"
+
+    st, body, ms = client.request(svc_sb, "GET", f"{spec_banner_url}/api/health")
+    ok = st == 200 and '"ok"' in body
+    results.append(CheckResult(svc_sb, "ヘルスチェック (/api/health)", ok, f"HTTP {st}", ms))
+
+    st, body, ms = client.request(svc_sb, "GET", f"{spec_banner_url}/api/products")
+    try:
+        sp = json.loads(body) if st == 200 else {}
+        items = sp.get("products") or sp.get("items") or (sp if isinstance(sp, list) else [])
+        ok = st == 200 and len(items) > 0
+        detail = f"シード商品数={len(items)}"
+    except Exception as exc:  # noqa: BLE001
+        ok, detail = False, f"HTTP {st} ({exc})"
+    results.append(CheckResult(svc_sb, "シード商品一覧 (/api/products)", ok, detail, ms))
+
     return results
 
 
@@ -609,8 +661,10 @@ def print_summary(cfg: dict[str, str], results: list[CheckResult], client: HttpC
     print(f"  2. 店舗ナビ（お客様向けアプリ）   : {cfg['CUSTOMER_URL']}")
     print(f"  3. 店舗ナビ（スタッフ向けアプリ） : {cfg['STAFF_URL']}")
     print(f"  4. 商品情報エンリッチメント       : {cfg['ENRICH_URL']}")
-    print(f"  5. ADK AIコンシェルジュ (内部)    : {cfg['ADK_AGENT_URL']}")
-    print(f"  6. Commerce MCP サーバー (内部)   : {cfg['MCP_URL']}")
+    print(f"  5. チラシ作成スタジオ             : {cfg['FLYER_STUDIO_URL']}")
+    print(f"  6. 機能表・POP自動生成スタジオ    : {cfg['SPEC_BANNER_URL']}")
+    print(f"  7. ADK AIコンシェルジュ (内部)    : {cfg['ADK_AGENT_URL']}")
+    print(f"  8. Commerce MCP サーバー (内部)   : {cfg['MCP_URL']}")
     print("=" * 96)
 
 
@@ -640,7 +694,7 @@ def main(argv: list[str] | None = None) -> int:
         out = {
             "project_id": cfg["PROJECT_ID"],
             "region": cfg["REGION"],
-            "urls": {k: cfg[k] for k in ("ONLINE_STORE_URL", "CUSTOMER_URL", "STAFF_URL", "ENRICH_URL", "ADK_AGENT_URL", "MCP_URL")},
+            "urls": {k: cfg[k] for k in ("ONLINE_STORE_URL", "CUSTOMER_URL", "STAFF_URL", "ENRICH_URL", "FLYER_STUDIO_URL", "SPEC_BANNER_URL", "ADK_AGENT_URL", "MCP_URL")},
             "auth_modes": client.auth_modes,
             "passed": all(r.passed for r in results),
             "results": [r.__dict__ for r in results],

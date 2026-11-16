@@ -60,6 +60,8 @@ flowchart TB
 | `online-store-adk/` | AI 検索・音声対話・夕食セット提案・カート〜配送追跡を備えた EC ストア (`cymbal-site-adk`) |
 | `store-navi/` | 単一コードベースから `APP_MODE=customer` (`cymbal-store-app`) と `APP_MODE=staff` (`cymbal-store-staff`) をデプロイする店舗アプリ |
 | `data-enrichment/` | Gemini による属性抽出・品質ゲート・GMC 出力・画像生成・コスト試算スタジオ (`cymbal-data-enrichment`) |
+| `flyer-studio/` | 特売チラシ自動レイアウト・承認・PDF/JPEG 出力スタジオ (`cymbal-flyer-studio`) |
+| `spec-banner/` | Cymbal Retail ブランドの店頭機能表・POP 自動生成スタジオ (`cymbal-spec-banner`) |
 | `seed/` | カタログ JSONL、BigQuery スナップショット (`jsonl.gz` + `schema.json`)、GCS 初期画像アセット |
 | `docs/` | 詳細ドキュメント (`ARCHITECTURE.md`, `CUSTOMIZE.md`, `DATA.md`, `TROUBLESHOOTING.md`) |
 

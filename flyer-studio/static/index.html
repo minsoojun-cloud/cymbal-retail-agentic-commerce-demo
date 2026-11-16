@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Cymbal Retail チラシ作成スタジオ</title>
+  <link rel="stylesheet" href="/static/css/flyer.css"/>
+</head>
+<body>
+  <header class="app-hdr">
+    <div class="app-hdr__left">
+      <a class="cymbal-logo-link" href="#editor" id="brand-home-link" aria-label="Cymbal Retail チラシ作成スタジオ">
+        <svg viewBox="0 0 196 40" width="158" height="32" aria-hidden="true">
+          <defs>
+            <linearGradient id="crg-hdr" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#4285f4"/>
+              <stop offset="1" stop-color="#1a5fd0"/>
+            </linearGradient>
+          </defs>
+          <g transform="translate(20 20)">
+            <circle r="17" fill="url(#crg-hdr)"/>
+            <circle r="11.5" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.6"/>
+            <circle r="6" fill="none" stroke="#fff" stroke-opacity=".85" stroke-width="1.6"/>
+            <circle r="2.2" fill="#fbbc04"/>
+          </g>
+          <text x="45" y="27.5" font-family="'Google Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4" fill="#202124">Cymbal</text>
+          <text x="125" y="27.5" font-family="'Google Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif" font-size="22" font-weight="400" letter-spacing="-0.2" fill="#5f6368">Retail</text>
+        </svg>
+      </a>
+      <span class="hdr-sep"></span>
+      <div>
+        <h1 class="app-title">チラシ作成スタジオ</h1>
+        <p class="app-subtitle">AI自動ピックアップ・高自由度コラージュ・PDF/JPEG出力・GCS保管</p>
+      </div>
+    </div>
+
+    <nav class="app-tabs" role="tablist" aria-label="メインナビゲーション">
+      <button type="button" class="tab-btn active" data-tab="editor" id="tab-btn-editor">
+        <span>📰 今週のチラシ作成・編集</span>
+      </button>
+      <button type="button" class="tab-btn" data-tab="templates" id="tab-btn-templates">
+        <span>📐 チラシテンプレート管理</span>
+      </button>
+      <button type="button" class="tab-btn" data-tab="archive" id="tab-btn-archive">
+        <span>🗂️ 過去のチラシ・GCS保管庫</span>
+      </button>
+    </nav>
+
+    <div class="app-hdr__right">
+      <div class="user-switcher" title="ログイン中の担当者（承認・作成者記録に使用）">
+        <span class="user-switcher__lbl">ログイン中：</span>
+        <select id="user-select" aria-label="ログインユーザー切替"></select>
+        <span class="user-role-badge" id="user-role-badge">店舗責任者</span>
+      </div>
+
+      <div class="xlink-group" aria-label="関連サイトリンク">
+        <a class="xlink-icon-only" id="store-link" href="{{STORE_URL}}" data-tooltip="ストアデモ（ADK）" title="ストアデモ（ADK）" aria-label="ストアデモ（ADK）" {{STORE_HIDDEN}}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4v2h16V4zm1 10v-2l-1-5H4l-1 5v2h1v6h10v-6h4v6h2v-6h1zm-9 4H6v-4h6v4z"/></svg>
+        </a>
+        <a class="xlink-icon-only" id="enrich-link" href="{{ENRICH_URL}}" data-tooltip="データエンリッチメント" title="データエンリッチメント" aria-label="データエンリッチメント" {{ENRICH_HIDDEN}}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 9l1.25-2.75L23 5l-2.75-1.25L19 1l-1.25 2.75L15 5l2.75 1.25L19 9zm-7.5.5L9 4 6.5 9.5 1 12l5.5 2.5L9 20l2.5-5.5L17 12l-5.5-2.5zM19 15l-1.25 2.75L15 19l2.75 1.25L19 23l1.25-2.75L23 19l-2.75-1.25L19 15z"/></svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <div class="toast-bar" id="toast-bar" hidden></div>
+
+  <!-- ========================================================================= -->
+  <!-- TAB 1: CHIRASHI EDITOR (3-Column Workspace)                               -->
+  <!-- ========================================================================= -->
+  <main class="workspace" id="view-editor">
+    <!-- Left Sidebar: Visual Template Selector Menu + Theme/Target/Community Controls -->
+    <aside class="panel panel--left">
+      <div class="panel__hdr">
+        <h2>1. テンプレート選択・テーマ設定</h2>
+      </div>
+      <div class="panel__body">
+        <!-- Prominent Visual Template Selector Menu (Request #1) -->
+        <div class="tpl-picker-menu">
+          <div class="tpl-picker-menu__hdr">
+            <label for="sel-template">📐 使用するチラシテンプレートを選択</label>
+            <button type="button" class="btn btn--sm btn--outline" id="btn-open-tpl-studio" title="テンプレート管理画面で枠サイズ・形態・背景画像をカスタマイズ">
+              テンプレ編集 ▶
+            </button>
+          </div>
+          <select id="sel-template" style="margin-bottom:6px"></select>
+          <div class="tpl-visual-cards" id="editor-template-cards"></div>
+        </div>
+
+        <div class="form-group" style="margin-top:10px">
+          <label for="inp-theme">企画テーマ</label>
+          <input type="text" id="inp-theme" value="秋の味覚フェア" placeholder="例：秋の味覚フェア、旬の野菜特集"/>
+          <div class="chip-row" id="theme-presets">
+            <button type="button" class="chip" data-theme="秋の味覚フェア" data-target="40代主婦・4人家族">秋の味覚フェア</button>
+            <button type="button" class="chip" data-theme="旬の野菜特集" data-target="40代主婦・4人家族">旬の野菜特集</button>
+            <button type="button" class="chip" data-theme="あったか鍋特集" data-target="40代主婦・4人家族">あったか鍋特集</button>
+            <button type="button" class="chip" data-theme="家計応援！大均一祭" data-target="40代主婦・4人家族">家計応援・均一祭</button>
+            <button type="button" class="chip" data-theme="新米＆秋鮭のごちそう特集" data-target="シニア・少人数世帯">新米＆秋鮭特集</button>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="inp-target">ターゲット層（地域客層）</label>
+          <input type="text" id="inp-target" value="40代主婦・4人家族" placeholder="例：40代主婦・4人家族、シニア・少人数世帯"/>
+          <div class="chip-row" id="target-presets">
+            <button type="button" class="chip" data-target-only="40代主婦・4人家族">40代主婦・4人家族</button>
+            <button type="button" class="chip" data-target-only="シニア・少人数世帯">シニア・少人数世帯</button>
+            <button type="button" class="chip" data-target-only="共働き・時短ニーズ世帯">共働き・時短</button>
+            <button type="button" class="chip" data-target-only="単身・一人暮らし">単身世帯</button>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="inp-period-from">売出開始日</label>
+            <input type="date" id="inp-period-from" value="2026-11-11"/>
+          </div>
+          <div class="form-group">
+            <label for="inp-period-to">売出終了日</label>
+            <input type="date" id="inp-period-to" value="2026-11-17"/>
+          </div>
+        </div>
+
+        <div class="form-row-3">
+          <div class="form-group">
+            <label for="inp-item-count">掲載商品数</label>
+            <input type="number" id="inp-item-count" value="20" min="2" max="80" step="1"/>
+          </div>
+          <div class="form-group">
+            <label for="sel-paper">用紙・向き</label>
+            <select id="sel-paper"></select>
+          </div>
+          <div class="form-group">
+            <label for="sel-tone">デザイン調</label>
+            <select id="sel-tone">
+              <option value="にぎやか">にぎやか（特売）</option>
+              <option value="すっきり">すっきり（EDLP）</option>
+              <option value="上質">上質（こだわり）</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="sel-sheet-numeral">価格数字デザイン（全体標準）</label>
+            <select id="sel-sheet-numeral"></select>
+          </div>
+          <div class="form-group">
+            <label for="sel-sheet-bg">紙面背景カラー</label>
+            <select id="sel-sheet-bg">
+              <option value="">商品カテゴリ調和色（自動）</option>
+              <option value="radial-gradient(circle at 15% 10%, #fff9c4 0%, #fffdf6 55%, #ffecb3 100%)">特売ウォームクリーム</option>
+              <option value="radial-gradient(circle at 18% 12%, #f1f8e9 0%, #fffef7 55%, #e8f5e9 100%)">青果フレッシュグリーン</option>
+              <option value="radial-gradient(circle at 18% 12%, #e3f2fd 0%, #fffef9 55%, #e8f4fd 100%)">鮮魚マリンブルー</option>
+              <option value="radial-gradient(circle at 18% 12%, #ffebee 0%, #fffdf7 55%, #fff3e0 100%)">精肉・秋穫ウォームローズ</option>
+              <option value="#ffffff">クリーン純白</option>
+            </select>
+          </div>
+        </div>
+
+        <details class="form-accordion">
+          <summary>🏘️ 地域密着・店舗情報設定（商圏1〜3km対策）</summary>
+          <div class="accordion-body">
+            <div class="form-row-2">
+              <div class="form-group">
+                <label for="inp-store-name">店舗名</label>
+                <input type="text" id="inp-store-name" value="Cymbal 世田谷店"/>
+              </div>
+              <div class="form-group">
+                <label for="inp-store-pref">都道府県（地産地消判定）</label>
+                <input type="text" id="inp-store-pref" value="東京都"/>
+              </div>
+            </div>
+            <div class="form-row-2">
+              <div class="form-group">
+                <label for="inp-store-hours">営業時間</label>
+                <input type="text" id="inp-store-hours" value="朝9:00〜夜22:00"/>
+              </div>
+              <div class="form-group">
+                <label for="inp-store-tel">電話番号</label>
+                <input type="text" id="inp-store-tel" value="03-5555-0199"/>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inp-reg-events">定例企画（・区切り）</label>
+              <input type="text" id="inp-reg-events" value="毎週火曜日は火曜市・毎週木曜シニアデー5%OFF・子育て応援5%OFF"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-announcement">地域のお知らせ・店内イベント</label>
+              <input type="text" id="inp-announcement" value="週末朝市・旬の試食販売を開催！地域生産者直売コーナーも毎日入荷中"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-reservation">季節のご予約案内</label>
+              <input type="text" id="inp-reservation" value="クリスマスケーキ・特選おせち 早期ご予約承り中（早割10%OFF）"/>
+            </div>
+          </div>
+        </details>
+
+        <div class="btn-stack">
+          <button type="button" class="btn btn--primary btn--lg" id="btn-generate">
+            ✨ 今週のチラシを自動作成
+          </button>
+          <div class="btn-row-2">
+            <button type="button" class="btn btn--secondary" id="btn-reselect" title="固定（🔒）した枠はそのままに、他の枠の商品を再ピックアップします">
+              🔄 商品を選び直す
+            </button>
+            <button type="button" class="btn btn--secondary" id="btn-save-as-tpl" title="現在のゾーン構成と掲載商品数をマイテンプレートとして保存します">
+              💾 テンプレート保存
+            </button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Center: Live Chirashi Preview & Fullscreen / Zoom / Approval / Export Toolbar -->
+    <section class="canvas-area">
+      <div class="canvas-toolbar">
+        <div class="canvas-meta">
+          <span class="status-badge" id="flyer-status-badge">未作成</span>
+          <strong id="flyer-meta-title">「✨ 今週のチラシを自動作成」ボタンを押してください</strong>
+          <span class="meta-sub" id="flyer-meta-people"></span>
+        </div>
+
+        <div class="canvas-actions">
+          <button type="button" class="btn btn--fullscreen" id="btn-fullscreen-view" title="作成したチラシを画面いっぱいに拡大表示して隅々まで確認します">
+            🔍 チラシ全体表示（拡大確認）
+          </button>
+          <div class="zoom-group" title="プレビュー表示倍率">
+            <button type="button" class="btn btn--sm btn--secondary" id="btn-zoom-out">−</button>
+            <button type="button" class="btn btn--sm btn--secondary" id="btn-zoom-fit">全体フィット</button>
+            <button type="button" class="btn btn--sm btn--secondary" id="btn-zoom-in">＋</button>
+          </div>
+          <span class="divider"></span>
+          <button type="button" class="btn btn--outline" id="btn-submit-review">📨 確認を依頼</button>
+          <button type="button" class="btn btn--approve" id="btn-approve">✅ 承認してGCSに保管</button>
+          <button type="button" class="btn btn--danger-outline" id="btn-reject">↩️ 差し戻し</button>
+          <span class="divider"></span>
+          <button type="button" class="btn btn--export" id="btn-export-pdf">📄 PDF出力</button>
+          <button type="button" class="btn btn--export" id="btn-export-jpeg">🖼️ JPEG出力</button>
+          <button type="button" class="btn btn--export" id="btn-export-jpeg-print" title="印刷用高解像度（300dpi）">🖨️ 印刷用JPEG</button>
+        </div>
+      </div>
+
+      <div class="alert-banner alert-banner--danger" id="discontinued-banner" hidden></div>
+      <div class="alert-banner alert-banner--warn" id="density-banner" hidden></div>
+
+      <div class="headline-quick-bar" id="headline-quick-bar">
+        <label>テンプレ即時切替：</label>
+        <select id="sel-toolbar-template" style="max-width:210px;padding:4px 6px;border:1px solid #dadce0;border-radius:5px;font-weight:700"></select>
+        <label>大見出し：</label>
+        <input type="text" id="inp-flyer-title" placeholder="チラシ大見出し"/>
+        <label>サブコピー：</label>
+        <input type="text" id="inp-flyer-subtitle" placeholder="サブコピー"/>
+        <button type="button" class="btn btn--sm btn--secondary" id="btn-apply-headlines">見出し・背景を反映</button>
+      </div>
+
+      <div class="sheet-stage" id="sheet-stage">
+        <!-- 1. Initial Empty Guide State (shown before first flyer creation) -->
+        <div class="sheet-empty-state" id="sheet-empty-state">
+          <div class="empty-hero-visual">
+            <span class="float-food f1">🐟</span>
+            <span class="float-food f2">🍄</span>
+            <span class="float-food f3">🥩</span>
+            <span class="float-food f4">🍎</span>
+            <span class="float-food f5">🌾</span>
+            <span class="float-food f6">🍲</span>
+            <div class="empty-flyer-mockup">
+              <div class="efm-hdr">Cymbal Retail 特売チラシ</div>
+              <div class="efm-grid">
+                <div class="efm-cell hero"><span>超目玉</span></div>
+                <div class="efm-cell hero"><span>旬の味覚</span></div>
+                <div class="efm-cell"></div>
+                <div class="efm-cell"></div>
+                <div class="efm-cell"></div>
+                <div class="efm-cell"></div>
+              </div>
+            </div>
+          </div>
+          <h2 class="empty-state-title">📰 今週のチラシを作成しましょう！</h2>
+          <p class="empty-state-desc">
+            左パネルで<strong>「使用するチラシテンプレート」「企画テーマ」「ターゲット層」「掲載商品数」</strong>を選び、<br/>
+            <strong>『✨ 今週のチラシを自動作成』</strong>ボタンを押してください。
+          </p>
+          <div class="empty-step-pills">
+            <span class="empty-pill">① テンプレート＆企画テーマを選択</span>
+            <span class="empty-pill-arrow">▶</span>
+            <span class="empty-pill">② AIが特売・旬の商品を自動選定＆背景透過合成</span>
+            <span class="empty-pill-arrow">▶</span>
+            <span class="empty-pill">③ 枠クリックでリアルタイム微調整・PDF/JPEG出力</span>
+          </div>
+          <button type="button" class="btn btn--primary btn--lg empty-cta-btn" id="btn-empty-generate">
+            ✨ 今週のチラシを自動作成する
+          </button>
+        </div>
+
+        <!-- 2. Animated In-Progress Overlay (shown while AI is generating/composing the flyer) -->
+        <div class="sheet-loading-overlay" id="sheet-loading-overlay" hidden>
+          <div class="loading-card">
+            <div class="loading-stage-art">
+              <div class="orbit-ring">
+                <span class="orbit-item oi-1">🐟</span>
+                <span class="orbit-item oi-2">🍄</span>
+                <span class="orbit-item oi-3">🥩</span>
+                <span class="orbit-item oi-4">🥬</span>
+                <span class="orbit-item oi-5">🌾</span>
+                <span class="orbit-item oi-6">🍤</span>
+              </div>
+              <div class="press-machine">
+                <div class="press-seal">超目玉!!<br/>AI組版</div>
+                <div class="press-paper">
+                  <div class="pp-bar pp-bar--red"></div>
+                  <div class="pp-row">
+                    <div class="pp-box pp-box--lg"></div>
+                    <div class="pp-box pp-box--lg"></div>
+                  </div>
+                  <div class="pp-row">
+                    <div class="pp-box"></div>
+                    <div class="pp-box"></div>
+                    <div class="pp-box"></div>
+                    <div class="pp-box"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <h2 class="loading-title" id="loading-main-title">✨ AIが今週のチラシを自動作成しています…</h2>
+            <p class="loading-subtitle" id="loading-sub-status">商品マスタと特売データを解析し、最適な紙面レイアウトを組版中です</p>
+
+            <div class="loading-progress-track">
+              <div class="loading-progress-fill" id="loading-progress-fill" style="width: 18%"></div>
+            </div>
+
+            <div class="loading-steps" id="loading-steps-list">
+              <div class="loading-step is-active" data-step="1">
+                <span class="step-icon">🔍</span>
+                <span class="step-text">商品マスタ（21,130品）からテーマ・客層に合う特売＆旬の目玉商品をピックアップ中…</span>
+              </div>
+              <div class="loading-step" data-step="2">
+                <span class="step-icon">🎨</span>
+                <span class="step-text">商品写真の背景を自動透過（切り抜き）し、商品に合う背景画像を合成中…</span>
+              </div>
+              <div class="loading-step" data-step="3">
+                <span class="step-icon">✍️</span>
+                <span class="step-text">地域のターゲット層に響く大見出し・キャッチコピー・今夜の献立提案を執筆中…</span>
+              </div>
+              <div class="loading-step" data-step="4">
+                <span class="step-icon">📐</span>
+                <span class="step-text">黄金比ベントーレイアウト（縦横比1.5以下）＆「本体」密着POP価格数字を組版中…</span>
+              </div>
+              <div class="loading-step" data-step="5">
+                <span class="step-icon">✅</span>
+                <span class="step-text">完成後の品質検証（配置バランス・文字重なりゼロ・背景雰囲気調和）を自動点検＆補正中…</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3. Rendered Flyer Sheet Scaler -->
+        <div class="sheet-scaler" id="sheet-scaler" hidden>
+          <iframe id="preview-frame" title="チラシプレビュー"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- Right Sidebar: Slot Inspector & Product Search Replacement -->
+    <aside class="panel panel--right" id="slot-inspector">
+      <div class="panel__hdr">
+        <h2 id="inspector-title">2. 枠デザイン・サイズ・重ね配置・商品編集</h2>
+      </div>
+      <div class="panel__body" id="inspector-empty">
+        <div class="empty-hint">
+          <p class="empty-hint__icon">👆</p>
+          <p><strong>中央のチラシ紙面上の商品枠をクリック</strong>すると、ここで以下を自由にカスタマイズできます：</p>
+          <ul>
+            <li><strong>枠の出力形態</strong>（<strong>枠からはみ出す自由形</strong>・長方形・爆弾強調・丸型・斜めポップ等）</li>
+            <li><strong>写真と説明・価格の重ねレイアウト</strong>（<strong>商品写真の上に説明・価格を重ねて表示</strong>／分割表示）</li>
+            <li><strong>枠のサイズ変更</strong>（横幅比率・縦高さ比率・特大2×2・写真拡大率70%〜170%）</li>
+            <li><strong>商品背景画像のAI生成</strong>とカテゴリ調和カラー</li>
+            <li><strong>チラシ特別価格</strong>の直接入力と商品検索差し替え</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="panel__body" id="inspector-form" hidden>
+        <div class="slot-summary-card" id="slot-summary-card"></div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="sel-slot-shape">枠の出力形態（長方形・枠はみ出し等）</label>
+            <select id="sel-slot-shape"></select>
+          </div>
+          <div class="form-group">
+            <label for="sel-slot-span">枠のサイズプリセット</label>
+            <select id="sel-slot-span"></select>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="sel-slot-layout">写真と説明・価格の配置（写真重ね等）</label>
+            <select id="sel-slot-layout"></select>
+          </div>
+          <div class="form-group">
+            <label for="sel-slot-opos">重ね表示の位置バランス</label>
+            <select id="sel-slot-opos"></select>
+          </div>
+        </div>
+
+        <div class="form-row-3">
+          <div class="form-group">
+            <label for="inp-slot-w-weight">横幅比率：<span id="lbl-slot-w">1.0x</span></label>
+            <input type="range" id="inp-slot-w-weight" min="0.5" max="3.0" step="0.1" value="1.0" style="width:100%"/>
+          </div>
+          <div class="form-group">
+            <label for="inp-slot-r-weight">縦高さ比率：<span id="lbl-slot-r">1.0x</span></label>
+            <input type="range" id="inp-slot-r-weight" min="0.7" max="2.5" step="0.1" value="1.0" style="width:100%"/>
+          </div>
+          <div class="form-group">
+            <label for="inp-slot-img-scale">写真拡大率：<span id="lbl-img-scale">100%</span></label>
+            <input type="range" id="inp-slot-img-scale" min="70" max="170" step="5" value="100" style="width:100%"/>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="sel-slot-numeral">価格数字デザイン</label>
+            <select id="sel-slot-numeral"></select>
+          </div>
+          <div class="form-group">
+            <label for="sel-slot-price-style">価格表記スタイル</label>
+            <select id="sel-slot-price-style"></select>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="sel-slot-bg">枠の背景色（商品調和色）</label>
+            <select id="sel-slot-bg"></select>
+          </div>
+          <div class="form-group">
+            <label class="checkbox-lbl" style="margin-top:22px">
+              <input type="checkbox" id="chk-slot-locked"/> 🔒 この枠の商品を固定
+            </label>
+          </div>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="inp-slot-badge">バッジ・帯（「超特!!」「特価」等）</label>
+            <input type="text" id="inp-slot-badge" placeholder="例：超特!!、特価"/>
+          </div>
+          <div class="form-group">
+            <label for="inp-slot-copy">販促キャッチコピー</label>
+            <input type="text" id="inp-slot-copy" maxlength="28"/>
+          </div>
+        </div>
+        <div class="chip-row" id="badge-preset-chips" style="margin-bottom:8px"></div>
+
+        <div class="btn-row-2" style="margin-bottom:10px">
+          <button type="button" class="btn btn--primary" id="btn-save-slot">枠のサイズ・形態・設定を反映</button>
+          <button type="button" class="btn btn--secondary" id="btn-ai-suggest-slot">✨ AI別商品を提案</button>
+        </div>
+
+        <!-- Flyer-only special price box -->
+        <div class="special-offer-box">
+          <h3>🏷️ チラシ特別価格の直接入力</h3>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="inp-offer-price">特別本体価格（税抜・円）</label>
+              <input type="number" id="inp-offer-price" min="1" step="1" placeholder="例：198"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-offer-limit">数量・条件表記</label>
+              <input type="text" id="inp-offer-limit" placeholder="例：お1人様2点限り"/>
+            </div>
+          </div>
+          <div class="offer-preview-line" id="offer-tax-preview">税込参考価格：—</div>
+          <div class="btn-row-2">
+            <button type="button" class="btn btn--accent" id="btn-apply-offer">特別価格を適用</button>
+            <button type="button" class="btn btn--outline" id="btn-clear-offer">通常マスタ価格に戻す</button>
+          </div>
+        </div>
+
+        <!-- Product Search & Replace Box -->
+        <div class="search-replace-box">
+          <h3>🔍 商品を検索してこの枠に反映</h3>
+          <div class="search-bar-row">
+            <input type="text" id="inp-prod-q" placeholder="商品名・食材名・産地で検索（例：鮭、キャベツ、鍋）"/>
+            <button type="button" class="btn btn--secondary" id="btn-prod-search">検索</button>
+          </div>
+          <div class="search-filter-row">
+            <select id="sel-prod-cat"><option value="">すべてのカテゴリ</option></select>
+            <label><input type="checkbox" id="chk-prod-sale"/> 特価のみ</label>
+            <label><input type="checkbox" id="chk-prod-seasonal"/> 旬のみ</label>
+          </div>
+          <div class="search-results-list" id="search-results-list"></div>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- ========================================================================= -->
+  <!-- TAB 2: INTERACTIVE 3-COLUMN TEMPLATE STUDIO (`📐 チラシテンプレート管理`)   -->
+  <!-- ========================================================================= -->
+  <section class="workspace" id="view-templates" hidden>
+    <!-- Left Panel: Template Selector, AI Background Generator, Default Overlay & Zone/Slot List -->
+    <aside class="panel panel--left">
+      <div class="panel__hdr">
+        <h2>1. テンプレート構成要素・背景画像設定</h2>
+      </div>
+      <div class="panel__body">
+        <div class="form-group">
+          <label for="tpl-studio-select">編集・確認するテンプレート</label>
+          <select id="tpl-studio-select"></select>
+        </div>
+        <div class="form-group">
+          <label for="tpl-studio-name">テンプレート名</label>
+          <input type="text" id="tpl-studio-name" placeholder="例：週末大特価・写真重ね構成"/>
+        </div>
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="tpl-studio-paper">標準用紙・向き</label>
+            <select id="tpl-studio-paper"></select>
+          </div>
+          <div class="form-group">
+            <label for="tpl-studio-tone">標準トーン</label>
+            <select id="tpl-studio-tone">
+              <option value="にぎやか">にぎやか（特売）</option>
+              <option value="すっきり">すっきり（EDLP）</option>
+              <option value="上質">上質（こだわり）</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="tpl-studio-numeral">標準の価格数字デザイン</label>
+            <select id="tpl-studio-numeral"></select>
+          </div>
+          <div class="form-group">
+            <label for="tpl-studio-layout">標準の写真・説明重ね配置</label>
+            <select id="tpl-studio-layout"></select>
+          </div>
+        </div>
+
+        <!-- Request #3: AI Background Image Generator in Template Settings -->
+        <div class="bg-gen-box">
+          <h3>🎨 商品・ゾーンの背景画像AI生成</h3>
+          <p class="help-txt">商品の後ろに敷く背景イメージ（木目・紅葉・朝採れ野菜・氷・和紙など）をAIで生成してテンプレートや個別枠に設定できます。</p>
+          <div class="form-group">
+            <label for="sel-bg-preset">背景テーマプリセット</label>
+            <select id="sel-bg-preset"></select>
+          </div>
+          <div class="form-group">
+            <label for="inp-bg-prompt">追加プロンプト（任意）</label>
+            <input type="text" id="inp-bg-prompt" placeholder="例：温かい湯気と紅葉、高級感のある黒金和紙"/>
+          </div>
+          <div class="form-group">
+            <label for="sel-bg-target">生成した背景画像の適用先</label>
+            <select id="sel-bg-target">
+              <option value="slot">選択中の個別商品枠の背景に適用</option>
+              <option value="zone">選択中のゾーン全体の背景に適用</option>
+              <option value="sheet">チラシ紙面全体の背景に適用</option>
+            </select>
+          </div>
+          <div class="btn-row-2">
+            <button type="button" class="btn btn--accent" id="btn-gen-bg">✨ 背景画像をAI生成</button>
+            <button type="button" class="btn btn--outline" id="btn-clear-bg">背景画像を解除</button>
+          </div>
+          <div id="bg-gen-preview" class="bg-gen-preview" hidden></div>
+        </div>
+
+        <div class="tpl-zone-list-hdr">
+          <strong>ゾーン一覧（中央プレビューの枠も直接クリック可）</strong>
+          <button type="button" class="btn btn--sm btn--secondary" id="btn-tpl-add-zone">＋ ゾーン追加</button>
+        </div>
+        <div class="tpl-zone-list" id="tpl-zone-list"></div>
+
+        <div class="btn-stack" style="margin-top:12px">
+          <button type="button" class="btn btn--primary btn--lg" id="btn-tpl-save">
+            💾 この構成をテンプレートとして保存
+          </button>
+          <button type="button" class="btn btn--approve" id="btn-tpl-create-flyer">
+            ✨ このテンプレートでチラシを作成
+          </button>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Center Main Area: Live Visual Template Output Preview -->
+    <section class="canvas-area">
+      <div class="canvas-toolbar">
+        <div class="canvas-meta">
+          <span class="status-badge is-pending">テンプレートプレビュー</span>
+          <strong id="tpl-preview-title">テンプレート出力プレビュー</strong>
+          <span class="meta-sub">中央の紙面でゾーン見出しまたは個別の商品枠をクリックすると、右パネルでサイズ・形態（長方形／枠はみ出し等）・写真重ね配置を変更できます</span>
+        </div>
+        <div class="canvas-actions">
+          <button type="button" class="btn btn--secondary btn--sm" id="btn-tpl-refresh-preview">🔄 プレビュー更新</button>
+        </div>
+      </div>
+      <div class="sheet-stage" id="tpl-sheet-stage">
+        <div class="sheet-scaler" id="tpl-sheet-scaler">
+          <iframe id="tpl-preview-frame" title="テンプレートプレビュー"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- Right Panel: Zone & Individual Slot Element Customization Tools (Requests #2 & #4) -->
+    <aside class="panel panel--right">
+      <div class="panel__hdr">
+        <h2 id="tpl-zone-editor-title">3. 構成要素（ゾーン・個別枠）変更ツール</h2>
+      </div>
+      <div class="panel__body" id="tpl-zone-editor-body">
+        <!-- Individual Slot Element Editor inside Template Studio (Request #2 & #4) -->
+        <div class="tpl-slot-editor-box" id="tpl-slot-editor-box">
+          <h3>🎯 選択中の個別枠（要素）のサイズ・形態・写真重ね設定</h3>
+          <div class="form-group">
+            <label for="sel-tpl-slot-id">編集する枠要素を選択（紙面クリックでも連動）</label>
+            <select id="sel-tpl-slot-id"></select>
+          </div>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="sel-ts-shape">枠の形態（長方形／枠はみ出し等）</label>
+              <select id="sel-ts-shape"></select>
+            </div>
+            <div class="form-group">
+              <label for="sel-ts-span">サイズプリセット</label>
+              <select id="sel-ts-span"></select>
+            </div>
+          </div>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="sel-ts-layout">写真上の説明・価格重ね配置</label>
+              <select id="sel-ts-layout"></select>
+            </div>
+            <div class="form-group">
+              <label for="sel-ts-opos">重ね表示の位置</label>
+              <select id="sel-ts-opos"></select>
+            </div>
+          </div>
+          <div class="form-row-3">
+            <div class="form-group">
+              <label for="inp-ts-w">横幅比率：<span id="lbl-ts-w">1.0x</span></label>
+              <input type="range" id="inp-ts-w" min="0.5" max="3.0" step="0.1" value="1.0" style="width:100%"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-ts-r">縦比率：<span id="lbl-ts-r">1.0x</span></label>
+              <input type="range" id="inp-ts-r" min="0.7" max="2.5" step="0.1" value="1.0" style="width:100%"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-ts-scale">写真拡大：<span id="lbl-ts-scale">110%</span></label>
+              <input type="range" id="inp-ts-scale" min="70" max="170" step="5" value="110" style="width:100%"/>
+            </div>
+          </div>
+          <button type="button" class="btn btn--primary btn--sm" id="btn-ts-apply" style="width:100%;margin-bottom:4px">
+            ✨ この個別枠のサイズ・形態・重ね設定を反映
+          </button>
+        </div>
+
+        <!-- Zone-level Editor -->
+        <div class="tpl-zone-settings-box">
+          <h3>📦 選択中のゾーン全体の設定</h3>
+          <div class="form-group">
+            <label for="inp-tz-title">ゾーン見出し（例：11/11(水)限り 超特!!）</label>
+            <input type="text" id="inp-tz-title"/>
+          </div>
+          <div class="form-group">
+            <label for="inp-tz-sub">ゾーン補足コピー</label>
+            <input type="text" id="inp-tz-sub"/>
+          </div>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="sel-tz-type">ゾーン種別</label>
+              <select id="sel-tz-type">
+                <option value="day_hero">日替りオープン超目玉</option>
+                <option value="day_block">曜日別・日替りブロック</option>
+                <option value="uniform_price">均一価格コーナー（99円均一等）</option>
+                <option value="bundle_block">よりどり・まとめ買い</option>
+                <option value="theme_hero">旬・テーマ特集ヒーロー</option>
+                <option value="menu_proposal">献立・関連食材提案</option>
+                <option value="weekly_grid">週間特売・定番グリッド</option>
+                <option value="card_grid">生協・EDLP整然カード</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="sel-tz-color">ゾーン枠テーマ色</label>
+              <select id="sel-tz-color">
+                <option value="red">レッド（特売・目玉）</option>
+                <option value="blue">ブルー（日替り・鮮魚）</option>
+                <option value="green">グリーン（青果・均一・生協）</option>
+                <option value="orange">オレンジ（よりどり・惣菜）</option>
+                <option value="yellow">イエロー（くらし応援）</option>
+                <option value="navy">ネイビー（号外・ストック）</option>
+                <option value="autumn">茜・オータム（旬・味覚）</option>
+                <option value="gold">ゴールド（上質・プレミアム）</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-row-3">
+            <div class="form-group">
+              <label for="inp-tz-hero-cnt">目玉枠数</label>
+              <input type="number" id="inp-tz-hero-cnt" min="0" max="8" value="2"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-tz-grid-cnt">一般枠数</label>
+              <input type="number" id="inp-tz-grid-cnt" min="0" max="30" value="4"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-tz-weight">ゾーン面積比</label>
+              <input type="number" id="inp-tz-weight" min="0.5" max="3.0" step="0.1" value="1.0"/>
+            </div>
+          </div>
+
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="sel-tz-hero-shape">目玉枠の標準形態</label>
+              <select id="sel-tz-hero-shape"></select>
+            </div>
+            <div class="form-group">
+              <label for="sel-tz-grid-shape">一般枠の標準形態</label>
+              <select id="sel-tz-grid-shape"></select>
+            </div>
+          </div>
+
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="sel-tz-hero-layout">目玉枠の写真重ね配置</label>
+              <select id="sel-tz-hero-layout"></select>
+            </div>
+            <div class="form-group">
+              <label for="sel-tz-grid-layout">一般枠の写真重ね配置</label>
+              <select id="sel-tz-grid-layout"></select>
+            </div>
+          </div>
+
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="inp-tz-badge">標準バッジ文言</label>
+              <input type="text" id="inp-tz-badge" value="超特!!"/>
+            </div>
+            <div class="form-group">
+              <label for="inp-tz-uniform">均一本体価格（均一ゾーン時）</label>
+              <input type="number" id="inp-tz-uniform" placeholder="例：99"/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>優先ピックアップ対象カテゴリ</label>
+            <div class="cat-checkbox-grid" id="tz-cat-checkboxes"></div>
+          </div>
+
+          <div class="btn-row-2" style="margin-top:10px">
+            <button type="button" class="btn btn--primary" id="btn-tz-apply">ゾーン変更をプレビューに反映</button>
+            <button type="button" class="btn btn--danger-outline" id="btn-tz-delete">ゾーン削除</button>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </section>
+
+  <!-- ========================================================================= -->
+  <!-- TAB 3: ARCHIVE & REUSE (`🗂️ 過去のチラシ・GCS保管庫`)                      -->
+  <!-- ========================================================================= -->
+  <section class="archive-view" id="view-archive" hidden>
+    <div class="archive-container">
+      <div class="archive-hdr">
+        <div>
+          <h2>🗂️ 過去のチラシ・GCS保管庫</h2>
+          <p>店舗責任者が承認したチラシは作成時点の商品スナップショット・PDF・JPEGとともにGCSに保管されます。「このチラシをもとに新規作成」を押すと、当時の商品コードをもとに現在の商品マスタから最新データを取得して新しいチラシを作成します（終売商品は「販売終了」として表示されます）。</p>
+        </div>
+        <div class="archive-search">
+          <input type="text" id="inp-arch-q" placeholder="テーマ・タイトルで絞り込み"/>
+          <button type="button" class="btn btn--secondary" id="btn-arch-refresh">一覧を更新</button>
+        </div>
+      </div>
+
+      <h3 class="section-subhdr">✅ 承認済み・GCS保管チラシ一覧</h3>
+      <div class="archive-grid" id="approved-list"></div>
+
+      <h3 class="section-subhdr" style="margin-top:28px">📝 作業中の下書き・確認待ちチラシ</h3>
+      <div class="archive-grid" id="drafts-list"></div>
+    </div>
+  </section>
+
+  <!-- ========================================================================= -->
+  <!-- FULLSCREEN FLYER VIEW MODAL (`🔍 チラシ全体表示`)                          -->
+  <!-- ========================================================================= -->
+  <div class="fs-modal" id="fs-modal" hidden>
+    <div class="fs-modal__bar">
+      <div class="fs-modal__title" id="fs-modal-title">チラシ全体プレビュー</div>
+      <div class="fs-modal__controls">
+        <button type="button" class="btn btn--sm btn--secondary" id="btn-fs-zoom-out">縮小 −</button>
+        <button type="button" class="btn btn--sm btn--secondary" id="btn-fs-zoom-fit">画面にフィット</button>
+        <button type="button" class="btn btn--sm btn--secondary" id="btn-fs-zoom-100">実寸大 (100%)</button>
+        <button type="button" class="btn btn--sm btn--secondary" id="btn-fs-zoom-in">拡大 ＋</button>
+        <span class="divider"></span>
+        <button type="button" class="btn btn--sm btn--export" id="btn-fs-pdf">📄 PDF出力</button>
+        <button type="button" class="btn btn--sm btn--export" id="btn-fs-jpeg">🖼️ JPEG出力</button>
+        <button type="button" class="btn btn--sm btn--danger-outline" id="btn-fs-close">✕ 閉じる (Esc)</button>
+      </div>
+    </div>
+    <div class="fs-modal__stage" id="fs-modal-stage">
+      <div class="fs-modal__scaler" id="fs-modal-scaler">
+        <iframe id="fs-preview-frame" title="チラシ全体拡大プレビュー"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

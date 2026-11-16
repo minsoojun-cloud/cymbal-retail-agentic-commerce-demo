@@ -1,0 +1,64 @@
+{
+  "id": "UT-899908",
+  "name": "写真重ね＆自由形カスタムテンプレート",
+  "survey_type": "A: 枠はみ出し目玉＋写真オーバーレイ価格＋均一ブロック型",
+  "description": "目玉商品は枠からはみ出す特大写真の上に説明と立体POP価格を重ね、一般枠も隙間なく配置する最も反響の高い王道構成です。",
+  "paper": "B4-landscape",
+  "default_tone": "にぎやか",
+  "default_numeral_style": "graphic_pop",
+  "default_layout_mode": "overlay_full",
+  "default_item_count": 6,
+  "recommended_range": [
+    6,
+    60
+  ],
+  "bg_image_url": "/api/bg_images/bg-20261116-043844-baef98.jpg",
+  "slot_overrides": {
+    "T1-S01": {
+      "shape": "overflow_cutout",
+      "size_span": "hero_2x2",
+      "width_weight": 2.5,
+      "row_weight": 1.8,
+      "img_scale": 145,
+      "layout_mode": "overlay_full",
+      "overlay_pos": "bottom-right",
+      "bg_image_url": "/api/bg_images/bg-20261116-043844-baef98.jpg"
+    }
+  },
+  "zones": [
+    {
+      "id": "z1",
+      "title": "超目玉オーバーレイ",
+      "subtitle": "",
+      "zone_type": "day_block",
+      "frame_color": "red",
+      "weight": 1.0,
+      "bg_image_url": "/api/bg_images/bg-20261116-043844-baef98.jpg",
+      "uniform_price_ex": null,
+      "uniform_price_inc": null,
+      "categories": [],
+      "hero_count": 2,
+      "grid_count": 4,
+      "hero_shape": "overflow_cutout",
+      "grid_shape": "rect",
+      "hero_layout_mode": "overlay_full",
+      "grid_layout_mode": "overlay_price",
+      "default_badge": "特価",
+      "slot_overrides": {
+        "1": {
+          "shape": "overflow_cutout",
+          "size_span": "hero_2x2",
+          "width_weight": 2.5,
+          "row_weight": 1.8,
+          "img_scale": 145,
+          "layout_mode": "overlay_full",
+          "overlay_pos": "bottom-right",
+          "bg_image_url": "/api/bg_images/bg-20261116-043844-baef98.jpg"
+        }
+      }
+    }
+  ],
+  "is_custom": true,
+  "created_by": "店長 田中",
+  "created_at": "2026-11-16T13:38:45+09:00"
+}
