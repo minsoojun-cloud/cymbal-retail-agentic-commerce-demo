@@ -1,0 +1,2642 @@
+{
+ "category_key": "x_deli_kit",
+ "items": [
+  {
+   "base_id": "x_deli_kit_seasoned_karaage_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "竜田揚げ",
+    "お弁当のおかず",
+    "南蛮漬け"
+   ],
+   "description": "下味をしっかりもみ込んだ生の鶏肉で、粉をまぶして揚げるだけで唐揚げが作れます。漬け込む手間が省けるので、忙しい日の晩ごはんやお弁当のおかずに便利です。",
+   "image_brief": "Clear plastic tray of raw marinated chicken thigh pieces under film with a red label reading '唐揚げ用 下味付き'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産若鶏もも 唐揚げ用 しょうゆ味 下味付き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも 唐揚げ用 しょうゆ味 下味付き 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも 唐揚げ用 塩にんにく味 下味付き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏むね 唐揚げ用 しょうゆ味 下味付き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 若鶏もも 唐揚げ用 下味付き しょうが醤油 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏手羽中 唐揚げ用 甘辛だれ漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも 竜田揚げ用 下味付き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 518,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_seasoned_karaage_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_seasoned_gyudon_beef",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉豆腐",
+    "肉うどん",
+    "すき焼き風煮"
+   ],
+   "description": "甘辛い割下に漬けた牛肉と玉ねぎのセットで、フライパンで煮るだけで牛丼の具が完成します。肉豆腐や肉うどんの具材としても使えます。",
+   "image_brief": "Shallow plastic tray of thinly sliced beef and onion in soy-based sauce with a label reading '牛丼用 味付け牛肉'.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛丼用 味付け牛肉 玉ねぎ入り 2人前 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 牛丼用 味付け牛肉 玉ねぎ入り 4人前 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 948,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "[鮮度+] 国産牛 牛丼用 味付け 切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛バラ 牛丼用 たれ漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 すき焼き風 牛丼の具 270g",
+     "brand": "トップバリュ セレクト",
+     "size": "270g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛丼の具 4人前 520g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "520g",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_seasoned_gyudon_beef_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_raw_hamburg_patty",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "ハンバーグ種"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "煮込みハンバーグ",
+    "ロコモコ",
+    "ピーマンの肉詰め",
+    "お弁当のおかず"
+   ],
+   "description": "玉ねぎやパン粉を合わせて成形済みの生ハンバーグで、焼くだけでふっくらジューシーに仕上がります。デミグラスソースで煮込みハンバーグにしたり、種タイプはピーマンの肉詰めにも使えます。",
+   "image_brief": "Black plastic tray holding raw shaped hamburger patties under clear film with a label reading '生ハンバーグ 焼くだけ'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産牛豚 生ハンバーグ 焼くだけ 2個入（約260g）",
+     "brand": "",
+     "size": "約260g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産牛豚 生ハンバーグ 焼くだけ 4個入（約520g）",
+     "brand": "",
+     "size": "約520g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産牛豚 ハンバーグ種 そのまま成形 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "黒毛和牛入り 生ハンバーグ 2個入（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産牛豚 チーズイン 生ハンバーグ 2個入（約280g）",
+     "brand": "",
+     "size": "約280g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 牛豚 生ハンバーグ 玉ねぎたっぷり 4個入（480g）",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 798,
+     "origin": "牛肉：オーストラリア産、豚肉：国産"
+    },
+    {
+     "title": "[鮮度+] 国産鶏 和風豆腐ハンバーグ種 2個入（約240g）",
+     "brand": "",
+     "size": "約240g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_raw_hamburg_patty_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_raw_gyoza",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "餃子・焼売",
+    "生餃子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "水餃子",
+    "スープ餃子",
+    "鍋"
+   ],
+   "description": "店内で包んだ生餃子で、フライパンで焼くだけでパリッと香ばしい焼き餃子が楽しめます。水餃子やスープ、鍋の具にもおすすめです。",
+   "image_brief": "Clear plastic tray with neatly lined raw dumplings and a label reading '生餃子 焼くだけ'.",
+   "variants": [
+    {
+     "title": "[店内製造] 国産豚肉の生餃子 焼くだけ 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内製造] 国産豚肉の生餃子 焼くだけ 24個入",
+     "brand": "",
+     "size": "24個入",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内製造] 国産野菜たっぷり 生餃子 しょうが入り 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内製造] 国産豚肉の生餃子 にんにく不使用 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内製造] 大葉しそ入り 生餃子 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 438,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚肉使用 生餃子 羽根の素付 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 生水餃子 もちもち皮 15個入",
+     "brand": "",
+     "size": "15個入",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_raw_gyoza_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_rolled_cabbage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "洋風惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ロールキャベツ",
+    "ポトフ",
+    "トマト煮込み",
+    "クリーム煮"
+   ],
+   "description": "やわらかなキャベツで肉だねを包んだロールキャベツです。生タイプはコンソメやトマトで煮込むだけ、調理済みタイプは温めるだけで食卓に出せます。",
+   "image_brief": "Plastic container of cabbage rolls tied neatly in light broth with a label reading 'ロールキャベツ'.",
+   "variants": [
+    {
+     "title": "[店内製造] 国産豚肉のロールキャベツ 生 煮込むだけ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内製造] 国産豚肉のロールキャベツ 生 煮込むだけ 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] コンソメ仕立て ロールキャベツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] トマト煮込み ロールキャベツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] クリーム煮 ロールキャベツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ロールキャベツ コンソメスープ仕立て 6個入（480g）",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 国産合いびき肉のロールキャベツ トマトソース 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_rolled_cabbage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_vegetable_pork_rolls",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "肉巻き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉巻き",
+    "照り焼き",
+    "お弁当のおかず",
+    "晩ごはんのおかず"
+   ],
+   "description": "薄切り肉で野菜を巻いた状態の生の肉巻きで、焼くだけで手間のかかる一品が完成します。照り焼きだれで味付けすれば、お弁当のおかずにもぴったりです。",
+   "image_brief": "Clear tray of raw pork slices rolled around green asparagus and vegetables with a label reading '肉巻き 焼くだけ'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産豚バラ アスパラ肉巻き 焼くだけ 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚バラ いんげん肉巻き 焼くだけ 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚ロース えのき肉巻き 焼くだけ 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚バラ チーズ大葉巻き 焼くだけ 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚ロース 野菜の肉巻き 照り焼きだれ付 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産牛 オクラ肉巻き 焼くだけ 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚バラ ミニトマト肉巻き 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_vegetable_pork_rolls_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_subuta",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "黒酢酢豚",
+    "甘酢あん",
+    "晩ごはんのおかず"
+   ],
+   "description": "下味付きの豚肉とカット済みの野菜、甘酢あんがセットになったミールキットです。少ない油で焼いて合わせるだけで、本格的な酢豚が手軽に作れます。",
+   "image_brief": "Meal kit tray with separate compartments of pork cubes, cut peppers, onion and carrot plus a sauce sachet, labeled '酢豚 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚の酢豚 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の酢豚 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の黒酢酢豚 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産鶏の甘酢あん 野菜たっぷり 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の酢豚 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 680,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の酢豚 パイン入り 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_subuta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_mapo_tofu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "麻婆なす",
+    "麻婆春雨",
+    "麻婆丼"
+   ],
+   "description": "ひき肉、豆腐、ねぎと合わせ調味料がそろった麻婆のミールキットです。炒めて煮るだけで、ご飯がすすむ麻婆豆腐や麻婆なすが完成します。",
+   "image_brief": "Meal kit tray with tofu block, ground pork, chopped green onion and a red sauce pouch, labeled '麻婆豆腐 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆豆腐 中辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆豆腐 甘口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 本格四川 麻婆豆腐 辛口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆豆腐 中辛 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産なすの麻婆なす 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆春雨 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_mapo_tofu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_happosai",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "八宝菜",
+    "中華丼",
+    "あんかけ焼きそば",
+    "あんかけ丼"
+   ],
+   "description": "えびや豚肉、白菜などの具材と中華あんがセットになっています。炒めてとろみをつけるだけで八宝菜になり、ご飯にかければ中華丼としても楽しめます。",
+   "image_brief": "Meal kit tray with shrimp, sliced pork, napa cabbage, carrot and baby corn plus a sauce pouch, labeled '八宝菜 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] えびと国産豚の八宝菜 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] えびと国産豚の八宝菜 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] 中華丼の具 八宝菜 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] あんかけ焼きそば 八宝菜あん 麺付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] 国産野菜たっぷり 塩八宝菜 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国産（野菜）"
+    },
+    {
+     "title": "[ミールキット] シーフード八宝菜 えび・いか・ほたて入り 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_happosai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_chinjao",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "青椒肉絲",
+    "チンジャオロース丼",
+    "お弁当のおかず"
+   ],
+   "description": "細切りの肉とピーマン、たけのこ、合わせ調味料がそろった青椒肉絲のミールキットです。切る手間がなく、強火で炒めるだけでシャキシャキの仕上がりになります。",
+   "image_brief": "Meal kit tray with julienned meat, green pepper strips and bamboo shoots plus a sauce sachet, labeled '青椒肉絲 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚の青椒肉絲 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 牛肉の青椒肉絲 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産（牛肉）"
+    },
+    {
+     "title": "[ミールキット] 国産豚の青椒肉絲 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産鶏の青椒肉絲 カラーピーマン入り 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の青椒肉絲 たけのこ増量 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 宮崎県産ピーマンの青椒肉絲 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "宮崎県産（ピーマン）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_chinjao_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_yosenabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "寄せ鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "雑炊",
+    "鍋焼きうどん"
+   ],
+   "description": "魚介や肉、野菜、つゆがひとつになった寄せ鍋セットです。鍋に入れて煮るだけで本格的な寄せ鍋ができ、しめは雑炊やうどんがおすすめです。",
+   "image_brief": "Large plastic tray of assorted seafood, chicken, napa cabbage, mushrooms and tofu with a soup pouch, labeled '寄せ鍋セット'.",
+   "variants": [
+    {
+     "title": "[鍋セット] 海鮮寄せ鍋セット つゆ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 海鮮寄せ鍋セット つゆ付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 鶏と豚の寄せ鍋セット つゆ付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産（鶏肉・豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産鶏つくね入り 寄せ鍋セット つゆ付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1580,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[鍋セット] 鱈と海老の寄せ鍋セット つゆ付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 一人鍋 寄せ鍋 アルミ鍋入り 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_yosenabe_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_kimchi_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "キムチ鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "キムチ鍋",
+    "チゲ",
+    "雑炊",
+    "ラーメン"
+   ],
+   "description": "豚肉や白菜キムチ、野菜とキムチ鍋つゆがセットになっています。煮込むだけでうま辛のキムチ鍋が楽しめ、しめにはご飯と卵で雑炊にするのがおすすめです。",
+   "image_brief": "Plastic tray with sliced pork belly, kimchi, chives, tofu and bean sprouts plus a red soup pouch, labeled 'キムチ鍋セット'.",
+   "variants": [
+    {
+     "title": "[鍋セット] 国産豚バラのキムチ鍋セット つゆ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産豚バラのキムチ鍋セット つゆ付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2380,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産豚と海鮮のキムチ鍋セット つゆ付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 国産鶏のキムチ鍋セット つゆ付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[鍋セット] 豆腐チゲ鍋セット あさり入り つゆ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 一人鍋 キムチ鍋 アルミ鍋入り 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_kimchi_nabe_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_motsunabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "もつ鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "ちゃんぽん",
+    "雑炊"
+   ],
+   "description": "下処理済みの牛もつとキャベツ、にら、スープがそろったもつ鍋セットです。煮るだけでぷるぷるのもつ鍋が味わえ、しめはちゃんぽん麺や雑炊で楽しめます。",
+   "image_brief": "Plastic tray with beef offal, cabbage, garlic chives, burdock slices and a soup pouch, labeled 'もつ鍋セット'.",
+   "variants": [
+    {
+     "title": "[鍋セット] 国産牛もつ鍋セット しょうゆ味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産（牛もつ）"
+    },
+    {
+     "title": "[鍋セット] 国産牛もつ鍋セット しょうゆ味 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3480,
+     "origin": "国産（牛もつ）"
+    },
+    {
+     "title": "[鍋セット] 国産牛もつ鍋セット 味噌味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産（牛もつ）"
+    },
+    {
+     "title": "[鍋セット] 国産牛もつ鍋セット あごだし塩味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2080,
+     "origin": "国産（牛もつ）"
+    },
+    {
+     "title": "[鍋セット] 国産牛もつ鍋セット ちゃんぽん麺付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2280,
+     "origin": "国産（牛もつ）"
+    },
+    {
+     "title": "トップバリュ 国産牛もつ鍋セット スープ付 2〜3人前",
+     "brand": "トップバリュ",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1780,
+     "origin": "国産（牛もつ）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_motsunabe_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_sukiyaki_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "すき焼きセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "すき焼き丼",
+    "すき焼きうどん"
+   ],
+   "description": "すき焼き用の牛肉と焼き豆腐、しらたき、ねぎなどの具材に割下が付いたセットです。鍋に並べて煮るだけで家族のごちそうすき焼きが手軽に楽しめます。",
+   "image_brief": "Large tray with sliced marbled beef, grilled tofu, shirataki, leek, shungiku and shiitake plus a warishita pouch, labeled 'すき焼きセット'.",
+   "variants": [
+    {
+     "title": "[鍋セット] 国産牛すき焼きセット 割下付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[鍋セット] 国産牛すき焼きセット 割下付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 4280,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[鍋セット] 黒毛和牛すき焼きセット 割下付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 3980,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[鍋セット] オーストラリア産牛 すき焼きセット 割下付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "オーストラリア産（牛肉）"
+    },
+    {
+     "title": "[鍋セット] 国産豚肉の豚すき焼きセット 割下付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産牛 関西風すき焼きセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2680,
+     "origin": "国産（牛肉）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_sukiyaki_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_shabushabu_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "しゃぶしゃぶセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "冷しゃぶ",
+    "雑炊"
+   ],
+   "description": "しゃぶしゃぶ用の薄切り肉と野菜、ぽん酢・ごまだれがそろったセットです。お湯にくぐらせるだけで手軽に鍋が楽しめ、余った肉は冷しゃぶサラダにも使えます。",
+   "image_brief": "Tray with fanned thin pork slices, napa cabbage, mizuna and enoki plus ponzu and sesame sauce sachets, labeled 'しゃぶしゃぶセット'.",
+   "variants": [
+    {
+     "title": "[鍋セット] 国産豚しゃぶしゃぶセット ぽん酢・ごまだれ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1580,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産豚しゃぶしゃぶセット ぽん酢・ごまだれ付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2780,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産牛しゃぶしゃぶセット ぽん酢・ごまだれ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2980,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[鍋セット] 鹿児島県産黒豚しゃぶしゃぶセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2280,
+     "origin": "鹿児島県産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 豚と野菜のレタスしゃぶしゃぶセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[鍋セット] 国産鶏むね 鶏しゃぶセット 柚子ぽん酢付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産（鶏肉）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_shabushabu_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_chawanmushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "茶碗蒸し・玉子料理"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "茶碗蒸し",
+    "和食の献立",
+    "お吸い物代わり"
+   ],
+   "description": "だしの効いたなめらかな茶碗蒸しで、温めるだけで和食の献立にもう一品加えられます。鶏肉やしいたけ、銀杏などの具が入っています。",
+   "image_brief": "Lidded plastic cup of smooth steamed egg custard with chicken and shiitake visible, labeled '茶碗蒸し'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産卵の茶碗蒸し 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "[店内調理] 国産卵の茶碗蒸し 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 378,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "トップバリュ 茶碗蒸し 鶏肉・しいたけ入り 2個入（240g）",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 銀杏入り 具だくさん茶碗蒸し 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "トップバリュ 温めるだけ 茶碗蒸し 3個入（360g）",
+     "brand": "トップバリュ",
+     "size": "360g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 鶏ささみと三つ葉の茶碗蒸し 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国産（卵）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_chawanmushi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_kabocha_nimono",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かぼちゃの煮物",
+    "お弁当のおかず",
+    "和食の献立"
+   ],
+   "description": "ほくほくのかぼちゃを甘辛く煮含めた煮物です。あと一品ほしい夕食やお弁当のおかずにそのまま使えます。",
+   "image_brief": "Clear lidded deli container of simmered kabocha squash chunks in glossy broth, labeled 'かぼちゃの煮物'.",
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産かぼちゃの煮物 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃの煮物 約350g",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 648,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃのそぼろあんかけ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ かぼちゃ煮 国産かぼちゃ使用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産 かぼちゃのいとこ煮 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ お弁当用 かぼちゃ煮 4個入（120g）",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_kabocha_nimono_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_satoimo_nimono",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "里芋の煮っころがし",
+    "煮物",
+    "和食の献立"
+   ],
+   "description": "ねっとりした里芋を甘辛く煮からめた煮っころがしです。下ごしらえが面倒な里芋料理も、温めるだけで食卓に並べられます。",
+   "image_brief": "Clear deli container of glossy simmered taro potatoes, labeled '里芋の煮っころがし'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産里芋の煮っころがし 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産里芋の煮っころがし 約350g",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産里芋といかの煮物 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産里芋の鶏そぼろあん 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 里芋の煮物 国産里芋使用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 宮崎県産 里芋のゆず味噌がけ 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 428,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_satoimo_nimono_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_kiriboshi_daikon_ni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "切干大根の煮物",
+    "常備菜",
+    "お弁当のおかず"
+   ],
+   "description": "切干大根とにんじん、油揚げをだしで煮含めた昔ながらの一品です。作り置きの常備菜として、献立やお弁当の副菜に重宝します。",
+   "image_brief": "Clear deli container of simmered dried daikon strips with carrot and fried tofu, labeled '切干大根の煮物'.",
+   "variants": [
+    {
+     "title": "[店内調理] 宮崎県産切干大根の煮物 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "[店内調理] 宮崎県産切干大根の煮物 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 切干大根煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 切干大根と油揚げの煮物 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 318,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 切干大根のはりはり漬け 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 切干大根煮 3パック入（50g×3）",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_kiriboshi_daikon_ni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_shiraae",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "白和え",
+    "副菜",
+    "和食の献立"
+   ],
+   "description": "なめらかな豆腐の衣で野菜を和えたやさしい味わいの白和えです。和食の献立の小鉢にそのまま盛り付けられます。",
+   "image_brief": "Small clear deli cup of tofu-dressed spinach and carrot salad, labeled '白和え'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産大豆豆腐のほうれん草白和え 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産大豆豆腐の五目白和え 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産大豆豆腐の五目白和え 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 春菊の白和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] いんげんとにんじんの白和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 柿の白和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 五目白和え 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_shiraae_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_spinach_ohitashi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おひたし",
+    "ごま和え",
+    "お弁当のおかず"
+   ],
+   "description": "ゆでた青菜をだし醤油で味付けしたおひたしです。ゆでる手間なく、朝ごはんや夕食の小鉢、お弁当の彩りに使えます。",
+   "image_brief": "Small clear deli cup of green spinach ohitashi topped with bonito flakes, labeled 'ほうれん草のおひたし'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産ほうれん草のおひたし かつお節添え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産ほうれん草のおひたし かつお節添え 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産ほうれん草のごま和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産小松菜のおひたし 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 菜の花のからし和え 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産ほうれん草のおひたし 3袋入（40g×3）",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_spinach_ohitashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_unohana",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卯の花",
+    "おから煮",
+    "常備菜",
+    "お弁当のおかず"
+   ],
+   "description": "おからを野菜と一緒にだしでしっとり煮上げた卯の花です。作り置きの副菜として、毎日の献立やお弁当に便利です。",
+   "image_brief": "Clear deli container of moist simmered okara with carrot, green onion and shiitake, labeled '卯の花'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産おからの卯の花 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産おからの卯の花 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 五目卯の花 ひじき入り 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 288,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 卯の花 国産大豆おから使用 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 卯の花 あさり入り 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 甘めの卯の花 鶏ひき肉入り 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_unohana_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_ajitsuke_tamago",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "味付けたまご・ゆでたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "お弁当のおかず",
+    "丼",
+    "サラダ"
+   ],
+   "description": "しょうゆだれに漬け込んだ半熟の味付けたまごです。ラーメンのトッピングや丼、お弁当のおかずにそのまま使えます。",
+   "image_brief": "Small clear pack of two halved soft-boiled marinated eggs with amber yolks, labeled '味付たまご'.",
+   "variants": [
+    {
+     "title": "トップバリュ 味付たまご 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 味付たまご 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産卵の半熟味玉 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産卵の半熟味玉 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 味付うずら卵 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト とろ〜り半熟 味付たまご 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ゆでたまご 塩味 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_ajitsuke_tamago_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_nimame",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "煮豆・常備菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "五目豆",
+    "煮豆",
+    "常備菜",
+    "お弁当のおかず"
+   ],
+   "description": "大豆や昆布、野菜をふっくら炊き上げた煮豆・五目豆です。日持ちのする常備菜として、あと一品の副菜やお弁当に重宝します。",
+   "image_brief": "Clear plastic cup of glossy simmered soybeans with kelp, carrot and konnyaku cubes, labeled '五目豆'.",
+   "variants": [
+    {
+     "title": "トップバリュ 五目豆 国産大豆使用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五目豆 国産大豆使用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 北海道産大豆の五目豆 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 金時豆 煮豆 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒豆 煮豆 北海道産 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ うずら豆 煮豆 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 昆布豆 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_nimame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_agebitashi_nibitashi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "揚げびたし",
+    "煮びたし",
+    "副菜",
+    "和食の献立"
+   ],
+   "description": "素揚げした野菜や青菜をだしに浸した、ほっとする味わいのおかずです。冷やしても温めてもおいしく、献立の小鉢にぴったりです。",
+   "image_brief": "Clear deli container of glossy fried eggplant pieces soaked in dashi with grated ginger, labeled 'なすの揚げびたし'.",
+   "variants": [
+    {
+     "title": "[店内調理] 高知県産なすの揚げびたし 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "高知県産"
+    },
+    {
+     "title": "[店内調理] 高知県産なすの揚げびたし 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 648,
+     "origin": "高知県産"
+    },
+    {
+     "title": "[店内調理] 夏野菜の揚げびたし（なす・かぼちゃ・ピーマン）約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] なすの煮びたし しょうが風味 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 小松菜と油揚げの煮びたし 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 白菜と油揚げの煮びたし 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_agebitashi_nibitashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_bento_okazu_frozen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "自然解凍おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当のおかず",
+    "朝ごはん",
+    "副菜"
+   ],
+   "description": "凍ったままお弁当箱に入れるとお昼には食べ頃になる自然解凍の小分けおかずです。カップ入りなので詰めやすく、毎朝のお弁当作りが手早く済みます。",
+   "image_brief": "Frozen food bag showing small cups of assorted bento side dishes, labeled '自然解凍 お弁当おかず'.",
+   "variants": [
+    {
+     "title": "トップバリュ 自然解凍 ほうれん草のごま和え 6個入（96g）",
+     "brand": "トップバリュ",
+     "size": "96g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 れんこんのきんぴら 6個入（96g）",
+     "brand": "トップバリュ",
+     "size": "96g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 彩り野菜おかずアソート 5種12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 ミニオムレツ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 ミートボール 甘酢だれ 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 ささみチーズカツ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 自然解凍 五目きんちゃく 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 自然解凍 お弁当おかずアソート 和風 12個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "12個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_bento_okazu_frozen_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_breaded_tonkatsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げるだけ",
+    "とんかつ・カツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "カツ丼",
+    "カツカレー",
+    "カツサンド"
+   ],
+   "description": "衣付けまで済ませた生のとんかつで、油で揚げるだけでサクサクのとんかつが作れます。カツ丼やカツカレーにも使えて、揚げ物の準備がぐっと楽になります。",
+   "image_brief": "Clear tray of raw breaded pork cutlets with coarse panko coating, labeled 'とんかつ 揚げるだけ'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産豚ロース とんかつ パン粉付き 揚げるだけ 2枚入（約260g）",
+     "brand": "",
+     "size": "約260g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚ロース とんかつ パン粉付き 揚げるだけ 4枚入（約520g）",
+     "brand": "",
+     "size": "約520g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚ヒレ ヒレかつ パン粉付き 揚げるだけ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚 ミルフィーユかつ パン粉付き 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 鹿児島県産黒豚ロース とんかつ パン粉付き 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏むね チキンカツ パン粉付き 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産豚 一口かつ パン粉付き お弁当用 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_breaded_tonkatsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_breaded_seafood_fry",
+   "category_path": [
+    "お魚・水産加工品",
+    "フライ・揚げ物",
+    "揚げるだけフライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "えびフライ",
+    "あじフライ",
+    "フライ定食",
+    "お弁当のおかず"
+   ],
+   "description": "衣付けを済ませた生の魚介フライで、揚げるだけでサクッと仕上がります。タルタルソースを添えて定食風にしたり、お弁当のおかずにも使えます。",
+   "image_brief": "Clear tray of raw breaded shrimp and fish fillets lined up, labeled 'フライ 揚げるだけ'.",
+   "variants": [
+    {
+     "title": "[揚げるだけ] 生パン粉付き えびフライ 5尾入",
+     "brand": "",
+     "size": "5尾入",
+     "price_tax_excluded": 698,
+     "origin": "ベトナム産（えび）"
+    },
+    {
+     "title": "[揚げるだけ] 生パン粉付き 大えびフライ 3尾入",
+     "brand": "",
+     "size": "3尾入",
+     "price_tax_excluded": 798,
+     "origin": "インドネシア産（えび）"
+    },
+    {
+     "title": "[揚げるだけ] 長崎県産 あじフライ 4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[揚げるだけ] 北海道産 ほたてフライ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[揚げるだけ] 北海道産 秋鮭フライ 3切入",
+     "brand": "",
+     "size": "3切入",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[揚げるだけ] 白身魚フライ（ホキ）4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 398,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "[揚げるだけ] 広島県産 かきフライ 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 698,
+     "origin": "広島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_breaded_seafood_fry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_donburi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "丼のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "他人丼",
+    "牛とじ丼",
+    "卵とじ"
+   ],
+   "description": "カット済みの肉と玉ねぎ、丼つゆがセットになった丼の具のミールキットです。煮て溶き卵でとじるだけで、ふわとろの親子丼が手早く作れます（卵は別途ご用意ください）。",
+   "image_brief": "Meal kit tray with diced chicken thigh, sliced onion, mitsuba and a dashi sauce pouch, labeled '親子丼の具 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏の親子丼の具 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 680,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏の親子丼の具 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の他人丼の具 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 680,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏と九条ねぎの親子丼の具 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 780,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産牛の牛とじ丼の具 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏の親子丼の具 だし付 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_donburi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_japanese_nimono",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "和食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "筑前煮",
+    "照り煮",
+    "煮物"
+   ],
+   "description": "皮むきやカットを済ませた野菜と肉、合わせだしがセットになった和の煮物キットです。鍋で煮込むだけで、肉じゃがや筑前煮などの定番おかずが作れます。",
+   "image_brief": "Meal kit tray with sliced beef, peeled potato chunks, carrot, onion and shirataki plus a sauce pouch, labeled '肉じゃが 2人前'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産牛の肉じゃが 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産牛の肉じゃが 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の肉じゃが 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産豚の塩肉じゃが 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産鶏の筑前煮 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[ミールキット] 国産鶏と大根の照り煮 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_japanese_nimono_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mizuni_vegetables",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "水煮野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "豚汁",
+    "炊き込みご飯",
+    "煮物",
+    "きんぴら"
+   ],
+   "description": "下ゆで済みの根菜やたけのこの水煮で、皮むきやアク抜きの手間なく使えます。筑前煮や豚汁、炊き込みご飯などの和食にそのまま加えられます。",
+   "image_brief": "Clear vacuum pouch of boiled bamboo shoots, burdock, lotus root and carrot, labeled '筑前煮用 水煮'.",
+   "variants": [
+    {
+     "title": "トップバリュ 筑前煮用 水煮野菜 国産 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ たけのこ水煮 ホール 国産 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ささがきごぼう 水煮 国産 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 里芋 水煮 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ れんこん 水煮 スライス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 五目炊き込みご飯用 水煮野菜 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ふき 水煮 国産 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mizuni_vegetables_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_stir_fry_vegetable_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "炒め用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "焼きそば",
+    "ちゃんぽん",
+    "回鍋肉"
+   ],
+   "description": "キャベツやもやし、にんじんなどを洗ってカットした炒め用の野菜ミックスです。袋から出してそのまま炒められるので、野菜炒めや焼きそばが手早く作れます。",
+   "image_brief": "Clear vegetable bag of shredded cabbage, bean sprouts, carrot strips and onion, labeled '野菜炒めミックス'.",
+   "variants": [
+    {
+     "title": "国産 野菜炒めミックス もやし入り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 野菜炒めミックス キャベツ多め 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 野菜炒め用 カット野菜 260g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "260g",
+     "price_tax_excluded": 138,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 焼きそば用 カット野菜 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ちゃんぽん用 カット野菜 きくらげ入り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 中華炒め用 カット野菜 たけのこ入り 220g",
+     "brand": "",
+     "size": "220g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 野菜炒めミックス 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_stir_fry_vegetable_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_soup_stew_cut_vegetables",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "汁物・煮込み用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚汁",
+    "けんちん汁",
+    "カレー",
+    "シチュー",
+    "味噌汁"
+   ],
+   "description": "根菜やいもを食べやすい大きさにカットした汁物・煮込み用の野菜セットです。皮むきや切る手間が省けるので、豚汁やカレーがすぐに作れます。",
+   "image_brief": "Clear vegetable bag of diced daikon, carrot, burdock and taro chunks, labeled '豚汁用 カット野菜'.",
+   "variants": [
+    {
+     "title": "国産 豚汁用 カット野菜 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 けんちん汁用 カット野菜 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カレー用 カット野菜（じゃがいも・にんじん・たまねぎ）400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 筑前煮用 カット野菜 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 味噌汁用 カット野菜 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 シチュー用 カット野菜 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 根菜ミックス カット済 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_soup_stew_cut_vegetables_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_seasoned_teriyaki_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "照り焼き",
+    "お弁当のおかず",
+    "照り焼き丼",
+    "サンドイッチ"
+   ],
+   "description": "たれや塩麹に漬け込んだ鶏肉で、フライパンで焼くだけで味がしっかり決まります。照り焼きチキンや丼、お弁当のおかずに便利です。",
+   "image_brief": "Clear tray of raw chicken thigh fillets glazed in dark teriyaki marinade, labeled '照り焼き用 たれ漬け'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産若鶏もも 照り焼き用 たれ漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも 照り焼き用 たれ漬け 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 878,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも 塩麹漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏もも ガーリックハーブ漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏むね みそ漬け 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 若鶏もも 照り焼きチキン用 たれ漬け 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏手羽元 甘辛煮用 たれ漬け 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_seasoned_teriyaki_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_seasoned_fish_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "味付け魚",
+    "焼くだけ・下味付き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鮭のムニエル",
+    "ぶりの照り焼き",
+    "ホイル焼き",
+    "南蛮漬け",
+    "お弁当のおかず"
+   ],
+   "description": "下味や衣の粉をつけ済みの魚の切り身で、焼くだけ・揚げるだけで魚のおかずが簡単に作れます。ムニエルや照り焼き、ホイル焼きなど、魚料理のレパートリーが広がります。",
+   "image_brief": "Clear tray of seasoned salmon fillets lightly dusted with flour, labeled 'ムニエル用 下味付き'.",
+   "variants": [
+    {
+     "title": "[焼くだけ] チリ産 銀鮭 ムニエル用 下味付き 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "[焼くだけ] 北海道産 秋鮭 バターしょうゆ用 下味付き 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[焼くだけ] 鹿児島県産 ぶり 照り焼き用 たれ漬け 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[焼くだけ] 北海道産 真だら ムニエル用 下味付き 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[揚げるだけ] ノルウェー産 さば 竜田揚げ用 下味付き 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "[揚げるだけ] 長崎県産 豆あじ 南蛮漬け用 下味付き 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[焼くだけ] チリ産 銀鮭 ホイル焼き用 きのこ・バター付 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_seasoned_fish_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_deli_kit_mealkit_okonomiyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "粉もののミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "広島焼き",
+    "もんじゃ焼き",
+    "ねぎ焼き"
+   ],
+   "description": "カット済みのキャベツと豚肉、お好み焼き粉、ソースがそろった粉もののミールキットです。卵と水を混ぜて焼くだけで、休日のお昼ごはんにお好み焼きが楽しめます。",
+   "image_brief": "Meal kit tray with shredded cabbage, sliced pork belly, batter mix pouch and sauce sachet, labeled 'お好み焼き 2枚分'.",
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚の豚玉お好み焼き 2枚分",
+     "brand": "",
+     "size": "2枚分",
+     "price_tax_excluded": 698,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] 海鮮ミックス お好み焼き 2枚分",
+     "brand": "",
+     "size": "2枚分",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 広島風お好み焼き 中華麺付 2枚分",
+     "brand": "",
+     "size": "2枚分",
+     "price_tax_excluded": 980,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] 国産キャベツたっぷり お好み焼き 4枚分",
+     "brand": "",
+     "size": "4枚分",
+     "price_tax_excluded": 1180,
+     "origin": "国産（キャベツ）"
+    },
+    {
+     "title": "[ミールキット] もんじゃ焼き 明太もち 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 国産九条ねぎのねぎ焼き 2枚分",
+     "brand": "",
+     "size": "2枚分",
+     "price_tax_excluded": 798,
+     "origin": "国産（ねぎ）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_deli_kit_mealkit_okonomiyaki_p.jpg"
+   ]
+  }
+ ]
+}

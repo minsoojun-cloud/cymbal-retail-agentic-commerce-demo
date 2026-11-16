@@ -1,0 +1,3107 @@
+{
+ "category_key": "w_cereal_jam",
+ "items": [
+  {
+   "base_id": "w_cereal_jam_fruit_granola",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルトがけ",
+    "牛乳がけ",
+    "朝食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦やライ麦をこんがり焼き上げ、いちご・りんご・レーズンなどのドライフルーツをたっぷり合わせたグラノーラ。ザクザクの食感とやさしい甘さで、牛乳やヨーグルトをかけるだけで彩りのよい朝食になります。",
+   "image_brief": "A tall stand-up resealable pouch of fruit granola with a clear window showing golden oat clusters and red dried fruit pieces, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツグラノーラ 380g",
+     "brand": "Cymbal",
+     "size": "380g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツグラノーラ 大容量 750g",
+     "brand": "Cymbal",
+     "size": "750g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フルーツグラノーラ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ベリー増量 フルーツグラノーラ 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツグラノーラ 小袋 40g×6袋",
+     "brand": "Cymbal",
+     "size": "40g×6袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_fruit_granola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_low_sugar_granola",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルトがけ",
+    "豆乳がけ",
+    "朝食",
+    "サラダトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "糖質を通常品より抑えながら、香ばしさとザクザク食感を楽しめるグラノーラ。大豆パフやアーモンドを加え、食べごたえもしっかり。甘さ控えめで、ヨーグルトや無調整豆乳との相性も抜群です。",
+   "image_brief": "A matte white stand-up pouch of low-sugar granola with a small window revealing toasted oat clusters, soy puffs and sliced almonds, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 糖質オフ グラノーラ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質オフ グラノーラ 大容量 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 糖質25%オフ ナッツグラノーラ 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質オフ グラノーラ ココア 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質オフ グラノーラ 小袋 35g×5袋",
+     "brand": "Cymbal",
+     "size": "35g×5袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_low_sugar_granola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_maple_nut_granola",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "アーモンド",
+    "くるみ",
+    "カシューナッツ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ヨーグルトがけ",
+    "牛乳がけ",
+    "アイスのトッピング",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "メープルシロップでじっくり焼き上げたオーツに、アーモンド・くるみ・カシューナッツをごろっと合わせました。芳ばしいナッツとメープルのコクが広がる、秋冬にうれしい贅沢な味わいのグラノーラです。",
+   "image_brief": "A kraft-paper stand-up pouch of maple nut granola with a window showing amber oat clusters and whole almonds and walnuts, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal メープルナッツグラノーラ 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カナダ産メープル使用 ナッツグラノーラ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルナッツグラノーラ 大容量 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ヒルサイド・ファーム メープル&ピーカンナッツ グラノーラ 300g",
+     "brand": "ヒルサイド・ファーム",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機オーツ メープルグラノーラ 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_maple_nut_granola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_choco_granola",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "ヨーグルトがけ",
+    "おやつ",
+    "パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "ココアを練り込んで焼き上げたグラノーラにチョコチップを合わせた、子どもにも大人にも人気の味。牛乳をかけるとほんのりチョコミルクに。パフェやアイスのトッピングとしても楽しめます。",
+   "image_brief": "A dark brown stand-up pouch with a clear window showing cocoa granola clusters and chocolate chips, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコグラノーラ 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコグラノーラ 大容量 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ベルギー産チョコチップ入り グラノーラ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコ&バナナ グラノーラ 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ココアグラノーラ 450g",
+     "brand": "Cymbal ベーシック",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_choco_granola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_wafu_granola",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "豆乳がけ",
+    "ヨーグルトがけ",
+    "和風パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "国産きな粉と沖縄県産黒糖でまとめた、和の素材が香る和風グラノーラ。黒豆や玄米パフ、ごまを合わせて香ばしく仕上げました。豆乳をかけたり、バニラアイスに添えたりと、ほっとする甘さを楽しめます。",
+   "image_brief": "A washi-style beige stand-up pouch of Japanese-style granola with a window showing kinako-dusted clusters and black soybeans, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒糖きなこ グラノーラ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 抹茶あずき グラノーラ 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒ごま豆乳 グラノーラ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖きなこ グラノーラ 小袋 40g×5袋",
+     "brand": "Cymbal",
+     "size": "40g×5袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "穀屋 たなごころ 国産素材の和グラノーラ 250g",
+     "brand": "穀屋 たなごころ",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_wafu_granola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_quick_oats",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "オートミール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オートミール粥",
+    "オーバーナイトオーツ",
+    "米化オートミール",
+    "クッキー作り"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦を細かくカットして薄く押したクイックオーツ。水や牛乳を加えて電子レンジで1分ほど加熱するだけで、なめらかなポリッジが完成します。米化やお菓子作りにも使いやすく、忙しい朝の主食におすすめ。",
+   "image_brief": "A tall paper bag with a resealable zipper of fine quick-cooking oat flakes, beige with a blank label, a small bowl of oats beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クイックオーツ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "Cymbal クイックオーツ 大容量 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "Cymbal ベーシック クイックオーツ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機クイックオーツ 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal セレクト 国産オーツ麦 クイックオーツ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_quick_oats_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_instant_oatmeal_cup",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "オートミール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "朝食",
+    "オフィスランチ",
+    "夜食",
+    "温かい軽食"
+   ],
+   "tax_rate": 8,
+   "description": "お湯や牛乳を注ぐだけで食べられる、味付きオートミールのカップタイプ。ミルク仕立てのやさしい甘さから、和風のだし仕立てまで揃えました。寒い朝や小腹がすいたときの、手軽で温かい一品に。",
+   "image_brief": "A row of three white paper cups with peel-off lids filled with instant oatmeal, one open showing creamy porridge with raisins, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オートミール カップ ミルク&メープル 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オートミール カップ ベリーミックス 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オートミール カップ 和風だし雑炊風 28g",
+     "brand": "Cymbal",
+     "size": "28g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オートミール カップ チーズリゾット風 29g",
+     "brand": "Cymbal",
+     "size": "29g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オートミール カップ 4種アソート 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_instant_oatmeal_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_berry_muesli",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "ミューズリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルト漬け",
+    "牛乳がけ",
+    "オーバーナイト",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "焼かずに仕上げたオーツやライ麦フレークに、クランベリーやブルーベリー、ヨーグルトチップを合わせたミューズリー。素材本来の素朴な味わいで、前の晩に牛乳やヨーグルトに浸しておくとしっとりなめらかに。",
+   "image_brief": "A clear stand-up pouch of raw muesli showing pale oat flakes, purple and red dried berries and white yogurt chips, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベリー&ヨーグルト ミューズリー 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ドイツ製法 ベリーミューズリー 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal ベリー&ヨーグルト ミューズリー 大容量 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンベルク スイススタイル ベリーミューズリー 500g",
+     "brand": "モルゲンベルク",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "スイス製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ベリーミューズリー 砂糖不使用 350g",
+     "brand": "Cymbal オーガニック",
+     "size": "350g",
+     "price_tax_excluded": 698,
+     "origin": "ドイツ製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_berry_muesli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_zakkoku_flakes",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "雑穀・玄米フレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "豆乳がけ",
+    "ヨーグルトがけ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "大麦・もち麦・黒米・きびなど国産雑穀をブレンドしてフレークに仕上げた、香ばしい雑穀シリアル。甘さ控えめで穀物のうまみが感じられ、牛乳でも豆乳でもおいしく食べられます。毎日の朝食に。",
+   "image_brief": "A brown paper box with a blank label next to a bowl of mixed multigrain flakes with visible dark rice and barley pieces, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 十六穀フレーク 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国産雑穀使用"
+    },
+    {
+     "title": "Cymbal 十六穀フレーク 大容量 360g",
+     "brand": "Cymbal",
+     "size": "360g",
+     "price_tax_excluded": 498,
+     "origin": "国産雑穀使用"
+    },
+    {
+     "title": "Cymbal セレクト もち麦たっぷり 雑穀フレーク 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち麦使用"
+    },
+    {
+     "title": "Cymbal 黒豆きなこ 雑穀フレーク 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機玄米&雑穀フレーク 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_zakkoku_flakes_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_bran_sticks",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "ブランフレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "ヨーグルトがけ",
+    "サラダトッピング",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "小麦ふすま（ブラン）を細いスティック状に焼き上げた、食物繊維たっぷりのシリアル。カリッとした歯ごたえと香ばしさが特長で、ヨーグルトに混ぜたり、いつものシリアルに足したりと使い方いろいろです。",
+   "image_brief": "A tall cardboard cereal box with blank label beside a bowl of thin brown bran sticks, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ブランスティック 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブランスティック 大容量 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト オーツブラン入り ブランスティック 230g",
+     "brand": "Cymbal セレクト",
+     "size": "230g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブランスティック フルーツミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_bran_sticks_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_rice_puff",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "パフ・リングシリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "チョコバー作り",
+    "パフェ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "お米をふっくら膨らませた軽い食感のライスパフ。牛乳をかけるとサクサクと心地よく、お菓子作りではマシュマロやチョコと合わせてバーにするのもおすすめ。穀物の素朴な味で子どもにも人気です。",
+   "image_brief": "A clear stand-up bag of light airy puffed rice grains with a blank label, a small heap of puffs spilling in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ライスパフ プレーン 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 玄米パフ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 278,
+     "origin": "国産玄米使用"
+    },
+    {
+     "title": "Cymbal ライスパフ ココア味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ライスパフ 大容量 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機玄米パフ 無糖 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_rice_puff_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_honey_oat_rings",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "パフ・リングシリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "朝食",
+    "おやつ",
+    "スナック"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦と全粒穀物で作ったリング型のシリアルを、はちみつで香ばしくコーティング。ほんのりした甘さとサクサクの軽さで、牛乳をかけても、そのままスナック感覚で食べてもおいしい家族向けの味です。",
+   "image_brief": "A tall cereal box with blank label next to a white bowl of golden honey oat ring cereal in milk, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハニーオーツリング 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーオーツリング 大容量 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニー&ナッツ オーツリング 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オーツリング プレーン 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーオーツリング 小袋 25g×8袋",
+     "brand": "Cymbal",
+     "size": "25g×8袋",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_honey_oat_rings_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_fruit_rings",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "パフ・リングシリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "朝食",
+    "キッズおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "赤・黄・緑などカラフルな色合いのフルーツ風味リングシリアル。色付けには野菜や果実由来の色素を使用しています。甘酸っぱい香りで朝食が楽しくなり、お子さまの朝ごはんやおやつにぴったりです。",
+   "image_brief": "A tall cereal box with blank label next to a bowl of colorful red, yellow, green and purple fruit-flavored ring cereal, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツリング 230g",
+     "brand": "Cymbal",
+     "size": "230g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツリング 大容量 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツリング ミニパック 20g×6袋",
+     "brand": "Cymbal",
+     "size": "20g×6袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "サニーグレイン トロピカル フルーツリング 250g",
+     "brand": "サニーグレイン",
+     "size": "250g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_fruit_rings_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_protein_cereal",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "機能性シリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛乳がけ",
+    "トレーニング後の補食",
+    "朝食",
+    "ヨーグルトがけ"
+   ],
+   "tax_rate": 8,
+   "description": "大豆たんぱくと乳たんぱくを配合し、1食あたり約15gのたんぱく質がとれる高たんぱくシリアル。サクッと軽い食感で、牛乳をかけるとさらにたんぱく質アップ。運動習慣のある方の朝食にもおすすめです。",
+   "image_brief": "A sturdy dark stand-up pouch of high-protein cereal with a window showing crunchy beige soy crisps, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 高たんぱく シリアル プレーン 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく シリアル ココア 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく シリアル ベリー 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 628,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高たんぱく ナッツシリアル 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく シリアル 小袋 40g×6袋",
+     "brand": "Cymbal",
+     "size": "40g×6袋",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_protein_cereal_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_granola_bar",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "シリアルバー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "間食",
+    "アウトドア",
+    "オフィスおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "グラノーラとナッツ、ドライフルーツをぎゅっと固めた食べきりサイズのシリアルバー。個包装でバッグに入れやすく、忙しい朝や仕事の合間、登山などのアウトドアにも。噛みごたえのある満足感が魅力です。",
+   "image_brief": "A small paper box with blank label beside several individually wrapped granola bars, one unwrapped showing oat, nut and fruit layers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal グラノーラバー フルーツ 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グラノーラバー ナッツ&チョコ 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グラノーラバー メープル 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ナッツたっぷり シリアルバー 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グラノーラバー 3種アソート 12本入",
+     "brand": "Cymbal",
+     "size": "12本入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_granola_bar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_kids_cereal_portion",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "キッズシリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "キッズおやつ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "1食分ずつ小分けになった、お子さま向けのシリアル。食べやすい小粒タイプで、カルシウムと鉄分を配合しました。食べすぎ防止にも便利な個包装なので、お出かけやおやつにも持っていきやすいです。",
+   "image_brief": "A colorful carton with blank panels containing several small individual cereal pouches, a few small round cereal bites in a kids bowl, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キッズシリアル 小分け ミルク味 20g×8袋",
+     "brand": "Cymbal",
+     "size": "20g×8袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズシリアル 小分け ココア味 20g×8袋",
+     "brand": "Cymbal",
+     "size": "20g×8袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズシリアル 小分け いちご味 20g×8袋",
+     "brand": "Cymbal",
+     "size": "20g×8袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズシリアル 小分け 3種アソート 20g×12袋",
+     "brand": "Cymbal",
+     "size": "20g×12袋",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_kids_cereal_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_blueberry_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "チーズケーキ",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "粒感を残して炊き上げたブルーベリージャム。甘酸っぱさと深い紫色が美しく、トーストやヨーグルトはもちろん、レアチーズケーキのソースにもぴったりです。使いやすい瓶とチューブを揃えました。",
+   "image_brief": "A round glass jar of deep purple blueberry jam with whole berries visible, a plain white lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ブルーベリージャム 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果実たっぷり ワイルドブルーベリージャム 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産ブルーベリー使用"
+    },
+    {
+     "title": "Cymbal ブルーベリージャム チューブ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産ブルーベリージャム 140g",
+     "brand": "Cymbal セレクト",
+     "size": "140g",
+     "price_tax_excluded": 598,
+     "origin": "長野県産ブルーベリー使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_blueberry_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_apple_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "アップルパイ風トースト",
+    "紅茶"
+   ],
+   "tax_rate": 8,
+   "description": "旬のりんごをシャキッとした果肉感を残して煮詰めたりんごジャム。すっきりした甘さとほのかな酸味で、シナモンをふったトーストやヨーグルトに。紅茶に溶かせばアップルティー風にも楽しめます。",
+   "image_brief": "A glass jar of golden apple jam with visible diced apple pieces, plain gold lid and blank label, a red apple beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal りんごジャム 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 青森県産ふじ りんごジャム 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "青森県産りんご使用"
+    },
+    {
+     "title": "Cymbal セレクト 長野県産紅玉 りんごジャム 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 528,
+     "origin": "長野県産りんご使用"
+    },
+    {
+     "title": "Cymbal シナモン香るりんごジャム 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごジャム チューブ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_apple_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_apricot_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ザッハトルテ",
+    "パウンドケーキ",
+    "スコーン"
+   ],
+   "tax_rate": 8,
+   "description": "あんずならではの甘酸っぱさと鮮やかなオレンジ色が楽しめるジャム。トーストやスコーンに塗るほか、焼き菓子の艶出しやケーキのサンドにも重宝します。さっぱりした後味で飽きのこない味わいです。",
+   "image_brief": "A glass jar of bright orange apricot jam with soft fruit pieces, plain white lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あんずジャム 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんずジャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果肉ごろっと あんずジャム 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 498,
+     "origin": "トルコ産あんず使用"
+    },
+    {
+     "title": "Cymbal セレクト 信州産あんず ジャム 140g",
+     "brand": "Cymbal セレクト",
+     "size": "140g",
+     "price_tax_excluded": 598,
+     "origin": "長野県産あんず使用"
+    },
+    {
+     "title": "Cymbal ベーシック アプリコットジャム 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_apricot_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_low_sugar_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "低糖度ジャム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "りんご",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "クラッカー",
+    "アイスのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "糖度を約40度に抑え、果実本来の香りと酸味を生かした低糖度ジャム。甘さ控えめでたっぷり塗れるのが魅力です。開封後は冷蔵庫で保存し、お早めにお召し上がりください。フルーツ別に選べます。",
+   "image_brief": "Three small squat glass jars of jam in red, purple and orange colors with plain lids and blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 低糖度 いちごジャム 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 低糖度 ブルーベリージャム 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 低糖度 マーマレード 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 低糖度 りんごジャム 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 糖度30度 国産いちごジャム 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国産いちご使用"
+    },
+    {
+     "title": "Cymbal ベーシック 低糖度 ミックスフルーツジャム 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_low_sugar_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_mixed_berry_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "パンケーキ",
+    "フレンチトースト"
+   ],
+   "tax_rate": 8,
+   "description": "ラズベリー・ブラックベリー・カシス・いちごの4種のベリーを合わせた、甘酸っぱく香り高いミックスベリージャム。濃い赤色で見た目も華やか。パンケーキやフレンチトーストにたっぷりのせて楽しめます。",
+   "image_brief": "A glass jar of dark red mixed berry jam with seeds and berry pieces visible, plain lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 4種のミックスベリージャム 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラズベリージャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フランス製法 カシスジャム 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 498,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal セレクト 種なし ラズベリージャム 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・クラリス ベリーコンフィチュール 230g",
+     "brand": "メゾン・クラリス",
+     "size": "230g",
+     "price_tax_excluded": 698,
+     "origin": "フランス製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_mixed_berry_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_peach_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "紅茶",
+    "かき氷"
+   ],
+   "tax_rate": 8,
+   "description": "みずみずしい白桃の香りと上品な甘さを閉じ込めたジャム。やわらかな果肉入りで、トーストやヨーグルトにのせるとまるでデザートのよう。紅茶に溶かすとピーチティー風にも楽しめます。",
+   "image_brief": "A glass jar of pale peach-colored jam with soft white peach pieces, plain white lid and blank label, a peach slice beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白桃ジャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 山梨県産白桃 ジャム 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "山梨県産もも使用"
+    },
+    {
+     "title": "Cymbal セレクト 岡山県産白桃 コンフィチュール 140g",
+     "brand": "Cymbal セレクト",
+     "size": "140g",
+     "price_tax_excluded": 648,
+     "origin": "岡山県産もも使用"
+    },
+    {
+     "title": "Cymbal 黄桃ジャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_peach_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_fig_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "トースト",
+    "チーズの盛り合わせ",
+    "生ハムのおつまみ",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "いちじくのプチプチとした種の食感と濃厚な甘みが楽しめるジャム。トーストに塗るのはもちろん、ブルーチーズやクリームチーズ、生ハムと合わせるとワインのおつまみにもなる大人の味わいです。",
+   "image_brief": "A squat glass jar of thick brown-purple fig jam with visible tiny seeds, plain black lid and blank label, a halved fresh fig beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちじくジャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産いちじく ジャム 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "愛知県産いちじく使用"
+    },
+    {
+     "title": "Cymbal セレクト 赤ワイン仕立て いちじくジャム 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・クラリス いちじくのコンフィチュール 230g",
+     "brand": "メゾン・クラリス",
+     "size": "230g",
+     "price_tax_excluded": 748,
+     "origin": "フランス製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_fig_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_tropical_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "パンケーキ",
+    "ドリンクの割り材"
+   ],
+   "tax_rate": 8,
+   "description": "マンゴーやパイナップル、パッションフルーツなど南国フルーツのジャム。華やかな香りと濃厚な甘さで、いつものトーストやヨーグルトが一気にトロピカルな味わいに。ドリンクの割り材としてもおすすめです。",
+   "image_brief": "A glass jar of bright golden-yellow mango jam with soft fruit pieces, plain yellow lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マンゴージャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パイナップルジャム 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産マンゴー ジャム 140g",
+     "brand": "Cymbal セレクト",
+     "size": "140g",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産マンゴー使用"
+    },
+    {
+     "title": "Cymbal パッションフルーツ&マンゴージャム 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トロピカルミックスジャム 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_tropical_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_jam_portion",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ポーションジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当のパン",
+    "キャンプ",
+    "ホテル風朝食"
+   ],
+   "tax_rate": 8,
+   "description": "使い切りサイズのポーションタイプのジャム。いちご・ブルーベリー・マーマレード・りんごなどのアソートで、毎朝いろいろな味を楽しめます。お弁当のパンやキャンプなど、持ち運びにも便利です。",
+   "image_brief": "A small paper box with blank label beside a fanned arrangement of tiny peel-top jam portion cups in red, purple, orange and gold, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポーションジャム 4種アソート 15g×12個",
+     "brand": "Cymbal",
+     "size": "15g×12個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポーションジャム いちご 15g×10個",
+     "brand": "Cymbal",
+     "size": "15g×10個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホテルブレックファスト ポーションジャム 20g×8個",
+     "brand": "Cymbal セレクト",
+     "size": "20g×8個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポーションジャム 低糖度アソート 13g×12個",
+     "brand": "Cymbal",
+     "size": "13g×12個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_jam_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_no_sugar_fruit_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "フルーツスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "オートミール",
+    "クラッカー"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖を使わず、ぶどう果汁などの果実の甘さだけで仕上げたフルーツスプレッド。果実そのもののすっきりとした風味で、甘さを控えたい方にぴったりです。開封後は要冷蔵。お早めにお召し上がりください。",
+   "image_brief": "A slim glass jar of red fruit spread with real fruit pieces, a plain kraft-paper lid cover tied with string and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 砂糖不使用 いちごフルーツスプレッド 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 砂糖不使用 ブルーベリーフルーツスプレッド 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 砂糖不使用 アプリコットフルーツスプレッド 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果汁で甘みをつけた ミックスベリースプレッド 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果実90% いちごスプレッド 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_no_sugar_fruit_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_japanese_citrus_marmalade",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "マーマレード"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "トースト",
+    "ゆず茶",
+    "照り焼きの隠し味",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "国産のゆずや甘夏、レモンなどの柑橘を皮ごと使ったマーマレード。ほろ苦さと爽やかな香りが特長で、トーストに塗るほか、お湯で割ってゆず茶風にしたり、鶏の照り焼きの隠し味にも使えます。",
+   "image_brief": "A glass jar of translucent pale yellow citrus marmalade with thin peel shreds, plain white lid and blank label, a yuzu fruit beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 高知県産ゆず マーマレード 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "高知県産ゆず使用"
+    },
+    {
+     "title": "Cymbal 国産甘夏 マーマレード 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "熊本県産甘夏使用"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内レモン マーマレード 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "広島県産レモン使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産ゆず 皮たっぷりマーマレード 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "徳島県産ゆず使用"
+    },
+    {
+     "title": "Cymbal ゆずマーマレード チューブ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 248,
+     "origin": "国産ゆず使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_japanese_citrus_marmalade_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_almond_butter",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ナッツバター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド",
+    "カシューナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "スムージー",
+    "りんごのディップ",
+    "オートミール"
+   ],
+   "tax_rate": 8,
+   "description": "ローストしたアーモンドをなめらかにすりつぶしたアーモンドバター。香ばしいコクとほのかな甘みがあり、トーストやバナナ、りんごに添えるのがおすすめ。スムージーに加えるとコクがぐっと深まります。",
+   "image_brief": "A short glass jar of smooth light brown almond butter with a plain black lid and blank label, a few whole almonds beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アーモンドバター クリーミー 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドバター 粒入り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機アーモンドバター 無糖 170g",
+     "brand": "Cymbal オーガニック",
+     "size": "170g",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産アーモンド使用"
+    },
+    {
+     "title": "Cymbal カシューナッツバター 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ミックスナッツバター 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_almond_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_sweet_peanut_cream",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ピーナッツクリーム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "コッペパン",
+    "ホットサンド",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ピーナッツペーストに砂糖と練乳を合わせた、甘くてなめらかなピーナッツクリーム。昔ながらのコッペパンの味わいを家庭で楽しめます。冷蔵庫に入れても固くなりにくく、塗りやすいやわらかさです。",
+   "image_brief": "A plastic tub with a plain lid of soft beige sweet peanut cream, open showing a smooth swirl, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピーナッツクリーム 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーナッツクリーム 大容量 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 粒入りピーナッツクリーム 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 千葉県産落花生 ピーナッツクリーム 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 448,
+     "origin": "千葉県産落花生使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_sweet_peanut_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_white_choco_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "チョコスプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "クレープ",
+    "いちごのディップ",
+    "ホットミルク"
+   ],
+   "tax_rate": 8,
+   "description": "ミルク感たっぷりのホワイトチョコレートスプレッド。まろやかで甘い味わいは、トーストやクレープ、いちごとの相性が抜群です。ホットミルクに溶かせばやさしい甘さのホワイトチョコドリンクにもなります。",
+   "image_brief": "A glass jar of creamy ivory white chocolate spread with a plain lid and blank label, a spoon with a swirl of spread beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごミルクチョコスプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶ホワイトチョコスプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クッキー入り ホワイトチョコスプレッド 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_white_choco_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_condensed_milk",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "練乳・ミルクスプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "いちごにかける",
+    "かき氷",
+    "ミルクトースト",
+    "ベトナムコーヒー"
+   ],
+   "tax_rate": 8,
+   "description": "牛乳をじっくり煮詰めて砂糖を加えた、コクのある加糖れん乳。いちごにかけたり、トーストに塗ってミルクトーストにしたり。使いやすいチューブタイプと、お菓子作りに便利な缶タイプを揃えました。",
+   "image_brief": "A white squeezable tube of sweetened condensed milk with a red cap and blank label, beside a small can with a plain blank wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 練乳 チューブ 大容量 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産生乳使用"
+    },
+    {
+     "title": "Cymbal 加糖れん乳 缶 397g",
+     "brand": "Cymbal",
+     "size": "397g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 練乳 いちご風味 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "北海道産生乳使用"
+    },
+    {
+     "title": "Cymbal 練乳 ミニチューブ 50g×3本",
+     "brand": "Cymbal",
+     "size": "50g×3本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_condensed_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_milk_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "練乳・ミルクスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "フレンチトースト",
+    "ラスク",
+    "クレープ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産の乳製品を使った、まろやかで濃厚なミルクスプレッド。トーストに塗って焼くと、表面がこんがりキャラメルのように香ばしくなります。シンプルな食パンをちょっと贅沢なおやつにしてくれる一品です。",
+   "image_brief": "A small white plastic tub of creamy off-white milk spread with a plain lid and blank label, a slice of toast with spread beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道ミルクスプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産乳製品使用"
+    },
+    {
+     "title": "Cymbal ミルクキャラメル スプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道ミルクスプレッド 大容量 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産乳製品使用"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター入り ミルクスプレッド 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産乳製品使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_milk_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_anbutter_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "あんこ・小倉スプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "コッペパン",
+    "ホットケーキ",
+    "あんバターサンド"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆のつぶあんに、風味豊かなバターを合わせたあんバタースプレッド。塗るだけで人気のあんバタートーストが手軽に楽しめます。甘じょっぱい味わいはホットケーキやクラッカーにもよく合います。",
+   "image_brief": "A small rounded plastic tub of dark red bean paste swirled with pale butter cream, plain lid and blank label, a toast slice beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あんバタースプレッド 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal あんバタースプレッド チューブ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター仕立て あんバター 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal 抹茶あんバタースプレッド 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩バター こしあんスプレッド 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_anbutter_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_maple_butter_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "トーストスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "トースト",
+    "パンケーキ",
+    "ワッフル",
+    "スコーン"
+   ],
+   "tax_rate": 8,
+   "description": "メープルシロップとバターを合わせた、とろける甘さのメープルバタースプレッド。焼きたてのトーストに塗るとじゅわっと染み込み、香ばしいメープルの香りが広がります。パンケーキやワッフルにも。",
+   "image_brief": "A short glass jar of light caramel-colored maple butter spread with a plain wooden-tone lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal メープルバタースプレッド 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カナダ産メープル使用 メープルクリーム 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 598,
+     "origin": "カナダ製造"
+    },
+    {
+     "title": "Cymbal メープルシナモンスプレッド 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルバタースプレッド チューブ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_maple_butter_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_sesame_cream",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "トーストスプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ごまトースト",
+    "ホットケーキ",
+    "白玉"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく煎ったごまをなめらかなペーストにし、甘さを加えたごまクリーム。黒ごまは濃厚なコク、白ごまはまろやかな風味が特長です。トーストに塗って焼くと香ばしさが際立ち、和のおやつにも合います。",
+   "image_brief": "Two short glass jars of sweet sesame cream, one jet black and one creamy beige, plain lids and blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒ごまクリーム 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白ごまクリーム 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒ごまきなこクリーム 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産金ごま クリーム 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国産ごま使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_sesame_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_salted_caramel_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "キャラメル・クッキースプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "アイスのトッピング",
+    "クレープ",
+    "りんごのソテー"
+   ],
+   "tax_rate": 8,
+   "description": "ほろ苦く煮詰めたキャラメルに塩をきかせた塩キャラメルスプレッドと、スパイス香るクッキーをペーストにしたクッキースプレッド。トーストやアイス、焼きりんごに添えればカフェのようなデザートに。",
+   "image_brief": "A glass jar of glossy amber salted caramel spread with a plain lid and blank label, a spoon dripping caramel beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩キャラメルスプレッド 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイスクッキースプレッド 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイスクッキースプレッド クランチ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フランス産塩使用 キャラメルスプレッド 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "フランス製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_salted_caramel_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_lemon_curd",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "フルーツカード"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スコーン",
+    "トースト",
+    "タルト",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "レモン果汁と卵、バター、砂糖を合わせてとろりと仕上げたレモンカード。爽やかな酸味とコクのある甘さがクセになる味わいです。スコーンやトーストに塗るほか、タルトのフィリングにも使えます。",
+   "image_brief": "A squat glass jar of bright yellow smooth lemon curd with a plain white lid and blank label, a lemon half beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レモンカード 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内レモンカード 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "広島県産レモン使用"
+    },
+    {
+     "title": "Cymbal パッションフルーツカード 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆずカード 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "国産ゆず使用"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_lemon_curd_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_mentaiko_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "トーストスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "明太フランス",
+    "トースト",
+    "パスタ",
+    "じゃがバター"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛い明太子にバターとマヨネーズを合わせたトーストスプレッド。バゲットに塗って焼けば、パン屋さんの明太フランスが家庭で手軽に。パスタやじゃがいもにあえても美味しく使えます。",
+   "image_brief": "A small squat glass jar of pinkish creamy mentaiko butter spread with a plain red lid and blank label, a sliced baguette beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 明太子トーストスプレッド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ツナマヨトーストスプレッド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーンマヨトーストスプレッド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズトーストスプレッド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多仕立て 明太子バター 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_mentaiko_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_cinnamon_sugar_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "トーストスプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "シナモントースト",
+    "ラスク",
+    "フレンチトースト",
+    "焼きりんご"
+   ],
+   "tax_rate": 8,
+   "description": "シナモンとグラニュー糖、ミルクのコクを合わせたスプレッド。トーストに塗って焼くだけで、カリッと香ばしいシナモンシュガートーストの完成。寒い季節のおやつや朝食に、温かい飲み物と一緒にどうぞ。",
+   "image_brief": "A short plastic jar of light brown cinnamon sugar spread with a plain lid and blank label, a cinnamon stick and toast slice beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シナモンシュガースプレッド 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シナモンシュガートースト用 パウダー 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シナモンりんごスプレッド 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖きなこスプレッド 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_cinnamon_sugar_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_domestic_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "国産はちみつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "紅茶",
+    "煮物の隠し味"
+   ],
+   "tax_rate": 8,
+   "description": "日本各地の養蜂家が採蜜した国産はちみつ。れんげ・みかん・百花など、花ごとに異なる香りと味わいが楽しめます。やさしい甘さで、トーストやヨーグルト、紅茶はもちろん、和食の照りやコク出しにもおすすめです。",
+   "image_brief": "A hexagonal glass jar of clear amber honey with a plain gold lid and blank label, a wooden honey dipper beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 百花はちみつ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 れんげはちみつ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1680,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 みかんはちみつ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1480,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 さくらはちみつ 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産はちみつ チューブ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "蜂蜜舎 花暦 国産 とちはちみつ 240g",
+     "brand": "蜂蜜舎 花暦",
+     "size": "240g",
+     "price_tax_excluded": 1880,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_domestic_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_acacia_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "アカシアはちみつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ヨーグルト",
+    "ハニーレモン",
+    "チーズのおつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "クセが少なく上品な甘さのアカシアはちみつ。透き通った淡い色合いで、結晶しにくいのも特長です。素材の味を邪魔しないので、ヨーグルトや紅茶、チーズに合わせるのにぴったり。料理の甘みづけにも。",
+   "image_brief": "A tall clear glass jar of very pale golden acacia honey, plain gold lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アカシアはちみつ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "ハンガリー産"
+    },
+    {
+     "title": "Cymbal アカシアはちみつ 大容量 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "ハンガリー産"
+    },
+    {
+     "title": "Cymbal アカシアはちみつ ボトル 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "ルーマニア産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 アカシアはちみつ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1980,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機アカシアはちみつ 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 1280,
+     "origin": "ルーマニア産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_acacia_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_wildflower_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "百花はちみつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ホットミルク",
+    "肉料理の照り",
+    "ドレッシング"
+   ],
+   "tax_rate": 8,
+   "description": "さまざまな花の蜜が混ざり合った、コクと香りの深い百花はちみつ。産地ごとの個性ある風味が楽しめます。ホットミルクに溶かしたり、照り焼きやドレッシングに加えたりと、毎日の料理に気軽に使えます。",
+   "image_brief": "A squeezable upside-down plastic bottle of rich amber wildflower honey with a flip cap and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 百花はちみつ ボトル 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "Cymbal ベーシック 百花はちみつ ボトル 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 百花はちみつ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal セレクト ニュージーランド産 百花はちみつ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1280,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機百花はちみつ 300g",
+     "brand": "Cymbal オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 998,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_wildflower_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_manuka_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "マヌカハニー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スプーンでそのまま",
+    "ホットドリンク",
+    "ヨーグルト",
+    "トースト"
+   ],
+   "tax_rate": 8,
+   "description": "ニュージーランドに自生するマヌカの花から採れたはちみつ。濃厚でキャラメルのような深いコクと、独特のハーブのような香りが特長です。スプーンでそのまま味わうほか、温かい飲み物に溶かしても。",
+   "image_brief": "A squat dark amber glass jar of thick creamy manuka honey with a plain black lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マヌカハニー 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 2980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal セレクト マヌカハニー MGO100+ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 3980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal セレクト マヌカハニー MGO250+ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 5980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "アオラキ・ビーファーム マヌカブレンドハニー 500g",
+     "brand": "アオラキ・ビーファーム",
+     "size": "500g",
+     "price_tax_excluded": 2480,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal マヌカハニー スティック 5g×12本",
+     "brand": "Cymbal",
+     "size": "5g×12本",
+     "price_tax_excluded": 1980,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_manuka_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_creamed_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "クリームはちみつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "トースト",
+    "クラッカー",
+    "スコーン",
+    "ホットケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "はちみつを細かく結晶させて、バターのようになめらかに仕上げたクリームはちみつ。たれにくく塗りやすいので、トーストやクラッカーにぴったりです。舌の上でゆっくりとろける、まろやかな甘さが魅力です。",
+   "image_brief": "A short wide glass jar of opaque creamy white crystallized honey with a plain lid and blank label, a butter knife spreading it on toast beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリームはちみつ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 非加熱 クリームはちみつ 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 1080,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal クリームはちみつ シナモン 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ製造"
+    },
+    {
+     "title": "Cymbal クリームはちみつ レモン 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_creamed_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_raw_comb_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "生はちみつ・巣みつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チーズの盛り合わせ",
+    "トースト",
+    "ヨーグルト",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "加熱処理をせず、花の香りをそのまま残した生はちみつと、ミツバチがつくった巣ごと味わえる巣みつ。ナイフで切り分けて、チーズやトーストにのせれば、とろける蜜と蜜蝋の食感が楽しめます。",
+   "image_brief": "A clear square plastic case holding a golden honeycomb slab glistening with honey, next to a small glass jar of raw honey with plain lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 非加熱 生はちみつ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 巣みつ（コムハニー） 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "ハンガリー産"
+    },
+    {
+     "title": "Cymbal セレクト 巣みつ入り はちみつ 340g",
+     "brand": "Cymbal セレクト",
+     "size": "340g",
+     "price_tax_excluded": 1680,
+     "origin": "ハンガリー産"
+    },
+    {
+     "title": "蜂蜜舎 花暦 非加熱 百花生はちみつ 300g",
+     "brand": "蜂蜜舎 花暦",
+     "size": "300g",
+     "price_tax_excluded": 1880,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_raw_comb_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_honey_portion",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "はちみつ スティック・ポーション"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当のパン",
+    "コーヒー・紅茶",
+    "お出かけ",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "1回分ずつ使い切れるスティックタイプのはちみつ。手を汚さずに使え、職場や外出先でも紅茶やヨーグルトに手軽に加えられます。液だれの心配が少なく、来客用のおもてなしにも重宝します。",
+   "image_brief": "A small paper box with blank label beside several slim translucent honey stick packets filled with golden honey, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal はちみつ スティック 8g×12本",
+     "brand": "Cymbal",
+     "size": "8g×12本",
+     "price_tax_excluded": 298,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "Cymbal 国産はちみつ スティック 6g×10本",
+     "brand": "Cymbal",
+     "size": "6g×10本",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal アカシアはちみつ ポーション 10g×10個",
+     "brand": "Cymbal",
+     "size": "10g×10個",
+     "price_tax_excluded": 398,
+     "origin": "ハンガリー産"
+    },
+    {
+     "title": "Cymbal はちみつレモン スティック 8g×12本",
+     "brand": "Cymbal",
+     "size": "8g×12本",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_honey_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_kuromitsu",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "黒蜜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "わらび餅",
+    "くずもち",
+    "あんみつ",
+    "バニラアイス"
+   ],
+   "tax_rate": 8,
+   "description": "黒砂糖を煮溶かして仕上げた、コク深い黒蜜。こっくりとした甘さと香ばしさで、わらび餅やくずもち、あんみつに欠かせません。バニラアイスやヨーグルト、きな粉と合わせても和スイーツ気分が楽しめます。",
+   "image_brief": "A small slim plastic bottle of glossy dark brown kuromitsu brown-sugar syrup with a pointed cap and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒蜜 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒蜜 大容量 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産黒糖100% 黒蜜 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "Cymbal セレクト 波照間島産黒糖 黒蜜 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "Cymbal 白蜜（かき氷・あんみつ用） 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_kuromitsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_agave_syrup",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "アガベシロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルト",
+    "コーヒー・紅茶",
+    "スムージー",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "メキシコ原産のアガベ（竜舌蘭）から作られた植物性の甘味料。クセのないすっきりした甘さで、冷たい飲み物にもさっと溶けます。コーヒーや紅茶、スムージー、パンケーキなど、毎日の甘みづけに。",
+   "image_brief": "A tall slim plastic squeeze bottle of light golden agave syrup with a flip cap and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アガベシロップ 330g",
+     "brand": "Cymbal",
+     "size": "330g",
+     "price_tax_excluded": 498,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機アガベシロップ 330g",
+     "brand": "Cymbal オーガニック",
+     "size": "330g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機アガベシロップ ダーク 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal アガベシロップ 大容量 660g",
+     "brand": "Cymbal",
+     "size": "660g",
+     "price_tax_excluded": 898,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal アガベシロップ ポーション 10g×10個",
+     "brand": "Cymbal",
+     "size": "10g×10個",
+     "price_tax_excluded": 398,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_agave_syrup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_pancake_syrup",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "ホットケーキシロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ホットケーキ",
+    "ワッフル",
+    "フレンチトースト",
+    "クレープ"
+   ],
+   "tax_rate": 8,
+   "description": "メープル風味をつけた、お手頃なホットケーキシロップ。とろりとした濃度で生地にほどよく染み込み、家族で使いやすい大容量も揃えました。ワッフルやフレンチトーストにも気兼ねなくたっぷりかけられます。",
+   "image_brief": "A clear plastic bottle of amber pancake syrup with a flip cap and blank label, a short stack of pancakes beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホットケーキシロップ メープル風味 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ホットケーキシロップ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーメープル風味シロップ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カロリーハーフ ホットケーキシロップ 280g",
+     "brand": "Cymbal",
+     "size": "280g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_pancake_syrup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_cereal_jam_dessert_syrup",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "デザートシロップ・ソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パフェ",
+    "かき氷",
+    "バニラアイス",
+    "カフェラテ"
+   ],
+   "tax_rate": 8,
+   "description": "パフェやアイス、ドリンクのアレンジに使えるデザートシロップ。チョコレート、キャラメル、いちごなどを揃え、細口ボトルで線描きもしやすい仕様です。おうちカフェやお子さまのおやつ作りが楽しくなります。",
+   "image_brief": "Three slim plastic squeeze bottles of dessert syrup in dark brown, amber and red, with nozzle caps and blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコレートシロップ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キャラメルシロップ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごシロップ ソース 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ベルギーチョコ使用 チョコレートソース 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 練乳キャラメルソース 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_cereal_jam_dessert_syrup_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

@@ -1,0 +1,1845 @@
+{
+ "category_key": "z_beauty",
+ "items": [
+  {
+   "base_id": "z_beauty_ceramide_moisture_cream",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "保湿クリーム"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "無香料",
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夜のスキンケア仕上げ",
+    "乾燥する季節の集中ケア",
+    "エアコンによる乾燥対策"
+   ],
+   "description": "3種のセラミドを配合した高保湿クリーム。こっくりとしたテクスチャーが肌をやさしく包み込み、朝までしっとり感が続きます。乾燥が気になる目元や口元の重ね塗りにもおすすめです。",
+   "image_brief": "A round frosted white glass cream jar with a silver lid, slightly open showing rich white cream, on a clean light background.",
+   "attributes": {
+    "capacity": "50g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty セラミド高保湿クリーム 30g",
+     "brand": "Cymbal Beauty",
+     "size": "30g",
+     "price_tax_excluded": 1680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "30g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty セラミド高保湿クリーム 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 2480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty セラミド高保湿クリーム 詰替用 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 2180,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50g"
+     }
+    },
+    {
+     "title": "Cymbal セレクト セラミドリッチクリーム プレミアム 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 5800,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "40g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_ceramide_moisture_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_sensitive_skin_cream",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "保湿クリーム"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "無香料",
+    "敏感肌向け"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ゆらぎ肌のデイリーケア",
+    "季節の変わり目の保湿",
+    "洗顔後のシンプルケア"
+   ],
+   "description": "無香料・無着色・アルコールフリーで、刺激が気になる肌のために設計した保湿クリーム。軽やかなのにうるおいが続き、ベタつきにくい使い心地です。パッチテスト済み。",
+   "image_brief": "A soft white squeeze tube of face cream with a pale green cap lying beside a small dab of cream, on a light neutral background.",
+   "attributes": {
+    "capacity": "40g"
+   },
+   "variants": [
+    {
+     "title": "ハナコトハ 敏感肌用 低刺激モイストクリーム 40g",
+     "brand": "ハナコトハ",
+     "size": "40g",
+     "price_tax_excluded": 1980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "40g"
+     }
+    },
+    {
+     "title": "ハナコトハ 敏感肌用 低刺激モイストクリーム 80g",
+     "brand": "ハナコトハ",
+     "size": "80g",
+     "price_tax_excluded": 3480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "80g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 敏感肌用 やさしい保湿クリーム 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 1480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 敏感肌用 保湿クリーム 大容量 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_sensitive_skin_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_body_moisture_cream",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ボディクリーム"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "家族で使える"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "お風呂上がりの全身保湿",
+    "ひじ・ひざ・かかとのケア",
+    "家族みんなで使う"
+   ],
+   "description": "シアバターとセラミドを配合したボディ用保湿クリーム。伸びがよく全身にさっと塗り広げられ、カサつきやすいひじやかかともしっとり。家族で使える大容量ポンプも揃えました。",
+   "image_brief": "A large white pump bottle of body cream next to a wide flat tub of body butter, on a soft beige background.",
+   "attributes": {
+    "capacity": "200g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty シアバター ボディクリーム 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "200g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty シアバター ボディクリーム ポンプ 400g",
+     "brand": "Cymbal Beauty",
+     "size": "400g",
+     "price_tax_excluded": 1980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "400g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック ボディ保湿クリーム ファミリーサイズ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "タイ製",
+     "attributes": {
+      "capacity": "500g"
+     }
+    },
+    {
+     "title": "ルミエナ ボディバター ホワイトフローラル 150g",
+     "brand": "ルミエナ",
+     "size": "150g",
+     "price_tax_excluded": 2800,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "150g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_body_moisture_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_moist_lotion",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "化粧水"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "無香料",
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "洗顔後のファーストステップ",
+    "コットンパック",
+    "朝晩のスキンケア"
+   ],
+   "description": "ヒアルロン酸とアミノ酸を配合した、とろみのある保湿化粧水。肌なじみがよく、手でもコットンでも使いやすい処方です。さっぱり・しっとりの2タイプから肌質に合わせて選べます。",
+   "image_brief": "A tall clear glass bottle filled with transparent lotion and a white cap, with a few water droplets around it, on a white background.",
+   "attributes": {
+    "capacity": "200ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 高保湿化粧水 しっとり 200ml",
+     "brand": "Cymbal Beauty",
+     "size": "200ml",
+     "price_tax_excluded": 1580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "200ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 高保湿化粧水 さっぱり 200ml",
+     "brand": "Cymbal Beauty",
+     "size": "200ml",
+     "price_tax_excluded": 1580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "200ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 高保湿化粧水 しっとり 詰替用 180ml",
+     "brand": "Cymbal Beauty",
+     "size": "180ml",
+     "price_tax_excluded": 1280,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "180ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック たっぷり保湿化粧水 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "500ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト エッセンスローション 150ml",
+     "brand": "Cymbal セレクト",
+     "size": "150ml",
+     "price_tax_excluded": 4800,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "150ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_moist_lotion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_milky_emulsion",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "乳液"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "無香料"
+   ],
+   "season_months": [],
+   "dishes": [
+    "化粧水の後のうるおい補給",
+    "メイク前の肌準備",
+    "夜のスキンケア"
+   ],
+   "description": "化粧水で与えたうるおいを閉じ込める、なめらかな乳液。べたつきにくく、朝のメイク前にも使いやすい軽やかな仕上がりです。乾燥しやすい頬にはやや多めになじませるのがおすすめ。",
+   "image_brief": "A white opaque plastic bottle with a pump dispenser beside a small pool of milky white emulsion, on a light gray background.",
+   "attributes": {
+    "capacity": "150ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty しっとり乳液 150ml",
+     "brand": "Cymbal Beauty",
+     "size": "150ml",
+     "price_tax_excluded": 1580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "150ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty さっぱり乳液 150ml",
+     "brand": "Cymbal Beauty",
+     "size": "150ml",
+     "price_tax_excluded": 1580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "150ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 保湿乳液 ポンプ 300ml",
+     "brand": "Cymbal ベーシック",
+     "size": "300ml",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "300ml"
+     }
+    },
+    {
+     "title": "ハナコトハ 敏感肌用 低刺激ミルク 120ml",
+     "brand": "ハナコトハ",
+     "size": "120ml",
+     "price_tax_excluded": 2180,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_milky_emulsion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_vitamin_c_serum",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "美容液"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝のスキンケア",
+    "毛穴やキメが気になる日のケア",
+    "化粧水の後の集中ケア"
+   ],
+   "description": "ビタミンC誘導体を配合した、みずみずしい美容液。キメを整え、明るい印象の肌へ導きます。スポイトタイプで必要な量だけ取り出せ、化粧水の後になじませるだけの簡単ケアです。",
+   "image_brief": "An amber glass dropper bottle with a black rubber bulb, a drop of clear serum falling from the pipette, on a white background.",
+   "attributes": {
+    "capacity": "30ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ビタミンC美容液 20ml",
+     "brand": "Cymbal Beauty",
+     "size": "20ml",
+     "price_tax_excluded": 1980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "20ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty ビタミンC美容液 50ml",
+     "brand": "Cymbal Beauty",
+     "size": "50ml",
+     "price_tax_excluded": 3980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト ブライトニングセラム 30ml",
+     "brand": "Cymbal セレクト",
+     "size": "30ml",
+     "price_tax_excluded": 6800,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "30ml"
+     }
+    },
+    {
+     "title": "AQUAVEIL ピュアCセラム 30ml",
+     "brand": "AQUAVEIL",
+     "size": "30ml",
+     "price_tax_excluded": 3280,
+     "origin": "韓国製",
+     "attributes": {
+      "capacity": "30ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_vitamin_c_serum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_hyaluronic_serum",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "美容液"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "無香料"
+   ],
+   "season_months": [],
+   "dishes": [
+    "乾燥肌の集中保湿",
+    "メイク前のうるおい仕込み",
+    "夜のスペシャルケア"
+   ],
+   "description": "2種のヒアルロン酸をたっぷり配合した保湿美容液。とろりと濃密なのにすっと肌になじみ、内側からふっくらとしたハリ感を与えます。乾燥による小じわを目立たなくする効果も。",
+   "image_brief": "A clear glass dropper bottle filled with slightly viscous transparent serum and a white bulb, standing on a smooth white stone, light background.",
+   "attributes": {
+    "capacity": "30ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ヒアルロン酸 保湿美容液 30ml",
+     "brand": "Cymbal Beauty",
+     "size": "30ml",
+     "price_tax_excluded": 2480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "30ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty ヒアルロン酸 保湿美容液 60ml",
+     "brand": "Cymbal Beauty",
+     "size": "60ml",
+     "price_tax_excluded": 4280,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "60ml"
+     }
+    },
+    {
+     "title": "AQUAVEIL ハイドラブースト アンプル 30ml",
+     "brand": "AQUAVEIL",
+     "size": "30ml",
+     "price_tax_excluded": 2980,
+     "origin": "韓国製",
+     "attributes": {
+      "capacity": "30ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 保湿エッセンス 50ml",
+     "brand": "Cymbal ベーシック",
+     "size": "50ml",
+     "price_tax_excluded": 1180,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_hyaluronic_serum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_sheet_mask",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "フェイスマスク"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "大容量"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がりのスペシャルケア",
+    "大切な予定の前日",
+    "毎朝の時短ケア"
+   ],
+   "description": "美容液をたっぷり含んだシートマスク。顔にのせて約10分置くだけで、肌がもっちりうるおいます。毎日使える大容量ボックスと、旅行に便利な個包装タイプをご用意しました。",
+   "image_brief": "A white flat resealable box of facial sheet masks with one white sheet mask unfolded beside it, on a pale pink background.",
+   "attributes": {
+    "material": "コットン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 毎日うるおいシートマスク 30枚入",
+     "brand": "Cymbal Beauty",
+     "size": "30枚",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Beauty 毎日うるおいシートマスク 個包装 7枚入",
+     "brand": "Cymbal Beauty",
+     "size": "7枚",
+     "price_tax_excluded": 880,
+     "origin": "日本製"
+    },
+    {
+     "title": "AQUAVEIL ハイドラ シートマスク 10枚入",
+     "brand": "AQUAVEIL",
+     "size": "10枚",
+     "price_tax_excluded": 1680,
+     "origin": "韓国製"
+    },
+    {
+     "title": "Cymbal セレクト プレミアムリペアマスク 5枚入",
+     "brand": "Cymbal セレクト",
+     "size": "5枚",
+     "price_tax_excluded": 3800,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_beauty_sheet_mask_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_foaming_cleanser",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "洗顔料"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝晩の洗顔",
+    "皮脂が気になる日のケア",
+    "泡立てネットでもこもこ洗顔"
+   ],
+   "description": "きめ細かな濃密泡で、毛穴の汚れや余分な皮脂をやさしく洗い流す洗顔フォーム。アミノ酸系洗浄成分で洗い上がりがつっぱりにくく、すっきりなのにしっとり感が残ります。",
+   "image_brief": "A white squeeze tube of facial cleansing foam standing upright next to a mound of dense white foam, on a light blue background.",
+   "attributes": {
+    "capacity": "120g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty アミノ酸 洗顔フォーム 120g",
+     "brand": "Cymbal Beauty",
+     "size": "120g",
+     "price_tax_excluded": 880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 毛穴すっきり 洗顔フォーム 120g",
+     "brand": "Cymbal Beauty",
+     "size": "120g",
+     "price_tax_excluded": 880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 泡で出てくる洗顔 ポンプ 150ml",
+     "brand": "Cymbal Beauty",
+     "size": "150ml",
+     "price_tax_excluded": 1080,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "150ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 洗顔フォーム 2本パック 130g×2",
+     "brand": "Cymbal ベーシック",
+     "size": "130g×2",
+     "price_tax_excluded": 680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "260g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_foaming_cleanser_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_cleansing_oil",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "クレンジング"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "W洗顔不要"
+   ],
+   "season_months": [],
+   "dishes": [
+    "帰宅後のメイク落とし",
+    "ウォータープルーフメイクのオフ",
+    "毛穴の黒ずみケア"
+   ],
+   "description": "濃いメイクにもすばやくなじみ、水でさっと乳化して洗い流せるクレンジングオイル。濡れた手でも使えるのでお風呂でも便利です。洗い上がりはぬるつかず、しっとりやわらか。",
+   "image_brief": "A clear plastic pump bottle filled with pale golden cleansing oil, on a white background with soft shadows.",
+   "attributes": {
+    "capacity": "180ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty マイルド クレンジングオイル 180ml",
+     "brand": "Cymbal Beauty",
+     "size": "180ml",
+     "price_tax_excluded": 1380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "180ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty マイルド クレンジングオイル 詰替用 170ml",
+     "brand": "Cymbal Beauty",
+     "size": "170ml",
+     "price_tax_excluded": 1080,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "170ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty クレンジングバーム 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 1780,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "90g"
+     }
+    },
+    {
+     "title": "ルミエナ ボタニカル クレンジングオイル 200ml",
+     "brand": "ルミエナ",
+     "size": "200ml",
+     "price_tax_excluded": 2980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "200ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_cleansing_oil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_sunscreen_milk",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "日焼け止め"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "SPF50+",
+    "化粧下地にも"
+   ],
+   "season_months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "通勤・通学",
+    "レジャーやアウトドア",
+    "メイク前の下地"
+   ],
+   "description": "SPF50+・PA++++で強い紫外線から肌を守る日焼け止めミルク。汗や水に強いのに、石けんで落とせる手軽さが魅力です。白浮きしにくく、化粧下地としても使えます。",
+   "image_brief": "A slim white plastic bottle of sunscreen milk with a light blue cap, beside a smear of white lotion, on a bright sunny pale background.",
+   "attributes": {
+    "capacity": "60ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty UVミルク SPF50+ PA++++ 40ml",
+     "brand": "Cymbal Beauty",
+     "size": "40ml",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "40ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty UVミルク SPF50+ PA++++ 80ml",
+     "brand": "Cymbal Beauty",
+     "size": "80ml",
+     "price_tax_excluded": 1680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "80ml"
+     }
+    },
+    {
+     "title": "ハナコトハ 敏感肌用 UVミルク SPF35 PA+++ 50ml",
+     "brand": "ハナコトハ",
+     "size": "50ml",
+     "price_tax_excluded": 1880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト UVプロテクター トーンアップ 50ml",
+     "brand": "Cymbal セレクト",
+     "size": "50ml",
+     "price_tax_excluded": 3800,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_sunscreen_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_sunscreen_gel",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "日焼け止め"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "顔・からだ用",
+    "家族で使える"
+   ],
+   "season_months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "子どもとの外遊び",
+    "海やプール",
+    "毎日の全身UVケア"
+   ],
+   "description": "みずみずしいジェルで顔にもからだにも伸ばしやすい日焼け止め。ベタつかずサラッと仕上がるので、重ね塗りもストレスなし。家族で使える大容量ポンプやスプレーもあります。",
+   "image_brief": "A white pump bottle of clear sunscreen gel next to a compact white spray can, on a pale aqua background.",
+   "attributes": {
+    "capacity": "100g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty UVジェル SPF50+ 顔・からだ用 100g",
+     "brand": "Cymbal Beauty",
+     "size": "100g",
+     "price_tax_excluded": 1180,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "100g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty UVジェル SPF50+ ポンプ 250g",
+     "brand": "Cymbal Beauty",
+     "size": "250g",
+     "price_tax_excluded": 1980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "250g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty UVスプレー SPF50+ 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 1080,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "90g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック UVジェル キッズ SPF30 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 780,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_sunscreen_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_lip_balm",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "リップケア"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "プチギフト"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "外出先でのこまめな保湿",
+    "寝る前の唇ケア",
+    "プチギフト"
+   ],
+   "description": "ミツロウとシアバターでかさつく唇をしっとり守るリップクリーム。なめらかに伸びてベタつきにくく、口紅の下地にも使えます。ほんのり色づくカラータイプも人気です。",
+   "image_brief": "Three slim white lip balm sticks, one uncapped showing a translucent balm, arranged diagonally on a soft pink background.",
+   "attributes": {
+    "capacity": "4g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用リップクリーム 無香料 4g",
+     "brand": "Cymbal Beauty",
+     "size": "4g",
+     "price_tax_excluded": 480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "4g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 色つきリップクリーム ローズピンク 4g",
+     "brand": "Cymbal Beauty",
+     "size": "4g",
+     "price_tax_excluded": 680,
+     "origin": "日本製",
+     "attributes": {
+      "color": "ローズピンク"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 色つきリップクリーム コーラル 4g",
+     "brand": "Cymbal Beauty",
+     "size": "4g",
+     "price_tax_excluded": 680,
+     "origin": "日本製",
+     "attributes": {
+      "color": "コーラル"
+     }
+    },
+    {
+     "title": "ルミエナ ハニーリップバーム ポット 10g",
+     "brand": "ルミエナ",
+     "size": "10g",
+     "price_tax_excluded": 1580,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "10g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック リップクリーム 3本パック",
+     "brand": "Cymbal ベーシック",
+     "size": "4g×3本",
+     "price_tax_excluded": 580,
+     "origin": "中国製",
+     "attributes": {
+      "capacity": "12g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_lip_balm_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_hand_cream",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ハンドクリーム"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "ベタつかない"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "水仕事の後のケア",
+    "オフィスのデスクに常備",
+    "寝る前の集中保湿"
+   ],
+   "description": "さらっと伸びてすぐなじむ、ベタつきにくいハンドクリーム。スマホやパソコンをすぐ触れるので、仕事中のこまめなケアにぴったり。水仕事で荒れがちな指先もしっとり守ります。",
+   "image_brief": "A soft aluminum-look white hand cream tube with a flip cap and a small swirl of cream, on a warm light background.",
+   "attributes": {
+    "capacity": "50g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty さらっとハンドクリーム 無香料 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty さらっとハンドクリーム シトラス 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "50g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 高保湿ハンドクリーム 夜用 80g",
+     "brand": "Cymbal Beauty",
+     "size": "80g",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "80g"
+     }
+    },
+    {
+     "title": "ルミエナ フレグランスハンドクリーム ローズ 30ml",
+     "brand": "ルミエナ",
+     "size": "30ml",
+     "price_tax_excluded": 1680,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "30ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_hand_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_hand_cream_gift_set",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ギフトセット",
+    "ハンドクリームギフト"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "ギフト対応",
+    "ラッピング可"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "クリスマスプレゼント",
+    "ホワイトデーのお返し",
+    "退職・異動のプチギフト"
+   ],
+   "description": "香り違いのハンドクリームを詰め合わせたギフトセット。上品なボックス入りで、ちょっとしたお礼やお返しにも喜ばれます。シーンに合わせて選べる3本・5本セットをご用意しました。",
+   "image_brief": "An open white gift box containing a neat row of small pastel hand cream tubes on a tissue bed, with a satin ribbon beside it, on a light background.",
+   "attributes": {
+    "capacity": "30g×3本"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ハンドクリーム ギフトセット 30g×3本",
+     "brand": "Cymbal Beauty",
+     "size": "30g×3本",
+     "price_tax_excluded": 1980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "90g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty ハンドクリーム ギフトセット 30g×5本",
+     "brand": "Cymbal Beauty",
+     "size": "30g×5本",
+     "price_tax_excluded": 2980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "150g"
+     }
+    },
+    {
+     "title": "ルミエナ フレグランスハンドクリーム トリオ 30ml×3本",
+     "brand": "ルミエナ",
+     "size": "30ml×3本",
+     "price_tax_excluded": 4500,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "90ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト ハンド&ネイル ケアギフト",
+     "brand": "Cymbal セレクト",
+     "size": "1セット",
+     "price_tax_excluded": 5800,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_beauty_hand_cream_gift_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_amino_shampoo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "シャンプー"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "ノンシリコン",
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のヘアケア",
+    "カラーヘアのケア",
+    "頭皮すっきり洗浄"
+   ],
+   "description": "アミノ酸系洗浄成分でやさしく洗い上げるノンシリコンシャンプー。もっちりとした泡が頭皮の汚れをすっきり落とし、髪はふんわり軽やかに。ほのかなハーブの香りでリラックスできます。",
+   "image_brief": "A tall matte white shampoo pump bottle on a wet light gray stone surface with soft bathroom lighting.",
+   "attributes": {
+    "capacity": "480ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty アミノ酸シャンプー モイスト 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 1380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "480ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty アミノ酸シャンプー スムース 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 1380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "480ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト サロンクオリティ シャンプー 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 3200,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "300ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック さらさらシャンプー 大容量 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 780,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "1000ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_amino_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_amino_conditioner",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "コンディショナー"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シャンプー後の毎日のケア",
+    "パサつく髪のまとまりに",
+    "ドライヤー前の指通りケア"
+   ],
+   "description": "毛先までするんと指通りよく仕上げるコンディショナー。髪の表面をなめらかに整え、乾かした後もまとまりのあるツヤ髪に。同シリーズのシャンプーとの併用がおすすめです。",
+   "image_brief": "A tall matte cream-colored conditioner pump bottle on a light wooden bath shelf with soft lighting.",
+   "attributes": {
+    "capacity": "480g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty アミノ酸コンディショナー モイスト 480g",
+     "brand": "Cymbal Beauty",
+     "size": "480g",
+     "price_tax_excluded": 1380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "480g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty アミノ酸コンディショナー スムース 480g",
+     "brand": "Cymbal Beauty",
+     "size": "480g",
+     "price_tax_excluded": 1380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "480g"
+     }
+    },
+    {
+     "title": "Cymbal セレクト サロンクオリティ トリートメント 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 3200,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "300g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック さらさらコンディショナー 大容量 1000g",
+     "brand": "Cymbal ベーシック",
+     "size": "1000g",
+     "price_tax_excluded": 780,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "1000g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_amino_conditioner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_hair_refill",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "詰め替え用"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "詰替用",
+    "エコ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ボトルへの詰め替え",
+    "まとめ買いでストック",
+    "家族で使う"
+   ],
+   "description": "人気のアミノ酸シャンプー・コンディショナーの詰め替え用パウチ。ボトルより手頃な価格で、プラスチックごみも減らせます。注ぎ口付きでこぼさず簡単に詰め替えられます。",
+   "image_brief": "Two standing white refill pouches with spouts, one slightly behind the other, on a clean light background.",
+   "attributes": {
+    "capacity": "400ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty アミノ酸シャンプー モイスト 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "400ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty アミノ酸コンディショナー モイスト 詰替用 400g",
+     "brand": "Cymbal Beauty",
+     "size": "400g",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "400g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty アミノ酸シャンプー モイスト 詰替用 大容量 1200ml",
+     "brand": "Cymbal Beauty",
+     "size": "1200ml",
+     "price_tax_excluded": 2480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "1200ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty アミノ酸コンディショナー モイスト 詰替用 大容量 1200g",
+     "brand": "Cymbal Beauty",
+     "size": "1200g",
+     "price_tax_excluded": 2480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "1200g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_hair_refill_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_hair_oil",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "ヘアオイル"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "洗い流さない"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ドライヤー前の熱ダメージケア",
+    "朝のスタイリング仕上げ",
+    "毛先のパサつき対策"
+   ],
+   "description": "洗い流さないタイプのヘアオイル。タオルドライ後になじませればドライヤーの熱から髪を守り、朝のスタイリングに使えばツヤとまとまりをプラス。軽い質感で髪がべたつきません。",
+   "image_brief": "A sleek clear glass bottle of golden hair oil with a black pump, standing beside a few droplets of oil, on a white marble surface.",
+   "attributes": {
+    "capacity": "100ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ヘアオイル モイスト 100ml",
+     "brand": "Cymbal Beauty",
+     "size": "100ml",
+     "price_tax_excluded": 1480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "100ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty ヘアオイル ライト 100ml",
+     "brand": "Cymbal Beauty",
+     "size": "100ml",
+     "price_tax_excluded": 1480,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "100ml"
+     }
+    },
+    {
+     "title": "ルミエナ アルガンヘアオイル 50ml",
+     "brand": "ルミエナ",
+     "size": "50ml",
+     "price_tax_excluded": 2800,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "50ml"
+     }
+    },
+    {
+     "title": "Cymbal セレクト リペアヘアオイル 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 3800,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_hair_oil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_body_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ボディソープ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "弱酸性",
+    "家族で使える"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のバスタイム",
+    "家族みんなで使う",
+    "汗をかいた日のリフレッシュ"
+   ],
+   "description": "弱酸性のやさしい洗浄成分で、肌のうるおいを守りながら洗えるボディソープ。もこもこ泡で洗った後もつっぱりにくく、お子さまからご年配の方まで家族みんなで使えます。",
+   "image_brief": "A large white body wash pump bottle surrounded by soft white foam bubbles, on a pale blue tiled bathroom background.",
+   "attributes": {
+    "capacity": "500ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty しっとりボディソープ 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 780,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "500ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 泡で出てくるボディソープ 550ml",
+     "brand": "Cymbal Beauty",
+     "size": "550ml",
+     "price_tax_excluded": 880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "550ml"
+     }
+    },
+    {
+     "title": "ハナコトハ 敏感肌用 ボディウォッシュ 無香料 400ml",
+     "brand": "ハナコトハ",
+     "size": "400ml",
+     "price_tax_excluded": 1280,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "400ml"
+     }
+    },
+    {
+     "title": "ルミエナ アロマボディウォッシュ ラベンダー 300ml",
+     "brand": "ルミエナ",
+     "size": "300ml",
+     "price_tax_excluded": 2200,
+     "origin": "フランス製",
+     "attributes": {
+      "capacity": "300ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_body_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_body_soap_refill",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "詰め替え用"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "詰替用",
+    "エコ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ボトルへの詰め替え",
+    "まとめ買いでストック",
+    "家族で使う"
+   ],
+   "description": "毎日使うボディソープは、お得な詰め替え用でストックしておくと安心。大容量タイプなら詰め替えの手間も減らせます。注ぎ口付きパウチで最後まで無駄なく使い切れます。",
+   "image_brief": "A large standing white refill pouch of body wash with a spout, next to a smaller one, on a light background.",
+   "attributes": {
+    "capacity": "400ml"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty しっとりボディソープ 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "400ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty しっとりボディソープ 詰替用 大容量 1500ml",
+     "brand": "Cymbal Beauty",
+     "size": "1500ml",
+     "price_tax_excluded": 1680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "1500ml"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 泡で出てくるボディソープ 詰替用 450ml",
+     "brand": "Cymbal Beauty",
+     "size": "450ml",
+     "price_tax_excluded": 680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "450ml"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック ボディソープ 詰替用 2000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "2000ml",
+     "price_tax_excluded": 1280,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "2000ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_body_soap_refill_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_bath_salt",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "入浴剤"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "一日の疲れを癒すバスタイム",
+    "冷えが気になる夜",
+    "週末のリラックスタイム"
+   ],
+   "description": "湯船に溶かすだけで、香りとぬくもりに包まれる入浴剤。ミネラルを含んだバスソルトが体を芯から温め、湯上がりの肌もしっとり。気分に合わせて香りを選べます。",
+   "image_brief": "A clear glass jar of coarse pastel bath salt crystals with a wooden scoop resting beside spilled crystals, on a light linen background.",
+   "attributes": {
+    "capacity": "500g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty バスソルト ラベンダー 500g",
+     "brand": "Cymbal Beauty",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "500g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty バスソルト ゆず 500g",
+     "brand": "Cymbal Beauty",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "500g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 炭酸入浴剤 アソート 30錠",
+     "brand": "Cymbal ベーシック",
+     "size": "30錠",
+     "price_tax_excluded": 880,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "30錠"
+     }
+    },
+    {
+     "title": "ルミエナ バスミルク ホワイトフローラル 250ml",
+     "brand": "ルミエナ",
+     "size": "250ml",
+     "price_tax_excluded": 2400,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "250ml"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_bath_salt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_bath_gift_set",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ギフトセット",
+    "入浴剤ギフト"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "ギフト対応",
+    "ラッピング可"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お誕生日プレゼント",
+    "冬のご挨拶ギフト",
+    "お世話になった方へのお礼"
+   ],
+   "description": "香りの異なるバスソルトやバスボムを詰め合わせた入浴剤ギフト。開けた瞬間に華やぐ見た目で、贈る相手にほっとできる時間を届けます。メッセージカード・ラッピング対応。",
+   "image_brief": "An elegant open gift box filled with colorful round bath bombs and small jars of bath salt, with a ribbon, on a soft cream background.",
+   "attributes": {
+    "capacity": "1セット"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 入浴剤ギフト バスソルト 5種セット",
+     "brand": "Cymbal Beauty",
+     "size": "5個入",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Beauty 入浴剤ギフト バスボム 8個セット",
+     "brand": "Cymbal Beauty",
+     "size": "8個入",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ルミエナ バスタイム リラックスギフト",
+     "brand": "ルミエナ",
+     "size": "1セット",
+     "price_tax_excluded": 4800,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 和の湯めぐり 入浴剤ギフト 12包",
+     "brand": "Cymbal セレクト",
+     "size": "12包",
+     "price_tax_excluded": 3200,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_beauty_bath_gift_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_toothbrush",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯ブラシ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "まとめ買い"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の歯みがき",
+    "家族分のストック",
+    "旅行・出張用"
+   ],
+   "description": "極細毛が歯と歯ぐきの境目までしっかり届く歯ブラシ。コンパクトヘッドで奥歯までみがきやすく、毎日のケアが快適に。家族で色分けできるお得なセットもご用意しました。",
+   "image_brief": "Four slim toothbrushes with pastel handles and white bristles arranged in a fan on a clean white background.",
+   "attributes": {
+    "material": "ナイロン毛・ポリプロピレン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 極細毛歯ブラシ ふつう 4本セット",
+     "brand": "Cymbal Beauty",
+     "size": "4本",
+     "price_tax_excluded": 580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Beauty 極細毛歯ブラシ やわらかめ 4本セット",
+     "brand": "Cymbal Beauty",
+     "size": "4本",
+     "price_tax_excluded": 580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 歯ブラシ ふつう 10本セット",
+     "brand": "Cymbal ベーシック",
+     "size": "10本",
+     "price_tax_excluded": 680,
+     "origin": "ベトナム製"
+    },
+    {
+     "title": "Cymbal セレクト 音波電動歯ブラシ ホワイト",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 6800,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ホワイト"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_toothbrush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_toothpaste",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯磨き粉"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "フッ素配合"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の歯みがき",
+    "就寝前の丁寧なケア",
+    "口臭が気になるときに"
+   ],
+   "description": "フッ素配合で、毎日の歯みがきでむし歯を予防する歯磨き粉。爽やかなミントの香りで、みがいた後も口の中がすっきりと続きます。知覚過敏ケアや歯の着色対策タイプもあります。",
+   "image_brief": "A white toothpaste tube with a mint green cap and a neat stripe of white paste on a toothbrush beside it, on a light background.",
+   "attributes": {
+    "capacity": "120g"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty フッ素配合 歯磨き粉 クールミント 120g",
+     "brand": "Cymbal Beauty",
+     "size": "120g",
+     "price_tax_excluded": 380,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "120g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty 知覚過敏ケア 歯磨き粉 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 680,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "90g"
+     }
+    },
+    {
+     "title": "Cymbal Beauty ステインケア 歯磨き粉 100g",
+     "brand": "Cymbal Beauty",
+     "size": "100g",
+     "price_tax_excluded": 580,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "100g"
+     }
+    },
+    {
+     "title": "Cymbal ベーシック 歯磨き粉 3本パック 140g×3",
+     "brand": "Cymbal ベーシック",
+     "size": "140g×3",
+     "price_tax_excluded": 498,
+     "origin": "日本製",
+     "attributes": {
+      "capacity": "420g"
+     }
+    }
+   ],
+   "images": [
+    "z_beauty_toothpaste_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_beauty_cosme_gift_set",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ギフトセット",
+    "コスメギフトセット"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "ギフト対応",
+    "ラッピング可"
+   ],
+   "season_months": [],
+   "dishes": [
+    "誕生日プレゼント",
+    "クリスマスギフト",
+    "母の日のプレゼント",
+    "自分へのご褒美"
+   ],
+   "description": "化粧水・乳液・美容液などを詰め合わせたスキンケアギフトセット。ライン使いでお試しできるので、プレゼントにも自分へのご褒美にもぴったりです。ギフトボックス入り、ラッピング無料。",
+   "image_brief": "An open luxurious white gift box containing a set of skincare bottles and a cream jar arranged neatly on satin, with a ribbon, on a light background.",
+   "attributes": {
+    "capacity": "1セット"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty スキンケア トライアルギフト 3点セット",
+     "brand": "Cymbal Beauty",
+     "size": "3点",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Beauty 保湿スキンケア ギフト 5点セット",
+     "brand": "Cymbal Beauty",
+     "size": "5点",
+     "price_tax_excluded": 4980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム スキンケアコフレ",
+     "brand": "Cymbal セレクト",
+     "size": "4点",
+     "price_tax_excluded": 12000,
+     "origin": "日本製"
+    },
+    {
+     "title": "AQUAVEIL ハイドラ スキンケア ギフトボックス",
+     "brand": "AQUAVEIL",
+     "size": "4点",
+     "price_tax_excluded": 5500,
+     "origin": "韓国製"
+    },
+    {
+     "title": "ルミエナ フレグランス ボディケアギフト",
+     "brand": "ルミエナ",
+     "size": "3点",
+     "price_tax_excluded": 6800,
+     "origin": "フランス製"
+    }
+   ],
+   "images": [
+    "z_beauty_cosme_gift_set_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

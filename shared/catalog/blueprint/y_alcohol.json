@@ -1,0 +1,3017 @@
+{
+ "category_key": "y_alcohol",
+ "items": [
+  {
+   "base_id": "y_alcohol_happoshu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "発泡酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "唐揚げ",
+    "餃子",
+    "焼き鳥",
+    "枝豆"
+   ],
+   "tax_rate": 10,
+   "description": "すっきりとした飲み口で毎日の晩酌にちょうどいい発泡酒です。唐揚げや餃子など、家族の定番おかずと一緒にどうぞ。まとめ買いにも便利なケース入りもご用意しています。",
+   "image_brief": "A six-pack of silver and blue 350ml aluminum cans with Japanese label text '発泡酒 すっきり'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 発泡酒 すっきり生 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 発泡酒 すっきり生 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 発泡酒 すっきり生 500ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×6",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 発泡酒 すっきり生 500ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×24",
+     "price_tax_excluded": 2780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 発泡酒 麦のコク 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 発泡酒 麦のコク 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 発泡酒 すっきり生 350ml 1缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_happoshu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_happoshu_sugar_free",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "糖質オフ・糖質ゼロ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "焼き鳥",
+    "冷奴",
+    "枝豆",
+    "野菜炒め"
+   ],
+   "tax_rate": 10,
+   "description": "糖質ゼロ・プリン体オフに仕上げた、軽やかな後味の発泡酒です。冷奴や枝豆などのさっぱりしたおつまみとよく合います。",
+   "image_brief": "A six-pack of white and green 350ml cans with Japanese label text '糖質ゼロ 発泡酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質ゼロ 発泡酒 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質ゼロ 発泡酒 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質ゼロ 発泡酒 500ml×6缶",
+     "brand": "トップバリュ",
+     "size": "500ml×6",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質ゼロ 発泡酒 500ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "500ml×24",
+     "price_tax_excluded": 3180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質70%オフ 発泡酒 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 578,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質70%オフ 発泡酒 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_happoshu_sugar_free_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_new_genre_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "新ジャンル（第3のビール）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "焼肉",
+    "餃子",
+    "唐揚げ",
+    "お好み焼き"
+   ],
+   "tax_rate": 10,
+   "description": "手ごろな価格で毎日楽しめる新ジャンルのビールテイスト飲料です。焼肉やお好み焼きなど、にぎやかな食卓にぴったり。",
+   "image_brief": "A six-pack of gold 350ml cans with Japanese label text '新ジャンル 麦の旨み'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 麦の旨み 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 麦の旨み 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 麦の旨み 500ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×6",
+     "price_tax_excluded": 628,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 麦の旨み 500ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×24",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 糖質50%オフ 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 新ジャンル 糖質50%オフ 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1858,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 新ジャンル ゴールドリッチ 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 518,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_new_genre_beer_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_lager_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "ビール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "唐揚げ",
+    "とんかつ",
+    "焼き鳥",
+    "餃子"
+   ],
+   "tax_rate": 10,
+   "description": "麦芽100%で造った、しっかりとしたコクと爽やかなのどごしのビールです。とんかつや唐揚げなど揚げ物との相性が抜群です。",
+   "image_brief": "A six-pack of navy and gold 350ml cans with Japanese label text '麦芽100% 生ビール'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 350ml×6缶",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml×6",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 350ml×24缶（ケース）",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml×24",
+     "price_tax_excluded": 4580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 500ml×6缶",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml×6",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 500ml×24缶（ケース）",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml×24",
+     "price_tax_excluded": 6180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 350ml 1缶",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 麦芽100% 生ビール 334ml 瓶",
+     "brand": "トップバリュ セレクト",
+     "size": "334ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_lager_beer_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_craft_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "クラフトビール・地ビール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "ピザ",
+    "フライドポテト",
+    "ソーセージ",
+    "週末ごはん"
+   ],
+   "tax_rate": 10,
+   "description": "香りや味わいの違いを楽しめるクラフトスタイルのビールです。ソーセージやフライドポテトと合わせて、週末のおうち時間にどうぞ。",
+   "image_brief": "A row of colorful 350ml cans with Japanese label text 'クラフトビール IPA' and hop illustrations.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト クラフトビール IPA 350ml",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール IPA 350ml×6缶",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml×6",
+     "price_tax_excluded": 1428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール 白ビール（ヴァイツェン）350ml",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール 白ビール（ヴァイツェン）350ml×6缶",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml×6",
+     "price_tax_excluded": 1428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール 黒ビール（スタウト）350ml",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール ペールエール 350ml",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト クラフトビール 飲み比べ4種セット 350ml×4缶",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml×4",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_craft_beer_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_imported_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "輸入ビール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "ソーセージ",
+    "ピザ",
+    "タコス",
+    "ホームパーティー"
+   ],
+   "tax_rate": 10,
+   "description": "海外の醸造所で造られたすっきり飲みやすいラガービールです。ピザやソーセージを囲むホームパーティーにおすすめです。",
+   "image_brief": "A green 330ml glass bottle and a can with Japanese label text 'ドイツ産 ピルスナー'.",
+   "variants": [
+    {
+     "title": "トップバリュ ドイツ産 ピルスナー 330ml 瓶",
+     "brand": "トップバリュ",
+     "size": "330ml",
+     "price_tax_excluded": 198,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "トップバリュ ドイツ産 ピルスナー 500ml 缶",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 228,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "トップバリュ ドイツ産 ピルスナー 500ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "500ml×24",
+     "price_tax_excluded": 4980,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "トップバリュ ベルギー産 ラガービール 330ml 缶",
+     "brand": "トップバリュ",
+     "size": "330ml",
+     "price_tax_excluded": 148,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "トップバリュ ベルギー産 ラガービール 330ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "330ml×24",
+     "price_tax_excluded": 3280,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 輸入ビール ラガー 330ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "330ml×6",
+     "price_tax_excluded": 698,
+     "origin": "オランダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_imported_beer_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_lemon_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "レモンサワー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "焼き鳥",
+    "餃子",
+    "晩酌",
+    "天ぷら"
+   ],
+   "tax_rate": 10,
+   "description": "レモン果汁を使った爽やかな酸味のレモンサワーです。唐揚げや天ぷらなど揚げ物の後口をすっきりさせてくれます。",
+   "image_brief": "A six-pack of yellow 350ml cans with lemon slice illustrations and Japanese label text 'レモンサワー'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス レモンサワー 3% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス レモンサワー 5% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス レモンサワー 5% 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス レモンサワー 5% 500ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×24",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 瀬戸内産レモン果汁使用 レモンサワー 7% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 瀬戸内産レモン果汁使用 レモンサワー 7% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖類ゼロ レモンサワー 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_lemon_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_grapefruit_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "グレープフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "唐揚げ",
+    "晩酌",
+    "お好み焼き",
+    "焼きそば"
+   ],
+   "tax_rate": 10,
+   "description": "グレープフルーツのほろ苦さと甘みが広がるチューハイです。焼き鳥やお好み焼きなど、味の濃いおかずと合わせてどうぞ。",
+   "image_brief": "A six-pack of pink 350ml cans with grapefruit illustrations and Japanese label text 'グレープフルーツサワー'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス グレープフルーツサワー 5% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス グレープフルーツサワー 5% 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス グレープフルーツサワー 5% 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果汁20% ルビーグレープフルーツサワー 4% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果汁20% ルビーグレープフルーツサワー 4% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖類ゼロ グレープフルーツサワー 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_grapefruit_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_ume_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "梅・青りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "お刺身",
+    "晩酌",
+    "天ぷら",
+    "冷奴"
+   ],
+   "tax_rate": 10,
+   "description": "紀州産の梅果汁を使った、甘酸っぱくまろやかな梅サワーです。焼き魚やお刺身など和食の献立によく合います。",
+   "image_brief": "A six-pack of light green 350ml cans with plum illustrations and Japanese label text '紀州梅サワー'.",
+   "variants": [
+    {
+     "title": "トップバリュ 紀州産梅果汁使用 梅サワー 4% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 538,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 紀州産梅果汁使用 梅サワー 4% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 紀州産梅果汁使用 梅サワー 4% 350ml 1缶",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 紀州産梅果汁使用 梅サワー 7% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 青森県産りんご果汁使用 青りんごサワー 4% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 538,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 青森県産りんご果汁使用 青りんごサワー 4% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_ume_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_strong_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "ストロング系（アルコール9%）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "焼肉",
+    "唐揚げ",
+    "ポテトチップス",
+    "餃子"
+   ],
+   "tax_rate": 10,
+   "description": "アルコール9%で飲みごたえのあるドライなチューハイです。焼肉や餃子など、がっつり系のおかずと一緒に楽しめます。",
+   "image_brief": "A six-pack of black and silver 500ml cans with bold Japanese label text 'ストロング 9% ドライ'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ ドライ 9% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ ドライ 9% 350ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×24",
+     "price_tax_excluded": 1798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ ドライ 9% 500ml×24缶（ケース）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×24",
+     "price_tax_excluded": 2580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ レモン 9% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ レモン 9% 500ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×6",
+     "price_tax_excluded": 658,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ グレープフルーツ 9% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ストロングチューハイ 梅 9% 350ml×6缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350ml×6",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_strong_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_fruit_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "果実系チューハイ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "おやつ",
+    "ホームパーティー",
+    "鍋",
+    "手巻き寿司"
+   ],
+   "tax_rate": 10,
+   "description": "国産果汁を使った、やさしい甘さのフルーツチューハイです。アルコール度数控えめで、お酒が強くない方にも飲みやすい味わいです。",
+   "image_brief": "Three 350ml cans in peach, grape and orange colors with Japanese label text '果汁チューハイ もも・ぶどう・みかん'.",
+   "variants": [
+    {
+     "title": "トップバリュ 山梨県産もも果汁使用 ももチューハイ 3% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 山梨県産もも果汁使用 ももチューハイ 3% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 長野県産ぶどう果汁使用 ぶどうチューハイ 3% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 長野県産ぶどう果汁使用 ぶどうチューハイ 3% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 愛媛県産みかん果汁使用 みかんチューハイ 3% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 愛媛県産みかん果汁使用 みかんチューハイ 3% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果汁チューハイ アソート 3種 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_fruit_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_tea_hai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "お茶割り・焼酎ハイ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "焼き鳥",
+    "唐揚げ",
+    "晩酌",
+    "おでん"
+   ],
+   "tax_rate": 10,
+   "description": "焼酎をお茶で割った、甘くない食中酒です。焼き鳥やおでんなど、どんな和のおかずにも合わせやすい味わいです。",
+   "image_brief": "A row of green and brown 350ml cans with Japanese label text '緑茶ハイ' and 'ウーロンハイ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産茶葉使用 緑茶ハイ 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 緑茶ハイ 5% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウーロンハイ 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウーロンハイ 5% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウーロンハイ 5% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 甘くない プレーンサワー 7% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_tea_hai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_sour_concentrate",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "サワーの素・割り材"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "唐揚げ",
+    "焼き鳥",
+    "ホームパーティー",
+    "焼肉"
+   ],
+   "tax_rate": 10,
+   "description": "炭酸水で割るだけでお店のようなサワーが作れる濃縮タイプです。濃さを好みで調整でき、家飲みのコスパにも優れています。",
+   "image_brief": "A tall clear PET bottle with yellow liquid and Japanese label text 'レモンサワーの素 濃縮'.",
+   "variants": [
+    {
+     "title": "トップバリュ レモンサワーの素 25% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レモンサワーの素 25% 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 梅サワーの素 20% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グレープフルーツサワーの素 25% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 緑茶割り用 濃縮緑茶 無糖 500ml（割り材）",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チューハイ用 焼酎ハイ 25% 2.7L ペット",
+     "brand": "トップバリュ",
+     "size": "2.7L",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_sour_concentrate_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_highball_can",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "ハイボール缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "焼き鳥",
+    "とんかつ",
+    "晩酌",
+    "ハンバーグ"
+   ],
+   "tax_rate": 10,
+   "description": "ウイスキーを強炭酸で割った、キレのあるハイボールです。唐揚げやとんかつなど揚げ物と一緒にすっきり楽しめます。",
+   "image_brief": "A six-pack of amber and black 350ml cans with Japanese label text 'ハイボール 強炭酸'.",
+   "variants": [
+    {
+     "title": "トップバリュ ハイボール 7% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイボール 7% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイボール 7% 500ml×6缶",
+     "brand": "トップバリュ",
+     "size": "500ml×6",
+     "price_tax_excluded": 828,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイボール 7% 500ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "500ml×24",
+     "price_tax_excluded": 3280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レモンハイボール 7% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 濃いめハイボール 9% 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産モルト使用 プレミアムハイボール 8% 350ml",
+     "brand": "トップバリュ セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_highball_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_blended_whisky",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "ウイスキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "ハイボール",
+    "唐揚げ",
+    "ナッツ",
+    "チーズ"
+   ],
+   "tax_rate": 10,
+   "description": "ハイボールにも水割りにもおすすめのブレンデッドウイスキーです。炭酸水で割れば、毎日の晩酌に手軽なハイボールが楽しめます。",
+   "image_brief": "A clear glass whisky bottle with amber liquid and a black label with Japanese text 'ブレンデッドウイスキー 37%'.",
+   "variants": [
+    {
+     "title": "トップバリュ ブレンデッドウイスキー 37% 700ml",
+     "brand": "トップバリュ",
+     "size": "700ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブレンデッドウイスキー 37% 1.8L ペット",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブレンデッドウイスキー 37% 2.7L ペット",
+     "brand": "トップバリュ",
+     "size": "2.7L",
+     "price_tax_excluded": 3180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブレンデッドウイスキー 37% 4L ペット",
+     "brand": "トップバリュ",
+     "size": "4L",
+     "price_tax_excluded": 4580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト モルトウイスキー 40% 700ml",
+     "brand": "トップバリュ セレクト",
+     "size": "700ml",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スコットランド産 スコッチウイスキー 40% 700ml",
+     "brand": "トップバリュ",
+     "size": "700ml",
+     "price_tax_excluded": 1480,
+     "origin": "イギリス産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_blended_whisky_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_junmai_sake_pack",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "純米酒（パック）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お刺身",
+    "焼き魚",
+    "鍋",
+    "おでん",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "お米と米こうじだけで造った、ふくよかな旨みの純米酒です。冷やでも燗でもおいしく、お刺身や鍋料理によく合います。",
+   "image_brief": "A white 2L paper carton with blue rice-plant graphics and Japanese label text '純米酒 国産米100%'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米100% 純米酒 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米100% 純米酒 2L パック",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米100% 純米酒 3L パック",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 純米酒 2L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質ゼロ 純米酒 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 辛口 純米酒 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_junmai_sake_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_honjozo_sake_pack",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "本醸造・普通酒（パック）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鍋",
+    "おでん",
+    "晩酌",
+    "焼き鳥",
+    "すき焼き"
+   ],
+   "tax_rate": 10,
+   "description": "すっきりとした辛口で飲み飽きしない本醸造・普通酒です。熱燗にすればおでんや鍋料理の温かいおかずとよく合います。",
+   "image_brief": "A tall 3L paper carton with red and gold graphics and Japanese label text '本醸造 辛口 日本酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ 本醸造 辛口 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本醸造 辛口 2L パック",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本醸造 辛口 3L パック",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 清酒 まろやか 2L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 948,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 清酒 まろやか 3L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3L",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本醸造 辛口 1.8L 瓶（一升瓶）",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_honjozo_sake_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_junmai_ginjo_bottle",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "吟醸・純米吟醸（瓶）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お刺身",
+    "焼き魚",
+    "茶碗蒸し",
+    "天ぷら",
+    "おもてなし"
+   ],
+   "tax_rate": 10,
+   "description": "華やかな香りとすっきりした後味の純米吟醸酒です。冷やしてお刺身や天ぷらと合わせ、ちょっと特別な日の食卓にどうぞ。",
+   "image_brief": "A green 720ml glass sake bottle with a white washi-style label and Japanese text '純米吟醸'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 新潟県産米使用 純米吟醸 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "新潟県"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産米使用 純米吟醸 1.8L",
+     "brand": "トップバリュ セレクト",
+     "size": "1.8L",
+     "price_tax_excluded": 2480,
+     "origin": "新潟県"
+    },
+    {
+     "title": "トップバリュ セレクト 兵庫県産山田錦使用 純米吟醸 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "兵庫県"
+    },
+    {
+     "title": "トップバリュ セレクト 秋田県産米使用 純米吟醸 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "秋田県"
+    },
+    {
+     "title": "トップバリュ セレクト 山形県産米使用 純米大吟醸 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1980,
+     "origin": "山形県"
+    },
+    {
+     "title": "トップバリュ 吟醸酒 300ml 瓶",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 純米吟醸 飲み比べ 300ml×3本セット",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml×3",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_junmai_ginjo_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_cup_sake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "カップ酒・小容量"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "おでん",
+    "焼き鳥",
+    "お花見",
+    "ひとり飲み"
+   ],
+   "tax_rate": 10,
+   "description": "飲みきりサイズで手軽に楽しめるカップ酒です。レンジで温めれば手軽に燗酒になり、おでんや焼き鳥のお供にぴったりです。",
+   "image_brief": "A clear 180ml glass cup of sake with a pull-tab lid and Japanese label text '上撰 カップ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 清酒 上撰 カップ 180ml",
+     "brand": "トップバリュ",
+     "size": "180ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 清酒 上撰 カップ 180ml×6本",
+     "brand": "トップバリュ",
+     "size": "180ml×6",
+     "price_tax_excluded": 1158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純米酒 カップ 180ml",
+     "brand": "トップバリュ",
+     "size": "180ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本醸造 生貯蔵酒 300ml 瓶",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純米酒 アルミ缶 180ml",
+     "brand": "トップバリュ",
+     "size": "180ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 清酒 上撰 カップ 180ml×30本（ケース）",
+     "brand": "トップバリュ",
+     "size": "180ml×30",
+     "price_tax_excluded": 5580,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_cup_sake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_seasonal_sake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "季節限定酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "さんまの塩焼き",
+    "鍋",
+    "きのこ料理",
+    "晩酌",
+    "煮物"
+   ],
+   "tax_rate": 10,
+   "description": "季節ごとの味わいを楽しめる限定の日本酒です。秋のひやおろしは、さんまの塩焼きやきのこ料理など旬の味覚と好相性です。",
+   "image_brief": "A brown 720ml glass sake bottle with an autumn maple-leaf label and Japanese text 'ひやおろし'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 【秋季限定】ひやおろし 純米 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 【秋季限定】ひやおろし 純米 1.8L",
+     "brand": "トップバリュ セレクト",
+     "size": "1.8L",
+     "price_tax_excluded": 2580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 【冬季限定】しぼりたて 生原酒 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 【冬季限定】にごり酒 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 【夏季限定】夏の純米吟醸 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 【秋季限定】ひやおろし 純米 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_seasonal_sake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_sparkling_sake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "スパークリング日本酒・甘酒系"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ホームパーティー",
+    "おもてなし",
+    "ちらし寿司",
+    "お祝い",
+    "デザート"
+   ],
+   "tax_rate": 10,
+   "description": "シュワっとはじける泡とやさしい甘さのスパークリング日本酒です。アルコール度数控えめで、ちらし寿司などのお祝いの食卓に華を添えます。",
+   "image_brief": "A slim 300ml clear glass bottle with cloudy white sake and Japanese label text 'スパークリング清酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト スパークリング清酒 5% 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト スパークリング清酒 5% 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト スパークリング清酒 5% 250ml×3本",
+     "brand": "トップバリュ セレクト",
+     "size": "250ml×3",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト にごりスパークリング清酒 ゆず 5% 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト にごりスパークリング清酒 もも 5% 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト スパークリング清酒 5% 300ml×6本（ケース）",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml×6",
+     "price_tax_excluded": 2880,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_sparkling_sake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_imo_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "芋焼酎"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "豚の角煮",
+    "さつま揚げ",
+    "焼き鳥",
+    "もつ鍋"
+   ],
+   "tax_rate": 10,
+   "description": "鹿児島県産さつまいもを使った、芳醇な香りの本格芋焼酎です。お湯割りやロックで、豚の角煮やさつま揚げなど甘辛いおかずと一緒にどうぞ。",
+   "image_brief": "A brown 1.8L paper carton with sweet potato illustrations and Japanese label text '本格芋焼酎 25度'.",
+   "variants": [
+    {
+     "title": "トップバリュ 本格芋焼酎 25度 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ 本格芋焼酎 25度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ 本格芋焼酎 25度 3L ペット",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ 本格芋焼酎 25度 720ml 瓶",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ セレクト 黒麹仕込み 本格芋焼酎 25度 1.8L 瓶",
+     "brand": "トップバリュ セレクト",
+     "size": "1.8L",
+     "price_tax_excluded": 2180,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ 本格芋焼酎 20度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1380,
+     "origin": "宮崎県"
+    },
+    {
+     "title": "トップバリュ 本格芋焼酎 水割り 7% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_imo_shochu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_mugi_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "麦焼酎"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "焼き魚",
+    "唐揚げ",
+    "冷奴",
+    "餃子"
+   ],
+   "tax_rate": 10,
+   "description": "大麦を使った、すっきりとクセの少ない本格麦焼酎です。水割りやソーダ割りで、焼き魚や唐揚げなど毎日のおかずと合わせやすい味わいです。",
+   "image_brief": "A pale blue 1.8L paper carton with barley illustrations and Japanese label text '本格麦焼酎 25度'.",
+   "variants": [
+    {
+     "title": "トップバリュ 本格麦焼酎 25度 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 848,
+     "origin": "大分県"
+    },
+    {
+     "title": "トップバリュ 本格麦焼酎 25度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1480,
+     "origin": "大分県"
+    },
+    {
+     "title": "トップバリュ 本格麦焼酎 25度 3L ペット",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 2380,
+     "origin": "大分県"
+    },
+    {
+     "title": "トップバリュ 本格麦焼酎 25度 720ml 瓶",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 848,
+     "origin": "大分県"
+    },
+    {
+     "title": "トップバリュ 本格麦焼酎 20度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1280,
+     "origin": "福岡県"
+    },
+    {
+     "title": "トップバリュ セレクト 長期貯蔵 本格麦焼酎 25度 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_mugi_shochu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_kome_kokuto_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "米焼酎・黒糖焼酎"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "お刺身",
+    "鍋",
+    "豚の角煮",
+    "焼き鳥"
+   ],
+   "tax_rate": 10,
+   "description": "やわらかな甘みの米焼酎と、まろやかな黒糖焼酎をご用意しました。ロックやお湯割りで、お刺身や鍋料理と合わせて楽しめます。",
+   "image_brief": "A clear 720ml glass bottle with a white label and Japanese text '本格米焼酎 25度'.",
+   "variants": [
+    {
+     "title": "トップバリュ 球磨産 本格米焼酎 25度 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 998,
+     "origin": "熊本県"
+    },
+    {
+     "title": "トップバリュ 球磨産 本格米焼酎 25度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1680,
+     "origin": "熊本県"
+    },
+    {
+     "title": "トップバリュ 奄美産 本格黒糖焼酎 25度 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ 奄美産 本格黒糖焼酎 25度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1980,
+     "origin": "鹿児島県"
+    },
+    {
+     "title": "トップバリュ セレクト 本格そば焼酎 25度 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 998,
+     "origin": "宮崎県"
+    },
+    {
+     "title": "トップバリュ 沖縄県産 泡盛 25度 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 1080,
+     "origin": "沖縄県"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_kome_kokuto_shochu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_korui_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "甲類焼酎・ホワイトリカー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "梅酒づくり",
+    "レモンサワー",
+    "緑茶ハイ",
+    "焼き鳥"
+   ],
+   "tax_rate": 10,
+   "description": "クセがなく、サワーやお茶割りのベースに便利な甲類焼酎です。35度のホワイトリカーは梅酒や果実酒づくりにもおすすめです。",
+   "image_brief": "A large 4L clear PET jug with a handle and Japanese label text '甲類焼酎 25度'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 甲類焼酎 25度 1.8L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.8L",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 甲類焼酎 25度 2.7L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2.7L",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 甲類焼酎 25度 4L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4L",
+     "price_tax_excluded": 2080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 甲類焼酎 20度 4L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4L",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果実酒用 ホワイトリカー 35度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果実酒用 ホワイトリカー 35度 900ml パック",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果実酒用 ブランデーベース 35度 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_korui_shochu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_umeshu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "梅酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "食後酒",
+    "焼き魚",
+    "ホームパーティー",
+    "冷奴"
+   ],
+   "tax_rate": 10,
+   "description": "紀州産南高梅を漬け込んだ、まろやかな甘さと酸味の梅酒です。ロックやソーダ割りで、食後のひとときやおもてなしにどうぞ。",
+   "image_brief": "An amber 720ml glass bottle with whole plums visible and Japanese label text '紀州南高梅 梅酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ 紀州産南高梅使用 梅酒 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 898,
+     "origin": "和歌山県"
+    },
+    {
+     "title": "トップバリュ 紀州産南高梅使用 梅酒 1.8L パック",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 1680,
+     "origin": "和歌山県"
+    },
+    {
+     "title": "トップバリュ ベストプライス 梅酒 2L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 完熟梅使用 にごり梅酒 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県"
+    },
+    {
+     "title": "トップバリュ セレクト 黒糖梅酒 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 梅酒ソーダ 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 紀州産南高梅使用 梅酒ロック 8% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_umeshu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_fruit_liqueur",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "果実酒・リキュール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食後酒",
+    "おやつ",
+    "ホームパーティー",
+    "鍋",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "ゆずやももなど国産果実を使った、甘くて香り豊かなリキュールです。ソーダや牛乳で割って、食後のデザート感覚で楽しめます。",
+   "image_brief": "Three 500ml glass bottles in yellow, pink and orange with Japanese label text 'ゆず酒 もも酒 あんず酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ 高知県産ゆず使用 ゆず酒 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "高知県"
+    },
+    {
+     "title": "トップバリュ 山梨県産もも使用 もも酒 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "山梨県"
+    },
+    {
+     "title": "トップバリュ 長野県産あんず使用 あんず酒 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "長野県"
+    },
+    {
+     "title": "トップバリュ 静岡県産茶葉使用 緑茶リキュール 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "静岡県"
+    },
+    {
+     "title": "トップバリュ セレクト 和歌山県産みかん使用 みかん酒 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県"
+    },
+    {
+     "title": "トップバリュ ゆず酒ソーダ 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_fruit_liqueur_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_cream_liqueur",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "クリーム・デザートリキュール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後酒",
+    "デザート",
+    "バニラアイス",
+    "ホームパーティー"
+   ],
+   "tax_rate": 10,
+   "description": "牛乳のコクを生かしたまろやかなクリームリキュールです。バニラアイスにかけたり牛乳で割ったりして、デザート感覚で楽しめます。",
+   "image_brief": "A 500ml frosted white bottle with Japanese label text '北海道牛乳使用 ミルクリキュール'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクリキュール いちご 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクリキュール 抹茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクリキュール コーヒー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクリキュール チョコレート 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクリキュール いちご 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト アイリッシュ クリームリキュール 700ml",
+     "brand": "トップバリュ セレクト",
+     "size": "700ml",
+     "price_tax_excluded": 1980,
+     "origin": "アイルランド産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_cream_liqueur_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_chile_red_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "赤ワイン（チリ）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ビーフシチュー",
+    "ステーキ",
+    "ミートソースパスタ",
+    "焼肉"
+   ],
+   "tax_rate": 10,
+   "description": "果実味豊かでやわらかな渋みのチリ産赤ワインです。ハンバーグやビーフシチューなど、家族の洋食メニューに気軽に合わせられます。",
+   "image_brief": "A dark glass 750ml wine bottle with a red label showing Andes mountains and Japanese text 'チリ産 赤ワイン'.",
+   "variants": [
+    {
+     "title": "トップバリュ チリ産 カベルネ・ソーヴィニヨン 赤 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 メルロー 赤 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 カルメネール 赤 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 ピノ・ノワール 赤 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス チリ産 赤ワイン 1.5L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.5L",
+     "price_tax_excluded": 980,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ セレクト チリ産 カベルネ・ソーヴィニヨン レゼルバ 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1180,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 カベルネ・ソーヴィニヨン 赤 375ml ハーフボトル",
+     "brand": "トップバリュ",
+     "size": "375ml",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_chile_red_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_chile_white_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "白ワイン（チリ）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鮭のムニエル",
+    "グラタン",
+    "パスタ",
+    "白身魚のフライ",
+    "クリームシチュー"
+   ],
+   "tax_rate": 10,
+   "description": "爽やかな酸味とフルーティーな香りのチリ産白ワインです。鮭のムニエルやグラタン、クリーム系パスタとよく合います。",
+   "image_brief": "A clear glass 750ml wine bottle with pale golden wine and a white label with Japanese text 'チリ産 白ワイン'.",
+   "variants": [
+    {
+     "title": "トップバリュ チリ産 シャルドネ 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 ソーヴィニヨン・ブラン 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス チリ産 白ワイン 1.5L ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.5L",
+     "price_tax_excluded": 980,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ セレクト チリ産 シャルドネ レゼルバ 白 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1180,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 シャルドネ 白 375ml ハーフボトル",
+     "brand": "トップバリュ",
+     "size": "375ml",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 ソーヴィニヨン・ブラン 白 スクリューキャップ 250ml 缶",
+     "brand": "トップバリュ",
+     "size": "250ml",
+     "price_tax_excluded": 298,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_chile_white_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_france_red_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "赤ワイン（フランス）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストビーフ",
+    "ビーフシチュー",
+    "ハンバーグ",
+    "チーズ",
+    "おもてなし"
+   ],
+   "tax_rate": 10,
+   "description": "フランスの産地で造られた、上品な果実味の赤ワインです。ローストビーフやビーフシチューなど、記念日やおもてなしの料理に合わせてどうぞ。",
+   "image_brief": "A dark Bordeaux-style 750ml bottle with a cream label showing a chateau sketch and Japanese text 'フランス産 赤ワイン'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト フランス産 ボルドー 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1280,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 ボルドー・シュペリュール 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1680,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ フランス産 ヴァン・ド・フランス 赤 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 ブルゴーニュ ピノ・ノワール 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 2480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 コート・デュ・ローヌ 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1380,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 新酒 赤 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1980,
+     "origin": "フランス産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_france_red_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_france_white_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "白ワイン（フランス）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鮭のムニエル",
+    "グラタン",
+    "カルパッチョ",
+    "シーフードパスタ",
+    "おもてなし"
+   ],
+   "tax_rate": 10,
+   "description": "すっきりとした酸味と豊かな香りのフランス産白ワインです。鮭のムニエルやシーフードパスタなど魚介の料理と相性抜群です。",
+   "image_brief": "A tall green 750ml bottle with a white label and Japanese text 'フランス産 白ワイン'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト フランス産 ボルドー 白 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1280,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ フランス産 ヴァン・ド・フランス 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 ブルゴーニュ シャルドネ 白 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 2480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 ミュスカデ 白 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1280,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 アルザス リースリング 白 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1580,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ フランス産 ロゼ 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_france_white_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_domestic_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "国産ワイン（日本ワイン）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "焼き鳥",
+    "天ぷら",
+    "お刺身",
+    "肉じゃが"
+   ],
+   "tax_rate": 10,
+   "description": "国産ぶどうを100%使った日本ワインです。甲州の白は天ぷらやお刺身に、マスカット・ベーリーAの赤はすき焼きや焼き鳥など和食に合わせやすい味わいです。",
+   "image_brief": "A slender 720ml glass bottle with a minimalist washi-style label and Japanese text '日本ワイン 甲州'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 山梨県産 甲州 白 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "トップバリュ セレクト 山梨県産 マスカット・ベーリーA 赤 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "トップバリュ セレクト 長野県産 メルロー 赤 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1980,
+     "origin": "長野県産"
+    },
+    {
+     "title": "トップバリュ セレクト 長野県産 ナイアガラ 白 甘口 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "長野県産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産 ケルナー 白 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1780,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ セレクト 山形県産 デラウェア 白 やや甘口 720ml",
+     "brand": "トップバリュ セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "山形県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_domestic_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_sparkling_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "スパークリングワイン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "クリスマス",
+    "ホームパーティー",
+    "ちらし寿司",
+    "唐揚げ"
+   ],
+   "tax_rate": 10,
+   "description": "きめ細かな泡が心地よい辛口のスパークリングワインです。誕生日やクリスマスなど、家族のお祝いの乾杯にぴったりです。",
+   "image_brief": "A dark green 750ml sparkling wine bottle with gold foil cap and Japanese label text 'スパークリングワイン 辛口'.",
+   "variants": [
+    {
+     "title": "トップバリュ スペイン産 カバ 辛口 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 898,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ スペイン産 カバ ロゼ 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 998,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ イタリア産 スプマンテ 甘口 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 898,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ セレクト イタリア産 プロセッコ 辛口 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1480,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ チリ産 スパークリングワイン 白 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 クレマン 辛口 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ スペイン産 カバ 辛口 白 200ml ミニボトル",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 348,
+     "origin": "スペイン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_sparkling_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_box_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "大容量・パックワイン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "ビーフシチュー",
+    "晩酌",
+    "ハンバーグ",
+    "バーベキュー"
+   ],
+   "tax_rate": 10,
+   "description": "たっぷり入って毎日の晩酌にうれしい大容量タイプのワインです。開封後も酸化しにくいバッグインボックスは、煮込み料理の隠し味にも使いやすいサイズです。",
+   "image_brief": "A cardboard 3L bag-in-box wine carton with a tap and grape illustrations, Japanese label text '赤ワイン 3L'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 赤ワイン 1.8L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.8L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 白ワイン 1.8L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.8L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チリ産 赤ワイン バッグインボックス 3L",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 1980,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ チリ産 白ワイン バッグインボックス 3L",
+     "brand": "トップバリュ",
+     "size": "3L",
+     "price_tax_excluded": 1980,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ロゼワイン やや甘口 1.8L パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.8L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 赤ワイン 720ml ペット",
+     "brand": "トップバリュ ベストプライス",
+     "size": "720ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_box_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_organic_preservative_free_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "酸化防止剤無添加・オーガニック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "ピザ",
+    "グラタン",
+    "鶏のトマト煮",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "酸化防止剤を加えずに仕上げたフレッシュな味わいのワインと、有機ぶどう使用のオーガニックワインです。パスタやピザなど気軽な洋食に合わせやすい味わいです。",
+   "image_brief": "A 720ml green glass bottle with a leaf-motif label and Japanese text '酸化防止剤無添加 赤'.",
+   "variants": [
+    {
+     "title": "トップバリュ 酸化防止剤無添加 赤ワイン 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 酸化防止剤無添加 白ワイン 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 酸化防止剤無添加 赤ワイン 1.5L ペット",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 酸化防止剤無添加 白ワイン 1.5L ペット",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ぶどう使用 スペイン産 赤 750ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "750ml",
+     "price_tax_excluded": 998,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ぶどう使用 イタリア産 白 750ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "750ml",
+     "price_tax_excluded": 998,
+     "origin": "イタリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_organic_preservative_free_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_sweet_rose_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "甘口・ロゼ・フルーツワイン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ホームパーティー",
+    "デザート",
+    "チーズ",
+    "女子会"
+   ],
+   "tax_rate": 10,
+   "description": "フルーティーでやさしい甘さの甘口ワインとロゼワインです。ワインが初めての方にも飲みやすく、チーズやデザートと一緒に楽しめます。",
+   "image_brief": "A clear 720ml bottle with pink wine and a floral label with Japanese text 'ロゼワイン やや甘口'.",
+   "variants": [
+    {
+     "title": "トップバリュ ドイツ産 白ワイン 甘口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "トップバリュ ポルトガル産 微発泡 ロゼ やや甘口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "ポルトガル産"
+    },
+    {
+     "title": "トップバリュ ポルトガル産 微発泡 白 やや甘口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "ポルトガル産"
+    },
+    {
+     "title": "トップバリュ サングリア 赤 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サングリア 白 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ワインソーダ 赤 5% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_sweet_rose_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_shaoxing_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "中国酒・アジアのお酒",
+    "紹興酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "餃子",
+    "酢豚",
+    "青椒肉絲",
+    "エビチリ"
+   ],
+   "tax_rate": 10,
+   "description": "もち米を原料に長期熟成させた、まろやかなコクの紹興酒です。常温やロックで、麻婆豆腐や酢豚など中華料理と一緒に楽しめます。",
+   "image_brief": "A brown ceramic-style 600ml bottle with a red label and Japanese text '紹興酒 5年 熟成'.",
+   "variants": [
+    {
+     "title": "トップバリュ 中国産 紹興酒 3年熟成 600ml",
+     "brand": "トップバリュ",
+     "size": "600ml",
+     "price_tax_excluded": 698,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 中国産 紹興酒 5年熟成 600ml",
+     "brand": "トップバリュ",
+     "size": "600ml",
+     "price_tax_excluded": 898,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ セレクト 中国産 紹興酒 10年熟成 600ml",
+     "brand": "トップバリュ セレクト",
+     "size": "600ml",
+     "price_tax_excluded": 1680,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 中国産 紹興酒 5年熟成 1.8L 瓶",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 2280,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 中国産 紹興酒 3年熟成 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 中国産 紹興酒 甕詰 5年熟成 2.5L",
+     "brand": "トップバリュ",
+     "size": "2.5L",
+     "price_tax_excluded": 3480,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_shaoxing_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_makgeolli",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "中国酒・アジアのお酒",
+    "マッコリ・韓国のお酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チヂミ",
+    "キムチ鍋",
+    "焼肉",
+    "プルコギ",
+    "トッポッキ"
+   ],
+   "tax_rate": 10,
+   "description": "米を発酵させた、やさしい甘さと微炭酸のマッコリです。チヂミやキムチ鍋、焼肉など韓国風の献立と合わせてどうぞ。",
+   "image_brief": "A white 1L PET bottle with milky liquid and Japanese label text '韓国産 マッコリ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 韓国産 マッコリ 6% 1L ペット",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 548,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ 韓国産 マッコリ 6% 750ml ペット",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 448,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ 韓国産 マッコリ 6% 350ml 缶",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 198,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ 韓国産 マッコリ ピーチ 4% 350ml 缶",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 208,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ 韓国産 焼酎 グレープフルーツ 13% 360ml 瓶",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 348,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ 韓国産 焼酎 17% 360ml 瓶",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 328,
+     "origin": "韓国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_makgeolli_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_non_alcoholic_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコールビールテイスト"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "唐揚げ",
+    "焼肉",
+    "休肝日",
+    "餃子"
+   ],
+   "tax_rate": 8,
+   "description": "アルコール0.00%なのに、ビールのような爽快なのどごしが楽しめるノンアルコールビールテイスト飲料です。休肝日や運転前の食卓でも、唐揚げや焼肉と一緒に気兼ねなく楽しめます。",
+   "image_brief": "A six-pack of blue and silver 350ml cans with Japanese label text 'ノンアルコール ビールテイスト 0.00%'.",
+   "variants": [
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 0.00% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 0.00% 500ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "500ml×24",
+     "price_tax_excluded": 2780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 糖質ゼロ 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 518,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 糖質ゼロ 0.00% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 2058,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール 黒ビールテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 518,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ビールテイスト 0.00% 334ml 瓶",
+     "brand": "トップバリュ",
+     "size": "334ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_non_alcoholic_beer_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_non_alcoholic_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコールチューハイ・カクテル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "焼き鳥",
+    "休肝日",
+    "ホームパーティー",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "チューハイの爽快感をアルコール0.00%で楽しめるノンアルコールテイスト飲料です。レモンや梅など、食事に合わせやすい甘さ控えめの味わいです。",
+   "image_brief": "A row of 350ml cans in yellow, green and pink with Japanese label text 'ノンアルコール レモンサワーテイスト 0.00%'.",
+   "variants": [
+    {
+     "title": "トップバリュ ノンアルコール レモンサワーテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール レモンサワーテイスト 0.00% 350ml×24缶（ケース）",
+     "brand": "トップバリュ",
+     "size": "350ml×24",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール 梅サワーテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール グレープフルーツサワーテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール ハイボールテイスト 0.00% 350ml×6缶",
+     "brand": "トップバリュ",
+     "size": "350ml×6",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール 梅酒テイスト 0.00% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール カシスオレンジテイスト 0.00% 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_non_alcoholic_chuhai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_alcohol_non_alcoholic_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコールワイン・スパークリング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "クリスマス",
+    "ホームパーティー",
+    "ハンバーグ",
+    "ローストチキン"
+   ],
+   "tax_rate": 8,
+   "description": "ワインのような香りと味わいをアルコール0.00%で楽しめるノンアルコールワインテイスト飲料です。クリスマスや誕生日など、運転する日やお酒を飲まない方とも一緒に乾杯できます。",
+   "image_brief": "A dark 720ml glass bottle with a silver label and Japanese text 'ノンアルコール スパークリング 0.00%'.",
+   "variants": [
+    {
+     "title": "トップバリュ ノンアルコール 赤ワインテイスト 0.00% 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール 白ワインテイスト 0.00% 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール スパークリング 白 0.00% 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール スパークリング ロゼ 0.00% 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンアルコール スパークリング 白 0.00% 250ml 缶",
+     "brand": "トップバリュ",
+     "size": "250ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ドイツ産 脱アルコール 赤ワイン 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1080,
+     "origin": "ドイツ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_alcohol_non_alcoholic_wine_p.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3291 @@
+{
+ "category_key": "w_deli_mealkit_party",
+ "items": [
+  {
+   "base_id": "w_deli_mealkit_party_gapao_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "エスニックのミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ガパオライス",
+    "目玉焼きのせ",
+    "ワンプレートごはん"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ひき肉と彩り野菜、バジル、専用ソースがセットになったガパオライスのミールキット。炒めて10分ほどで本格タイ風の一皿に。ナンプラーの香りと甘辛い味付けで、目玉焼きをのせればお店気分のランチにもぴったりです。",
+   "image_brief": "A clear plastic meal-kit tray divided into compartments with minced chicken, sliced red and yellow peppers, onion, fresh basil leaves and a small sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏のガパオライス 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のガパオライス 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のガパオライス 辛口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉のガパオ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 758,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト バジル香る 本格ガパオ キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_gapao_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_beef_stroganoff_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ビーフストロガノフ",
+    "バターライス添え",
+    "パスタソース"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉、玉ねぎ、マッシュルームにサワークリーム仕立てのソースを合わせたビーフストロガノフのキット。炒めて煮込むだけで、ほどよい酸味とコクのある洋食が完成します。バターライスやパスタと合わせて週末のディナーにどうぞ。",
+   "image_brief": "A black rectangular meal-kit tray with sliced beef, onion, mushrooms and a pouch of creamy sauce under clear film, plain blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛肉のビーフストロガノフ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 牛肉のビーフストロガノフ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1680,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産牛のビーフストロガノフ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal セレクト サワークリーム仕立て ビーフストロガノフ キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ビーフストロガノフの素と具材セット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_beef_stroganoff_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_chicken_tomato_stew_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏肉のトマト煮込み",
+    "パン添え",
+    "ショートパスタ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏もも肉とじゃがいも、玉ねぎ、パプリカをトマトソースでコトコト煮込むミールキット。野菜はカット済みなので鍋ひとつで手軽に作れます。酸味がまろやかでお子さまにも食べやすく、バゲットやパスタとの相性も抜群です。",
+   "image_brief": "A clear meal-kit tray holding diced chicken thigh, potato chunks, onion and red pepper with a red tomato sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏のトマト煮込み 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のトマト煮込み 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏と豆のトマト煮込み 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 848,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機トマトソースで作る チキンのトマト煮キット 2人前",
+     "brand": "Cymbal オーガニック",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハーブ香る 鶏ももとごろごろ野菜のカチャトーラ 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_chicken_tomato_stew_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_cashew_chicken_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "カシューナッツ",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏肉とカシューナッツ炒め",
+    "ごはんのおかず",
+    "中華定食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉、カシューナッツ、ピーマン、たけのこに中華合わせ調味料がセットになったミールキット。香ばしいナッツの食感とオイスター風味の甘辛だれが絶妙で、炒めるだけで本格中華に。忙しい平日の晩ごはんに重宝します。",
+   "image_brief": "A meal-kit tray with diced chicken, whole cashew nuts, green pepper, bamboo shoot pieces and a brown sauce sachet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏とカシューナッツ炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏とカシューナッツ炒め 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏とカシューナッツの甘酢炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏肉とカシューナッツ炒めの素と具材セット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大粒カシューナッツ使用 鶏とナッツの四川風炒め 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_cashew_chicken_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_beef_broccoli_oyster_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛肉とブロッコリーのオイスター炒め",
+    "中華丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉とブロッコリー、きくらげをオイスターソースで炒める中華のミールキット。ブロッコリーは下茹で済みで、炒め時間はわずか5分ほど。コク深いソースがよく絡み、ごはんが進む一品です。彩りもよく食卓が華やぎます。",
+   "image_brief": "A meal-kit tray with thin-sliced beef, bright green broccoli florets, black wood-ear mushrooms and a dark oyster sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛肉とブロッコリーのオイスター炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 牛肉とブロッコリーのオイスター炒め 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産牛とブロッコリーのオイスター炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 豚肉とブロッコリーのオイスター炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 748,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック オイスター炒めの素と野菜セット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_beef_broccoli_oyster_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_bulgogi_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "韓国のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "プルコギ",
+    "プルコギ丼",
+    "サンチュ包み",
+    "キンパ"
+   ],
+   "tax_rate": 8,
+   "description": "りんごと醤油ベースの甘辛だれに漬け込んだ牛肉と、玉ねぎ・にんじん・ニラがセットになったプルコギキット。フライパンで炒めるだけで、ごま油香る韓国の家庭の味に。サンチュで包んだり、丼にしても楽しめます。",
+   "image_brief": "A meal-kit tray of marinated thin beef slices in glossy sauce beside sliced onion, carrot sticks and garlic chives, sesame seeds visible, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛肉のプルコギ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 牛肉のプルコギ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産牛のプルコギ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚のテジプルコギ ピリ辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "ソウルキッチン 春雨入り プルコギ キット 2人前",
+     "brand": "ソウルキッチン",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_bulgogi_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_cheese_dakgalbi_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "韓国のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "チーズタッカルビ",
+    "ホットプレート料理",
+    "シメのチャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "ピリ辛ヤンニョムに漬けた鶏もも肉とキャベツ、さつまいも、トッポギにとろけるチーズを添えたタッカルビキット。ホットプレートで囲めば家族やお友達とのパーティーにも。最後はごはんを入れてチャーハン風にどうぞ。",
+   "image_brief": "A large meal-kit tray with red-marinated chicken pieces, cabbage, sweet potato slices, rice cake sticks and a bag of shredded mozzarella, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏のチーズタッカルビ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 998,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のチーズタッカルビ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1680,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のタッカルビ 甘口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のチーズタッカルビ 激辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 998,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "ソウルキッチン モッツァレラたっぷり チーズタッカルビ 4〜5人前",
+     "brand": "ソウルキッチン",
+     "size": "4〜5人前",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_cheese_dakgalbi_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_japchae_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "韓国のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャプチェ",
+    "副菜",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "韓国春雨と牛肉、ほうれん草、にんじん、しいたけを甘辛く炒め合わせるチャプチェのキット。春雨は戻し不要タイプで手間なく調理できます。ごま油の香りが食欲をそそり、主菜にも副菜にもなる人気メニューです。",
+   "image_brief": "A meal-kit tray with clear sweet-potato glass noodles bundle, sliced beef, spinach, carrot strips and shiitake slices with a sauce sachet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛肉入りチャプチェ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 牛肉入りチャプチェ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚肉のチャプチェ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック チャプチェの素と春雨セット 3人前",
+     "brand": "Cymbal ベーシック",
+     "size": "3人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソウルキッチン 彩り野菜の本格チャプチェ 2人前",
+     "brand": "ソウルキッチン",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_japchae_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_buri_daikon_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "魚のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ぶり大根",
+    "煮魚定食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったぶりと下茹で済みの大根、しょうが、甘辛煮汁をセットにしたぶり大根のミールキット。面倒な下処理なしで、鍋で煮るだけで味のしみた冬の定番おかずに。旬の時期ならではのコクをお楽しみください。",
+   "image_brief": "A meal-kit tray with thick yellowtail pieces, pre-boiled daikon radish rounds, ginger slivers and a brown simmering sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 天然ぶりのぶり大根 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国産ぶり使用"
+    },
+    {
+     "title": "[ミールキット] 天然ぶりのぶり大根 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産ぶり使用"
+    },
+    {
+     "title": "[ミールキット] 富山県産 天然ぶりのぶり大根 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "富山県産ぶり使用"
+    },
+    {
+     "title": "[ミールキット] 養殖ぶり切身のぶり大根 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産ぶり使用"
+    },
+    {
+     "title": "Cymbal セレクト 寒ぶり使用 ぶり大根 キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_buri_daikon_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_teriyaki_chicken_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "肉のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏の照り焼き",
+    "照り焼き丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "鶏もも肉一枚肉と付け合わせのししとう・れんこん、照り焼きのたれをセットにしたミールキット。皮目をパリッと焼いてたれを絡めるだけで、つややかな照り焼きの完成です。お弁当や丼にもアレンジしやすい定番の味。",
+   "image_brief": "A meal-kit tray with two whole chicken thigh fillets, shishito peppers, lotus root slices and a dark teriyaki sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏の照り焼き 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏の照り焼き 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のてりマヨ焼き 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 748,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 宮崎県産 若鶏もものゆず照り焼き 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "宮崎県産鶏肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 地鶏の照り焼き キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_teriyaki_chicken_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_pork_chop_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "肉のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "りんご",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ポークチャップ",
+    "洋食プレート",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "厚切りの豚ロースとケチャップベースのソース、玉ねぎ、マッシュルームがセットになったポークチャップのキット。甘酸っぱいソースが豚肉の旨みを引き立て、お子さまから大人まで喜ばれる洋食屋さんの味わいです。",
+   "image_brief": "A meal-kit tray with two thick pork loin chops, sliced onion and button mushrooms beside a red ketchup-based sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚ロースのポークチャップ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚ロースのポークチャップ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 鹿児島県産黒豚のポークチャップ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "鹿児島県産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] カナダ産豚肩ロースのポークチャップ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 648,
+     "origin": "カナダ産豚肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック ポークチャップソースと野菜セット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_pork_chop_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_cream_stew_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "鶏肉",
+    "大豆",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "クリームシチュー",
+    "シチューグラタン",
+    "パン添え"
+   ],
+   "tax_rate": 8,
+   "description": "カット済みの鶏もも肉、じゃがいも、にんじん、玉ねぎ、ブロッコリーとシチュールウをひとまとめにしたミールキット。包丁いらずで煮込むだけ、まろやかで優しい味わいのクリームシチューが手軽に作れます。寒い日の夕食に。",
+   "image_brief": "A meal-kit tray holding diced chicken, potato and carrot chunks, onion wedges, broccoli florets and a block of white roux in foil, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産若鶏のクリームシチュー 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産若鶏のクリームシチュー 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[ミールキット] 北海道産野菜のクリームシチュー 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産野菜使用"
+    },
+    {
+     "title": "[ミールキット] 鮭とほうれん草のクリームシチュー 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "チリ産銀鮭使用"
+    },
+    {
+     "title": "Cymbal セレクト 生クリーム仕立て 濃厚クリームシチュー キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_cream_stew_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_taco_rice_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "エスニックのミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タコライス",
+    "タコス",
+    "ワンプレートごはん"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスで味付けするひき肉とレタス、トマト、シュレッドチーズ、サルサソースがそろったタコライスのキット。炒めてごはんにのせるだけで、沖縄生まれの人気メニューが完成。トルティーヤで包んでタコス風にも楽しめます。",
+   "image_brief": "A meal-kit tray with minced meat, shredded lettuce, diced tomato, yellow shredded cheese and a red salsa cup, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛豚合挽のタコライス 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "[ミールキット] 牛豚合挽のタコライス 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "[ミールキット] 牛豚合挽のタコライス 辛口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "[ミールキット] トルティーヤ付き タコスセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック タコミートの素とチーズのセット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_taco_rice_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_acqua_pazza_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "魚のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "アクアパッツァ",
+    "パスタ",
+    "ワインのお供"
+   ],
+   "tax_rate": 8,
+   "description": "白身魚の切身とあさり、えび、ミニトマト、オリーブを白ワイン風味のスープで蒸し煮にするアクアパッツァのキット。フライパンひとつで見栄えのするイタリアンが完成します。残ったスープはパスタやリゾットにしても絶品です。",
+   "image_brief": "A wide meal-kit tray with white cod fillets, clams in shells, shrimp, cherry tomatoes and black olives with a herb seasoning sachet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 北海道産真だらのアクアパッツァ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "北海道産たら使用"
+    },
+    {
+     "title": "[ミールキット] 北海道産真だらのアクアパッツァ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産たら使用"
+    },
+    {
+     "title": "[ミールキット] 真鯛のアクアパッツァ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "愛媛県産真鯛使用"
+    },
+    {
+     "title": "[ミールキット] 白身魚とあさりのアクアパッツァ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 魚介たっぷり アクアパッツァ キット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_acqua_pazza_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_buta_kimchi_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "韓国のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "えび",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚キムチ炒め",
+    "豚キムチ丼",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚バラ肉と白菜キムチ、玉ねぎ、ニラに合わせ調味料がセットになった豚キムチのミールキット。炒めるだけでキムチの酸味と豚の脂の旨みが一体になり、ごはんもお酒も進みます。忙しい日でも5分で一品完成。",
+   "image_brief": "A meal-kit tray with sliced pork belly, red napa cabbage kimchi, onion slices and green garlic chives with a small sauce sachet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚バラの豚キムチ炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚バラの豚キムチ炒め 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚バラの豚キムチ 旨辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 豚キムチ豆腐チゲ風炒め 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 748,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "ソウルキッチン 熟成キムチの豚キムチ キット 2人前",
+     "brand": "ソウルキッチン",
+     "size": "2人前",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_buta_kimchi_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_mapo_nasu_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆茄子",
+    "麻婆茄子丼",
+    "中華定食"
+   ],
+   "tax_rate": 8,
+   "description": "揚げ焼きにしたなすと豚ひき肉、長ねぎ、豆板醤を効かせた合わせ調味料のセット。とろりと柔らかいなすに旨辛のあんがよく絡む麻婆茄子が、フライパンひとつで手早く作れます。辛さ控えめでご家族にもおすすめです。",
+   "image_brief": "A meal-kit tray with purple eggplant wedges, minced pork, chopped green onion and a red chili bean sauce pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆茄子 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆茄子 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 国産豚ひき肉の麻婆茄子 辛口 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[ミールキット] 高知県産なすの麻婆茄子 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 798,
+     "origin": "高知県産なす使用"
+    },
+    {
+     "title": "Cymbal ベーシック 麻婆茄子の素となすのセット 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_mapo_nasu_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_mizutaki_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "水炊きセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "雑炊",
+    "ちゃんぽん麺のシメ"
+   ],
+   "tax_rate": 8,
+   "description": "骨付き鶏ぶつ切りと鶏団子、白菜、長ねぎ、しいたけ、白濁鶏がらスープに柚子ぽん酢を添えた水炊きセット。じっくり煮込むほどに鶏の旨みがスープに溶け出し、シメの雑炊まで楽しめます。寒い季節の家族団らんに。",
+   "image_brief": "A large black tray of bone-in chicken pieces, chicken meatballs, napa cabbage, leek and shiitake under clear film with a milky soup pouch and a small ponzu bottle, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 国産若鶏の水炊きセット ぽん酢付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 国産若鶏の水炊きセット ぽん酢付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2480,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 博多風 白湯水炊きセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1680,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 地鶏の水炊きセット 雑炊用ごはん付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2380,
+     "origin": "国産地鶏使用"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚鶏白湯 水炊きセット 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_mizutaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_chanko_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "ちゃんこ鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "豚肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ちゃんこ鍋",
+    "うどんのシメ",
+    "鍋パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "鶏団子と豚バラ、油揚げ、白菜、ごぼう、えのきなど具だくさんのちゃんこ鍋セット。鶏がらと醤油のあっさりスープで、たくさんの具材の旨みが重なります。食べ応えがあり、大人数の鍋パーティーにもおすすめです。",
+   "image_brief": "A wide tray filled with chicken meatballs, pork belly slices, fried tofu pouches, napa cabbage, burdock shavings and enoki mushrooms with a soup pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 鶏団子のちゃんこ鍋セット しょうゆ味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 鶏団子のちゃんこ鍋セット しょうゆ味 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2280,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] ちゃんこ鍋セット 塩味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] ちゃんこ鍋セット みそ味 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 特製ちゃんこ鍋セット うどん付 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_chanko_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_tonyu_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "豆乳鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "豚肉",
+    "小麦",
+    "ごま",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "リゾット",
+    "ラーメンのシメ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚ロースしゃぶ用と白菜、水菜、しめじ、絹ごし豆腐にまろやかな豆乳スープを合わせた豆乳鍋セット。クリーミーでやさしい味わいは女性やお子さまにも人気。シメはごはんとチーズでリゾット風がおすすめです。",
+   "image_brief": "A tray of thin pork loin slices, napa cabbage, mizuna greens, shimeji mushrooms and a tofu block beside a creamy white soup pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 国産豚の豆乳鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[鍋セット] 国産豚の豆乳鍋セット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2180,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[鍋セット] 鶏団子の豆乳ごま鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 豆乳担々鍋セット ピリ辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機豆乳スープの豆乳鍋セット 2人前",
+     "brand": "Cymbal オーガニック",
+     "size": "2人前",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_tonyu_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_kamo_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "鴨鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "そば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鴨鍋",
+    "鴨南蛮そばのシメ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "鴨ロースのスライスとつくね、たっぷりの長ねぎ、せり、ごぼうに鰹と昆布のだしを効かせた鴨鍋セット。脂の甘みがだしに溶けて上品な味わいに。シメには付属のそばで鴨南蛮風に仕上げる、冬ならではのごちそう鍋です。",
+   "image_brief": "A dark tray with rosy duck breast slices, duck meatballs, long green onion pieces, seri greens and a bundle of buckwheat noodles with a soup pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 合鴨の鴨鍋セット そば付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "タイ産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 合鴨の鴨鍋セット そば付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3480,
+     "origin": "タイ産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 国産合鴨の鴨鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2780,
+     "origin": "国産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 鴨つくね鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 京風白だし 鴨ねぎ鍋セット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_kamo_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_tomato_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "トマト鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "鶏肉",
+    "乳",
+    "大豆",
+    "えび",
+    "いか"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "トマト鍋",
+    "チーズリゾット",
+    "パスタのシメ"
+   ],
+   "tax_rate": 8,
+   "description": "ウインナー、鶏もも肉、キャベツ、ブロッコリー、じゃがいもを完熟トマトのスープで煮込むトマト鍋セット。付属の粉チーズを振ればコクがアップ。シメはごはんとチーズでリゾットに、パスタを入れても楽しめる洋風鍋です。",
+   "image_brief": "A tray of sausages, chicken pieces, cabbage wedges, broccoli, potato chunks and a red tomato soup pouch with a small cheese packet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] ウインナーと若鶏のトマト鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] ウインナーと若鶏のトマト鍋セット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 魚介のトマト鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] チーズトマト鍋セット モッツァレラ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トマト鍋スープと野菜セット 3〜4人前",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_tomato_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_ishikari_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "石狩鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ",
+    "大豆",
+    "乳",
+    "小麦",
+    "いくら"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "石狩鍋",
+    "鮭雑炊",
+    "北海道フェア"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産秋鮭の切身とアラ、じゃがいも、キャベツ、玉ねぎ、豆腐に味噌仕立てのスープを合わせた石狩鍋セット。仕上げのバターでコクが増し、鮭の旨みたっぷりの郷土鍋が気軽に楽しめます。体の芯から温まる一品です。",
+   "image_brief": "A tray with orange salmon fillet chunks, salmon bone pieces, potato, cabbage, onion and tofu cubes, a miso soup pouch and a small butter portion, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 北海道産秋鮭の石狩鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[鍋セット] 北海道産秋鮭の石狩鍋セット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2480,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[鍋セット] 秋鮭といくらの石狩鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2280,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[鍋セット] 銀鮭の石狩鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "チリ産銀鮭使用"
+    },
+    {
+     "title": "Cymbal セレクト 時鮭使用 石狩鍋セット バター付 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 2680,
+     "origin": "北海道産鮭使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_ishikari_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_kaki_dote_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "かき鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かきの土手鍋",
+    "かき雑炊",
+    "鍋料理"
+   ],
+   "tax_rate": 8,
+   "description": "ぷっくりとした加熱用むき牡蠣と焼き豆腐、白菜、春菊、長ねぎに、鍋の縁に塗る白味噌ベースの土手味噌をセットにしました。味噌を溶かしながら食べる広島の郷土鍋で、牡蠣の濃厚な旨みと甘い味噌の香りが楽しめます。",
+   "image_brief": "A tray of plump shucked oysters in a clear cup, grilled tofu, napa cabbage, shungiku greens and leek, with a container of thick miso paste, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 広島県産かきの土手鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "[鍋セット] 広島県産かきの土手鍋セット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3280,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "[鍋セット] 宮城県産かきのかき鍋セット しょうゆ味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1880,
+     "origin": "宮城県産かき使用"
+    },
+    {
+     "title": "[鍋セット] かき鍋セット みそ味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "韓国産かき使用"
+    },
+    {
+     "title": "Cymbal セレクト 大粒かきの土手鍋セット 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 2780,
+     "origin": "広島県産かき使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_kaki_dote_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_hinabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "火鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "火鍋",
+    "しゃぶしゃぶ",
+    "鍋パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "麻辣の赤いスープとあっさり白湯スープの2種類で楽しむ火鍋セット。牛・豚の薄切り肉、春雨、チンゲン菜、きのこ、豆腐を付けました。花椒のしびれる辛さとクコの実の香りで、おうちで本格中華火鍋を味わえます。",
+   "image_brief": "A divided tray with beef and pork slices, glass noodles, bok choy, enoki and tofu, plus two soup pouches, one red and one milky white, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 牛豚の二色火鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 牛豚の二色火鍋セット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 麻辣火鍋セット 激辛 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 羊肉の火鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2280,
+     "origin": "ニュージーランド産羊肉使用"
+    },
+    {
+     "title": "紅龍飯店 薬膳火鍋スープと具材セット 2人前",
+     "brand": "紅龍飯店",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_hinabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_oden_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "おでんセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "卵",
+    "牛肉",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "晩ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "下茹で済みの大根、ゆで卵、こんにゃく、はんぺん、さつま揚げ、牛すじ串などを詰め合わせた具だくさんのおでんセット。かつおと昆布のつゆ付きで、温めるだけで味のしみた本格おでんに。寒い夜の食卓にどうぞ。",
+   "image_brief": "A deep tray packed with daikon rounds, boiled eggs, konjac triangles, fish cakes, beef tendon skewers and a broth pouch under clear film, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 具だくさんおでんセット つゆ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 具だくさんおでんセット つゆ付 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 牛すじ入り 関西風おでんセット 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 静岡風 黒はんぺん入り おでんセット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック おでん種 12品 つゆ付",
+     "brand": "Cymbal ベーシック",
+     "size": "",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厳選練り物 料亭風おでんセット 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_oden_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_tori_dango_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "鶏団子鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏団子鍋",
+    "雑炊",
+    "うどんのシメ"
+   ],
+   "tax_rate": 8,
+   "description": "しょうがを効かせたふんわり鶏団子と白菜、にんじん、長ねぎ、えのき、豆腐を詰め合わせた鶏団子鍋セット。あっさり塩スープで具材の旨みが引き立ちます。小さなお子さまのいるご家庭にも食べやすい、やさしい味わいです。",
+   "image_brief": "A tray of round chicken meatballs, napa cabbage, carrot flower slices, leek, enoki and tofu cubes with a clear soup pouch, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 国産鶏団子鍋セット 塩味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 国産鶏団子鍋セット 塩味 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 国産鶏団子鍋セット 白だし味 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鍋セット] 軟骨入り鶏つくね鍋セット 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏団子と鍋野菜セット 3〜4人前",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_tori_dango_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_roast_beef_platter",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "ローストビーフ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ローストビーフ",
+    "パーティー料理",
+    "ローストビーフ丼",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりやわらかく焼き上げた牛ももローストビーフを薄切りにし、グレイビーソースとわさびを添えました。きれいなロゼ色で食卓が一気に華やぎ、クリスマスや年末年始の集まりに最適。丼やサンドイッチにも使えます。",
+   "image_brief": "Thin rosy slices of roast beef fanned out on a black round party platter with clear dome lid, small sauce cups on the side, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ローストビーフ 牛もも ソース付 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[店内調理] ローストビーフ 牛もも ソース付 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1880,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛ローストビーフ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 2480,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 黒毛和牛ローストビーフ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 3480,
+     "origin": "国産黒毛和牛使用"
+    },
+    {
+     "title": "Cymbal セレクト ローストビーフ パーティープレート 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_roast_beef_platter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_fried_chicken_barrel",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "フライドチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆",
+    "乳",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "フライドチキン",
+    "クリスマスパーティー",
+    "誕生日会",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスを効かせた衣でカリッと揚げた骨付きフライドチキンのパーティーパック。ジューシーなもも・手羽元・ムネを詰め合わせ、みんなで取り分けやすいボリュームです。クリスマスや誕生日のテーブルの主役に。",
+   "image_brief": "A red-and-white striped paper party bucket overflowing with golden crispy bone-in fried chicken pieces, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 骨付きフライドチキン 5ピース",
+     "brand": "",
+     "size": "5ピース",
+     "price_tax_excluded": 980,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付きフライドチキン バーレル 10ピース",
+     "brand": "",
+     "size": "10ピース",
+     "price_tax_excluded": 1880,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付きフライドチキン パーティーバーレル 20ピース",
+     "brand": "",
+     "size": "20ピース",
+     "price_tax_excluded": 3580,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] スパイシーフライドチキン 6ピース",
+     "brand": "",
+     "size": "6ピース",
+     "price_tax_excluded": 1180,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 手羽元フライドチキン 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 780,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_fried_chicken_barrel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_teriyaki_chicken_leg",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "チキンレッグ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマスチキン",
+    "パーティー料理",
+    "おかず"
+   ],
+   "tax_rate": 8,
+   "description": "骨付きの鶏もも肉を甘辛い照り焼きだれや香草でじっくりと焼き上げたチキンレッグ。皮は香ばしく、身はふっくらジューシー。持ち手のアルミ付きで食べやすく、クリスマスの食卓にもぴったりです。人数に合わせて選べます。",
+   "image_brief": "Glossy caramel-brown bone-in chicken legs with foil-wrapped bone ends arranged in a clear-lidded black tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 骨付きチキンレッグ 照り焼き 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付きチキンレッグ 照り焼き 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 1080,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付きチキンレッグ ハーブ焼き 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付きチキンレッグ ハーブ焼き 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 1080,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鳥取県産若鶏 骨付きチキンレッグ 照り焼き 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 1280,
+     "origin": "鳥取県産鶏肉使用"
+    },
+    {
+     "title": "Cymbal セレクト スモーク骨付きチキンレッグ 2本入",
+     "brand": "Cymbal セレクト",
+     "size": "2本入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_teriyaki_chicken_leg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_bbq_spare_ribs",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "スペアリブ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "スペアリブ",
+    "パーティー料理",
+    "おつまみ",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "骨付き豚バラ肉を特製バーベキューソースに漬け込み、柔らかく焼き上げたスペアリブ。骨からほろりと外れる食感と甘辛い香ばしさが魅力です。温め直すだけでホームパーティーのメインディッシュになります。",
+   "image_brief": "Dark glazed barbecue pork spare ribs stacked on a black tray under a clear lid, sesame and parsley garnish, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] BBQスペアリブ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 980,
+     "origin": "アメリカ産豚肉使用"
+    },
+    {
+     "title": "[店内調理] BBQスペアリブ 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1880,
+     "origin": "アメリカ産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚スペアリブ はちみつマスタード 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1680,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] スペアリブ ガーリックしょうゆ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 980,
+     "origin": "アメリカ産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト スモークBBQスペアリブ 1ラック 約800g",
+     "brand": "Cymbal セレクト",
+     "size": "約800g",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_bbq_spare_ribs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_meatloaf",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ミートローフ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "牛肉",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ミートローフ",
+    "パーティー料理",
+    "サンドイッチ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "牛豚合挽肉にゆで卵とにんじん、いんげんを包んで焼き上げたミートローフ。切り口の彩りが美しく、デミグラスソースをかければ立派なメインディッシュに。冷めても美味しいので、パーティーやお弁当にも便利です。",
+   "image_brief": "A sliced meatloaf showing a boiled egg and colorful vegetable center, on a white tray with a dark demi-glace sauce cup, under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ゆで卵入りミートローフ ハーフ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 698,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "[店内調理] ゆで卵入りミートローフ 1本 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1280,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "[店内調理] チーズ入りミートローフ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 748,
+     "origin": "国産牛豚合挽使用"
+    },
+    {
+     "title": "Cymbal デミソース付き ミートローフ 4切入",
+     "brand": "Cymbal",
+     "size": "4切入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛100% ミートローフ 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 1680,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_meatloaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_pizza",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ピザ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "パーティー",
+    "ランチ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "店内で生地を伸ばし、トマトソースとたっぷりのチーズで焼き上げたピザ。トースターやオーブンで温め直せば、チーズがとろけて焼きたての美味しさがよみがえります。定番のマルゲリータから具だくさんまで選べます。",
+   "image_brief": "A round pizza with melted mozzarella, red tomato sauce and basil in a clear-lidded round plastic container, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] マルゲリータピザ 8インチ",
+     "brand": "",
+     "size": "8インチ",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ミックスピザ 8インチ",
+     "brand": "",
+     "size": "8インチ",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 照り焼きチキンピザ 8インチ",
+     "brand": "",
+     "size": "8インチ",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 4種チーズのクアトロフォルマッジ はちみつ付 8インチ",
+     "brand": "",
+     "size": "8インチ",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 具だくさんデラックスピザ 12インチ",
+     "brand": "",
+     "size": "12インチ",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Trattoria Lumo 石窯焼き マルゲリータ 10インチ",
+     "brand": "Trattoria Lumo",
+     "size": "10インチ",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_pizza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_gratin",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "グラタン・ドリア"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "えび",
+    "大豆",
+    "かに",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "グラタン",
+    "ドリア",
+    "洋食ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかなホワイトソースにマカロニとえび、玉ねぎを合わせ、チーズを乗せて焼き目をつけたグラタン。電子レンジやオーブンで温めるだけで熱々の一皿に。寒い日のランチや夕食の一品、パーティーのサイドメニューにも。",
+   "image_brief": "A golden-browned cheese-topped macaroni gratin in an oval aluminum baking dish with a clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] えびマカロニグラタン 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびマカロニグラタン 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 若鶏とほうれん草のグラタン 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 北海道産じゃがいものポテトグラタン 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] えびとほたてのシーフードドリア 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト かにクリームグラタン 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_gratin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_lasagna",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ラザニア"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ラザニア",
+    "パーティー料理",
+    "イタリアンディナー"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのパスタ生地とじっくり煮込んだミートソース、ベシャメルソースを何層にも重ね、チーズで焼き上げたラザニア。切り分けやすく、温めるだけでお店のような本格イタリアンが楽しめます。ワインのお供にも。",
+   "image_brief": "A rectangular aluminum tray of layered lasagna with bubbling browned cheese top and visible meat sauce layers, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ミートラザニア 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ミートラザニア 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ほうれん草とチーズのラザニア 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Trattoria Lumo ボロネーゼ ラザニア 4〜5人前",
+     "brand": "Trattoria Lumo",
+     "size": "4〜5人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛ミートソースのラザニア 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_lasagna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_paella",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "パエリア"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "鶏肉",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パエリア",
+    "パーティー料理",
+    "スペイン料理"
+   ],
+   "tax_rate": 8,
+   "description": "サフランで色づけた黄金色のごはんに、えび、あさり、いか、ムール貝、鶏肉、パプリカを彩りよくのせたパエリア。魚介の旨みがごはんに染み込み、食卓が一気に華やかに。パーティーや記念日のテーブルにどうぞ。",
+   "image_brief": "A round paella-pan-shaped black plastic tray of saffron-yellow rice topped with shrimp, mussels, clams, squid rings, red pepper strips and lemon wedges under a clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] シーフードパエリア 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] シーフードパエリア 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 有頭えびのパエリア 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] イカ墨のパエリア ネグラ 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 若鶏と野菜のパエリア バレンシア風 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_paella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_quiche",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "キッシュ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "豚肉",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "キッシュ",
+    "ブランチ",
+    "パーティー料理",
+    "ワインのお供"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのパイ生地に卵と生クリームのアパレイユを流し、ベーコンやほうれん草を加えて焼き上げたキッシュ。しっとり濃厚な味わいで、軽食やブランチ、パーティーの前菜にぴったり。切り分けやすいホールもご用意しました。",
+   "image_brief": "A golden quiche with spinach and bacon pieces visible on top, one wedge cut out, on a clear-lidded round tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ほうれん草とベーコンのキッシュ 1ピース",
+     "brand": "",
+     "size": "1ピース",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ほうれん草とベーコンのキッシュ ホール 15cm",
+     "brand": "",
+     "size": "15cm",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] きのこのキッシュ 1ピース",
+     "brand": "",
+     "size": "1ピース",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] サーモンとブロッコリーのキッシュ 1ピース",
+     "brand": "",
+     "size": "1ピース",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] キッシュ 3種アソート 6ピース",
+     "brand": "",
+     "size": "6ピース",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_quiche_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_antipasto_platter",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "オードブル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "豚肉",
+    "小麦",
+    "えび",
+    "大豆",
+    "いか",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "前菜",
+    "ワインパーティー",
+    "クリスマス",
+    "女子会"
+   ],
+   "tax_rate": 8,
+   "description": "生ハム、サラミ、チーズ、マリネしたえび、オリーブ、ピクルスなどを美しく盛り合わせたアンティパストプレート。ワインやスパークリングとの相性がよく、取り分けやすい一口サイズ。大人のホームパーティーにおすすめです。",
+   "image_brief": "A black square party platter arranged with folded prosciutto, salami rounds, cheese cubes, marinated shrimp, olives and cherry tomatoes under a clear dome, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] アンティパスト盛合せ 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] アンティパスト盛合せ 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 生ハムとチーズの盛合せ 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 魚介のマリネとカルパッチョ盛合せ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト シャルキュトリー プレート 4〜5人前",
+     "brand": "Cymbal セレクト",
+     "size": "4〜5人前",
+     "price_tax_excluded": 4280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_antipasto_platter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_chinese_hors_doeuvre",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "中華オードブル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "卵",
+    "豚肉",
+    "鶏肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "中華オードブル",
+    "年末年始",
+    "宴会",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "えびチリ、酢豚、焼売、春巻、油淋鶏、棒棒鶏などの人気中華を一皿に盛り込んだ中華オードブル。大皿のまま食卓に出せ、温め直すだけで本格中華の宴が楽しめます。年末年始の集まりや親戚の宴会にも便利です。",
+   "image_brief": "A large round black party platter divided into sections holding shrimp in chili sauce, sweet and sour pork, shumai, spring rolls and fried chicken under a clear dome, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 中華オードブル 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 中華オードブル 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 中華オードブル 6〜8人前",
+     "brand": "",
+     "size": "6〜8人前",
+     "price_tax_excluded": 5980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍飯店 点心と中華オードブル 3〜4人前",
+     "brand": "紅龍飯店",
+     "size": "3〜4人前",
+     "price_tax_excluded": 4480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍飯店 北京ダック入り 特選中華オードブル 4〜5人前",
+     "brand": "紅龍飯店",
+     "size": "4〜5人前",
+     "price_tax_excluded": 6980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_chinese_hors_doeuvre_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_caesar_salad_bowl",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "サラダボウル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "鶏肉",
+    "大豆",
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "ワンボウルごはん",
+    "パーティーのサイド"
+   ],
+   "tax_rate": 8,
+   "description": "ロメインレタスや葉物野菜にグリルチキン、ゆで卵、クルトン、パルメザンチーズをのせたボリューム満点のサラダボウル。濃厚なシーザードレッシング付きで、たんぱく質も野菜もこれ一つ。ランチや軽めの夕食に最適です。",
+   "image_brief": "A clear round plastic salad bowl with romaine lettuce, sliced grilled chicken, halved boiled egg, croutons and shaved parmesan, dressing cup on top, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] グリルチキンのシーザーサラダボウル 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] グリルチキンのシーザーサラダボウル パーティーサイズ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] コブサラダボウル 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] スモークサーモンと5種豆のサラダボウル 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 蒸し鶏とキヌアのパワーサラダボウル 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜のグリーンサラダボウル 1人前",
+     "brand": "Cymbal オーガニック",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_caesar_salad_bowl_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_kenchin_jiru",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "けんちん汁"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "けんちん汁",
+    "和定食",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "大根、にんじん、ごぼう、里芋、こんにゃく、豆腐をごま油で炒めてから、かつおと昆布のだしで煮込んだけんちん汁。根菜の甘みがしみ出したやさしい味わいで、温めるだけですぐに食卓へ。寒い季節の一杯にどうぞ。",
+   "image_brief": "A round clear deli soup container filled with brown broth and chunks of daikon, carrot, burdock, taro and tofu, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 根菜たっぷり けんちん汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "[店内調理] 根菜たっぷり けんちん汁 約800g（4人前）",
+     "brand": "",
+     "size": "約800g（4人前）",
+     "price_tax_excluded": 698,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal 具だくさん けんちん汁 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機根菜のけんちん汁 約350g",
+     "brand": "Cymbal オーガニック",
+     "size": "約350g",
+     "price_tax_excluded": 580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 精進だし けんちん汁 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_kenchin_jiru_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_minestrone",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "洋風スープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ミネストローネ",
+    "朝食",
+    "パンと一緒に",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトをベースに、キャベツ、にんじん、玉ねぎ、セロリ、じゃがいも、ベーコン、ショートパスタを煮込んだ具だくさんのミネストローネ。野菜の旨みがたっぷり溶け込み、パンを添えれば朝食や軽めのランチになります。",
+   "image_brief": "A round clear deli soup cup with red tomato soup full of diced vegetables, beans and small pasta, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 野菜たっぷり ミネストローネ 約300g（1人前）",
+     "brand": "",
+     "size": "約300g（1人前）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 野菜たっぷり ミネストローネ 約600g（2〜3人前）",
+     "brand": "",
+     "size": "約600g（2〜3人前）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 11種の野菜 ミネストローネ 180g×3袋",
+     "brand": "Cymbal",
+     "size": "180g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機トマトのミネストローネ 300g",
+     "brand": "Cymbal オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Trattoria Lumo 白いんげん豆のミネストローネ 300g",
+     "brand": "Trattoria Lumo",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_minestrone_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_clam_chowder",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "洋風スープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "クラムチャウダー",
+    "パンと一緒に",
+    "ブランチ",
+    "グラタン風アレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "あさりの旨みと北海道産の牛乳を合わせ、じゃがいも、玉ねぎ、にんじん、ベーコンを煮込んだクリーミーなクラムチャウダー。とろりとしたまろやかな口当たりで、寒い朝にもぴったり。パンを浸しても美味しくいただけます。",
+   "image_brief": "A round clear deli soup cup of creamy white clam chowder with clams, diced potato and carrot, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] あさりのクラムチャウダー 約300g（1人前）",
+     "brand": "",
+     "size": "約300g（1人前）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] あさりのクラムチャウダー 約600g（2〜3人前）",
+     "brand": "",
+     "size": "約600g（2〜3人前）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道産牛乳使用 クラムチャウダー 180g×3袋",
+     "brand": "Cymbal",
+     "size": "180g×3袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ほたて入り 濃厚クラムチャウダー 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] マンハッタン風 トマトクラムチャウダー 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_clam_chowder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_kasujiru",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "粕汁"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "粕汁",
+    "和定食",
+    "晩酌のお供"
+   ],
+   "tax_rate": 8,
+   "description": "酒粕と白味噌を合わせたまろやかな汁に、塩鮭、大根、にんじん、こんにゃく、油揚げを加えた粕汁。酒粕の豊かな香りとコクで体が温まります。冬の新酒の季節ならではの味わいを、温めるだけで手軽にお楽しみください。",
+   "image_brief": "A round clear deli soup container with milky beige sake-lees soup containing salmon pieces, daikon, carrot and fried tofu, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 鮭の粕汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 鮭の粕汁 約800g（4人前）",
+     "brand": "",
+     "size": "約800g（4人前）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 豚肉の粕汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 吟醸酒粕仕立て 粕汁 約350g",
+     "brand": "Cymbal セレクト",
+     "size": "約350g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_kasujiru_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_samgyetang",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "韓国スープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "参鶏湯",
+    "雑炊",
+    "韓国料理"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉の中にもち米、なつめ、にんにく、松の実を詰め、じっくり煮込んだ参鶏湯。白濁したスープは鶏の旨みが濃厚で、ほろほろの肉と一緒に味わえます。塩やこしょうでお好みに調整しながら、寒い季節の温活ごはんに。",
+   "image_brief": "A round deli container of milky chicken broth with a whole small chicken, sticky rice, jujubes and green onion, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 骨付き鶏の参鶏湯 1人前 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 骨付き鶏の参鶏湯 2〜3人前 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1480,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "ソウルキッチン 丸鶏一羽 参鶏湯 約1kg",
+     "brand": "ソウルキッチン",
+     "size": "約1kg",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソウルキッチン 手羽元の参鶏湯風スープ 450g",
+     "brand": "ソウルキッチン",
+     "size": "450g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 参鶏湯風 鶏雑炊スープ 250g×2袋",
+     "brand": "Cymbal",
+     "size": "250g×2袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_samgyetang_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_borscht",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "洋風スープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ボルシチ",
+    "パンと一緒に",
+    "ディナースープ"
+   ],
+   "tax_rate": 8,
+   "description": "ビーツの深紅色が美しいロシア風のボルシチ。牛肉、キャベツ、じゃがいも、にんじんをじっくり煮込み、ほどよい酸味とやさしい甘みに仕上げました。付属のサワークリームを添えれば、まろやかなコクが加わります。",
+   "image_brief": "A round clear deli soup cup of deep crimson beet soup with beef chunks, cabbage and potato, a small sour cream cup on top, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 牛肉のボルシチ 約300g（1人前）",
+     "brand": "",
+     "size": "約300g（1人前）",
+     "price_tax_excluded": 448,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 牛肉のボルシチ 約600g（2〜3人前）",
+     "brand": "",
+     "size": "約600g（2〜3人前）",
+     "price_tax_excluded": 848,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛のボルシチ サワークリーム付 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal ビーツたっぷり ボルシチ 180g×2袋",
+     "brand": "Cymbal",
+     "size": "180g×2袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_borscht_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_corn_potage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "洋風スープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "コーンポタージュ",
+    "朝食",
+    "パンと一緒に"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産スイートコーンを裏ごしし、牛乳と生クリームでなめらかに仕上げたコーンポタージュ。とうもろこし本来の甘みが広がる優しい味わいで、お子さまにも人気。朝食のパンやランチのお供に、温めるだけですぐ楽しめます。",
+   "image_brief": "A round clear deli soup cup of smooth pale yellow corn potage with a few corn kernels on top, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産コーンのポタージュ 約300g（1人前）",
+     "brand": "",
+     "size": "約300g（1人前）",
+     "price_tax_excluded": 298,
+     "origin": "北海道産とうもろこし使用"
+    },
+    {
+     "title": "[店内調理] 北海道産コーンのポタージュ 約600g（2〜3人前）",
+     "brand": "",
+     "size": "約600g（2〜3人前）",
+     "price_tax_excluded": 548,
+     "origin": "北海道産とうもろこし使用"
+    },
+    {
+     "title": "Cymbal 粒入り コーンポタージュ 160g×3袋",
+     "brand": "Cymbal",
+     "size": "160g×3袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機とうもろこしのポタージュ 160g",
+     "brand": "Cymbal オーガニック",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高糖度とうもろこし使用 濃厚ポタージュ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産とうもろこし使用"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_corn_potage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_mealkit_party_shijimi_jiru",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "みそ汁"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しじみ汁",
+    "朝ごはん",
+    "和定食",
+    "お酒のあとの一杯"
+   ],
+   "tax_rate": 8,
+   "description": "殻付きのしじみをたっぷり使い、合わせ味噌で仕立てたしじみ汁。貝のだしが濃く出た滋味深い味わいで、朝食や晩酌のあとにほっとする一杯です。温めるだけで本格的な味が楽しめ、少人数のご家庭にも使いやすい容量です。",
+   "image_brief": "A round deli soup container showing miso soup with many small dark clams in their shells and chopped green onion, blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 宍道湖産 しじみ汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 498,
+     "origin": "島根県産しじみ使用"
+    },
+    {
+     "title": "[店内調理] 青森県産 しじみ汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 448,
+     "origin": "青森県産しじみ使用"
+    },
+    {
+     "title": "Cymbal しじみのみそ汁 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] あさりのみそ汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国産あさり使用"
+    },
+    {
+     "title": "Cymbal セレクト 大粒しじみの赤だし 約350g",
+     "brand": "Cymbal セレクト",
+     "size": "約350g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_mealkit_party_shijimi_jiru_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

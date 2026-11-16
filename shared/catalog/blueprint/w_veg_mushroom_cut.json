@@ -1,0 +1,3623 @@
+{
+ "category_key": "w_veg_mushroom_cut",
+ "items": [
+  {
+   "base_id": "w_veg_mushroom_cut_jumbo_eringi",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "エリンギ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "エリンギステーキ",
+    "バター醤油焼き",
+    "ホイル焼き",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "軸が太く大ぶりに育てたジャンボサイズのエリンギです。輪切りにしてステーキにすると、まるで貝柱のようなコリッとした歯ごたえ。焼くほどに香ばしさが増し、バター醤油との相性は抜群です。",
+   "image_brief": "Two very large thick-stemmed king oyster mushrooms laid in a white foam tray wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 ジャンボエリンギ 1本（約150g）",
+     "brand": "",
+     "size": "1本（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 ジャンボエリンギ 2本入（約300g）",
+     "brand": "",
+     "size": "2本入（約300g）",
+     "price_tax_excluded": 358,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "広島県産 極太エリンギ ステーキ用 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 298,
+     "origin": "広島県産"
+    },
+    {
+     "title": "Cymbal セレクト 特大エリンギ 化粧箱 3本（約450g）",
+     "brand": "Cymbal セレクト",
+     "size": "3本（約450g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ジャンボエリンギ 徳用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_jumbo_eringi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_eringi_slice",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "エリンギ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "きのこソテー",
+    "パスタ",
+    "炒め物",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "縦にスライスしてある、すぐ使えるカットエリンギ。包丁いらずでフライパンへそのまま入れられるので、忙しい日のパスタやソテー、スープの具材に重宝します。使い切りやすい少量パックです。",
+   "image_brief": "Neatly arranged lengthwise slices of king oyster mushroom in a clear plastic clamshell pack with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 スライスエリンギ 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "新潟県産 スライスエリンギ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal カットエリンギ 炒め用 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック スライスエリンギ 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 218,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_eringi_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_brown_enoki",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "えのき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "鍋物",
+    "炒め物",
+    "和え物",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "野生種に近い茶色のえのき茸。一般的な白いえのきよりも軸がしっかりしていて、シャキシャキ感と濃いうま味が楽しめます。鍋や炒め物に入れると見た目にも秋らしい彩りが加わります。",
+   "image_brief": "A bundle of brown-capped enoki mushrooms in a clear plastic bag with a plain blank band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 ブラウンえのき 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 148,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 ブラウンえのき 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 248,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "国産 茶えのき 野生種 1パック（約120g）",
+     "brand": "",
+     "size": "1パック（約120g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ブラウンえのき 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 238,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 ブラウンえのき 2袋パック 100g×2",
+     "brand": "",
+     "size": "100g×2",
+     "price_tax_excluded": 268,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_brown_enoki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_enoki_cut",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "えのき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "鍋物",
+    "えのきバター",
+    "なめたけ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "根元の石づきをあらかじめ切り落とした、袋から出してすぐ使えるカットえのき。ゴミが出ず、ほぐしやすいのが魅力です。鍋やスープ、手作りなめたけなど、たっぷり使いたいときにも便利です。",
+   "image_brief": "Root-trimmed white enoki mushrooms loosely packed in a resealable clear bag with a blank label strip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 石づきカット えのき茸 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 128,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal ほぐしえのき 石づきなし 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック カットえのき 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    },
+    {
+     "title": "新潟県産 ばらえのき 鍋用 1袋（約250g）",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 198,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "長野県産 カットえのき 小分け 80g×3袋",
+     "brand": "",
+     "size": "80g×3袋",
+     "price_tax_excluded": 248,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_enoki_cut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_nameko_daikabu",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "なめこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "なめこ汁",
+    "おろし和え",
+    "天ぷら",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "株のまま収穫した大粒のなめこ。傘がしっかり大きく、独特のぬめりと弾力ある食感が存分に味わえます。根元を落として軽く洗えば下ごしらえ完了。なめこ汁や大根おろし和えで秋の味覚をどうぞ。",
+   "image_brief": "A clump of large glossy orange-brown nameko mushrooms on a short stem base in a clear plastic tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山形県産 株採り 大粒なめこ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "山形県産"
+    },
+    {
+     "title": "新潟県産 株採り なめこ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 258,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "福島県産 原木栽培 大粒なめこ 1パック（約120g）",
+     "brand": "",
+     "size": "1パック（約120g）",
+     "price_tax_excluded": 348,
+     "origin": "福島県産"
+    },
+    {
+     "title": "Cymbal セレクト 特大株なめこ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "山形県産"
+    },
+    {
+     "title": "国産 株採りなめこ 徳用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_nameko_daikabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_portobello",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "マッシュルーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "グリル",
+    "マッシュルームバーガー",
+    "ファルシ",
+    "ステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "傘が手のひらほどに大きく開いたジャンボマッシュルーム。肉厚でジューシー、香りも濃厚です。傘ごとオリーブオイルで焼いたり、チーズを詰めて焼いたりと、メインになる存在感ある食材です。",
+   "image_brief": "Two large open-capped brown portobello mushrooms gill-side up in a black plastic tray wrapped with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "千葉県産 ジャンボマッシュルーム ブラウン 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "岡山県産 ジャンボマッシュルーム ホワイト 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "国産 ポータベロ 1個（約100g）",
+     "brand": "",
+     "size": "1個（約100g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 特大マッシュルーム 4個入 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 780,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "山形県産 ジャンボマッシュルーム 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 498,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_portobello_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_mushroom_slice",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "マッシュルーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "グラタン",
+    "パスタ",
+    "オムレツ"
+   ],
+   "tax_rate": 8,
+   "description": "白とブラウンのマッシュルームを生のままスライスしたカット品。洗わずに使えて、サラダにのせれば生食ならではの香りとシャキッとした歯ざわりが楽しめます。グラタンやパスタの具材にも便利です。",
+   "image_brief": "Thin slices of white and brown button mushrooms fanned out in a clear plastic clamshell container with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 スライスマッシュルーム ホワイト 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 スライスマッシュルーム ブラウン 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal スライスマッシュルーム 2色 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック カットマッシュルーム 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト サラダ用 生マッシュルーム スライス 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 228,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_mushroom_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shimofuri_hiratake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "ひらたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "バター炒め",
+    "天ぷら",
+    "鍋物",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "傘に霜が降りたような模様が特徴のひらたけ。肉厚でしっかりした歯ごたえがあり、加熱しても縮みにくいのが魅力です。くせのない味わいなので、炒め物、鍋、炊き込みご飯まで幅広く使えます。",
+   "image_brief": "A cluster of grey frosted-pattern oyster mushrooms with thick caps in a white tray covered in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 霜降りひらたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 霜降りひらたけ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 358,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "国産 霜降りひらたけ 株 1株（約250g）",
+     "brand": "",
+     "size": "1株（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 霜降りひらたけ 大株 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 680,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shimofuri_hiratake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_nama_kikurage",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "きくらげ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "中華炒め",
+    "酢の物",
+    "スープ",
+    "ラーメンの具"
+   ],
+   "tax_rate": 8,
+   "description": "乾燥品とは違う、ぷるんとした弾力が魅力の生きくらげ。戻す手間がなく、さっと湯通しするだけで使えます。肉厚でコリコリとした食感は、炒め物や酢の物、中華スープの具にぴったりです。",
+   "image_brief": "Glossy dark brown fresh wood ear mushrooms piled in a clear plastic tray sealed with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 生きくらげ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "熊本県産 生きくらげ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 348,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "鳥取県産 肉厚 生きくらげ 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 238,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "宮崎県産 あらげきくらげ 生 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 268,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 生きくらげ 大判 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_nama_kikurage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shiro_kikurage",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "きくらげ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "中華スープ",
+    "デザートシロップ煮",
+    "和え物",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "透き通るような乳白色の生白きくらげ。ぷるぷるとした独特の食感で、中華スープや和え物はもちろん、シロップで煮ればデザートにも。料理の彩りを上品に引き立てる、少し珍しいきのこです。",
+   "image_brief": "Translucent ruffled white wood ear mushrooms in a clear plastic clamshell pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 生白きくらげ 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "鳥取県産 生白きくらげ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 498,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "国産 白きくらげ 生 カット 1パック（約60g）",
+     "brand": "",
+     "size": "1パック（約60g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 生白きくらげ 贈答用 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 780,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shiro_kikurage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_matsutake_bara_import",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "松茸"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "まつたけ"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "松茸ご飯",
+    "土瓶蒸し",
+    "お吸い物",
+    "焼き松茸"
+   ],
+   "tax_rate": 8,
+   "description": "大きさや形がふぞろいなものを集めた、輸入松茸のバラ詰め。香りはそのままに手頃な価格で、松茸ご飯や土瓶蒸しなど刻んで使う料理にぴったりです。秋の食卓をちょっと贅沢に彩ります。",
+   "image_brief": "Several irregular small matsutake mushrooms loosely arranged on green leaf garnish in a shallow tray covered with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "中国産 松茸 ご飯用 バラ詰め 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 980,
+     "origin": "中国産"
+    },
+    {
+     "title": "トルコ産 松茸 ふぞろい 割れ品 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 1280,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "カナダ産 松茸 ご飯用 小ぶり 1パック（約120g）",
+     "brand": "",
+     "size": "1パック（約120g）",
+     "price_tax_excluded": 1480,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "ブータン産 松茸 バラ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 1980,
+     "origin": "ブータン産"
+    },
+    {
+     "title": "中国産 松茸 徳用バラ 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 2980,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_matsutake_bara_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_donko_shiitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "焼きしいたけ",
+    "煮しめ",
+    "天ぷら",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "傘が開ききる前に収穫した、丸く肉厚な原木栽培のどんこ生しいたけ。噛むほどにじゅわっと広がるうま味と豊かな香りが自慢です。網焼きにして醤油をひとたらし、シンプルに味わうのがおすすめです。",
+   "image_brief": "Plump round dark brown shiitake mushrooms with thick curled caps arranged in a wooden-look tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "大分県産 原木どんこ 生しいたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "大分県産"
+    },
+    {
+     "title": "宮崎県産 原木どんこ 生しいたけ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "群馬県産 原木しいたけ 冬菇 小粒 1パック（約120g）",
+     "brand": "",
+     "size": "1パック（約120g）",
+     "price_tax_excluded": 448,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "Cymbal セレクト 原木どんこ 生しいたけ 化粧箱 約300g",
+     "brand": "Cymbal セレクト",
+     "size": "約300g",
+     "price_tax_excluded": 1480,
+     "origin": "大分県産"
+    },
+    {
+     "title": "静岡県産 原木生しいたけ 中粒 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_donko_shiitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shiitake_slice",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "炒め物",
+    "茶碗蒸し",
+    "炊き込みご飯",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "軸を取ってスライスした菌床しいたけ。石づき取りの手間がなく、そのまま味噌汁や炒め物に使えます。炊き込みご飯や茶碗蒸しに少しだけ使いたいときにも便利な、使い切りサイズです。",
+   "image_brief": "Even slices of fresh shiitake mushroom caps in a clear plastic tray with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 スライスしいたけ 1パック（約70g）",
+     "brand": "",
+     "size": "1パック（約70g）",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal カットしいたけ 軸なし 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック スライスしいたけ 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    },
+    {
+     "title": "徳島県産 しいたけ 四つ割り 煮物用 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "徳島県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shiitake_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_jumbo_shiitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "しいたけステーキ",
+    "肉詰め",
+    "BBQ",
+    "フライ"
+   ],
+   "tax_rate": 8,
+   "description": "傘の直径が10cm近くにもなる特大の生しいたけ。分厚い傘はステーキのような食べごたえで、ひき肉を詰めて焼いたり、バーベキューで丸ごと焼いたりと、主役級の一品になります。",
+   "image_brief": "Three oversized thick shiitake mushroom caps, each palm-sized, in a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岩手県産 ジャンボ生しいたけ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "徳島県産 ジャンボ生しいたけ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 548,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "秋田県産 特大 肉厚しいたけ ステーキ用 1枚（約80g）",
+     "brand": "",
+     "size": "1枚（約80g）",
+     "price_tax_excluded": 248,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "Cymbal セレクト ジャンボ生しいたけ 化粧箱 6枚入",
+     "brand": "Cymbal セレクト",
+     "size": "6枚入",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "鳥取県産 ジャンボしいたけ 肉詰め用 4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 598,
+     "origin": "鳥取県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_jumbo_shiitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_yamabushitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "バターソテー",
+    "スープ",
+    "天ぷら",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "白いふさふさの見た目が特徴の山伏茸。ふわっとした柔らかな食感で、カニやホタテを思わせる繊細なうま味があります。バターソテーやスープ、鍋物など、だしを吸わせる料理に向いています。",
+   "image_brief": "A round fluffy white lion's mane mushroom with shaggy spines sitting in a clear plastic cup pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 やまぶしたけ 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "鳥取県産 やまぶしたけ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 698,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "国産 やまぶしたけ ミニ 1個（約50g）",
+     "brand": "",
+     "size": "1個（約50g）",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト やまぶしたけ 大玉 約200g",
+     "brand": "Cymbal セレクト",
+     "size": "約200g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_yamabushitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kuritake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "きのこ汁",
+    "炊き込みご飯",
+    "佃煮",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "栗色の傘が愛らしい、秋ならではの栗茸。ほろ苦さとしっかりしたうま味、シャキッとした歯ごたえが楽しめます。味噌仕立てのきのこ汁や炊き込みご飯に入れると、香り豊かな秋の一品になります。",
+   "image_brief": "A cluster of chestnut-brown capped kuritake mushrooms in a white foam tray wrapped with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "新潟県産 くりたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 298,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "長野県産 くりたけ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 548,
+     "origin": "長野県産"
+    },
+    {
+     "title": "群馬県産 原木栽培 くりたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "福島県産 くりたけ 株採り 1株（約250g）",
+     "brand": "",
+     "size": "1株（約250g）",
+     "price_tax_excluded": 648,
+     "origin": "福島県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kuritake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_hatakeshimeji",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "土瓶蒸し",
+    "すき焼き",
+    "炊き込みご飯",
+    "お吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "しめじの仲間の中でも上品な香りと濃いうま味を持つはたけしめじ。シャキッとした食感で煮崩れしにくく、すき焼きやお吸い物、炊き込みご飯など和の料理を格上げしてくれます。",
+   "image_brief": "A dense clump of greyish-brown hatakeshimeji mushrooms with white stems in a clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京都府産 はたけしめじ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 298,
+     "origin": "京都府産"
+    },
+    {
+     "title": "長野県産 はたけしめじ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 はたけしめじ 大株 1株（約300g）",
+     "brand": "",
+     "size": "1株（約300g）",
+     "price_tax_excluded": 780,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト はたけしめじ 贈答箱 約500g",
+     "brand": "Cymbal セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1480,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_hatakeshimeji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_white_maitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "まいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "天ぷら",
+    "茶碗蒸し",
+    "クリーム煮",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "加熱しても料理が黒くなりにくい白いまいたけ。まいたけらしい香りと歯ごたえはそのままに、茶碗蒸しやクリーム煮、白だしの鍋など、見た目をきれいに仕上げたい料理に重宝します。",
+   "image_brief": "A creamy white frilly maitake mushroom cluster in a clear plastic tray sealed with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "新潟県産 白まいたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "静岡県産 白まいたけ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 358,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "国産 白まいたけ 大株 1株（約400g）",
+     "brand": "",
+     "size": "1株（約400g）",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機白まいたけ 90g",
+     "brand": "Cymbal オーガニック",
+     "size": "90g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_white_maitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_tokiiro_hiratake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "サラダ",
+    "炒め物",
+    "パスタ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかなピンク色が目を引くトキイロヒラタケ。加熱すると色は淡くなりますが、ふんわり柔らかな食感とやさしい香りが楽しめます。おもてなしの一皿や彩りを添えたいパスタにおすすめです。",
+   "image_brief": "Delicate pink oyster mushrooms with frilly caps arranged in a clear plastic clamshell with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 トキイロヒラタケ 1パック（約70g）",
+     "brand": "",
+     "size": "1パック（約70g）",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "長野県産 トキイロヒラタケ 1パック（約120g）",
+     "brand": "",
+     "size": "1パック（約120g）",
+     "price_tax_excluded": 548,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 ピンクひらたけ 小株 1パック（約50g）",
+     "brand": "",
+     "size": "1パック（約50g）",
+     "price_tax_excluded": 278,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "Cymbal セレクト 彩りひらたけ ピンク＆イエロー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_tokiiro_hiratake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_white_bunashimeji",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しめじ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "マリネ",
+    "クリーム煮",
+    "鍋物",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "真っ白な見た目が上品なホワイトぶなしめじ。苦みが少なくほんのり甘みがあり、プリッとした食感が特徴です。クリーム煮やマリネなど、白い色を生かした料理に使うと食卓が華やぎます。",
+   "image_brief": "A clump of pure white beech mushrooms with small round caps in a clear plastic tray wrapped in film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 ホワイトぶなしめじ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 168,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 ホワイトぶなしめじ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 298,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "長野県産 白・茶 ぶなしめじ 2色パック 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal カット ホワイトぶなしめじ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_white_bunashimeji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_mukitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "きのこ汁",
+    "鍋物",
+    "煮物",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "皮がつるりとむけることから名付けられたむきたけ。ぷりっとした弾力となめらかな舌ざわりが特徴で、汁物に入れるとだしをたっぷり吸ってうま味が広がります。晩秋の限られた時期の味覚です。",
+   "image_brief": "Fan-shaped pale yellowish-brown mukitake mushrooms overlapping in a white tray covered with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山形県産 むきたけ 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "山形県産"
+    },
+    {
+     "title": "秋田県産 むきたけ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "岩手県産 天然 むきたけ 1パック（約150g）",
+     "brand": "",
+     "size": "1パック（約150g）",
+     "price_tax_excluded": 880,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "新潟県産 むきたけ 小分け 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 328,
+     "origin": "新潟県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_mukitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kinoko_nabe_moriawase",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "きのこミックス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "すき焼き",
+    "水炊き",
+    "きのこ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "しいたけ、えのき、ぶなしめじ、まいたけ、エリンギなど、鍋に合うきのこを一つのトレーに盛り合わせました。飾り切りのしいたけ入りで、ふたを開けた瞬間に華やか。いろいろなきのこを少しずつ楽しめます。",
+   "image_brief": "An assorted platter of shiitake with star-cut caps, enoki, beech, maitake and king oyster mushrooms in a large black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 鍋用きのこ盛り合わせ 5種 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鍋用きのこ盛り合わせ 3種 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 飾り切りしいたけ入り 鍋用きのこ盛り合わせ 6種 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 780,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 鍋用きのこセット 徳用 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "長野県産 すき焼き用 きのこ盛り合わせ 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kinoko_nabe_moriawase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kinoko_hoiru_moriawase",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "きのこミックス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ホイル焼き",
+    "バター焼き",
+    "BBQ",
+    "アヒージョ"
+   ],
+   "tax_rate": 8,
+   "description": "ホイル焼きやバター焼き向けに、食べやすい大きさにほぐしたきのこを盛り合わせました。ブラウンマッシュルームやひらたけも入り、香りと食感の違いが楽しい組み合わせ。鮭と一緒に包んで焼くだけで一品完成です。",
+   "image_brief": "A mix of torn oyster, beech, brown button and king oyster mushrooms in a clear rectangular tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ホイル焼き用 きのこ盛り合わせ 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal バター焼き用 きのこミックス 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト アヒージョ用 きのこミックス 5種 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "国産 BBQ用 きのこ盛り合わせ 1パック（約400g）",
+     "brand": "",
+     "size": "1パック（約400g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kinoko_hoiru_moriawase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_coleslaw_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "サラダ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コールスロー",
+    "サンドイッチ",
+    "付け合わせ",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "細切りキャベツ、にんじん、コーンを合わせたコールスロー用カット野菜。洗わずにそのまま使え、ドレッシングやマヨネーズで和えるだけで本格的なコールスローが作れます。お弁当や付け合わせにも便利です。",
+   "image_brief": "Finely shredded green cabbage with orange carrot strips and yellow corn kernels in a clear pillow bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 コールスロー用 カット野菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal コールスローミックス コーン入り 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック コールスロー用 カット野菜 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 紫キャベツ入り コールスローミックス 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal コールスローミックス 2袋パック 120g×2",
+     "brand": "Cymbal",
+     "size": "120g×2",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_coleslaw_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_caesar_romaine_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "サラダ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "シーザーサラダ",
+    "サンドイッチ",
+    "タコス",
+    "サラダボウル"
+   ],
+   "tax_rate": 8,
+   "description": "シャキシャキのロメインレタスにケールやレッドリーフを加えたシーザーサラダ用ミックス。厚みのある葉が濃厚なドレッシングにもよく絡みます。クルトンとチーズを添えるだけで、お店のようなサラダに。",
+   "image_brief": "Torn romaine lettuce leaves with dark green kale and red leaf pieces in a clear stand-up bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 シーザーサラダ用 ロメインミックス 1袋（約120g）",
+     "brand": "",
+     "size": "1袋（約120g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ロメイン＆ケール サラダミックス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト シーザーサラダ用 ロメインレタス ハーフカット 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ロメインミックス 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 268,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal シーザーサラダミックス 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_caesar_romaine_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_daikon_salad_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "サラダ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "大根サラダ",
+    "和風サラダ",
+    "冷しゃぶサラダ",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "細切り大根に水菜とにんじんを合わせた和風サラダ用ミックス。みずみずしくシャキッとした歯ざわりで、和風ドレッシングやごまだれがよく合います。冷しゃぶにたっぷり添えるのもおすすめです。",
+   "image_brief": "Thin white daikon radish matchsticks mixed with green mizuna and orange carrot shreds in a clear pillow bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 大根サラダ用ミックス 水菜入り 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 千切り大根サラダミックス 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 138,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 大根サラダミックス 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト かいわれ入り 和風大根サラダ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_daikon_salad_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shredded_carrot",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "千切り野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "キャロットラペ",
+    "きんぴら",
+    "サラダ",
+    "ナムル"
+   ],
+   "tax_rate": 8,
+   "description": "にんじんを細く均一に千切りにしたカット野菜。手間のかかる千切りが不要で、キャロットラペやきんぴら、ナムルがすぐに作れます。サラダの彩りやお弁当のおかずに少しずつ使えて便利です。",
+   "image_brief": "Fine bright orange carrot julienne strips in a clear resealable bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 千切りにんじん 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 千切りにんじん 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 千切りにんじん 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト キャロットラペ用 細切りにんじん 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機にんじん 千切り 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shredded_carrot_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_sliced_onion",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オニオンスライス",
+    "生姜焼き",
+    "牛丼",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "皮むきと薄切りまで済ませたスライス玉ねぎ。涙が出る下ごしらえから解放され、生姜焼きや牛丼、カレーにすぐ使えます。辛みを抑えたサラダ用もご用意し、オニオンスライスとしても楽しめます。",
+   "image_brief": "Thin crescent slices of white onion in a clear sealed bag with a blank label strip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 スライス玉ねぎ 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal スライス玉ねぎ 炒め用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック スライス玉ねぎ 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 218,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト サラダ用 オニオンスライス 辛み抜き 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 スライス紫玉ねぎ 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_sliced_onion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_minced_onion",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "餃子",
+    "ミートソース",
+    "ドレッシング"
+   ],
+   "tax_rate": 8,
+   "description": "細かくみじん切りにした玉ねぎ。ハンバーグや餃子、ミートソースなど、みじん切りが必要な料理の時短に最適です。少量パックはドレッシングやタルタルソース作りにもちょうど良い量です。",
+   "image_brief": "Finely minced white onion in a small clear plastic tub with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal みじん切り玉ねぎ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 118,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal みじん切り玉ねぎ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック みじん切り玉ねぎ 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 258,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 みじん切り玉ねぎ 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal みじん切り玉ねぎ・にんじんミックス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_minced_onion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_cut_broccoli",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "温野菜サラダ",
+    "お弁当",
+    "シチュー",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "食べやすい小房に切り分けた生のカットブロッコリー。茎も無駄なく使えるよう同梱した品もあります。電子レンジで加熱するだけで温野菜になり、お弁当のすき間埋めやシチューの彩りにも重宝します。",
+   "image_brief": "Bright green broccoli florets in a clear microwave-safe bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 カットブロッコリー 小房 1袋（約120g）",
+     "brand": "",
+     "size": "1袋（約120g）",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal レンジ用 カットブロッコリー 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック カットブロッコリー 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "愛知県産 カットブロッコリー 茎入り 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 228,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal セレクト ブロッコリー＆カリフラワー 小房ミックス 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_cut_broccoli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_cut_kabocha_cube",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "かぼちゃの煮物",
+    "ポタージュ",
+    "天ぷら",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "固くて切りにくいかぼちゃを、種とわたを取って角切りにしました。煮物にちょうどいい大きさで、皮付きのまま煮崩れしにくいのが特長。ポタージュやかぼちゃサラダにもすぐ使えます。",
+   "image_brief": "Chunky cubes of orange kabocha squash with dark green skin in a clear plastic tray sealed with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 カットかぼちゃ 角切り 煮物用 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 角切りかぼちゃ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック カットかぼちゃ 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "国産 皮むき かぼちゃ ポタージュ用 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_cut_kabocha_cube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shredded_lettuce",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "サラダ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "タコライス",
+    "サンドイッチ",
+    "付け合わせ",
+    "手巻き"
+   ],
+   "tax_rate": 8,
+   "description": "レタスを細く刻んだ千切りレタス。ふんわり軽い食感で、タコライスやサンドイッチ、揚げ物の付け合わせにそのまま使えます。洗浄済みなので袋から出してすぐ盛りつけられます。",
+   "image_brief": "Fluffy finely shredded pale green iceberg lettuce in a clear pillow bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 千切りレタス 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 千切りレタス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 千切りレタス 大袋 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 218,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 千切りレタス 紫キャベツ入り 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shredded_lettuce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_yakisoba_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "炒め用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼きそば",
+    "焼きうどん",
+    "お好み焼き",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツ、にんじん、玉ねぎ、ピーマンを焼きそば向けの太さにカットしたミックス。麺と一緒にフライパンで炒めるだけで、野菜たっぷりの焼きそばが手早く完成します。焼きうどんにもどうぞ。",
+   "image_brief": "Rough-cut cabbage, carrot sticks, onion slices and green pepper strips in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 焼きそば用 カット野菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 焼きそば用 野菜ミックス 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 168,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 焼きそば・焼きうどん用 カット野菜 350g",
+     "brand": "Cymbal ベーシック",
+     "size": "350g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きそば用 カット野菜 もやし入り 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_yakisoba_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_champon_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "炒め用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ちゃんぽん",
+    "皿うどん",
+    "タンメン",
+    "野菜あんかけ"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツ、もやし、にんじん、きくらげ、玉ねぎを合わせたちゃんぽん・皿うどん用のカット野菜。具だくさんの麺料理が手軽に作れ、タンメンや野菜あんかけにも使える便利なミックスです。",
+   "image_brief": "Cabbage, bean sprouts, carrot slices, onion and dark wood ear mushroom strips in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ちゃんぽん用 カット野菜 1袋（約250g）",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 皿うどん・ちゃんぽん用 野菜ミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal タンメン用 カット野菜 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜の ちゃんぽん用ミックス きくらげ入り 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_champon_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_japchae_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "炒め用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チャプチェ",
+    "ナムル",
+    "ビビンバ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "ほうれん草、にんじん、玉ねぎ、パプリカ、しいたけを細切りにしたチャプチェ用カット野菜。春雨とお肉を加えて炒めれば彩り豊かな韓国風おかずに。ビビンバの具にも使えます。",
+   "image_brief": "Colorful julienne of spinach, carrot, onion, red and yellow bell pepper and shiitake in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 チャプチェ用 カット野菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal チャプチェ用 野菜ミックス 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ビビンバ用 カット野菜 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 彩りパプリカ入り チャプチェ用ミックス 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_japchae_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_ramen_topping_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "炒め用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ラーメン",
+    "野菜炒め",
+    "鍋の締め",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "もやし、キャベツ、にんじん、ニラを合わせたラーメンのトッピング用野菜ミックス。さっと炒めてのせれば、袋麺も野菜たっぷりの一杯に。少量パックなので一人分のラーメンにちょうど良い量です。",
+   "image_brief": "Bean sprouts, chopped cabbage, carrot strips and green garlic chives in a small clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ラーメン用 トッピング野菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ラーメン用 野菜ミックス ニラ入り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 118,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック ラーメン用 野菜ミックス 2袋 120g×2",
+     "brand": "Cymbal ベーシック",
+     "size": "120g×2",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 味噌ラーメン用 野菜ミックス コーン入り 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_ramen_topping_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kimchi_nabe_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "鍋用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "キムチ鍋",
+    "チゲ",
+    "豚キムチ",
+    "スンドゥブ"
+   ],
+   "tax_rate": 8,
+   "description": "白菜、ニラ、長ねぎ、もやし、えのきを食べやすくカットしたキムチ鍋用セット。キムチ鍋の素とお肉を用意すれば、すぐに体が温まるピリ辛鍋が完成。チゲやスンドゥブにも合う組み合わせです。",
+   "image_brief": "Chopped napa cabbage, garlic chives, leek, bean sprouts and enoki arranged in a large clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 キムチ鍋用 カット野菜 1パック（約400g）",
+     "brand": "",
+     "size": "1パック（約400g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal キムチ鍋用 野菜セット 2〜3人前 約350g",
+     "brand": "Cymbal",
+     "size": "約350g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal キムチ鍋用 野菜セット 4人前 約600g",
+     "brand": "Cymbal",
+     "size": "約600g",
+     "price_tax_excluded": 548,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック キムチ鍋用 カット野菜 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    },
+    {
+     "title": "国産 スンドゥブ用 カット野菜 1人前 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kimchi_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_motsu_nabe_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "鍋用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "ちゃんぽん麺",
+    "雑炊",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "ざく切りキャベツとニラ、ささがきごぼうを合わせたもつ鍋用カット野菜。もつ鍋に欠かせない野菜がひとまとめになっていて、締めのちゃんぽん麺までたっぷり楽しめます。にんにくスライス入りもご用意しました。",
+   "image_brief": "Rough-cut green cabbage, bundled garlic chives and burdock shavings in a large clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 もつ鍋用 カット野菜 1パック（約400g）",
+     "brand": "",
+     "size": "1パック（約400g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal もつ鍋用 野菜セット 2〜3人前 約350g",
+     "brand": "Cymbal",
+     "size": "約350g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal もつ鍋用 野菜セット 4人前 約600g",
+     "brand": "Cymbal",
+     "size": "約600g",
+     "price_tax_excluded": 548,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト にんにくスライス入り もつ鍋用野菜 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 448,
+     "origin": "国内加工"
+    },
+    {
+     "title": "福岡県産 もつ鍋用 キャベツ・ニラセット 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 298,
+     "origin": "福岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_motsu_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_mizutaki_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "鍋用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "鶏鍋",
+    "ポン酢鍋",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "白菜、長ねぎ、春菊、にんじん、しいたけを水炊き向けにカット。素材のうま味を味わうシンプルな鶏の水炊きに合う、やさしい味わいの野菜を揃えました。ポン酢でさっぱりとどうぞ。",
+   "image_brief": "Chopped napa cabbage, leek, shungiku greens, carrot rounds and star-cut shiitake in a clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 水炊き用 カット野菜 1パック（約400g）",
+     "brand": "",
+     "size": "1パック（約400g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 水炊き用 野菜セット 2〜3人前 約350g",
+     "brand": "Cymbal",
+     "size": "約350g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 博多風 水炊き用 野菜セット 約450g",
+     "brand": "Cymbal セレクト",
+     "size": "約450g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 水炊き用 野菜セット 4人前 約600g",
+     "brand": "Cymbal",
+     "size": "約600g",
+     "price_tax_excluded": 548,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_mizutaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_sukiyaki_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "鍋用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "牛鍋",
+    "肉豆腐",
+    "年末年始"
+   ],
+   "tax_rate": 8,
+   "description": "長ねぎ、春菊、白菜、しいたけ、えのきをすき焼き用にカットしたセット。斜め切りのねぎや飾り切りのしいたけで見栄えも良く、お肉と焼き豆腐を加えるだけで団らんのすき焼きが整います。",
+   "image_brief": "Diagonally cut leeks, shungiku, napa cabbage, star-cut shiitake and enoki arranged in a black tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 すき焼き用 カット野菜 1パック（約350g）",
+     "brand": "",
+     "size": "1パック（約350g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal すき焼き用 野菜セット 2〜3人前 約300g",
+     "brand": "Cymbal",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal すき焼き用 野菜セット 4人前 約550g",
+     "brand": "Cymbal",
+     "size": "約550g",
+     "price_tax_excluded": 548,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 飾り切りしいたけ入り すき焼き用野菜 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック すき焼き用 カット野菜 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 278,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_sukiyaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_shabushabu_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "鍋用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "豚しゃぶ",
+    "常夜鍋",
+    "サラダしゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "水菜、白菜、にんじんのリボン切り、えのき、長ねぎを合わせたしゃぶしゃぶ用カット野菜。さっとくぐらせて食べやすいよう薄めにカットしています。豚しゃぶや牛しゃぶに、たっぷりの野菜を添えて。",
+   "image_brief": "Mizuna greens, sliced napa cabbage, ribbon-cut carrot, enoki and leek in a clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 しゃぶしゃぶ用 カット野菜 1パック（約350g）",
+     "brand": "",
+     "size": "1パック（約350g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal しゃぶしゃぶ用 野菜セット 2〜3人前 約300g",
+     "brand": "Cymbal",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal しゃぶしゃぶ用 野菜セット 4人前 約550g",
+     "brand": "Cymbal",
+     "size": "約550g",
+     "price_tax_excluded": 548,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 豚しゃぶ用 水菜・レタスミックス 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_shabushabu_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_minestrone_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "スープ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ミネストローネ",
+    "野菜スープ",
+    "トマト煮込み",
+    "リゾット"
+   ],
+   "tax_rate": 8,
+   "description": "玉ねぎ、にんじん、セロリ、キャベツ、じゃがいもを小さな角切りにしたミネストローネ用ミックス。トマト缶とコンソメで煮込むだけで、野菜のうま味が溶け出した具だくさんスープになります。",
+   "image_brief": "Small diced onion, carrot, celery, cabbage and potato cubes in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ミネストローネ用 カット野菜 1袋（約250g）",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ミネストローネ用 角切り野菜 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック スープ用 角切り野菜ミックス 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜の ミネストローネ用ミックス 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_minestrone_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_pot_au_feu_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "スープ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ポトフ",
+    "コンソメスープ",
+    "シチュー",
+    "洋風煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "大きめにカットしたキャベツ、にんじん、玉ねぎ、じゃがいも、かぶを合わせたポトフ用セット。ソーセージやベーコンと一緒にコトコト煮込めば、野菜の甘みたっぷりの温かいポトフが楽しめます。",
+   "image_brief": "Large wedge-cut cabbage, carrot chunks, halved onion, potato and turnip pieces in a clear tray with film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ポトフ用 カット野菜 1パック（約400g）",
+     "brand": "",
+     "size": "1パック（約400g）",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ポトフ用 野菜セット 2〜3人前 約350g",
+     "brand": "Cymbal",
+     "size": "約350g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ポトフ用 野菜セット 4人前 約600g",
+     "brand": "Cymbal",
+     "size": "約600g",
+     "price_tax_excluded": 448,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト かぶ入り ポトフ用 大切り野菜 約450g",
+     "brand": "Cymbal セレクト",
+     "size": "約450g",
+     "price_tax_excluded": 448,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_pot_au_feu_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kenchin_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "スープ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "けんちん汁",
+    "のっぺい汁",
+    "煮物",
+    "雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "大根、にんじん、ごぼう、里芋、長ねぎをそろえたけんちん汁用カット野菜。根菜のうま味がしみ出たやさしい味わいの汁物が、下ごしらえなしで作れます。とろみをつけてのっぺい汁にもどうぞ。",
+   "image_brief": "Quarter-moon slices of daikon and carrot, burdock pieces and peeled taro in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 けんちん汁用 カット野菜 1袋（約300g）",
+     "brand": "",
+     "size": "1袋（約300g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal けんちん汁用 根菜ミックス 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 汁物用 根菜ミックス 徳用 450g",
+     "brand": "Cymbal ベーシック",
+     "size": "450g",
+     "price_tax_excluded": 328,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal のっぺい汁用 カット野菜 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kenchin_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_chinese_soup_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜",
+    "スープ用カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "中華スープ",
+    "酸辣湯",
+    "ワンタンスープ",
+    "春雨スープ"
+   ],
+   "tax_rate": 8,
+   "description": "白菜、にんじん、長ねぎ、きくらげ、たけのこを細切りにした中華スープ用カット野菜。鶏がらスープで煮て溶き卵を流せば、本格的な味わいの中華スープに。酸辣湯や春雨スープの具にも使えます。",
+   "image_brief": "Thin strips of napa cabbage, carrot, leek, wood ear mushroom and bamboo shoot in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 中華スープ用 カット野菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 中華スープ用 細切り野菜 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 酸辣湯用 カット野菜 きくらげ入り 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック スープ用 細切り野菜 徳用 350g",
+     "brand": "Cymbal ベーシック",
+     "size": "350g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_chinese_soup_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_gokubuto_moyashi",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "もやし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ナムル",
+    "ラーメン",
+    "炒め物",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "じっくり育てた極太の緑豆もやし。一本一本が太く、加熱しても水っぽくなりにくいのが特長です。シャキシャキとした食べごたえがあり、ラーメンのトッピングや炒め物、ナムルにおすすめです。",
+   "image_brief": "Thick plump white mung bean sprouts in a clear plastic bag with a plain blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 極太もやし（緑豆） 1袋（250g）",
+     "brand": "",
+     "size": "1袋（250g）",
+     "price_tax_excluded": 48,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 極太もやし 1袋（400g）",
+     "brand": "",
+     "size": "1袋（400g）",
+     "price_tax_excluded": 68,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 極太緑豆もやし 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 58,
+     "origin": "国内製造"
+    },
+    {
+     "title": "国産 極太もやし 根切り 1袋（200g）",
+     "brand": "",
+     "size": "1袋（200g）",
+     "price_tax_excluded": 78,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 極太もやし 3袋パック 250g×3",
+     "brand": "Cymbal",
+     "size": "250g×3",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_gokubuto_moyashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_moyashi_mix_namul",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "もやし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ナムル",
+    "ビビンバ",
+    "和え物",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "緑豆もやし、大豆もやし、豆苗を合わせたミックスもやし。食感と風味の異なる3種類で、さっとゆでて和えるだけで味わい深いナムルになります。ビビンバやスープの具にも手軽に使えます。",
+   "image_brief": "A mix of white mung bean sprouts, yellow-headed soybean sprouts and green pea shoots in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ナムル用 ミックスもやし 1袋（200g）",
+     "brand": "",
+     "size": "1袋（200g）",
+     "price_tax_excluded": 78,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 3種のミックスもやし 豆苗入り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミックスもやし 大袋 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ナムル用 もやし＆にんじんミックス 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_moyashi_mix_namul_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_alfalfa",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "手巻き寿司",
+    "生春巻き"
+   ],
+   "tax_rate": 8,
+   "description": "細く繊細なアルファルファのスプラウト。くせがなく、ふんわりとした食感でサラダやサンドイッチに軽やかなボリュームを加えます。生春巻きや手巻き寿司の具材にもおすすめです。",
+   "image_brief": "A fluffy tangle of fine alfalfa sprouts with tiny green leaves in a small clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 アルファルファ 1パック（約40g）",
+     "brand": "",
+     "size": "1パック（約40g）",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "静岡県産 アルファルファ 2パック（約40g×2）",
+     "brand": "",
+     "size": "2パック（約40g×2）",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機アルファルファ 35g",
+     "brand": "Cymbal オーガニック",
+     "size": "35g",
+     "price_tax_excluded": 138,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 アルファルファ＆ラディッシュ ミックス 1パック（約40g）",
+     "brand": "",
+     "size": "1パック（約40g）",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_alfalfa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_soba_sprout",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "そば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おひたし",
+    "サラダ",
+    "そばのトッピング",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "そばの実から育てた、茎が赤みを帯びたそばスプラウト（そばの芽）。シャキッとした食感とほのかな甘みがあり、サラダやおひたし、おそばのトッピングに。そばアレルギーの方はご注意ください。",
+   "image_brief": "Delicate buckwheat sprouts with reddish stems and small green leaves standing in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 そばスプラウト 1パック（約50g）",
+     "brand": "",
+     "size": "1パック（約50g）",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "長野県産 そばの芽 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 148,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機そばスプラウト 50g",
+     "brand": "Cymbal オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 138,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 そばスプラウト 2パック 約50g×2",
+     "brand": "",
+     "size": "約50g×2",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_soba_sprout_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_mustard_sprout",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "ローストビーフ添え",
+    "サンドイッチ",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッとした辛みが特徴のマスタードスプラウト。お肉料理の付け合わせに添えれば、口の中をさっぱりさせてくれます。サラダやサンドイッチのアクセントにも、少量で存在感を発揮します。",
+   "image_brief": "Dense bright green mustard sprouts with small round leaves growing in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 マスタードスプラウト 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "静岡県産 マスタードスプラウト 2パック",
+     "brand": "",
+     "size": "2パック",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "国産 クレス（ガーデンクレス）スプラウト 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 辛みスプラウト 3種アソート 3パック",
+     "brand": "Cymbal セレクト",
+     "size": "3パック",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_mustard_sprout_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_purple_radish_sprout",
+   "category_path": [
+    "野菜・果物",
+    "もやし・スプラウト",
+    "スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "カルパッチョ",
+    "冷奴",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "紫色の茎と緑の葉のコントラストが美しい紫かいわれ（ラディッシュスプラウト）。ほどよい辛みでサラダやカルパッチョに彩りを添えます。ちらし寿司や冷奴の飾りにすると食卓がぐっと華やかに。",
+   "image_brief": "Purple-stemmed radish sprouts with green leaves standing upright in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 紫かいわれ（ラディッシュスプラウト） 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "静岡県産 紫かいわれ 2パック",
+     "brand": "",
+     "size": "2パック",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "国産 紅芯ラディッシュスプラウト 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 彩りスプラウト 紫・緑アソート 2パック",
+     "brand": "Cymbal セレクト",
+     "size": "2パック",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_purple_radish_sprout_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_nemagaridake_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    5,
+    6
+   ],
+   "dishes": [
+    "煮物",
+    "炊き込みご飯",
+    "味噌汁",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "細くやわらかな根曲がり竹（姫竹）の水煮。皮むきやアク抜きの手間がなく、袋から出して軽く洗えばすぐに使えます。独特の甘みとシャキシャキ感は、煮物や炊き込みご飯、味噌汁にぴったりです。",
+   "image_brief": "Slender pale yellow-green bamboo shoots packed in water inside a clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 根曲がり竹 水煮 1袋（120g）",
+     "brand": "",
+     "size": "1袋（120g）",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 根曲がり竹 水煮 1袋（200g）",
+     "brand": "",
+     "size": "1袋（200g）",
+     "price_tax_excluded": 448,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal 姫竹 水煮 カット 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 月山筍 水煮 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "山形県産"
+    },
+    {
+     "title": "長野県産 根曲がり竹 水煮 瓶詰 1瓶（180g）",
+     "brand": "",
+     "size": "1瓶（180g）",
+     "price_tax_excluded": 598,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_nemagaridake_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_hosotake_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "土佐煮",
+    "炒め物",
+    "中華丼",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "穂先まで柔らかい細竹（ほそたけ）の水煮。丸ごと使える細さで、土佐煮や中華炒め、炊き込みご飯に重宝します。アク抜き済みなので、手軽に春の香りを楽しめる常備しやすい一品です。",
+   "image_brief": "Thin whole pale bamboo shoots lined up in water inside a clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 細竹 水煮 1袋（100g）",
+     "brand": "",
+     "size": "1袋（100g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 細竹 水煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 細竹 水煮 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 穂先細竹 水煮 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "九州産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_hosotake_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_ginnan_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "茶碗蒸し",
+    "おでん",
+    "炊き込みご飯",
+    "串焼き"
+   ],
+   "tax_rate": 8,
+   "description": "殻と薄皮をむいてゆであげたぎんなんの水煮。もちっとした食感とほのかな苦みが秋らしい味わいです。茶碗蒸しや炊き込みご飯、おでんの具に、殻割りの手間なく手軽に加えられます。",
+   "image_brief": "Glossy yellow-green peeled ginkgo nuts in a small clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ぎんなん 水煮 1袋（50g）",
+     "brand": "",
+     "size": "1袋（50g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ぎんなん 水煮 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ぎんなん 水煮 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 大粒ぎんなん 水煮 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal ぎんなん 水煮 小分け 30g×3袋",
+     "brand": "Cymbal",
+     "size": "30g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_ginnan_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_steamed_corn_pack",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "蒸し野菜・真空パック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "そのまま",
+    "コーンサラダ",
+    "コーンご飯",
+    "バター醤油焼き"
+   ],
+   "tax_rate": 8,
+   "description": "皮をむいて蒸しあげたとうもろこしを真空パックにしました。常温で保存でき、袋から出してそのまま食べられる甘さが魅力。軽く温めてバター醤油で焼いたり、実をほぐしてコーンご飯にしても美味しいです。",
+   "image_brief": "Two peeled golden steamed corn cobs sealed in a clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 蒸しとうもろこし 真空パック 1本入",
+     "brand": "",
+     "size": "1本入",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 蒸しとうもろこし 真空パック 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 蒸しとうもろこし ハーフカット 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白いとうもろこし 蒸し 真空パック 1本入",
+     "brand": "Cymbal セレクト",
+     "size": "1本入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 蒸しとうもろこし 粒 真空パック 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_steamed_corn_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_steamed_beet",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "蒸し野菜・真空パック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ボルシチ",
+    "サラダ",
+    "ポタージュ",
+    "マリネ"
+   ],
+   "tax_rate": 8,
+   "description": "皮をむいて蒸しあげたビーツの真空パック。下ゆでに時間がかかるビーツをすぐに使えるので、ボルシチやサラダ、ポタージュが手軽に作れます。鮮やかな赤紫色が料理を華やかに彩ります。",
+   "image_brief": "Whole peeled deep magenta steamed beetroots sealed in a clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 蒸しビーツ 真空パック 1袋（約250g）",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 蒸しビーツ ホール 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 蒸しビーツ スライス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 蒸しビーツ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機蒸しビーツ 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_steamed_beet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_osechi_nishime_kazarigiri",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "煮しめ",
+    "おせち",
+    "筑前煮",
+    "お雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "花形のにんじん、六方むきの里芋、花れんこんなど、手間のかかる飾り切りを済ませた煮しめ用の水煮野菜。だしで煮含めるだけで、お正月らしい華やかな煮しめが完成し、年末の台所仕事がぐっと楽になります。",
+   "image_brief": "Decoratively cut flower-shaped carrot slices, hexagonal peeled taro, flower-cut lotus root and bamboo shoot in water inside a clear pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 おせち用 飾り切り煮しめ野菜 水煮 1袋（300g）",
+     "brand": "",
+     "size": "1袋（300g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 花形にんじん入り 煮しめ用水煮 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 六方里芋 水煮 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 花れんこん 水煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 飾り切り煮しめ野菜 水煮 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_osechi_nishime_kazarigiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_nameko_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮きのこ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "なめこ汁",
+    "おろし和え",
+    "うどん",
+    "そばのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "ぬめりたっぷりのなめこを水煮にした袋入り。常温でストックでき、使いたいときに袋を開けて軽く洗うだけ。なめこ汁や大根おろし和え、温かいおそばやうどんのトッピングに手軽に使えます。",
+   "image_brief": "Small glossy brown nameko mushrooms in liquid inside a clear stand-up pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal なめこ 水煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal なめこ 水煮 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック なめこ 水煮 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 178,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 大粒なめこ 水煮 瓶詰 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_nameko_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_mushroom_cut_kinoko_mizuni_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮きのこ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "きのこご飯",
+    "炊き込みご飯",
+    "きのこそば",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "なめこ、ひらたけ、しめじ、えのきなど数種類のきのこを合わせた水煮ミックス。常温保存できるので、きのこご飯や炊き込みご飯を思い立ったときにすぐ作れます。そばやうどんの具にも便利です。",
+   "image_brief": "Assorted small mushrooms including nameko, oyster and enoki in liquid inside a clear pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きのこミックス 水煮 4種 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 炊き込みご飯用 きのこ水煮 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック きのこミックス 水煮 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 山のきのこ 水煮 5種 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_mushroom_cut_kinoko_mizuni_mix_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

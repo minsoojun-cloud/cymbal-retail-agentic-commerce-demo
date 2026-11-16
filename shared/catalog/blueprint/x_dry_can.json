@@ -1,0 +1,2721 @@
+{
+ "category_key": "x_dry_can",
+ "items": [
+  {
+   "base_id": "x_dry_can_dashi_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "鍋",
+    "湯豆腐",
+    "おでん",
+    "筑前煮",
+    "茶碗蒸し"
+   ],
+   "description": "北海道産の昆布をだし用に仕上げました。水に浸けておくだけで上品なうま味のだしがとれ、味噌汁や鍋、湯豆腐に重宝します。だしをとった後の昆布は佃煮や煮物にも使えます。",
+   "image_brief": "Clear resealable bag of flat dark-green dried kombu sheets with a white label reading 「日高昆布 だし用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産 日高昆布 だし用 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 日高昆布 だし用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 日高昆布 だし用カット 5cm角 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 358,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 北海道産 だし昆布 70g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道利尻産 利尻昆布 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "北海道利尻産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道函館産 真昆布 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 898,
+     "origin": "北海道函館産"
+    },
+    {
+     "title": "北海道羅臼産 羅臼昆布 40g",
+     "brand": "",
+     "size": "40g",
+     "price_tax_excluded": 980,
+     "origin": "北海道羅臼産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_dashi_kombu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_hayani_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おでん",
+    "筑前煮",
+    "昆布巻き",
+    "煮しめ",
+    "豚汁"
+   ],
+   "description": "やわらかく煮えやすい煮物用の昆布です。おでんの結び昆布や筑前煮、昆布巻きなど、具として食べる料理にぴったり。短時間で味がしみ込みます。",
+   "image_brief": "Clear bag of soft dark-green kombu strips tied into small knots with a label reading 「早煮昆布 煮物用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産 早煮昆布 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 早煮昆布 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 結び昆布 おでん用 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 刻み昆布 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 煮昆布 60g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "60g",
+     "price_tax_excluded": 258,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 棹前昆布 煮物用 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_hayani_kombu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_shio_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "塩昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "浅漬け",
+    "おにぎり",
+    "キャベツの塩昆布和え",
+    "チャーハン",
+    "和風パスタ",
+    "お茶漬け"
+   ],
+   "description": "北海道産昆布を醤油で炊き上げて乾燥させた塩昆布です。キャベツやきゅうりと和えるだけで浅漬け風の一品になり、おにぎりやチャーハンの味付けにも便利です。",
+   "image_brief": "Small stand-up pouch with a clear window showing thin shiny dark kombu strips dusted with salt, label 「塩昆布」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産昆布使用 塩昆布 28g",
+     "brand": "トップバリュ",
+     "size": "28g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ 北海道産昆布使用 塩昆布 徳用 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ 北海道産昆布使用 角切り塩昆布 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ 北海道産昆布使用 減塩 塩昆布 27g",
+     "brand": "トップバリュ",
+     "size": "27g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ 北海道産昆布使用 ごま塩昆布 28g",
+     "brand": "トップバリュ",
+     "size": "28g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 塩昆布 30g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "30g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道道南産 真昆布の塩昆布 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "北海道道南産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_shio_kombu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_dried_shiitake",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "干ししいたけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "ちらし寿司",
+    "茶碗蒸し",
+    "煮しめ",
+    "中華スープ",
+    "炊き込みご飯"
+   ],
+   "description": "うま味と香りが凝縮した干ししいたけです。水で戻して筑前煮やちらし寿司、茶碗蒸しに使えば、戻し汁もだしとして活用できます。",
+   "image_brief": "Clear zip bag of brown dried shiitake caps with cracked tops and a label reading 「干ししいたけ 香信」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 干ししいたけ 香信 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 干ししいたけ 香信 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 干ししいたけ スライス 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 干ししいたけ 小粒どんこ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 大分県産 どんこしいたけ 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 1180,
+     "origin": "大分県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 干ししいたけ スライス 50g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "宮崎県産 原木 干ししいたけ 香信 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 980,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_dried_shiitake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_kiriboshi_daikon",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "切り干し大根"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "切り干し大根の煮物",
+    "はりはり漬け",
+    "味噌汁",
+    "サラダ",
+    "お弁当のおかず"
+   ],
+   "description": "大根を細く切って天日で干した切り干し大根です。油揚げやにんじんと煮物にするのが定番で、さっと戻してサラダやはりはり漬けにもおすすめです。",
+   "image_brief": "Clear plastic bag filled with pale cream shredded dried daikon strips, label 「切り干し大根」.",
+   "variants": [
+    {
+     "title": "トップバリュ 宮崎県産 切り干し大根 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 宮崎県産 切り干し大根 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 宮崎県産 切り干し大根 細切り 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 238,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 切り干し大根 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 258,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 切り干し大根 35g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "35g",
+     "price_tax_excluded": 298,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "宮崎県産 割り干し大根 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_kiriboshi_daikon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_mehijiki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ひじき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひじき煮",
+    "白和え",
+    "炊き込みご飯",
+    "ひじき入りハンバーグ",
+    "サラダ"
+   ],
+   "description": "やわらかく戻りやすい芽ひじきです。にんじんや油揚げ、大豆と甘辛く煮るひじき煮の定番素材。炊き込みご飯やサラダ、ハンバーグに混ぜても使えます。",
+   "image_brief": "Small clear bag of tiny black dried hijiki buds with a green label reading 「芽ひじき」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 芽ひじき 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 芽ひじき 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 長ひじき 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 長崎県産 芽ひじき 20g",
+     "brand": "トップバリュ セレクト",
+     "size": "20g",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 芽ひじき 50g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "韓国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 芽ひじき 20g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "韓国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_mehijiki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_salted_wakame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "塩蔵わかめ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "酢の物",
+    "わかめスープ",
+    "サラダ",
+    "ラーメン"
+   ],
+   "description": "湯通しして塩蔵した、肉厚で歯ごたえのあるわかめです。塩を洗い流して水で戻せば、味噌汁や酢の物、わかめスープにたっぷり使えます。",
+   "image_brief": "Clear tray pack of glossy deep-green salted wakame fronds coated in coarse salt, label 「湯通し塩蔵わかめ」.",
+   "variants": [
+    {
+     "title": "三陸産 湯通し塩蔵わかめ 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "三陸産"
+    },
+    {
+     "title": "三陸産 湯通し塩蔵わかめ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "三陸産"
+    },
+    {
+     "title": "三陸産 塩蔵 茎わかめ 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "三陸産"
+    },
+    {
+     "title": "宮城県産 湯通し塩蔵わかめ 肉厚 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "鳴門産 湯通し塩蔵わかめ 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "トップバリュ 湯通し塩蔵わかめ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_salted_wakame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_kanten",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "寒天"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛乳寒天",
+    "水ようかん",
+    "みつ豆",
+    "寒天サラダ",
+    "杏仁豆腐"
+   ],
+   "description": "料理やおやつ作りに使える寒天です。粉寒天は煮溶かすだけで手軽に固まり、牛乳寒天や水ようかんに。糸寒天は戻して酢の物やサラダに使えます。",
+   "image_brief": "Pastel paper box of individual powdered agar sachets with one sachet shown in front, label 「粉寒天」.",
+   "variants": [
+    {
+     "title": "トップバリュ 粉寒天 4g×4袋",
+     "brand": "トップバリュ",
+     "size": "4g×4袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 粉寒天 4g×10袋",
+     "brand": "トップバリュ",
+     "size": "4g×10袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 粉寒天 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糸寒天 サラダ用 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "長野県産 角寒天 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "岐阜県産 細寒天 25g",
+     "brand": "",
+     "size": "25g",
+     "price_tax_excluded": 498,
+     "origin": "岐阜県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_kanten_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_kurumabu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "麩"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "車麩の煮物",
+    "すき焼き",
+    "車麩の卵とじ",
+    "車麩カツ",
+    "麩ちゃんぷるー"
+   ],
+   "description": "もちもちとした食感の大きな車麩です。煮物やすき焼きに入れると煮汁をたっぷり吸っておいしく、卵とじや車麩カツなどボリュームのあるおかずにもなります。",
+   "image_brief": "Clear bag with large ring-shaped golden-brown wheat gluten wheels stacked inside, label 「車麩」.",
+   "variants": [
+    {
+     "title": "トップバリュ 車麩 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 車麩 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 板麩 8枚入",
+     "brand": "トップバリュ",
+     "size": "8枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麩ちゃんぷるー用 棒麩 2本入",
+     "brand": "トップバリュ",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すき焼き麩 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "新潟県加工 車麩 6枚入",
+     "brand": "",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "新潟県加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_kurumabu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_komachi_fu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "麩"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "すまし汁",
+    "すき焼き",
+    "卵とじ",
+    "お吸い物"
+   ],
+   "description": "小さくて使いやすいお麩です。そのまま味噌汁やすまし汁に入れるだけでふんわりやわらかに。すき焼きや卵とじの具にも重宝します。",
+   "image_brief": "Clear bag of small round pale-yellow puffed wheat gluten pieces with a label reading 「小町麩」.",
+   "variants": [
+    {
+     "title": "トップバリュ 小町麩 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小町麩 徳用 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 花麩 彩り 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 手まり麩 18g",
+     "brand": "トップバリュ",
+     "size": "18g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白玉麩 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス お麩 小粒 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_komachi_fu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_iri_goma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ほうれん草のごま和え",
+    "きんぴら",
+    "おにぎり",
+    "炒め物",
+    "ふりかけ"
+   ],
+   "description": "香ばしく煎り上げたいりごまです。きんぴらや炒め物の仕上げにふったり、おにぎりやごま和えに使ったりと毎日の料理に活躍します。",
+   "image_brief": "Stand-up pouch with a clear window filled with toasted white sesame seeds and a label reading 「いりごま 白」.",
+   "variants": [
+    {
+     "title": "トップバリュ いりごま 白 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 178,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ いりごま 黒 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 178,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ いりごま 白 徳用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 368,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ いりごま 金 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 268,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス いりごま 白 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "ナイジェリア産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 いりごま 白 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機いりごま 白 60g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "パラグアイ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_iri_goma_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_suri_goma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ごま和え",
+    "冷しゃぶ",
+    "しゃぶしゃぶのたれ",
+    "担々鍋",
+    "ごま豆腐風サラダ"
+   ],
+   "description": "いりごまを香りよくすりつぶしたすりごまです。すり鉢いらずでごま和えがすぐ作れ、しゃぶしゃぶのたれや冷しゃぶ、担々鍋にも便利です。",
+   "image_brief": "Resealable stand-up pouch showing finely ground white sesame through a window, label 「すりごま 白」.",
+   "variants": [
+    {
+     "title": "トップバリュ すりごま 白 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 178,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ すりごま 黒 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 178,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ すりごま 白 チャック付 徳用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ 金すりごま 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 278,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス すりごま 白 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "ナイジェリア産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 すりごま 白 35g",
+     "brand": "トップバリュ セレクト",
+     "size": "35g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_suri_goma_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_neri_goma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "棒棒鶏",
+    "担々麺",
+    "ごま和え",
+    "しゃぶしゃぶのごまだれ",
+    "冷しゃぶ"
+   ],
+   "description": "ごまをなめらかなペースト状にした練りごまです。醤油や酢と合わせれば本格的なごまだれになり、棒棒鶏や担々麺、しゃぶしゃぶにぴったりです。",
+   "image_brief": "Glass jar with a gold lid containing smooth beige sesame paste, label 「練りごま 白」.",
+   "variants": [
+    {
+     "title": "トップバリュ 練りごま 白 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 練りごま 黒 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 練りごま 白 チューブ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 練りごま 白 徳用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 練りごま 白 70g",
+     "brand": "トップバリュ セレクト",
+     "size": "70g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 練りごま 白 100g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_neri_goma_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_kanpyo",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "かんぴょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "巻き寿司",
+    "ちらし寿司",
+    "いなり寿司",
+    "煮しめ",
+    "昆布巻き"
+   ],
+   "description": "夕顔の実を細長くむいて干したかんぴょうです。甘辛く煮て巻き寿司やちらし寿司の具に。昆布巻きを結ぶひもとしても使えます。",
+   "image_brief": "Clear bag of long pale-beige dried gourd ribbons coiled together, label 「かんぴょう」.",
+   "variants": [
+    {
+     "title": "トップバリュ かんぴょう 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 無漂白 かんぴょう 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 かんぴょう 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "栃木県産 かんぴょう 30g",
+     "brand": "",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "栃木県産 かんぴょう 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "栃木県産 かんぴょう 徳用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1480,
+     "origin": "栃木県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_kanpyo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_niboshi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "煮干し"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "うどんのつゆ",
+    "ラーメンスープ",
+    "田作り",
+    "煮物"
+   ],
+   "description": "片口いわしを煮て干した、だし用の煮干しです。水出しやひと煮立ちで、味噌汁やうどんのつゆにコクのあるだしがとれます。",
+   "image_brief": "Clear zip bag full of small silver dried sardines with a blue label reading 「煮干し だし用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 煮干し だし用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 煮干し だし用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 頭・はらわた取り 煮干し 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 瀬戸内産 小羽いりこ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "瀬戸内産"
+    },
+    {
+     "title": "トップバリュ 千葉県産 片口いわし 煮干し 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "トップバリュ 長崎県産 煮干し 大羽 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_niboshi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_sakura_ebi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "桜えび・干しえび"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "焼きそば",
+    "かき揚げ",
+    "チャーハン",
+    "炊き込みご飯"
+   ],
+   "description": "香ばしい風味と鮮やかな色の干しえびです。お好み焼きや焼きそばに加えれば香りがぐっと引き立ち、かき揚げやチャーハン、炊き込みご飯にもおすすめです。",
+   "image_brief": "Small clear bag of bright pink dried sakura shrimp with a label reading 「素干し桜えび」.",
+   "variants": [
+    {
+     "title": "静岡県産 素干し桜えび 10g",
+     "brand": "",
+     "size": "10g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 素干し桜えび 20g",
+     "brand": "",
+     "size": "20g",
+     "price_tax_excluded": 1080,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "トップバリュ 干し桜えび 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "台湾産"
+    },
+    {
+     "title": "トップバリュ 桜えび お好み焼き用 8g",
+     "brand": "トップバリュ",
+     "size": "8g",
+     "price_tax_excluded": 248,
+     "origin": "台湾産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 干しえび 小えび 30g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 殻付き干しえび 中華用 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_sakura_ebi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_tuna_oil",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ツナサラダ",
+    "ツナマヨおにぎり",
+    "パスタ",
+    "サンドイッチ",
+    "ポテトサラダ",
+    "炊き込みご飯"
+   ],
+   "description": "まぐろ・かつおを植物油に漬けたツナ缶です。マヨネーズと和えておにぎりやサンドイッチに、パスタやポテトサラダの具にと、ストックしておくと便利です。",
+   "image_brief": "Shrink-wrapped stack of three small round blue tuna cans with a fish illustration and label 「ライトツナ フレーク 油漬」.",
+   "variants": [
+    {
+     "title": "トップバリュ ライトツナ フレーク 油漬 70g×3缶",
+     "brand": "トップバリュ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 368,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ フレーク 油漬 70g×4缶",
+     "brand": "トップバリュ",
+     "size": "70g×4缶",
+     "price_tax_excluded": 478,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ フレーク 油漬 165g",
+     "brand": "トップバリュ",
+     "size": "165g",
+     "price_tax_excluded": 328,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ チャンク 油漬 70g×3缶",
+     "brand": "トップバリュ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ フレーク 油漬 70g×12缶",
+     "brand": "トップバリュ",
+     "size": "70g×12缶",
+     "price_tax_excluded": 1380,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ベストプライス ライトツナ フレーク 油漬 70g×3缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "70g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 ホワイトミート びんなが 油漬 70g×3缶",
+     "brand": "トップバリュ セレクト",
+     "size": "70g×3缶",
+     "price_tax_excluded": 698,
+     "origin": "静岡県加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_tuna_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_tuna_water",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ツナサラダ",
+    "和え物",
+    "ツナと大根の煮物",
+    "オムレツ",
+    "サンドイッチ"
+   ],
+   "description": "油を使わず水煮にした、さっぱり味のツナです。和え物やサラダ、大根との煮物など、和風のおかずにも合わせやすいのが魅力です。",
+   "image_brief": "Three small round white-and-green tuna cans banded together, label 「ライトツナ ノンオイル 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ ライトツナ 食塩無添加 水煮 70g×3缶",
+     "brand": "トップバリュ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 368,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ ノンオイル 70g×4缶",
+     "brand": "トップバリュ",
+     "size": "70g×4缶",
+     "price_tax_excluded": 488,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ ノンオイル チャンク 70g×3缶",
+     "brand": "トップバリュ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ライトツナ 水煮 パウチ 50g×4袋",
+     "brand": "トップバリュ",
+     "size": "50g×4袋",
+     "price_tax_excluded": 448,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ベストプライス ライトツナ 水煮 70g×3缶",
+     "brand": "トップバリュ ベストプライス",
+     "size": "70g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 かつお水煮 フレーク 70g×3缶",
+     "brand": "トップバリュ セレクト",
+     "size": "70g×3缶",
+     "price_tax_excluded": 548,
+     "origin": "静岡県加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_tuna_water_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_saba_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "さば缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "さば缶の味噌汁",
+    "さばカレー",
+    "さば缶そうめん",
+    "炊き込みご飯",
+    "冷や汁"
+   ],
+   "description": "国産さばを塩だけで味付けした水煮缶です。骨までやわらかく、味噌汁やカレー、炊き込みご飯にそのまま使えて手軽に魚料理が作れます。",
+   "image_brief": "Single round silver can with a blue-and-white label showing a mackerel, text 「国産 さば水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 さば水煮 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば水煮 190g×3缶",
+     "brand": "トップバリュ",
+     "size": "190g×3缶",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば水煮 食塩不使用 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば水煮 小缶 100g×3缶",
+     "brand": "トップバリュ",
+     "size": "100g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス さば水煮 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "トップバリュ セレクト 銚子港水揚げ さば水煮 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_saba_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_saba_miso",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "さば缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "さばの味噌煮",
+    "さば味噌煮丼",
+    "大根とさばの煮物",
+    "炊き込みご飯",
+    "お弁当のおかず"
+   ],
+   "description": "国産さばを甘めの味噌だれでじっくり煮込んだ缶詰です。温めるだけで一品になり、大根と一緒に煮たりご飯にのせて丼にしたりとアレンジも簡単です。",
+   "image_brief": "Round can with a warm brown label showing simmered mackerel in miso sauce, text 「国産 さば味噌煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 さば味噌煮 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば味噌煮 190g×3缶",
+     "brand": "トップバリュ",
+     "size": "190g×3缶",
+     "price_tax_excluded": 678,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば味噌煮 減塩 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば 生姜入り味噌煮 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さば味噌煮 パウチ 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス さば味噌煮 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 188,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "トップバリュ セレクト 銚子港水揚げ さば味噌煮 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_saba_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_iwashi_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "いわし缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "いわしの蒲焼丼",
+    "いわしのトマト煮",
+    "パスタ",
+    "炊き込みご飯",
+    "お弁当のおかず"
+   ],
+   "description": "国産いわしを水煮や味付、生姜煮などに仕上げた缶詰です。ご飯にのせて丼にしたり、トマトと煮込んだりパスタにしたりと、手軽に青魚を取り入れられます。",
+   "image_brief": "Rectangular easy-open can with a navy label illustrating sardines, text 「国産 いわし」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 いわし水煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 いわし味付 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 いわし生姜煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 いわし蒲焼 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 いわし梅煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ オイルサーディン 105g",
+     "brand": "トップバリュ",
+     "size": "105g",
+     "price_tax_excluded": 248,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス いわし油漬 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "モロッコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_iwashi_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_whole_tomato",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "トマト缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ミートソースパスタ",
+    "ロールキャベツ",
+    "チキンのトマト煮",
+    "ハヤシライス",
+    "ミネストローネ",
+    "トマト煮込みハンバーグ"
+   ],
+   "description": "完熟トマトを丸ごと詰めたホールトマトです。つぶしながら煮込めば濃厚なトマトソースになり、ミートソースやロールキャベツ、チキンのトマト煮に重宝します。",
+   "image_brief": "Tall red tomato can with a picture of whole peeled tomatoes and label 「ホールトマト」.",
+   "variants": [
+    {
+     "title": "トップバリュ ホールトマト 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 138,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ホールトマト 400g×3缶",
+     "brand": "トップバリュ",
+     "size": "400g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ホールトマト 食塩無添加 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 148,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ホールトマト 紙パック 380g",
+     "brand": "トップバリュ",
+     "size": "380g",
+     "price_tax_excluded": 168,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ホールトマト 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 108,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ホールトマト 400g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 完熟トマト ホール 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_whole_tomato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_diced_tomato",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "トマト缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "ミネストローネ",
+    "トマトパスタ",
+    "ラタトゥイユ",
+    "トマト煮込みハンバーグ"
+   ],
+   "description": "あらかじめ角切りにしたカットトマトです。つぶす手間がなく、カレーやミネストローネ、トマトパスタにそのまま加えられて時短に役立ちます。",
+   "image_brief": "Red can with an illustration of diced tomato cubes and label 「カットトマト」.",
+   "variants": [
+    {
+     "title": "トップバリュ カットトマト 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 138,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ カットトマト 400g×3缶",
+     "brand": "トップバリュ",
+     "size": "400g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ カットトマト 紙パック 390g",
+     "brand": "トップバリュ",
+     "size": "390g",
+     "price_tax_excluded": 168,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ カットトマト 食塩無添加 紙パック 200g×2",
+     "brand": "トップバリュ",
+     "size": "200g×2",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス カットトマト 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 108,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機カットトマト 400g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_diced_tomato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_corn_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "コーン缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コーンスープ",
+    "コーンバター",
+    "ポテトサラダ",
+    "チャーハン",
+    "グラタン",
+    "お弁当のおかず"
+   ],
+   "description": "甘みのあるスイートコーンの缶詰・パウチです。粒タイプはサラダやチャーハン、コーンバターに、クリームタイプはコーンスープやグラタンにぴったりです。",
+   "image_brief": "Short yellow can with a picture of golden corn kernels and label 「スイートコーン ホールカーネル」.",
+   "variants": [
+    {
+     "title": "トップバリュ スイートコーン ホールカーネル 190g×3缶",
+     "brand": "トップバリュ",
+     "size": "190g×3缶",
+     "price_tax_excluded": 348,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ スイートコーン パウチ 粒 120g×3袋",
+     "brand": "トップバリュ",
+     "size": "120g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ クリームスタイル スイートコーン 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 128,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 北海道産 スイートコーン ホールカーネル 食塩無添加 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 クリームスタイル コーン 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ベストプライス スイートコーン ホールカーネル 190g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "190g",
+     "price_tax_excluded": 98,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機スイートコーン 粒 120g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "タイ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_corn_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_mixed_beans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "豆の水煮・ドライパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豆サラダ",
+    "チリコンカン",
+    "ミネストローネ",
+    "スープ",
+    "キーマカレー"
+   ],
+   "description": "ひよこ豆や赤いんげん豆などを蒸してパックしたミックスビーンズです。開けてすぐ使え、サラダやスープ、チリコンカンやカレーに彩りを添えます。",
+   "image_brief": "Small stand-up pouch with a window showing colorful mixed beans (chickpeas, red kidney, green peas), label 「ミックスビーンズ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミックスビーンズ ドライパック 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミックスビーンズ ドライパック 110g×3袋",
+     "brand": "トップバリュ",
+     "size": "110g×3袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひよこ豆 ドライパック 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レッドキドニー ドライパック 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミックスビーンズ 水煮 缶 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ 北海道産 ミックスビーンズ 4種 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ミックスビーンズ 230g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "230g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_mixed_beans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_steamed_soybeans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "豆の水煮・ドライパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "五目豆",
+    "ひじき煮",
+    "ポークビーンズ",
+    "大豆入りキーマカレー",
+    "豆サラダ"
+   ],
+   "description": "国産大豆を蒸したり水煮にしたりした、すぐ使える豆です。五目豆やひじき煮に加えたり、ポークビーンズやカレー、サラダに入れたりと幅広く使えます。",
+   "image_brief": "Small pouch with a window showing plump beige steamed soybeans, label 「北海道産 蒸し大豆」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産 蒸し大豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 蒸し大豆 100g×3袋",
+     "brand": "トップバリュ",
+     "size": "100g×3袋",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産 大豆水煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 大豆水煮 缶 290g",
+     "brand": "トップバリュ",
+     "size": "290g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 北海道産 黒豆 蒸し 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 金時豆 水煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 蒸し大豆 85g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "85g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_steamed_soybeans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_yakitori_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "焼き鳥丼",
+    "卵とじ",
+    "炊き込みご飯",
+    "おにぎり"
+   ],
+   "description": "炭火で焼いた鶏肉を甘辛いたれや塩味で仕上げた焼き鳥缶です。卵でとじて親子丼にしたり、炊き込みご飯の具にしたりと、忙しい日の一品に便利です。",
+   "image_brief": "Short oval-top can with a red-and-black label showing grilled chicken skewers, text 「やきとり たれ味」.",
+   "variants": [
+    {
+     "title": "トップバリュ やきとり たれ味 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 178,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ やきとり たれ味 85g×3缶",
+     "brand": "トップバリュ",
+     "size": "85g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ やきとり 塩味 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 178,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ やきとり 塩味 85g×3缶",
+     "brand": "トップバリュ",
+     "size": "85g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ やきとり ゆず胡椒味 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 188,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ ベストプライス やきとり たれ味 70g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "タイ加工"
+    },
+    {
+     "title": "トップバリュ セレクト 国産若鶏 やきとり たれ味 70g",
+     "brand": "トップバリュ セレクト",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_yakitori_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_nametake",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰",
+    "なめたけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "大根おろし和え",
+    "冷奴",
+    "和風パスタ",
+    "なめたけ入り卵焼き"
+   ],
+   "description": "えのき茸を醤油ベースで甘辛く煮たなめたけです。ご飯にのせるのはもちろん、大根おろしや冷奴にかけたり、卵焼きや和風パスタに混ぜたりと使い道いろいろ。",
+   "image_brief": "Glass jar with a green lid filled with glossy brown seasoned enoki mushrooms, label 「なめたけ」.",
+   "variants": [
+    {
+     "title": "トップバリュ なめたけ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ なめたけ 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ なめたけ 120g×2瓶",
+     "brand": "トップバリュ",
+     "size": "120g×2瓶",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ なめたけ 梅入り 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 長野県産えのき茸使用 なめたけ 減塩 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "長野県産えのき茸使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス なめたけ 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 長野県産 えのき茸 なめ茸 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_nametake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_nori_tsukudani",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰",
+    "のり佃煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "卵焼き",
+    "お茶漬け",
+    "お弁当のおかず"
+   ],
+   "description": "のりを醤油と砂糖でじっくり炊き上げた佃煮です。ご飯のお供やおにぎりの具に、卵焼きに巻き込んだりお茶漬けにのせたりしてもおいしくいただけます。",
+   "image_brief": "Glass jar with a black lid containing dark glossy nori paste, label 「のり佃煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ のり佃煮 145g",
+     "brand": "トップバリュ",
+     "size": "145g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ のり佃煮 減塩 145g",
+     "brand": "トップバリュ",
+     "size": "145g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ のり佃煮 ミニ 50g×3個",
+     "brand": "トップバリュ",
+     "size": "50g×3個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ わさびのり佃煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス のり佃煮 180g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 有明海産 生のり佃煮 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "有明海産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_nori_tsukudani_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_umeboshi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・漬物",
+    "梅干し"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お弁当",
+    "梅肉和え",
+    "豚の梅しそ巻き",
+    "お茶漬け",
+    "いわしの梅煮"
+   ],
+   "description": "紀州産南高梅などを漬け込んだ梅干しです。おにぎりやお弁当の定番のほか、たたいて梅肉和えや梅しそ巻き、いわしの梅煮など料理の味付けにも使えます。",
+   "image_brief": "Clear plastic tub with a red lid filled with plump wrinkled red umeboshi plums, label 「紀州産南高梅 はちみつ梅」.",
+   "variants": [
+    {
+     "title": "トップバリュ 紀州産南高梅 はちみつ梅 塩分8% 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "トップバリュ 紀州産南高梅 しそ漬梅 塩分8% 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "トップバリュ 紀州産南高梅 白干梅 塩分20% 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "トップバリュ 紀州産南高梅 つぶれ梅 はちみつ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "トップバリュ 国産 小梅 しそ漬 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 減塩 梅干し 塩分5% 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ セレクト 紀州南高梅 大粒 はちみつ梅 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 1580,
+     "origin": "和歌山県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_umeboshi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_rakkyo",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・漬物",
+    "らっきょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "タルタルソース",
+    "チキン南蛮",
+    "酢の物",
+    "お弁当の箸休め"
+   ],
+   "description": "シャキッとした歯ごたえの甘酢らっきょうです。カレーの付け合わせの定番で、刻んでタルタルソースに混ぜればチキン南蛮やフライにもよく合います。",
+   "image_brief": "Stand-up pouch with a clear window showing white pickled shallots in sweet vinegar, label 「甘酢らっきょう」.",
+   "variants": [
+    {
+     "title": "トップバリュ 甘酢らっきょう 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 甘酢らっきょう 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 刻みらっきょう タルタル用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 鹿児島県産 らっきょう 甘酢漬 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス らっきょう漬 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鳥取県産 砂丘らっきょう 甘酢漬 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "沖縄県産 島らっきょう 塩漬 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_rakkyo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_fukujinzuke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・漬物",
+    "福神漬"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "ハヤシライス",
+    "チャーハン",
+    "お茶漬け"
+   ],
+   "description": "大根やなす、れんこんなど7種の野菜を甘辛い醤油だれに漬けた福神漬です。カレーやハヤシライスに添える定番の漬物で、刻んでチャーハンに入れてもおいしいです。",
+   "image_brief": "Small stand-up pouch with a window showing chopped red-brown pickled vegetables, label 「福神漬」.",
+   "variants": [
+    {
+     "title": "トップバリュ 福神漬 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 福神漬 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産野菜 福神漬 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "トップバリュ 無着色 福神漬 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 刻み福神漬 小袋 20g×6袋",
+     "brand": "トップバリュ",
+     "size": "20g×6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 福神漬 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_fukujinzuke_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_beni_shoga",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・漬物",
+    "紅しょうが"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "焼きそば",
+    "お好み焼き",
+    "たこ焼き",
+    "ちらし寿司",
+    "紅しょうが天"
+   ],
+   "description": "しょうがを梅酢で漬けたさっぱりとした紅しょうがです。牛丼や焼きそば、お好み焼きのトッピングに欠かせず、ちらし寿司の彩りにも活躍します。",
+   "image_brief": "Small clear pouch showing thin bright-red shredded pickled ginger, label 「紅しょうが 千切り」.",
+   "variants": [
+    {
+     "title": "トップバリュ 紅しょうが 千切り 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 98,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 紅しょうが 千切り 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 168,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 紅しょうが スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 紅しょうが 小袋 7g×10袋",
+     "brand": "トップバリュ",
+     "size": "7g×10袋",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 無着色 紅しょうが 千切り 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 138,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産しょうが 紅しょうが 千切り 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_beni_shoga_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_aonori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "青のり・あおさ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "焼きそば",
+    "たこ焼き",
+    "ちくわの磯辺揚げ",
+    "あおさの味噌汁"
+   ],
+   "description": "磯の香りが広がる青のり・あおさです。お好み焼きや焼きそばの仕上げにふりかけたり、天ぷら衣に混ぜて磯辺揚げにしたり。あおさは味噌汁に入れるだけで風味豊かになります。",
+   "image_brief": "Small resealable bag with a window showing bright green flakes of dried seaweed, label 「青のり」.",
+   "variants": [
+    {
+     "title": "トップバリュ 青のり 3g",
+     "brand": "トップバリュ",
+     "size": "3g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 青のり 5g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5g",
+     "price_tax_excluded": 168,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 徳島県産 すじ青のり 2g",
+     "brand": "トップバリュ",
+     "size": "2g",
+     "price_tax_excluded": 298,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "トップバリュ 国産 あおさのり 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 三重県産 あおさ 味噌汁用 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 348,
+     "origin": "三重県産"
+    },
+    {
+     "title": "トップバリュ 愛知県産 あおさのり 徳用 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 498,
+     "origin": "愛知県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_aonori_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_koya_dofu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "高野豆腐"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "高野豆腐の含め煮",
+    "高野豆腐の卵とじ",
+    "煮しめ",
+    "高野豆腐の唐揚げ",
+    "お弁当のおかず"
+   ],
+   "description": "豆腐を凍らせて乾燥させた高野豆腐です。だしをたっぷり含ませた含め煮や卵とじが定番で、細切りタイプは炒め物にも使いやすいです。",
+   "image_brief": "Clear plastic tray pack of square pale-beige freeze-dried tofu blocks, label 「高野豆腐」.",
+   "variants": [
+    {
+     "title": "トップバリュ 高野豆腐 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入（82.5g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高野豆腐 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入（165g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 高野豆腐 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入（82.5g）",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 高野豆腐 一口サイズ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 細切り 高野豆腐 炒め物用 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 高野豆腐 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入（99g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_koya_dofu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_kikurage",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "きくらげ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "中華丼",
+    "八宝菜",
+    "酢豚",
+    "かきたま汁",
+    "きくらげと卵の炒め物"
+   ],
+   "description": "コリコリとした食感が楽しい乾燥きくらげです。水で戻して八宝菜や中華丼、酢豚、卵との炒め物に加えると本格的な中華の一品になります。",
+   "image_brief": "Clear bag of crinkly dark-brown dried wood ear mushrooms, label 「乾燥きくらげ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 乾燥きくらげ 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 乾燥きくらげ 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 乾燥きくらげ スライス 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 乾燥きくらげ 徳用 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 698,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 乾燥 白きくらげ 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 乾燥きくらげ 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_kikurage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_harusame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "春雨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "春雨サラダ",
+    "麻婆春雨",
+    "春巻き",
+    "鍋",
+    "チャプチェ",
+    "春雨スープ"
+   ],
+   "description": "つるっとした食感の春雨です。戻して春雨サラダや麻婆春雨に、そのまま鍋やスープに入れても煮くずれしにくく使いやすいです。",
+   "image_brief": "Clear bag of bundled translucent white dried glass noodles, label 「緑豆春雨」.",
+   "variants": [
+    {
+     "title": "トップバリュ 緑豆春雨 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 緑豆春雨 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 緑豆春雨 小分け 15g×10袋",
+     "brand": "トップバリュ",
+     "size": "15g×10袋",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 太春雨 鍋用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 春雨 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 春雨 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 148,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_harusame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_dry_can_takenoko_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "野菜の水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "青椒肉絲",
+    "筑前煮",
+    "たけのこご飯",
+    "若竹煮",
+    "春巻き",
+    "八宝菜"
+   ],
+   "description": "下ゆで済みですぐ使えるたけのこの水煮です。細切りは青椒肉絲や春巻きに、ホールやスライスは筑前煮やたけのこご飯、若竹煮におすすめです。",
+   "image_brief": "Clear vacuum pouch showing a pale yellow boiled bamboo shoot, label 「たけのこ水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ たけのこ水煮 ホール 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ たけのこ水煮 細切り 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ たけのこ水煮 スライス 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 168,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス たけのこ水煮 ハーフカット 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 たけのこ水煮 ホール 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "福岡県産 たけのこ水煮 穂先 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": "福岡県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_dry_can_takenoko_mizuni_p.jpg"
+   ]
+  }
+ ]
+}

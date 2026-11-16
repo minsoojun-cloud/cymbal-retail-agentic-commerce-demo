@@ -1,0 +1,3261 @@
+{
+ "category_key": "w_kitchen",
+ "items": [
+  {
+   "base_id": "w_kitchen_donabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "土鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "水炊き",
+    "湯豆腐",
+    "雑炊",
+    "キムチ鍋"
+   ],
+   "tax_rate": 10,
+   "description": "鍋の季節に欠かせない、ふっくら厚手の萬古焼土鍋です。じっくり熱が伝わり、具材のうまみを引き出します。一人鍋向けの6号から、家族で囲める9号・10号までサイズを揃えました。直火専用です。",
+   "image_brief": "A glossy dark brown Japanese clay donabe hot pot with a rounded lid and small knob, side handles, on a plain white background, studio packshot.",
+   "labels": [
+    "直火専用"
+   ],
+   "variants": [
+    {
+     "title": "カマド舎 萬古焼 土鍋 6号 1人用 直径約20cm",
+     "brand": "カマド舎",
+     "size": "直径約20cm",
+     "price_tax_excluded": 1480,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 萬古焼 土鍋 8号 2〜3人用 直径約26cm",
+     "brand": "カマド舎",
+     "size": "直径約26cm",
+     "price_tax_excluded": 2480,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 萬古焼 土鍋 9号 3〜4人用 直径約29cm",
+     "brand": "カマド舎",
+     "size": "直径約29cm",
+     "price_tax_excluded": 2980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 萬古焼 土鍋 10号 4〜5人用 直径約32cm",
+     "brand": "カマド舎",
+     "size": "直径約32cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "Cymbal ベーシック 土鍋 8号 白刷毛目 直径約26cm",
+     "brand": "Cymbal ベーシック",
+     "size": "直径約26cm",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 土鍋 6号 黒 直径約20cm",
+     "brand": "Cymbal ベーシック",
+     "size": "直径約20cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_donabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "陶器（耐熱土）",
+    "color": "あめ釉"
+   }
+  },
+  {
+   "base_id": "w_kitchen_ih_donabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "IH対応土鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "寄せ鍋",
+    "おでん",
+    "すき焼き"
+   ],
+   "tax_rate": 10,
+   "description": "底面に発熱プレートを貼り付けたIH対応の土鍋です。IHクッキングヒーターでも土鍋らしいやわらかな火当たりで、鍋料理をおいしく仕上げます。ガス火にも使える2WAYタイプで、オール電化のご家庭にもおすすめ。",
+   "image_brief": "A cream white glazed clay hot pot with a matching lid and a visible metal plate on the bottom, displayed slightly tilted, plain white background.",
+   "labels": [
+    "IH対応",
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "カマド舎 IH対応土鍋 7号 オフホワイト 直径約23cm",
+     "brand": "カマド舎",
+     "size": "直径約23cm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 IH対応土鍋 8号 オフホワイト 直径約26cm",
+     "brand": "カマド舎",
+     "size": "直径約26cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 IH対応土鍋 9号 黒釉 直径約29cm",
+     "brand": "カマド舎",
+     "size": "直径約29cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "Cymbal Home IH・ガス両用 土鍋 8号 グレー 直径約26cm",
+     "brand": "Cymbal Home",
+     "size": "直径約26cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_ih_donabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "陶器・ステンレス（発熱体）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_ichininyou_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "一人用鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋焼きうどん",
+    "一人鍋",
+    "雑炊",
+    "湯豆腐"
+   ],
+   "tax_rate": 10,
+   "description": "一人前の鍋焼きうどんや小鍋にぴったりのアルミ製一人用鍋。軽くて熱伝導がよく、短時間でぐつぐつ煮えます。蓋付きで保温性もあり、そのまま食卓へ出せる手軽さが魅力。寒い季節の夜食やランチに。",
+   "image_brief": "A small single-serving aluminum hot pot with two ear handles and a domed lid, silver satin finish, plain white background.",
+   "labels": [
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック アルミ鍋焼きうどん鍋 18cm",
+     "brand": "Cymbal ベーシック",
+     "size": "18cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック アルミ鍋焼きうどん鍋 2個組 18cm×2個",
+     "brand": "Cymbal ベーシック",
+     "size": "18cm×2個",
+     "price_tax_excluded": 898,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 一人用土鍋風 アルミ両手鍋 蓋付き 16cm",
+     "brand": "Cymbal Home",
+     "size": "16cm",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "カマド舎 一人用土鍋 6号 赤楽 直径約19cm",
+     "brand": "カマド舎",
+     "size": "直径約19cm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製（三重県・萬古焼）"
+    }
+   ],
+   "images": [
+    "w_kitchen_ichininyou_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム"
+   }
+  },
+  {
+   "base_id": "w_kitchen_yukihira",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "雪平鍋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "煮物",
+    "だし取り",
+    "下茹で"
+   ],
+   "tax_rate": 10,
+   "description": "槌目模様が美しいアルミ雪平鍋です。軽くて熱回りが早く、毎朝の味噌汁や煮物、だし取りに大活躍。両側の注ぎ口でスープを移しやすく、木柄は熱くなりにくい仕様。IH対応のステンレスタイプもご用意しました。",
+   "image_brief": "A Japanese yukihira saucepan with hammered silver metal body, two pouring lips and a natural wooden handle, side view on white background.",
+   "labels": [
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 槌目 アルミ雪平鍋 16cm",
+     "brand": "ハルノキ工房",
+     "size": "16cm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 槌目 アルミ雪平鍋 18cm",
+     "brand": "ハルノキ工房",
+     "size": "18cm",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 槌目 アルミ雪平鍋 20cm",
+     "brand": "ハルノキ工房",
+     "size": "20cm",
+     "price_tax_excluded": 1680,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home IH対応 ステンレス雪平鍋 18cm",
+     "brand": "Cymbal Home",
+     "size": "18cm",
+     "price_tax_excluded": 1980,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック アルミ雪平鍋 16cm",
+     "brand": "Cymbal ベーシック",
+     "size": "16cm",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_yukihira_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム・天然木"
+   }
+  },
+  {
+   "base_id": "w_kitchen_pressure_cooker",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "圧力鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豚の角煮",
+    "カレー",
+    "肉じゃが",
+    "玄米ごはん",
+    "おでん"
+   ],
+   "tax_rate": 10,
+   "description": "かたい肉や根菜も短時間でやわらかく仕上がる片手圧力鍋。煮込み時間を大幅に短縮でき、光熱費の節約にも。安全装置を複数備え、圧力の切り替えも簡単です。IH・ガス火対応で、2.5Lから家族向け5.5Lまで。",
+   "image_brief": "A stainless steel pressure cooker with a black long handle and a locking lid with a pressure valve on top, polished finish, plain background.",
+   "labels": [
+    "IH対応",
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 片手圧力鍋 2.5L",
+     "brand": "Cymbal Home",
+     "size": "2.5L",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 片手圧力鍋 3.5L",
+     "brand": "Cymbal Home",
+     "size": "3.5L",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 片手圧力鍋 4.5L",
+     "brand": "Cymbal Home",
+     "size": "4.5L",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 2段階切替 ステンレス圧力鍋 5.5L",
+     "brand": "Cymbal セレクト",
+     "size": "5.5L",
+     "price_tax_excluded": 12800,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal セレクト 2段階切替 ステンレス圧力鍋 3.0L",
+     "brand": "Cymbal セレクト",
+     "size": "3.0L",
+     "price_tax_excluded": 9800,
+     "origin": "日本製（新潟県燕市）"
+    }
+   ],
+   "images": [
+    "w_kitchen_pressure_cooker_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_enamel_casserole",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "ホーロー両手鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "シチュー",
+    "ポトフ",
+    "ロールキャベツ",
+    "カレー",
+    "煮込みハンバーグ"
+   ],
+   "tax_rate": 10,
+   "description": "やさしい色合いのホーロー両手鍋。においや色移りがしにくく、トマト煮込みやカレーも気兼ねなく作れます。保温性が高いので、火を止めてからの余熱調理にも。食卓にそのまま出せるデザインで、IH・オーブンにも対応。",
+   "image_brief": "A round enamel casserole pot with two side handles and a matching lid with a stainless knob, soft pastel color, glossy finish, studio packshot.",
+   "labels": [
+    "IH対応",
+    "オーブン対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 ホーロー両手鍋 18cm 2.0L ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "18cm 2.0L ホワイト",
+     "price_tax_excluded": 3480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー両手鍋 20cm 2.8L ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "20cm 2.8L ホワイト",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー両手鍋 20cm 2.8L ミントグリーン",
+     "brand": "ハルノキ工房",
+     "size": "20cm 2.8L ミントグリーン",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー両手鍋 22cm 3.6L ネイビー",
+     "brand": "ハルノキ工房",
+     "size": "22cm 3.6L ネイビー",
+     "price_tax_excluded": 4480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ホーローキャセロール 20cm レッド",
+     "brand": "Cymbal Home",
+     "size": "20cm レッド",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_enamel_casserole_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ホーロー"
+   }
+  },
+  {
+   "base_id": "w_kitchen_electric_grill_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "卓上電気鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "すき焼き",
+    "焼肉",
+    "おでん",
+    "鍋パーティー"
+   ],
+   "tax_rate": 10,
+   "description": "食卓で鍋料理を楽しめる卓上電気グリル鍋。深鍋と平面プレートの2枚付きで、しゃぶしゃぶ・すき焼きから焼肉、ホットプレート料理まで1台でこなします。温度調節ダイヤルで保温も簡単。鍋は取り外して丸洗いできます。",
+   "image_brief": "A round electric tabletop hot pot with a black base, white deep pot and glass lid, with a flat grill plate placed beside it, plain white background.",
+   "labels": [
+    "丸洗いOK"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 卓上電気グリル鍋 深鍋・平面プレート付き 3.0L ホワイト",
+     "brand": "Cymbal Home",
+     "size": "3.0L ホワイト",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 卓上電気グリル鍋 深鍋・平面プレート付き 3.0L ブラック",
+     "brand": "Cymbal Home",
+     "size": "3.0L ブラック",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 仕切り付き 電気グリル鍋 二色鍋プレート付き 3.5L",
+     "brand": "Cymbal セレクト",
+     "size": "3.5L",
+     "price_tax_excluded": 8980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック コンパクト電気鍋 1〜2人用 1.2L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.2L",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_electric_grill_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム（フッ素加工）・樹脂",
+    "capacity": "3.0L"
+   }
+  },
+  {
+   "base_id": "w_kitchen_ih_cooker_set",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "卓上IH鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "しゃぶしゃぶ",
+    "湯豆腐",
+    "鍋パーティー"
+   ],
+   "tax_rate": 10,
+   "description": "コンパクトな卓上IHクッキングヒーターと専用鍋のセット。火を使わないので食卓でも安心して鍋料理を囲めます。火力は細かく調節でき、保温モードも搭載。専用鍋はキッチンのIHでも使えます。",
+   "image_brief": "A slim black tabletop induction cooker with a stainless steel two-handled pot and glass lid on top, plain background, studio lighting.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 卓上IHクッキングヒーター 専用鍋セット 鍋24cm",
+     "brand": "Cymbal Home",
+     "size": "鍋24cm",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 卓上IHクッキングヒーター 単品 1400W",
+     "brand": "Cymbal Home",
+     "size": "1400W",
+     "price_tax_excluded": 5480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 薄型 卓上IHヒーター 土鍋風専用鍋付き 鍋26cm",
+     "brand": "Cymbal セレクト",
+     "size": "鍋26cm",
+     "price_tax_excluded": 11800,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 卓上IH専用 ステンレス鍋 蓋付き 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_ih_cooker_set_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "樹脂・ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_sukiyaki_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "すき焼き鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "牛鍋",
+    "ステーキ",
+    "年末年始"
+   ],
+   "tax_rate": 10,
+   "description": "厚手の鉄製すき焼き鍋。しっかり蓄熱して牛肉を一気に焼き付けるので、香ばしく本格的なすき焼きが楽しめます。使うほど油がなじみ育っていく道具です。木蓋付きセットは年末年始のごちそうやギフトにも。",
+   "image_brief": "A heavy black cast iron shallow sukiyaki pan with two loop handles and a round wooden lid placed beside it, plain white background.",
+   "labels": [
+    "IH対応",
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "クロガネ堂 鋳鉄 すき焼き鍋 木蓋付き 24cm",
+     "brand": "クロガネ堂",
+     "size": "24cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製"
+    },
+    {
+     "title": "クロガネ堂 鋳鉄 すき焼き鍋 木蓋付き 26cm",
+     "brand": "クロガネ堂",
+     "size": "26cm",
+     "price_tax_excluded": 5980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home IH対応 鉄すき焼き鍋 26cm",
+     "brand": "Cymbal Home",
+     "size": "26cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 鉄すき焼き鍋 22cm 2〜3人用",
+     "brand": "Cymbal Home",
+     "size": "22cm 2〜3人用",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_sukiyaki_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "鋳鉄・天然木"
+   }
+  },
+  {
+   "base_id": "w_kitchen_oden_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "おでん鍋・仕切り鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "二色鍋",
+    "しゃぶしゃぶ",
+    "火鍋"
+   ],
+   "tax_rate": 10,
+   "description": "四角い仕切りで具材ごとに煮込めるおでん鍋と、2種類のスープを同時に楽しめる二色鍋。家族で好みの味が違っても一度に鍋を囲めます。ステンレス製でIHにも対応し、お手入れも簡単です。",
+   "image_brief": "A rectangular stainless steel oden pot with grid dividers and a lid set aside, alongside a round pot with a center S-shaped divider, plain background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 角型おでん鍋 9仕切り 30×24cm",
+     "brand": "Cymbal Home",
+     "size": "30×24cm",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 二色鍋 仕切り付き 26cm",
+     "brand": "Cymbal Home",
+     "size": "26cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス 二色鍋 ガラス蓋付き 28cm",
+     "brand": "Cymbal セレクト",
+     "size": "28cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック アルミ 角型おでん鍋 27×20cm",
+     "brand": "Cymbal ベーシック",
+     "size": "27×20cm",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_oden_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_tempura_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "天ぷら鍋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "唐揚げ",
+    "とんかつ",
+    "フライドポテト"
+   ],
+   "tax_rate": 10,
+   "description": "温度計と油切り網が付いた天ぷら鍋。油の温度をひと目で確認でき、からっとした揚げ物が失敗なく作れます。少ない油で揚げられる小さめサイズから、家族分を一度に揚げられる24cmまで。",
+   "image_brief": "A black enameled iron deep frying pot with a clip-on thermometer and a semicircular draining rack on the rim, plain white background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 温度計付き 鉄天ぷら鍋 20cm",
+     "brand": "Cymbal Home",
+     "size": "20cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 温度計付き 鉄天ぷら鍋 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 少量油で揚げられる 角型天ぷら鍋 18cm",
+     "brand": "Cymbal ベーシック",
+     "size": "18cm",
+     "price_tax_excluded": 1680,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト IH対応 ステンレス天ぷら鍋 油はね防止ネット付き 22cm",
+     "brand": "Cymbal セレクト",
+     "size": "22cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（新潟県燕市）"
+    }
+   ],
+   "images": [
+    "w_kitchen_tempura_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "鉄・ホーロー"
+   }
+  },
+  {
+   "base_id": "w_kitchen_steamer",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "蒸し器"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "茶碗蒸し",
+    "肉まん",
+    "蒸し野菜",
+    "しゅうまい",
+    "赤飯"
+   ],
+   "tax_rate": 10,
+   "description": "2段で同時に蒸せるステンレス蒸し器です。蒸し野菜やしゅうまい、茶碗蒸し、冷めた肉まんの温め直しにも。下段は単体で両手鍋として使えます。電子レンジより食感がふっくら仕上がると人気。竹せいろもご用意。",
+   "image_brief": "A polished stainless steel two-tier steamer pot with glass lid, and a round bamboo steamer basket placed beside it, white background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 ステンレス2段蒸し器 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 4480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 ステンレス2段蒸し器 20cm",
+     "brand": "Cymbal Home",
+     "size": "20cm",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 竹せいろ 2段 蓋付き 21cm",
+     "brand": "ハルノキ工房",
+     "size": "21cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 竹せいろ用 蒸し板 21cm対応",
+     "brand": "ハルノキ工房",
+     "size": "21cm対応",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_steamer_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_gohan_nabe",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "ごはん鍋"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "新米",
+    "土鍋ごはん",
+    "炊き込みごはん",
+    "おこげ"
+   ],
+   "tax_rate": 10,
+   "description": "新米の季節に、土鍋で炊くふっくらごはんを。二重蓋で吹きこぼれにくく、火加減が簡単です。遠赤外線効果でお米の一粒一粒が立ち、ほどよいおこげも楽しめます。1合から3合サイズまで。",
+   "image_brief": "A black glazed clay rice-cooking pot with a tall double lid, round shape and small side handles, plain white background, studio packshot.",
+   "labels": [
+    "直火専用"
+   ],
+   "variants": [
+    {
+     "title": "カマド舎 二重蓋 ごはん土鍋 1合炊き",
+     "brand": "カマド舎",
+     "size": "1合炊き",
+     "price_tax_excluded": 2980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 二重蓋 ごはん土鍋 2合炊き",
+     "brand": "カマド舎",
+     "size": "2合炊き",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 二重蓋 ごはん土鍋 3合炊き",
+     "brand": "カマド舎",
+     "size": "3合炊き",
+     "price_tax_excluded": 4980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "Cymbal Home IH対応 鋳物ホーロー ごはん鍋 2合炊き",
+     "brand": "Cymbal Home",
+     "size": "2合炊き",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_gohan_nabe_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "陶器（耐熱土）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_iron_frypan",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "鉄フライパン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "ステーキ",
+    "野菜炒め",
+    "餃子"
+   ],
+   "tax_rate": 10,
+   "description": "強火で一気に炒められる鉄製フライパン。高温でもコーティングが劣化する心配がなく、油がなじむほど焦げつきにくく育ちます。炒め物がシャキッと仕上がる本格派。空焼き不要の加工済みタイプです。",
+   "image_brief": "A black iron frying pan with a long riveted iron handle and slightly rough dark surface, top-down three-quarter view on white background.",
+   "labels": [
+    "IH対応",
+    "ガス火対応"
+   ],
+   "variants": [
+    {
+     "title": "クロガネ堂 空焼き不要 鉄フライパン 20cm",
+     "brand": "クロガネ堂",
+     "size": "20cm",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    },
+    {
+     "title": "クロガネ堂 空焼き不要 鉄フライパン 24cm",
+     "brand": "クロガネ堂",
+     "size": "24cm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製"
+    },
+    {
+     "title": "クロガネ堂 空焼き不要 鉄フライパン 26cm",
+     "brand": "クロガネ堂",
+     "size": "26cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "クロガネ堂 空焼き不要 鉄フライパン 28cm",
+     "brand": "クロガネ堂",
+     "size": "28cm",
+     "price_tax_excluded": 4480,
+     "origin": "日本製"
+    },
+    {
+     "title": "クロガネ堂 鉄 炒め鍋 中華風 30cm",
+     "brand": "クロガネ堂",
+     "size": "30cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_kitchen_iron_frypan_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "鉄"
+   }
+  },
+  {
+   "base_id": "w_kitchen_removable_handle_frypan_set",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "取っ手が取れるフライパン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "炒め物",
+    "煮物",
+    "作り置き",
+    "お弁当"
+   ],
+   "tax_rate": 10,
+   "description": "取っ手を外せばフライパンも鍋も重ねて省スペース収納。そのまま食卓に出したり、蓋をして冷蔵庫で保存したりも可能です。フッ素樹脂加工で焦げつきにくく、少ない油でヘルシーに調理できます。",
+   "image_brief": "A nested set of dark gray non-stick frying pans and saucepans with one detachable black handle and clear lids, stacked neatly, plain background.",
+   "labels": [
+    "IH対応",
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 取っ手が取れる フライパンセット 3点 20cm/26cm/取っ手",
+     "brand": "Cymbal Home",
+     "size": "20cm/26cm/取っ手",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 取っ手が取れる フライパン・鍋セット 6点 6点セット",
+     "brand": "Cymbal Home",
+     "size": "6点セット",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 取っ手が取れる フライパンセット 9点 IH対応 9点セット",
+     "brand": "Cymbal Home",
+     "size": "9点セット",
+     "price_tax_excluded": 11800,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 取っ手が取れる 専用ハンドル 単品",
+     "brand": "Cymbal Home",
+     "size": "単品",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 取っ手が取れる 専用保存蓋 26cm用",
+     "brand": "Cymbal Home",
+     "size": "26cm用",
+     "price_tax_excluded": 680,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_removable_handle_frypan_set_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム（フッ素加工）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_large_frypan",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "フライパン（大型）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "炒め物",
+    "焼きそば",
+    "パエリア",
+    "ハンバーグ"
+   ],
+   "tax_rate": 10,
+   "description": "家族の多いご家庭やまとめ調理に便利な大きめサイズのマーブルコートフライパン。焼きそばやパエリアも一度にたっぷり作れます。耐久性の高い多層コートで焦げつきにくく、IHにも対応しています。",
+   "image_brief": "A large round frying pan with a speckled marble gray non-stick coating and a wood-grain handle, top-down view, plain white background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 マーブルコート フライパン 26cm",
+     "brand": "Cymbal Home",
+     "size": "26cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 マーブルコート フライパン 28cm",
+     "brand": "Cymbal Home",
+     "size": "28cm",
+     "price_tax_excluded": 2780,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 マーブルコート 深型フライパン 28cm",
+     "brand": "Cymbal Home",
+     "size": "28cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 5層コート 軽量フライパン 26cm",
+     "brand": "Cymbal セレクト",
+     "size": "26cm",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 5層コート 軽量フライパン 28cm",
+     "brand": "Cymbal セレクト",
+     "size": "28cm",
+     "price_tax_excluded": 4280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_large_frypan_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム（フッ素加工）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_grill_pan",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "グリルパン・スキレット"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "グリル野菜",
+    "ハンバーグ",
+    "アヒージョ"
+   ],
+   "tax_rate": 10,
+   "description": "波型の溝で焼き目がくっきりつくグリルパン。余分な脂が溝に落ちるので、肉料理もさっぱりと仕上がります。そのまま食卓に出せる鋳鉄スキレットや、魚焼きグリルで使えるプレートもあり、後片付けが楽になると好評です。",
+   "image_brief": "A square black grill pan with raised ridges on the cooking surface and a long handle, plus a small round cast iron skillet, plain background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 角型グリルパン 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "クロガネ堂 鋳鉄 スキレット 16cm",
+     "brand": "クロガネ堂",
+     "size": "16cm",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "クロガネ堂 鋳鉄 スキレット 20cm",
+     "brand": "クロガネ堂",
+     "size": "20cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 魚焼きグリル用 グリルプレート 約27×19cm",
+     "brand": "Cymbal Home",
+     "size": "約27×19cm",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_grill_pan_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミニウム・鋳鉄"
+   }
+  },
+  {
+   "base_id": "w_kitchen_kettle",
+   "category_path": [
+    "キッチン・調理器具",
+    "フライパン・鍋",
+    "やかん・ケトル"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お茶",
+    "白湯",
+    "コーヒー",
+    "麦茶"
+   ],
+   "tax_rate": 10,
+   "description": "毎日のお湯沸かしに使いやすいステンレスやかん。大きな注ぎ口でお湯を注ぎやすく、ハンドルは熱くなりにくい仕様。冬の温かい飲み物や麦茶作りにも活躍します。ドリップ向けの細口ケトルもご用意しました。",
+   "image_brief": "A shiny stainless steel stovetop kettle with a curved black handle and spout, next to a slim gooseneck drip kettle, white background.",
+   "labels": [
+    "IH対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home IH対応 ステンレスやかん 2.0L",
+     "brand": "Cymbal Home",
+     "size": "2.0L",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home IH対応 ステンレスやかん 3.0L",
+     "brand": "Cymbal Home",
+     "size": "3.0L",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト IH対応 細口ドリップケトル 1.0L",
+     "brand": "Cymbal セレクト",
+     "size": "1.0L",
+     "price_tax_excluded": 3480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "ハルノキ工房 ホーローケトル ホワイト 1.6L",
+     "brand": "ハルノキ工房",
+     "size": "1.6L",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック アルミやかん 2.5L",
+     "brand": "Cymbal ベーシック",
+     "size": "2.5L",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_kettle_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_wa_bocho",
+   "category_path": [
+    "キッチン・調理器具",
+    "包丁・まな板",
+    "和包丁"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "魚のさばき",
+    "刺身",
+    "野菜の千切り",
+    "ぶり大根"
+   ],
+   "tax_rate": 10,
+   "description": "魚をさばくのに便利な出刃包丁や、野菜の千切りがはかどる菜切り包丁など、和包丁を揃えました。鋼の芯材で切れ味が長持ち。旬のぶりや鯛をおろしたい方や、和食の腕を上げたい方におすすめです。",
+   "image_brief": "Three Japanese kitchen knives with natural wood handles laid side by side: a thick deba, a rectangular nakiri and a long slender sashimi knife, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 鋼入り 出刃包丁 150mm",
+     "brand": "ハルノキ工房",
+     "size": "150mm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製（岐阜県関市）"
+    },
+    {
+     "title": "ハルノキ工房 鋼入り 出刃包丁 小出刃 105mm",
+     "brand": "ハルノキ工房",
+     "size": "105mm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製（岐阜県関市）"
+    },
+    {
+     "title": "ハルノキ工房 鋼入り 菜切り包丁 165mm",
+     "brand": "ハルノキ工房",
+     "size": "165mm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（岐阜県関市）"
+    },
+    {
+     "title": "ハルノキ工房 鋼入り 刺身包丁 柳刃 210mm",
+     "brand": "ハルノキ工房",
+     "size": "210mm",
+     "price_tax_excluded": 5980,
+     "origin": "日本製（岐阜県関市）"
+    },
+    {
+     "title": "Cymbal Home ステンレス 牛刀 180mm",
+     "brand": "Cymbal Home",
+     "size": "180mm",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_kitchen_wa_bocho_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "鋼・ステンレス・天然木"
+   }
+  },
+  {
+   "base_id": "w_kitchen_bread_knife",
+   "category_path": [
+    "キッチン・調理器具",
+    "包丁・まな板",
+    "パン切りナイフ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食パン",
+    "バゲット",
+    "ケーキ",
+    "サンドイッチ"
+   ],
+   "tax_rate": 10,
+   "description": "波刃でふわふわの食パンもつぶさずに切れるパン切りナイフ。焼きたてのパンやバゲット、スポンジケーキもきれいにカットできます。刃渡り長めで大きなパンも一度に。ケーキ用のコンパクトサイズもあります。",
+   "image_brief": "A long serrated bread knife with a black handle lying next to a partly sliced loaf of white bread on a light board, plain background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 波刃 パン切りナイフ 240mm",
+     "brand": "Cymbal Home",
+     "size": "240mm",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 波刃 パン切りナイフ 200mm",
+     "brand": "Cymbal Home",
+     "size": "200mm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト モリブデン鋼 パン切りナイフ 250mm",
+     "brand": "Cymbal セレクト",
+     "size": "250mm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製（岐阜県関市）"
+    },
+    {
+     "title": "Cymbal ベーシック ケーキナイフ 180mm",
+     "brand": "Cymbal ベーシック",
+     "size": "180mm",
+     "price_tax_excluded": 680,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_bread_knife_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_knife_sharpener",
+   "category_path": [
+    "キッチン・調理器具",
+    "包丁・まな板",
+    "包丁研ぎ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "包丁のお手入れ",
+    "切れ味回復"
+   ],
+   "tax_rate": 10,
+   "description": "切れ味が落ちた包丁を手軽によみがえらせるシャープナーと砥石。溝に数回通すだけのロール式は初心者でも簡単。本格派には中仕上げ・仕上げの両面砥石を。よく切れる包丁は料理を楽しくします。",
+   "image_brief": "A compact kitchen knife sharpener with gray ceramic rollers and a white grip handle, beside a rectangular two-tone whetstone on a rubber base.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home セラミック ロールシャープナー 3段階",
+     "brand": "Cymbal Home",
+     "size": "3段階",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 簡単 包丁シャープナー 2段階",
+     "brand": "Cymbal ベーシック",
+     "size": "2段階",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 両面砥石 #1000/#3000 台付き 約18×6cm",
+     "brand": "ハルノキ工房",
+     "size": "約18×6cm",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 電動 包丁研ぎ器 両刃用",
+     "brand": "ハルノキ工房",
+     "size": "両刃用",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_knife_sharpener_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "セラミック・樹脂"
+   }
+  },
+  {
+   "base_id": "w_kitchen_kitchen_scissors",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "キッチンバサミ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鶏肉のカット",
+    "ねぎ",
+    "海苔",
+    "ピザ",
+    "子ども用取り分け"
+   ],
+   "tax_rate": 10,
+   "description": "肉や野菜、海苔までスパッと切れるキッチンバサミ。刃が分解できるので隅々まで洗えて衛生的です。ギザ刃で鶏肉もすべりにくく、栓抜き付き。カニや骨付き肉に使えるタイプも揃えました。",
+   "image_brief": "A pair of stainless steel kitchen scissors with black ergonomic handles, shown slightly opened with blades separated, plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 分解できる キッチンバサミ 全長21cm ブラック",
+     "brand": "Cymbal Home",
+     "size": "全長21cm ブラック",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 分解できる キッチンバサミ 全長21cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "全長21cm ホワイト",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト オールステンレス キッチンバサミ 全長22cm",
+     "brand": "Cymbal セレクト",
+     "size": "全長22cm",
+     "price_tax_excluded": 2480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック キッチンバサミ 全長19cm",
+     "brand": "Cymbal ベーシック",
+     "size": "全長19cm",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home カニ・骨切りバサミ 全長20cm",
+     "brand": "Cymbal Home",
+     "size": "全長20cm",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_kitchen_scissors_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス・樹脂"
+   }
+  },
+  {
+   "base_id": "w_kitchen_peeler",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ピーラー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "きんぴら",
+    "サラダ",
+    "ポテトサラダ",
+    "にんじんしりしり"
+   ],
+   "tax_rate": 10,
+   "description": "じゃがいもやにんじんの皮がスルスルむけるピーラー。芽取り付きで下ごしらえがはかどります。せん切りがすぐできるギザ刃タイプや、薄くリボン状にむけるワイドタイプなど、用途に合わせて選べます。",
+   "image_brief": "Three vegetable peelers with colored plastic handles laid side by side: a standard Y-shaped peeler, a julienne peeler and a wide ribbon peeler.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 芽取り付き Y字ピーラー グリーン",
+     "brand": "Cymbal Home",
+     "size": "グリーン",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home せん切りピーラー オレンジ",
+     "brand": "Cymbal Home",
+     "size": "オレンジ",
+     "price_tax_excluded": 498,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ワイドピーラー グレー",
+     "brand": "Cymbal Home",
+     "size": "グレー",
+     "price_tax_excluded": 598,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス一体型 ピーラー シルバー",
+     "brand": "Cymbal セレクト",
+     "size": "シルバー",
+     "price_tax_excluded": 1280,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック ピーラー 2本組 I字・Y字 2本組",
+     "brand": "Cymbal ベーシック",
+     "size": "2本組",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_peeler_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス・樹脂"
+   }
+  },
+  {
+   "base_id": "w_kitchen_grater",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "おろし器"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "大根おろし",
+    "もみじおろし",
+    "しょうが",
+    "みぞれ鍋",
+    "とろろ"
+   ],
+   "tax_rate": 10,
+   "description": "鍋の季節に大活躍のおろし器。粗さを選べる両面刃でふんわり大根おろしもきめ細かなしょうがおろしも思いのまま。受け皿付きでそのまま食卓へ。銅製の本格派や、少量向けのセラミックおろしも揃えました。",
+   "image_brief": "A white plastic grater with a stainless steel grating blade set on a clear lidded catch tray, beside a small round white ceramic grating plate.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 受け皿付き 大根おろし器 粗目・細目両用",
+     "brand": "Cymbal Home",
+     "size": "粗目・細目両用",
+     "price_tax_excluded": 798,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック おろし器 受け皿付き 標準",
+     "brand": "Cymbal ベーシック",
+     "size": "標準",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 銅製 おろし金 中",
+     "brand": "ハルノキ工房",
+     "size": "中",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home セラミック しょうがおろし 直径約10cm",
+     "brand": "Cymbal Home",
+     "size": "直径約10cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 鬼おろし 竹製 粗おろし用",
+     "brand": "Cymbal Home",
+     "size": "粗おろし用",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_grater_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス・樹脂"
+   }
+  },
+  {
+   "base_id": "w_kitchen_slicer",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "スライサー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "キャベツの千切り",
+    "サラダ",
+    "ポテトチップス",
+    "なます"
+   ],
+   "tax_rate": 10,
+   "description": "とんかつの付け合わせのキャベツもふんわり極細に仕上がるスライサー。厚さ調整や刃の交換ができるセットなら、薄切り・せん切り・つまもこれ1台で。安全ホルダー付きで最後まで安心して使えます。",
+   "image_brief": "A white and gray vegetable slicer set with interchangeable blades, a safety hand guard and a storage case, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home キャベツ千切りスライサー ワイド",
+     "brand": "Cymbal Home",
+     "size": "ワイド",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 替刃4種 スライサーセット ホルダー付き 5点セット",
+     "brand": "Cymbal Home",
+     "size": "5点セット",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 薄切りスライサー 標準",
+     "brand": "Cymbal ベーシック",
+     "size": "標準",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 厚さ調整 スライサー ステンレス刃",
+     "brand": "Cymbal セレクト",
+     "size": "ステンレス刃",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_kitchen_slicer_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "樹脂・ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_stainless_bowl",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ボウル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "下ごしらえ",
+    "サラダ",
+    "お菓子作り",
+    "和え物"
+   ],
+   "tax_rate": 10,
+   "description": "使い勝手のよい深型のステンレスボウル。サイズ違いで重ねて収納でき、下ごしらえからお菓子作りまで幅広く活躍します。電子レンジで使える耐熱ガラスボウルや、すべり止め付きタイプもご用意しました。",
+   "image_brief": "A nested set of polished stainless steel mixing bowls in graduated sizes, and a clear heat-resistant glass bowl beside them, white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 18-8ステンレス 深型ボウル 18cm",
+     "brand": "Cymbal Home",
+     "size": "18cm",
+     "price_tax_excluded": 698,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 18-8ステンレス 深型ボウル 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 1180,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 18-8ステンレス ボウル 3点セット 16/19/23cm",
+     "brand": "Cymbal Home",
+     "size": "16/19/23cm",
+     "price_tax_excluded": 2480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 耐熱ガラスボウル 1.5L",
+     "brand": "Cymbal Home",
+     "size": "1.5L",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック すべり止め付き プラボウル 2.5L",
+     "brand": "Cymbal ベーシック",
+     "size": "2.5L",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_stainless_bowl_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_zaru",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ザル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麺の湯切り",
+    "野菜の水切り",
+    "そうめん",
+    "米研ぎ"
+   ],
+   "tax_rate": 10,
+   "description": "ボウルと重ねて使えるステンレスザル。目詰まりしにくいパンチング加工で、野菜の水切りや麺の湯切りもスピーディー。米研ぎ用やコンパクトな手付きタイプ、盛り付けに使える竹の盆ザルも揃えています。",
+   "image_brief": "A round perforated stainless steel colander with a flat base, a small handled strainer and a woven bamboo tray basket, plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home パンチング ステンレスザル 18cm",
+     "brand": "Cymbal Home",
+     "size": "18cm",
+     "price_tax_excluded": 798,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home パンチング ステンレスザル 24cm",
+     "brand": "Cymbal Home",
+     "size": "24cm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 手付き ストレーナー 14cm",
+     "brand": "Cymbal Home",
+     "size": "14cm",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 米研ぎザル 3合用",
+     "brand": "Cymbal Home",
+     "size": "3合用",
+     "price_tax_excluded": 698,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 竹 盆ザル 24cm",
+     "brand": "ハルノキ工房",
+     "size": "24cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_zaru_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_saibashi",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "菜箸"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "揚げ物",
+    "炒め物",
+    "盛り付け",
+    "おせち"
+   ],
+   "tax_rate": 10,
+   "description": "揚げ物や炒め物、盛り付けに欠かせない菜箸。熱に強い竹製は先端が細く、細かな作業もしやすい定番品。焦げにくいシリコン先端タイプや、揚げ物用の長めサイズもあり、用途で使い分けられます。",
+   "image_brief": "Several pairs of long cooking chopsticks: natural bamboo pairs tied with string and a pair with black silicone tips, laid diagonally on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 竹 菜箸 3膳組 33cm",
+     "brand": "ハルノキ工房",
+     "size": "33cm",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 竹 揚げ物用 菜箸 45cm",
+     "brand": "ハルノキ工房",
+     "size": "45cm",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン先端 菜箸 30cm ブラック",
+     "brand": "Cymbal Home",
+     "size": "30cm ブラック",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス 盛り付け箸 18cm",
+     "brand": "Cymbal セレクト",
+     "size": "18cm",
+     "price_tax_excluded": 980,
+     "origin": "日本製（新潟県燕市）"
+    }
+   ],
+   "images": [
+    "w_kitchen_saibashi_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "竹"
+   }
+  },
+  {
+   "base_id": "w_kitchen_tongs",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "トング"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "パスタ",
+    "サラダ",
+    "揚げ物",
+    "バーベキュー"
+   ],
+   "tax_rate": 10,
+   "description": "つかみやすく、パスタや揚げ物、焼肉まで万能に使えるトング。シリコン先端はフライパンを傷つけにくく安心です。ロック機能付きでコンパクトに収納できます。サラダ用や盛り付け用の小型も揃えました。",
+   "image_brief": "Stainless steel kitchen tongs with gray silicone tips shown in locked position, next to a small slim serving tong, plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home シリコン先端 ロック付きトング 23cm",
+     "brand": "Cymbal Home",
+     "size": "23cm",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン先端 ロック付きトング 30cm",
+     "brand": "Cymbal Home",
+     "size": "30cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト オールステンレス 万能トング 24cm",
+     "brand": "Cymbal セレクト",
+     "size": "24cm",
+     "price_tax_excluded": 1480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレス トング 21cm",
+     "brand": "Cymbal ベーシック",
+     "size": "21cm",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 盛り付けミニトング 16cm",
+     "brand": "Cymbal Home",
+     "size": "16cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_tongs_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス・シリコン"
+   }
+  },
+  {
+   "base_id": "w_kitchen_spatula_whisk",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ヘラ・泡立て器"
+   ],
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "お菓子作り",
+    "ホットケーキ",
+    "クリスマスケーキ",
+    "スクランブルエッグ"
+   ],
+   "tax_rate": 10,
+   "description": "お菓子作りや炒め物に便利なシリコンスパチュラと泡立て器。一体成型のスパチュラは継ぎ目がなく衛生的で、耐熱性も高く鍋でも使えます。クリスマスのケーキ作りにも頼れる、ワイヤーのしっかりした泡立て器です。",
+   "image_brief": "A one-piece pastel silicone spatula and a stainless steel balloon whisk lying side by side on a plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 一体成型 シリコンスパチュラ 大 ピンク",
+     "brand": "Cymbal Home",
+     "size": "大 ピンク",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 一体成型 シリコンスパチュラ 小 グレー",
+     "brand": "Cymbal Home",
+     "size": "小 グレー",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ステンレス 泡立て器 25cm",
+     "brand": "Cymbal Home",
+     "size": "25cm",
+     "price_tax_excluded": 598,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home ステンレス 泡立て器 30cm",
+     "brand": "Cymbal Home",
+     "size": "30cm",
+     "price_tax_excluded": 798,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "ハルノキ工房 天然木 木べら 30cm",
+     "brand": "ハルノキ工房",
+     "size": "30cm",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_spatula_whisk_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "シリコン・ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_shamoji",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "しゃもじ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "新米",
+    "おにぎり",
+    "酢飯",
+    "炊き込みごはん"
+   ],
+   "tax_rate": 10,
+   "description": "ごはんがくっつきにくいエンボス加工のしゃもじ。自立するタイプは置き場所に困らず衛生的です。新米をふっくらほぐしたい季節にぴったり。手巻き寿司の酢飯作りに便利な木製しゃもじや飯台もあります。",
+   "image_brief": "A white embossed plastic rice paddle standing upright on its own base, beside a natural wooden rice paddle, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home くっつきにくい 立つしゃもじ ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ホワイト",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home くっつきにくい 立つしゃもじ グレー",
+     "brand": "Cymbal Home",
+     "size": "グレー",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 天然木 しゃもじ 21cm",
+     "brand": "ハルノキ工房",
+     "size": "21cm",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 さわら 飯台 すし桶 30cm 3合用",
+     "brand": "ハルノキ工房",
+     "size": "30cm 3合用",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_kitchen_shamoji_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "樹脂"
+   }
+  },
+  {
+   "base_id": "w_kitchen_kitchen_timer",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "キッチンタイマー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタのゆで時間",
+    "ゆで卵",
+    "煮込み",
+    "お菓子作り"
+   ],
+   "tax_rate": 10,
+   "description": "大きな数字で見やすいデジタルキッチンタイマー。マグネットで冷蔵庫に貼れ、スタンド付きで置いても使えます。パスタやゆで卵の時間管理に。2つの時間を同時に計れるダブルタイプや、回すだけのアナログ式も。",
+   "image_brief": "A square white digital kitchen timer with large blank display and buttons, beside a round dial-style timer, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home デジタル キッチンタイマー ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ホワイト",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home デジタル キッチンタイマー ブラック",
+     "brand": "Cymbal Home",
+     "size": "ブラック",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ダブル キッチンタイマー 2系統 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 回すだけ アナログタイマー 60分計",
+     "brand": "Cymbal ベーシック",
+     "size": "60分計",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_kitchen_timer_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "color": "ホワイト"
+   }
+  },
+  {
+   "base_id": "w_kitchen_kitchen_scale",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "キッチンスケール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お菓子作り",
+    "パン作り",
+    "減塩料理",
+    "作り置き"
+   ],
+   "tax_rate": 10,
+   "description": "1g単位で正確に量れるデジタルキッチンスケール。容器の重さを差し引く風袋引き機能付きで、お菓子やパン作りもスムーズ。薄型で収納しやすく、0.1g単位で量れる微量タイプもご用意しました。",
+   "image_brief": "A slim flat white digital kitchen scale with a blank LCD display and a stainless steel weighing plate, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home デジタルキッチンスケール 最大2kg 1g単位",
+     "brand": "Cymbal Home",
+     "size": "1g単位",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home デジタルキッチンスケール 最大3kg 1g単位 ブラック",
+     "brand": "Cymbal Home",
+     "size": "1g単位 ブラック",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 微量計量 デジタルスケール 最大500g 0.1g単位",
+     "brand": "Cymbal セレクト",
+     "size": "0.1g単位",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック アナログ キッチンスケール 最大1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "最大1kg",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_kitchen_scale_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "樹脂・ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_nabeshiki",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "鍋敷き"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋料理",
+    "土鍋",
+    "グラタン",
+    "食卓"
+   ],
+   "tax_rate": 10,
+   "description": "熱い土鍋やフライパンをそのまま食卓に置ける鍋敷き。天然木やコルク、折りたためるシリコン製など、お部屋の雰囲気に合わせて選べます。鍋の季節には複数枚あると便利。テーブルを熱や傷から守ります。",
+   "image_brief": "A round natural wood trivet, a square cork trivet and a flexible gray silicone trivet arranged on a plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 天然木 鍋敷き 丸型 直径20cm",
+     "brand": "ハルノキ工房",
+     "size": "直径20cm",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 コルク 鍋敷き 2枚組 直径19cm",
+     "brand": "ハルノキ工房",
+     "size": "直径19cm",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン 鍋敷き 20×20cm グレー",
+     "brand": "Cymbal Home",
+     "size": "20×20cm グレー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 竹編み 鍋敷き 直径23cm",
+     "brand": "ハルノキ工房",
+     "size": "直径23cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_nabeshiki_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "天然木"
+   }
+  },
+  {
+   "base_id": "w_kitchen_mitten",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ミトン・鍋つかみ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "オーブン料理",
+    "グラタン",
+    "鍋料理",
+    "パン作り"
+   ],
+   "tax_rate": 10,
+   "description": "熱い鍋やオーブンの天板もしっかりつかめるミトンと鍋つかみ。綿の厚手キルティングで熱を通しにくく、シリコンのすべり止め付き。コンパクトなシリコンつかみは土鍋の取っ手を持つのに重宝します。",
+   "image_brief": "A quilted beige cotton oven mitt and a pair of small red silicone pot holders, flat-lay on a plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home すべり止め付き ミトン ベージュ",
+     "brand": "Cymbal Home",
+     "size": "ベージュ",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home すべり止め付き ミトン 2枚組 グレー",
+     "brand": "Cymbal Home",
+     "size": "グレー",
+     "price_tax_excluded": 1180,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン 鍋つかみ 2個組 レッド",
+     "brand": "Cymbal Home",
+     "size": "レッド",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home キルティング 鍋つかみ 角型 ネイビー",
+     "brand": "Cymbal Home",
+     "size": "ネイビー",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_mitten_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿・シリコン"
+   }
+  },
+  {
+   "base_id": "w_kitchen_fukin",
+   "category_path": [
+    "キッチン・調理器具",
+    "キッチンツール",
+    "ふきん"
+   ],
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "食器拭き",
+    "台拭き",
+    "年末大掃除",
+    "野菜の水切り"
+   ],
+   "tax_rate": 10,
+   "description": "吸水性と速乾性に優れた蚊帳織りふきん。使うほどやわらかくなり、食器拭きから台拭きまで活躍します。乾きやすく衛生的なマイクロファイバーふきんや、年末の新調にぴったりのまとめ買いセットも。",
+   "image_brief": "A neat stack of folded white woven gauze kitchen cloths tied with a plain paper band, beside colorful folded microfiber cloths.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 蚊帳織り ふきん 2枚入",
+     "brand": "ハルノキ工房",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 蚊帳織り ふきん 5枚入",
+     "brand": "ハルノキ工房",
+     "size": "5枚入",
+     "price_tax_excluded": 1080,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home マイクロファイバー ふきん 5枚入",
+     "brand": "Cymbal Home",
+     "size": "5枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 綿 ふきん 10枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚入",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 抗菌 台ふきん 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_fukin_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿"
+   }
+  },
+  {
+   "base_id": "w_kitchen_enamel_container",
+   "category_path": [
+    "キッチン・調理器具",
+    "保存容器",
+    "ホーロー保存容器"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "作り置き",
+    "漬物",
+    "カレー",
+    "マリネ"
+   ],
+   "tax_rate": 10,
+   "description": "においや色移りがしにくいホーロー保存容器。作り置きのおかずをそのまま直火やオーブンで温め直せます。密閉蓋付きで冷蔵・冷凍保存にも。白い器は清潔感があり、食卓にそのまま出しても映えます。",
+   "image_brief": "Rectangular glossy white enamel food storage containers with tight-fitting white plastic lids, stacked in two sizes, plain background.",
+   "labels": [
+    "直火対応",
+    "オーブン対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 ホーロー保存容器 深型 S 約0.5L",
+     "brand": "ハルノキ工房",
+     "size": "S 約0.5L",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー保存容器 深型 M 約1.0L",
+     "brand": "ハルノキ工房",
+     "size": "M 約1.0L",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー保存容器 深型 L 約2.0L",
+     "brand": "ハルノキ工房",
+     "size": "L 約2.0L",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 ホーロー保存容器 3サイズセット S/M/L",
+     "brand": "ハルノキ工房",
+     "size": "S/M/L",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ホーロー ストッカー 丸型 1.2L",
+     "brand": "Cymbal Home",
+     "size": "1.2L",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_enamel_container_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ホーロー・ポリエチレン（蓋）",
+    "color": "ホワイト"
+   }
+  },
+  {
+   "base_id": "w_kitchen_canister",
+   "category_path": [
+    "キッチン・調理器具",
+    "保存容器",
+    "密閉キャニスター・米びつ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "新米の保存",
+    "パスタ",
+    "コーヒー豆",
+    "粉物"
+   ],
+   "tax_rate": 10,
+   "description": "パッキン付きで湿気を防ぐ密閉キャニスター。中身が見えるクリア容器で、乾物やパスタ、粉物をすっきり整理できます。計量カップ付きのスリム米びつは冷蔵庫にも収まり、新米をおいしく保管できます。",
+   "image_brief": "Clear rectangular plastic airtight canisters with white flip-lock lids in several heights, plus a slim white rice storage box with a measuring cup.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home パッキン付き 密閉キャニスター 1.0L",
+     "brand": "Cymbal Home",
+     "size": "1.0L",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home パッキン付き 密閉キャニスター パスタ用 1.8L",
+     "brand": "Cymbal Home",
+     "size": "1.8L",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 冷蔵庫用 スリム米びつ 計量カップ付き 5kg",
+     "brand": "Cymbal Home",
+     "size": "5kg",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 冷蔵庫用 スリム米びつ 計量カップ付き 2kg",
+     "brand": "Cymbal Home",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ガラス キャニスター 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_canister_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "AS樹脂・シリコン（パッキン）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_magewappa_bento",
+   "category_path": [
+    "キッチン・調理器具",
+    "お弁当箱・水筒",
+    "お弁当箱"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おにぎり",
+    "ピクニック"
+   ],
+   "tax_rate": 10,
+   "description": "杉の香りがやさしい曲げわっぱ風のお弁当箱。木がごはんの余分な水分を吸うので、冷めてもおいしく食べられます。ウレタン塗装でお手入れも簡単。小判型と丸型、仕切り付きもあり、大人のお弁当にぴったりです。",
+   "image_brief": "An oval Japanese bent-wood lunch box made of light cedar with a matching lid and a thin bark seam, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 曲げわっぱ風 お弁当箱 小判型 500ml",
+     "brand": "ハルノキ工房",
+     "size": "500ml",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 曲げわっぱ風 お弁当箱 小判型 650ml",
+     "brand": "ハルノキ工房",
+     "size": "650ml",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 曲げわっぱ風 お弁当箱 丸型 仕切り付き 550ml",
+     "brand": "ハルノキ工房",
+     "size": "550ml",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 木目調 弁当箱 1段 450ml",
+     "brand": "Cymbal Home",
+     "size": "450ml",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_magewappa_bento_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "杉（ウレタン塗装）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_soup_jar",
+   "category_path": [
+    "キッチン・調理器具",
+    "お弁当箱・水筒",
+    "スープジャー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スープ",
+    "豚汁",
+    "おかゆ",
+    "シチュー",
+    "温かいランチ"
+   ],
+   "tax_rate": 10,
+   "description": "温かいスープやおかゆを昼まで保温できる真空断熱スープジャー。保冷にも対応し、夏は冷たいデザートやサラダにも。広口で具材を入れやすく、洗いやすいのが魅力。寒い季節のランチをほっこり温かく。",
+   "image_brief": "A cylindrical stainless steel food jar with a wide screw lid in a matte pastel color, shown with its lid slightly beside it, plain background.",
+   "labels": [
+    "保温・保冷"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 真空断熱 スープジャー 300ml ベージュ",
+     "brand": "Cymbal Home",
+     "size": "300ml ベージュ",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 真空断熱 スープジャー 400ml ネイビー",
+     "brand": "Cymbal Home",
+     "size": "400ml ネイビー",
+     "price_tax_excluded": 2280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 真空断熱 スープジャー 500ml ブラック",
+     "brand": "Cymbal Home",
+     "size": "500ml ブラック",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 真空断熱 スープジャー ポーチ付き 380ml",
+     "brand": "Cymbal セレクト",
+     "size": "380ml",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_soup_jar_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス",
+    "capacity": "300ml"
+   }
+  },
+  {
+   "base_id": "w_kitchen_tumbler",
+   "category_path": [
+    "キッチン・調理器具",
+    "お弁当箱・水筒",
+    "タンブラー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コーヒー",
+    "ビール",
+    "ハイボール",
+    "アイスティー"
+   ],
+   "tax_rate": 10,
+   "description": "真空二重構造で温かい飲み物は冷めにくく、冷たい飲み物は結露しにくいステンレスタンブラー。デスクやリビングで使いやすく、ビールの泡もきめ細かく楽しめます。蓋付きタイプは持ち歩きにも便利です。",
+   "image_brief": "A matte stainless steel vacuum tumbler with a clear sip lid, beside a polished stainless tumbler without lid, plain white background.",
+   "labels": [
+    "保温・保冷"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 真空断熱 タンブラー 420ml シルバー",
+     "brand": "Cymbal Home",
+     "size": "420ml シルバー",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 真空断熱 タンブラー 蓋付き 500ml マットブラック",
+     "brand": "Cymbal Home",
+     "size": "500ml マットブラック",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 真空断熱 タンブラー 2個セット 300ml",
+     "brand": "Cymbal Home",
+     "size": "300ml",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 真空断熱 ビアタンブラー 450ml",
+     "brand": "Cymbal セレクト",
+     "size": "450ml",
+     "price_tax_excluded": 2480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレス タンブラー 350ml",
+     "brand": "Cymbal ベーシック",
+     "size": "350ml",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_tumbler_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_shiruwan",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "汁椀"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "お雑煮",
+    "けんちん汁"
+   ],
+   "tax_rate": 10,
+   "description": "手にしっくりなじむ木製の汁椀。軽くて熱が伝わりにくいので、熱々の味噌汁や豚汁も持ちやすく、口当たりもやさしい器です。年末年始のお雑煮にぴったりの朱塗りや、食洗機対応の樹脂製も揃えました。",
+   "image_brief": "A glossy round wooden soup bowl with deep red lacquer finish beside a dark brown wood-grain bowl, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 天然木 汁椀 11.5cm 溜",
+     "brand": "ハルノキ工房",
+     "size": "11.5cm 溜",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 天然木 汁椀 11.5cm 朱",
+     "brand": "ハルノキ工房",
+     "size": "11.5cm 朱",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 天然木 雑煮椀 蓋付き 12cm 朱",
+     "brand": "ハルノキ工房",
+     "size": "12cm 朱",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 食洗機対応 木目汁椀 11cm ブラウン",
+     "brand": "Cymbal Home",
+     "size": "11cm ブラウン",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 食洗機対応 木目汁椀 2個組 11cm 黒・朱",
+     "brand": "Cymbal Home",
+     "size": "11cm 黒・朱",
+     "price_tax_excluded": 898,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_shiruwan_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "天然木（ウレタン塗装）"
+   }
+  },
+  {
+   "base_id": "w_kitchen_plate",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "お皿"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "ワンプレート",
+    "おかず",
+    "取り分け"
+   ],
+   "tax_rate": 10,
+   "description": "どんな料理にも合わせやすいシンプルな美濃焼の丸皿。和洋中を問わず使え、重ねてもかさばりにくい形です。食洗機や電子レンジにも対応し、毎日気兼ねなく使えます。サイズ違いで揃えるのもおすすめ。",
+   "image_brief": "A stack of plain round white porcelain plates with slightly raised rims in different sizes, plus one plate in pale gray, plain background.",
+   "labels": [
+    "食洗機対応",
+    "電子レンジ対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 美濃焼 リム丸皿 16cm ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "16cm ホワイト",
+     "price_tax_excluded": 598,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 リム丸皿 21cm ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "21cm ホワイト",
+     "price_tax_excluded": 880,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 リム丸皿 26cm ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "26cm ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 リム丸皿 21cm グレー",
+     "brand": "ハルノキ工房",
+     "size": "21cm グレー",
+     "price_tax_excluded": 880,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "Cymbal ベーシック 白い丸皿 5枚組 19cm",
+     "brand": "Cymbal ベーシック",
+     "size": "19cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_plate_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "磁器",
+    "color": "ホワイト"
+   }
+  },
+  {
+   "base_id": "w_kitchen_pasta_curry_plate",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "カレー皿・パスタ皿"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "パスタ",
+    "シチュー",
+    "オムライス"
+   ],
+   "tax_rate": 10,
+   "description": "適度な深さでソースやルウがこぼれにくい、カレー・パスタ兼用の深皿。白い磁器は料理の色を引き立て、北欧風のくすみカラーもおしゃれ。家族分を揃えやすい価格のセットもご用意しました。",
+   "image_brief": "A wide shallow white porcelain pasta and curry bowl-plate, next to one in dusty blue glaze, three-quarter angle, white background.",
+   "labels": [
+    "食洗機対応",
+    "電子レンジ対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 美濃焼 カレー・パスタ皿 23cm ホワイト",
+     "brand": "ハルノキ工房",
+     "size": "23cm ホワイト",
+     "price_tax_excluded": 980,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 カレー・パスタ皿 23cm くすみブルー",
+     "brand": "ハルノキ工房",
+     "size": "23cm くすみブルー",
+     "price_tax_excluded": 1180,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "Cymbal Home カレー皿 4枚組 22cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "22cm ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 楕円 カレー皿 26cm",
+     "brand": "Cymbal Home",
+     "size": "26cm",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_pasta_curry_plate_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "磁器"
+   }
+  },
+  {
+   "base_id": "w_kitchen_kobachi_torizara",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "小鉢・取り鉢"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋の取り分け",
+    "おひたし",
+    "冷奴",
+    "和え物",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 10,
+   "description": "鍋料理の取り分けにぴったりのとんすいや、副菜を盛るのに便利な小鉢。手に持ちやすい形で、汁気のある料理もこぼれにくくなっています。家族や来客用に揃えやすい5個組や、れんげとのセットも。",
+   "image_brief": "A set of small Japanese porcelain bowls with indigo brush patterns including handled tonsui serving bowls and a ceramic spoon, white background.",
+   "labels": [
+    "食洗機対応",
+    "電子レンジ対応"
+   ],
+   "variants": [
+    {
+     "title": "ハルノキ工房 美濃焼 とんすい 藍 1個",
+     "brand": "ハルノキ工房",
+     "size": "藍 1個",
+     "price_tax_excluded": 398,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 とんすい 5個組 藍・刷毛目",
+     "brand": "ハルノキ工房",
+     "size": "藍・刷毛目",
+     "price_tax_excluded": 1780,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 小鉢 5個組 10cm",
+     "brand": "ハルノキ工房",
+     "size": "10cm",
+     "price_tax_excluded": 1480,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "Cymbal Home とんすい・れんげ セット 4組",
+     "brand": "Cymbal Home",
+     "size": "4組",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 白い小鉢 5個組 9.5cm",
+     "brand": "Cymbal ベーシック",
+     "size": "9.5cm",
+     "price_tax_excluded": 680,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_kobachi_torizara_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "磁器"
+   }
+  },
+  {
+   "base_id": "w_kitchen_yunomi_kyusu",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "湯呑み・急須"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "緑茶",
+    "ほうじ茶",
+    "来客",
+    "団らん"
+   ],
+   "tax_rate": 10,
+   "description": "温かいお茶がおいしい季節に、急須と湯呑みを。茶こし付きの急須は茶葉がよく開き、香り高く淹れられます。手になじむ湯呑みは保温性があり、毎日のお茶の時間がほっとするひとときに。",
+   "image_brief": "A round brown ceramic teapot with a side handle next to two cylindrical Japanese teacups in muted glaze, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カマド舎 萬古焼 急須 茶こし付き 350ml",
+     "brand": "カマド舎",
+     "size": "350ml",
+     "price_tax_excluded": 1980,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "カマド舎 萬古焼 急須 茶こし付き 500ml",
+     "brand": "カマド舎",
+     "size": "500ml",
+     "price_tax_excluded": 2480,
+     "origin": "日本製（三重県・萬古焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 湯呑み 200ml 白",
+     "brand": "ハルノキ工房",
+     "size": "200ml 白",
+     "price_tax_excluded": 598,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "ハルノキ工房 美濃焼 湯呑み 夫婦セット 大・小",
+     "brand": "ハルノキ工房",
+     "size": "大・小",
+     "price_tax_excluded": 1480,
+     "origin": "日本製（岐阜県・美濃焼）"
+    },
+    {
+     "title": "Cymbal Home 耐熱ガラス 急須 450ml",
+     "brand": "Cymbal Home",
+     "size": "450ml",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_yunomi_kyusu_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "陶器"
+   }
+  },
+  {
+   "base_id": "w_kitchen_glass",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "グラス"
+   ],
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "ビール",
+    "ハイボール",
+    "ワイン",
+    "ジュース",
+    "年末の集まり"
+   ],
+   "tax_rate": 10,
+   "description": "毎日の飲み物から晩酌まで使いやすいガラス食器。シンプルなタンブラーグラスは重ねて収納でき、食洗機にも対応。脚付きのワイングラスやビールグラスは、年末年始の集まりやパーティーを華やかに演出します。",
+   "image_brief": "A group of clear glassware: a straight tumbler, a thin-stemmed wine glass and a tall beer glass, lined up on a plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "ミナモ硝子 タンブラーグラス 300ml 6個組",
+     "brand": "ミナモ硝子",
+     "size": "300ml 6個組",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 スタッキング グラス 250ml 3個組",
+     "brand": "ミナモ硝子",
+     "size": "250ml 3個組",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 ワイングラス 350ml 2脚組",
+     "brand": "ミナモ硝子",
+     "size": "350ml 2脚組",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 極薄 ビールグラス 400ml",
+     "brand": "ミナモ硝子",
+     "size": "400ml",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 強化ガラス コップ 270ml 3個組",
+     "brand": "Cymbal ベーシック",
+     "size": "270ml 3個組",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_glass_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ガラス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_ohashi",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "お箸"
+   ],
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "毎日の食事",
+    "お正月",
+    "来客",
+    "お弁当"
+   ],
+   "tax_rate": 10,
+   "description": "持ちやすい八角形の天然木のお箸。先端に滑り止め加工があり、麺や豆もつかみやすく仕上げています。家族それぞれの色を選べる5膳セットや、お正月の祝い箸、食洗機対応の樹脂箸も揃えました。",
+   "image_brief": "Several pairs of wooden chopsticks in different natural lacquer colors arranged in a fan, with a plain paper-wrapped pair of celebration chopsticks.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルノキ工房 天然木 八角箸 23cm",
+     "brand": "ハルノキ工房",
+     "size": "23cm",
+     "price_tax_excluded": 498,
+     "origin": "日本製"
+    },
+    {
+     "title": "ハルノキ工房 天然木 八角箸 5膳組 22.5cm",
+     "brand": "ハルノキ工房",
+     "size": "22.5cm",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 食洗機対応 すべり止め箸 5膳組 23cm",
+     "brand": "Cymbal Home",
+     "size": "23cm",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルノキ工房 柳 祝い箸 5膳入 24cm",
+     "brand": "ハルノキ工房",
+     "size": "24cm",
+     "price_tax_excluded": 298,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 子ども用 すべり止め箸 18cm",
+     "brand": "Cymbal Home",
+     "size": "18cm",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_ohashi_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "天然木"
+   }
+  },
+  {
+   "base_id": "w_kitchen_stainless_cutlery",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "カトラリー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "パスタ",
+    "デザート",
+    "朝食"
+   ],
+   "tax_rate": 10,
+   "description": "シンプルで飽きのこないステンレスのカトラリー。程よい重みで手になじみ、和洋どちらの料理にも合わせやすいデザインです。食洗機対応でお手入れも楽。カレースプーンやデザートフォークを単品・セットで。",
+   "image_brief": "Polished stainless steel cutlery set of spoons, forks and knives arranged in neat rows on a plain white background.",
+   "labels": [
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 18-8ステンレス カレースプーン 19cm 5本組",
+     "brand": "Cymbal Home",
+     "size": "19cm 5本組",
+     "price_tax_excluded": 980,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 18-8ステンレス ディナーフォーク 19cm 5本組",
+     "brand": "Cymbal Home",
+     "size": "19cm 5本組",
+     "price_tax_excluded": 980,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 18-8ステンレス デザートスプーン 15cm 5本組",
+     "brand": "Cymbal Home",
+     "size": "15cm 5本組",
+     "price_tax_excluded": 798,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal Home 18-8ステンレス カトラリー 20本セット 4人用",
+     "brand": "Cymbal Home",
+     "size": "4人用",
+     "price_tax_excluded": 3480,
+     "origin": "日本製（新潟県燕市）"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレス ティースプーン 13cm 10本組",
+     "brand": "Cymbal ベーシック",
+     "size": "13cm 10本組",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_stainless_cutlery_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ステンレス"
+   }
+  },
+  {
+   "base_id": "w_kitchen_glass_mug",
+   "category_path": [
+    "キッチン・調理器具",
+    "食器・カトラリー",
+    "耐熱ガラスマグ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットミルク",
+    "紅茶",
+    "ハーブティー",
+    "ホットワイン"
+   ],
+   "tax_rate": 10,
+   "description": "温かい飲み物の色がきれいに映える耐熱ガラスのマグ。電子レンジでそのまま温められます。二重構造のダブルウォールグラスは手に熱が伝わりにくく、保温性も高めです。冬のおうちカフェタイムに。",
+   "image_brief": "A clear heat-resistant glass mug with handle filled with amber tea, next to a double-walled clear glass cup, plain white background.",
+   "labels": [
+    "電子レンジ対応",
+    "食洗機対応"
+   ],
+   "variants": [
+    {
+     "title": "ミナモ硝子 耐熱ガラス マグ 300ml",
+     "brand": "ミナモ硝子",
+     "size": "300ml",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 耐熱ガラス マグ 2個組 300ml",
+     "brand": "ミナモ硝子",
+     "size": "300ml",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 ダブルウォール グラス 250ml",
+     "brand": "ミナモ硝子",
+     "size": "250ml",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "ミナモ硝子 ダブルウォール グラス 350ml",
+     "brand": "ミナモ硝子",
+     "size": "350ml",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_kitchen_glass_mug_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "耐熱ガラス"
+   }
+  }
+ ]
+}

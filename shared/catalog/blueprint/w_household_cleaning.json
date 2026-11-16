@@ -1,0 +1,4322 @@
+{
+ "category_key": "w_household_cleaning",
+ "items": [
+  {
+   "base_id": "w_household_cleaning_heyaboshi_liquid",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯用洗剤（液体）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    6
+   ],
+   "dishes": [
+    "部屋干し",
+    "タオルの洗濯",
+    "毎日の洗濯",
+    "梅雨どきの洗濯"
+   ],
+   "tax_rate": 10,
+   "description": "部屋干しでも気になるニオイを抑える抗菌処方の液体洗濯洗剤です。梅雨や冬場の室内干しが多いご家庭に。すすぎ1回にも対応し、節水・時短にも役立ちます。本体と詰替、大容量をご用意しました。",
+   "image_brief": "A tall translucent blue plastic bottle of liquid laundry detergent with a measuring cap and a plain white blank label, beside a matching soft refill pouch, studio packshot.",
+   "labels": [
+    "すすぎ1回",
+    "部屋干し"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 部屋干し 抗菌 液体洗濯洗剤 本体 850g",
+     "brand": "Cymbal Home",
+     "size": "850g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 部屋干し 抗菌 液体洗濯洗剤 詰替 720g",
+     "brand": "Cymbal Home",
+     "size": "720g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 部屋干し 抗菌 液体洗濯洗剤 詰替 特大 1.53kg",
+     "brand": "Cymbal Home",
+     "size": "1.53kg",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 部屋干し 液体洗濯洗剤 詰替 1.2kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.2kg",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 部屋干し プレミアム 液体洗濯洗剤 本体 750g",
+     "brand": "Cymbal セレクト",
+     "size": "750g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 室内干しクリア 液体洗剤 詰替 900g",
+     "brand": "ピカリエ",
+     "size": "900g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_heyaboshi_liquid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_ultra_concentrate_liquid",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯用洗剤（液体）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の洗濯",
+    "ワイシャツの洗濯",
+    "まとめ洗い"
+   ],
+   "tax_rate": 10,
+   "description": "少量でしっかり洗える超濃縮タイプの液体洗剤。コンパクトなボトルで置き場所を取らず、ワンプッシュ計量で手軽に使えます。皮脂汚れやえり・そで口の黄ばみにもアプローチします。",
+   "image_brief": "A compact white plastic bottle with a green pump top for ultra-concentrated laundry detergent, plain blank label, next to a slim stand-up refill pouch, studio packshot.",
+   "labels": [
+    "濃縮",
+    "すすぎ1回"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 超濃縮 液体洗濯洗剤 ワンプッシュ 本体 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 超濃縮 液体洗濯洗剤 詰替 320g",
+     "brand": "Cymbal Home",
+     "size": "320g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 超濃縮 液体洗濯洗剤 詰替 超特大 1.16kg",
+     "brand": "Cymbal Home",
+     "size": "1.16kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 超濃縮 液体洗濯洗剤 フレッシュグリーン 本体 380g",
+     "brand": "Cymbal セレクト",
+     "size": "380g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 超濃縮 液体洗濯洗剤 フレッシュグリーン 詰替 680g",
+     "brand": "Cymbal セレクト",
+     "size": "680g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_ultra_concentrate_liquid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_plant_based_liquid",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯用洗剤（液体）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "赤ちゃんの肌着",
+    "タオルの洗濯",
+    "敏感肌の方の洗濯"
+   ],
+   "tax_rate": 10,
+   "description": "植物由来の洗浄成分を中心に仕上げた、肌あたりのやさしい液体洗濯洗剤です。無香料・無着色で、赤ちゃんの肌着やタオルの洗濯にも使いやすく、香りが苦手な方にもおすすめです。",
+   "image_brief": "A soft beige plastic bottle with a wooden-look cap for plant-based laundry detergent, plain kraft-colored blank label, with a few green leaves nearby, studio packshot.",
+   "labels": [
+    "無香料",
+    "無着色"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 植物由来 液体洗濯洗剤 無香料 本体 800ml",
+     "brand": "Cymbal オーガニック",
+     "size": "800ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 植物由来 液体洗濯洗剤 無香料 詰替 700ml",
+     "brand": "Cymbal オーガニック",
+     "size": "700ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリノアワ やさしい洗濯洗剤 無添加 本体 1L",
+     "brand": "モリノアワ",
+     "size": "1L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリノアワ やさしい洗濯洗剤 無添加 詰替 900ml",
+     "brand": "モリノアワ",
+     "size": "900ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト ベビー肌着用 液体洗剤 800ml",
+     "brand": "ナチュレクト",
+     "size": "800ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_plant_based_liquid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_powder_antibac",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯用洗剤（粉末）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "泥汚れの洗濯",
+    "運動着",
+    "靴下",
+    "まとめ洗い"
+   ],
+   "tax_rate": 10,
+   "description": "酵素と漂白成分を配合した抗菌タイプの粉末洗剤。泥汚れや食べこぼしに強く、運動着や靴下の洗濯に頼れます。計量スプーン付きの箱タイプで、徳用サイズはまとめ洗いにも便利です。",
+   "image_brief": "A sturdy rectangular cardboard box of powdered laundry detergent with a carry handle, plain white and sky-blue blank design, a small plastic scoop resting in front, studio packshot.",
+   "labels": [
+    "抗菌"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 酵素パワー 抗菌 粉末洗濯洗剤 0.9kg",
+     "brand": "Cymbal Home",
+     "size": "0.9kg",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 酵素パワー 抗菌 粉末洗濯洗剤 徳用 1.7kg",
+     "brand": "Cymbal Home",
+     "size": "1.7kg",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 粉末洗濯洗剤 計量スプーン付 2.0kg",
+     "brand": "Cymbal ベーシック",
+     "size": "2.0kg",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 除菌プラス 粉末洗濯洗剤 1.0kg",
+     "brand": "Cymbal セレクト",
+     "size": "1.0kg",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シャボン舎 せっけん 粉末洗濯洗剤 2.1kg",
+     "brand": "シャボン舎",
+     "size": "2.1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_powder_antibac_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_gelball_strong",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯用洗剤（ジェルボール）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の洗濯",
+    "部屋干し",
+    "スポーツウェア"
+   ],
+   "tax_rate": 10,
+   "description": "3層ジェルに洗浄・消臭・抗菌成分を閉じ込めた、ワンランク上のジェルボール。洗濯機に1個入れるだけで計量いらず。部屋干し臭や汗のニオイが気になる衣類におすすめです。チャイルドロック容器入り。",
+   "image_brief": "A clear plastic tub with a child-safe lid filled with tri-color blue, white and green laundry gel pods, plain blank label, studio packshot.",
+   "labels": [
+    "計量いらず"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 3層ジェルボール 消臭プラス 本体 11個入",
+     "brand": "Cymbal セレクト",
+     "size": "11個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 3層ジェルボール 消臭プラス 詰替 30個入",
+     "brand": "Cymbal セレクト",
+     "size": "30個入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 3層ジェルボール 消臭プラス 詰替 メガ 50個入",
+     "brand": "Cymbal セレクト",
+     "size": "50個入",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ジェルボール フローラルソープ 詰替 22個入",
+     "brand": "ピカリエ",
+     "size": "22個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ジェルボール 無香料 詰替 22個入",
+     "brand": "ピカリエ",
+     "size": "22個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_gelball_strong_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_softener_aroma",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "柔軟剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "タオルの仕上げ",
+    "ニットの静電気対策",
+    "香りづけ"
+   ],
+   "tax_rate": 10,
+   "description": "ふんわり仕上げと長続きする香りが魅力の柔軟剤シリーズ。ホワイトムスク、ピュアソープ、ローズガーデン、シトラスリーフなど香り違いで選べます。静電気を抑え、冬のニット類にもおすすめです。",
+   "image_brief": "A row of rounded pastel plastic softener bottles in pink, white, lilac and pale green with plain blank labels, studio packshot.",
+   "labels": [
+    "静電気防止"
+   ],
+   "variants": [
+    {
+     "title": "フワリラボ 柔軟剤 ホワイトムスクの香り 本体 530ml",
+     "brand": "フワリラボ",
+     "size": "530ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 柔軟剤 ホワイトムスクの香り 詰替 430ml",
+     "brand": "フワリラボ",
+     "size": "430ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 柔軟剤 ピュアソープの香り 詰替 430ml",
+     "brand": "フワリラボ",
+     "size": "430ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 柔軟剤 ローズガーデンの香り 詰替 430ml",
+     "brand": "フワリラボ",
+     "size": "430ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 柔軟剤 シトラスリーフの香り 詰替 430ml",
+     "brand": "フワリラボ",
+     "size": "430ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 柔軟剤 ホワイトムスクの香り 詰替 特大 1.2L",
+     "brand": "フワリラボ",
+     "size": "1.2L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_softener_aroma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_softener_unscented",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "柔軟剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "タオルの仕上げ",
+    "肌着",
+    "香りが苦手な方の洗濯"
+   ],
+   "tax_rate": 10,
+   "description": "香りを残さない無香料タイプの柔軟剤です。タオルをふっくら、衣類をなめらかに仕上げ、香水やほかの香りを邪魔しません。職場や食事の場でも気兼ねなく使えます。大容量の詰替もご用意しています。",
+   "image_brief": "A plain white rounded softener bottle with a light grey cap and a blank label, next to a white refill pouch, minimalist studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 柔軟剤 無香料 本体 570ml",
+     "brand": "Cymbal Home",
+     "size": "570ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 柔軟剤 無香料 詰替 480ml",
+     "brand": "Cymbal Home",
+     "size": "480ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 柔軟剤 無香料 詰替 特大 1.3L",
+     "brand": "Cymbal Home",
+     "size": "1.3L",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 柔軟剤 微香 詰替 1.0L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.0L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 植物由来 柔軟剤 無香料 本体 500ml",
+     "brand": "Cymbal オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_softener_unscented_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_scent_beads",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "香りづけ剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "香りづけ",
+    "タオル",
+    "寝具の洗濯"
+   ],
+   "tax_rate": 10,
+   "description": "洗濯機に洗剤と一緒に入れるだけで、衣類に香りをプラスできる香りビーズ。柔軟剤とは別に香りの強さを調整できます。フレッシュサボン、ベリーブーケ、ウォームアンバーの3種類。",
+   "image_brief": "A clear plastic bottle with a large measuring cap filled with small pastel-colored scent beads, plain blank label, a few beads scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フワリラボ 香りビーズ フレッシュサボン 本体 470ml",
+     "brand": "フワリラボ",
+     "size": "470ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 香りビーズ フレッシュサボン 詰替 455ml",
+     "brand": "フワリラボ",
+     "size": "455ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 香りビーズ ベリーブーケ 詰替 455ml",
+     "brand": "フワリラボ",
+     "size": "455ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 香りビーズ ウォームアンバー 詰替 455ml",
+     "brand": "フワリラボ",
+     "size": "455ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フワリラボ 香りビーズ フレッシュサボン 詰替 特大 805ml",
+     "brand": "フワリラボ",
+     "size": "805ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_scent_beads_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_chlorine_laundry_bleach",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "衣料用漂白剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白物の漂白",
+    "ふきんの除菌",
+    "タオルの黄ばみ落とし"
+   ],
+   "tax_rate": 10,
+   "description": "白物衣料を真っ白に仕上げる塩素系の衣料用漂白剤。ふきんやタオルの除菌・漂白にも使えます。色柄物には使用できません。ほかの洗剤と混ぜないようご注意ください。大容量のお得なパックもあります。",
+   "image_brief": "A white opaque plastic jug with a red child-resistant cap and handle for chlorine laundry bleach, plain blank label, studio packshot.",
+   "labels": [
+    "まぜるな危険"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 塩素系 衣料用漂白剤 600ml",
+     "brand": "Cymbal Home",
+     "size": "600ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 塩素系 衣料用漂白剤 大 1.5L",
+     "brand": "Cymbal Home",
+     "size": "1.5L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩素系 漂白剤 1.5L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.5L",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩素系 漂白剤 2本パック 1.5L×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "1.5L×2本",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ まっしろ 塩素系漂白剤 1.0L",
+     "brand": "ピカリエ",
+     "size": "1.0L",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_chlorine_laundry_bleach_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_oxygen_bleach_powder",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "衣料用漂白剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "つけ置き洗い",
+    "黄ばみ落とし",
+    "水筒の茶渋落とし",
+    "洗濯槽掃除"
+   ],
+   "tax_rate": 10,
+   "description": "粉末タイプの酸素系漂白剤。40〜50℃のお湯に溶かしてつけ置きすれば、黄ばみやくすみ、食べこぼしのシミに効果的です。色柄物にも使え、洗濯槽や水筒のお手入れにも役立ちます。",
+   "image_brief": "A white plastic canister with a blue screw lid and a small scoop for powdered oxygen bleach, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 酸素系漂白剤 粉末 本体 750g",
+     "brand": "Cymbal Home",
+     "size": "750g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 酸素系漂白剤 粉末 詰替 600g",
+     "brand": "Cymbal Home",
+     "size": "600g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 酸素系漂白剤 粉末 酵素配合 1.0kg",
+     "brand": "Cymbal セレクト",
+     "size": "1.0kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 過炭酸ナトリウム 酸素系漂白剤 1kg",
+     "brand": "ナチュレクト",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 過炭酸ナトリウム 酸素系漂白剤 徳用 2kg",
+     "brand": "ナチュレクト",
+     "size": "2kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_oxygen_bleach_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_delicate_wash",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "おしゃれ着洗剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ニットの手洗い",
+    "ウール",
+    "ブラウス",
+    "ドライコース"
+   ],
+   "tax_rate": 10,
+   "description": "ニットやブラウス、ウールなどデリケートな衣類の型崩れ・縮み・色あせを防ぐおしゃれ着用洗剤です。手洗いにも洗濯機のドライコースにも対応。お気に入りの服を自宅で手軽にケアできます。",
+   "image_brief": "A slim lavender plastic bottle with a silver flip cap for delicate-fabric detergent, plain blank label, beside a neatly folded cream knit sweater, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home おしゃれ着洗剤 本体 500ml",
+     "brand": "Cymbal Home",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home おしゃれ着洗剤 詰替 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home おしゃれ着洗剤 詰替 大 810ml",
+     "brand": "Cymbal Home",
+     "size": "810ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト おしゃれ着洗剤 フローラルブーケ 本体 450ml",
+     "brand": "Cymbal セレクト",
+     "size": "450ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シャボン舎 ウール・カシミヤ用 中性洗剤 400ml",
+     "brand": "シャボン舎",
+     "size": "400ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_delicate_wash_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_spot_stain_remover",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "部分洗い剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "えり・そで口",
+    "食べこぼし",
+    "上履き洗い",
+    "泥汚れ"
+   ],
+   "tax_rate": 10,
+   "description": "えり・そで口の皮脂汚れや、食べこぼし、泥汚れを狙って落とす部分洗い剤。ブラシ付きボトルや固形石けん、スプレーなど用途に合わせて選べます。洗濯前にひと手間加えるだけで仕上がりが違います。",
+   "image_brief": "A small white bottle with an angled brush applicator for pre-wash stain remover, next to a pale yellow soap bar and a trigger spray, all with plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home えり・そで用 部分洗い剤 ブラシ付 250g",
+     "brand": "Cymbal Home",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home えり・そで用 部分洗い剤 詰替 230g",
+     "brand": "Cymbal Home",
+     "size": "230g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home シミ取り 部分洗いスプレー 300ml",
+     "brand": "Cymbal Home",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シャボン舎 部分洗い用 固形石けん 110g",
+     "brand": "シャボン舎",
+     "size": "110g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シャボン舎 部分洗い用 固形石けん 3個パック 110g×3個",
+     "brand": "シャボン舎",
+     "size": "110g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 泥汚れ用 部分洗いジェル 200g",
+     "brand": "ピカリエ",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_spot_stain_remover_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_washtub_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯槽クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "洗濯槽の掃除",
+    "大掃除",
+    "月1回のお手入れ"
+   ],
+   "tax_rate": 10,
+   "description": "洗濯槽の裏側にたまる黒カビや石けんカスを落とす洗濯槽クリーナー。塩素系は除菌力重視、酸素系は発泡ではがし落とすタイプです。月1回のお手入れで、洗濯物のニオイ移りを防ぎましょう。",
+   "image_brief": "A white plastic bottle of washing machine drum cleaner and a foil sachet of powder cleaner, both with plain blank labels, beside a front-loading washer door, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗濯槽クリーナー 塩素系 液体 550g",
+     "brand": "Cymbal Home",
+     "size": "550g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 洗濯槽クリーナー 酸素系 粉末 500g",
+     "brand": "Cymbal Home",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 洗濯槽クリーナー 塩素系 2本パック 550g×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "550g×2本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ドラム式対応 洗濯槽クリーナー 750ml",
+     "brand": "Cymbal セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 洗濯槽クリーナー 酸素系 3回分 250g×3包",
+     "brand": "ナチュレクト",
+     "size": "250g×3包",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_washtub_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_laundry_starch_spray",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "仕上げ剤・アイロン用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ワイシャツの仕上げ",
+    "アイロンがけ",
+    "シワ取り",
+    "制服"
+   ],
+   "tax_rate": 10,
+   "description": "ワイシャツやハンカチをパリッと仕上げる洗濯のりと、アイロンがけを楽にするスムーザー、シワを伸ばす衣類用スプレーのラインナップ。忙しい朝の身だしなみをサポートします。",
+   "image_brief": "A white trigger-spray bottle of ironing smoother and a squat bottle of liquid laundry starch with plain blank labels, beside a crisp folded white shirt, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗濯のり 液体 750ml",
+     "brand": "Cymbal Home",
+     "size": "750ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home アイロン用 スムーザー スプレー 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 衣類のシワとりスプレー 本体 300ml",
+     "brand": "Cymbal Home",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 衣類のシワとりスプレー 詰替 250ml",
+     "brand": "Cymbal Home",
+     "size": "250ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト シワとり＆消臭 衣類用ミスト 280ml",
+     "brand": "Cymbal セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_laundry_starch_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_laundry_net",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "洗濯用品",
+    "洗濯ネット"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おしゃれ着",
+    "下着",
+    "シーツ・毛布",
+    "ニット"
+   ],
+   "tax_rate": 10,
+   "description": "衣類の傷みや絡まりを防ぐ洗濯ネット。目の細かいタイプはおしゃれ着や下着に、粗めのタイプは大物衣類に。ファスナーカバー付きで生地を傷めにくい設計です。サイズ違いで揃えると便利です。",
+   "image_brief": "A set of white mesh laundry bags in different sizes with zipper covers, one flat square, one round cylinder and one large rectangle, neatly arranged, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック 洗濯ネット 細目 角型 30×40cm 1枚",
+     "brand": "クリンテック",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 洗濯ネット 粗目 角型 50×60cm 1枚",
+     "brand": "クリンテック",
+     "size": "1枚",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 洗濯ネット 筒型 ブラ用 1枚",
+     "brand": "クリンテック",
+     "size": "1枚",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 洗濯ネット 大物用 70×90cm 1枚",
+     "brand": "クリンテック",
+     "size": "1枚",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗濯ネット 3サイズセット 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_laundry_net_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ポリエステル",
+    "color": "ホワイト"
+   }
+  },
+  {
+   "base_id": "w_household_cleaning_dish_soap_concentrate",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "食器用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食器洗い",
+    "油汚れ",
+    "鍋・フライパン洗い"
+   ],
+   "tax_rate": 10,
+   "description": "少量で泡立ちがよく、ギトギト油汚れもすっきり落とす濃縮タイプの食器用洗剤。速乾ボトルで液だれしにくく、すすぎも早いので水道代の節約にも。微香性で食器にニオイが残りにくいです。",
+   "image_brief": "A slim clear green plastic dish soap bottle with a flip cap, plain blank label, a soft yellow sponge with foam beside it, studio packshot.",
+   "labels": [
+    "濃縮"
+   ],
+   "variants": [
+    {
+     "title": "ピカリエ 濃縮 食器用洗剤 グリーンティー 本体 240ml",
+     "brand": "ピカリエ",
+     "size": "240ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 濃縮 食器用洗剤 グリーンティー 詰替 385ml",
+     "brand": "ピカリエ",
+     "size": "385ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 濃縮 食器用洗剤 グリーンティー 詰替 特大 910ml",
+     "brand": "ピカリエ",
+     "size": "910ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 濃縮 食器用洗剤 微香 詰替 385ml",
+     "brand": "ピカリエ",
+     "size": "385ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 食器用洗剤 レモン 大容量 1.0L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.0L",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dish_soap_concentrate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dish_soap_gentle",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "食器用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "食器洗い",
+    "哺乳びん洗い",
+    "野菜洗い",
+    "手荒れ対策"
+   ],
+   "tax_rate": 10,
+   "description": "手肌へのやさしさを考えた弱酸性の食器用洗剤です。保湿成分を配合し、手荒れが気になる冬場の洗い物にも。植物由来のタイプや無香料など、毎日使うものだから選べるラインナップに。",
+   "image_brief": "A soft pink rounded dish soap bottle with a white cap and a pump-top variant beside it, both with plain blank labels, studio packshot.",
+   "labels": [
+    "弱酸性"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 手肌にやさしい 食器用洗剤 弱酸性 本体 270ml",
+     "brand": "Cymbal Home",
+     "size": "270ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 手肌にやさしい 食器用洗剤 弱酸性 詰替 500ml",
+     "brand": "Cymbal Home",
+     "size": "500ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 植物由来 食器用洗剤 無香料 本体 300ml",
+     "brand": "Cymbal オーガニック",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 植物由来 食器用洗剤 無香料 詰替 500ml",
+     "brand": "Cymbal オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリノアワ 泡で出る 食器用洗剤 ポンプ 300ml",
+     "brand": "モリノアワ",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリノアワ 泡で出る 食器用洗剤 詰替 540ml",
+     "brand": "モリノアワ",
+     "size": "540ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dish_soap_gentle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dishwasher_gel",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "食器洗い乾燥機用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食洗機",
+    "茶渋落とし",
+    "グラスのくもり"
+   ],
+   "tax_rate": 10,
+   "description": "溶け残りの心配が少ないジェルタイプの食洗機用洗剤。酵素の力でこびりついたご飯粒や卵汚れを分解し、茶渋やコップのくもりもすっきり。片手で使えるキャップ付きボトルです。",
+   "image_brief": "A squat translucent orange plastic bottle with a wide flip cap for dishwasher gel detergent, plain blank label, beside sparkling clear glasses, studio packshot.",
+   "labels": [
+    "食洗機専用"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 食洗機用洗剤 ジェル オレンジオイル 本体 480g",
+     "brand": "Cymbal Home",
+     "size": "480g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 食洗機用洗剤 ジェル オレンジオイル 詰替 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 食洗機用洗剤 ジェル 詰替 大 770g",
+     "brand": "Cymbal Home",
+     "size": "770g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 食洗機用 ジェル 除菌プラス 500g",
+     "brand": "ピカリエ",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dishwasher_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dishwasher_tablet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "食器洗い乾燥機用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食洗機",
+    "グラスの輝き",
+    "計量いらず"
+   ],
+   "tax_rate": 10,
+   "description": "1回1個で計量不要のタブレット型食洗機用洗剤。洗浄・すすぎ・輝きの成分が一体になり、グラスもピカピカに。個包装で湿気に強く、ストックしやすいのも魅力です。植物由来の無香料タイプもあります。",
+   "image_brief": "A resealable stand-up pouch of individually wrapped blue-and-white dishwasher tablets with several tablets placed in front, plain blank label, studio packshot.",
+   "labels": [
+    "食洗機専用",
+    "計量いらず"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 食洗機用 タブレット オールインワン 30個入",
+     "brand": "Cymbal セレクト",
+     "size": "30個入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 食洗機用 タブレット オールインワン 60個入",
+     "brand": "Cymbal セレクト",
+     "size": "60個入",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 食洗機用 タブレット 40個入",
+     "brand": "Cymbal Home",
+     "size": "40個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 食洗機用 タブレット 無香料 植物由来 30個入",
+     "brand": "ナチュレクト",
+     "size": "30個入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dishwasher_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dishwasher_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "食洗機クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "食洗機のお手入れ",
+    "大掃除",
+    "水アカ落とし"
+   ],
+   "tax_rate": 10,
+   "description": "食洗機の庫内やノズル、配管にたまった水アカ・油汚れを洗浄する専用クリーナー。空の状態で標準コースを回すだけの簡単お手入れ。クエン酸タイプは白い水アカ汚れに効果的です。",
+   "image_brief": "A small white plastic bottle and a pair of foil sachets of dishwasher machine cleaner with plain blank labels, next to an open dishwasher rack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 食洗機クリーナー 液体 200g",
+     "brand": "Cymbal Home",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 食洗機クリーナー 粉末 2回分 100g×2包",
+     "brand": "Cymbal Home",
+     "size": "100g×2包",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 食洗機クリーナー クエン酸 300g",
+     "brand": "ナチュレクト",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 食洗機 庫内クリーナー 3回分 50g×3包",
+     "brand": "ピカリエ",
+     "size": "50g×3包",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dishwasher_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_kitchen_foam_bleach",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "キッチン用漂白剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "まな板の除菌",
+    "ふきんの漂白",
+    "三角コーナー",
+    "排水口のぬめり"
+   ],
+   "tax_rate": 10,
+   "description": "スプレーするだけで泡が密着し、まな板やふきん、三角コーナーのぬめりや黒ずみを漂白・除菌する泡タイプのキッチン漂白剤。つけ置き不要で、2分ほど置いて流すだけです。",
+   "image_brief": "A white trigger spray bottle with a blue foam nozzle for kitchen foaming bleach, plain blank label, beside a white plastic cutting board, studio packshot.",
+   "labels": [
+    "まぜるな危険"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home キッチン泡漂白スプレー 本体 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home キッチン泡漂白スプレー 付替 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home キッチン泡漂白スプレー 付替 2本パック 400ml×2本",
+     "brand": "Cymbal Home",
+     "size": "400ml×2本",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ キッチン泡ブリーチ 無香料 本体 400ml",
+     "brand": "ピカリエ",
+     "size": "400ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック キッチン泡漂白スプレー 付替 400ml",
+     "brand": "Cymbal ベーシック",
+     "size": "400ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_kitchen_foam_bleach_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_cleanser",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "クレンザー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "シンク磨き",
+    "鍋の焦げ落とし",
+    "五徳掃除",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "細かい研磨粒子でシンクや鍋の焦げつき、五徳の汚れをこすり落とすクレンザー。液体タイプはステンレスにも使いやすく、粉末タイプは頑固な焦げに。キズがつきにくい処方です。",
+   "image_brief": "A squeezable white plastic bottle of cream cleanser and a cylindrical cardboard canister of powder cleanser, both with plain blank labels, beside a shiny steel sink, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home クリームクレンザー 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home クリームクレンザー レモン 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 粉末クレンザー 350g",
+     "brand": "Cymbal Home",
+     "size": "350g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ステンレス用 クリームクレンザー 270g",
+     "brand": "ピカリエ",
+     "size": "270g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 重曹クレンザー 400g",
+     "brand": "ナチュレクト",
+     "size": "400g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_cleanser_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_tea_stain_remover",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "台所用洗剤",
+    "キッチン用漂白剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "茶渋落とし",
+    "水筒の洗浄",
+    "急須",
+    "マグカップ"
+   ],
+   "tax_rate": 10,
+   "description": "マグカップや急須、水筒にこびりついた茶渋・コーヒー渋をつけ置きで落とす酸素系の漂白洗浄剤。ステンレスボトルにも使え、塩素のニオイがしないので食器にも安心して使えます。",
+   "image_brief": "A small white plastic jar with a green lid of oxygen-based tea stain remover powder, plain blank label, next to a stained white mug and a steel water bottle, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 茶渋・水筒用 酸素系洗浄剤 300g",
+     "brand": "Cymbal Home",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 水筒用 洗浄剤 個包装 5g×12包",
+     "brand": "Cymbal Home",
+     "size": "5g×12包",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 茶渋落とし 酸素系 つけ置き 500g",
+     "brand": "ナチュレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ステンレスボトル 洗浄タブレット 16錠",
+     "brand": "ピカリエ",
+     "size": "16錠",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_tea_stain_remover_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bath_foam_spray",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "お風呂用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂掃除",
+    "浴槽洗い",
+    "床の黒ずみ"
+   ],
+   "tax_rate": 10,
+   "description": "スプレーして約1分、流すだけで浴槽の皮脂汚れや床の黒ずみを落とす、こすらないタイプのお風呂用洗剤。除菌・防カビ成分配合で、毎日の掃除時間を短縮できます。詰替や特大サイズも揃えました。",
+   "image_brief": "A large white trigger spray bottle with an aqua blue nozzle for no-scrub bath cleaner, plain blank label, beside a white bathtub edge, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ こすらない お風呂用洗剤 本体 500ml",
+     "brand": "ピカリエ",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ こすらない お風呂用洗剤 付替 400ml",
+     "brand": "ピカリエ",
+     "size": "400ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ こすらない お風呂用洗剤 付替 特大 1.1L",
+     "brand": "ピカリエ",
+     "size": "1.1L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home こすらない お風呂用洗剤 シトラス 付替 450ml",
+     "brand": "Cymbal Home",
+     "size": "450ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お風呂用洗剤 泡スプレー 付替 2本 350ml×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "350ml×2本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bath_foam_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_mold_remover",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "カビ取り剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    6
+   ],
+   "dishes": [
+    "お風呂のカビ取り",
+    "ゴムパッキン",
+    "タイル目地",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "ゴムパッキンやタイル目地の頑固な黒カビに密着して分解するカビ取り剤。ジェルタイプは垂れにくく細かい部分に、スプレーは広い面に。使用時は換気し、ほかの洗剤と混ぜないでください。",
+   "image_brief": "A white trigger spray bottle and a slim gel tube of mold remover, both with plain blank labels and red caps, beside white tiles with grout, studio packshot.",
+   "labels": [
+    "まぜるな危険"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home カビ取り 泡スプレー 本体 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home カビ取り 泡スプレー 付替 400g",
+     "brand": "Cymbal Home",
+     "size": "400g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home カビ取り ジェル 100g",
+     "brand": "Cymbal Home",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 強力カビ取り 泡スプレー 本体 400ml",
+     "brand": "ピカリエ",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ カビ取り 密着ジェル ペンタイプ 60g",
+     "brand": "ピカリエ",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_mold_remover_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bath_anti_mold_smoke",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "カビ取り剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "浴室の防カビ",
+    "カビ予防",
+    "大掃除の仕上げ"
+   ],
+   "tax_rate": 10,
+   "description": "浴室に置いて水を注ぐだけで、銀系抗菌成分の煙が天井や換気扇まで行き渡り、黒カビの原因菌を除菌する防カビくん煙剤。2か月に1回の使用でキレイを長持ちさせます。香りは無香料とフローラルの2種類。",
+   "image_brief": "A small cylindrical white canister with a teal lid for bathroom anti-mold fogger, plain blank label, set on a bathroom floor, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 浴室 防カビ くん煙剤 無香料 1個入",
+     "brand": "Cymbal Home",
+     "size": "1個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 浴室 防カビ くん煙剤 無香料 3個パック 3個入",
+     "brand": "Cymbal Home",
+     "size": "3個入",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 浴室 防カビ くん煙剤 フローラル 1個入",
+     "brand": "ピカリエ",
+     "size": "1個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 浴室 防カビ くん煙剤 フローラル 2個パック 2個入",
+     "brand": "ピカリエ",
+     "size": "2個入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bath_anti_mold_smoke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bath_heater_pipe_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "風呂釜洗浄剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "追いだき配管掃除",
+    "大掃除",
+    "お風呂のお手入れ"
+   ],
+   "tax_rate": 10,
+   "description": "追いだき配管の中にたまった湯アカや皮脂汚れを、発泡の力で浮かせて取り除く風呂釜洗浄剤。1つ穴・2つ穴どちらにも対応。年末の大掃除や季節の変わり目のお手入れに。酸素系の粉末タイプもあります。",
+   "image_brief": "A white cardboard box and a foil pouch of granular bath heater pipe cleaner with plain blank design, beside a bathtub inlet, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 風呂釜洗浄剤 1つ穴・2つ穴用 1回分",
+     "brand": "Cymbal Home",
+     "size": "1回分",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 風呂釜洗浄剤 1つ穴・2つ穴用 3回分 3回分",
+     "brand": "Cymbal Home",
+     "size": "3回分",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 追いだき配管クリーナー 発泡タイプ 350g",
+     "brand": "ピカリエ",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 風呂釜洗い 酸素系 粉末 500g",
+     "brand": "ナチュレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bath_heater_pipe_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_mirror_scale_remover",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "お風呂用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "鏡のウロコ取り",
+    "蛇口磨き",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "浴室の鏡や蛇口にこびりついた白いウロコ状の水アカを落とす専用クリーナー。ダイヤモンド粒子のパッドタイプやクエン酸配合ジェルなど、汚れ具合に合わせて選べます。年末の大掃除にもおすすめです。",
+   "image_brief": "A small squeeze tube of mirror scale remover cream and a compact handheld pad with a grey abrasive face, plain blank packaging, in front of a bathroom mirror, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ 鏡のウロコ取り クリーム 80g",
+     "brand": "ピカリエ",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 鏡のウロコ取り パッド 1個入",
+     "brand": "ピカリエ",
+     "size": "1個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 水アカ落とし クエン酸ジェル 300g",
+     "brand": "Cymbal Home",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ダイヤモンドパッド 水アカ用 2個入",
+     "brand": "クリンテック",
+     "size": "2個入",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_mirror_scale_remover_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_toilet_foam_spray",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "トイレ用洗剤・トイレクリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレ掃除",
+    "便器のフチ裏",
+    "黄ばみ対策"
+   ],
+   "tax_rate": 10,
+   "description": "便器のフチ裏までしっかり届く泡スプレータイプのトイレ用洗剤。黄ばみやニオイの原因菌を除菌し、汚れの再付着を防ぎます。ミントやラベンダーなど爽やかな香りで、トイレ空間もすっきり。",
+   "image_brief": "A white toilet cleaner bottle with an angled blue foam spray nozzle, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ トイレ泡スプレー ミント 本体 380ml",
+     "brand": "ピカリエ",
+     "size": "380ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ トイレ泡スプレー ミント 付替 350ml",
+     "brand": "ピカリエ",
+     "size": "350ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ トイレ泡スプレー ラベンダー 付替 350ml",
+     "brand": "ピカリエ",
+     "size": "350ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレ泡スプレー 除菌 本体 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トイレ泡スプレー 付替 2本 350ml×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "350ml×2本",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_toilet_foam_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_toilet_stamp",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "トイレスタンプ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレの汚れ防止",
+    "トイレの香り",
+    "ながら掃除"
+   ],
+   "tax_rate": 10,
+   "description": "便器の内側にスタンプするだけで、流すたびに洗浄成分と香りが広がり汚れを防ぐジェルスタンプ。約1週間効果が続きます。フラワーやせっけんの香り、無香料からお選びいただけます。",
+   "image_brief": "A clear plastic plunger-style gel stamp applicator holding pale blue gel, with flower-shaped gel stamps shown inside a white toilet bowl, plain blank packaging, studio packshot.",
+   "labels": [
+    "置くだけ"
+   ],
+   "variants": [
+    {
+     "title": "ピカリエ トイレ ジェルスタンプ フラワーの香り 本体 6回分",
+     "brand": "ピカリエ",
+     "size": "6回分",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ トイレ ジェルスタンプ フラワーの香り 付替 2本入",
+     "brand": "ピカリエ",
+     "size": "2本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ トイレ ジェルスタンプ せっけんの香り 付替 2本入",
+     "brand": "ピカリエ",
+     "size": "2本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ トイレ ジェルスタンプ 無香料 付替 2本入",
+     "brand": "ピカリエ",
+     "size": "2本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレ ジェルスタンプ ミント 付替 2本入",
+     "brand": "Cymbal Home",
+     "size": "2本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_toilet_stamp_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_toilet_tank_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "トイレタンク洗浄剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレの汚れ防止",
+    "タンク洗浄",
+    "トイレの香り"
+   ],
+   "tax_rate": 10,
+   "description": "トイレのタンクに入れて流すたびに便器を洗浄するタンク用洗浄剤。青い水で汚れの付着を防ぎ、香りでトイレを快適に。手洗いのない一体型便器でも使える置き型タイプもご用意しました。",
+   "image_brief": "A clear blister pack of blue toilet tank cleaner tablets and a small round dispenser with a blue liquid reservoir, plain blank packaging, studio packshot.",
+   "labels": [
+    "置くだけ"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home トイレタンク 洗浄剤 ブルー 本体 1個入",
+     "brand": "Cymbal Home",
+     "size": "1個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレタンク 洗浄剤 ブルー 付替 3個 3個入",
+     "brand": "Cymbal Home",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トイレタンク 洗浄錠剤 12錠",
+     "brand": "Cymbal ベーシック",
+     "size": "12錠",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 置くだけ トイレ洗浄剤 フローラル 2個入",
+     "brand": "ピカリエ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 置くだけ トイレ洗浄剤 無香料 2個入",
+     "brand": "ピカリエ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_toilet_tank_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_toilet_cleaning_sheet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "トイレ用洗剤・トイレクリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "便座拭き",
+    "トイレの床",
+    "毎日のトイレ掃除"
+   ],
+   "tax_rate": 10,
+   "description": "便座やフタ、床までサッと拭けるトイレ掃除用の流せるシート。使用後はそのままトイレに流せて衛生的。厚手で破れにくく、除菌成分配合です。家族が多いご家庭には大容量の詰替が便利です。",
+   "image_brief": "A soft flexible resealable pouch of flushable toilet cleaning wipes with a plastic lid, plain white and mint blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 流せる トイレクリーナー シート 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 流せる トイレクリーナー シート 詰替 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 流せる トイレクリーナー シート 詰替 3個パック 20枚×3個",
+     "brand": "Cymbal Home",
+     "size": "20枚×3個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 流せる 厚手 トイレクリーナー シート 12枚入",
+     "brand": "Cymbal セレクト",
+     "size": "12枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 流せる トイレクリーナー シート 詰替 40枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "40枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_toilet_cleaning_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_toilet_brush_disposable",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "トイレブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレ掃除",
+    "便器の黒ずみ",
+    "衛生的な掃除"
+   ],
+   "tax_rate": 10,
+   "description": "使い捨てヘッドで便器をこすり、そのまま流せるトイレブラシ。洗剤付きヘッドなのでこするだけで洗浄でき、ブラシを保管する不衛生さがありません。本体と替えヘッドを揃えました。",
+   "image_brief": "A white plastic handle with a detachable blue sponge head for a disposable toilet brush, next to a stand-up pack of replacement heads, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ 流せるトイレブラシ 本体＋替え4個 1セット",
+     "brand": "ピカリエ",
+     "size": "1セット",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 流せるトイレブラシ 替えヘッド 16個入",
+     "brand": "ピカリエ",
+     "size": "16個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 流せるトイレブラシ 替えヘッド 強力 12個入",
+     "brand": "ピカリエ",
+     "size": "12個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック トイレブラシ ケース付き 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック フチ裏用 トイレブラシ 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_toilet_brush_disposable_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_glass_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "ガラスクリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "窓掃除",
+    "鏡磨き",
+    "大掃除",
+    "結露あとの掃除"
+   ],
+   "tax_rate": 10,
+   "description": "窓ガラスや鏡の手あか・水滴跡・くもりを拭きムラなく落とすガラス用クリーナー。泡が垂れにくく、二度拭き不要の速乾タイプ。年末の窓掃除や、車のガラスにも使えます。くもり止め配合タイプもあります。",
+   "image_brief": "A clear blue liquid in a transparent trigger spray bottle of glass cleaner, plain blank label, with a microfiber cloth in front of a gleaming window, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ガラスクリーナー 本体 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ガラスクリーナー 付替 350ml",
+     "brand": "Cymbal Home",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ガラス用 泡クリーナー 二度拭き不要 480ml",
+     "brand": "ピカリエ",
+     "size": "480ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト くもり止め配合 ガラスクリーナー 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ガラスクリーナー 付替 2本 350ml×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "350ml×2本",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_glass_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_multi_surface_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "住まい用マルチクリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "家具の拭き掃除",
+    "ドアノブ",
+    "家電",
+    "スイッチ周り"
+   ],
+   "tax_rate": 10,
+   "description": "キッチンの壁や家具、ドアノブ、家電まで、家じゅうの手あか汚れに使えるマルチクリーナー。中性で素材を傷めにくく、二度拭き不要。一本あれば掃除用品をすっきりまとめられます。",
+   "image_brief": "A white trigger spray bottle with a lime-green nozzle for multi-surface household cleaner, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 住まいのマルチクリーナー 本体 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 住まいのマルチクリーナー 付替 360ml",
+     "brand": "Cymbal Home",
+     "size": "360ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 住まいのマルチクリーナー 付替 大 900ml",
+     "brand": "Cymbal Home",
+     "size": "900ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト アルカリ電解水 マルチクリーナー 本体 500ml",
+     "brand": "ナチュレクト",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト アルカリ電解水 マルチクリーナー 詰替 2L",
+     "brand": "ナチュレクト",
+     "size": "2L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_multi_surface_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_floor_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "床用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "フローリング掃除",
+    "床の拭き掃除",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "フローリングの皮脂汚れやベタつきを落とし、ツヤを与える床用洗剤。水で薄めて拭くだけで素足にさらっと気持ちいい床に。ワックスがけした床にも使えるタイプです。仕上げ用の樹脂ワックスもご用意。",
+   "image_brief": "A squat white plastic bottle with a measuring cap of floor cleaner concentrate, plain blank label, set on a light oak wooden floor, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home フローリング用 床用洗剤 1L",
+     "brand": "Cymbal Home",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フローリング用 床用洗剤 詰替 800ml",
+     "brand": "Cymbal Home",
+     "size": "800ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ツヤ出し 床用クリーナー 1L",
+     "brand": "Cymbal セレクト",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 床用 樹脂ワックス 1L",
+     "brand": "ピカリエ",
+     "size": "1L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_floor_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_range_hood_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "キッチン用クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "換気扇掃除",
+    "コンロ周り",
+    "大掃除",
+    "五徳の油汚れ"
+   ],
+   "tax_rate": 10,
+   "description": "換気扇やレンジフード、コンロ周りにこびりついたベタベタ油汚れを強力に分解する泡スプレー。厚い泡が垂れにくく、時間を置いて拭き取るだけ。年末の大掃除の頼れる一本です。",
+   "image_brief": "A heavy-duty orange trigger spray bottle of degreaser foam, plain blank label, beside a greasy range hood filter, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ 換気扇・レンジフード用 強力泡クリーナー 400ml",
+     "brand": "ピカリエ",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 換気扇・レンジフード用 強力泡クリーナー 付替 400ml",
+     "brand": "ピカリエ",
+     "size": "400ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home つけ置き用 油汚れ洗浄剤 粉末 500g",
+     "brand": "Cymbal Home",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 強力 油汚れクリーナー 泡 付替 400ml",
+     "brand": "Cymbal ベーシック",
+     "size": "400ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_range_hood_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_microwave_cleaner_sheet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "キッチン用クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "電子レンジ掃除",
+    "冷蔵庫の棚",
+    "トースター",
+    "食卓まわり"
+   ],
+   "tax_rate": 10,
+   "description": "電子レンジの庫内やトースター、冷蔵庫の棚をサッと拭けるクリーナーシート。食品成分由来の洗浄成分で、食品まわりにも使いやすい。アルコール不使用タイプもあります。厚手で一枚でもしっかり拭けます。",
+   "image_brief": "A soft resealable pouch of kitchen appliance cleaning wipes with one wipe pulled halfway out, plain white and lemon-yellow blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 電子レンジ・冷蔵庫用 クリーナーシート 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 電子レンジ・冷蔵庫用 クリーナーシート 3個パック 20枚×3個",
+     "brand": "Cymbal Home",
+     "size": "20枚×3個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 食品由来 キッチン拭きシート ノンアルコール 30枚入",
+     "brand": "ナチュレクト",
+     "size": "30枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 キッチンクリーナーシート 重曹配合 24枚入",
+     "brand": "Cymbal セレクト",
+     "size": "24枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_microwave_cleaner_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_range_hood_filter",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "換気扇フィルター"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "換気扇の油汚れ防止",
+    "大掃除の手間減らし"
+   ],
+   "tax_rate": 10,
+   "description": "レンジフードに貼るだけで油汚れをキャッチする換気扇フィルター。こまめに交換すれば本体の大掃除がぐっと楽になります。マグネット枠付きや、カットして使える大判タイプも。",
+   "image_brief": "A stack of white non-woven range hood filter sheets with a thin grey frame on top, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 換気扇フィルター 30×30cm 4枚入",
+     "brand": "Cymbal Home",
+     "size": "4枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 換気扇フィルター 60×90cm 大判 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック レンジフード用 フィルター マグネット枠付 1セット",
+     "brand": "クリンテック",
+     "size": "1セット",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック レンジフード用 フィルター 替え 6枚入",
+     "brand": "クリンテック",
+     "size": "6枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 換気扇フィルター 30×30cm 8枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_range_hood_filter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_pipe_foam_powder",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "パイプクリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "排水口掃除",
+    "パイプの詰まり予防",
+    "洗面台"
+   ],
+   "tax_rate": 10,
+   "description": "粉末を排水口に入れて水を注ぐと、発泡の力で配管内のぬめりや髪の毛汚れを浮かせて落とす酸素系パイプクリーナー。塩素のツンとしたニオイがなく、定期的なお手入れにぴったりです。",
+   "image_brief": "A white plastic pouch of foaming pipe cleaner powder and several single-use stick sachets, plain blank packaging, beside a kitchen sink drain, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナチュレクト 発泡 パイプクリーナー 粉末 500g",
+     "brand": "ナチュレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 発泡 パイプクリーナー 分包 40g×8包",
+     "brand": "ナチュレクト",
+     "size": "40g×8包",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home パイプクリーナー ジェル 強力 1L",
+     "brand": "Cymbal Home",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ パイプクリーナー 髪の毛溶かし ジェル 800ml",
+     "brand": "ピカリエ",
+     "size": "800ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_pipe_foam_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_drain_slime_tablet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "排水口ぬめり取り"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "排水口のぬめり防止",
+    "キッチンのニオイ対策",
+    "浴室の排水口"
+   ],
+   "tax_rate": 10,
+   "description": "排水口のゴミ受けに置くだけで、ぬめりや嫌なニオイを抑える置き型ぬめり取り。銀系抗菌タイプは約1か月効果が持続します。キッチンにもお風呂にも使え、毎日の掃除の手間を減らせます。",
+   "image_brief": "A small round plastic case with a perforated lid of drain anti-slime tablets placed inside a stainless sink strainer basket, plain blank packaging, studio packshot.",
+   "labels": [
+    "置くだけ"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 排水口 ぬめり取り 錠剤 12錠",
+     "brand": "Cymbal Home",
+     "size": "12錠",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 排水口 ぬめり取り 銀系抗菌 置き型 2個入",
+     "brand": "Cymbal Home",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 置くだけ ぬめり取り 銅の抗菌力 1個入",
+     "brand": "ピカリエ",
+     "size": "1個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 排水口 ぬめり取り 錠剤 徳用 30錠",
+     "brand": "Cymbal ベーシック",
+     "size": "30錠",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_drain_slime_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_baking_soda",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "重曹・クエン酸・セスキ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鍋の焦げ落とし",
+    "シンク磨き",
+    "消臭",
+    "ナチュラルクリーニング"
+   ],
+   "tax_rate": 10,
+   "description": "食品添加物グレードの重曹。鍋の焦げつきや油汚れ、シンクの磨き洗い、冷蔵庫の消臭まで、ナチュラルクリーニングの定番です。粉のままでも水に溶かしても使え、大容量はコスパ抜群。",
+   "image_brief": "A stand-up resealable kraft pouch and a white plastic shaker bottle of baking soda powder with plain blank labels, a small mound of white powder in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナチュレクト 重曹 シェーカーボトル 300g",
+     "brand": "ナチュレクト",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 重曹 粉末 スタンドパック 1kg",
+     "brand": "ナチュレクト",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 重曹 粉末 徳用 2kg",
+     "brand": "ナチュレクト",
+     "size": "2kg",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 重曹 粉末 800g",
+     "brand": "Cymbal Home",
+     "size": "800g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 重曹 泡スプレー 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_baking_soda_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_citric_acid",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "重曹・クエン酸・セスキ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "電気ポット洗浄",
+    "水アカ落とし",
+    "加湿器のお手入れ",
+    "トイレの消臭"
+   ],
+   "tax_rate": 10,
+   "description": "水アカやカルキ汚れ、トイレのアンモニア臭など、アルカリ性の汚れを中和して落とすクエン酸。電気ポットや加湿器の白いこびりつき掃除にも便利です。塩素系とは混ぜないでください。",
+   "image_brief": "A clear plastic zip pouch of fine white citric acid crystals and a small trigger spray bottle with plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナチュレクト クエン酸 粉末 330g",
+     "brand": "ナチュレクト",
+     "size": "330g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト クエン酸 粉末 徳用 1kg",
+     "brand": "ナチュレクト",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home クエン酸 泡スプレー 本体 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home クエン酸 泡スプレー 付替 350ml",
+     "brand": "Cymbal Home",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 電気ポット洗浄用 クエン酸 分包 30g×4包",
+     "brand": "ナチュレクト",
+     "size": "30g×4包",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_citric_acid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_sesqui_soda",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "重曹・クエン酸・セスキ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "油汚れ",
+    "手あか汚れ",
+    "拭き掃除",
+    "つけ置き洗い"
+   ],
+   "tax_rate": 10,
+   "description": "重曹よりアルカリが強く、水によく溶けるセスキ炭酸ソーダ。キッチンの油汚れや手あか、皮脂汚れの拭き掃除に。スプレータイプなら吹きかけて拭くだけで手軽です。粉末は徳用サイズもご用意しました。",
+   "image_brief": "A white plastic trigger spray bottle and a kraft stand-up pouch of sesquicarbonate soda powder with plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナチュレクト セスキ炭酸ソーダ 粉末 500g",
+     "brand": "ナチュレクト",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト セスキ炭酸ソーダ 粉末 徳用 1kg",
+     "brand": "ナチュレクト",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト セスキの激泡スプレー 本体 400ml",
+     "brand": "ナチュレクト",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト セスキの激泡スプレー 詰替 360ml",
+     "brand": "ナチュレクト",
+     "size": "360ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home セスキ炭酸ソーダ スプレー 500ml",
+     "brand": "Cymbal Home",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_sesqui_soda_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_flooring_sheet_dry",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "フローリングシート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "床掃除",
+    "髪の毛取り",
+    "ペットの毛",
+    "毎日のお掃除"
+   ],
+   "tax_rate": 10,
+   "description": "ホコリや髪の毛、ペットの毛をからめ取る立体構造のドライシート。フローリングワイパーに取り付けて、毎日のお掃除をスピーディーに。厚手タイプはじゅうたんの表面にも。",
+   "image_brief": "A soft plastic pack of white fluffy dry flooring sheets with a single sheet fanned out in front, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home フローリング用 ドライシート 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フローリング用 ドライシート 大容量 60枚入",
+     "brand": "Cymbal Home",
+     "size": "60枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 立体吸着 厚手ドライシート 40枚入",
+     "brand": "Cymbal セレクト",
+     "size": "40枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フローリング用 ドライシート 80枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "80枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 立体 ドライシート ペットの毛用 30枚入",
+     "brand": "クリンテック",
+     "size": "30枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_flooring_sheet_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_flooring_sheet_wet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "フローリングシート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "床の拭き掃除",
+    "素足のベタつき対策",
+    "玄関"
+   ],
+   "tax_rate": 10,
+   "description": "皮脂汚れや足跡のベタつきを拭き取るウェットシート。たっぷり液を含んでいて床がさっぱり。除菌タイプやウッディな香りのタイプもあり、素足の多いご家庭に。大容量タイプでたっぷり使えます。",
+   "image_brief": "A soft resealable pouch of moist flooring wet sheets with a flip lid, plain white and light green blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home フローリング用 ウェットシート 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フローリング用 ウェットシート 大容量 40枚入",
+     "brand": "Cymbal Home",
+     "size": "40枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フローリング用 ウェットシート 除菌 ウッディの香り 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フローリング用 ウェットシート 32枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "32枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 ウェットシート 床用 16枚入",
+     "brand": "Cymbal セレクト",
+     "size": "16枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_flooring_sheet_wet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_flooring_wiper",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "フローリングワイパー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "床掃除",
+    "家具の下",
+    "壁際の掃除"
+   ],
+   "tax_rate": 10,
+   "description": "ドライ・ウェット両方のシートが使えるフローリングワイパー。伸縮式ハンドルで家具の下まで届き、軽量で取り回しもラク。ヘッドが360度回転し、壁際もしっかり掃除できます。",
+   "image_brief": "A lightweight telescopic floor wiper with a grey rectangular head and white handle standing upright, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック フローリングワイパー 伸縮式 本体 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック フローリングワイパー 本体＋シートセット 1セット",
+     "brand": "クリンテック",
+     "size": "1セット",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home フローリングワイパー 本体 1本",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック フローリングワイパー ワイドヘッド 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_flooring_wiper_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "アルミ・ポリプロピレン",
+    "color": "グレー"
+   }
+  },
+  {
+   "base_id": "w_household_cleaning_handy_mop",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "ハンディモップ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ホコリ取り",
+    "照明・家電",
+    "高い所の掃除",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "テレビや照明、棚の上などのホコリを静電気でからめ取るハンディモップ。伸縮タイプは高い所や家具のすき間にも届きます。取替シートは使い捨てで清潔です。洗って繰り返し使えるタイプもあります。",
+   "image_brief": "A handheld duster with a fluffy white fiber head on a grey plastic handle, next to a pack of replacement duster heads, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ハンディモップ 本体＋取替1個 1セット",
+     "brand": "Cymbal Home",
+     "size": "1セット",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ハンディモップ 取替 8個入",
+     "brand": "Cymbal Home",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ハンディモップ 伸縮 本体＋取替2個 1セット",
+     "brand": "クリンテック",
+     "size": "1セット",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック ハンディモップ 取替 大容量 16個入",
+     "brand": "クリンテック",
+     "size": "16個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 洗える マイクロファイバー ハンディモップ 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_handy_mop_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_lint_roller",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "粘着クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カーペット掃除",
+    "衣類のホコリ取り",
+    "ペットの毛",
+    "ソファ"
+   ],
+   "tax_rate": 10,
+   "description": "カーペットやソファ、衣類についた髪の毛やホコリ、ペットの毛をコロコロ転がして取る粘着クリーナー。斜めカットで1枚ずつはがしやすく、フローリング対応の弱粘着タイプも揃えました。",
+   "image_brief": "A handheld lint roller with a white sticky paper roll and a light blue handle, next to two plastic-wrapped refill rolls and a storage case, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック 粘着クリーナー 本体 ケース付 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 粘着クリーナー 斜めカット スペアテープ 3巻入",
+     "brand": "クリンテック",
+     "size": "3巻入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 粘着クリーナー スペアテープ フローリング対応 3巻入",
+     "brand": "クリンテック",
+     "size": "3巻入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 粘着クリーナー スペアテープ 5巻入",
+     "brand": "Cymbal Home",
+     "size": "5巻入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 粘着クリーナー スペアテープ 10巻入",
+     "brand": "Cymbal ベーシック",
+     "size": "10巻入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 衣類用 ミニ粘着クリーナー 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_lint_roller_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_cleaning_brush_set",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "掃除用ブラシ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "タイル目地",
+    "サッシの溝",
+    "浴槽洗い",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "浴室のタイル目地やサッシの溝、蛇口まわりなど細かい部分の汚れをかき出す掃除ブラシ。極細毛やすき間用、柄付きのバスブラシなど、場所に合わせて使い分けられます。年末の大掃除の細部仕上げに最適です。",
+   "image_brief": "An assortment of cleaning brushes: a narrow grout brush, a slim crevice brush and a long-handled bath brush in white and aqua, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック すき間ブラシ 3本セット 3本入",
+     "brand": "クリンテック",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 目地ブラシ 極細毛 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 柄付き バスブラシ 伸縮 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home サッシ用ブラシ 2本入",
+     "brand": "Cymbal Home",
+     "size": "2本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 掃除用 歯ブラシ型ブラシ 5本入",
+     "brand": "クリンテック",
+     "size": "5本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_cleaning_brush_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_microfiber_cloth",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "掃除用クロス・ぞうきん"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "窓拭き",
+    "家具の拭き掃除",
+    "大掃除",
+    "車の拭き上げ"
+   ],
+   "tax_rate": 10,
+   "description": "極細繊維が汚れをからめ取るマイクロファイバークロス。水拭きでも洗剤いらずで手あかや水滴跡をすっきり落とし、鏡やガラスも拭きあとが残りにくいです。洗って繰り返し使えます。",
+   "image_brief": "A neat stack of folded microfiber cleaning cloths in blue, green, pink and grey, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック マイクロファイバークロス 30×30cm 5枚入",
+     "brand": "クリンテック",
+     "size": "5枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック マイクロファイバークロス ガラス用 2枚入",
+     "brand": "クリンテック",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ぞうきん 綿100% 2枚組 2枚入",
+     "brand": "Cymbal Home",
+     "size": "2枚入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ぞうきん 綿100% 5枚組 5枚入",
+     "brand": "Cymbal Home",
+     "size": "5枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 使い捨て お掃除クロス 厚手 30枚入",
+     "brand": "クリンテック",
+     "size": "30枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_microfiber_cloth_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_window_squeegee",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "窓掃除用品"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "結露取り",
+    "窓拭き",
+    "浴室の水切り",
+    "カビ予防"
+   ],
+   "tax_rate": 10,
+   "description": "結露した窓や浴室の壁の水分を一気に集めるスクイージーと、窓拭きワイパー。冬場の結露対策や入浴後の水切りでカビ予防にも役立ちます。窓に貼る結露吸水テープも揃えました。",
+   "image_brief": "A clear plastic window squeegee with a white rubber blade and a small water-collecting reservoir, beside a compact bathroom squeegee, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック 結露取りワイパー タンク付 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック スクイージー 浴室用 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック 窓拭きワイパー 伸縮ハンドル 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 結露吸水テープ 幅3cm×4m 1巻",
+     "brand": "Cymbal Home",
+     "size": "1巻",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_window_squeegee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_antibac_sponge",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "台所用スポンジ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食器洗い",
+    "鍋洗い",
+    "スポンジの使い分け"
+   ],
+   "tax_rate": 10,
+   "description": "抗菌加工でニオイや菌の繁殖を抑える食器用スポンジ。泡立ちのよいウレタンと、こびりつきに強い不織布の2層構造です。カラフルな色違いで、食器用と調理器具用の使い分けにも。",
+   "image_brief": "A pack of rectangular two-layer kitchen sponges in yellow, green, pink and blue with dark scrub pads on top, plain blank packaging, studio packshot.",
+   "labels": [
+    "抗菌"
+   ],
+   "variants": [
+    {
+     "title": "クリンテック 抗菌 キッチンスポンジ 2層 5個入",
+     "brand": "クリンテック",
+     "size": "5個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 抗菌 キッチンスポンジ 2層 徳用 10個入",
+     "brand": "クリンテック",
+     "size": "10個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 抗菌 キッチンスポンジ 傷つけない 3個入",
+     "brand": "Cymbal Home",
+     "size": "3個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 抗菌 くびれスポンジ 泡もち 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック キッチンスポンジ 2層 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_antibac_sponge_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_net_sponge",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "台所用スポンジ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "グラス洗い",
+    "フッ素加工フライパン",
+    "食器洗い"
+   ],
+   "tax_rate": 10,
+   "description": "ネットに包まれたスポンジで水切れがよく、乾きやすい衛生的なタイプ。グラスやフッ素加工のフライパンも傷つけにくく、泡立ちも十分です。柄付きのコップ洗い用もあります。",
+   "image_brief": "A pack of mesh-wrapped kitchen sponges in pastel colors with a fine net texture, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック ネットスポンジ 水切れ抜群 3個入",
+     "brand": "クリンテック",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ネットスポンジ 水切れ抜群 6個入",
+     "brand": "クリンテック",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ネットスポンジ ソフト 4個入",
+     "brand": "Cymbal Home",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ネットスポンジ コップ洗い用 柄付き 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 348,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_net_sponge_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_stainless_scrubber",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "たわし・スチールウール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焦げ落とし",
+    "グリル網",
+    "五徳",
+    "根菜の泥落とし"
+   ],
+   "tax_rate": 10,
+   "description": "鍋の焦げつきやグリルの網、五徳など頑固な汚れを落とすたわし類。ステンレスたわしは錆びにくく長持ち、棕櫚（しゅろ）のたわしは根菜の泥落としにも使えます。用途に合わせて使い分けてください。",
+   "image_brief": "A shiny coiled stainless steel scrubber, a natural brown palm-fiber scrub brush and a pack of soap-filled steel wool pads, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック ステンレスたわし 3個入",
+     "brand": "クリンテック",
+     "size": "3個入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック スチールウール 石けん付 10個入",
+     "brand": "クリンテック",
+     "size": "10個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 棕櫚たわし 中 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 亀の子型 パームたわし 2個入",
+     "brand": "クリンテック",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "スリランカ製"
+    },
+    {
+     "title": "Cymbal Home ステンレスたわし 大 2個入",
+     "brand": "Cymbal Home",
+     "size": "2個入",
+     "price_tax_excluded": 178,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_stainless_scrubber_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bath_sponge",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "お風呂用スポンジ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "浴槽洗い",
+    "お風呂掃除",
+    "洗面台"
+   ],
+   "tax_rate": 10,
+   "description": "浴槽を傷つけずに皮脂汚れを落とす、手になじむお風呂用スポンジ。抗菌加工で乾きやすく、ハンドル付きは浴槽の底までラクに届きます。吸盤ホルダー付きなら収納もすっきりです。",
+   "image_brief": "A large ergonomic aqua blue bath-cleaning sponge with a white grip and a handled bath sponge beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック 抗菌 バススポンジ 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 抗菌 バススポンジ 2個入",
+     "brand": "クリンテック",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ハンドル付き バススポンジ 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home バススポンジ 吸盤ホルダー付 1個",
+     "brand": "Cymbal Home",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック バススポンジ 3個入",
+     "brand": "Cymbal ベーシック",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bath_sponge_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_melamine_block",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "掃除用品",
+    "メラミンスポンジ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "茶渋落とし",
+    "壁の汚れ",
+    "浴室掃除",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "水だけで茶渋や手あか、壁の落書き汚れを削り落とす大判ブロックタイプのメラミンスポンジ。好きな大きさに切って使えるほか、持ち手付きやスティックタイプもあり大掃除に重宝します。",
+   "image_brief": "A large white rectangular melamine foam block, a handled melamine scrubber and slim melamine sticks arranged together, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック メラミンスポンジ 大判ブロック 2個入",
+     "brand": "クリンテック",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック メラミンスポンジ 持ち手付き 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "クリンテック メラミンスポンジ スティック 細部用 10本入",
+     "brand": "クリンテック",
+     "size": "10本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト メラミンスポンジ 圧縮タイプ 長持ち 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home メラミンスポンジ 大判 10個入",
+     "brand": "Cymbal Home",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_melamine_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_rubber_gloves",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "ポリ手袋・ゴム手袋"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "食器洗い",
+    "お風呂掃除",
+    "大掃除",
+    "手荒れ対策"
+   ],
+   "tax_rate": 10,
+   "description": "洗い物や掃除で手肌を守る、天然ゴム・ビニール製の炊事用手袋。内側は綿植毛でつけはずしがラク。厚手タイプは強い洗剤を使う掃除に、薄手タイプは細かい作業向きです。S・M・Lサイズ展開。",
+   "image_brief": "A pair of pink rubber kitchen gloves and a pair of pale blue vinyl gloves laid flat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 天然ゴム手袋 中厚手 Mサイズ 1双",
+     "brand": "Cymbal Home",
+     "size": "1双",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 天然ゴム手袋 中厚手 Sサイズ 1双",
+     "brand": "Cymbal Home",
+     "size": "1双",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 天然ゴム手袋 中厚手 Lサイズ 1双",
+     "brand": "Cymbal Home",
+     "size": "1双",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ビニール手袋 薄手 Mサイズ 1双",
+     "brand": "Cymbal Home",
+     "size": "1双",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 合成ゴム 炊事用手袋 ロング Mサイズ 1双",
+     "brand": "クリンテック",
+     "size": "1双",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 厚手 掃除用ゴム手袋 Lサイズ 1双",
+     "brand": "クリンテック",
+     "size": "1双",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_rubber_gloves_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "天然ゴム・塩化ビニル・合成ゴム"
+   }
+  },
+  {
+   "base_id": "w_household_cleaning_drain_net_stocking",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "水切りネット・水切り袋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "排水口のゴミ受け",
+    "三角コーナー",
+    "シンクの衛生"
+   ],
+   "tax_rate": 10,
+   "description": "伸縮性のあるストッキングタイプの排水口ネット。目が細かく、細かな野菜くずや油もしっかりキャッチ。三角コーナー兼用タイプや、ゴミ受けにかぶせやすいサイズ違いもあります。",
+   "image_brief": "A stack of fine white stocking-type sink drain nets with one stretched over a round stainless strainer basket, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 排水口ネット ストッキングタイプ 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 排水口ネット ストッキングタイプ 100枚入",
+     "brand": "Cymbal Home",
+     "size": "100枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 排水口ネット ストッキングタイプ 徳用 120枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "120枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 抗菌 排水口ネット 浅型用 40枚入",
+     "brand": "クリンテック",
+     "size": "40枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 三角コーナー用 水切り袋 不織布 50枚入",
+     "brand": "クリンテック",
+     "size": "50枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_drain_net_stocking_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bath_drain_hair_catcher",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "排水口カバー・ゴミ受け"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "浴室排水口",
+    "髪の毛キャッチ",
+    "洗面台",
+    "詰まり予防"
+   ],
+   "tax_rate": 10,
+   "description": "お風呂や洗面所の排水口に貼るだけで髪の毛をキャッチする使い捨てシートと、ステンレス製のゴミ受けカバー。お手入れのストレスを減らし、詰まりやぬめりを予防します。髪の長いご家族がいるお宅におすすめ。",
+   "image_brief": "A pack of round white disposable hair-catcher sheets for bath drains next to a perforated stainless steel drain cover, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "クリンテック 浴室排水口 髪の毛キャッチシート 30枚入",
+     "brand": "クリンテック",
+     "size": "30枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック 浴室排水口 髪の毛キャッチシート 徳用 60枚入",
+     "brand": "クリンテック",
+     "size": "60枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック ステンレス 浴室排水口カバー 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック シンク用 ステンレス ゴミ受け 浅型 1個",
+     "brand": "クリンテック",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 洗面台用 ヘアキャッチャー 2個入",
+     "brand": "Cymbal Home",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bath_drain_hair_catcher_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_insect_repellent_plate",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "虫よけ"
+   ],
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "玄関",
+    "ベランダ",
+    "網戸",
+    "窓辺"
+   ],
+   "tax_rate": 10,
+   "description": "玄関やベランダに吊るすだけで、虫を寄せつけにくくする吊り下げ型の虫よけプレート。約150日効果が続き、雨に強い屋外用設計。網戸や窓に吹きかけるスプレータイプもご用意しました。",
+   "image_brief": "A white plastic hanging insect-repellent plate with a mesh window and a hook, beside a trigger spray bottle for screen doors, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 吊るす虫よけ プレート 150日用 1個入",
+     "brand": "Cymbal Home",
+     "size": "1個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 吊るす虫よけ プレート 150日用 2個パック 2個入",
+     "brand": "Cymbal Home",
+     "size": "2個入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 網戸・窓に 虫よけスプレー 450ml",
+     "brand": "Cymbal Home",
+     "size": "450ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 玄関用 虫よけ スタンド 260日用 1個入",
+     "brand": "ピカリエ",
+     "size": "1個入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 吊るす虫よけ プレート 100日用 1個入",
+     "brand": "Cymbal ベーシック",
+     "size": "1個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_insect_repellent_plate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_bug_bait_trap",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "虫よけ"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "キッチンの虫対策",
+    "シンク下",
+    "冷蔵庫の裏"
+   ],
+   "tax_rate": 10,
+   "description": "置くだけで潜んでいる虫を捕獲する誘引剤入りの捕獲器と、ベイトタイプの対策剤。キッチンのすき間や冷蔵庫の裏、シンク下など気になる場所に置いて使えます。暖かい季節の前に備えておくと安心です。",
+   "image_brief": "A set of small flat brown cardboard bait traps and round black plastic bait stations, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 置くだけ 虫用捕獲器 5個入",
+     "brand": "Cymbal Home",
+     "size": "5個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 置くだけ 虫用捕獲器 10個入",
+     "brand": "Cymbal Home",
+     "size": "10個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ベイト剤 置き型 虫対策 12個入",
+     "brand": "ピカリエ",
+     "size": "12個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ベイト剤 置き型 虫対策 24個入",
+     "brand": "ピカリエ",
+     "size": "24個入",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_bug_bait_trap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_mothball_drawer",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "防虫剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "衣替え",
+    "引き出し",
+    "衣装ケース",
+    "ウール衣類"
+   ],
+   "tax_rate": 10,
+   "description": "衣類を虫食いから守る、引き出し・衣装ケース用の防虫剤。においがつかない無臭タイプで、取り出してすぐ着られます。衣替えのタイミングでの交換がおすすめ。天然クスノキのブロックもあります。",
+   "image_brief": "A flat plastic tray-pack of white non-woven insect repellent sachets for clothing drawers next to a folded wool sweater, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 引き出し・衣装ケース用 防虫剤 無臭 1年用 24個入",
+     "brand": "Cymbal Home",
+     "size": "24個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 引き出し・衣装ケース用 防虫剤 無臭 1年用 48個入",
+     "brand": "Cymbal Home",
+     "size": "48個入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 引き出し用 防虫剤 柔軟剤の香り 1年用 24個入",
+     "brand": "ピカリエ",
+     "size": "24個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 引き出し用 防虫剤 無臭 半年用 32個入",
+     "brand": "Cymbal ベーシック",
+     "size": "32個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 天然 クスノキ 防虫ブロック 10個入",
+     "brand": "ナチュレクト",
+     "size": "10個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_mothball_drawer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_mothball_closet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "防虫剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "クローゼット",
+    "衣替え",
+    "コート・スーツ"
+   ],
+   "tax_rate": 10,
+   "description": "クローゼットのパイプに吊るすだけで、衣類全体を虫から守る吊り下げタイプの防虫剤。無臭なので大切なスーツやコートも安心。冬物のコートを出すこの時期の衣替えに。防虫効果付きの衣類カバーもあります。",
+   "image_brief": "A pack of slim white hanging closet insect repellent pouches with plastic hooks, hanging on a wooden rail beside a dark coat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home クローゼット用 防虫剤 吊り下げ 無臭 1年用 3個入",
+     "brand": "Cymbal Home",
+     "size": "3個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home クローゼット用 防虫剤 吊り下げ 無臭 1年用 6個入",
+     "brand": "Cymbal Home",
+     "size": "6個入",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ クローゼット用 防虫剤 吊り下げ フローラル 1年用 3個入",
+     "brand": "ピカリエ",
+     "size": "3個入",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クローゼット用 防虫剤 吊り下げ 半年用 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 防虫 衣類カバー ハンガー用 2枚入",
+     "brand": "Cymbal Home",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_mothball_closet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dehumidifier_tank",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "除湿剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    6,
+    7
+   ],
+   "dishes": [
+    "押し入れ",
+    "クローゼット",
+    "下駄箱",
+    "結露対策"
+   ],
+   "tax_rate": 10,
+   "description": "押し入れやクローゼットに置くだけで湿気を吸い取り、カビやニオイを防ぐタンク型除湿剤。たまった水が見えて交換時期がわかりやすく、冬の結露シーズンにも活躍します。消臭プラスや大容量タイプも揃えました。",
+   "image_brief": "A white plastic tank-type moisture absorber with a translucent window showing collected water, in a multi-pack, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 除湿剤 タンクタイプ 420ml 3個入",
+     "brand": "Cymbal Home",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 除湿剤 タンクタイプ 420ml 6個入",
+     "brand": "Cymbal Home",
+     "size": "6個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 除湿剤 タンクタイプ 400ml 3個入",
+     "brand": "Cymbal ベーシック",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 除湿剤 消臭プラス 520ml 3個入",
+     "brand": "ピカリエ",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 除湿剤 大容量 1000ml 2個入",
+     "brand": "ピカリエ",
+     "size": "2個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dehumidifier_tank_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_dehumidifier_hanging",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "除湿剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "クローゼット",
+    "布団の湿気対策",
+    "下駄箱",
+    "冬の結露"
+   ],
+   "tax_rate": 10,
+   "description": "クローゼットのハンガーパイプに吊るして使うシートタイプの除湿剤。衣類のすき間の湿気をしっかり吸収します。布団の下に敷くタイプや、下駄箱用の薄型もあり、場所に合わせて使えます。",
+   "image_brief": "A flat white hanging dehumidifier sheet with a plastic hook, beside a folded futon dehumidifying mat and a slim shoe-cabinet pack, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home クローゼット用 吊り下げ除湿シート 2枚入",
+     "brand": "Cymbal Home",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home クローゼット用 吊り下げ除湿シート 5枚入",
+     "brand": "Cymbal Home",
+     "size": "5枚入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 布団用 除湿シート シングル 1枚",
+     "brand": "Cymbal Home",
+     "size": "1枚",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 下駄箱用 除湿・消臭 薄型 3個入",
+     "brand": "ピカリエ",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 繰り返し使える シリカゲル除湿剤 2個入",
+     "brand": "ナチュレクト",
+     "size": "2個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_dehumidifier_hanging_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_shoe_deodorizer_dryer",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "防虫・虫よけ・除湿",
+    "除湿剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "靴の消臭",
+    "ブーツの湿気対策",
+    "上履き"
+   ],
+   "tax_rate": 10,
+   "description": "靴の中に入れておくだけで湿気とニオイを吸い取る靴用乾燥剤。竹炭タイプは天日干しで繰り返し使えます。雨や雪で濡れたブーツの手入れや、子どもの上履きにもおすすめです。",
+   "image_brief": "A pair of soft charcoal-black shoe-shaped deodorizing pouches placed beside a white sneaker, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナチュレクト 竹炭 靴用 乾燥・消臭剤 1足分",
+     "brand": "ナチュレクト",
+     "size": "1足分",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 竹炭 靴用 乾燥・消臭剤 2足分 2足分",
+     "brand": "ナチュレクト",
+     "size": "2足分",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 靴用 乾燥剤 使い捨て 8個入",
+     "brand": "Cymbal Home",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ ブーツ用 乾燥剤 ロング 1足分",
+     "brand": "ピカリエ",
+     "size": "1足分",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_shoe_deodorizer_dryer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_aircon_cleaner_spray",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "エアコン・家電用クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "エアコン掃除",
+    "暖房シーズン前",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "エアコンの熱交換器（フィン）に吹きかけるだけで、ホコリや汚れ、カビ臭を洗い流すスプレー。暖房シーズン前のお手入れに。無香性で、すすぎ不要のタイプです。細かいすき間用のブラシも便利です。",
+   "image_brief": "A tall white aerosol can with a long thin nozzle for air conditioner fin cleaner, plain blank label, beside a white wall-mounted AC unit, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ピカリエ エアコン洗浄スプレー 無香性 420ml",
+     "brand": "ピカリエ",
+     "size": "420ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ エアコン洗浄スプレー 無香性 2本パック 420ml×2本",
+     "brand": "ピカリエ",
+     "size": "420ml×2本",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home エアコンフィルター用 ホコリ取りスプレー 300ml",
+     "brand": "Cymbal Home",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クリンテック エアコン用 すき間ブラシ 1本",
+     "brand": "クリンテック",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_aircon_cleaner_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_humidifier_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "エアコン・家電用クリーナー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "加湿器のお手入れ",
+    "冬の乾燥対策",
+    "水アカ落とし"
+   ],
+   "tax_rate": 10,
+   "description": "加湿器のタンクやトレーにこびりついた白い水アカを落とすクエン酸系洗浄剤と、タンクに入れるだけでぬめりを防ぐ除菌剤。乾燥する冬、加湿器を清潔に使い続けるために。フィルター専用の洗浄剤もあります。",
+   "image_brief": "A small white plastic bottle of humidifier tank anti-slime additive and a pack of citric acid cleaning sachets with plain blank labels, beside a white humidifier, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 加湿器用 除菌タイプ タンク洗浄剤 500ml",
+     "brand": "Cymbal Home",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 加湿器用 クエン酸 洗浄剤 分包 30g×4包",
+     "brand": "Cymbal Home",
+     "size": "30g×4包",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナチュレクト 加湿器用 ぬめり防止 タンクに入れるだけ 2個入",
+     "brand": "ナチュレクト",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ 加湿器フィルター用 洗浄剤 200g",
+     "brand": "ピカリエ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_humidifier_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_cleaning_carpet_tatami_cleaner",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住居用洗剤",
+    "床用洗剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "カーペットのシミ取り",
+    "畳掃除",
+    "ソファ",
+    "大掃除"
+   ],
+   "tax_rate": 10,
+   "description": "畳やカーペット、布製ソファのシミや汚れを落とすクリーナー。泡が汚れを浮かせ、タオルで叩き拭きするだけ。年末の大掃除や来客前のお手入れに便利です。酵素配合のシミ取りスプレーも好評です。",
+   "image_brief": "A white aerosol foam can and a trigger spray bottle of carpet and upholstery cleaner with plain blank labels, beside a beige carpet swatch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home カーペット・布製品用 泡クリーナー 480ml",
+     "brand": "Cymbal Home",
+     "size": "480ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 畳用 クリーナー スプレー 400ml",
+     "brand": "Cymbal Home",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピカリエ カーペットのシミ取り スプレー 酵素配合 300ml",
+     "brand": "ピカリエ",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 布製ソファ用 クリーナー 消臭プラス 350ml",
+     "brand": "Cymbal セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_cleaning_carpet_tatami_cleaner_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

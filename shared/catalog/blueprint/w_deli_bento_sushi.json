@@ -1,0 +1,4104 @@
+{
+ "category_key": "w_deli_bento_sushi",
+ "items": [
+  {
+   "base_id": "w_deli_bento_sushi_yakiniku_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "がっつり弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛い焼肉だれで香ばしく焼き上げた牛カルビをごはんにたっぷりのせた焼肉弁当です。玉ねぎの甘みとたれが染みたごはんが食欲をそそり、働き盛りの方や学生さんの満腹ランチにぴったり。大盛やハラミ入りなどお好みで選べます。",
+   "image_brief": "A black rectangular bento container with white rice topped with glossy grilled beef short rib slices and onions, a few lettuce leaves and pickles, clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 牛カルビ焼肉弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 牛カルビ焼肉弁当 ごはん大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 牛ハラミ焼肉弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 豚カルビ焼肉弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産黒毛和牛 焼肉弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産黒毛和牛使用"
+    },
+    {
+     "title": "Cymbal ベーシック 牛焼肉弁当 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_yakiniku_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tonkatsu_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "受験の験担ぎ"
+   ],
+   "tax_rate": 8,
+   "description": "衣はサクッと、中はジューシーに揚げた豚ロースかつをメインに、千切りキャベツと副菜を添えたとんかつ弁当。別添えのとんかつソースをかけてお召し上がりください。ボリュームがあり、勝負の日のお昼にも人気です。",
+   "image_brief": "A rectangular bento box with sliced golden pork cutlet on shredded cabbage, white rice with a pickled plum, small side dishes and a sauce packet, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産豚ロース とんかつ弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産豚ヒレかつ弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産豚ロース 厚切りとんかつ弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ 味噌かつ弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県産黒豚ロースかつ弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "鹿児島県産黒豚使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tonkatsu_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_chicken_nanban_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "九州グルメ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり揚げた鶏むね肉を甘酢にくぐらせ、具だくさんのタルタルソースをたっぷりかけたチキン南蛮弁当。甘酸っぱさとコクのバランスがよく、ごはんがどんどん進みます。もも肉使用やタルタル増量タイプもご用意しました。",
+   "image_brief": "A rectangular bento box with fried chicken pieces glazed in sweet vinegar and covered with creamy tartar sauce, white rice and shredded cabbage, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産若鶏のチキン南蛮弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産若鶏もも チキン南蛮弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ チキン南蛮弁当 タルタル増量 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 678,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック チキン南蛮弁当 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "ブラジル産鶏肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産若鶏 チキン南蛮弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_chicken_nanban_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tori_soboro_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "子どものお弁当",
+    "軽めのランチ"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く炒めた鶏そぼろ、ふんわり炒り卵、彩りのいんげんを敷き詰めた三色そぼろ弁当です。やさしい味付けで小さなお子さまからご年配の方まで食べやすく、見た目も華やか。食欲のない日でもさらっと食べられます。",
+   "image_brief": "A rectangular bento with white rice covered in three neat stripes of brown minced chicken, yellow scrambled egg and green beans, pickled ginger on the side, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産鶏の三色そぼろ弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産鶏の三色そぼろ弁当 小盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 鶏そぼろと鮭フレーク 四色弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 名古屋コーチン そぼろ弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "愛知県産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tori_soboro_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_saba_shioyaki_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "魚のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば",
+    "卵",
+    "ごま"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "和食弁当"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさばを皮目パリッと塩焼きにした和風弁当です。ひじき煮や玉子焼きなど手作り感のある副菜を添え、栄養バランスのよい一食に。秋から冬にかけて脂がのる季節は特におすすめです。",
+   "image_brief": "A rectangular bento with a grilled salted mackerel fillet with crisp skin, white rice with black sesame, rolled omelet, simmered hijiki and pickles, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ノルウェー産さばの塩焼き弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "Cymbal デリ 国産さばの塩焼き弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal デリ さばの味噌煮弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "Cymbal セレクト 金華さば 塩焼き弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "宮城県産さば使用"
+    },
+    {
+     "title": "Cymbal デリ さばの塩焼き弁当 雑穀ごはん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "ノルウェー産さば使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_saba_shioyaki_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_saikyoyaki_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "魚のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "和食弁当",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "白味噌の甘い床にじっくり漬け込んだ魚をふっくら焼き上げた西京焼き弁当。上品な甘みと香ばしさがあり、季節の煮物や玉子焼きを添えた少し贅沢な和食弁当です。銀だら・さわら・かれいなどからお選びいただけます。",
+   "image_brief": "An elegant black lacquer-style bento with a caramelized miso-marinated fish fillet, white rice, simmered vegetables and rolled omelet, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 銀だらの西京焼き弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産銀だら使用"
+    },
+    {
+     "title": "Cymbal デリ さわらの西京焼き弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "韓国産さわら使用"
+    },
+    {
+     "title": "Cymbal デリ 赤魚の西京焼き弁当 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "アイスランド産赤魚使用"
+    },
+    {
+     "title": "Cymbal セレクト 銀だら西京焼き 二段弁当 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 1280,
+     "origin": "アメリカ産銀だら使用"
+    },
+    {
+     "title": "ひなた膳 かれいの西京焼き弁当 1人前",
+     "brand": "ひなた膳",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "アメリカ産かれい使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_saikyoyaki_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_gyudon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "手早い夕食"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛いだしで煮込んだ牛肉と玉ねぎをごはんにたっぷりのせた牛丼です。温めるだけで本格的な味わいが楽しめ、紅しょうが付き。並盛から特盛、温玉付きまでそろえ、忙しい日の食事にも頼れる定番丼です。",
+   "image_brief": "A round black donburi container with white rice topped with thinly sliced simmered beef and onions, pickled red ginger on the side, clear dome lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 牛丼 並盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 牛丼 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 牛丼 特盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "Cymbal デリ 温玉牛丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 458,
+     "origin": "アメリカ産牛肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛すき焼き丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 898,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 牛丼 小盛 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_gyudon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_butadon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "がっつり飯"
+   ],
+   "tax_rate": 8,
+   "description": "厚めにスライスした豚ロースを香ばしく焼き、甘辛いたれを絡めてごはんに並べた帯広風の豚丼です。炭火風の香りとたれが染みたごはんが絶品。グリーンピースを添えて彩りよく仕上げています。",
+   "image_brief": "A round donburi bowl with white rice covered by overlapping glossy sauce-glazed grilled pork loin slices and a few green peas, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 帯広風 国産豚ロース豚丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ 帯広風 豚丼 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ 豚バラ炙り丼 ねぎ塩 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産豚ロース 炭火焼き豚丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "北海道産豚肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 豚丼 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_butadon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tendon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "大豆",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "天ぷら好きに"
+   ],
+   "tax_rate": 8,
+   "description": "えびや季節の野菜天を、甘辛い丼たれにくぐらせてごはんにのせた天丼です。衣にたれが染みたしっとり感とごはんとの相性が抜群。えび二尾入りや穴子入りの上天丼など、食べ応えのあるラインナップです。",
+   "image_brief": "A round donburi with white rice topped with tempura shrimp, eggplant, pumpkin and green shiso drizzled with dark sweet sauce, clear dome lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ えびと野菜の天丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ えび二尾天丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "Cymbal セレクト 穴子とえびの上天丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ いかとかき揚げ天丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 野菜天丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国産野菜使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tendon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_chukadon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "大豆",
+    "豚肉",
+    "いか",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "野菜をとりたい日"
+   ],
+   "tax_rate": 8,
+   "description": "白菜やにんじん、きくらげ、うずら卵など具材たっぷりの八宝菜風あんを、ごはんにとろりとかけた中華丼。オイスターソースが香るやさしい塩味で、野菜もしっかりとれる一品です。海鮮入りやあんかけ増量もどうぞ。",
+   "image_brief": "A round donburi with white rice covered in glossy translucent sauce with napa cabbage, carrots, shrimp, wood ear mushrooms and quail eggs, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 具だくさん中華丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 海鮮中華丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 中華丼 あん増量 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 中華丼 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 中華丼 小盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_chukadon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_mabodon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "ピリ辛ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "豆板醤と花椒を効かせたピリ辛の麻婆豆腐を、ごはんにたっぷりかけた麻婆丼です。ひき肉のうま味と豆腐のなめらかさが一体となり、寒い季節に体が温まる味わい。辛さの段階を選べます。",
+   "image_brief": "A round donburi with white rice topped with red spicy mapo tofu, ground pork and chopped green onions, a glossy red chili oil sheen, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 麻婆丼 中辛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産大豆豆腐使用"
+    },
+    {
+     "title": "Cymbal デリ 麻婆丼 辛口 花椒香る四川風 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産大豆豆腐使用"
+    },
+    {
+     "title": "Cymbal デリ 麻婆丼 甘口 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産大豆豆腐使用"
+    },
+    {
+     "title": "Cymbal デリ 麻婆茄子丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 麻婆丼 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_mabodon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_bibimbap",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "韓国料理",
+    "野菜をとりたい日"
+   ],
+   "tax_rate": 8,
+   "description": "ほうれん草、もやし、ぜんまい、にんじんのナムルと甘辛い牛そぼろをのせたビビンバ丼。付属のコチュジャンだれをよく混ぜて召し上がれ。ごま油の香りが広がり、野菜もたっぷりとれる人気メニューです。",
+   "image_brief": "A round bowl of white rice topped with colorful sections of seasoned spinach, bean sprouts, carrots, fern brake, minced beef and a fried egg, small red gochujang cup, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 牛そぼろビビンバ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 温玉ビビンバ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 石焼き風 おこげビビンバ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ナムルたっぷり 野菜ビビンバ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛ユッケジャン風ビビンバ 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_bibimbap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_locomoco",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "ハワイアン",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "ジューシーなハンバーグに目玉焼きをのせ、デミグラスソースをたっぷりかけたハワイ風ロコモコ丼です。レタスやコーンを添え、カフェ気分で楽しめる一品。チーズのせやグレイビーソースもご用意しました。",
+   "image_brief": "A round bowl with rice, a thick hamburger steak, a sunny-side-up egg and brown demi-glace sauce, lettuce and corn on the side, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ロコモコ丼 デミグラスソース 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ チーズロコモコ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ロコモコ丼 グレイビーソース 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛100% ロコモコ丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_locomoco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_gapao_rice",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "エスニック",
+    "タイ料理"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ひき肉とパプリカ、玉ねぎをバジルとナンプラーで炒めたタイ風ガパオライス。半熟の目玉焼きを崩して絡めると、辛さとコクが絶妙に調和します。ジャスミンライス使用タイプもおすすめです。",
+   "image_brief": "A rectangular container with white rice, stir-fried minced chicken with basil leaves and red peppers, and a fried egg with runny yolk, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 鶏ひき肉のガパオライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ガパオライス 辛口 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ガパオライス ジャスミンライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "タイ産ジャスミン米使用"
+    },
+    {
+     "title": "Cymbal デリ ガパオライス 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_gapao_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_yakitori_don",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "炭火焼き"
+   ],
+   "tax_rate": 8,
+   "description": "炭火風に香ばしく焼き上げた鶏もも肉とねぎを、甘辛いたれでごはんにのせた焼き鳥丼です。刻みのりの香りが食欲を誘い、たれと塩の2種類から選べます。お酒のあとの〆にもぴったり。",
+   "image_brief": "A round donburi with rice covered in charred glazed chicken thigh pieces and grilled leeks over shredded nori, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産若鶏の焼き鳥丼 たれ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産若鶏の焼き鳥丼 塩 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 親鶏炭火焼き丼 柚子こしょう 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 比内地鶏の焼き鳥丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "秋田県産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_yakitori_don_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_unadon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美ランチ",
+    "夕食",
+    "スタミナ"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくら蒲焼きにしたうなぎを、香ばしいたれと一緒にごはんにのせたうな丼です。山椒を添え、特別な日の食卓やご褒美ランチに。1尾まるごとのせた特上や、手軽なきざみうなぎのひつまぶし風もそろえました。",
+   "image_brief": "A black lacquer-style box with rice topped with glossy brown grilled eel fillets, a small sansho pepper packet, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ うなぎ蒲焼き丼 1/2尾 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "中国産うなぎ使用"
+    },
+    {
+     "title": "Cymbal デリ うなぎ蒲焼き丼 1尾 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 1680,
+     "origin": "中国産うなぎ使用"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県産うなぎ 特上うな重 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 2980,
+     "origin": "鹿児島県産うなぎ使用"
+    },
+    {
+     "title": "Cymbal デリ きざみうなぎのひつまぶし風 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "中国産うなぎ使用"
+    },
+    {
+     "title": "Cymbal デリ うなぎと錦糸玉子のまぶし丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "中国産うなぎ使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_unadon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_negitoro_don",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "海鮮丼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "海鮮好きに"
+   ],
+   "tax_rate": 8,
+   "description": "とろけるようなまぐろのたたきに青ねぎを散らしたネギトロ丼です。酢飯との相性がよく、わさび醤油でさっぱりと。たくあん入りやいくらのせなど、気分に合わせて選べる海鮮丼です。",
+   "image_brief": "A round bowl of sushi rice heaped with pink minced fatty tuna and chopped green onions, shredded nori, a dab of wasabi and soy sauce packet, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ネギトロ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ネギトロ丼 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ たくあん入り ネギトロ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ネギトロいくら丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本まぐろ中とろ ネギトロ丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_negitoro_don_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_salmon_don",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "海鮮丼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ",
+    "小麦",
+    "大豆",
+    "いくら"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "海鮮好きに"
+   ],
+   "tax_rate": 8,
+   "description": "脂のりのよいサーモンを厚切りにして、酢飯の上にたっぷり並べたサーモン丼です。とろけるような甘みが特徴で、いくらを添えた親子丼や炙りサーモン丼も人気。お好みでわさび醤油をかけてどうぞ。",
+   "image_brief": "A round bowl of sushi rice covered with thick fanned slices of bright orange salmon sashimi, salmon roe and a shiso leaf, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ アトランティックサーモン丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "ノルウェー産サーモン使用"
+    },
+    {
+     "title": "Cymbal デリ サーモンいくら親子丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 898,
+     "origin": "ノルウェー産サーモン使用"
+    },
+    {
+     "title": "Cymbal デリ 炙りサーモン丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "チリ産サーモン使用"
+    },
+    {
+     "title": "Cymbal デリ サーモンアボカド丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "チリ産サーモン使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産サーモン丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国産サーモン使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_salmon_don_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tekka_don",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "海鮮丼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "まぐろ好きに"
+   ],
+   "tax_rate": 8,
+   "description": "赤身のまぐろを酢飯にたっぷり並べた鉄火丼です。まぐろ本来のうま味をシンプルに味わえ、漬け丼や中とろ入りも選べます。刻みのりとわさびを添えて、手軽に本格的なまぐろ丼をお楽しみください。",
+   "image_brief": "A round bowl of sushi rice topped with deep red tuna sashimi slices arranged in a flower pattern, shredded nori and wasabi, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ めばちまぐろ鉄火丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ まぐろ漬け丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本まぐろ赤身・中とろ丼 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ びんちょうまぐろ丼 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tekka_don_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_omurice",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋食・カレー",
+    "オムライス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "子どもに人気",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉入りのケチャップライスを、ふんわり薄焼き卵で包んだ昔ながらのオムライスです。甘めのケチャップ味で子どもにも大人にも人気。デミグラスソースやホワイトソースがけもご用意しました。",
+   "image_brief": "A rectangular container with an oval golden omelet wrapped over ketchup rice and topped with a zigzag of red ketchup, parsley garnish, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ケチャップオムライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal デリ デミグラスオムライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal デリ ホワイトソース オムライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal デリ ふわとろ卵のオムライス ビーフシチューソース 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal ベーシック オムライス 小盛 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_omurice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_beef_curry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋食・カレー",
+    "カレーライス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "鶏肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "スパイス"
+   ],
+   "tax_rate": 8,
+   "description": "じっくり炒めた玉ねぎと牛肉のうま味が溶け込んだビーフカレーライス。スパイスの香りとまろやかなコクが楽しめる中辛です。甘口・辛口、欧風やキーマなど、好みの辛さとスタイルで選べます。",
+   "image_brief": "A rectangular two-compartment container with white rice and rich brown beef curry with tender beef chunks, red pickles on the rice, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ビーフカレーライス 中辛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ビーフカレーライス 辛口 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 欧風ビーフカレーライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ キーマカレーライス 温玉のせ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ バターチキンカレーライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレーライス 甘口 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_beef_curry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_katsu_curry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋食・カレー",
+    "カレーライス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "牛肉",
+    "鶏肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "がっつり"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクに揚げた豚ロースかつをカレーライスにのせた、ボリューム満点のカツカレーです。カレーは衣が湿りにくいよう別容器入り。チキンカツやメンチカツなどトッピング違いもお楽しみください。",
+   "image_brief": "A rectangular container with white rice and a sliced golden pork cutlet, a separate cup of brown curry sauce, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産豚ロース カツカレー 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ チキンカツカレー 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ メンチカツカレー 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ロースカツカレー 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 748,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal デリ ひれカツカレー 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_katsu_curry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_hayashi_rice",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋食・カレー",
+    "ハヤシライス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉と玉ねぎ、マッシュルームを赤ワインとトマトでじっくり煮込んだハヤシライス。デミグラスのまろやかなコクと甘みがあり、辛いものが苦手な方やお子さまにもおすすめです。",
+   "image_brief": "A rectangular container with white rice and glossy dark red-brown hashed beef sauce with onions and mushrooms, a swirl of cream, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ハヤシライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ オムハヤシライス 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 赤ワイン仕立てハヤシライス 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック ハヤシライス 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_hayashi_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_doria",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋食・カレー",
+    "ドリア・グラタン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "えび",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "寒い日に"
+   ],
+   "tax_rate": 8,
+   "description": "バターライスにクリーミーなホワイトソースとチーズを重ね、こんがり焼き上げたドリアです。電子レンジで温めるだけでとろーりアツアツ。えびやミートソース入りもあり、寒い季節に恋しくなる味わいです。",
+   "image_brief": "An oval paper baking dish of rice gratin with golden bubbly melted cheese and browned spots, parsley flakes, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ チキンドリア 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ えびドリア 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ミートドリア 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 4種チーズのドリア 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミートドリア 小 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_doria_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_meat_sauce_pasta",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "合いびき肉と香味野菜をトマトでじっくり煮込んだ、コクのあるミートソーススパゲティ。もちっとした太めの麺によく絡み、粉チーズ付きで本格的な味わいです。大盛やボロネーゼもどうぞ。",
+   "image_brief": "A round black container of spaghetti topped with thick red meat sauce and grated parmesan, parsley sprinkle, clear dome lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ミートソーススパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ミートソーススパゲティ 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 牛肉の赤ワイン煮込みボロネーゼ 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ なすとミートソースのスパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミートスパゲティ 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_meat_sauce_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_carbonara",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "濃厚な卵黄とチーズ、黒こしょうを効かせたクリーミーなカルボナーラ。厚切りベーコンのうま味と塩気がアクセントです。レンジで温めてもソースがなめらかに仕上がるよう工夫しました。",
+   "image_brief": "A round black container of spaghetti coated in creamy pale yellow carbonara sauce with bacon pieces, coarse black pepper and an egg yolk on top, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 厚切りベーコンのカルボナーラ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ カルボナーラ 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 550,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ きのこクリームパスタ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト パルミジャーノ香る 濃厚カルボナーラ 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_carbonara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_napolitan",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "豚肉",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "喫茶店メニュー",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "ウインナー、ピーマン、玉ねぎを甘めのケチャップで炒めた喫茶店風ナポリタン。太めのもちもち麺に懐かしい味わいがよく絡みます。目玉焼きのせもご用意しました。",
+   "image_brief": "A round container of thick spaghetti stir-fried in orange-red ketchup sauce with sliced sausages, green peppers and onions, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 喫茶店風ナポリタン 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 目玉焼きのせナポリタン 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ナポリタン 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ナポリタン 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_napolitan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_mentaiko_pasta",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "和風パスタ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ぷちぷち食感の明太子をバターと和えた、和風の明太子スパゲティ。刻みのりと大葉を添えて香りよく仕上げました。クリーム仕立てや、いか入りなどお好みに合わせて選べます。",
+   "image_brief": "A round container of spaghetti tossed with pink spicy cod roe butter sauce, topped with shredded nori and green shiso strips, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 明太子バタースパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 420,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 明太クリームスパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ いか明太スパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ たらこと大葉の和風スパゲティ 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 420,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_mentaiko_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_shio_yakisoba",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "焼きそば・焼きうどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "えび",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "お祭り気分"
+   ],
+   "tax_rate": 8,
+   "description": "鶏がらスープとレモンで仕上げたさっぱり塩焼きそばです。豚肉やキャベツ、もやしのシャキシャキ感がアクセント。シーフード入りやあんかけ焼きそばなど、ソース味とは違う楽しみ方を提案します。",
+   "image_brief": "A rectangular container of pale golden stir-fried noodles with cabbage, pork, bean sprouts, a lemon wedge and black pepper, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ レモン香る 塩焼きそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 海鮮塩焼きそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 五目あんかけ焼きそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 長崎風 皿うどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩焼きそば 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_shio_yakisoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_yakiudon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "焼きそば・焼きうどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "鉄板メニュー"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのうどんを豚肉と野菜と一緒に、醤油だしで香ばしく炒めた焼きうどんです。かつお節の香りが広がる和風味。ソース味や明太バター味もそろえています。",
+   "image_brief": "A rectangular container of thick udon noodles stir-fried with pork, cabbage and carrots, topped with dancing bonito flakes, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 醤油だし焼きうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ソース焼きうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 明太バター焼きうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 国産豚肉の焼きうどん 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_yakiudon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_zaru_soba",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "そば・うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "そば",
+    "小麦",
+    "大豆",
+    "えび",
+    "やまいも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "軽食",
+    "年越し"
+   ],
+   "tax_rate": 8,
+   "description": "のど越しのよいそばに、かつおだしの効いたつゆを添えたざるそばです。刻みのりとねぎ、わさび付きで、すぐに食べられます。とろろや天ぷらを添えたセットもあり、軽めのランチに最適です。",
+   "image_brief": "A rectangular container of chilled buckwheat noodles on a bamboo mat sheet with shredded nori, a small cup of dipping sauce, green onions and wasabi, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ざるそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 天ざるそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ とろろそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 十割そば ざるそば 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産そば粉使用"
+    },
+    {
+     "title": "Cymbal デリ ざるそば 大盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_zaru_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_nabeyaki_udon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "そば・うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "夕食",
+    "寒い日に",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "アルミ鍋入りで火にかけるだけの鍋焼きうどんです。えび天、鶏肉、かまぼこ、しいたけ、卵など具だくさんで、かつおと昆布のだしが体の芯まで温めます。寒い季節の夕食や夜食にどうぞ。",
+   "image_brief": "A round single-serving aluminum pot with udon noodles in clear broth topped with shrimp tempura, fish cake, shiitake, spinach and a raw egg, sealed with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ えび天入り 鍋焼きうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 味噌煮込みうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ カレー鍋焼きうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト えび天二尾 特製鍋焼きうどん 1人前",
+     "brand": "Cymbal セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鍋焼きうどん 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_nabeyaki_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_maguro_zukushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "にぎり寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "夕食",
+    "まぐろ好きに"
+   ],
+   "tax_rate": 8,
+   "description": "赤身、中とろ、大とろ、漬け、ネギトロ軍艦などまぐろだけを集めたにぎり寿司盛合せ。部位ごとの食感と脂の違いを食べ比べられます。お祝いの席や週末のご褒美にいかがでしょう。",
+   "image_brief": "A black sushi tray with rows of tuna nigiri ranging from deep red lean tuna to pale pink fatty tuna, a minced tuna gunkan, pickled ginger and wasabi, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 まぐろづくし にぎり寿司 8貫",
+     "brand": "ミナト寿司工房",
+     "size": "8貫",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 まぐろづくし にぎり寿司 12貫",
+     "brand": "ミナト寿司工房",
+     "size": "12貫",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 本まぐろづくし 大とろ入り 10貫",
+     "brand": "ミナト寿司工房",
+     "size": "10貫",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 まぐろ赤身 にぎり寿司 8貫",
+     "brand": "ミナト寿司工房",
+     "size": "8貫",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_maguro_zukushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_salmon_zukushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "にぎり寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ",
+    "いくら",
+    "小麦",
+    "大豆",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "家族の団らん",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "生サーモン、炙りサーモン、オニオンサーモン、いくら軍艦などサーモンの魅力を詰め込んだにぎり寿司です。とろける脂の甘みでお子さまにも大人気。マヨ炙りやチーズ炙りでバリエーション豊かに。",
+   "image_brief": "A black sushi tray with rows of salmon nigiri, some seared with mayonnaise, some topped with onion slices, plus salmon roe gunkan, pickled ginger, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 サーモンづくし にぎり寿司 8貫",
+     "brand": "ミナト寿司工房",
+     "size": "8貫",
+     "price_tax_excluded": 798,
+     "origin": "ノルウェー産サーモン使用"
+    },
+    {
+     "title": "ミナト寿司工房 サーモンづくし にぎり寿司 12貫",
+     "brand": "ミナト寿司工房",
+     "size": "12貫",
+     "price_tax_excluded": 1180,
+     "origin": "ノルウェー産サーモン使用"
+    },
+    {
+     "title": "ミナト寿司工房 炙りサーモン食べ比べ 8貫",
+     "brand": "ミナト寿司工房",
+     "size": "8貫",
+     "price_tax_excluded": 880,
+     "origin": "チリ産サーモン使用"
+    },
+    {
+     "title": "ミナト寿司工房 サーモンといくら にぎり 10貫",
+     "brand": "ミナト寿司工房",
+     "size": "10貫",
+     "price_tax_excluded": 1280,
+     "origin": "ノルウェー産サーモン使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_salmon_zukushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_aburi_sushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "にぎり寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "さけ",
+    "さば",
+    "小麦",
+    "大豆",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "おつまみ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "えんがわ、サーモン、えび、さばなどをバーナーで香ばしく炙った炙り寿司盛合せ。脂がとろけて香りが立ち、生とは違うおいしさです。特製だれや塩レモンなど味付けもいろいろ楽しめます。",
+   "image_brief": "A black sushi tray with assorted seared nigiri showing browned torched tops: flounder fin, salmon, shrimp and mackerel with sauce drizzles, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 炙り寿司盛合せ 8貫",
+     "brand": "ミナト寿司工房",
+     "size": "8貫",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 炙り寿司盛合せ 12貫",
+     "brand": "ミナト寿司工房",
+     "size": "12貫",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 えんがわ炙り にぎり 6貫",
+     "brand": "ミナト寿司工房",
+     "size": "6貫",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 炙りえび マヨネーズにぎり 6貫",
+     "brand": "ミナト寿司工房",
+     "size": "6貫",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_aburi_sushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_sushi_oke_party",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "盛合せ・寿司桶"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "いくら",
+    "さけ",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お祝い",
+    "年末年始",
+    "家族の集まり",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろ、サーモン、えび、いか、いくら、玉子など人気ネタを大きな桶に盛り込んだ寿司盛合せ。家族や仲間が集まる日の主役にぴったりで、年末年始のご予約も承ります。人数に合わせてサイズを選べます。",
+   "image_brief": "A large round black sushi platter with a red rim filled with colorful assorted nigiri and rolls in concentric rings, pickled ginger, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 寿司盛合せ 桶 2〜3人前 24貫",
+     "brand": "ミナト寿司工房",
+     "size": "2〜3人前 24貫",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 寿司盛合せ 桶 3〜4人前 32貫",
+     "brand": "ミナト寿司工房",
+     "size": "3〜4人前 32貫",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 寿司盛合せ 桶 4〜5人前 40貫",
+     "brand": "ミナト寿司工房",
+     "size": "4〜5人前 40貫",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 特上 寿司盛合せ 桶 本まぐろ・うに入り 3〜4人前 32貫",
+     "brand": "ミナト寿司工房",
+     "size": "3〜4人前 32貫",
+     "price_tax_excluded": 6480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 子ども向け 寿司盛合せ 桶 2〜3人前",
+     "brand": "ミナト寿司工房",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_sushi_oke_party_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_temaki_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "手巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "さけ",
+    "いくら",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ホームパーティー",
+    "家族の団らん",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろ、サーモン、えび、いか、玉子、かいわれなど手巻き寿司の具材を一皿にまとめた手巻き寿司セットです。焼きのり付きで、ご家庭で酢飯を用意するだけ。巻きながらわいわい楽しめます。",
+   "image_brief": "A large rectangular tray with neatly arranged strips of tuna, salmon, shrimp, squid, tamago, cucumber and sprouts, with a stack of nori sheets, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 手巻き寿司セット 具材のみ 2〜3人前",
+     "brand": "Cymbal デリ",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 手巻き寿司セット 具材のみ 4〜5人前",
+     "brand": "Cymbal デリ",
+     "size": "4〜5人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 手巻き寿司セット 酢飯・のり付き 2〜3人前",
+     "brand": "Cymbal デリ",
+     "size": "2〜3人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 海鮮手巻き寿司セット いくら・本まぐろ入り 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 手巻き寿司 3本セット 3本",
+     "brand": "ミナト寿司工房",
+     "size": "3本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_temaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_sukeroku",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "いなり寿司・助六"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "卵",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "行楽",
+    "観劇のお供"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く煮た油揚げのいなり寿司と、かんぴょう巻や太巻きを詰め合わせた助六寿司。冷めてもおいしく、手でつまんで食べやすいので行楽や観劇のお供に最適です。小腹がすいたときの軽食にも。",
+   "image_brief": "A rectangular tray with golden inari sushi pockets beside sliced thin and thick sushi rolls, pickled ginger, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 助六寿司 いなり2個・巻物6切",
+     "brand": "ミナト寿司工房",
+     "size": "いなり2個・巻物6切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 助六寿司 いなり4個・巻物12切",
+     "brand": "ミナト寿司工房",
+     "size": "いなり4個・巻物12切",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 五目いなりの助六寿司 1パック",
+     "brand": "ミナト寿司工房",
+     "size": "1パック",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 助六寿司 太巻き入り 1パック",
+     "brand": "ミナト寿司工房",
+     "size": "1パック",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_sukeroku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_hosomaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "軽食",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "かっぱ巻、かんぴょう巻、納豆巻、おしんこ巻などを詰め合わせた細巻き盛合せ。あっさりしていて食べやすく、ちょっとした軽食や寿司盛りの追加にも便利です。単品の巻物もご用意しました。",
+   "image_brief": "A rectangular tray with rows of small round thin sushi rolls showing green cucumber, brown gourd, natto and yellow pickle centers, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 細巻き盛合せ 4種 24切",
+     "brand": "ミナト寿司工房",
+     "size": "24切",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 かっぱ巻 1本 6切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 6切",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 納豆巻 1本 6切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 6切",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 かんぴょう巻 1本 6切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 6切",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 おしんこ巻 1本 6切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 6切",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 梅しそ巻 1本 6切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 6切",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_hosomaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_salad_maki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "えび",
+    "かに",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "軽食",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "レタス、きゅうり、かにかま、玉子にマヨネーズを合わせたサラダ巻。シャキシャキとした食感とまろやかさで、生魚が苦手な方やお子さまにも好評です。えびマヨやツナマヨ入りもあります。",
+   "image_brief": "A tray of thick sushi roll slices showing green lettuce, cucumber, red crab stick, yellow omelet and mayonnaise inside, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 サラダ巻 1本 8切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 8切",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 えびマヨサラダ巻 1本 8切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 8切",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 ツナマヨサラダ巻 1本 8切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 8切",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 サラダ巻 ハーフ 4切",
+     "brand": "ミナト寿司工房",
+     "size": "4切",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_salad_maki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_california_roll",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "えび",
+    "かに",
+    "小麦",
+    "大豆",
+    "ごま",
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "軽食",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "アボカドとかにかま、きゅうりを巻き、外側にごまをまぶした裏巻きのカリフォルニアロールです。マヨネーズのコクとアボカドのクリーミーさが調和。サーモンやえび天を巻いたロールもそろえました。",
+   "image_brief": "A tray of inside-out sushi roll slices coated with white sesame seeds showing avocado, crab stick and cucumber inside, some topped with orange roe, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 カリフォルニアロール 8切",
+     "brand": "ミナト寿司工房",
+     "size": "8切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 サーモンアボカドロール 8切",
+     "brand": "ミナト寿司工房",
+     "size": "8切",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 えび天ロール 8切",
+     "brand": "ミナト寿司工房",
+     "size": "8切",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 ロール寿司3種盛合せ 24切",
+     "brand": "ミナト寿司工房",
+     "size": "24切",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_california_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_saba_bozushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "押し寿司・棒寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "手土産",
+    "夕食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚のしめさばを酢飯にのせ、昆布で包んで押し固めた棒寿司です。程よい酸味と脂のうま味が口に広がります。白板昆布をのせたバッテラや、焼きさば寿司も好評。脂ののる秋冬が特におすすめ。",
+   "image_brief": "A long rectangular block of mackerel pressed sushi sliced into pieces, glossy silver-skinned cured mackerel on rice wrapped with translucent kelp, on a bamboo leaf in a tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 しめさば棒寿司 1本 8切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 8切",
+     "price_tax_excluded": 898,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "ミナト寿司工房 しめさば棒寿司 ハーフ 4切",
+     "brand": "ミナト寿司工房",
+     "size": "4切",
+     "price_tax_excluded": 480,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "ミナト寿司工房 バッテラ 8切",
+     "brand": "ミナト寿司工房",
+     "size": "8切",
+     "price_tax_excluded": 698,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "ミナト寿司工房 焼きさば寿司 1本 8切",
+     "brand": "ミナト寿司工房",
+     "size": "1本 8切",
+     "price_tax_excluded": 798,
+     "origin": "ノルウェー産さば使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産真さば 棒寿司 1本 8切",
+     "brand": "Cymbal セレクト",
+     "size": "1本 8切",
+     "price_tax_excluded": 1480,
+     "origin": "国産さば使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_saba_bozushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_gunkan",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "軍艦巻き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いくら",
+    "かに",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お祝い",
+    "夕食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "いくら、ネギトロ、かにみそ、とびっこ、しらすなど、彩り豊かな軍艦巻きの盛合せ。のりの香りと具材のうま味が楽しめます。秋鮭の季節には北海道産いくら軍艦もおすすめです。",
+   "image_brief": "A black tray with rows of gunkan sushi wrapped in nori, topped with glistening orange salmon roe, pink minced tuna, white baby sardines and red flying fish roe, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナト寿司工房 軍艦巻き盛合せ 6貫",
+     "brand": "ミナト寿司工房",
+     "size": "6貫",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 軍艦巻き盛合せ 10貫",
+     "brand": "ミナト寿司工房",
+     "size": "10貫",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト寿司工房 北海道産いくら軍艦 4貫",
+     "brand": "ミナト寿司工房",
+     "size": "4貫",
+     "price_tax_excluded": 980,
+     "origin": "北海道産いくら使用"
+    },
+    {
+     "title": "ミナト寿司工房 ネギトロ軍艦 6貫",
+     "brand": "ミナト寿司工房",
+     "size": "6貫",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_gunkan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_gomoku_chirashi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "ちらし寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "卵",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "ひな祭り",
+    "家族の団らん"
+   ],
+   "tax_rate": 8,
+   "description": "しいたけ、かんぴょう、にんじん、れんこんを甘辛く煮て酢飯に混ぜ込み、錦糸玉子と桜でんぶ、えびで彩った五目ちらし寿司。生ものを使わないのでお子さまやご年配の方にも召し上がっていただきやすい一品です。",
+   "image_brief": "A round container of mixed sushi rice topped with yellow shredded omelet, pink sweet fish flakes, boiled shrimp, snow peas and lotus root slices, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 五目ちらし寿司 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 五目ちらし寿司 2〜3人前",
+     "brand": "Cymbal デリ",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 五目ちらし寿司 小盛 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 穴子入り 五目ちらし寿司 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 五目ちらし寿司 1人前",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_gomoku_chirashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_onigiri_ume",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "しっとり炊いたごはんで紀州産の梅干しを包んだ梅おにぎりです。程よい酸味がごはんの甘みを引き立て、さっぱりと食べられます。かつお梅やはちみつ梅、しそ梅などお好みでどうぞ。",
+   "image_brief": "A triangular rice ball wrapped in nori with a visible red pickled plum on top, sealed in clear plastic film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 紀州南高梅 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal デリ はちみつ梅 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal デリ かつお梅 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 梅しそわかめ 混ぜごはんおにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 梅おにぎり 1個",
+     "brand": "Cymbal ベーシック",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_onigiri_ume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_onigiri_tunamayo",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "大豆",
+    "小麦",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "まろやかなマヨネーズで和えたツナをたっぷり包んだ、子どもから大人まで人気のツナマヨおにぎりです。しょうゆをほんのり効かせ、ごはんとの相性も抜群。辛子明太マヨや鶏マヨもそろえました。",
+   "image_brief": "A triangular rice ball wrapped in nori with creamy tuna mayonnaise filling peeking out, sealed in clear plastic film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ツナマヨネーズ おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ツナマヨ 具たっぷり おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 辛子明太マヨ おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 照り焼きチキンマヨ おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ツナマヨおにぎり 1個",
+     "brand": "Cymbal ベーシック",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_onigiri_tunamayo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_onigiri_mentaiko",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛い明太子を丸ごと包んだ明太子おにぎりです。プチプチの食感とうま味がごはんによく合います。焼きたらこや明太高菜などのバリエーションもおすすめです。",
+   "image_brief": "A triangular rice ball wrapped in nori with a chunk of pink spicy cod roe on top, sealed in clear plastic film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 辛子明太子 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 焼きたらこ おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 明太高菜 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多仕込み 大粒明太子おにぎり 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_onigiri_mentaiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_onigiri_konbu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産昆布をしょうゆと砂糖でふっくら煮た佃煮を包んだ昆布おにぎりです。噛むほどに広がるうま味とやさしい甘さが魅力。おかか、しそ昆布、あさりしぐれ煮など和の定番具材もそろえました。",
+   "image_brief": "A triangular rice ball wrapped in nori with glossy dark simmered kelp filling visible on top, sealed in clear plastic film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 北海道産昆布 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal デリ おかか おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ しそ昆布 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ あさりしぐれ煮 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 昆布おにぎり 1個",
+     "brand": "Cymbal ベーシック",
+     "size": "1個",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_onigiri_konbu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_onigiri_torigomoku",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "行楽",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉、ごぼう、にんじん、しいたけをだしと一緒に炊き込んだ鶏五目ごはんを、ふんわり握ったおにぎりです。具材のうま味がごはん全体に染みて冷めてもおいしい。わかめや菜めしなど混ぜごはんシリーズもどうぞ。",
+   "image_brief": "A triangular rice ball of light brown seasoned mixed rice with visible bits of chicken, carrot and burdock, sealed in clear plastic film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 鶏五目 おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ わかめごはん おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 菜めし おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ じゃこ高菜 混ぜごはんおにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 鶏五目 おにぎり 2個入 2個",
+     "brand": "Cymbal デリ",
+     "size": "2個",
+     "price_tax_excluded": 238,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_onigiri_torigomoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_yaki_onigiri",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "おやつ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆを塗って香ばしく焼き上げた焼きおにぎりです。表面のおこげとしょうゆの香りがたまらない味わい。温めると一層香りが立ちます。味噌焼きやだし茶漬け用もご用意しました。",
+   "image_brief": "Two triangular grilled rice balls with crisp golden-brown soy-glazed surfaces in a clear plastic tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ しょうゆ焼きおにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 味噌焼きおにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ しょうゆ焼きおにぎり 4個入",
+     "brand": "Cymbal デリ",
+     "size": "4個入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ だし茶漬け用 焼きおにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_yaki_onigiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tenmusu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "名古屋めし",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "小えびの天ぷらを甘辛だれにくぐらせ、小さなおにぎりで包んでのりを巻いた天むすです。えびのぷりっと感と衣のうま味が絶妙。ひと口サイズで食べやすく、お弁当や手土産にも喜ばれます。",
+   "image_brief": "A clear tray with five small rice balls wrapped in nori, each with a fried shrimp tail poking out of the top, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ひなた膳 えび天むす 5個入",
+     "brand": "ひなた膳",
+     "size": "5個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ひなた膳 えび天むす 10個入",
+     "brand": "ひなた膳",
+     "size": "10個入",
+     "price_tax_excluded": 948,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ひなた膳 えび天むす きゃらぶき添え 5個入",
+     "brand": "ひなた膳",
+     "size": "5個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ひなた膳 大えび天むす 3個入",
+     "brand": "ひなた膳",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tenmusu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_bakudan_onigiri",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ",
+    "いくら",
+    "卵",
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "部活のお供",
+    "がっつり"
+   ],
+   "tax_rate": 8,
+   "description": "鮭、唐揚げ、玉子焼き、昆布など複数の具材を詰め込んだ、ずっしり大きな爆弾おにぎりです。一個で満足できるボリュームで、育ち盛りの学生さんや忙しい方のランチにぴったり。のりで丸ごと包んでいます。",
+   "image_brief": "A large round rice ball fully wrapped in nori, cut in half to reveal multiple fillings of salmon, fried chicken and egg, in a clear plastic wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 具だくさん 爆弾おにぎり 鮭・唐揚げ・玉子 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 爆弾おにぎり 鮭・いくら・昆布 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 爆弾おにぎり 唐揚げ・ツナマヨ 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ポークたまご おにぎり 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_bakudan_onigiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_tamago_sand",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お昼ごはん",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "ゆで卵を粗くつぶしてマヨネーズで和えた、具だくさんのたまごサンドです。しっとりやわらかな食パンでやさしく挟み、満足感のある仕上がり。厚焼き玉子を挟んだ関西風もご用意しました。",
+   "image_brief": "A clear triangular sandwich pack with two thick egg salad sandwiches cut showing fluffy yellow and white filling between soft white bread, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ たっぷりたまごサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 248,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal デリ 厚焼き玉子サンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 298,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal デリ たまごサンド 4切",
+     "brand": "Cymbal デリ",
+     "size": "4切",
+     "price_tax_excluded": 398,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚卵黄のたまごサンド 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 380,
+     "origin": "国産卵使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_tamago_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_blt_sand",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お昼ごはん",
+    "カフェランチ"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと焼いたベーコン、シャキシャキのレタス、みずみずしいトマトを、トーストしたパンで挟んだBLTサンドです。マスタードマヨが全体を引き締めます。ボリュームのあるクラブハウスサンドもどうぞ。",
+   "image_brief": "A clear pack with toasted sandwich halves stacked to show crispy bacon, green lettuce and red tomato slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ BLTサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ クラブハウスサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ハムレタスサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ BLTサンド 厚切りベーコン 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_blt_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_fruit_sand",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "キウイフルーツ",
+    "もも",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "ご褒美"
+   ],
+   "tax_rate": 8,
+   "description": "甘さ控えめのホイップクリームに、いちご、キウイ、みかん、黄桃などのフルーツを挟んだフルーツサンド。断面の彩りが美しく、おやつやティータイムに人気です。季節限定のフルーツも登場します。",
+   "image_brief": "A clear pack of crustless white bread sandwiches cut to reveal colorful cross-sections of strawberry, kiwi, mandarin and peach in white whipped cream, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ミックスフルーツサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ いちごサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ みかんとホイップのサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト シャインマスカットのフルーツサンド 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 黄桃とキウイのサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_fruit_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_teriyaki_chicken_sand",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "軽食",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く焼いた照り焼きチキンとたっぷりのレタス、マヨネーズを挟んだボリュームサンドです。ジューシーな鶏肉とたれの香ばしさで満足感たっぷり。蒸し鶏とバジルのサンドもご用意しました。",
+   "image_brief": "A clear pack with thick sandwich halves showing glazed teriyaki chicken, green lettuce and mayonnaise between white bread, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 照り焼きチキンサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 蒸し鶏とバジルのサンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ チキン南蛮サンド 2切",
+     "brand": "Cymbal デリ",
+     "size": "2切",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ てりやきチキン ロールサンド 2本",
+     "brand": "Cymbal デリ",
+     "size": "2本",
+     "price_tax_excluded": 278,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_teriyaki_chicken_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_roll_sand",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "ロールパン・バーガー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり甘いロールパンにポテトサラダ、ハム、焼きそばなどを挟んだ惣菜ロールです。ひとつずつ食べやすく、朝食や小腹がすいたときに便利。お子さまのおやつにもおすすめです。",
+   "image_brief": "A clear tray with three soft golden bread rolls sliced and filled with potato salad, ham and lettuce, and fried noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ ポテサラロール 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 焼きそばロール 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ ハムたまごロール 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 惣菜ロール 3種アソート 3個入",
+     "brand": "Cymbal デリ",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ てりやきバーガー 1個",
+     "brand": "Cymbal デリ",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_roll_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_kuri_okowa",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋の味覚",
+    "お祝い",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのもち米に、ほっくり甘い栗をたっぷり加えて蒸し上げた栗おこわです。ほんのり塩味で栗の甘みが引き立ち、秋の食卓やお祝いにぴったり。黒ごま塩を添えてどうぞ。",
+   "image_brief": "A rectangular container of glossy sticky rice studded with large golden chestnuts, sprinkled with black sesame salt, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産栗の栗おこわ 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal デリ 国産栗の栗おこわ 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 748,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal セレクト 丹波産栗 栗おこわ 約250g",
+     "brand": "Cymbal セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 698,
+     "origin": "京都府産栗使用"
+    },
+    {
+     "title": "Cymbal デリ 栗おこわ おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal デリ 栗ご飯 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_kuri_okowa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_sansai_okowa",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "和食",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "わらび、ぜんまい、たけのこ、しいたけなどの山菜をだしと醤油で味付けし、もち米と一緒に蒸し上げた山菜おこわ。山菜の歯ごたえと香りが楽しめる素朴な味わいです。",
+   "image_brief": "A rectangular container of light brown seasoned sticky rice mixed with mountain vegetables, bamboo shoots and shiitake, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産山菜おこわ 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産山菜使用"
+    },
+    {
+     "title": "Cymbal デリ 国産山菜おこわ 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 648,
+     "origin": "国産山菜使用"
+    },
+    {
+     "title": "Cymbal デリ きのこ山菜おこわ 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 山菜おこわ おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_sansai_okowa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_chuka_okowa",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "えび",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "中華",
+    "点心"
+   ],
+   "tax_rate": 8,
+   "description": "焼豚、干ししいたけ、たけのこ、干しえびをオイスターソースで炒め、もち米と蒸し上げた中華おこわです。具材のうま味がたっぷり染みた濃厚な味わい。竹皮包みのちまきもご用意しました。",
+   "image_brief": "A container of glossy brown sticky rice with diced char siu pork, shiitake and dried shrimp, beside two bamboo-leaf wrapped rice dumplings, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 五目中華おこわ 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 中華ちまき 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 中華ちまき 4個入",
+     "brand": "Cymbal デリ",
+     "size": "4個入",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デリ 五目おこわ 和風 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_chuka_okowa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_torigobo_takikomi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お弁当",
+    "夕食",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏もも肉とささがきごぼうを、かつおと昆布のだしで炊き込んだ鶏ごぼうご飯。ごぼうの香りと鶏のうま味が染みて、冷めてもおいしくいただけます。根菜がおいしい季節におすすめです。",
+   "image_brief": "A rectangular container of seasoned brown rice with shredded burdock root and chicken pieces, topped with chopped green onions, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 国産鶏ごぼうの炊き込みご飯 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 国産鶏ごぼうの炊き込みご飯 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 648,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ かしわめし 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal デリ 鶏ごぼうご飯 おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_torigobo_takikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_taimeshi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "おもてなし",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "焼いた真鯛の身をほぐし、だしと一緒に炊き上げた上品な鯛めしです。鯛のうま味と香ばしさがごはん一粒一粒に染み込みます。お祝いの席や来客時のおもてなしにもおすすめです。",
+   "image_brief": "A rectangular container of golden seasoned rice topped with flakes of white sea bream, sliced ginger and mitsuba leaves, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 愛媛県産真鯛の鯛めし 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "愛媛県産真鯛使用"
+    },
+    {
+     "title": "Cymbal デリ 愛媛県産真鯛の鯛めし 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 948,
+     "origin": "愛媛県産真鯛使用"
+    },
+    {
+     "title": "Cymbal デリ 鯛めし おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 天然真鯛の鯛めし 約250g",
+     "brand": "Cymbal セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "国産天然真鯛使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_taimeshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_kaki_gohan",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の味覚",
+    "夕食",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "ぷっくりとした牡蠣を生姜と醤油のだしで炊き込んだ、冬限定の牡蠣ご飯です。海のミルクと呼ばれる濃厚なうま味がごはんにしみわたり、生姜の香りで後味すっきり。旬のこの時期だけの味わいです。",
+   "image_brief": "A rectangular container of seasoned rice topped with plump glossy oysters, julienned ginger and chopped green onions, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 広島県産かきの炊き込みご飯 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "Cymbal デリ 広島県産かきの炊き込みご飯 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 948,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "Cymbal デリ 宮城県産かきご飯 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産かき使用"
+    },
+    {
+     "title": "Cymbal デリ かきご飯 おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_kaki_gohan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_bento_sushi_satsumaimo_gohan",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "秋の味覚",
+    "お弁当",
+    "子どもに人気"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのさつまいもを角切りにし、ほんのり塩味で炊き上げたさつまいもご飯です。黒ごまを散らし、さつまいもの自然な甘みを楽しめます。秋冬の食卓やお子さまのお弁当にどうぞ。",
+   "image_brief": "A rectangular container of white rice mixed with diced purple-skinned sweet potato chunks and sprinkled with black sesame, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デリ 鹿児島県産さつまいもご飯 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "Cymbal デリ 鹿児島県産さつまいもご飯 約500g",
+     "brand": "Cymbal デリ",
+     "size": "約500g",
+     "price_tax_excluded": 548,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "Cymbal デリ さつまいもおこわ 約250g",
+     "brand": "Cymbal デリ",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal デリ さつまいもご飯 おにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個入",
+     "price_tax_excluded": 228,
+     "origin": "国産さつまいも使用"
+    }
+   ],
+   "images": [
+    "w_deli_bento_sushi_satsumaimo_gohan_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

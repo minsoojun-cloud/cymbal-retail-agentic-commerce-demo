@@ -1,0 +1,1187 @@
+{
+ "category_key": "deli",
+ "items": [
+  {
+   "base_id": "deli_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "国産若鶏のもも肉を、にんにくと生姜を効かせた醤油だれに漬け込んでカラッと揚げました。外はサクッと、中はジューシーな仕上がりです。トースターで軽く温めると揚げたての食感がよみがえります。",
+   "images": [
+    "deli_karaage_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の唐揚げ（もも）約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の唐揚げ（もも）約500g 大容量",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の唐揚げ 塩味 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[店内調理] 若鶏のむね肉唐揚げ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ 若鶏の唐揚げ（冷蔵）250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 358,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_karaage_1.jpg",
+    "deli_karaage_2.jpg"
+   ],
+   "dishes": [
+    "唐揚げ",
+    "お弁当",
+    "夕食のおかず",
+    "おつまみ"
+   ]
+  },
+  {
+   "base_id": "deli_beef_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "description": "北海道産じゃがいもに国産牛肉と玉ねぎをたっぷり合わせた、ほっくり甘めの牛肉コロッケです。きめ細かいパン粉でサクッと揚げました。お弁当やおかずにもう一品ほしい時に便利です。",
+   "images": [
+    "deli_beef_croquette_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛肉コロッケ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[店内調理] 国産牛肉コロッケ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 368,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "[店内調理] 国産牛肉コロッケ 6個入 お徳用",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国産（牛肉）"
+    },
+    {
+     "title": "トップバリュ セレクト 黒毛和牛コロッケ 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国産（牛肉）"
+    }
+   ],
+   "cc_images": [
+    "deli_beef_croquette_1.jpg",
+    "deli_beef_croquette_2.jpg"
+   ],
+   "dishes": [
+    "コロッケ",
+    "コロッケパン",
+    "お弁当",
+    "夕食のおかず"
+   ]
+  },
+  {
+   "base_id": "deli_kabocha_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "旬の北海道産かぼちゃを裏ごしして、ほんのりバターで風味付けした甘いコロッケです。ほっくりとした自然な甘みは、お子さまにも人気。秋の食卓やお弁当にぴったりです。",
+   "images": [
+    "deli_kabocha_croquette_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産かぼちゃコロッケ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "北海道産（かぼちゃ）"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃコロッケ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 368,
+     "origin": "北海道産（かぼちゃ）"
+    },
+    {
+     "title": "[店内調理] かぼちゃとクリームチーズのコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "北海道産（かぼちゃ）"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃコロッケ 6個入 お徳用",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "北海道産（かぼちゃ）"
+    }
+   ],
+   "cc_images": [
+    "deli_kabocha_croquette_1.jpg",
+    "deli_kabocha_croquette_2.jpg"
+   ],
+   "dishes": [
+    "かぼちゃコロッケ",
+    "お弁当",
+    "夕食のおかず"
+   ]
+  },
+  {
+   "base_id": "deli_nikujaga",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産牛肉とほくほくのじゃがいも、玉ねぎ、にんじんを甘辛い割下でじっくり煮含めました。だしの旨みが野菜の芯までしみ込んだ、どこか懐かしい家庭の味です。温めるだけで食卓に一品追加できます。",
+   "images": [
+    "deli_nikujaga_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛肉じゃが 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産（牛肉・じゃがいも）"
+    },
+    {
+     "title": "[店内調理] 国産牛肉じゃが 約450g ファミリーパック",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 698,
+     "origin": "国産（牛肉・じゃがいも）"
+    },
+    {
+     "title": "[店内調理] 豚肉じゃが 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "トップバリュ 肉じゃが（レンジ対応）180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 258,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_nikujaga_1.jpg",
+    "deli_nikujaga_2.jpg"
+   ],
+   "dishes": [
+    "肉じゃが",
+    "夕食のおかず",
+    "お弁当",
+    "和定食"
+   ]
+  },
+  {
+   "base_id": "deli_chikuzenni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "description": "国産鶏もも肉と、ごぼう・れんこん・にんじん・里芋・こんにゃく・干ししいたけを炒め煮にした筑前煮です。根菜の歯ごたえと甘辛いだしの味わいが、ご飯によく合います。旬の根菜がおいしい季節にぜひどうぞ。",
+   "images": [
+    "deli_chikuzenni_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産鶏の筑前煮 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "[店内調理] 国産鶏の筑前煮 約400g ファミリーパック",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 698,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ 国産野菜の筑前煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 258,
+     "origin": "国産（野菜）"
+    },
+    {
+     "title": "トップバリュ セレクト 九州産鶏と根菜の筑前煮 230g",
+     "brand": "トップバリュ セレクト",
+     "size": "230g",
+     "price_tax_excluded": 458,
+     "origin": "九州産（鶏肉）"
+    }
+   ],
+   "cc_images": [
+    "deli_chikuzenni_1.jpg",
+    "deli_chikuzenni_2.jpg"
+   ],
+   "dishes": [
+    "筑前煮",
+    "夕食のおかず",
+    "お弁当",
+    "和定食"
+   ]
+  },
+  {
+   "base_id": "deli_tonjiru",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "汁物・スープ",
+    "豚汁"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "国産豚肉と大根、にんじん、ごぼう、里芋、こんにゃくなど具だくさんの豚汁です。合わせ味噌の香りとだしの旨みで、体の芯から温まる味わいに仕上げました。鍋で温めるだけで、手軽に一汁が整います。",
+   "images": [
+    "deli_tonjiru_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 具だくさん豚汁 約400g（2人前）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 398,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[店内調理] 具だくさん豚汁 約800g（3〜4人前）",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 698,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "トップバリュ 具だくさん豚汁 1人前 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フリーズドライ 豚汁 5食入",
+     "brand": "トップバリュ",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_tonjiru_1.jpg",
+    "deli_tonjiru_2.jpg"
+   ],
+   "dishes": [
+    "豚汁",
+    "朝食",
+    "夕食の汁物",
+    "和定食"
+   ]
+  },
+  {
+   "base_id": "deli_potato_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "ポテトサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "北海道産じゃがいもを粗めにつぶし、きゅうり・にんじん・玉ねぎ・ハムを合わせたまろやかなポテトサラダです。ほくほく感を残した食感で、副菜にもサンドイッチの具にも活躍します。",
+   "images": [
+    "deli_potato_salad_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産じゃがいものポテトサラダ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 258,
+     "origin": "北海道産（じゃがいも）"
+    },
+    {
+     "title": "[店内調理] 北海道産じゃがいものポテトサラダ 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 458,
+     "origin": "北海道産（じゃがいも）"
+    },
+    {
+     "title": "[店内調理] 半熟たまごのポテトサラダ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産（じゃがいも）"
+    },
+    {
+     "title": "トップバリュ ベストプライス ポテトサラダ 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ポテトサラダ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_potato_salad_1.jpg",
+    "deli_potato_salad_2.jpg"
+   ],
+   "dishes": [
+    "ポテトサラダ",
+    "お弁当",
+    "夕食の副菜",
+    "サンドイッチ"
+   ]
+  },
+  {
+   "base_id": "deli_hijiki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "国産芽ひじきに、にんじん・大豆・油揚げを合わせ、甘辛く炊き上げました。やさしい味付けで、毎日の副菜やお弁当のすき間おかずにぴったりです。",
+   "images": [
+    "deli_hijiki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産芽ひじき煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "国産（ひじき）"
+    },
+    {
+     "title": "[店内調理] 国産芽ひじき煮 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 358,
+     "origin": "国産（ひじき）"
+    },
+    {
+     "title": "トップバリュ ひじき煮 3袋入（1袋80g）",
+     "brand": "トップバリュ",
+     "size": "80g×3袋",
+     "price_tax_excluded": 248,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ひじき煮 120g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g",
+     "price_tax_excluded": 118,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_hijiki_1.jpg",
+    "deli_hijiki_2.jpg"
+   ],
+   "dishes": [
+    "ひじき煮",
+    "お弁当",
+    "夕食の副菜",
+    "ひじきご飯"
+   ]
+  },
+  {
+   "base_id": "deli_kinpira_gobo",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "description": "国産ごぼうとにんじんを細切りにし、ごま油で炒めて甘辛く仕上げたきんぴらです。シャキシャキとした歯ざわりと、ピリッと効いた唐辛子がご飯を進めます。",
+   "images": [
+    "deli_kinpira_gobo_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産ごぼうのきんぴら 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "国産（ごぼう）"
+    },
+    {
+     "title": "[店内調理] 国産ごぼうのきんぴら 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 358,
+     "origin": "国産（ごぼう）"
+    },
+    {
+     "title": "[店内調理] れんこんとごぼうのきんぴら 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 238,
+     "origin": "国産（れんこん・ごぼう）"
+    },
+    {
+     "title": "トップバリュ きんぴらごぼう 3袋入（1袋70g）",
+     "brand": "トップバリュ",
+     "size": "70g×3袋",
+     "price_tax_excluded": 248,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_kinpira_gobo_1.jpg",
+    "deli_kinpira_gobo_2.jpg"
+   ],
+   "dishes": [
+    "きんぴらごぼう",
+    "お弁当",
+    "夕食の副菜",
+    "おつまみ"
+   ]
+  },
+  {
+   "base_id": "deli_nigiri_sushi_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "寿司",
+    "にぎり寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "卵",
+    "小麦",
+    "大豆",
+    "いくら",
+    "さけ"
+   ],
+   "season_months": [],
+   "description": "まぐろ・サーモン・はまち・えび・いか・玉子など、人気のネタを揃えた店内仕上げのにぎり寿司です。シャリはふんわり握り、ネタの旨みを引き立てています。えび・かにを含まない「えびなし」セットもご用意しています。",
+   "images": [
+    "deli_nigiri_sushi_set_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内仕上げ] にぎり寿司 10貫",
+     "brand": "",
+     "size": "10貫",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "[店内仕上げ] 特上にぎり寿司 12貫（本まぐろ入）",
+     "brand": "",
+     "size": "12貫",
+     "price_tax_excluded": 1280,
+     "origin": ""
+    },
+    {
+     "title": "[店内仕上げ] ファミリーにぎり寿司 30貫（3〜4人前）",
+     "brand": "",
+     "size": "30貫",
+     "price_tax_excluded": 2480,
+     "origin": ""
+    },
+    {
+     "title": "[店内仕上げ] にぎり寿司 10貫（えび・かに不使用）",
+     "brand": "",
+     "size": "10貫",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "[店内仕上げ] 秋の味覚 にぎり寿司 10貫（さんま・いくら入）",
+     "brand": "",
+     "size": "10貫",
+     "price_tax_excluded": 980,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_nigiri_sushi_set_1.jpg",
+    "deli_nigiri_sushi_set_2.jpg"
+   ],
+   "dishes": [
+    "にぎり寿司",
+    "夕食",
+    "お祝いの食卓",
+    "家族の団らん"
+   ]
+  },
+  {
+   "base_id": "deli_yaki_gyoza",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "餃子・焼売"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産豚肉とキャベツ・にらをたっぷり包み、皮はパリッと、中はジューシーに焼き上げた焼き餃子です。添付のたれでそのまま、お好みでラー油や酢こしょうでもどうぞ。",
+   "images": [
+    "deli_yaki_gyoza_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚肉の焼き餃子 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の焼き餃子 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 458,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[店内調理] にんにく不使用 焼き餃子 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "トップバリュ 生餃子（焼くだけ）24個入",
+     "brand": "トップバリュ",
+     "size": "24個入",
+     "price_tax_excluded": 298,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "トップバリュ 羽根つき焼き餃子（チルド・レンジ対応）12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 258,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "deli_yaki_gyoza_1.jpg",
+    "deli_yaki_gyoza_2.jpg"
+   ],
+   "dishes": [
+    "焼き餃子",
+    "夕食のおかず",
+    "おつまみ",
+    "ラーメンのお供"
+   ]
+  },
+  {
+   "base_id": "deli_mealkit_ginger_pork",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "肉のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "description": "国産豚ロースと玉ねぎ、すりおろし生姜入りの特製たれをセットにした豚の生姜焼きミールキットです。食材はカット済みなので、フライパンで焼いてたれを絡めるだけ。調理時間約15分で、ご飯がすすむ定番おかずが完成します。",
+   "images": [
+    "deli_mealkit_ginger_pork_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚の生姜焼き 2人前",
+     "brand": "",
+     "size": "2人前（約380g）",
+     "price_tax_excluded": 698,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] 国産豚の生姜焼き 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約720g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "[ミールキット] 国産豚の生姜焼き キャベツ千切り付き 2人前",
+     "brand": "",
+     "size": "2人前（約480g）",
+     "price_tax_excluded": 798,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] 国産豚の生姜焼き キャベツ千切り付き 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約900g）",
+     "price_tax_excluded": 1380,
+     "origin": "国産（豚肉・キャベツ）"
+    }
+   ],
+   "cc_images": [
+    "deli_mealkit_ginger_pork_1.jpg",
+    "deli_mealkit_ginger_pork_2.jpg"
+   ],
+   "dishes": [
+    "豚の生姜焼き",
+    "夕食のおかず",
+    "生姜焼き定食"
+   ]
+  },
+  {
+   "base_id": "deli_mealkit_hoikoro",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "中華のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産豚バラ肉とカット済みのキャベツ・ピーマン・長ねぎに、甜麺醤ベースの合わせ調味料をセットにした回鍋肉ミールキットです。強火で炒めて調味料を加えるだけ、調理時間約15分。辛さ控えめなのでお子さまも一緒に楽しめます。",
+   "images": [
+    "deli_mealkit_hoikoro_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産豚の回鍋肉 2人前",
+     "brand": "",
+     "size": "2人前（約420g）",
+     "price_tax_excluded": 698,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] 国産豚の回鍋肉 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約800g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] ピリ辛 回鍋肉 2人前",
+     "brand": "",
+     "size": "2人前（約420g）",
+     "price_tax_excluded": 698,
+     "origin": "国産（豚肉・キャベツ）"
+    },
+    {
+     "title": "[ミールキット] ピリ辛 回鍋肉 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約800g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産（豚肉・キャベツ）"
+    }
+   ],
+   "cc_images": [
+    "deli_mealkit_hoikoro_1.jpg",
+    "deli_mealkit_hoikoro_2.jpg"
+   ],
+   "dishes": [
+    "回鍋肉",
+    "夕食のおかず",
+    "中華定食"
+   ]
+  },
+  {
+   "base_id": "deli_mealkit_chanchan_yaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "魚のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦",
+    "さけ"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "北海道産の秋鮭に、キャベツ・玉ねぎ・にんじん・しめじと味噌バターだれをセットにした鮭のちゃんちゃん焼きミールキットです。フライパンに並べて蒸し焼きにするだけ、調理時間約15分。旬の鮭と野菜もたっぷり味わえる、北海道の郷土料理です。",
+   "images": [
+    "deli_mealkit_chanchan_yaki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[ミールキット] 北海道産秋鮭のちゃんちゃん焼き 2人前",
+     "brand": "",
+     "size": "2人前（約450g）",
+     "price_tax_excluded": 798,
+     "origin": "北海道産（鮭）"
+    },
+    {
+     "title": "[ミールキット] 北海道産秋鮭のちゃんちゃん焼き 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約850g）",
+     "price_tax_excluded": 1380,
+     "origin": "北海道産（鮭）"
+    },
+    {
+     "title": "[ミールキット] 秋鮭ときのこのちゃんちゃん焼き 2人前",
+     "brand": "",
+     "size": "2人前（約480g）",
+     "price_tax_excluded": 858,
+     "origin": "北海道産（鮭）"
+    },
+    {
+     "title": "[ミールキット] 秋鮭ときのこのちゃんちゃん焼き 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（約900g）",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産（鮭）"
+    }
+   ],
+   "cc_images": [
+    "deli_mealkit_chanchan_yaki_1.jpg",
+    "deli_mealkit_chanchan_yaki_2.jpg"
+   ],
+   "dishes": [
+    "ちゃんちゃん焼き",
+    "夕食のおかず",
+    "鮭定食"
+   ]
+  },
+  {
+   "base_id": "deli_mealkit_hamburg",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "肉のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産牛と豚の合いびき肉で成形済みのハンバーグに、デミグラスソースとつけ合わせ野菜をセットにしたミールキットです。こねる手間なく焼くだけで、ふっくらジューシー。調理時間約15分で、家族みんなが喜ぶごちそうおかずが完成します。",
+   "images": [
+    "deli_mealkit_hamburg_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[ミールキット] 国産牛豚ハンバーグ デミグラスソース 2人前",
+     "brand": "",
+     "size": "2人前（ハンバーグ2個）",
+     "price_tax_excluded": 798,
+     "origin": "国産（牛肉・豚肉）"
+    },
+    {
+     "title": "[ミールキット] 国産牛豚ハンバーグ デミグラスソース 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（ハンバーグ4個）",
+     "price_tax_excluded": 1380,
+     "origin": "国産（牛肉・豚肉）"
+    },
+    {
+     "title": "[ミールキット] 和風おろしハンバーグ 2人前",
+     "brand": "",
+     "size": "2人前（ハンバーグ2個）",
+     "price_tax_excluded": 798,
+     "origin": "国産（牛肉・豚肉）"
+    },
+    {
+     "title": "[ミールキット] 和風おろしハンバーグ 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前（ハンバーグ4個）",
+     "price_tax_excluded": 1380,
+     "origin": "国産（牛肉・豚肉）"
+    }
+   ],
+   "cc_images": [
+    "deli_mealkit_hamburg_1.jpg",
+    "deli_mealkit_hamburg_2.jpg"
+   ],
+   "dishes": [
+    "ハンバーグ",
+    "夕食のおかず",
+    "ハンバーグ定食",
+    "お弁当"
+   ]
+  },
+  {
+   "base_id": "deli_satsumaimo_amani",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "旬の鹿児島県産さつまいもを皮ごと輪切りにし、ほんのりレモン風味の蜜でやさしく煮含めました。ほくほくとした食感と上品な甘さは、おかずにもおやつにもぴったり。お弁当の彩りにも重宝します。",
+   "images": [
+    "deli_satsumaimo_amani_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもの甘煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 238,
+     "origin": "鹿児島県産（さつまいも）"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもの甘煮 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 428,
+     "origin": "鹿児島県産（さつまいも）"
+    },
+    {
+     "title": "[店内調理] 紅はるかのレモン煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "鹿児島県産（さつまいも）"
+    }
+   ],
+   "cc_images": [
+    "deli_satsumaimo_amani_1.jpg",
+    "deli_satsumaimo_amani_2.jpg"
+   ],
+   "dishes": [
+    "さつまいもの甘煮",
+    "お弁当",
+    "夕食の副菜",
+    "おやつ"
+   ]
+  },
+  {
+   "base_id": "deli_kinoko_takikomi_gohan",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ご飯・弁当",
+    "炊き込みご飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "しめじ・まいたけ・椎茸・えのきの4種のきのこと鶏肉、油揚げを、かつおと昆布のだしで炊き込みました。きのこの香りがふわっと広がる、秋ならではのご飯です。おにぎりやお弁当にもおすすめです。",
+   "images": [
+    "deli_kinoko_takikomi_gohan_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 4種きのこの炊き込みご飯 1人前 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "国産（米）"
+    },
+    {
+     "title": "[店内調理] 4種きのこの炊き込みご飯 おにぎり2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国産（米）"
+    },
+    {
+     "title": "[店内調理] 4種きのこの炊き込みご飯 ファミリーパック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 680,
+     "origin": "国産（米）"
+    },
+    {
+     "title": "[店内調理] 松茸入り きのこご飯 1人前 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産（米）"
+    }
+   ],
+   "cc_images": [
+    "deli_kinoko_takikomi_gohan_1.jpg",
+    "deli_kinoko_takikomi_gohan_2.jpg"
+   ],
+   "dishes": [
+    "きのこの炊き込みご飯",
+    "お弁当",
+    "昼食",
+    "夕食"
+   ]
+  },
+  {
+   "base_id": "deli_saba_misoni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "焼魚・煮魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "さば"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "description": "脂ののった国産さばを、生姜を効かせた甘めの合わせ味噌でふっくらと煮付けました。骨まで丁寧に下処理しているので、お子さまにも食べやすい一品です。レンジで温めるだけで、手軽に魚のおかずが楽しめます。",
+   "images": [
+    "deli_saba_misoni_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産さばの味噌煮 2切入",
+     "brand": "",
+     "size": "2切入",
+     "price_tax_excluded": 398,
+     "origin": "国産（さば）"
+    },
+    {
+     "title": "[店内調理] 国産さばの味噌煮 4切入",
+     "brand": "",
+     "size": "4切入",
+     "price_tax_excluded": 758,
+     "origin": "国産（さば）"
+    },
+    {
+     "title": "トップバリュ 骨取り さばの味噌煮（レンジ対応）2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 358,
+     "origin": "ノルウェー産（さば）"
+    },
+    {
+     "title": "トップバリュ 骨取り さばの塩焼き（レンジ対応）2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 358,
+     "origin": "ノルウェー産（さば）"
+    }
+   ],
+   "cc_images": [
+    "deli_saba_misoni_1.jpg",
+    "deli_saba_misoni_2.jpg"
+   ],
+   "dishes": [
+    "さばの味噌煮",
+    "夕食のおかず",
+    "和定食",
+    "お弁当"
+   ]
+  },
+  {
+   "base_id": "deli_dashimaki_tamago",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "玉子焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "国産卵にかつおと昆布の合わせだしをたっぷり含ませ、ふんわりと焼き上げただし巻き玉子です。口に入れるとじゅわっとだしがあふれる、上品なやさしい味わい。朝ごはんやお弁当、晩酌のお供にも。",
+   "images": [
+    "deli_dashimaki_tamago_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[店内調理] 国産卵のだし巻き玉子 1本",
+     "brand": "",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 298,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "[店内調理] 国産卵のだし巻き玉子 ハーフ",
+     "brand": "",
+     "size": "ハーフ（約100g）",
+     "price_tax_excluded": 168,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "[店内調理] 明太子入り だし巻き玉子 1本",
+     "brand": "",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 358,
+     "origin": "国産（卵）"
+    },
+    {
+     "title": "トップバリュ 厚焼き玉子 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約220g）",
+     "price_tax_excluded": 238,
+     "origin": "国産（卵）"
+    }
+   ],
+   "cc_images": [
+    "deli_dashimaki_tamago_1.jpg",
+    "deli_dashimaki_tamago_2.jpg"
+   ],
+   "dishes": [
+    "だし巻き玉子",
+    "お弁当",
+    "朝食",
+    "おつまみ"
+   ]
+  }
+ ]
+}

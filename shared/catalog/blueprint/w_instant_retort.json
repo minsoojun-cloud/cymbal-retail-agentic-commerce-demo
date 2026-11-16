@@ -1,0 +1,4495 @@
+{
+ "category_key": "w_instant_retort",
+ "items": [
+  {
+   "base_id": "w_instant_retort_cup_miso_ramen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "買い置き"
+   ],
+   "tax_rate": 8,
+   "description": "合わせみそにすりごまとにんにくを効かせた、コクのあるカップみそラーメン。もちもちの太めの麺がスープによく絡み、コーンとキャベツの具材で食べごたえも十分です。寒い日の夜食や忙しいランチにどうぞ。",
+   "image_brief": "A round paper cup noodle container with a peeled-back foil lid showing curly noodles in rich miso broth with corn, plain blank cream-colored wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃厚みそラーメン カップ 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃厚みそラーメン カップ 85g×3個",
+     "brand": "Cymbal",
+     "size": "85g×3個",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃厚みそラーメン カップ ケース 85g×12個",
+     "brand": "Cymbal",
+     "size": "85g×12個",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック みそラーメン カップ 75g",
+     "brand": "Cymbal ベーシック",
+     "size": "75g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 北の味噌 札幌風みそラーメン 縦型カップ 96g",
+     "brand": "ソラノ製麺",
+     "size": "96g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白みそ仕立て 炙りチャーシュー麺 カップ 110g",
+     "brand": "Cymbal セレクト",
+     "size": "110g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_miso_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_shio_ramen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "アウトドア"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラとホタテのうまみをベースにした、すっきり澄んだ塩味のカップラーメン。ごま油の香りがふわりと広がり、つるみのある細麺でさらりと食べられます。飲んだ後のシメや軽めのランチにもぴったりです。",
+   "image_brief": "A tall white paper cup noodle container with a half-open lid revealing thin noodles in clear golden salt broth with green onion, blank pale blue band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あっさり塩ラーメン カップ 78g",
+     "brand": "Cymbal",
+     "size": "78g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あっさり塩ラーメン カップ 78g×3個",
+     "brand": "Cymbal",
+     "size": "78g×3個",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あっさり塩ラーメン カップ ケース 78g×12個",
+     "brand": "Cymbal",
+     "size": "78g×12個",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩ラーメン カップ 72g",
+     "brand": "Cymbal ベーシック",
+     "size": "72g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 函館風 ほたて塩ラーメン 縦型カップ 82g",
+     "brand": "ミナトヤ食品",
+     "size": "82g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内藻塩 鶏だし塩そば カップ 95g",
+     "brand": "Cymbal セレクト",
+     "size": "95g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_shio_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_hakata_tonkotsu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "替え玉気分"
+   ],
+   "tax_rate": 8,
+   "description": "白く濁ったクリーミーな豚骨スープに、湯戻し1分のかための極細麺を合わせた博多風カップラーメン。きくらげと紅しょうが風味の具材入りで、お店のような雰囲気が楽しめます。標準サイズで小腹にもちょうど良い量です。",
+   "image_brief": "A round paper cup noodle container with very thin straight noodles in milky white pork broth topped with wood-ear mushroom slices, blank white and red band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 博多風 極細麺とんこつラーメン カップ 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 博多風 極細麺とんこつラーメン カップ 75g×3個",
+     "brand": "Cymbal",
+     "size": "75g×3個",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 博多風 極細麺とんこつラーメン カップ ケース 75g×12個",
+     "brand": "Cymbal",
+     "size": "75g×12個",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とんこつラーメン 細麺 カップ 68g",
+     "brand": "Cymbal ベーシック",
+     "size": "68g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 久留米風 こってり豚骨ラーメン カップ 92g",
+     "brand": "ソラノ製麺",
+     "size": "92g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒マー油香る 熊本風とんこつラーメン カップ 105g",
+     "brand": "Cymbal セレクト",
+     "size": "105g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_hakata_tonkotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_tori_paitan",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "在宅ワーク"
+   ],
+   "tax_rate": 8,
+   "description": "鶏を炊き出したようなとろみのある白湯スープが魅力のカップラーメン。まろやかでクリーミーな口当たりに、柚子胡椒風味の小袋で味変も楽しめます。ラーメン店の人気ジャンルを手軽に味わいたい方におすすめです。",
+   "image_brief": "A wide bowl-shaped paper cup with creamy ivory chicken broth, straight noodles and shredded chicken pieces visible, blank warm beige wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃厚鶏白湯ラーメン カップ 88g",
+     "brand": "Cymbal",
+     "size": "88g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃厚鶏白湯ラーメン カップ 88g×3個",
+     "brand": "Cymbal",
+     "size": "88g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃厚鶏白湯ラーメン カップ ケース 88g×12個",
+     "brand": "Cymbal",
+     "size": "88g×12個",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 名古屋コーチン使用 鶏白湯そば カップ 98g",
+     "brand": "Cymbal セレクト",
+     "size": "98g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 鶏白湯しお 柚子胡椒付 カップ 85g",
+     "brand": "ミナトヤ食品",
+     "size": "85g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_tori_paitan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_tantanmen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "辛いもの好きに"
+   ],
+   "tax_rate": 8,
+   "description": "練りごまのコクとラー油の辛さ、花椒のしびれが重なる本格派の担々麺カップ。肉そぼろ入りでスープまで飲み干したくなる濃厚な味わいです。辛さの段階を選べるので、ご家族それぞれの好みに合わせられます。",
+   "image_brief": "A round paper cup noodle container with orange sesame-chili broth, ground pork and bok choy pieces on noodles, blank deep red band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごま濃厚 担々麺 カップ 95g",
+     "brand": "Cymbal",
+     "size": "95g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま濃厚 担々麺 カップ 95g×3個",
+     "brand": "Cymbal",
+     "size": "95g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま濃厚 担々麺 カップ ケース 95g×12個",
+     "brand": "Cymbal",
+     "size": "95g×12個",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 しびれ激辛 担々麺 大盛カップ 125g",
+     "brand": "ソラノ製麺",
+     "size": "125g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 四川山椒香る 汁なし担々麺 カップ 110g",
+     "brand": "Cymbal セレクト",
+     "size": "110g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 担々麺 カップ 82g",
+     "brand": "Cymbal ベーシック",
+     "size": "82g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_tantanmen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_gyokai_tonkotsu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "鶏肉",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "がっつり食べたい時"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨の濃厚さに、かつお節やさば節の魚粉を合わせたWスープのカップラーメン。極太のもっちり麺が力強いスープにしっかり絡みます。食べごたえのある大盛サイズもあり、がっつり食べたい方に好評です。",
+   "image_brief": "A large bowl-shaped paper cup with thick noodles in brown fish-and-pork broth sprinkled with fish powder and a slice of chashu, blank black-and-gold wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 魚介豚骨ラーメン 極太麺 カップ 112g",
+     "brand": "Cymbal",
+     "size": "112g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 魚介豚骨ラーメン 極太麺 カップ 112g×3個",
+     "brand": "Cymbal",
+     "size": "112g×3個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 魚介豚骨ラーメン 極太麺 カップ ケース 112g×12個",
+     "brand": "Cymbal",
+     "size": "112g×12個",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 濃厚魚介つけ麺 カップ 128g",
+     "brand": "カザミ食品",
+     "size": "128g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 背脂煮干し 中華そば カップ 105g",
+     "brand": "Cymbal セレクト",
+     "size": "105g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_gyokai_tonkotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_tomato_noodle",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "チーズ追加アレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトの酸味とチーズのコクを合わせた洋風カップ麺。ゴロっとしたトマト具材とキャベツ入りで、スープはミネストローネのような味わいです。残ったスープにご飯を入れてリゾット風にするのもおすすめです。",
+   "image_brief": "A tall paper cup noodle container with red tomato broth, curly noodles, tomato chunks and cabbage visible, blank bright red band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 完熟トマトヌードル カップ 76g",
+     "brand": "Cymbal",
+     "size": "76g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 完熟トマトヌードル カップ 76g×3個",
+     "brand": "Cymbal",
+     "size": "76g×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 完熟トマトヌードル カップ ケース 76g×12個",
+     "brand": "Cymbal",
+     "size": "76g×12個",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ チーズトマトヌードル カップ 80g",
+     "brand": "ハルニレフーズ",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトヌードル ミニ 38g",
+     "brand": "Cymbal",
+     "size": "38g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_tomato_noodle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_wonton_men",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "あっさり食べたい時"
+   ],
+   "tax_rate": 8,
+   "description": "つるんとしたワンタンがたっぷり入った、しょうゆベースのカップワンタン麺。鶏ガラと煮干しのやさしいスープで、細麺とワンタンの食感の違いが楽しい一杯です。麺なしのワンタンスープタイプも揃えました。",
+   "image_brief": "A round paper cup with clear soy broth, thin noodles and several silky wontons floating, sprinkled green onion, blank light yellow wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ワンタン麺 しょうゆ味 カップ 72g",
+     "brand": "Cymbal",
+     "size": "72g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンタン麺 しょうゆ味 カップ 72g×3個",
+     "brand": "Cymbal",
+     "size": "72g×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンタンスープ しお味 カップ 28g",
+     "brand": "Cymbal",
+     "size": "28g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンタンスープ しょうゆ味 カップ 28g×6個",
+     "brand": "Cymbal",
+     "size": "28g×6個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 えびワンタン麺 塩味 カップ 78g",
+     "brand": "ミナトヤ食品",
+     "size": "78g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_wonton_men_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_curry_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "豚肉",
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "残り汁でカレーご飯"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしを効かせたとろみのあるカレースープに、もちっとした太めのうどんを合わせました。和風だしとスパイスの香りが食欲をそそり、体の芯から温まります。寒い季節の昼食にぴったりの一品です。",
+   "image_brief": "A wide bowl-shaped paper cup with thick white udon noodles in thick golden curry broth with green onion and fried tofu bits, blank mustard yellow band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal だし香る カレーうどん カップ 86g",
+     "brand": "Cymbal",
+     "size": "86g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal だし香る カレーうどん カップ 86g×3個",
+     "brand": "Cymbal",
+     "size": "86g×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal だし香る カレーうどん カップ ケース 86g×12個",
+     "brand": "Cymbal",
+     "size": "86g×12個",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレーうどん カップ 78g",
+     "brand": "Cymbal ベーシック",
+     "size": "78g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 辛口 和風カレーうどん 大盛カップ 110g",
+     "brand": "アオバ亭",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_curry_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_kamo_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "そば",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "年越し"
+   ],
+   "tax_rate": 8,
+   "description": "鴨の脂のコクと甘みがとけ込んだ、香り高いつゆのカップそば。そば粉を練り込んだ麺はのど越しがよく、ねぎの香ばしさがアクセントです。年末の年越しそばや、ちょっとした贅沢ランチにもおすすめです。",
+   "image_brief": "A wide paper cup with dark soba noodles in amber soy broth, slices of duck-style meat and grilled leek, blank deep brown wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鴨だしそば カップ 88g×3個",
+     "brand": "Cymbal",
+     "size": "88g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鴨南蛮そば 炙りねぎ入り カップ 98g",
+     "brand": "Cymbal セレクト",
+     "size": "98g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 鴨だし 年越しそば カップ 92g",
+     "brand": "アオバ亭",
+     "size": "92g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鴨だしそば ミニ 44g",
+     "brand": "Cymbal",
+     "size": "44g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_kamo_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_niku_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "受験の夜食"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く煮た牛肉具材をのせた関西風の肉うどんカップ。昆布とかつおのやさしい淡口つゆに、ふっくら太めのうどんがよく合います。甘めの味付けでお子さまからご年配の方まで食べやすい味わいです。",
+   "image_brief": "A wide bowl-shaped paper cup with thick udon in light golden broth topped with sweet simmered beef slices and green onion, blank orange band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関西風 肉うどん カップ 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 関西風 肉うどん カップ 90g×3個",
+     "brand": "Cymbal",
+     "size": "90g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 関西風 肉うどん カップ ケース 90g×12個",
+     "brand": "Cymbal",
+     "size": "90g×12個",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 甘辛牛 肉うどん 大盛カップ 118g",
+     "brand": "アオバ亭",
+     "size": "118g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 肉うどん カップ 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_niku_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_kakiage_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "おやつ代わり"
+   ],
+   "tax_rate": 8,
+   "description": "えびと野菜のかき揚げが入ったカップうどん。後のせにすればサクサク、先入れすればつゆを吸ってふんわりと、好みの食感が楽しめます。関東風の濃いめのつゆと関西風の淡口つゆから選べます。",
+   "image_brief": "A wide paper cup with udon noodles and a round golden vegetable-and-shrimp kakiage fritter floating on broth, blank green band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびかき揚げうどん 関東風 カップ 96g",
+     "brand": "Cymbal",
+     "size": "96g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびかき揚げうどん 関西風 カップ 96g",
+     "brand": "Cymbal",
+     "size": "96g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびかき揚げうどん カップ 96g×3個",
+     "brand": "Cymbal",
+     "size": "96g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 特大かき揚げうどん カップ 120g",
+     "brand": "アオバ亭",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック かき揚げうどん カップ 85g",
+     "brand": "Cymbal ベーシック",
+     "size": "85g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_kakiage_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_shio_yakisoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップ焼そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラとねぎ油の香りを効かせた、さっぱり塩味のカップ焼そば。レモン風味の特製塩だれと黒こしょうがあとを引き、キャベツの甘みとよく合います。ソース味に飽きたときの気分転換にもおすすめです。",
+   "image_brief": "A rectangular plastic yakisoba cup with the lid partly removed showing pale stir-fried noodles with cabbage and black pepper, blank white and lime band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ねぎ塩焼そば カップ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねぎ塩焼そば カップ 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねぎ塩焼そば カップ ケース 100g×12個",
+     "brand": "Cymbal",
+     "size": "100g×12個",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 レモン塩焼そば 大盛カップ 140g",
+     "brand": "カザミ食品",
+     "size": "140g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩焼そば カップ 90g",
+     "brand": "Cymbal ベーシック",
+     "size": "90g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_shio_yakisoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_aburasoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップ焼そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "お酢とラー油でアレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆだれと香味油を絡めて食べる汁なしの油そばカップ。もちもちの太麺にお好みで酢やラー油を加えると、専門店のような味の変化が楽しめます。ボリュームのある大盛サイズもご用意しました。",
+   "image_brief": "A square plastic noodle cup with glossy thick noodles coated in dark soy sauce oil, topped with menma and green onion, blank black band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 汁なし油そば カップ 112g",
+     "brand": "Cymbal",
+     "size": "112g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 汁なし油そば カップ 112g×3個",
+     "brand": "Cymbal",
+     "size": "112g×3個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 背脂にんにく 油そば 大盛カップ 150g",
+     "brand": "カザミ食品",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 汁なし油そば カップ ケース 112g×12個",
+     "brand": "Cymbal",
+     "size": "112g×12個",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒ごま香る 汁なし油そば カップ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_aburasoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_taiwan_mazesoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップ焼そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "ごま",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夜食",
+    "追い飯"
+   ],
+   "tax_rate": 8,
+   "description": "ピリ辛の台湾ミンチとにら、魚粉風味のふりかけを混ぜて食べる台湾まぜそばカップ。濃厚で刺激的なたれが極太麺にしっかり絡みます。最後にご飯を入れる追い飯もおすすめです。",
+   "image_brief": "A square plastic cup of thick noodles topped with spicy red minced pork, chopped garlic chives and seasoning powder, blank red-and-black band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 台湾まぜそば カップ 118g",
+     "brand": "Cymbal",
+     "size": "118g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾まぜそば カップ 118g×3個",
+     "brand": "Cymbal",
+     "size": "118g×3個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 激辛 台湾まぜそば 大盛カップ 150g",
+     "brand": "カザミ食品",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾まぜそば カップ ケース 118g×12個",
+     "brand": "Cymbal",
+     "size": "118g×12個",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_taiwan_mazesoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_mini_cup_ramen_assort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "ミニカップ麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "小腹満たし",
+    "お弁当のおとも",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ちょっと食べたいときに便利なミニサイズのカップラーメン。みそ・塩・とんこつの3つの味を揃え、おにぎりやお弁当と一緒にちょうど良い量です。食べ比べできる3種アソートパックもあります。",
+   "image_brief": "Three small round paper mini cup noodles in pastel colors with blank labels stacked in a pyramid, one lid open showing noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニカップ 塩ラーメン 36g",
+     "brand": "Cymbal",
+     "size": "36g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニカップ ラーメン 3種アソート 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニカップ みそラーメン 38g×12個",
+     "brand": "Cymbal",
+     "size": "38g×12個",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_mini_cup_ramen_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_mini_cup_udon_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "ミニカップ麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "そば",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "小腹満たし",
+    "おにぎりと一緒に",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "かつおだしが香るミニサイズのカップうどん・そば。お湯を注いで3分、おにぎりやお弁当に添える汁物代わりにもちょうど良いサイズです。きつね・天ぷら・わかめなど具材違いで揃えました。",
+   "image_brief": "Small round paper mini cups of udon and soba with blank cream labels, one open showing fried tofu on udon, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニカップ わかめうどん 36g",
+     "brand": "Cymbal",
+     "size": "36g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニカップ うどん・そば 4個アソート 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニカップ きつねうどん 41g×12個",
+     "brand": "Cymbal ベーシック",
+     "size": "41g×12個",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_mini_cup_udon_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_cup_pho",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップフォー・ビーフン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "パクチー追加で本格派"
+   ],
+   "tax_rate": 8,
+   "description": "米粉で作ったつるつるの平麺に、鶏だしとナンプラー風味のさっぱりスープを合わせたカップフォー。ライム風味でやさしく、カロリー控えめの軽食にもおすすめです。辛口のトムヤム味もご用意しました。",
+   "image_brief": "A slim paper cup with flat white rice noodles in clear chicken broth topped with fresh herbs, plain blank green label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏だし フォー カップ 36g",
+     "brand": "Cymbal",
+     "size": "36g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏だし フォー カップ 36g×3個",
+     "brand": "Cymbal",
+     "size": "36g×3個",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ トムヤムクン風 フォー カップ 38g",
+     "brand": "ハルニレフーズ",
+     "size": "38g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏だし ビーフン汁 カップ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ フォー・ボー 牛だし風 カップ 38g",
+     "brand": "ハルニレフーズ",
+     "size": "38g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_cup_pho_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_harusame_soup_assort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "春雨スープ・カップスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "鶏肉",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチのお供",
+    "軽食",
+    "ダイエット中の夜食"
+   ],
+   "tax_rate": 8,
+   "description": "つるっとした春雨入りのスープを、袋入りでまとめた春雨スープアソート。ごま担々・かきたま・わかめ・トムヤムなど味を揃え、マグカップでいつでも手軽に楽しめます。1食あたり低カロリーで軽めの食事にも。",
+   "image_brief": "A clear stand-up bag holding many small colorful individual soup sachets with blank labels, next to a mug of glass-noodle soup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 春雨スープ 4種アソート 20食入",
+     "brand": "Cymbal",
+     "size": "20食入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 春雨スープ 4種アソート 10食入",
+     "brand": "Cymbal",
+     "size": "10食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま担々 春雨スープ カップ 22g",
+     "brand": "Cymbal",
+     "size": "22g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かきたま 春雨スープ カップ 18g",
+     "brand": "Cymbal",
+     "size": "18g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ トムヤム 春雨スープ カップ 20g",
+     "brand": "ハルニレフーズ",
+     "size": "20g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック わかめ 春雨スープ 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_harusame_soup_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_sapporo_miso",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "みそラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "もやし炒めのせ",
+    "鍋のシメ",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "炒め野菜やひき肉をのせて仕上げたい、札幌風の濃厚みそラーメン5食パック。赤みそと白みそをブレンドしたスープに、にんにくとしょうがを効かせました。ちぢれ麺がスープをしっかり持ち上げます。",
+   "image_brief": "A multipack of five rectangular instant ramen pouches in deep orange plastic film with blank labels, bundled together, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 札幌風 濃厚みそラーメン 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 北国みそ ちぢれ麺ラーメン 5食入",
+     "brand": "ソラノ製麺",
+     "size": "5食入",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 炙りみそ ノンフライ麺 4食入",
+     "brand": "Cymbal セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 札幌風 濃厚みそラーメン 1食 100g",
+     "brand": "Cymbal",
+     "size": "1食 100g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_sapporo_miso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_goma_shio",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "塩ラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "野菜たっぷりラーメン",
+    "塩焼そばアレンジ",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラと野菜のうまみに、いりごまの香ばしさを加えた定番の塩ラーメン5食パック。くせのないすっきり味で、野菜炒めや卵を加えるアレンジにも合わせやすい万能タイプです。",
+   "image_brief": "A five-pack of instant ramen pouches in pale beige and white film with blank labels, one packet slightly fanned out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 塩ラーメン 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 あごだし塩ラーメン 5食入",
+     "brand": "ミナトヤ食品",
+     "size": "5食入",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ノンフライ 鶏塩らーめん 4食入",
+     "brand": "Cymbal セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま香る 塩ラーメン 1食 100g",
+     "brand": "Cymbal",
+     "size": "1食 100g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_goma_shio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_hakata_tonkotsu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "とんこつラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "替え玉風アレンジ",
+    "紅しょうがのせ",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "クリーミーな白濁豚骨スープと、ゆで時間1分半の極細麺を組み合わせた博多風とんこつラーメン5食パック。紅しょうがや高菜を添えればお店さながらの一杯に。すりごまの調味油付きです。",
+   "image_brief": "A bundle of five instant ramen pouches in white and red film with blank labels, studio packshot on white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 博多風 極細とんこつラーメン 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とんこつラーメン 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 黒マー油 とんこつラーメン 5食入",
+     "brand": "ソラノ製麺",
+     "size": "5食入",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ノンフライ 濃厚豚骨らーめん 4食入",
+     "brand": "Cymbal セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 博多風 極細とんこつラーメン 1食 85g",
+     "brand": "Cymbal",
+     "size": "1食 85g",
+     "price_tax_excluded": 92,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_hakata_tonkotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_tantanmen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "担々麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ひき肉とチンゲン菜のせ",
+    "汁なし担々麺",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "練りごまとラー油、花椒を合わせた濃厚スープの担々麺5食パック。ひき肉とチンゲン菜をのせるだけで本格的な味わいになります。少なめのお湯で作れば汁なし担々麺としても楽しめます。",
+   "image_brief": "A five-pack of instant noodle pouches in dark red film with blank labels and a bowl of sesame chili ramen beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごま担々麺 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま担々麺 1食 105g",
+     "brand": "Cymbal",
+     "size": "1食 105g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製麺 四川風 しびれ担々麺 5食入",
+     "brand": "ソラノ製麺",
+     "size": "5食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ノンフライ 白ごま担々麺 4食入",
+     "brand": "Cymbal セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 担々麺 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_tantanmen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_champon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "ちゃんぽん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "いか",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "野菜たっぷりちゃんぽん",
+    "皿うどん風",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨と鶏ガラ、魚介のうまみをとけ込ませたまろやかなスープのちゃんぽん5食パック。キャベツやもやし、かまぼこを炒めてのせれば栄養バランスの良い一杯に。太めのストレート麺がよく合います。",
+   "image_brief": "A five-pack of instant noodle pouches in cream and green film with blank labels, beside a bowl of milky noodle soup piled with vegetables and seafood, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 長崎風 ちゃんぽん 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 長崎風 ちゃんぽん 1食 95g",
+     "brand": "Cymbal",
+     "size": "1食 95g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 海鮮ちゃんぽん 5食入",
+     "brand": "ミナトヤ食品",
+     "size": "5食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ちゃんぽん 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 長崎風 皿うどん 揚げ麺 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_champon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_nonfry_shoyu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "しょうゆラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーシュー麺",
+    "鍋のシメ",
+    "昼食"
+   ],
+   "tax_rate": 8,
+   "description": "油で揚げずに乾燥させたノンフライ麺を使った中華そば。生麺のようなつるみとコシがあり、鶏ガラと煮干しのすっきりしたしょうゆスープによく合います。軽い食べ心地を好む方におすすめです。",
+   "image_brief": "A five-pack of instant ramen pouches in matte brown kraft-look film with blank labels, one opened showing a dried straight noodle block, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ノンフライ 中華そば しょうゆ 4食入",
+     "brand": "Cymbal セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンフライ 鶏がらしょうゆラーメン 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナトヤ食品 煮干し中華そば ノンフライ 4食入",
+     "brand": "ミナトヤ食品",
+     "size": "4食入",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンフライ 鶏がらしょうゆラーメン 1食 90g",
+     "brand": "Cymbal",
+     "size": "1食 90g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ノンフライ しょうゆラーメン 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_nonfry_shoyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_gekikara",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "辛口ラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズ入り",
+    "鍋のシメ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "唐辛子とにんにくをしっかり効かせた韓国風の辛口ラーメン5食パック。牛骨ベースのうまみのあるスープにもちもちの太麺を合わせました。卵やチーズ、キムチを加えるアレンジもおすすめです。",
+   "image_brief": "A five-pack of instant noodle pouches in fiery red and black film with blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 激辛ラーメン 韓国風 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 激辛ラーメン 韓国風 1食 120g",
+     "brand": "Cymbal",
+     "size": "1食 120g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 チーズ辛ラーメン 5食入",
+     "brand": "カザミ食品",
+     "size": "5食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カザミ食品 汁なし 激辛炒め麺 5食入",
+     "brand": "カザミ食品",
+     "size": "5食入",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 辛口ラーメン 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_gekikara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukuro_instant_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "即席うどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "そば",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋焼きうどん",
+    "月見うどん",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "鍋で煮るだけで手軽に作れる即席うどん・そばの5食パック。かつおと昆布のだしが効いたつゆ付きで、卵や油揚げ、ねぎを加えれば鍋焼き風にも。寒い季節の常備品におすすめです。",
+   "image_brief": "A five-pack of instant udon pouches in pale yellow film with blank labels, next to a small earthenware pot of udon with an egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 即席 きつねうどん 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 即席 天ぷらそば 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 即席 鍋焼きうどん 鍋付 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 即席 讃岐風うどん 5食入",
+     "brand": "アオバ亭",
+     "size": "5食入",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 即席うどん 5食入",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukuro_instant_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_amakuchi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "豚肉",
+    "りんご",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "お子さまランチ",
+    "カレーうどん"
+   ],
+   "tax_rate": 8,
+   "description": "りんごとバナナの自然な甘みに、はちみつを加えてまろやかに仕上げた甘口カレー。辛さが苦手な方やお子さまにも食べやすく、ごろっとしたじゃがいもと人参入りです。レンジで袋ごと温められます。",
+   "image_brief": "A rectangular retort curry pouch in a pale yellow paper box with blank label, beside a plate of mild curry rice with potatoes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal まろやか甘口 カレー 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal まろやか甘口 カレー 200g×5袋",
+     "brand": "Cymbal",
+     "size": "200g×5袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレー 甘口 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジで簡単 甘口 ポークカレー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産りんごとはちみつの甘口カレー 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_amakuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_chukara_beef",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カツカレー",
+    "カレードリア"
+   ],
+   "tax_rate": 8,
+   "description": "炒め玉ねぎとスパイスを丁寧に合わせた、ほどよい辛さの中辛ビーフカレー。牛肉のうまみがしみ込んだ食べ飽きない味わいで、常備食にもぴったりです。お得なまとめ買いパックもご用意しました。",
+   "image_brief": "A rectangular retort curry box in deep brown and orange with blank label, beside a plate of beef curry with rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビーフカレー 中辛 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフカレー 中辛 200g×5袋",
+     "brand": "Cymbal",
+     "size": "200g×5袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレー 中辛 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフカレー 中辛 大盛 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛ごろごろ ビーフカレー 中辛 210g",
+     "brand": "Cymbal セレクト",
+     "size": "210g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ 洋食屋のビーフカレー 中辛 200g",
+     "brand": "スパイス工房ルリカ",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_chukara_beef_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_karakuchi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カレーうどん",
+    "カレーパン"
+   ],
+   "tax_rate": 8,
+   "description": "クミンやチリ、ブラックペッパーを効かせたキレのある辛口カレー。後からじわじわくる辛さとコクのバランスがよく、辛口好きの方の定番に。さらに辛い大辛タイプもご用意しています。",
+   "image_brief": "A rectangular retort curry box in dark red and black with blank label, beside a plate of dark spicy curry with rice and red chili, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スパイシー辛口 カレー 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイシー辛口 カレー 200g×5袋",
+     "brand": "Cymbal",
+     "size": "200g×5袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレー 辛口 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ 大辛 ホットビーフカレー 200g",
+     "brand": "スパイス工房ルリカ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒胡椒香る 辛口ビーフカレー 210g",
+     "brand": "Cymbal セレクト",
+     "size": "210g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_karakuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_butter_chicken",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "鶏肉",
+    "大豆",
+    "カシューナッツ",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "バターチキンカレー",
+    "ナンと一緒に",
+    "カレードリア"
+   ],
+   "tax_rate": 8,
+   "description": "トマトとバター、生クリームでまろやかに仕上げたインド風バターチキンカレー。やわらかな鶏もも肉入りで、カシューナッツのコクがアクセントです。ご飯はもちろんナンともよく合います。",
+   "image_brief": "A retort curry pouch in an orange box with blank label, beside a bowl of creamy orange butter chicken curry and naan bread, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バターチキンカレー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バターチキンカレー 180g×3袋",
+     "brand": "Cymbal",
+     "size": "180g×3袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ インド風 バターチキンカレー 中辛 200g",
+     "brand": "スパイス工房ルリカ",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚バター 贅沢バターチキンカレー 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック バターチキンカレー 160g",
+     "brand": "Cymbal ベーシック",
+     "size": "160g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_butter_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_keema",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "キーマカレー",
+    "温玉のせ",
+    "ホットサンド"
+   ],
+   "tax_rate": 8,
+   "description": "ひき肉と細かく刻んだ玉ねぎ、人参をじっくり炒めたキーマカレー。水分少なめのドライタイプで、ご飯にもパンにもよく合います。温泉卵をのせたり、ホットサンドの具にしたりとアレンジ自在です。",
+   "image_brief": "A retort pouch in an olive-green box with blank label, beside a plate of dry minced meat keema curry topped with a soft egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひき肉と野菜のキーマカレー 中辛 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひき肉と野菜のキーマカレー 中辛 150g×3袋",
+     "brand": "Cymbal",
+     "size": "150g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ スパイスキーマカレー 辛口 160g",
+     "brand": "スパイス工房ルリカ",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 黒カレーキーマ 170g",
+     "brand": "Cymbal セレクト",
+     "size": "170g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キーマカレー 甘口 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_keema_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_green",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "鶏肉",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グリーンカレー",
+    "エスニックランチ",
+    "そうめんアレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "ココナッツミルクのまろやかさと青唐辛子の辛さ、ハーブの爽やかな香りが広がるタイ風グリーンカレー。鶏肉とたけのこ、なす入りで本格的な味わいです。ジャスミンライスと合わせるのがおすすめです。",
+   "image_brief": "A retort pouch in a bright green box with blank label, beside a bowl of green coconut curry with chicken and basil leaves, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal タイ風 グリーンカレー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal タイ風 グリーンカレー 180g×3袋",
+     "brand": "Cymbal",
+     "size": "180g×3袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ タイ風 レッドカレー 180g",
+     "brand": "ハルニレフーズ",
+     "size": "180g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ タイ風 マッサマンカレー 180g",
+     "brand": "ハルニレフーズ",
+     "size": "180g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ココナッツ濃厚 グリーンカレー 辛口 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_green_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_soup_hokkaido",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スープカレー",
+    "野菜焼きのせ",
+    "鍋のアレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスの香りが立つさらさらのスープに、骨付き鶏もも肉をまるごと入れた北海道風スープカレー。焼いた野菜をトッピングすればお店のような一皿に。体が温まる寒い季節にもおすすめです。",
+   "image_brief": "A retort pouch in a deep red box with blank label, beside a bowl of thin spicy soup curry with a chicken drumstick and roasted vegetables, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 骨付きチキン スープカレー 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スープカレー 中辛 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ 札幌風 スープカレー 辛口 280g",
+     "brand": "スパイス工房ルリカ",
+     "size": "280g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産野菜入り スープカレー 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スープカレー 中辛 250g×2袋",
+     "brand": "Cymbal",
+     "size": "250g×2袋",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_soup_hokkaido_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_oufuu_beef",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "カレーライス",
+    "おもてなし",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "フォンドボーと赤ワイン、炒め玉ねぎをじっくり煮込んだ欧風ビーフカレー。とろけるような牛ばら肉がたっぷり入り、深いコクと上品な甘みが楽しめます。ちょっと特別な日の食卓やギフトにも。",
+   "image_brief": "A premium matte black retort curry box with blank gold-edged label, beside a white plate of glossy dark European-style beef curry, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 欧風ビーフカレー 中辛 210g",
+     "brand": "Cymbal セレクト",
+     "size": "210g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風ビーフカレー 中辛 210g×3袋",
+     "brand": "Cymbal セレクト",
+     "size": "210g×3袋",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 欧風カレー 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国産牛使用"
+    },
+    {
+     "title": "スパイス工房ルリカ ホテル仕立て 欧風カレー 200g",
+     "brand": "スパイス工房ルリカ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風カレー 4種詰め合わせ ギフト 4袋入",
+     "brand": "Cymbal セレクト",
+     "size": "4袋入",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_oufuu_beef_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_curry_yasai_plant",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "ベジタリアン",
+    "カレーうどん"
+   ],
+   "tax_rate": 8,
+   "description": "肉や動物性原料を使わず、大豆ミートと野菜でうまみを引き出したカレー。ごろっと大きなかぼちゃ、人参、ブロッコリー入りで食べごたえも十分。野菜をしっかり摂りたい方にもおすすめです。",
+   "image_brief": "A retort pouch in a light green and white box with blank label, beside a plate of vegetable curry with chunks of pumpkin and broccoli, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 1/2日分の野菜カレー 中辛 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大豆ミートのキーマカレー 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜のカレー 中辛 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜のカレー 甘口 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 1/2日分の野菜カレー 中辛 200g×3袋",
+     "brand": "Cymbal",
+     "size": "200g×3袋",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_curry_yasai_plant_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_hayashi_tomato",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "ハヤシ・シチュー（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハヤシライス",
+    "オムハヤシ",
+    "ドリア"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトとデミグラスソースを合わせた、酸味と甘みのバランスがよいトマトハヤシ。薄切り牛肉とマッシュルーム入りで、オムライスにかけてオムハヤシにするのもおすすめです。",
+   "image_brief": "A retort pouch in a red-brown box with blank label, beside a plate of hayashi rice with tomato-demiglace sauce and mushrooms, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 完熟トマトのハヤシ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 完熟トマトのハヤシ 200g×3袋",
+     "brand": "Cymbal",
+     "size": "200g×3袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 赤ワイン仕立て デミグラスハヤシ 210g",
+     "brand": "Cymbal セレクト",
+     "size": "210g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ 洋食屋のオムハヤシソース 180g",
+     "brand": "スパイス工房ルリカ",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_hayashi_tomato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_beef_stew_retort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "ハヤシ・シチュー（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "パンと一緒に",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "デミグラスソースで牛肉と野菜をじっくり煮込んだビーフシチュー。温めるだけでやわらかな牛肉の洋食メニューが楽しめます。パンやご飯、マッシュポテトと合わせてどうぞ。寒い季節にうれしい一品です。",
+   "image_brief": "A retort pouch in a dark brown box with blank label, beside a deep plate of rich beef stew with carrots and potatoes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごろっと牛肉のビーフシチュー 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごろっと牛肉のビーフシチュー 250g×2袋",
+     "brand": "Cymbal",
+     "size": "250g×2袋",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 牛ほほ肉の赤ワイン煮込み 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ビーフシチュー 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スパイス工房ルリカ 洋食屋のタンシチュー風 230g",
+     "brand": "スパイス工房ルリカ",
+     "size": "230g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_beef_stew_retort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_butadon_no_gu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "焼肉丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛い炭火焼き風のたれで仕上げた帯広風の豚丼の具。香ばしく焼き上げた豚ロースを温かいご飯にのせるだけで、ボリュームのある丼ぶりが完成します。忙しい日のランチや夕食にどうぞ。",
+   "image_brief": "A retort pouch in a dark amber box with blank label, beside a bowl of rice topped with glossy grilled pork slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 帯広風 豚丼の具 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 帯広風 豚丼の具 120g×3袋",
+     "brand": "Cymbal",
+     "size": "120g×3袋",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼 北海道産豚の豚丼の具 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産豚肉使用"
+    },
+    {
+     "title": "Cymbal ねぎ塩豚丼の具 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_butadon_no_gu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_gapao_no_moto",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ガパオライス",
+    "目玉焼きのせ",
+    "レタス包み"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ひき肉とパプリカ、バジルをナンプラーとオイスター風味で炒めたタイ風ガパオライスの具。目玉焼きをのせればカフェのようなワンプレートが手軽に完成します。ピリ辛でご飯がすすみます。",
+   "image_brief": "A retort pouch in a basil-green box with blank label, beside a plate of rice with minced chicken, basil, peppers and a fried egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ガパオライスの具 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ガパオライスの具 120g×3袋",
+     "brand": "Cymbal",
+     "size": "120g×3袋",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ 辛口 ガパオライスの素 130g",
+     "brand": "ハルニレフーズ",
+     "size": "130g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ カオマンガイの素 2合用 1袋",
+     "brand": "ハルニレフーズ",
+     "size": "1袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_gapao_no_moto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_lurou_no_gu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ルーロー飯",
+    "煮卵のせ",
+    "高菜添え"
+   ],
+   "tax_rate": 8,
+   "description": "八角と五香粉の香る甘辛いたれで豚ばら肉を煮込んだ台湾風ルーロー飯の具。とろとろの豚肉がご飯によく絡み、煮卵や青菜を添えれば屋台風の一杯に。異国の味を手軽に楽しめます。",
+   "image_brief": "A retort pouch in a burgundy box with blank label, beside a bowl of rice topped with braised soy pork and a halved soy egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 台湾風 ルーロー飯の具 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾風 ルーロー飯の具 120g×3袋",
+     "brand": "Cymbal",
+     "size": "120g×3袋",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ 台湾まぜご飯の具 魯肉 150g",
+     "brand": "ハルニレフーズ",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 煮卵入り ルーロー飯の具 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_lurou_no_gu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_fukagawa_meshi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "深川めし",
+    "あさり丼",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "あさりのむき身をしょうがと甘辛いみそ仕立てで煮込んだ深川めしの具。温かいご飯にかけるだけで、江戸の下町の味わいが楽しめます。炊飯時に混ぜて炊き込みご飯にするのもおすすめです。",
+   "image_brief": "A retort pouch in an indigo box with blank label, beside a bowl of rice topped with simmered clams and green onions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あさりの深川めしの具 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あさりの深川めしの具 150g×2袋",
+     "brand": "Cymbal",
+     "size": "150g×2袋",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 深川めしの素 炊き込み用 2合用 1袋",
+     "brand": "アオバ亭",
+     "size": "1袋",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産あさり 深川丼の具 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 398,
+     "origin": "国産あさり使用"
+    }
+   ],
+   "images": [
+    "w_instant_retort_fukagawa_meshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_napolitan",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "トマト系パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ナポリタン",
+    "オムライス",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "ケチャップをじっくり炒めたような甘みとコクのある喫茶店風ナポリタンソース。ウインナーとピーマン、玉ねぎ入りで、ゆでたスパゲッティに絡めるだけで懐かしい味わいに。お弁当にもおすすめです。",
+   "image_brief": "A retort pasta sauce pouch in a red-and-cream box with blank label, beside a plate of ketchup spaghetti with sausage and green pepper, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 喫茶店風 ナポリタン 2人前 260g",
+     "brand": "Cymbal",
+     "size": "2人前 260g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 喫茶店風 ナポリタン 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ナポリタン パスタソース 1人前×2袋",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 粗挽きソーセージのナポリタン 1人前 150g",
+     "brand": "Cymbal セレクト",
+     "size": "1人前 150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 喫茶店風 ナポリタン 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_napolitan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_arrabbiata",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "トマト系パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "アラビアータ",
+    "ペンネ",
+    "ピザソース代わり"
+   ],
+   "tax_rate": 8,
+   "description": "イタリア産トマトににんにくと唐辛子を効かせた、ピリッと辛いアラビアータソース。オリーブオイルの香りが豊かで、ペンネやスパゲッティによく合います。バジル香るトマトソースもご用意しました。",
+   "image_brief": "A small glass jar of red chunky tomato sauce with a blank paper label and metal lid, beside penne pasta in spicy tomato sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アラビアータ パスタソース 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産トマトのアラビアータ 瓶 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal セレクト バジル香る トマトソース 瓶 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機トマトのマリナーラソース 瓶 340g",
+     "brand": "Cymbal オーガニック",
+     "size": "340g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ベーシック トマトソース パスタ用 295g",
+     "brand": "Cymbal ベーシック",
+     "size": "295g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_arrabbiata_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_peperoncino",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "オイル系パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ペペロンチーノ",
+    "野菜炒め",
+    "アヒージョ風"
+   ],
+   "tax_rate": 8,
+   "description": "にんにくと唐辛子、オリーブオイルのシンプルな味付けを手軽に再現できるペペロンチーノソース。ゆでたパスタに混ぜるだけで本格的な香りが立ちます。キャベツやベーコンを加えるのもおすすめです。",
+   "image_brief": "Small square sachets of olive oil pasta sauce in a blank green and gold paper box, beside a plate of garlic chili spaghetti, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal にんにく香る ペペロンチーノ 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal にんにく香る ペペロンチーノ 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト からすみ風味 ペペロンチーノ 1人前×2袋",
+     "brand": "Cymbal セレクト",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しらすと大葉のペペロンチーノ 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_peperoncino_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_mentaiko",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "和風パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "明太子パスタ",
+    "明太バタートースト",
+    "うどんアレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛い明太子の粒感が楽しめる、混ぜるだけのパスタソース。バター風味でまろやかに仕上げ、きざみのり付きです。パスタはもちろん、ゆでたうどんやじゃがいもに和えるのもおすすめです。",
+   "image_brief": "Small pink pasta sauce sachets and a pouch of shredded nori in a blank pink and white paper box, beside a plate of creamy pink cod roe spaghetti, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 明太子パスタソース 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太子クリーム パスタソース 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多風 辛子明太子 パスタソース 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 明太子パスタソース 2人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太子パスタソース 4人前",
+     "brand": "Cymbal",
+     "size": "4人前",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_mentaiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_genovese",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "バジル・ジェノベーゼ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "カシューナッツ",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ジェノベーゼ",
+    "ブルスケッタ",
+    "グリルチキン"
+   ],
+   "tax_rate": 8,
+   "description": "バジルの爽やかな香りに、チーズとカシューナッツのコクを合わせたジェノベーゼソース。パスタに絡めるのはもちろん、グリルした鶏肉やじゃがいもにかけたり、パンに塗ったりと幅広く使えます。",
+   "image_brief": "A small glass jar of vivid green basil pesto with a blank label and silver lid, beside a plate of pesto spaghetti, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バジル香る ジェノベーゼ 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産バジル ジェノベーゼ 瓶 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal セレクト ジェノベーゼ 瓶 190g",
+     "brand": "Cymbal セレクト",
+     "size": "190g",
+     "price_tax_excluded": 698,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ジェノベーゼクリーム 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_genovese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_vongole",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "オイル系パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ボンゴレビアンコ",
+    "ボンゴレロッソ",
+    "リゾット"
+   ],
+   "tax_rate": 8,
+   "description": "あさりのうまみと白ワイン、にんにくを合わせたボンゴレビアンコのソース。あさりの身入りで、ゆでたパスタに絡めるだけで手軽に本格的な味わいに。トマト仕立てのロッソもご用意しました。",
+   "image_brief": "A retort pouch of clam pasta sauce in a blank white and navy box, beside a plate of clam spaghetti with parsley, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あさりのボンゴレビアンコ 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あさりのボンゴレロッソ 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産あさり たっぷりボンゴレ 1人前 140g",
+     "brand": "Cymbal セレクト",
+     "size": "1人前 140g",
+     "price_tax_excluded": 298,
+     "origin": "国産あさり使用"
+    },
+    {
+     "title": "Cymbal ベーシック ボンゴレ パスタソース 1人前×2袋",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_vongole_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_kinoko_wafu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "和風パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "きのこの和風パスタ",
+    "炊き込みご飯",
+    "ソテー"
+   ],
+   "tax_rate": 8,
+   "description": "しめじやエリンギ、まいたけなど4種のきのこをしょうゆバター風味で仕上げた和風パスタソース。きのこの香りが豊かで、秋冬の食卓にぴったり。ご飯に混ぜたり肉のソテーにかけるのもおすすめです。",
+   "image_brief": "A retort pouch in a warm brown box with blank label, beside a plate of spaghetti with mixed mushrooms in soy butter sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 4種のきのこ 和風しょうゆバター 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト まいたけと昆布だしの和風パスタソース 1人前×2袋",
+     "brand": "Cymbal セレクト",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きのこクリーム パスタソース 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 きのこのバター醤油 パスタソース 2人前 230g",
+     "brand": "アオバ亭",
+     "size": "2人前 230g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_kinoko_wafu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_pasta_porcini_cream",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "カルボナーラ・クリーム系"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ポルチーニクリームパスタ",
+    "リゾット",
+    "グラタン"
+   ],
+   "tax_rate": 8,
+   "description": "香り高いポルチーニ茸とマッシュルームを生クリームで仕上げた濃厚なクリームソース。ひと口ごとに芳醇なきのこの香りが広がります。パスタのほか、ご飯と煮込んでリゾットにするのもおすすめです。",
+   "image_brief": "A retort pouch in a cream and dark green box with blank label, beside a plate of fettuccine in creamy porcini mushroom sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ポルチーニ香る クリームソース 1人前 140g",
+     "brand": "Cymbal セレクト",
+     "size": "1人前 140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ポルチーニ香る クリームソース 1人前×2袋",
+     "brand": "Cymbal セレクト",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トリュフ風味 きのこクリーム 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゴルゴンゾーラ風味 チーズクリーム 1人前×2袋",
+     "brand": "Cymbal",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト うにクリーム パスタソース 1人前 130g",
+     "brand": "Cymbal セレクト",
+     "size": "1人前 130g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_pasta_porcini_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_okayu_tamago",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "おかゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "鶏肉",
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "体調管理中の食事",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "国産米をていねいに炊き上げ、ふんわりとした卵を加えた玉子がゆ。かつおと昆布のだしでやさしく味付けしました。レンジや湯せんで温めるだけ、食欲がないときや朝食にも食べやすいおかゆです。",
+   "image_brief": "A microwavable plastic cup of egg rice porridge with a peelable film lid and blank label, beside a bowl of creamy porridge with egg ribbons, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産米使用 玉子がゆ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産米使用 玉子がゆ 250g×3袋",
+     "brand": "Cymbal",
+     "size": "250g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産こしひかり使用 玉子がゆ カップ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 玉子がゆ 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_okayu_tamago_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_okayu_chuka",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "おかゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "朝食",
+    "夜食",
+    "寒い日の一杯"
+   ],
+   "tax_rate": 8,
+   "description": "鶏だしとしょうがのうまみがきいた、とろりとした中華がゆ。ごま油を少したらすと香りが立ち、ザーサイや揚げパンを添えれば本格的な朝がゆに。体が温まる寒い季節にもおすすめです。",
+   "image_brief": "A microwave cup of Chinese chicken congee with blank label, beside a bowl of smooth congee with shredded chicken and green onion, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏だし 中華がゆ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏だし 中華がゆ 250g×3袋",
+     "brand": "Cymbal",
+     "size": "250g×3袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ ピータン風 中華がゆ 250g",
+     "brand": "ハルニレフーズ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 参鶏湯風 もち米がゆ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_okayu_chuka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_zosui_kani",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "雑炊・おじやの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "かに",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かに雑炊",
+    "鍋のシメ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "かにのうまみと卵をふわっと合わせた、かに雑炊のフリーズドライ。お湯を注いで混ぜるだけで、だしのしみたやさしい雑炊がすぐにできあがります。鍋のシメの雑炊用ストックにもおすすめです。",
+   "image_brief": "Square freeze-dried soup blocks in individual blank silver pouches and a bowl of crab rice porridge with egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フリーズドライ かに雑炊 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ かに雑炊 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ずわいがに雑炊 フリーズドライ 1食",
+     "brand": "Cymbal セレクト",
+     "size": "1食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かに雑炊の素 鍋用 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ ふぐ雑炊 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_zosui_kani_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_zosui_fd_assort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "雑炊・おじやの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "卵",
+    "鶏肉",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "朝食",
+    "夜食",
+    "お弁当のお供"
+   ],
+   "tax_rate": 8,
+   "description": "梅・鮭・玉子・きのこなど人気の味を揃えたフリーズドライの雑炊アソート。ご飯入りなのでお湯を注ぐだけで一食になり、職場や旅行先にも持ち運べます。少しずつ違う味を楽しみたい方におすすめです。",
+   "image_brief": "A clear stand-up bag holding several small individually wrapped blank freeze-dried porridge blocks in pastel pouches, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フリーズドライ 雑炊 4種アソート 8食入",
+     "brand": "Cymbal",
+     "size": "8食入",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ 鮭雑炊 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ きのこ雑炊 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ 梅雑炊 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト だしが香る 雑炊 6種ギフト 12食入",
+     "brand": "Cymbal セレクト",
+     "size": "12食入",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_zosui_fd_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_potage_kabocha",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "朝食",
+    "パンのお供",
+    "グラタンソース"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのかぼちゃの甘みをそのまま生かしたクリーミーなポタージュ。お湯を注いで混ぜるだけで、なめらかでやさしい味わいの一杯に。朝食やおやつ代わりに、寒い季節の体を温めてくれます。",
+   "image_brief": "A paper box of instant soup sachets in warm orange with blank label, beside a mug of thick golden pumpkin potage, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産かぼちゃのポタージュ 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道産かぼちゃのポタージュ 8袋入",
+     "brand": "Cymbal",
+     "size": "8袋入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 えびすかぼちゃポタージュ 4袋入",
+     "brand": "Cymbal セレクト",
+     "size": "4袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック かぼちゃポタージュ 8袋入",
+     "brand": "Cymbal ベーシック",
+     "size": "8袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かぼちゃポタージュ 徳用 30袋入",
+     "brand": "Cymbal",
+     "size": "30袋入",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_potage_kabocha_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_potage_potato",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "パンのお供",
+    "冷製スープ"
+   ],
+   "tax_rate": 8,
+   "description": "じゃがいもと玉ねぎをバターで炒めたようなコクのあるポテトポタージュ。冷たい牛乳で溶けば冷製のヴィシソワーズ風にも。とろみのあるまろやかな口当たりで、お子さまにも人気の味です。",
+   "image_brief": "A paper box of instant soup sachets in pale cream with blank label, beside a cup of smooth white potato potage with parsley, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産じゃがいものポタージュ 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道産じゃがいものポタージュ 8袋入",
+     "brand": "Cymbal",
+     "size": "8袋入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ベーコン入り ポテトポタージュ 4袋入",
+     "brand": "Cymbal セレクト",
+     "size": "4袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトポタージュ 8袋入",
+     "brand": "Cymbal ベーシック",
+     "size": "8袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポタージュ 3種アソート 12袋入",
+     "brand": "Cymbal",
+     "size": "12袋入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_potage_potato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_onion_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "オニオングラタンスープ",
+    "パスタアレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "飴色に炒めた玉ねぎの甘みとコクがしっかり感じられるオニオンスープ。クルトン入りで、チーズをのせて焼けばオニオングラタンスープ風にも。朝食や夕食のスープに手軽に使えます。",
+   "image_brief": "A paper box of instant soup sachets in amber brown with blank label, beside a bowl of clear brown onion soup with croutons, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 炒め玉ねぎのオニオンスープ 5袋入",
+     "brand": "Cymbal",
+     "size": "5袋入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 炒め玉ねぎのオニオンスープ 10袋入",
+     "brand": "Cymbal",
+     "size": "10袋入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フリーズドライ オニオングラタンスープ 1食",
+     "brand": "Cymbal セレクト",
+     "size": "1食",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オニオンスープ 10袋入",
+     "brand": "Cymbal ベーシック",
+     "size": "10袋入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 淡路島産玉ねぎのオニオンスープ 5袋入",
+     "brand": "Cymbal",
+     "size": "5袋入",
+     "price_tax_excluded": 298,
+     "origin": "淡路島産玉ねぎ使用"
+    }
+   ],
+   "images": [
+    "w_instant_retort_onion_soup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_mushroom_potage",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "朝食",
+    "パンのお供",
+    "グラタン"
+   ],
+   "tax_rate": 8,
+   "description": "マッシュルームとまいたけのうまみを生クリームでまとめた、香り豊かなきのこのポタージュ。秋冬にうれしい濃厚な味わいで、牛乳で溶けばさらにまろやかに。パンを浸しても美味しくいただけます。",
+   "image_brief": "A paper box of instant soup sachets in mushroom beige with blank label, beside a cup of creamy brown mushroom potage, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きのこのポタージュ 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きのこのポタージュ 8袋入",
+     "brand": "Cymbal",
+     "size": "8袋入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ポルチーニ香る きのこのポタージュ 4袋入",
+     "brand": "Cymbal セレクト",
+     "size": "4袋入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほうれん草のポタージュ 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごぼうのポタージュ 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_mushroom_potage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_samgyetang_retort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "レトルトスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "参鶏湯",
+    "雑炊",
+    "寒い日の夕食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉ともち米、なつめ、しょうがをじっくり煮込んだ韓国風の参鶏湯スープ。温めるだけでやさしい鶏だしの一品が完成します。ご飯を加えて雑炊風にするのもおすすめ。寒い季節の体を温めます。",
+   "image_brief": "A large retort pouch in a pale yellow box with blank label, beside an earthenware bowl of milky chicken soup with sticky rice and jujube, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハルニレフーズ 韓国風 参鶏湯 800g",
+     "brand": "ハルニレフーズ",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルニレフーズ 韓国風 参鶏湯 1人前 400g",
+     "brand": "ハルニレフーズ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 韓国風スープ ユッケジャン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 韓国風スープ コムタン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サムゲタン風 鶏ともち米のスープ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_samgyetang_retort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_misoshiru_akadashi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "豆みその深いコクと渋みが特徴の赤だしみそ汁。なめこや三つ葉の具入りで、香り高く本格的な味わいです。お湯を注ぐだけで、名古屋の食堂のような一杯がすぐに楽しめます。",
+   "image_brief": "A bag of individually wrapped instant miso soup sachets with dark reddish-brown blank labels, beside a lacquer bowl of dark red miso soup with nameko mushrooms, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 赤だし みそ汁 なめこ 8食入",
+     "brand": "Cymbal",
+     "size": "8食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 赤だし みそ汁 しじみ 8食入",
+     "brand": "Cymbal",
+     "size": "8食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ 赤だし なめこ汁 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 豆みそ仕立て 赤だし 10食入",
+     "brand": "アオバ亭",
+     "size": "10食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 赤だし みそ汁 10食入",
+     "brand": "Cymbal ベーシック",
+     "size": "10食入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_misoshiru_akadashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_misoshiru_asari",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとしたあさりの身がたっぷり入ったみそ汁。磯の香りとうまみがだしにとけ込み、ほっとする味わいです。生みそタイプと、殻付きあさり入りのフリーズドライタイプから選べます。",
+   "image_brief": "Freeze-dried miso soup blocks in individual blank pouches, beside a bowl of miso soup with small clams and green onion, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あさりのみそ汁 生みそタイプ 8食入",
+     "brand": "Cymbal",
+     "size": "8食入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ あさりのみそ汁 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フリーズドライ 殻付きあさり汁 1食",
+     "brand": "Cymbal セレクト",
+     "size": "1食",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あさりのみそ汁 生みそタイプ 20食入",
+     "brand": "Cymbal",
+     "size": "20食入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_misoshiru_asari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_misoshiru_fd_assort",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "単身赴任の常備"
+   ],
+   "tax_rate": 8,
+   "description": "ほうれん草・長ねぎ・油揚げ・かぼちゃなど、具材の違うフリーズドライみそ汁を詰め合わせました。お湯を注ぐだけで具材がふっくらと戻り、毎日違う味を楽しめます。ご家族の常備用にもぴったりです。",
+   "image_brief": "A clear bag holding many small square freeze-dried miso soup blocks in colorful blank pouches, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フリーズドライ みそ汁 10種アソート 10食入",
+     "brand": "Cymbal",
+     "size": "10食入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ みそ汁 10種アソート 30食入",
+     "brand": "Cymbal",
+     "size": "30食入",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ ほうれん草のみそ汁 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ 長ねぎのみそ汁 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フリーズドライ 合わせみそ汁 6種ギフト 18食入",
+     "brand": "Cymbal セレクト",
+     "size": "18食入",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_misoshiru_fd_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_osuimono_temarifu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "お吸いもの"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "和食の汁物",
+    "おもてなし",
+    "お正月"
+   ],
+   "tax_rate": 8,
+   "description": "色とりどりの手まり麩と三つ葉を浮かべた、見た目も華やかなお吸い物。かつおと昆布の上品なだしで、お祝いの席やおもてなしの一品にも。フリーズドライなので香りよく仕上がります。",
+   "image_brief": "Small freeze-dried clear soup blocks in blank pastel pouches, beside a lidded lacquer bowl of clear soup with colorful temari wheat gluten balls, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フリーズドライ 手まり麩のお吸いもの 5食入",
+     "brand": "Cymbal",
+     "size": "5食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライ 手まり麩のお吸いもの 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 料亭仕立て はまぐりのお吸いもの 3食入",
+     "brand": "Cymbal セレクト",
+     "size": "3食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 ゆず香る 鯛だしお吸いもの 5食入",
+     "brand": "アオバ亭",
+     "size": "5食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_osuimono_temarifu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_furikake_sake",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "ふりかけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ",
+    "大豆",
+    "ごま",
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "お弁当",
+    "おにぎり",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "焼き鮭のほぐし身をたっぷり使い、香ばしいごまとのりを合わせた鮭ふりかけ。鮭の塩気とうまみがご飯によく合い、お弁当やおにぎりの具にも便利です。チャック付きで使いやすい袋入りです。",
+   "image_brief": "A small stand-up zipper pouch with blank salmon-pink label, beside a bowl of rice sprinkled with salmon flakes and sesame, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼き鮭 ふりかけ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼き鮭 ふりかけ 大袋 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産秋鮭 ふりかけ 35g",
+     "brand": "Cymbal セレクト",
+     "size": "35g",
+     "price_tax_excluded": 228,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "Cymbal ベーシック さけふりかけ 45g",
+     "brand": "Cymbal ベーシック",
+     "size": "45g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鮭とわかめ ふりかけ 38g",
+     "brand": "Cymbal",
+     "size": "38g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_furikake_sake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_furikake_akashiso",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "ふりかけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お弁当",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "国産赤しそを塩漬けにして乾燥させた、爽やかな香りの赤しそふりかけ。ほどよい塩気と酸味で、ご飯にまぶすだけで色鮮やかなおにぎりに。きゅうりの浅漬けやパスタの風味付けにも使えます。",
+   "image_brief": "A small blank purple zipper pouch of dried red shiso flakes beside rice balls dusted with purple shiso, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産赤しそ ふりかけ 26g",
+     "brand": "Cymbal",
+     "size": "26g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産赤しそ ふりかけ 大袋 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 赤しそ梅 ふりかけ 28g",
+     "brand": "Cymbal",
+     "size": "28g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機赤しそ ふりかけ 20g",
+     "brand": "Cymbal オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 248,
+     "origin": "国産有機赤しそ使用"
+    },
+    {
+     "title": "Cymbal 青じそ ふりかけ 26g",
+     "brand": "Cymbal",
+     "size": "26g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_furikake_akashiso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_furikake_soft",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "ソフトふりかけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "ごま",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりやわらかな食感のソフトふりかけ。ちりめんじゃこや高菜、かつおなど具材の食感がよく、白いご飯がどんどんすすみます。おにぎりに混ぜたり、チャーハンの具にするのもおすすめです。",
+   "image_brief": "A small blank stand-up zipper pouch with a moist soft furikake mix visible through a clear window, beside a bowl of rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しっとり ちりめん山椒 ソフトふりかけ 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しっとり 高菜ごま ソフトふりかけ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しっとり かつお梅 ソフトふりかけ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 京風 ちりめんじゃこ ソフトふりかけ 35g",
+     "brand": "アオバ亭",
+     "size": "35g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しっとり 若菜 ソフトふりかけ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_furikake_soft_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_ochazuke_tai_dashi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "お茶漬け"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "だし茶漬け",
+    "おもてなしのシメ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "鯛や焼きあごの上品なだしを注いでいただく、料亭風のだし茶漬け。ごまだれを絡めた具材入りで、香りとうまみが豊かです。おもてなしのシメや、ちょっと贅沢な夜食におすすめです。",
+   "image_brief": "A slim blank cream paper box with individual sachets and a bowl of rice in clear golden dashi with sesame-dressed fish, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 鯛だし茶漬け ごまだれ付 3食入",
+     "brand": "Cymbal セレクト",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きあごだし茶漬け 3食入",
+     "brand": "Cymbal セレクト",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト だし茶漬け 3種詰め合わせ 6食入",
+     "brand": "Cymbal セレクト",
+     "size": "6食入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 鯛めし風 だし茶漬け 4食入",
+     "brand": "アオバ亭",
+     "size": "4食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_ochazuke_tai_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_mazegohan_sake",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "混ぜご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ",
+    "大豆",
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "おにぎり",
+    "お弁当",
+    "混ぜご飯"
+   ],
+   "tax_rate": 8,
+   "description": "鮭のほぐし身とごま、青菜を合わせた混ぜご飯の素。炊きたてのご飯に混ぜるだけで彩りのよい鮭ご飯ができ、おにぎりやお弁当にぴったりです。2合用で家族分も手軽に作れます。",
+   "image_brief": "A small blank stand-up pouch with a clear window showing salmon flakes and greens, beside a bowl of mixed salmon rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鮭ごはんの素 2合用 1袋",
+     "brand": "Cymbal",
+     "size": "1袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鮭ごはんの素 2合用 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産鮭の混ぜご飯の素 2合用 1袋",
+     "brand": "Cymbal セレクト",
+     "size": "1袋",
+     "price_tax_excluded": 398,
+     "origin": "北海道産鮭使用"
+    },
+    {
+     "title": "Cymbal 鮭とわかめの混ぜご飯の素 31g",
+     "brand": "Cymbal",
+     "size": "31g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_instant_retort_mazegohan_sake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_instant_retort_mazegohan_takana",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "混ぜご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "ごま",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "高菜ご飯",
+    "チャーハン",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "ピリ辛に炒めた九州産高菜にごまを合わせた混ぜご飯の素。ご飯に混ぜるだけで香ばしい高菜ご飯ができ、チャーハンの具やラーメンのトッピングにも使えます。食欲をそそる一品です。",
+   "image_brief": "A small blank green stand-up pouch with chopped spicy mustard greens visible, beside a bowl of mixed rice with greens and sesame, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピリ辛高菜ごはんの素 2合用 1袋",
+     "brand": "Cymbal",
+     "size": "1袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 菜めしの素 31g",
+     "brand": "Cymbal",
+     "size": "31g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal じゃこ菜めしの素 28g",
+     "brand": "Cymbal",
+     "size": "28g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アオバ亭 九州産高菜の高菜めしの素 2合用 1袋",
+     "brand": "アオバ亭",
+     "size": "1袋",
+     "price_tax_excluded": 298,
+     "origin": "九州産高菜使用"
+    }
+   ],
+   "images": [
+    "w_instant_retort_mazegohan_takana_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

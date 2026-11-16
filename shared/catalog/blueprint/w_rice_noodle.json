@@ -1,0 +1,3928 @@
+{
+ "category_key": "w_rice_noodle",
+ "items": [
+  {
+   "base_id": "w_rice_noodle_uonuma_koshihikari",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "塩むすび",
+    "卵かけご飯",
+    "贈答"
+   ],
+   "tax_rate": 8,
+   "description": "豪雪地帯の雪解け水と昼夜の寒暖差に育まれた魚沼産コシヒカリ。炊き上がりのつやと香り、もっちりとした粘りと甘みが際立つ特別なお米です。おかずを選ばず、まずは塩むすびで味わいを楽しんでください。",
+   "image_brief": "A premium heavy kraft paper rice sack with a deep green and gold blank label, small window showing glossy white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 新潟県魚沼産 コシヒカリ 2kg",
+     "brand": "Cymbal セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県魚沼産 コシヒカリ 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 4580,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県魚沼産 コシヒカリ 10kg",
+     "brand": "Cymbal セレクト",
+     "size": "10kg",
+     "price_tax_excluded": 8980,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県魚沼産 コシヒカリ 無洗米 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 4780,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県魚沼産 コシヒカリ 特別栽培米 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 4980,
+     "origin": "新潟県魚沼産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_uonuma_koshihikari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_haenuki",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "丼もの",
+    "カレーライス"
+   ],
+   "tax_rate": 8,
+   "description": "山形県で長く親しまれる「はえぬき」。粒がしっかりして冷めても硬くなりにくく、ほどよい粘りとあっさりした甘みでお弁当やおにぎりに最適です。毎日食べても飽きのこない、家計にやさしい銘柄米。",
+   "image_brief": "A white and light green plastic rice bag with a blank label and a clear oval window showing white rice, upright studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 山形県産 はえぬき 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "山形県産"
+    },
+    {
+     "title": "令和8年産 山形県産 はえぬき 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3180,
+     "origin": "山形県産"
+    },
+    {
+     "title": "令和8年産 山形県産 はえぬき 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 6180,
+     "origin": "山形県産"
+    },
+    {
+     "title": "令和8年産 山形県産 はえぬき 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3380,
+     "origin": "山形県産"
+    },
+    {
+     "title": "令和8年産 山形県産 はえぬき 玄米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 2980,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_haenuki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_milky_queen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おにぎり",
+    "お弁当",
+    "混ぜご飯",
+    "白ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "アミロースが少なく、強い粘りともちもちした食感が特長の「ミルキークイーン」。冷めてもやわらかさが続くので、おにぎりやお弁当にぴったり。いつものお米に少し混ぜて食感を楽しむ使い方もおすすめです。",
+   "image_brief": "A cream white rice bag with a soft milky blue blank label and a clear window revealing slightly opaque white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 滋賀県産 ミルキークイーン 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "令和8年産 滋賀県産 ミルキークイーン 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3680,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "令和8年産 茨城県産 ミルキークイーン 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3580,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "令和8年産 茨城県産 ミルキークイーン 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 6980,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "令和8年産 山形県産 ミルキークイーン 無洗米 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_milky_queen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_kinumusume",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "丼もの",
+    "寿司"
+   ],
+   "tax_rate": 8,
+   "description": "白くつややかな炊き上がりで、粘りと硬さのバランスがよい「きぬむすめ」。上品な甘みとほどよい弾力で、和食はもちろん丼ものやお寿司にも合わせやすい、西日本で人気の銘柄米です。",
+   "image_brief": "A pale lavender plastic rice bag with a plain blank label and clear window of shiny white rice grains, standing upright, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 島根県産 きぬむすめ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "島根県産"
+    },
+    {
+     "title": "令和8年産 島根県産 きぬむすめ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3180,
+     "origin": "島根県産"
+    },
+    {
+     "title": "令和8年産 岡山県産 きぬむすめ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3080,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "令和8年産 岡山県産 きぬむすめ 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 5980,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "令和8年産 鳥取県産 きぬむすめ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3080,
+     "origin": "鳥取県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_kinumusume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_shinnosuke",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "焼き魚定食",
+    "おにぎり",
+    "丼もの"
+   ],
+   "tax_rate": 8,
+   "description": "新潟生まれの大粒銘柄「新之助」。しっかりとした弾力のある粒感と、噛むほどに広がるコクと甘みが魅力です。冷めても硬くなりにくく、粒の存在感を楽しみたい方におすすめの新しい新潟米。",
+   "image_brief": "A glossy black and gold premium rice bag with a blank label and a small clear window showing large white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 新潟県産 新之助 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "令和8年産 新潟県産 新之助 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4180,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "令和8年産 新潟県産 新之助 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 8180,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "令和8年産 新潟県産 新之助 無洗米 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1880,
+     "origin": "新潟県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_shinnosuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_date_masayume",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "宮城県のもちもち系銘柄「だて正夢」。しっかりとした粘りと濃厚な甘みがあり、冷めてもおいしさが続きます。もっちり食感が好きな方や、おにぎり・お弁当によく使うご家庭におすすめです。",
+   "image_brief": "A deep purple rice bag with a plain gold blank label and a clear window of plump white rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 宮城県産 だて正夢 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "令和8年産 宮城県産 だて正夢 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3580,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "令和8年産 宮城県産 だて正夢 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 6980,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "令和8年産 宮城県産 だて正夢 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3780,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_date_masayume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_ginga_no_shizuku",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "寿司",
+    "おにぎり",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "岩手県で育った「銀河のしずく」。粒が白く輝くような炊き上がりで、さっぱりとした上品な甘みと軽やかな食感が特長です。和食や寿司など、繊細な味付けの料理を引き立てます。",
+   "image_brief": "A navy blue rice bag with a starry dot pattern and blank white label, clear window showing bright white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 岩手県産 銀河のしずく 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1480,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "令和8年産 岩手県産 銀河のしずく 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3480,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "令和8年産 岩手県産 銀河のしずく 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 6780,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "令和8年産 岩手県産 銀河のしずく 無洗米 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_ginga_no_shizuku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_ichihomare",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "和定食",
+    "卵かけご飯"
+   ],
+   "tax_rate": 8,
+   "description": "福井県が開発した「いちほまれ」。絹のような白さとつや、やさしい甘みと粘りのバランスが魅力の銘柄米です。炊きたてはもちろん、冷めても粒感が残るので、おにぎりにもおすすめ。",
+   "image_brief": "A white rice bag with a pale pink and silver blank label, clear window showing glossy white rice, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 福井県産 いちほまれ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "福井県産"
+    },
+    {
+     "title": "令和8年産 福井県産 いちほまれ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "福井県産"
+    },
+    {
+     "title": "令和8年産 福井県産 いちほまれ 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 7580,
+     "origin": "福井県産"
+    },
+    {
+     "title": "令和8年産 福井県産 いちほまれ 特別栽培米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4080,
+     "origin": "福井県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_ichihomare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_nikomaru",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "丼もの",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "暑さに強い品種として九州で生まれた「にこまる」。粒が大きくふっくらとしていて、粘りと甘みがしっかり。炊き上がりのつやもよく、普段使いにちょうどよい価格帯の銘柄米です。",
+   "image_brief": "A sunny yellow and white rice bag with a simple sun pattern and blank label, clear window of white rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 長崎県産 にこまる 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "令和8年産 長崎県産 にこまる 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 2980,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "令和8年産 長崎県産 にこまる 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 5780,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "令和8年産 静岡県産 にこまる 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3080,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "令和8年産 愛媛県産 にこまる 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 2980,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_nikomaru_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_brand_musenmai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "無洗米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "お弁当",
+    "キャンプごはん",
+    "単身の自炊"
+   ],
+   "tax_rate": 8,
+   "description": "研がずにそのまま水を加えて炊ける銘柄無洗米。ぬかを丁寧に取り除いているので、忙しい朝や寒い季節の水仕事を減らせます。研ぎ汁が出ず、キャンプや一人暮らしの自炊にも便利です。",
+   "image_brief": "A clear plastic rice bag with a pale aqua blank label and water droplet motif, showing very white polished rice inside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 無洗米 新潟県産コシヒカリ 2kg",
+     "brand": "Cymbal",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal 無洗米 秋田県産あきたこまち 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3380,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "Cymbal 無洗米 北海道産ななつぼし 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 無洗米 宮城県産ひとめぼれ 10kg",
+     "brand": "Cymbal",
+     "size": "10kg",
+     "price_tax_excluded": 6480,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "Cymbal 無洗米 山形県産つや姫 2kg",
+     "brand": "Cymbal",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal 無洗米 北海道産ゆめぴりか 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_brand_musenmai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_tabekurabe_2go",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "少量パック・食べ比べ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "食べ比べ",
+    "ギフト",
+    "一人暮らし"
+   ],
+   "tax_rate": 8,
+   "description": "人気の銘柄米を2合（300g）ずつ真空パックにした少量タイプ。保存しやすく、いろいろな産地のお米を気軽に食べ比べできます。一人暮らしの方やちょっとしたギフト、お試しにもおすすめです。",
+   "image_brief": "Small vacuum-packed rectangular rice bricks in clear film with plain colored blank paper sleeves, several stacked side by side, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 真空パック米 新潟県産コシヒカリ 2合 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal セレクト 真空パック米 山形県産つや姫 2合 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal セレクト 真空パック米 北海道産ゆめぴりか 2合 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 銘柄米 食べ比べセット 2合×3種",
+     "brand": "Cymbal セレクト",
+     "size": "300g×3袋",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 銘柄米 食べ比べセット 2合×6種",
+     "brand": "Cymbal セレクト",
+     "size": "300g×6袋",
+     "price_tax_excluded": 2280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_tabekurabe_2go_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_bunzuki_mai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "胚芽米・玄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "健康志向の食卓",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "玄米のぬか層を一部だけ残して精米した分づき米。白米のような食べやすさを保ちながら、玄米に近い香ばしさと噛みごたえが楽しめます。普通の炊飯器でそのまま炊けて、玄米が苦手な方の入門にも。",
+   "image_brief": "A kraft brown paper rice bag with a blank cream label and a window showing slightly beige partially-milled rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 五分づき米 2kg",
+     "brand": "Cymbal",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 五分づき米 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 七分づき米 2kg",
+     "brand": "Cymbal",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 七分づき米 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 三分づき米 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_bunzuki_mai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_value_blend_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "ブレンド米・業務用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白ごはん",
+    "チャーハン",
+    "カレーライス",
+    "まとめ炊き"
+   ],
+   "tax_rate": 8,
+   "description": "国産米を複数ブレンドし、炊き上がりの粘りと粒感をバランスよく整えた普段使いのお米。大容量で食べ盛りのご家庭や、炒飯・カレーなどたくさん炊く日にも頼れます。コストを抑えたい方に。",
+   "image_brief": "A large heavy-duty white woven rice sack with a plain red stripe and blank label, standing upright, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 国産 ブレンド米 精米 5kg",
+     "brand": "Cymbal ベーシック",
+     "size": "5kg",
+     "price_tax_excluded": 2680,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 国産 ブレンド米 精米 10kg",
+     "brand": "Cymbal ベーシック",
+     "size": "10kg",
+     "price_tax_excluded": 5180,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 国産 ブレンド米 精米 20kg（10kg×2袋）",
+     "brand": "Cymbal ベーシック",
+     "size": "20kg",
+     "price_tax_excluded": 10180,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 国産 ブレンド米 無洗米 10kg",
+     "brand": "Cymbal ベーシック",
+     "size": "10kg",
+     "price_tax_excluded": 5480,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_value_blend_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_sushi_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "用途別のお米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ちらし寿司",
+    "手巻き寿司",
+    "いなり寿司",
+    "巻き寿司"
+   ],
+   "tax_rate": 8,
+   "description": "すし酢がなじみやすいよう、粘りが控えめで粒がしっかりした品種をブレンドした寿司向けのお米。酢飯にしても粒がつぶれにくく、手巻き寿司やちらし寿司がおいしく仕上がります。",
+   "image_brief": "A white rice bag with an indigo wave-pattern blank label and clear window showing firm white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 寿司用ブレンド米 2kg",
+     "brand": "Cymbal",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 寿司用ブレンド米 5kg",
+     "brand": "Cymbal",
+     "size": "5kg",
+     "price_tax_excluded": 3180,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 寿司用 ササニシキ 2kg",
+     "brand": "Cymbal セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "Cymbal セレクト 寿司用 ササニシキ 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 3680,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_sushi_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_tokubetsu_saibai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "特別栽培米・有機米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "離乳食",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "農薬と化学肥料の使用を地域の慣行より抑えて育てた特別栽培米。生産者の顔が見える産地を厳選し、素材そのものの甘みを大切に精米しました。安心感のあるお米を選びたいご家庭に。",
+   "image_brief": "A natural kraft paper rice bag with a green leaf blank label tied with twine, small window of white rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 特別栽培米 秋田県産あきたこまち 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 3780,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培米 新潟県産コシヒカリ 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培米 山形県産はえぬき 5kg",
+     "brand": "Cymbal セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 3580,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培米 北海道産ななつぼし 2kg",
+     "brand": "Cymbal セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培米 宮城県産ひとめぼれ 10kg",
+     "brand": "Cymbal セレクト",
+     "size": "10kg",
+     "price_tax_excluded": 7380,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_tokubetsu_saibai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_organic_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "特別栽培米・有機米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "玄米ごはん",
+    "離乳食",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "有機JAS認証を受けた田んぼで、農薬や化学肥料に頼らずに育てた有機栽培米。精米と玄米をご用意しました。噛むほどに自然な甘みが広がり、素材にこだわりたい方やギフトにも喜ばれます。",
+   "image_brief": "A recycled brown paper rice bag with a plain white blank label and green stripe, clear window showing rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機栽培米 コシヒカリ 精米 2kg",
+     "brand": "Cymbal オーガニック",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機栽培米 コシヒカリ 精米 5kg",
+     "brand": "Cymbal オーガニック",
+     "size": "5kg",
+     "price_tax_excluded": 4680,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機栽培米 あきたこまち 精米 5kg",
+     "brand": "Cymbal オーガニック",
+     "size": "5kg",
+     "price_tax_excluded": 4580,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機栽培米 コシヒカリ 玄米 2kg",
+     "brand": "Cymbal オーガニック",
+     "size": "2kg",
+     "price_tax_excluded": 1880,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機栽培米 ひとめぼれ 玄米 5kg",
+     "brand": "Cymbal オーガニック",
+     "size": "5kg",
+     "price_tax_excluded": 4380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_organic_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_hatomugi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "雑穀・米",
+    "押麦・大麦"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "はと麦ごはん",
+    "スープ",
+    "サラダ",
+    "雑穀リゾット"
+   ],
+   "tax_rate": 8,
+   "description": "皮を除いて精白した国産はと麦。ぷちっとした食感とほのかな甘みがあり、白米に混ぜて炊くほか、ゆでてスープやサラダのトッピングにも使えます。いつものごはんに変化をつけたいときに。",
+   "image_brief": "A clear stand-up pouch with a zip top filled with plump pale beige pearl barley grains, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 はと麦 精白粒 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 はと麦 精白粒 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 富山県産 はと麦 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "富山県産"
+    },
+    {
+     "title": "Cymbal 国産 はと麦 個包装 25g×10袋",
+     "brand": "Cymbal",
+     "size": "25g×10袋",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_hatomugi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_omori",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "白ごはん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "丼もの",
+    "カレーライス",
+    "夜食",
+    "部活後のごはん"
+   ],
+   "tax_rate": 8,
+   "description": "しっかり食べたいときにうれしい大盛りサイズのパックご飯。国産米を炊き上げ、電子レンジで温めるだけで炊きたてのような食感に。丼ものやカレーにもたっぷり使えて、食べ盛りのご家庭の常備に。",
+   "image_brief": "Three large white microwaveable rice trays with clear lids stacked, plain blank paper sleeve, steaming rice in a bowl in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 大盛ごはん 国産米100% 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 大盛ごはん 国産米100% 300g×3食",
+     "brand": "Cymbal",
+     "size": "300g×3食",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 大盛ごはん 国産米100% 250g×5食",
+     "brand": "Cymbal",
+     "size": "250g×5食",
+     "price_tax_excluded": 698,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック 大盛ごはん 300g×3食",
+     "brand": "Cymbal ベーシック",
+     "size": "300g×3食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_omori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_komori",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "白ごはん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "子どものごはん",
+    "夜食",
+    "軽めの食事"
+   ],
+   "tax_rate": 8,
+   "description": "少しだけ食べたいときに便利な小盛りパックご飯。130gと150gの食べきりサイズで、おかずと合わせて量を調整したい方やお子さま、シニアの方にもぴったり。ストックしておくと夜食にも重宝します。",
+   "image_brief": "A row of small white microwaveable rice cups with clear lids and plain blank band labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 小盛ごはん 国産米100% 130g×3食",
+     "brand": "Cymbal",
+     "size": "130g×3食",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 小盛ごはん 国産米100% 130g×6食",
+     "brand": "Cymbal",
+     "size": "130g×6食",
+     "price_tax_excluded": 548,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 小盛ごはん 国産米100% 150g×10食",
+     "brand": "Cymbal",
+     "size": "150g×10食",
+     "price_tax_excluded": 998,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック ごはん 小盛 150g×5食",
+     "brand": "Cymbal ベーシック",
+     "size": "150g×5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_komori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_meigara",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "白ごはん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白ごはん",
+    "卵かけご飯",
+    "おにぎり",
+    "防災備蓄"
+   ],
+   "tax_rate": 8,
+   "description": "産地と銘柄にこだわったパックご飯シリーズ。それぞれの銘柄が持つ甘みや粘りを生かして炊き上げました。レンジで温めるだけで本格的なごはんが楽しめ、いろいろ揃えて食べ比べるのもおすすめです。",
+   "image_brief": "A microwaveable rice tray with a black premium blank paper sleeve and clear lid showing glossy white rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 新潟県産コシヒカリ ごはん 180g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "180g×3食",
+     "price_tax_excluded": 498,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal セレクト 魚沼産コシヒカリ ごはん 180g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "180g×3食",
+     "price_tax_excluded": 598,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産ゆめぴりか ごはん 180g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "180g×3食",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産つや姫 ごはん 180g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "180g×3食",
+     "price_tax_excluded": 498,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal セレクト 秋田県産あきたこまち ごはん 200g×5食",
+     "brand": "Cymbal セレクト",
+     "size": "200g×5食",
+     "price_tax_excluded": 798,
+     "origin": "秋田県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_meigara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_zakkoku",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "玄米・雑穀ご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "雑穀ごはん",
+    "お弁当",
+    "おにぎり",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "国産米に雑穀をブレンドして炊き上げたパックご飯。ぷちぷち、もちもちとした食感と香ばしさが楽しめ、手間なく雑穀ごはんを食卓に取り入れられます。温めるだけでお弁当にもすぐ使えます。",
+   "image_brief": "Microwaveable rice trays showing purplish multigrain rice through clear lids, plain blank earthy-brown sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 十六穀ごはん パック 150g×3食",
+     "brand": "Cymbal",
+     "size": "150g×3食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒米入り 雑穀ごはん パック 150g×3食",
+     "brand": "Cymbal",
+     "size": "150g×3食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 発芽玄米入り 雑穀ごはん パック 160g×3食",
+     "brand": "Cymbal",
+     "size": "160g×3食",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産二十一穀ごはん パック 150g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "150g×3食",
+     "price_tax_excluded": 498,
+     "origin": "国産原料使用"
+    },
+    {
+     "title": "Cymbal 十六穀ごはん パック 150g×6食",
+     "brand": "Cymbal",
+     "size": "150g×6食",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_zakkoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_sumeshi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "すし飯・味付けご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手巻き寿司",
+    "ちらし寿司",
+    "いなり寿司",
+    "おにぎらず"
+   ],
+   "tax_rate": 8,
+   "description": "すし酢で味付け済みのレンジ対応すし飯。温めて具材をのせるだけで、手巻き寿司やちらし寿司がすぐに作れます。酢飯を作る手間が省けるので、少人数のお寿司や急な来客時にも便利です。",
+   "image_brief": "Microwaveable trays of glossy seasoned sushi rice with clear lids and a plain white blank sleeve with indigo border, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジで手軽 すし飯 150g×2食",
+     "brand": "Cymbal",
+     "size": "150g×2食",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal レンジで手軽 すし飯 150g×4食",
+     "brand": "Cymbal",
+     "size": "150g×4食",
+     "price_tax_excluded": 548,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal レンジで手軽 すし飯 大盛 220g×2食",
+     "brand": "Cymbal",
+     "size": "220g×2食",
+     "price_tax_excluded": 378,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 米酢仕立て すし飯 180g×2食",
+     "brand": "Cymbal セレクト",
+     "size": "180g×2食",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_sumeshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_case",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "まとめ買い・ケース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "防災備蓄",
+    "ローリングストック",
+    "単身赴任",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "パックご飯をケース単位でまとめ買いできるお得なセット。常温で長期保存でき、日々の食事はもちろん、非常時の備えやローリングストックにも最適です。重い買い物を減らしたいご家庭にも。",
+   "image_brief": "A plain brown corrugated cardboard case with its lid open revealing rows of white microwaveable rice trays, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごはん 国産米100% 200g×24食 ケース",
+     "brand": "Cymbal",
+     "size": "200g×24食",
+     "price_tax_excluded": 2780,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ごはん 国産米100% 180g×36食 ケース",
+     "brand": "Cymbal",
+     "size": "180g×36食",
+     "price_tax_excluded": 3780,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック ごはん 200g×20食 ケース",
+     "brand": "Cymbal ベーシック",
+     "size": "200g×20食",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 小盛ごはん 国産米100% 150g×24食 ケース",
+     "brand": "Cymbal",
+     "size": "150g×24食",
+     "price_tax_excluded": 2380,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 玄米ごはん 160g×24食 ケース",
+     "brand": "Cymbal",
+     "size": "160g×24食",
+     "price_tax_excluded": 3180,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_case_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_pack_kinoko",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "味付けご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋の食卓",
+    "お弁当",
+    "おにぎり",
+    "一品ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "しいたけ、しめじ、まいたけなど数種のきのこを、かつおと昆布のだしで炊き込んだ味付けパックご飯。きのこの香りがふわりと広がり、レンジで温めるだけで秋の味覚が楽しめます。",
+   "image_brief": "A microwaveable rice tray of brown seasoned mushroom rice visible through a clear lid, plain autumn-orange blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きのこごはん パック 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal きのこごはん パック 160g×3食",
+     "brand": "Cymbal",
+     "size": "160g×3食",
+     "price_tax_excluded": 548,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 松茸風味 きのこごはん パック 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 鶏ときのこの炊き込みごはん パック 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_pack_kinoko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_hoso_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ざるうどん",
+    "かけうどん",
+    "釜玉うどん",
+    "鍋のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "手綯い風に仕上げた細打ちの干しうどん。平たく細い麺はなめらかでのど越しが良く、ゆで時間も短めです。冷たいざるうどんはもちろん、温かいつゆでもつるりと上品に楽しめます。",
+   "image_brief": "Flat thin dried white udon noodles in a long clear bag with a plain cream blank label, a few strands fanned beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "やまなみ製麺 細うどん 干し麺 270g",
+     "brand": "やまなみ製麺",
+     "size": "270g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまなみ製麺 細うどん 干し麺 500g",
+     "brand": "やまなみ製麺",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 秋田県製造 細打ち 干しうどん 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "秋田県製造"
+    },
+    {
+     "title": "Cymbal セレクト 細打ち 干しうどん 400g（80g×5束）",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_hoso_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_kishimen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "味噌煮込み",
+    "かけきしめん",
+    "ざるきしめん",
+    "鍋のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "平たく幅広の形が特長のきしめん。つるっとなめらかな舌ざわりで、つゆがよくからみます。花かつおをのせた温かいかけきしめんや、冬は鍋のしめにもぴったり。名古屋の味をご家庭で。",
+   "image_brief": "Wide flat dried kishimen ribbon noodles in a clear bag with plain blank label, one bundle untied showing broad noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナゴヤ麺工房 きしめん 乾麺 250g",
+     "brand": "ナゴヤ麺工房",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "ナゴヤ麺工房 きしめん 乾麺 500g",
+     "brand": "ナゴヤ麺工房",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "ナゴヤ麺工房 きしめん つゆ付 2人前",
+     "brand": "ナゴヤ麺工房",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "Cymbal 国産小麦 きしめん 乾麺 270g",
+     "brand": "Cymbal",
+     "size": "270g",
+     "price_tax_excluded": 298,
+     "origin": "国産小麦使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_kishimen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_houtou",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ほうとう",
+    "かぼちゃ煮込み",
+    "けんちん汁",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "太く平たい麺を野菜と一緒に味噌仕立てで煮込む、山梨の郷土料理ほうとう用の麺。下ゆで不要でそのまま鍋に入れられ、煮込むほどにとろみが出て体が温まります。寒い季節のごちそうに。",
+   "image_brief": "Thick wide flat dried noodles in a clear bag with a plain orange blank label next to a small pumpkin wedge, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "こうしゅう麺房 ほうとう 乾麺 300g",
+     "brand": "こうしゅう麺房",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "山梨県製造"
+    },
+    {
+     "title": "こうしゅう麺房 ほうとう 味噌付 2人前",
+     "brand": "こうしゅう麺房",
+     "size": "2人前",
+     "price_tax_excluded": 398,
+     "origin": "山梨県製造"
+    },
+    {
+     "title": "こうしゅう麺房 ほうとう 味噌付 4人前",
+     "brand": "こうしゅう麺房",
+     "size": "4人前",
+     "price_tax_excluded": 698,
+     "origin": "山梨県製造"
+    },
+    {
+     "title": "Cymbal ほうとう 半生麺 味噌付 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_houtou_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_hannama_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "釜揚げうどん",
+    "ぶっかけうどん",
+    "肉うどん",
+    "カレーうどん"
+   ],
+   "tax_rate": 8,
+   "description": "生麺を半乾燥させ、常温で保存できるようにした讃岐風の半生うどん。太めでしっかりしたコシと、もちっとした弾力が自慢です。ゆでたての釜揚げやぶっかけで、本格的な食感をご家庭で。",
+   "image_brief": "Thick slightly translucent semi-dried udon noodles in a clear pillow bag with a plain blue blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "瀬戸内麺匠 讃岐風 半生うどん 300g",
+     "brand": "瀬戸内麺匠",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "瀬戸内麺匠 讃岐風 半生うどん つゆ付 3人前",
+     "brand": "瀬戸内麺匠",
+     "size": "3人前",
+     "price_tax_excluded": 498,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "瀬戸内麺匠 讃岐風 半生うどん 業務用 1kg",
+     "brand": "瀬戸内麺匠",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "瀬戸内麺匠 讃岐風 半生うどん 太切り 500g",
+     "brand": "瀬戸内麺匠",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "香川県製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_hannama_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_juwari_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "年越しそば",
+    "鴨南蛮"
+   ],
+   "tax_rate": 8,
+   "description": "そば粉だけで打った十割そばの乾麺。つなぎを使わないので、そば本来の豊かな香りと風味がしっかり感じられます。ゆでたてをざるそばで味わうのがおすすめ。年越しそばにもどうぞ。",
+   "image_brief": "Grey-brown dried buckwheat noodles in a clear bag with a plain dark green blank label, a small bamboo zaru beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "信濃そば処 十割そば 乾麺 200g",
+     "brand": "信濃そば処",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "信濃そば処 十割そば 乾麺 400g",
+     "brand": "信濃そば処",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産そば粉 十割そば 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産そば粉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産そば粉 十割そば 田舎挽き 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "国産そば粉使用"
+    },
+    {
+     "title": "信濃そば処 十割そば 個包装 100g×3袋",
+     "brand": "信濃そば処",
+     "size": "100g×3袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_juwari_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_nihachi_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "年越しそば",
+    "天ぷらそば"
+   ],
+   "tax_rate": 8,
+   "description": "そば粉8割・小麦粉2割の黄金比で打った二八そば。そばの香りとつるりとしたのど越しのバランスが良く、ゆでやすくて食べやすいのが魅力です。更科や田舎など好みに合わせて選べます。",
+   "image_brief": "Neat bundles of light grey dried soba noodles tied with plain paper bands in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "信濃そば処 二八そば 乾麺 270g",
+     "brand": "信濃そば処",
+     "size": "270g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "信濃そば処 二八そば 乾麺 450g",
+     "brand": "信濃そば処",
+     "size": "450g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "信濃そば処 更科 二八そば 200g",
+     "brand": "信濃そば処",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "信濃そば処 田舎 二八そば 太打ち 250g",
+     "brand": "信濃そば処",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産そば粉使用 二八そば 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産そば粉使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_nihachi_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_cha_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷やし茶そば",
+    "ざるそば",
+    "おもてなし",
+    "ちらし茶そば"
+   ],
+   "tax_rate": 8,
+   "description": "抹茶を練り込んだ鮮やかな緑色の茶そば。ほのかな茶の香りとさわやかな風味で、冷やしてざるそばにすると見た目も涼やかです。おもてなしや季節の行事の一品にも華を添えます。",
+   "image_brief": "Bright green matcha soba noodle bundles with plain white paper bands in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "信濃そば処 茶そば 乾麺 200g",
+     "brand": "信濃そば処",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "信濃そば処 茶そば 乾麺 400g",
+     "brand": "信濃そば処",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶使用 茶そば 240g",
+     "brand": "Cymbal セレクト",
+     "size": "240g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 八女抹茶使用 茶そば 240g",
+     "brand": "Cymbal セレクト",
+     "size": "240g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_cha_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_chuka_kanmen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "冷やし中華",
+    "焼きそば",
+    "つけ麺"
+   ],
+   "tax_rate": 8,
+   "description": "かんすいを使った本格的な中華麺の乾麺。常温で長期保存でき、好みのスープと合わせて自家製ラーメンが作れます。ゆで加減で食感を調整でき、冷やし中華や焼きそばにも使える便利な麺です。",
+   "image_brief": "Wavy yellow dried ramen noodle blocks stacked in a clear bag with a plain red blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ホクリュウ製麺 中華そば 乾麺 細麺 300g",
+     "brand": "ホクリュウ製麺",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクリュウ製麺 中華そば 乾麺 中太麺 360g",
+     "brand": "ホクリュウ製麺",
+     "size": "360g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクリュウ製麺 中華そば 乾麺 ちぢれ麺 4玉",
+     "brand": "ホクリュウ製麺",
+     "size": "4玉",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産小麦 中華麺 乾麺 270g",
+     "brand": "Cymbal",
+     "size": "270g",
+     "price_tax_excluded": 298,
+     "origin": "国産小麦使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_chuka_kanmen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_sara_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "えび",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "皿うどん",
+    "あんかけ焼きそば",
+    "サラダトッピング",
+    "ちゃんぽん"
+   ],
+   "tax_rate": 8,
+   "description": "細くカリッと揚げた皿うどん用の揚げ麺に、野菜炒めにかけるだけで仕上がるあんの素を付けました。パリパリの麺にとろりとしたあんが絡み、時間とともに変わる食感も楽しめる長崎の味。",
+   "image_brief": "A clear bag of crispy thin golden fried noodle nests with a small blank sauce sachet, a plate of saucy vegetables beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 長崎風 皿うどん あんの素付 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 長崎風 皿うどん あんの素付 4人前",
+     "brand": "Cymbal",
+     "size": "4人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 皿うどん用 揚げ麺 細麺 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 皿うどん用 揚げ麺 太麺 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_sara_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_reimen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "冷麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "冷麺",
+    "焼肉のしめ",
+    "ビビン麺",
+    "夏の昼食"
+   ],
+   "tax_rate": 8,
+   "description": "でんぷん由来の強いコシと弾力が特長の冷麺。牛だしベースの甘酸っぱいスープ付きで、キムチやゆで卵、きゅうりをのせれば本格的な一杯に。焼肉のしめや暑い日のランチにぴったりです。",
+   "image_brief": "A clear pouch of translucent chewy noodle bundles with blank soup sachets, a cold noodle bowl with egg and cucumber beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "モリオカ麺房 冷麺 スープ付 2食",
+     "brand": "モリオカ麺房",
+     "size": "2食",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリオカ麺房 冷麺 スープ付 4食",
+     "brand": "モリオカ麺房",
+     "size": "4食",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モリオカ麺房 ビビン冷麺 辛味だれ付 2食",
+     "brand": "モリオカ麺房",
+     "size": "2食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷麺 スープ付 1食",
+     "brand": "Cymbal",
+     "size": "1食",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_reimen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_okinawa_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "沖縄そば",
+    "ソーキそば",
+    "沖縄風焼きそば",
+    "チャンプルー"
+   ],
+   "tax_rate": 8,
+   "description": "小麦粉で打ったコシのある太麺と、かつおと豚骨のあっさりスープを合わせた沖縄そば。三枚肉や紅しょうが、ねぎを添えれば南国の味わいに。焼きそば風に炒めても美味しく楽しめます。",
+   "image_brief": "Thick flat yellow wheat noodles in a clear bag with blank soup sachets, a bowl with pork belly slices beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナンプウ製麺 沖縄そば 乾麺 スープ付 2食",
+     "brand": "ナンプウ製麺",
+     "size": "2食",
+     "price_tax_excluded": 348,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "ナンプウ製麺 沖縄そば 乾麺 スープ付 4食",
+     "brand": "ナンプウ製麺",
+     "size": "4食",
+     "price_tax_excluded": 648,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "ナンプウ製麺 沖縄そば 乾麺 麺のみ 250g",
+     "brand": "ナンプウ製麺",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "ナンプウ製麺 ソーキそば 具付 1食",
+     "brand": "ナンプウ製麺",
+     "size": "1食",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_okinawa_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_ryokuto_harusame",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "春雨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "春雨サラダ",
+    "麻婆春雨",
+    "チャプチェ",
+    "鍋",
+    "春雨スープ"
+   ],
+   "tax_rate": 8,
+   "description": "緑豆でんぷんで作ったコシの強い春雨。煮くずれしにくく、鍋や炒め物、スープに入れてもつるつるとした食感が続きます。使いやすい小分けタイプもあり、サラダや麻婆春雨など幅広く活躍します。",
+   "image_brief": "Glossy translucent white mung bean vermicelli bundles in a clear bag with a plain light green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 緑豆はるさめ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 緑豆はるさめ 小分け 10g×10個",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 緑豆はるさめ 業務用 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 国産 じゃがいもでんぷん はるさめ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 韓国風 さつまいも春雨 チャプチェ用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_ryokuto_harusame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_komeko_men",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "米粉麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "米粉ラーメン",
+    "米粉うどん",
+    "汁なし麺",
+    "小麦を控えたい日の食事"
+   ],
+   "tax_rate": 8,
+   "description": "国産米粉を主原料に作った小麦不使用の麺。もちっとした食感で、ラーメンやうどん、炒め麺など和洋中に使えます。小麦を控えたい方やご家族と同じメニューを楽しみたいときに。",
+   "image_brief": "White rice-flour noodle nests in a clear bag with a plain soft yellow blank label and rice-grain motif, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産米粉 こめ麺 中華風 128g（2食）",
+     "brand": "Cymbal",
+     "size": "128g",
+     "price_tax_excluded": 298,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal 国産米粉 こめ麺 うどん風 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal 国産米粉 こめ麺 細麺 4食",
+     "brand": "Cymbal",
+     "size": "4食",
+     "price_tax_excluded": 548,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機玄米 こめ麺 160g",
+     "brand": "Cymbal オーガニック",
+     "size": "160g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_komeko_men_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_senlek",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "フォー・ビーフン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パッタイ",
+    "タイ風焼きそば",
+    "汁麺",
+    "エスニック料理"
+   ],
+   "tax_rate": 8,
+   "description": "タイの屋台料理パッタイに欠かせない、平たい米粉麺センレック。水で戻して炒めると、もちもちとしたコシのある食感に。甘酸っぱいたれや海老、もやしと合わせてエスニックな一皿を手軽に。",
+   "image_brief": "Flat semi-translucent rice stick noodles in a clear bag with a plain orange blank label, a plate of stir-fried noodles beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "サワディー食品 センレック 3mm 200g",
+     "brand": "サワディー食品",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "タイ産"
+    },
+    {
+     "title": "サワディー食品 センレック 5mm 400g",
+     "brand": "サワディー食品",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "サワディー食品 パッタイ キット ソース付 2人前",
+     "brand": "サワディー食品",
+     "size": "2人前",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "サワディー食品 センヤイ 幅広 10mm 250g",
+     "brand": "サワディー食品",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_senlek_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_tsukemen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "つけ麺",
+    "まぜそば",
+    "ラーメン",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちの極太生麺に、魚介と豚骨を合わせた濃厚なつけだれをセット。冷水で締めた麺をたっぷりのたれにくぐらせれば、専門店さながらの味わいに。最後はスープ割りで楽しんでも。",
+   "image_brief": "A clear plastic tray of thick fresh ramen noodles with blank sauce sachets, plain dark brown paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生つけ麺 魚介豚骨 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生つけ麺 辛味噌 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生つけ麺 ゆず醤油 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 極太 生つけ麺 濃厚魚介 3人前",
+     "brand": "Cymbal セレクト",
+     "size": "3人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_tsukemen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_spaghettini",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ペペロンチーノ",
+    "和風パスタ",
+    "冷製パスタ",
+    "ボンゴレ"
+   ],
+   "tax_rate": 8,
+   "description": "デュラム小麦のセモリナを100%使った細めのスパゲッティーニ。軽やかな口当たりでオイル系や和風、冷製パスタによく合います。ゆで時間が短めなので忙しい日のランチにもおすすめ。",
+   "image_brief": "A long clear plastic bag of thin golden dried spaghetti with a plain navy blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo スパゲッティーニ 1.4mm 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo スパゲッティーニ 1.4mm 1kg",
+     "brand": "Montecielo",
+     "size": "1kg",
+     "price_tax_excluded": 378,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal スパゲッティ 1.4mm 結束タイプ 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 228,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal スパゲッティ 1.5mm 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal ベーシック スパゲッティ 1.4mm 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 298,
+     "origin": "トルコ産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_spaghettini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_futo_spaghetti",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ナポリタン",
+    "ミートソース",
+    "カルボナーラ",
+    "ボロネーゼ"
+   ],
+   "tax_rate": 8,
+   "description": "しっかりとした噛みごたえの太めスパゲッティ。濃厚なミートソースやクリーム系、喫茶店風ナポリタンにもソースがよく絡みます。もちっとした食べごたえで満足感のある一皿に仕上がります。",
+   "image_brief": "A long clear bag of thick golden spaghetti strands with a plain red blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo スパゲッティ 1.8mm 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo スパゲッティ 1.9mm 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo スパゲットーニ 2.1mm 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal スパゲッティ 1.8mm 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 喫茶店風 ナポリタン用 太麺スパゲッティ 2.2mm 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_futo_spaghetti_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_hayayude_spaghetti",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "時短ランチ",
+    "ペペロンチーノ",
+    "ミートソース",
+    "お弁当パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "麺に細かな溝を入れることで、ゆで時間を大幅に短縮した早ゆでスパゲッティ。3分や4分でゆで上がり、光熱費も手間も節約できます。忙しい平日のランチやお子さまのお昼ごはんに便利です。",
+   "image_brief": "A clear bag of grooved dried spaghetti strands with a plain bright green blank label and a small clock motif without numbers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 早ゆで3分 スパゲッティ 1.6mm 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 早ゆで3分 スパゲッティ 1.6mm 結束 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 早ゆで4分 スパゲッティ 1.8mm 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 早ゆで1分 スパゲッティ 1.4mm 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 早ゆで5分 スパゲッティ 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 318,
+     "origin": "トルコ産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_hayayude_spaghetti_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_zenryufun_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トマトパスタ",
+    "きのこパスタ",
+    "ジェノベーゼ",
+    "パスタサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "小麦をまるごと挽いた全粒粉で作ったパスタ。香ばしい風味としっかりした食感があり、トマトやきのこ、バジルソースとよく合います。食物繊維を意識したい方の毎日のパスタにもおすすめです。",
+   "image_brief": "A clear bag of light brown whole wheat spaghetti with a plain kraft blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo 全粒粉 スパゲッティ 1.7mm 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo 全粒粉 ペンネ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo 全粒粉 フジッリ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機全粒粉 スパゲッティ 500g",
+     "brand": "Cymbal オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機全粒粉 ペンネ 500g",
+     "brand": "Cymbal オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_zenryufun_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_bronze_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カルボナーラ",
+    "アマトリチャーナ",
+    "ペスカトーレ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "ブロンズ製のダイスで押し出し、低温でじっくり乾燥させたイタリア産の本格パスタ。表面がざらりとしているのでソースがよく絡み、小麦の豊かな香りが楽しめます。特別な日のパスタに。",
+   "image_brief": "A tall premium matte paper pasta box with a cream blank label and a window showing rough-textured golden spaghetti, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ブロンズダイス スパゲッティ 1.7mm 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス スパゲッティ 2.0mm 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス リガトーニ 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス パッケリ 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス オーガニック スパゲッティ 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_bronze_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_lasagna",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ラザニア・オーブン料理用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ラザニア",
+    "グラタン",
+    "クリスマス料理",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "オーブン料理の定番ラザニア用の板状パスタ。下ゆで不要タイプなら、ミートソースとホワイトソースを重ねて焼くだけで簡単に本格的なラザニアが作れます。クリスマスやホームパーティーに。",
+   "image_brief": "A flat rectangular cardboard box with a window showing stacked wavy-edged lasagna sheets, plain blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo ラザニア 下ゆで不要 250g",
+     "brand": "Montecielo",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo ラザニア 波形 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo ラザニア 卵入り 250g",
+     "brand": "Montecielo",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal ラザニア 下ゆで不要 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_lasagna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_fusilli",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ショートパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタサラダ",
+    "トマト煮込み",
+    "グラタン",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "らせん状にねじれたショートパスタ、フジッリ。溝にソースがよく絡み、ドレッシングとも相性抜群です。パスタサラダやお弁当のおかず、トマト煮込みやグラタンなど、アレンジが自在です。",
+   "image_brief": "A clear stand-up bag full of golden spiral fusilli pasta with a plain green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo フジッリ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal 早ゆで3分 フジッリ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 158,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 3色 フジッリ ほうれん草・トマト入り 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal ベーシック フジッリ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": "トルコ産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_fusilli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_conchiglie",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ショートパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "マカロニサラダ",
+    "グラタン",
+    "スープ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "貝殻の形をしたシェルマカロニ（コンキリエ）。くぼみにソースやドレッシングがたまり、サラダやグラタン、スープによく合います。早ゆでタイプはお弁当用の一品作りにも便利です。",
+   "image_brief": "A clear bag of small golden shell-shaped pasta with a plain sea-blue blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 早ゆで シェルマカロニ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 早ゆで シェルマカロニ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Montecielo コンキリエ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo コンキリオーニ 大型 250g",
+     "brand": "Montecielo",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_conchiglie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_soup_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "スープ用パスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ミネストローネ",
+    "コンソメスープ",
+    "子どものごはん",
+    "リゾット風"
+   ],
+   "tax_rate": 8,
+   "description": "スープに入れて楽しむ小さなパスタ。星形やアルファベット、米粒形のオルゾなど、見た目にも楽しい形を揃えました。ミネストローネやコンソメスープの具に、お子さまの食事にもおすすめです。",
+   "image_brief": "A small clear pouch of tiny star and alphabet shaped pasta pieces with a plain yellow blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スープ用パスタ 星形 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 148,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal スープ用パスタ アルファベット 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 148,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Montecielo オルゾ 米粒形パスタ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo ディタリーニ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_soup_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_gnocchi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ニョッキ・生パスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ニョッキのトマトソース",
+    "クリームグラタン",
+    "チーズソース",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "じゃがいもを練り込んだもちもち食感のニョッキ。常温保存でき、熱湯で約2分ゆでるだけで手軽に使えます。トマトやクリームソースと合わせたり、グラタンやスープに入れても美味しい一品。",
+   "image_brief": "A clear vacuum pouch of pale ridged potato gnocchi dumplings with a plain blank label, a small bowl with tomato sauce beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo ポテトニョッキ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo かぼちゃニョッキ 400g",
+     "brand": "Montecielo",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo ほうれん草ニョッキ 400g",
+     "brand": "Montecielo",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal ポテトニョッキ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_gnocchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_nama_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ニョッキ・生パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カルボナーラ",
+    "クリームパスタ",
+    "ボロネーゼ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "卵と小麦粉を練り上げたもっちりとした冷蔵の生パスタ。ゆで時間は約2分と短く、ソースがよく絡む豊かな食感が楽しめます。いつものパスタソースでも、ワンランク上の仕上がりに。",
+   "image_brief": "A clear plastic tray with nests of fresh yellow egg pasta ribbons sealed with film and a plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 生パスタ フェットチーネ 2人前 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生パスタ リングイネ 2人前 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生パスタ タリアテッレ 2人前 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生パスタ スパゲッティ 1人前 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生パスタ ほうれん草入り 2人前 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_nama_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_genmai_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "切り餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き餅",
+    "雑煮",
+    "おろし餅",
+    "きなこ餅"
+   ],
+   "tax_rate": 8,
+   "description": "国産の玄米もち米をついて仕上げた玄米餅。香ばしい風味とぷちっとした粒感があり、焼くと外はカリッと中はもっちり。おろしやきなこ、お雑煮にもよく合い、白い餅とは違う味わいが楽しめます。",
+   "image_brief": "Rectangular light brown speckled brown-rice mochi pieces individually wrapped in a clear bag with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産玄米もち米使用 玄米切り餅 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 国産玄米もち米使用 玄米切り餅 800g",
+     "brand": "Cymbal",
+     "size": "800g",
+     "price_tax_excluded": 898,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 有機玄米もち 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産有機もち米使用"
+    },
+    {
+     "title": "Cymbal 玄米丸餅 個包装 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_genmai_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_mame_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "豆餅・草餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き餅",
+    "お茶うけ",
+    "おやつ",
+    "雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "黒豆をたっぷり練り込み、ほんのり塩味をきかせた昔ながらの豆餅。軽く焼くと香ばしく、豆の食感と塩気がもちの甘みを引き立てます。お茶うけやおやつ、年末年始の常備に。",
+   "image_brief": "Rectangular white mochi slices studded with whole black soybeans wrapped in clear film with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒豆入り 豆もち 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 黒豆入り 豆もち 個包装 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 青大豆入り 豆もち 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒豆 豆もち なまこ型 1本",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 798,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_mame_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_yomogi_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "豆餅・草餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    3,
+    4
+   ],
+   "dishes": [
+    "焼き餅",
+    "あんこ餅",
+    "きなこ餅",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "よもぎを練り込んだ香り豊かな草もち（よもぎ切り餅）。焼くとふんわり立ちのぼる野の香りが魅力です。あんこやきなこと合わせて和菓子風に楽しんだり、お雑煮に入れて彩りにも。ごま入りもご用意。",
+   "image_brief": "Deep green mugwort mochi rectangles individually wrapped in a clear tray bag with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal よもぎ切り餅 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal よもぎ切り餅 個包装 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 紅白 よもぎ・白 切り餅 アソート 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal ごま入り 切り餅 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_yomogi_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_shabu_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "切り餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "鍋",
+    "お雑煮",
+    "グラタン"
+   ],
+   "tax_rate": 8,
+   "description": "薄くスライスした使いやすいしゃぶしゃぶ用の餅。鍋に入れてさっとくぐらせるだけでとろりとやわらかくなり、焼かずにすぐ食べられます。鍋料理やお雑煮、グラタンのトッピングにも便利です。",
+   "image_brief": "Thin white mochi slices fanned in a clear plastic tray with film lid and plain blank band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しゃぶしゃぶ餅 薄切り 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal しゃぶしゃぶ餅 薄切り 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 鍋用 ひとくち餅 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal ベーシック しゃぶしゃぶ餅 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_shabu_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_awa_kibi_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "雑穀もち"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き餅",
+    "ぜんざい",
+    "雑煮",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もち米にもちあわやもちきびをついて仕上げた雑穀もち。黄色い粒が混ざった見た目と、ほのかな甘みと素朴な風味が特長です。焼いて醤油をつけたり、ぜんざいに入れて味わってみてください。",
+   "image_brief": "Yellow speckled millet mochi rectangles in a clear bag with a plain kraft blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あわ餅 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal きび餅 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 五穀もち 個包装 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 岩手県産 たかきび餅 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_awa_kibi_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_noshi_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "のし餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お正月",
+    "雑煮",
+    "焼き餅",
+    "年末の餅切り"
+   ],
+   "tax_rate": 8,
+   "description": "年末の風物詩、のし餅。大きな板状にのばした杵つき餅をお好みの大きさに切って使えます。ご家族で切り分ける楽しみもあり、お正月のお雑煮や焼き餅に。白・豆・よもぎからお選びいただけます。",
+   "image_brief": "A large flat rectangular slab of white mochi sealed in clear plastic film with a plain red and white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 杵つき のし餅 白 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 杵つき のし餅 白 1.5kg",
+     "brand": "Cymbal",
+     "size": "1.5kg",
+     "price_tax_excluded": 1680,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 杵つき のし餅 豆 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 杵つき のし餅 よもぎ 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県産こがねもち のし餅 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 1580,
+     "origin": "新潟県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_noshi_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_mizukagami",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "丼もの",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "琵琶湖のほとりで、環境にやさしい栽培基準を守って育てられた滋賀の「みずかがみ」。暑さに強く粒の揃いがよい品種で、ほどよい粘りとすっきりした甘みが特長です。冷めてもおいしく、お弁当にも向いています。",
+   "image_brief": "A white rice bag with a calm lake-blue gradient blank label and a clear window showing white rice grains, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 滋賀県産 みずかがみ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "令和8年産 滋賀県産 みずかがみ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3180,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "令和8年産 滋賀県産 みずかがみ 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 6180,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "令和8年産 滋賀県産 みずかがみ 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3380,
+     "origin": "滋賀県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_mizukagami_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_fusakogane",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "丼もの",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "千葉県生まれの早生品種「ふさこがね」。大粒でふっくらとした炊き上がり、あっさりとした味わいでどんなおかずとも合わせやすいお米です。新米の時期にいち早く出回る、手頃な価格の普段使い銘柄。",
+   "image_brief": "A white and golden-yellow rice bag with a plain blank label and clear window of plump white rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "令和8年産 千葉県産 ふさこがね 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1180,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "令和8年産 千葉県産 ふさこがね 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 2780,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "令和8年産 千葉県産 ふさこがね 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 5380,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "令和8年産 千葉県産 ふさこがね 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 2980,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_fusakogane_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_orecchiette",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ショートパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ブロッコリーのオレキエッテ",
+    "サルシッチャのパスタ",
+    "トマト煮込み",
+    "パスタサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "南イタリア・プーリア地方で親しまれる耳たぶ形のオレキエッテや、くるりと巻いたカサレッチェなど個性派ショートパスタ。くぼみや溝にソースがよくたまり、もちっとした食感が楽しめます。野菜やソーセージとどうぞ。",
+   "image_brief": "A clear bag of small ear-shaped golden orecchiette pasta with a plain olive green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo オレキエッテ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo カサレッチェ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo トロフィエ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 328,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス オレキエッテ 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_orecchiette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_bucatini",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "アマトリチャーナ",
+    "カルボナーラ",
+    "トマトソース",
+    "ラグーソース"
+   ],
+   "tax_rate": 8,
+   "description": "中心に細い穴が通った太めのロングパスタ、ブカティーニ。穴にソースが入り込み、ストローのようなユニークな食感が楽しめます。ローマ名物のアマトリチャーナや濃厚なトマトソースと特に好相性です。",
+   "image_brief": "A long clear bag of thick hollow golden bucatini strands with a plain dark red blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Montecielo ブカティーニ 500g",
+     "brand": "Montecielo",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo ブカティーニ 1kg",
+     "brand": "Montecielo",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montecielo パッパルデッレ 卵入り 250g",
+     "brand": "Montecielo",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト ブロンズダイス ブカティーニ 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_bucatini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_sokuseki_nyumen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "そうめん・ひやむぎ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "にゅうめん",
+    "夜食",
+    "軽めの昼食",
+    "寒い日の一杯"
+   ],
+   "tax_rate": 8,
+   "description": "細めのそうめんに、かつおと昆布のやさしいだしスープを付けたにゅうめんセット。鍋で麺をゆでてスープを溶かすだけで、ほっと温まる一杯が完成します。食欲がない日や寒い夜の軽食におすすめです。",
+   "image_brief": "A clear bag holding fine white noodle bundles and small blank soup sachets, a bowl of hot noodle soup with green onion beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "やまなみ製麺 にゅうめん だしスープ付 3食",
+     "brand": "やまなみ製麺",
+     "size": "3食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまなみ製麺 にゅうめん だしスープ付 6食",
+     "brand": "やまなみ製麺",
+     "size": "6食",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまなみ製麺 にゅうめん 梅しそスープ付 3食",
+     "brand": "やまなみ製麺",
+     "size": "3食",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鯛だし にゅうめん 2食",
+     "brand": "Cymbal セレクト",
+     "size": "2食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_sokuseki_nyumen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_soba_no_mi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "雑穀・米",
+    "そばの実・雑穀"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そばの実ごはん",
+    "そば米雑炊",
+    "サラダ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "そばの実の殻をむいた「むきそば」。白米に混ぜて炊くとぷちぷちとした食感と香ばしさが加わり、ゆでてサラダやスープに入れても美味しく使えます。徳島の郷土料理そば米雑炊にもどうぞ。",
+   "image_brief": "A clear zip pouch filled with pale greenish-beige hulled buckwheat groats with a plain kraft blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 そばの実 むきそば 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 そばの実 むきそば 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 そばの実 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal そばの実 ロースト 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_soba_no_mi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_sekihan_kit",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "もち米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "赤飯",
+    "お祝い",
+    "七五三",
+    "お正月"
+   ],
+   "tax_rate": 8,
+   "description": "もち米・ささげ（または小豆）・ごま塩がセットになった、ご家庭で炊ける赤飯キット。炊飯器で手軽にお祝いの赤飯が作れます。七五三や誕生日、年末年始など、ハレの日の食卓に。",
+   "image_brief": "A kraft paper box with a plain red and white blank label, opened to show bags of white glutinous rice, red beans and a small sesame-salt sachet, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 炊飯器で炊ける 赤飯キット 3合用",
+     "brand": "Cymbal",
+     "size": "3合用",
+     "price_tax_excluded": 698,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 炊飯器で炊ける 赤飯キット 2合用",
+     "brand": "Cymbal",
+     "size": "2合用",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産小豆 赤飯キット 3合用",
+     "brand": "Cymbal セレクト",
+     "size": "3合用",
+     "price_tax_excluded": 898,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 赤飯用 ささげ 国産 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_sekihan_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_rice_noodle_toshomen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "刀削麺",
+    "汁なし担々麺",
+    "ビャンビャン麺",
+    "中華スープ"
+   ],
+   "tax_rate": 8,
+   "description": "生地を削いだような不揃いな形が特長の中華幅広麺、刀削麺の乾麺。もちもちとした弾力と厚みがあり、辛い麻辣スープや汁なし担々麺、ラー油を使った和え麺によく合います。本格中華を自宅で。",
+   "image_brief": "A clear bag of thick irregular leaf-shaped dried wheat noodles with a plain red blank label, a bowl of spicy noodle soup beside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ホクリュウ製麺 刀削麺 乾麺 300g",
+     "brand": "ホクリュウ製麺",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "中国製造"
+    },
+    {
+     "title": "ホクリュウ製麺 刀削麺 麻辣スープ付 2食",
+     "brand": "ホクリュウ製麺",
+     "size": "2食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクリュウ製麺 ビャンビャン麺 幅広 乾麺 250g",
+     "brand": "ホクリュウ製麺",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "中国製造"
+    },
+    {
+     "title": "ホクリュウ製麺 刀削麺 業務用 1kg",
+     "brand": "ホクリュウ製麺",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_rice_noodle_toshomen_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

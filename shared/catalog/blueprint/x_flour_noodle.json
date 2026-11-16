@@ -1,0 +1,2621 @@
+{
+ "category_key": "x_flour_noodle",
+ "items": [
+  {
+   "base_id": "x_flour_noodle_cake_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "小麦粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "鮭のムニエル",
+    "グラタン",
+    "シチュー",
+    "お好み焼き"
+   ],
+   "description": "揚げ物の衣やムニエルの下ごしらえに欠かせない薄力小麦粉です。ホワイトソースを作ればグラタンやシチューにも。お菓子作りにも使いやすいきめ細かな粉です。",
+   "image_brief": "A paper flour bag standing upright with a white powder illustration and Japanese label 「薄力小麦粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 薄力小麦粉 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄力小麦粉 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産小麦100% 薄力小麦粉 700g",
+     "brand": "トップバリュ",
+     "size": "700g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ 薄力小麦粉 チャック付 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 料理用 さらさら薄力粉 ボトル 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 薄力小麦粉 2kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2kg",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機薄力小麦粉 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_cake_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_bread_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "小麦粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "ピザ",
+    "うどん",
+    "パン",
+    "お好み焼き"
+   ],
+   "description": "パン作りや手作り餃子の皮、ピザ生地に向く強力小麦粉です。もちもちとした食感に仕上がり、休日の家族の手作りメニューにぴったり。打ち粉としても便利です。",
+   "image_brief": "A paper flour bag with a bread loaf illustration and Japanese label 「強力小麦粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 強力小麦粉 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 強力小麦粉 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産小麦100% 強力小麦粉 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ 強力小麦粉 チャック付 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産 ゆめちから100% 強力粉 1kg",
+     "brand": "トップバリュ セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り 強力小麦粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_bread_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_potato_starch",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "片栗粉・でんぷん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "唐揚げ",
+    "酢豚",
+    "八宝菜",
+    "かき玉汁"
+   ],
+   "description": "麻婆豆腐や酢豚のとろみ付け、竜田揚げや唐揚げの衣に使える片栗粉です。北海道産じゃがいものでん粉を使用し、ダマになりにくく使いやすい仕上がり。あんかけ料理にも重宝します。",
+   "image_brief": "A clear plastic bag of fine white starch powder with a potato illustration and Japanese label 「片栗粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 片栗粉 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 128,
+     "origin": "北海道産じゃがいもでん粉使用"
+    },
+    {
+     "title": "トップバリュ 北海道産 片栗粉 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 片栗粉 チャック付 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 片栗粉 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ふりかけて使える 片栗粉 ボトル 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 238,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ コーンスターチ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_potato_starch_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_tempura_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "天ぷら粉・から揚げ粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "かき揚げ",
+    "天丼",
+    "とんかつ",
+    "フライ"
+   ],
+   "description": "水で溶くだけで、サクッと軽い衣の天ぷらが揚がる天ぷら粉です。野菜のかき揚げやえび天、天丼にどうぞ。とんかつやフライのバッター液にも使えます。",
+   "image_brief": "A paper pouch bag with an illustration of crispy shrimp and vegetable tempura and Japanese label 「天ぷら粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 天ぷら粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 天ぷら粉 700g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "700g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天ぷら粉 カラッと揚がる 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天ぷら粉 チャック付 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 衣がサクッと 天ぷら粉 ボトルタイプ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産小麦使用 天ぷら粉 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産小麦使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_tempura_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_karaage_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "天ぷら粉・から揚げ粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "竜田揚げ",
+    "手羽先の唐揚げ",
+    "お弁当のおかず"
+   ],
+   "description": "鶏肉にまぶして揚げるだけで、下味いらずの唐揚げが作れるから揚げ粉です。しょうゆや塩、にんにく醤油など味を選べて、夕食やお弁当のおかずに活躍。竜田揚げ用もそろっています。",
+   "image_brief": "A small foil pouch with a photo of golden fried chicken pieces and Japanese label 「から揚げ粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ から揚げ粉 しょうゆ味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ から揚げ粉 にんにく醤油味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ から揚げ粉 塩味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ から揚げ粉 しょうゆ味 チャック付 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス から揚げ粉 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 竜田揚げ粉 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げずにオーブン から揚げ粉 2袋入",
+     "brand": "トップバリュ",
+     "size": "2袋入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_karaage_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_dry_panko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "ハンバーグ",
+    "コロッケ",
+    "エビフライ",
+    "メンチカツ"
+   ],
+   "description": "とんかつやコロッケの衣、ハンバーグのつなぎに使える乾燥パン粉です。細目はお弁当用の小さなフライやつなぎに、粗目はザクザク食感のとんかつにおすすめ。常温で保存できて便利です。",
+   "image_brief": "A clear plastic bag of golden-white dry breadcrumbs with a pork cutlet illustration and Japanese label 「パン粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス パン粉 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パン粉 細目 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パン粉 粗目 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パン粉 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産小麦使用 パン粉 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス パン粉 細目 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハンバーグにも使える 細挽きパン粉 チャック付 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_dry_panko_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_fresh_panko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン粉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "コロッケ",
+    "エビフライ",
+    "カキフライ",
+    "メンチカツ"
+   ],
+   "description": "しっとりとした生パン粉で、揚げるとサクサクふんわりの衣に仕上がります。とんかつやエビフライ、カキフライなど揚げ物を本格的に楽しみたい日に。冷蔵で鮮度を保ってお届けします。",
+   "image_brief": "A clear plastic bag of fluffy, moist white fresh breadcrumbs with Japanese label 「生パン粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 生パン粉 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生パン粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生パン粉 粗挽き 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 食パンから作った 生パン粉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産小麦 生パン粉 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 268,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "トップバリュ 生パン粉 細目 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_fresh_panko_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_okonomiyaki_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お好み焼き粉・たこ焼き粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "広島風お好み焼き",
+    "もんじゃ焼き",
+    "チヂミ"
+   ],
+   "description": "だしの風味がきいたお好み焼き粉で、キャベツと豚バラを混ぜて焼くだけでふっくら仕上がります。ホットプレートで家族そろって楽しむ週末ごはんに。山いも入りタイプはふんわり感がアップします。",
+   "image_brief": "A paper pouch with a photo of okonomiyaki topped with sauce and mayonnaise and Japanese label 「お好み焼粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ お好み焼粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お好み焼粉 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 山いも入り お好み焼粉 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス お好み焼粉 700g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "700g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お好み焼粉 だし入り 2袋入（100g×2）",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お好み焼セット ソース・青のり・かつお節付 2〜3枚分",
+     "brand": "トップバリュ",
+     "size": "2〜3枚分",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_okonomiyaki_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_takoyaki_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お好み焼き粉・たこ焼き粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "明石焼き",
+    "ベビーカステラ風おやつ"
+   ],
+   "description": "かつおと昆布のだしがきいた、外はカリッと中はとろりのたこ焼き粉です。ゆでだこや天かす、ねぎを入れてたこ焼きパーティーに。だし付きの明石焼き風も楽しめます。",
+   "image_brief": "A paper pouch with a photo of takoyaki balls topped with bonito flakes and Japanese label 「たこ焼粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ たこ焼粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たこ焼粉 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ だし香る たこ焼粉 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス たこ焼粉 700g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "700g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たこ焼粉 ソース・青のり付 約40個分",
+     "brand": "トップバリュ",
+     "size": "約40個分",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 明石焼き風 だし付 たこ焼粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_takoyaki_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_pancake_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "ホットケーキミックス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホットケーキ",
+    "パンケーキ",
+    "朝ごはん",
+    "蒸しパン",
+    "アメリカンドッグ"
+   ],
+   "description": "卵と牛乳を混ぜて焼くだけで、ふんわり甘いホットケーキが作れるミックス粉です。休日の朝ごはんや子どものおやつに。蒸しパンやマフィン作りにも使えます。",
+   "image_brief": "A cardboard box showing a stack of fluffy pancakes with butter and syrup and Japanese label 「ホットケーキミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ ホットケーキミックス 200g×4袋",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ホットケーキミックス 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホットケーキミックス 600g（200g×3袋）",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産小麦使用 ホットケーキミックス 400g（200g×2袋）",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "トップバリュ セレクト ふわふわ 厚焼きパンケーキミックス 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 米粉のホットケーキミックス 200g×2袋",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り ホットケーキミックス 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_pancake_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_shiratamako",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "白玉粉・米粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白玉ぜんざい",
+    "お汁粉",
+    "みたらし団子",
+    "フルーツ白玉",
+    "月見団子"
+   ],
+   "description": "国産もち米を使った白玉粉で、水でこねてゆでるだけでもちもちの白玉団子が作れます。お汁粉やぜんざい、みたらし団子など季節のおやつに。上新粉やだんご粉もそろえています。",
+   "image_brief": "A clear plastic bag of white granular rice flour with an illustration of round white dumplings and Japanese label 「白玉粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 白玉粉 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 238,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 国産もち米100% 白玉粉 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 白玉粉 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 428,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ だんご粉 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 上新粉 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 熊本県産もち米使用 白玉粉 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "熊本県産もち米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_shiratamako_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_rice_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "白玉粉・米粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "天ぷら",
+    "シチュー",
+    "グラタン",
+    "パンケーキ"
+   ],
+   "description": "国産米を細かく挽いた料理用の米粉です。揚げ物の衣にするとカリッと軽く、シチューやグラタンのとろみ付けもダマになりにくく便利。パン作り用の米粉もあります。",
+   "image_brief": "A stand-up pouch of fine white rice flour with a rice ear illustration and Japanese label 「米粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 料理用 米粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 国産米100% 米粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 米粉 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 米粉 揚げ物・とろみ用 チャック付 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機米粉 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産有機米使用"
+    },
+    {
+     "title": "トップバリュ パン用 米粉 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_rice_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_fresh_chuka_men",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "味噌ラーメン",
+    "塩ラーメン",
+    "担々麺",
+    "冷やし中華"
+   ],
+   "description": "コシのある生中華麺にスープが付いた、おうちラーメンの定番です。もやしや野菜炒め、チャーシューをのせて具だくさんに。しょうゆ・みそ・塩など家族の好みで選べます。",
+   "image_brief": "A clear plastic tray pack of three portions of wavy fresh yellow ramen noodles with soup sachets and Japanese label 「生中華麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ 生中華麺 しょうゆ味 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生中華麺 みそ味 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生中華麺 塩味 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生中華麺 とんこつ味 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 生ラーメン しょうゆ 3食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3食入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦 生ラーメン 醤油 2食入",
+     "brand": "トップバリュ セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ 生中華麺 スープなし 5玉入",
+     "brand": "トップバリュ",
+     "size": "5玉入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生中華麺 担々麺 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_fresh_chuka_men_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_hiyashi_chuka",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "冷やし中華"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷やし中華",
+    "サラダ麺",
+    "棒棒鶏",
+    "錦糸卵のせ冷やし中華"
+   ],
+   "description": "つるっとした生中華麺に、さっぱりとしたたれが付いた冷やし中華です。きゅうりやハム、錦糸卵をのせて彩りよく。暑い日のお昼ごはんや手軽な夕食にどうぞ。",
+   "image_brief": "A clear plastic tray pack of fresh noodles with sauce sachets and an illustration of colorful chilled noodles and Japanese label 「冷し中華」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷し中華 しょうゆだれ 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷し中華 ごまだれ 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷し中華 しょうゆ 3食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3食入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷し中華 レモン風味だれ 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷し中華 ごまだれ 5食入",
+     "brand": "トップバリュ",
+     "size": "5食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_hiyashi_chuka_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_fresh_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きつねうどん",
+    "鍋焼きうどん",
+    "カレーうどん",
+    "焼うどん",
+    "釜揚げうどん"
+   ],
+   "description": "もちもちとしたコシが楽しめる生うどんです。ゆで時間を変えて好みの食感に調整でき、きつねうどんや鍋焼きうどんに。つゆ付きやカレーうどん用、焼うどん用もそろっています。",
+   "image_brief": "A clear plastic pack of thick white fresh udon noodles with soup sachets and Japanese label 「生うどん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 生うどん つゆ付 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 讃岐風 生うどん 200g×3食",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 太打ち 生うどん 鍋焼き用 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生きしめん 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 釜揚げ用 生うどん 4食入",
+     "brand": "トップバリュ",
+     "size": "4食入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼うどん 生麺 ソース付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーうどん 生麺 つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_fresh_udon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_boiled_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "そば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "そば",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かけそば",
+    "ざるそば",
+    "天ぷらそば",
+    "年越しそば",
+    "鴨南蛮そば"
+   ],
+   "description": "温めるだけ、水でしめるだけですぐ食べられるゆでそばです。かけそばやざるそば、天ぷらをのせた天ぷらそばに。年末には年越しそば用のつゆ・天かす付きセットもあります。",
+   "image_brief": "A clear plastic pack of three portions of grey-brown boiled buckwheat noodles with Japanese label 「ゆでそば」.",
+   "variants": [
+    {
+     "title": "トップバリュ ゆでそば 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ゆでそば 180g×3食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "540g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ゆでそば つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 二八そば 生麺 つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越しそば 生麺 つゆ・天かす付 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 茶そば ゆで麺 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_boiled_soba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_somen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "そうめん・ひやむぎ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そうめん",
+    "にゅうめん",
+    "冷やしそうめん",
+    "そうめんチャンプルー",
+    "サラダそうめん"
+   ],
+   "description": "細くなめらかな喉ごしのそうめんです。夏は冷やしそうめん、寒い季節は温かいにゅうめんにして一年中楽しめます。食べやすい束売りで、必要な分だけゆでられます。",
+   "image_brief": "A long rectangular cellophane bag of bundled thin white noodles tied with paper bands and Japanese label 「そうめん」.",
+   "variants": [
+    {
+     "title": "トップバリュ そうめん 400g（50g×8束）",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス そうめん 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 手延べそうめん 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 手延べそうめん 700g",
+     "brand": "トップバリュ",
+     "size": "700g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ そうめん 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 太めのそうめん にゅうめん用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 島原手延べそうめん 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "長崎県製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_somen_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_hiyamugi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "そうめん・ひやむぎ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷やむぎ",
+    "温かいひやむぎ",
+    "サラダ麺",
+    "つけ麺風ひやむぎ"
+   ],
+   "description": "そうめんより少し太めで、つるっとした食感が楽しめるひやむぎです。冷たいめんつゆでさっぱりと、またはきのこや鶏肉と温かいつゆで。色つき麺入りは子どもにも喜ばれます。",
+   "image_brief": "A cellophane bag of bundled white noodles with a few pink and green strands visible and Japanese label 「ひやむぎ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ひやむぎ 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 色つき ひやむぎ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ひやむぎ 800g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "800g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 手延べ ひやむぎ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_hiyamugi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_harusame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "春雨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "春雨サラダ",
+    "麻婆春雨",
+    "春雨スープ",
+    "チャプチェ",
+    "鍋"
+   ],
+   "description": "つるつるとした食感の春雨で、戻してサラダやスープ、炒め物に使えます。麻婆春雨やチャプチェ、鍋の具材にもぴったり。使い切りの小分けタイプも便利です。",
+   "image_brief": "A clear plastic bag of translucent dried glass noodles in a bundle with Japanese label 「緑豆春雨」.",
+   "variants": [
+    {
+     "title": "トップバリュ 緑豆春雨 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "中国製造"
+    },
+    {
+     "title": "トップバリュ 国産でん粉 春雨 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国産でん粉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 緑豆春雨 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "中国製造"
+    },
+    {
+     "title": "トップバリュ 使い切り 緑豆春雨 小分け（10g×10）",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "トップバリュ 春雨 鍋用 太めタイプ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 緑豆春雨 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_harusame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_macaroni",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "マカロニ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グラタン",
+    "マカロニサラダ",
+    "ミネストローネ",
+    "お弁当のおかず",
+    "クリームシチュー"
+   ],
+   "description": "グラタンやマカロニサラダに欠かせないマカロニです。早ゆでタイプなら忙しい日の夕食やお弁当作りもスピーディー。シェル型はスープやサラダを華やかにします。",
+   "image_brief": "A clear plastic bag of short elbow macaroni with a gratin photo and Japanese label 「早ゆでマカロニ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス マカロニ 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 128,
+     "origin": "トルコ製造"
+    },
+    {
+     "title": "トップバリュ 早ゆで マカロニ 3分 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 早ゆで マカロニ 3分 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダマカロニ 4分 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 早ゆでシェルマカロニ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グラタンマカロニ 2分 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 早ゆでマカロニ 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "トルコ製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_macaroni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_short_pasta_penne",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ショートパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ペンネアラビアータ",
+    "グラタン",
+    "パスタサラダ",
+    "ミートソースペンネ",
+    "クリームパスタ"
+   ],
+   "description": "ソースがよく絡むペンネなどのショートパスタです。トマトソースやミートソース、グラタンやパスタサラダにも使えます。フジッリやファルファッレはお弁当の彩りにも。",
+   "image_brief": "A clear plastic bag of ridged penne pasta with a tomato sauce photo and Japanese label 「ペンネ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ペンネ リガーテ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ ペンネ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ 早ゆで ペンネ 7分 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 168,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ セレクト ブロンズダイス ペンネ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ペンネ 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ フジッリ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ ファルファッレ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "イタリア製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_short_pasta_penne_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_ribbon_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "ロングパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カルボナーラ",
+    "クリームパスタ",
+    "ボロネーゼ",
+    "冷製パスタ",
+    "ペペロンチーノ"
+   ],
+   "description": "平たい麺にクリームソースやミートソースがよく絡むフェットチーネやリングイネです。カルボナーラやボロネーゼでお店風の一皿に。細いカッペリーニは冷製パスタにおすすめです。",
+   "image_brief": "A cardboard box with a window showing nested flat ribbon pasta and Japanese label 「フェットチーネ」.",
+   "variants": [
+    {
+     "title": "トップバリュ フェットチーネ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ リングイネ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ フェットチーネ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 168,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ カッペリーニ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機リングイネ 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ タリアテッレ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ セレクト ブロンズダイス リングイネ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_ribbon_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_haiga_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "胚芽米・玄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おにぎり",
+    "お弁当",
+    "親子丼",
+    "カレー"
+   ],
+   "description": "胚芽を残して精米した胚芽米で、白米と同じように炊けてほんのり香ばしい味わいです。毎日のごはんやおにぎり、丼ものにどうぞ。無洗米タイプは研がずに炊けて忙しい日に便利です。",
+   "image_brief": "A plastic rice bag with a window showing rice grains with visible germ and Japanese label 「胚芽米」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 胚芽米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1880,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 胚芽米 5kg",
+     "brand": "トップバリュ",
+     "size": "5kg",
+     "price_tax_excluded": 4280,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 無洗米 胚芽米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 胚芽米 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産コシヒカリの胚芽米 2kg",
+     "brand": "トップバリュ セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 2280,
+     "origin": "新潟県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_haiga_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_mochimugi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "雑穀・もち麦"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麦ごはん",
+    "とろろ麦ごはん",
+    "スープ",
+    "サラダ",
+    "カレー"
+   ],
+   "description": "白米に混ぜて炊くだけで、ぷちぷちもちもちの食感が楽しめるもち麦です。カレーやとろろごはんと相性がよく、スープやサラダのトッピングにも。押麦や使い切りスティックタイプもあります。",
+   "image_brief": "A stand-up pouch of plump pale barley grains with a bowl of barley rice photo and Japanese label 「もち麦」.",
+   "variants": [
+    {
+     "title": "トップバリュ もち麦 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 国産 もち麦 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ もち麦 使い切りスティック 50g×12袋",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス もち麦 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 528,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 押麦 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 押麦 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産もち麦 ダイシモチ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_mochimugi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_multigrain_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "雑穀・もち麦"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "雑穀ごはん",
+    "おにぎり",
+    "お弁当",
+    "カレー",
+    "朝ごはん"
+   ],
+   "description": "白米に加えて炊くだけで、彩りと食感が楽しめる雑穀ミックスです。十六穀や十穀、古代米など好みで選べ、おにぎりやお弁当のごはんにも。小分けタイプは1合ごとに使えて便利です。",
+   "image_brief": "A stand-up pouch with a window showing a colorful mix of grains, black rice and beans and Japanese label 「十六穀ごはん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 十六穀ごはん 30g×6袋",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 十六穀ごはん 30g×15袋",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産 十六穀米 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 黒米入り 雑穀ミックス 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産 十穀米 25g×10袋",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 赤米・黒米・緑米 古代米ミックス 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 雑穀ミックス 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_multigrain_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_brown_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "胚芽米・玄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "玄米ごはん",
+    "おにぎり",
+    "カレー",
+    "玄米チャーハン",
+    "お弁当"
+   ],
+   "description": "香ばしくかみごたえのある玄米です。カレーや炒めごはん、おにぎりにすると風味が引き立ちます。白米と同じ水加減で炊けるタイプや発芽玄米もそろえています。",
+   "image_brief": "A plastic rice bag showing light brown unpolished rice grains through a window and Japanese label 「玄米」.",
+   "variants": [
+    {
+     "title": "令和8年産 熊本県産 ヒノヒカリ 玄米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3780,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "トップバリュ 国産 玄米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 発芽玄米 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 発芽玄米 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機玄米 2kg",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "2kg",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    },
+    {
+     "title": "令和8年産 秋田県産 あきたこまち 玄米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "トップバリュ 白米と同じ水加減で炊ける 玄米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_brown_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_yamagata_brand_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "親子丼",
+    "牛丼",
+    "焼き魚",
+    "お弁当"
+   ],
+   "description": "つやと甘みが際立つ山形県産の銘柄米です。炊き上がりの白さと粒立ちのよさで、おにぎりや丼ものはもちろん、焼き魚や煮物の和定食にもよく合います。つや姫・雪若丸・はえぬきから選べます。",
+   "image_brief": "A plastic rice bag with a window showing glossy white rice and a mountain illustration and Japanese label 「山形県産 つや姫」.",
+   "variants": [
+    {
+     "title": "【新米】令和8年産 山形県産 つや姫 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4780,
+     "origin": "山形県産"
+    },
+    {
+     "title": "【新米】令和8年産 山形県産 つや姫 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "山形県産"
+    },
+    {
+     "title": "【新米】令和8年産 山形県産 つや姫 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 9280,
+     "origin": "山形県産"
+    },
+    {
+     "title": "令和8年産 山形県産 つや姫 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4980,
+     "origin": "山形県産"
+    },
+    {
+     "title": "【新米】令和8年産 山形県産 雪若丸 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4480,
+     "origin": "山形県産"
+    },
+    {
+     "title": "トップバリュ セレクト 山形県産 特別栽培米 つや姫 5kg",
+     "brand": "トップバリュ セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 5180,
+     "origin": "山形県産"
+    },
+    {
+     "title": "【新米】令和8年産 山形県産 はえぬき 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "山形県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_yamagata_brand_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_hokkaido_brand_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "カレー",
+    "チャーハン",
+    "親子丼",
+    "お弁当"
+   ],
+   "description": "もっちりとした粘りと甘みが特長の北海道産の銘柄米です。冷めてもおいしいのでおにぎりやお弁当に、カレーや丼ものにもよく合います。研がずに炊ける無洗米もそろえています。",
+   "image_brief": "A plastic rice bag with a window showing plump white rice and a blue sky illustration and Japanese label 「北海道産 ゆめぴりか」.",
+   "variants": [
+    {
+     "title": "【新米】令和8年産 北海道産 ゆめぴりか 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】令和8年産 北海道産 ゆめぴりか 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】令和8年産 北海道産 ゆめぴりか 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 8980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "令和8年産 北海道産 ゆめぴりか 無洗米 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4880,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】令和8年産 北海道産 ふっくりんこ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産 特別栽培米 ゆめぴりか 5kg",
+     "brand": "トップバリュ セレクト",
+     "size": "5kg",
+     "price_tax_excluded": 5080,
+     "origin": "北海道産"
+    },
+    {
+     "title": "令和8年産 北海道産 ゆめぴりか 無洗米 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 2080,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_hokkaido_brand_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_tohoku_brand_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "牛丼",
+    "肉じゃが",
+    "焼き魚",
+    "お弁当"
+   ],
+   "description": "宮城・岩手・青森など東北各地で育った銘柄米です。あっさりとした味わいでどんなおかずにも合い、毎日の食卓やお弁当にぴったり。2kgから10kgまで家族の人数に合わせて選べます。",
+   "image_brief": "A plastic rice bag with a window showing white rice grains and a rice field illustration and Japanese label 「宮城県産 ひとめぼれ」.",
+   "variants": [
+    {
+     "title": "【新米】令和8年産 宮城県産 ひとめぼれ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4280,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "【新米】令和8年産 宮城県産 ひとめぼれ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "【新米】令和8年産 宮城県産 ひとめぼれ 10kg",
+     "brand": "",
+     "size": "10kg",
+     "price_tax_excluded": 8280,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "【新米】令和8年産 岩手県産 ひとめぼれ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4180,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "【新米】令和8年産 宮城県産 だて正夢 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4580,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "【新米】令和8年産 岩手県産 銀河のしずく 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4580,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "【新米】令和8年産 青森県産 まっしぐら 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "青森県産"
+    },
+    {
+     "title": "【新米】令和8年産 青森県産 青天の霹靂 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4780,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_tohoku_brand_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_kyushu_brand_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "銘柄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "カレー",
+    "豚の生姜焼き",
+    "チャーハン",
+    "お弁当"
+   ],
+   "description": "佐賀・熊本・福岡など九州で育った銘柄米です。ほどよい粘りとしっかりした粒感で、カレーやチャーハン、生姜焼きなどのおかずとよく合います。手頃な価格で毎日のごはんにおすすめです。",
+   "image_brief": "A plastic rice bag with a window showing white rice and a green field illustration and Japanese label 「佐賀県産 さがびより」.",
+   "variants": [
+    {
+     "title": "令和8年産 佐賀県産 さがびより 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4180,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "令和8年産 熊本県産 森のくまさん 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4080,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "令和8年産 福岡県産 元気つくし 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4080,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "令和8年産 熊本県産 ヒノヒカリ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "令和8年産 熊本県産 ヒノヒカリ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "令和8年産 佐賀県産 夢しずく 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "令和8年産 鹿児島県産 あきほなみ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_kyushu_brand_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_glutinous_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "もち米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "赤飯",
+    "おこわ",
+    "中華おこわ",
+    "おはぎ",
+    "ちまき"
+   ],
+   "description": "お赤飯や山菜おこわ、中華おこわに使うもち米です。うるち米に少し混ぜて炊けばもっちり食感に。お祝いの日や季節の行事のおはぎ作りにもどうぞ。",
+   "image_brief": "A plastic rice bag showing opaque milky-white glutinous rice grains and Japanese label 「もち米」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 もち米 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "令和8年産 北海道産 はくちょうもち もち米 1.4kg",
+     "brand": "",
+     "size": "1.4kg",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "令和8年産 佐賀県産 ヒヨクモチ もち米 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "令和8年産 新潟県産 こがねもち もち米 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1080,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "トップバリュ 国産 もち米 無洗米 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 もち米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_glutinous_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_gyoza_wrappers",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "餃子・春巻の皮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "水餃子",
+    "揚げ餃子",
+    "スープ餃子",
+    "ピザ風おつまみ"
+   ],
+   "description": "ひき肉とキャベツ、にらを包んで手作り餃子が楽しめる餃子の皮です。焼き餃子はもちろん、厚皮は水餃子やスープ餃子にもちもち食感で。家族で包む夕食作りにどうぞ。",
+   "image_brief": "A clear plastic pack of stacked round thin white dumpling wrappers with Japanese label 「餃子の皮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 餃子の皮 24枚入",
+     "brand": "トップバリュ",
+     "size": "24枚入",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 餃子の皮 大判 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 餃子の皮 もちもち厚皮 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水餃子の皮 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産小麦使用 餃子の皮 24枚入",
+     "brand": "トップバリュ",
+     "size": "24枚入",
+     "price_tax_excluded": 168,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 餃子の皮 40枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 餃子の皮 薄皮 30枚入",
+     "brand": "トップバリュ",
+     "size": "30枚入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_gyoza_wrappers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_spring_roll_wrappers",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "餃子・春巻の皮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "春巻き",
+    "焼売",
+    "ワンタンスープ",
+    "揚げワンタン",
+    "お弁当のおかず"
+   ],
+   "description": "パリッと揚がる春巻の皮と、焼売やワンタン用の皮です。春雨やたけのこ入りの春巻き、手作り焼売、ワンタンスープなど中華のおかずに。ミニサイズはお弁当用の小さな春巻きに便利です。",
+   "image_brief": "A clear plastic pack of square thin pastry sheets stacked flat with Japanese label 「春巻の皮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 春巻の皮 10枚入",
+     "brand": "トップバリュ",
+     "size": "10枚入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春巻の皮 ミニ 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シュウマイの皮 30枚入",
+     "brand": "トップバリュ",
+     "size": "30枚入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ワンタンの皮 30枚入",
+     "brand": "トップバリュ",
+     "size": "30枚入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春巻の皮 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ワンタンの皮 50枚入",
+     "brand": "トップバリュ",
+     "size": "50枚入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_spring_roll_wrappers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_dried_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かけうどん",
+    "ざるうどん",
+    "煮込みうどん",
+    "きつねうどん",
+    "焼うどん"
+   ],
+   "description": "常温で保存できるうどんの乾麺です。ゆでればつるっとした喉ごしで、ざるうどんや温かいきつねうどん、煮込みうどんに。きしめんや幅広タイプ、手延べうどんもあります。",
+   "image_brief": "A long cellophane bag of bundled dried white udon noodles with Japanese label 「うどん 乾麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ うどん 乾麺 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス うどん 乾麺 800g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "800g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産小麦使用 うどん 乾麺 270g",
+     "brand": "トップバリュ",
+     "size": "270g",
+     "price_tax_excluded": 178,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "トップバリュ きしめん 乾麺 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 稲庭風 手延べうどん 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひもかわ風 幅広うどん 乾麺 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 細うどん 乾麺 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_dried_udon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_champon_noodles",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺",
+    "ラーメン・中華麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ちゃんぽん",
+    "鍋",
+    "もつ鍋",
+    "キムチ鍋",
+    "焼きちゃんぽん"
+   ],
+   "description": "もちもちとした太めのちゃんぽん麺で、野菜や豚肉、魚介を炒めて煮込めば具だくさんのちゃんぽんに。鍋の〆にもぴったりで、キムチ鍋やもつ鍋のスープを最後まで楽しめます。",
+   "image_brief": "A clear plastic pack of thick pale yellow noodles in nest portions with Japanese label 「ちゃんぽん麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ ちゃんぽん麺 3玉入",
+     "brand": "トップバリュ",
+     "size": "3玉入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちゃんぽん 生麺 スープ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋のしめ 中華麺 2玉入",
+     "brand": "トップバリュ",
+     "size": "2玉入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちゃんぽん麺 5玉入",
+     "brand": "トップバリュ",
+     "size": "5玉入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 太麺 ちゃんぽん用 2玉入",
+     "brand": "トップバリュ",
+     "size": "2玉入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋のしめ ちゃんぽん麺 2玉入",
+     "brand": "トップバリュ",
+     "size": "2玉入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_champon_noodles_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_flour_noodle_tenkasu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "天かす・揚げ玉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "たぬきうどん",
+    "お好み焼き",
+    "たこ焼き",
+    "焼きそば",
+    "おにぎり"
+   ],
+   "description": "サクサクの天かすで、うどんやそばにのせるだけでたぬきうどんに。お好み焼きやたこ焼き、焼きそばに混ぜればコクと香ばしさが加わります。めんつゆと混ぜたおにぎりもおすすめです。",
+   "image_brief": "A clear plastic bag of small golden crunchy tempura bits with Japanese label 「天かす」.",
+   "variants": [
+    {
+     "title": "トップバリュ 天かす 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天かす 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げ玉 さくさく大粒 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天かす チャック付 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げ玉 だし風味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 天かす 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_flour_noodle_tenkasu_p.jpg"
+   ]
+  }
+ ]
+}

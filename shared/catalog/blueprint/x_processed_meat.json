@@ -1,0 +1,2401 @@
+{
+ "category_key": "x_processed_meat",
+ "items": [
+  {
+   "base_id": "x_processed_meat_prosciutto",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "生ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "パスタ",
+    "ちらし寿司",
+    "オードブル",
+    "カルパッチョ"
+   ],
+   "description": "ほどよい塩気と熟成のうま味が楽しめる生ハムです。グリーンサラダやパスタにのせるだけで食卓が華やかになります。ちらし寿司やオードブルなど、おもてなしの一品にも便利です。",
+   "image_brief": "A flat transparent pack of thin, deep-red prosciutto slices fanned on white film with a label reading 「生ハム」.",
+   "variants": [
+    {
+     "title": "トップバリュ 生ハム 切り落とし 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト スペイン産 ハモンセラーノ 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ セレクト イタリア産 プロシュート 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ 生ハム ロース 4パック（30g×4）",
+     "brand": "トップバリュ",
+     "size": "4パック（30g×4）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 生ハム 60g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "60g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生ハム 徳用 切り落とし 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_prosciutto_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_ham_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハムステーキ",
+    "ハムエッグ",
+    "朝ごはん",
+    "お弁当のおかず"
+   ],
+   "description": "焼くだけで食べごたえのある一品になる厚切りのハムステーキです。フライパンで両面を焼き、目玉焼きを添えればボリュームのある朝ごはんに。食べやすく切ってお弁当のおかずにもどうぞ。",
+   "image_brief": "A vacuum pack showing two thick-cut round ham steaks with grill-mark illustration on the label reading 「厚切りハムステーキ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 厚切りハムステーキ 2枚入（160g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（160g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りハムステーキ 3枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "3枚入（240g）",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚 厚切りハムステーキ 2枚入（160g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚入（160g）",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ ハムステーキ 和風おろしソース付 2枚入（160g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（160g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ハムステーキ 4枚入（280g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4枚入（280g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハムステーキ 照り焼きソース付 2枚入（160g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（160g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_ham_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_pork_frankfurter",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ホットドッグ",
+    "ポトフ",
+    "カレー",
+    "朝ごはん",
+    "バーベキュー"
+   ],
+   "description": "パリッとした皮とジューシーな肉汁が楽しめる太めのポークフランクです。ボイルや焼きでホットドッグにしたり、ポトフやカレーに入れて煮込むのもおすすめです。週末のバーベキューにも重宝します。",
+   "image_brief": "A vacuum-sealed tray of long thick pork frankfurters lined up side by side, label reading 「ポークフランク」.",
+   "variants": [
+    {
+     "title": "トップバリュ ポークフランク 5本入（250g）",
+     "brand": "トップバリュ",
+     "size": "5本入（250g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびきポークフランク 3本入（180g）",
+     "brand": "トップバリュ",
+     "size": "3本入（180g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚肉使用 ジャンボフランク 2本入（200g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2本入（200g）",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス フランクフルト 10本入（450g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10本入（450g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハーブ入りポークフランク 4本入（200g）",
+     "brand": "トップバリュ",
+     "size": "4本入（200g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロングポークフランク 4本入（280g）",
+     "brand": "トップバリュ",
+     "size": "4本入（280g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_pork_frankfurter_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_spicy_chorizo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ナポリタン",
+    "ピザトースト",
+    "チャーハン",
+    "ポトフ",
+    "パエリア",
+    "お弁当のおかず"
+   ],
+   "description": "唐辛子を効かせたピリッと辛いあらびきのチョリソーです。ナポリタンやピザトースト、チャーハンに入れると味のアクセントになります。大人向けのお弁当のおかずにもおすすめです。",
+   "image_brief": "A clear bag of reddish spicy sausages with a chili-pepper icon and label reading 「チョリソー 辛口」.",
+   "variants": [
+    {
+     "title": "トップバリュ チョリソー 辛口あらびきウインナー 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョリソー 2袋組（110g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋組（110g×2）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョリソー 徳用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 激辛チョリソー ハバネロ入り 110g",
+     "brand": "トップバリュ セレクト",
+     "size": "110g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 辛口ウインナー 160g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョリソー マイルド 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_spicy_chorizo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_cut_bacon_strips",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ベーコン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "ナポリタン",
+    "野菜炒め",
+    "スープ",
+    "グラタン"
+   ],
+   "description": "あらかじめ短冊状にカットしてあるので、包丁いらずですぐに使えるベーコンです。チャーハンやナポリタン、野菜炒めにパッと加えるだけでうま味がアップします。忙しい日のスープやグラタンにも便利です。",
+   "image_brief": "A small clear tray of short rectangular bacon pieces with a label reading 「カットベーコン」.",
+   "variants": [
+    {
+     "title": "トップバリュ カットベーコン 短冊切り 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カットベーコン 2パック（70g×2）",
+     "brand": "トップバリュ",
+     "size": "2パック（70g×2）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス カットベーコン 徳用 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ダイスカットベーコン 角切り 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚 カットベーコン 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ カットベーコン 減塩 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_cut_bacon_strips_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_meatballs",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 肉・肉加工品",
+    "ミートボール・肉だんご"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当のおかず",
+    "酢豚",
+    "ミートボールスパゲッティ",
+    "トマト煮込み",
+    "クリームシチュー"
+   ],
+   "description": "ふんわりやわらかなミートボールを冷凍しました。レンジで温めるだけでお弁当のおかずになるほか、甘酢あんで酢豚風にしたり、トマトソースで煮込んでパスタにするのもおすすめです。",
+   "image_brief": "A colorful stand-up freezer bag showing glossy meatballs in sauce, label reading 「ミートボール」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 甘酢あんミートボール 12個入（240g）",
+     "brand": "トップバリュ",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 トマトソース ミートボール 12個入（240g）",
+     "brand": "トップバリュ",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 肉だんご 徳用 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産鶏 れんこん入り肉だんご 10個入（200g）",
+     "brand": "トップバリュ セレクト",
+     "size": "10個入（200g）",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 冷凍 プレーン ミートボール ソースなし 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 てりやきミートボール お弁当用 6個入×3袋",
+     "brand": "トップバリュ",
+     "size": "6個入×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 デミグラスソース ミートボール 12個入（240g）",
+     "brand": "トップバリュ",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_meatballs_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_hamburg_patty_raw",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 肉・肉加工品",
+    "ハンバーグ種"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "煮込みハンバーグ",
+    "ロコモコ",
+    "ハンバーガー",
+    "お弁当のおかず"
+   ],
+   "description": "味付け済みのハンバーグ種を冷凍しました。凍ったままフライパンで焼けるので、使いたい分だけ取り出して調理できます。煮込みハンバーグやロコモコ、手作りハンバーガーにも使えます。",
+   "image_brief": "A large frozen resealable bag showing individually frozen raw hamburger patties, label reading 「ハンバーグ種」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ハンバーグ種 成形済 120g×6個",
+     "brand": "トップバリュ",
+     "size": "120g×6個",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ハンバーグ種 成形済 100g×10個",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g×10個",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ハンバーグ種 チャック付 成形前 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産牛100% ハンバーグ種 150g×4個",
+     "brand": "トップバリュ セレクト",
+     "size": "150g×4個",
+     "price_tax_excluded": 1280,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ 冷凍 チーズイン ハンバーグ種 120g×4個",
+     "brand": "トップバリュ",
+     "size": "120g×4個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニハンバーグ種 30g×16個",
+     "brand": "トップバリュ",
+     "size": "30g×16個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_hamburg_patty_raw_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_teriyaki_tsukune",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "つくね"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "つくね丼",
+    "月見つくね",
+    "焼き鳥",
+    "お弁当のおかず"
+   ],
+   "description": "鶏ひき肉をふっくらと焼き上げたつくねに、甘辛い照り焼きのたれを添えました。温めて卵黄を添えれば月見つくねに、ごはんにのせればつくね丼になります。お弁当のおかずにも便利です。",
+   "image_brief": "A clear plastic tray of glossy round chicken meatballs with a small sauce sachet, label reading 「照焼つくね」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏使用 照焼つくね たれ付 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏使用 照焼つくね たれ付 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 軟骨入り 鶏つくね串 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 大葉入り 鶏つくね 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 328,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ れんこん入り 鶏つくね 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 328,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏つくね 生 成形済 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ チーズ入り 鶏つくね 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_teriyaki_tsukune_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_roast_beef",
+   "category_path": [
+    "お肉・お肉加工品",
+    "焼豚・ローストビーフ",
+    "ローストビーフ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ローストビーフ丼",
+    "サラダ",
+    "サンドイッチ",
+    "オードブル"
+   ],
+   "description": "牛もも肉をしっとりと焼き上げたローストビーフです。ごはんにのせてローストビーフ丼にしたり、サラダやサンドイッチに使ったりと手軽に楽しめます。記念日やおもてなしのオードブルにもぴったりです。",
+   "image_brief": "A clear tray of thinly sliced pink roast beef arranged in a fan with a sauce sachet, label reading 「ローストビーフ」.",
+   "variants": [
+    {
+     "title": "トップバリュ オーストラリア産牛 ローストビーフ ソース付 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "トップバリュ ローストビーフ スライス ソース付 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ローストビーフ ブロック ソース付 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛もも ローストビーフ 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ ローストビーフ 切り落とし わさび醤油ソース付 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ローストビーフ 120g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_roast_beef_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_shredded_salad_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "サラダチキン・チキン加工品",
+    "ほぐし・スライスチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "冷やし中華",
+    "棒棒鶏",
+    "サンドイッチ",
+    "和え物",
+    "スープ"
+   ],
+   "description": "しっとり蒸し上げた鶏むね肉を食べやすくほぐしたサラダチキンです。袋から出してそのままサラダや冷やし中華、棒棒鶏にのせられます。きゅうりと和えて副菜にしたり、スープの具にしても便利です。",
+   "image_brief": "A small flat pouch showing shredded white chicken through a window, label reading 「ほぐしサラダチキン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ほぐしサラダチキン プレーン 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ほぐしサラダチキン ハーブ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ほぐしサラダチキン 柚子こしょう 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ほぐしサラダチキン 2袋組（70g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋組（70g×2）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ほぐしサラダチキン スモーク 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ほぐしサラダチキン 徳用 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_shredded_salad_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_luncheon_meat",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ゴーヤチャンプルー",
+    "ポークたまごおにぎり",
+    "チャーハン",
+    "野菜炒め",
+    "お弁当のおかず"
+   ],
+   "description": "豚肉をなめらかに仕上げたランチョンミートの缶詰です。厚めに切って焼き、卵焼きと一緒にごはんで包めばポークたまごおにぎりに。ゴーヤチャンプルーやチャーハンの具にも使えます。",
+   "image_brief": "A rectangular blue-and-yellow metal can with a pull tab and a photo of sliced fried pork, label reading 「ランチョンミート」.",
+   "variants": [
+    {
+     "title": "トップバリュ ランチョンミート 340g",
+     "brand": "トップバリュ",
+     "size": "340g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ランチョンミート 減塩 340g",
+     "brand": "トップバリュ",
+     "size": "340g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ランチョンミート ハーフサイズ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ランチョンミート 3缶パック（200g×3）",
+     "brand": "トップバリュ",
+     "size": "3缶パック（200g×3）",
+     "price_tax_excluded": 768,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ランチョンミート 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚肉使用 ポークランチョンミート 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ ランチョンミート 黒胡椒 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_luncheon_meat_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_corned_beef",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コンビーフポテト",
+    "チャーハン",
+    "サンドイッチ",
+    "オムレツ",
+    "キャベツ炒め"
+   ],
+   "description": "牛肉をほぐして塩漬けにしたコンビーフです。じゃがいもと炒めてコンビーフポテトにしたり、キャベツ炒めやチャーハンに加えたりすると手軽にうま味が出ます。オムレツやサンドイッチの具にもおすすめです。",
+   "image_brief": "A small trapezoid-shaped metal can with a red label and a photo of shredded corned beef, label reading 「コンビーフ」.",
+   "variants": [
+    {
+     "title": "トップバリュ コンビーフ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コンビーフ 2缶パック（80g×2）",
+     "brand": "トップバリュ",
+     "size": "2缶パック（80g×2）",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 コンビーフ 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ ニューコンビーフ 牛・馬肉使用 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コンビーフ 大容量 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コンビーフハッシュ ポテト入り 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_corned_beef_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_gyudon_no_gu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 丼の具",
+    "牛丼の具"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉うどん",
+    "牛皿",
+    "肉豆腐"
+   ],
+   "description": "甘辛いたれで玉ねぎと一緒に煮込んだ牛丼の具を冷凍しました。湯せんやレンジで温めてごはんにのせるだけで牛丼が完成します。うどんにのせて肉うどんにしたり、豆腐と煮て肉豆腐にするのもおすすめです。",
+   "image_brief": "A freezer carton showing a bowl of beef and onion over rice with individual pouches, label reading 「牛丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 牛丼の具 135g×3袋",
+     "brand": "トップバリュ",
+     "size": "135g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 牛丼の具 135g×6袋",
+     "brand": "トップバリュ",
+     "size": "135g×6袋",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 牛丼の具 120g×4袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g×4袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産牛使用 牛丼の具 150g×2袋",
+     "brand": "トップバリュ セレクト",
+     "size": "150g×2袋",
+     "price_tax_excluded": 698,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ 冷凍 牛丼の具 大盛り 200g×2袋",
+     "brand": "トップバリュ",
+     "size": "200g×2袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ねぎ塩牛カルビ丼の具 130g×3袋",
+     "brand": "トップバリュ",
+     "size": "130g×3袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 牛すき丼の具 140g×3袋",
+     "brand": "トップバリュ",
+     "size": "140g×3袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_gyudon_no_gu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_butadon_no_gu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 丼の具",
+    "豚丼の具"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "生姜焼き",
+    "焼肉丼",
+    "お弁当のおかず"
+   ],
+   "description": "香ばしく焼いた豚肉を甘辛いたれでからめた豚丼の具です。温めてごはんにのせるだけで、忙しい日のお昼や夕食がすぐに用意できます。キャベツを添えて生姜焼き風のおかずにもなります。",
+   "image_brief": "A freezer carton with a photo of glazed pork slices over rice and stacked pouches, label reading 「豚丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 豚丼の具 炭火焼風 120g×3袋",
+     "brand": "トップバリュ",
+     "size": "120g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 豚丼の具 120g×6袋",
+     "brand": "トップバリュ",
+     "size": "120g×6袋",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 帯広風 豚丼の具 130g×2袋",
+     "brand": "トップバリュ",
+     "size": "130g×2袋",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 豚丼の具 115g×4袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "115g×4袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 生姜焼き丼の具 120g×3袋",
+     "brand": "トップバリュ",
+     "size": "120g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ねぎ塩豚丼の具 120g×3袋",
+     "brand": "トップバリュ",
+     "size": "120g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_butadon_no_gu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_karaage_marinated_chicken",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 肉・肉加工品",
+    "下味付き肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "竜田揚げ",
+    "チキン南蛮",
+    "油淋鶏",
+    "お弁当のおかず"
+   ],
+   "description": "一口大にカットした鶏肉に下味をつけて冷凍しました。解凍して粉をまぶして揚げるだけで、味がしっかりしみた唐揚げが手軽に作れます。チキン南蛮や油淋鶏など、揚げ鶏のアレンジにも便利です。",
+   "image_brief": "A large frozen resealable bag showing seasoned raw chicken thigh chunks, label reading 「唐揚げ用 下味付き」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 唐揚げ用 下味付き若鶏もも しょうゆ味 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 唐揚げ用 下味付き若鶏もも 塩にんにく味 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 唐揚げ用 下味付き若鶏もも しょうゆ味 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産若鶏もも 唐揚げ用下味付き 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 下味付き若鶏むね 唐揚げ用 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 竜田揚げ用 下味付き若鶏もも 粉付き 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_karaage_marinated_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_gyoza_filling",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉加工品",
+    "餃子・焼売の具"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "水餃子",
+    "焼売",
+    "ワンタンスープ",
+    "春巻き"
+   ],
+   "description": "豚ひき肉と野菜を味付けして練り上げた餃子・焼売の具です。皮で包むだけで手作りの餃子が簡単に作れ、家族で包むのも楽しめます。ワンタンスープや春巻きの具としても使えます。",
+   "image_brief": "A rectangular plastic tub of seasoned minced pork and chopped vegetables under clear film, label reading 「餃子の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ 餃子の具 国産豚肉・国産野菜使用 300g（約25個分）",
+     "brand": "トップバリュ",
+     "size": "300g（約25個分）",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 餃子の具 皮付きセット 24個分",
+     "brand": "トップバリュ",
+     "size": "24個分",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ にら餃子の具 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しそ餃子の具 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鮮度+] 国産豚 餃子用 ひき肉あん 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 焼売の具 250g（約20個分）",
+     "brand": "トップバリュ",
+     "size": "250g（約20個分）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_gyoza_filling_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_meat_soboro",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "そぼろ・肉みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "三色丼",
+    "そぼろあんかけ",
+    "おにぎり",
+    "レタス包み",
+    "お弁当のおかず"
+   ],
+   "description": "ひき肉を甘辛く炒り煮にしたそぼろです。炒り卵と青菜を添えれば彩りのよい三色丼がすぐに完成します。かぼちゃや大根のそぼろあんかけ、おにぎりの具にも使えます。",
+   "image_brief": "A small stand-up pouch with a window showing finely crumbled seasoned ground chicken, label reading 「鶏そぼろ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏 甘辛そぼろ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏 甘辛そぼろ 2袋組（80g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋組（80g×2）",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏 生姜そぼろ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 豚肉そぼろ 甘辛 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産鶏 塩そぼろ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 鶏そぼろ 徳用 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_meat_soboro_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_chicken_nuggets",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "チキンナゲット"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンナゲット",
+    "お弁当のおかず",
+    "朝ごはん",
+    "オードブル"
+   ],
+   "description": "鶏肉をやわらかく仕上げたチキンナゲットです。レンジやオーブントースターで温めるだけで、お弁当のおかずや朝ごはんの一品になります。ケチャップやマスタードを添えてオードブルにも。",
+   "image_brief": "A colorful freezer bag with a photo of golden chicken nuggets and ketchup, label reading 「チキンナゲット」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 チキンナゲット 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 チキンナゲット 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チーズ入りチキンナゲット 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産鶏 チキンナゲット 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ひとくちナゲット 6個×3袋",
+     "brand": "トップバリュ",
+     "size": "6個×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チキンナゲット スパイシー 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_chicken_nuggets_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_grilled_yakitori",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "焼き鳥"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "焼き鳥丼",
+    "焼き鳥の卵とじ",
+    "お弁当のおかず"
+   ],
+   "description": "香ばしく焼き上げた加熱済みの焼き鳥です。レンジやトースターで温めるだけで、夕食のもう一品やお父さんのおつまみになります。串から外してごはんにのせれば焼き鳥丼にもなります。",
+   "image_brief": "A clear plastic tray of grilled chicken skewers glazed with sauce lined up in a row, label reading 「焼き鳥」.",
+   "variants": [
+    {
+     "title": "トップバリュ 焼き鳥 もも たれ 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼き鳥 もも 塩 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼き鳥 ねぎま たれ 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼き鳥 皮 たれ 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼き鳥 盛り合わせ 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産鶏 炭火焼き鳥 もも 串なし たれ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 焼き鳥 つくね たれ 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_grilled_yakitori_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_smoked_chicken_leg",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "ローストチキン・スモークチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ローストチキン",
+    "オードブル",
+    "サラダ",
+    "サンドイッチ"
+   ],
+   "description": "骨付きの鶏もも肉をじっくり燻製・ローストした加熱済みのチキンです。オーブントースターで温めるだけで、食卓のメインやパーティーのオードブルになります。身をほぐしてサラダやサンドイッチに使うのもおすすめです。",
+   "image_brief": "A clear clamshell tray holding glossy bone-in smoked chicken drumsticks with paper frill, label reading 「スモークチキン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 骨付き スモークチキンレッグ 1本入",
+     "brand": "トップバリュ",
+     "size": "1本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 骨付き スモークチキンレッグ 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 骨付き ローストチキンレッグ 照り焼き 2本入",
+     "brand": "トップバリュ",
+     "size": "2本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産鶏 骨付きローストチキンレッグ ハーブ 2本入",
+     "brand": "トップバリュ セレクト",
+     "size": "2本入",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ スモークチキン むね スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス スモークチキンレッグ 徳用 5本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5本入",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_smoked_chicken_leg_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_grilled_chicken_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "サラダチキン・チキン加工品",
+    "グリルチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンステーキ",
+    "照り焼き丼",
+    "サラダ",
+    "サンドイッチ",
+    "お弁当のおかず"
+   ],
+   "description": "鶏もも肉を香ばしく焼き上げた加熱済みのグリルチキンです。レンジで温めるだけでチキンステーキとして一品になり、切ってごはんにのせれば照り焼き丼にもなります。サラダやサンドイッチ、お弁当にも使えます。",
+   "image_brief": "A vacuum-sealed tray showing one whole grilled chicken thigh with char marks, label reading 「グリルチキン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏 グリルチキン 照り焼き 1枚（約150g）",
+     "brand": "トップバリュ",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏 グリルチキン ハーブソルト 1枚（約150g）",
+     "brand": "トップバリュ",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏 グリルチキン 黒胡椒 1枚（約150g）",
+     "brand": "トップバリュ",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ グリルチキン 照り焼き 2枚入（300g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（300g）",
+     "price_tax_excluded": 598,
+     "origin": "タイ産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ グリルチキン 一口カット ガーリック 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "タイ産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス グリルチキン 徳用 4枚入（520g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4枚入（520g）",
+     "price_tax_excluded": 898,
+     "origin": "タイ産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_grilled_chicken_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_salami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "サラミ・ドライソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピザトースト",
+    "サラダ",
+    "パスタ",
+    "オードブル"
+   ],
+   "description": "スパイスを効かせて熟成させたサラミのスライスです。食パンにのせてピザトーストにしたり、サラダやパスタに加えたりするとうま味と香りがプラスされます。チーズと合わせてオードブルにもどうぞ。",
+   "image_brief": "A flat clear pack of round red salami slices with white fat specks overlapping neatly, label reading 「サラミ スライス」.",
+   "variants": [
+    {
+     "title": "トップバリュ サラミ スライス 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラミ スライス 2パック（45g×2）",
+     "brand": "トップバリュ",
+     "size": "2パック（45g×2）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ペッパーサラミ スライス 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト イタリア産 ミラノサラミ 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ ピザ用 ペパロニ スライス 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス サラミ スライス 徳用 120g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カルパス風 ミニサラミ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_salami_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_ham_katsu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "ハムカツ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハムカツ",
+    "ハムカツサンド",
+    "お弁当のおかず",
+    "カレー"
+   ],
+   "description": "ハムに衣をつけて冷凍した、懐かしい味わいのハムカツです。凍ったまま揚げるだけでサクッと仕上がり、ソースをかけて夕食のもう一品やお弁当のおかずに。キャベツと一緒にパンに挟めばハムカツサンドになります。",
+   "image_brief": "A freezer bag with a photo of golden breaded ham cutlets with shredded cabbage, label reading 「ハムカツ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 揚げるだけ ハムカツ 6枚入（300g）",
+     "brand": "トップバリュ",
+     "size": "6枚入（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ハムカツ 10枚入（450g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10枚入（450g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 厚切りハムカツ 4枚入（320g）",
+     "brand": "トップバリュ",
+     "size": "4枚入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チーズ入りハムカツ 6枚入（330g）",
+     "brand": "トップバリュ",
+     "size": "6枚入（330g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニハムカツ 12個入（216g）",
+     "brand": "トップバリュ",
+     "size": "12個入（216g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 レンジで温めるだけ ハムカツ 揚げ済み 5枚入（250g）",
+     "brand": "トップバリュ",
+     "size": "5枚入（250g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_ham_katsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_beef_shigureni",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉加工品",
+    "しぐれ煮・佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "おにぎり",
+    "混ぜご飯",
+    "肉豆腐",
+    "お弁当のおかず"
+   ],
+   "description": "牛肉を生姜と甘辛いたれで煮詰めたしぐれ煮です。温かいごはんにのせれば手軽な牛丼風に、混ぜご飯やおにぎりの具にもぴったりです。豆腐と煮合わせて肉豆腐にするのもおすすめです。",
+   "image_brief": "A small rectangular plastic tray of dark glossy simmered beef with ginger strips under clear film, label reading 「牛肉しぐれ煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛肉しぐれ煮 生姜入り 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛肉しぐれ煮 2パック（80g×2）",
+     "brand": "トップバリュ",
+     "size": "2パック（80g×2）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 しぐれ煮 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ 牛肉しぐれ煮 ごぼう入り 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛肉しぐれ煮 山椒風味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛肉しぐれ煮 徳用 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_beef_shigureni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_tebasaki_karaage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "手羽先・手羽中"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽先唐揚げ",
+    "甘酢あんかけ",
+    "お弁当のおかず",
+    "オードブル"
+   ],
+   "description": "甘辛いたれをからめた手羽先・手羽中の唐揚げを冷凍しました。レンジやオーブントースターで温めるだけで、夕食のおかずや家族の集まりのオードブルになります。冷めても美味しいのでお弁当にも便利です。",
+   "image_brief": "A stand-up freezer bag with a photo of glazed fried chicken wings sprinkled with sesame, label reading 「手羽先唐揚げ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 名古屋風 手羽先唐揚げ 甘辛味 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 名古屋風 手羽先唐揚げ 甘辛味 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 手羽中唐揚げ 塩胡椒味 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 手羽中唐揚げ ヤンニョム風 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産鶏 手羽先唐揚げ 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 手羽中唐揚げ 徳用 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_tebasaki_karaage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_stuffed_vegetables",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 おかず",
+    "肉詰め・はさみ焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピーマンの肉詰め",
+    "れんこんのはさみ焼き",
+    "なすのはさみ揚げ",
+    "お弁当のおかず"
+   ],
+   "description": "野菜に肉だねを詰めて成形し、冷凍しました。肉だねを詰める手間なく、フライパンで焼くだけでピーマンの肉詰めやれんこんのはさみ焼きが作れます。小さめサイズはお弁当のおかずにも便利です。",
+   "image_brief": "A freezer tray carton with a photo of halved green peppers stuffed with browned minced meat, label reading 「ピーマンの肉詰め」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ピーマンの肉詰め 6個入（300g）",
+     "brand": "トップバリュ",
+     "size": "6個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ピーマンの肉詰め ソース付 4個入（240g）",
+     "brand": "トップバリュ",
+     "size": "4個入（240g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 れんこんのはさみ焼き 8個入（240g）",
+     "brand": "トップバリュ",
+     "size": "8個入（240g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 なすのはさみ揚げ 6個入（270g）",
+     "brand": "トップバリュ",
+     "size": "6個入（270g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニピーマン肉詰め 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 しいたけの肉詰め 8個入（200g）",
+     "brand": "トップバリュ",
+     "size": "8個入（200g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_stuffed_vegetables_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_beef_yamatoni_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉じゃが",
+    "卵とじ",
+    "炊き込みご飯",
+    "おにぎり"
+   ],
+   "description": "牛肉を生姜醤油で甘辛く煮込んだ大和煮の缶詰です。玉ねぎと煮て卵でとじれば手軽な牛丼に、じゃがいもと煮れば時短の肉じゃがになります。常温で保存できるので買い置きにも便利です。",
+   "image_brief": "A short round metal can with a pull tab and a photo of simmered beef chunks on rice, label reading 「牛肉大和煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛肉大和煮 缶 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛肉大和煮 缶 3缶パック（70g×3）",
+     "brand": "トップバリュ",
+     "size": "3缶パック（70g×3）",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 大和煮 缶 70g",
+     "brand": "トップバリュ セレクト",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "トップバリュ 牛肉大和煮 缶 大 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛肉 すき焼き風 缶 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛肉味付 缶 60g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_beef_yamatoni_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_roast_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "焼豚・ローストビーフ",
+    "ローストポーク"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ローストポーク丼",
+    "サラダ",
+    "サンドイッチ",
+    "オードブル"
+   ],
+   "description": "豚肩ロースをしっとりとオーブンで焼き上げたローストポークです。薄切りをごはんにのせてローストポーク丼にしたり、サラダやサンドイッチに使ったりと手軽にアレンジできます。おもてなしのオードブルにもおすすめです。",
+   "image_brief": "A vacuum pack of pale pink roast pork slices arranged in a row with a sauce sachet, label reading 「ローストポーク」.",
+   "variants": [
+    {
+     "title": "トップバリュ ローストポーク スライス ソース付 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ローストポーク ブロック 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚肩ロース ローストポーク 120g",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ ハーブローストポーク スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ローストポーク 切り落とし 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ローストポーク スライス 130g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "130g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_roast_pork_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_smoked_duck",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "合鴨スモーク"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "鴨南蛮そば",
+    "オードブル",
+    "カルパッチョ"
+   ],
+   "description": "合鴨ロースを桜チップなどで燻製した、香り豊かなスモークです。スライスしてサラダやカルパッチョにのせるだけで食卓が華やかになります。温かいおそばにのせて鴨南蛮風にするのもおすすめです。",
+   "image_brief": "A flat clear pack of fanned dark-pink smoked duck breast slices with a fat rim, label reading 「合鴨スモーク」.",
+   "variants": [
+    {
+     "title": "トップバリュ 合鴨ロース スモーク スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 合鴨ロース スモーク ブロック 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 合鴨ロース 燻製 黒胡椒 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産合鴨ロース スモーク 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 合鴨ロース 蒸し焼き 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 合鴨ロース スモーク 2パック（70g×2）",
+     "brand": "トップバリュ",
+     "size": "2パック（70g×2）",
+     "price_tax_excluded": 698,
+     "origin": "タイ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_smoked_duck_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_pastrami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "パストラミ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サンドイッチ",
+    "サラダ",
+    "朝ごはん",
+    "オードブル"
+   ],
+   "description": "黒胡椒やスパイスをまぶして燻製したパストラミです。レタスやチーズと一緒にパンに挟めば、ボリュームのあるサンドイッチが簡単に作れます。サラダのトッピングや朝ごはんの一品にもどうぞ。",
+   "image_brief": "A clear rectangular pack of thin pastrami slices with a peppery crust edge, label reading 「パストラミ」.",
+   "variants": [
+    {
+     "title": "トップバリュ パストラミビーフ スライス 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パストラミポーク スライス 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パストラミチキン スライス 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト パストラミビーフ 粗挽き黒胡椒 50g",
+     "brand": "トップバリュ セレクト",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パストラミビーフ 2パック（50g×2）",
+     "brand": "トップバリュ",
+     "size": "2パック（50g×2）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス パストラミポーク 徳用 120g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_pastrami_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_seasoned_jingisukan",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "ジンギスカン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ジンギスカン",
+    "野菜炒め",
+    "焼きそば",
+    "焼肉丼"
+   ],
+   "description": "ラム肉やマトンを特製のたれに漬け込んだ味付けジンギスカンです。もやしやキャベツ、玉ねぎと一緒にフライパンやホットプレートで焼くだけで手軽に楽しめます。残ったたれで焼きそばを作るのもおすすめです。",
+   "image_brief": "A frozen flat pack of thin lamb slices in brown sauce with a sheep illustration, label reading 「味付けジンギスカン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 味付けジンギスカン ラム肩ロース 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ 味付けジンギスカン マトン 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ 味付けジンギスカン ラム 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ セレクト ニュージーランド産 ラムロース 味付けジンギスカン 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1080,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "トップバリュ 味付けジンギスカン 塩だれ ラム 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 味付けジンギスカン ラム切り落とし 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1480,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_seasoned_jingisukan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_seasoned_horumon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "ホルモン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホルモン焼き",
+    "もつ炒め",
+    "焼きうどん",
+    "焼きそば"
+   ],
+   "description": "下処理済みのホルモンを味噌や塩だれに漬け込みました。キャベツやにらと一緒に炒めるだけで、香ばしいホルモン焼きやもつ炒めが手軽に作れます。焼きうどんや焼きそばの具にもおすすめです。",
+   "image_brief": "A frozen flat bag showing curly offal pieces coated in red miso sauce, label reading 「味付けホルモン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 味付け 豚ホルモン 味噌だれ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 味付け 豚ホルモン 塩だれ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 味付け 牛ホルモン（小腸）醤油だれ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ 味付け 牛ホルモン ピリ辛味噌 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ 味付け 豚とんちゃん 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 味付けホルモン 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_seasoned_horumon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_retort_ground_meat_toppings",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "ごはん・麺の具"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タコライス",
+    "キーマカレー",
+    "ガパオライス",
+    "ジャージャー麺",
+    "レタス包み"
+   ],
+   "description": "味付けしたひき肉を使った、ごはんや麺にかけるだけの具です。温めてごはんにのせればタコライスやキーマカレー、ガパオライスがすぐに完成します。ゆでた麺にかければジャージャー麺にもなります。",
+   "image_brief": "A slim retort pouch box with a photo of seasoned minced meat on rice with lettuce and tomato, label reading 「タコライスの具」.",
+   "variants": [
+    {
+     "title": "トップバリュ タコライスの具 2袋入（120g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋入（120g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ タコライスの具 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キーマカレーの具 中辛 2袋入（130g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋入（130g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キーマカレーの具 甘口 2袋入（130g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋入（130g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガパオライスの具 2袋入（120g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋入（120g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ジャージャー麺の肉みそ 2袋入（110g×2）",
+     "brand": "トップバリュ",
+     "size": "2袋入（110g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_retort_ground_meat_toppings_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_processed_meat_frozen_seasoned_gyutan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 肉・肉加工品",
+    "味付け牛タン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛タン焼き",
+    "牛タン丼",
+    "焼肉"
+   ],
+   "description": "厚切りの牛タンに塩味の下味をつけて冷凍しました。解凍してフライパンやホットプレートで焼くだけで、歯ごたえのある牛タン焼きが楽しめます。ごはんにのせて牛タン丼にするのもおすすめです。",
+   "image_brief": "A black freezer tray of thick-cut seasoned beef tongue slices under clear film, label reading 「厚切り 味付け牛タン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 厚切り 味付け牛タン 塩味 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 厚切り 味付け牛タン 塩味 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 2380,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 味付け牛タン ねぎ塩 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 仙台風 味付け牛タン 塩麹熟成 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 味付け牛タン 切り落とし 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 牛タン 芯たん 厚切り 塩味 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_processed_meat_frozen_seasoned_gyutan_p.jpg"
+   ]
+  }
+ ]
+}

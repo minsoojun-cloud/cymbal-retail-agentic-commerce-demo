@@ -1,0 +1,4194 @@
+{
+ "category_key": "w_meat_marinated_processed",
+ "items": [
+  {
+   "base_id": "w_meat_marinated_processed_pork_bulgogi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆",
+    "ごま",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚プルコギ",
+    "プルコギ丼",
+    "サンチュ包み",
+    "キンパ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肩ロースの薄切りを、りんごと梨の甘みを効かせた韓国風プルコギだれに漬け込みました。玉ねぎやにんじん、ニラと一緒に炒めるだけで本格的な味わいに。ご飯がすすむ甘辛味で、お子さまにも人気です。",
+   "image_brief": "Thinly sliced pork shoulder glistening in a dark sweet soy marinade with sesame seeds in a black plastic tray under clear film, blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産豚肩ロース 豚プルコギ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚肩ロース 豚プルコギ 徳用 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚こま 豚プルコギ 350g",
+     "brand": "Cymbal ベーシック",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 豚プルコギ 野菜セット 2〜3人前（450g）",
+     "brand": "Cymbal セレクト",
+     "size": "2〜3人前（450g）",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 豚プルコギ ピリ辛コチュジャン 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 冷凍 豚プルコギ 小分け 150g×3袋",
+     "brand": "Cymbal",
+     "size": "150g×3袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_pork_bulgogi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_dakgalbi_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "タッカルビ",
+    "チーズタッカルビ",
+    "タッカルビ丼",
+    "締めのご飯"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏もも肉を一口大にカットし、コチュジャンベースの甘辛だれに漬け込んだタッカルビ用の味付け肉です。キャベツやさつまいもと一緒にホットプレートで焼けば、とろけるチーズを合わせたチーズタッカルビも手軽に楽しめます。",
+   "image_brief": "Bite-sized chicken thigh pieces coated in glossy red gochujang marinade in a shallow black tray sealed with clear film, blank label sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも タッカルビ用 味付け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも タッカルビ用 味付け 徳用 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも タッカルビ用 味付け 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト 九州産赤鶏 タッカルビ用 味付け 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal 国産若鶏 チーズタッカルビセット チーズ付 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_dakgalbi_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_yangnyeom_tebamoto",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "ごま",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヤンニョムチキン",
+    "おつまみ",
+    "パーティー料理",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏の手羽元に下味をつけ、甘辛いヤンニョムソースを別添えにしたセットです。片栗粉をまぶして揚げ焼きにし、ソースを絡めれば韓国屋台の味に。砕きピーナッツ入りでカリッとした食感もアクセントになります。",
+   "image_brief": "Raw marinated chicken drumsticks in a tray with a small sealed pouch of red yangnyeom sauce beside them, clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏手羽元 ヤンニョムチキン用 ソース付 8本入（約500g）",
+     "brand": "Cymbal",
+     "size": "8本入（約500g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏手羽中 ヤンニョムチキン用 ソース付 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏手羽元 ヤンニョムチキン用 ソース付 10本入（約600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "10本入（約600g）",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも ヤンニョムチキン用 ハニーガーリック 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 骨なしヤンニョムチキン用 激辛ソース付 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_yangnyeom_tebamoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_tandoori_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タンドリーチキン",
+    "カレーの具",
+    "ナンサンド",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏もも肉をヨーグルトとガラムマサラ、パプリカなど複数のスパイスに漬け込みました。フライパンやグリルで焼くだけで、香ばしく鮮やかなタンドリーチキンに。スパイシーながら辛さ控えめで食べやすい味付けです。",
+   "image_brief": "Orange-red spice and yogurt marinated chicken thigh pieces in a black tray under clear film, a sprig of cilantro beside, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも タンドリーチキン用 味付け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね タンドリーチキン用 味付け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも タンドリーチキン用 味付け 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 骨付きタンドリーチキン 辛口 4本入（約400g）",
+     "brand": "Cymbal セレクト",
+     "size": "4本入（約400g）",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏手羽元 タンドリー味 8本入（約500g）",
+     "brand": "Cymbal",
+     "size": "8本入（約500g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_tandoori_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chicken_miso_zuke",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏の味噌漬け焼き",
+    "お弁当",
+    "定食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏もも肉を、米麹たっぷりの甘口味噌にじっくり漬け込みました。味噌の旨みで身がしっとりやわらかくなり、焼くだけで香ばしい一品に。焦げやすいので弱火でじっくり焼くのがおすすめです。",
+   "image_brief": "Two chicken thigh fillets coated in light brown miso paste in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも 味噌漬け 2枚（約300g）",
+     "brand": "Cymbal",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 味噌漬け 2枚（約300g）",
+     "brand": "Cymbal",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 信州味噌仕込み 国産若鶏もも 味噌漬け 2枚（約300g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも 味噌漬け 切り身 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも ピリ辛味噌漬け 2枚（約300g）",
+     "brand": "Cymbal",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chicken_miso_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chicken_saikyo_zuke",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "西京焼き",
+    "おせち",
+    "お弁当",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "上品な甘さの白味噌に国産若鶏もも肉を漬け込んだ西京漬けです。京風の柔らかな甘みとほのかな酒粕の香りが特長。焼くだけで料亭のような一品になり、お弁当や年末年始のおもてなしにも重宝します。",
+   "image_brief": "Pale cream-colored white-miso marinated chicken fillets in a wooden-look tray wrapped in clear film, blank paper band label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも 西京漬け 2枚（約260g）",
+     "brand": "Cymbal",
+     "size": "2枚（約260g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 京風白味噌 国産銘柄鶏もも 西京漬け 2枚（約280g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（約280g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 西京漬け 切り身 4切（約240g）",
+     "brand": "Cymbal",
+     "size": "4切（約240g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 西京漬け ギフト用 6枚入",
+     "brand": "Cymbal セレクト",
+     "size": "6枚入",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chicken_saikyo_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_beef_harami_shiodare",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ねぎ塩ハラミ丼",
+    "バーベキュー",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかな牛ハラミを、ごま油とにんにく、黒こしょうを効かせた塩だれに漬けました。網焼きでもフライパンでもおいしく焼け、レモンを添えるとさっぱりと楽しめます。食べ盛りのご家族の焼肉にぴったりです。",
+   "image_brief": "Marinated beef skirt steak strips with white sesame and black pepper flecks in a black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "牛ハラミ 塩だれ漬け 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "牛ハラミ 塩だれ漬け 焼肉用 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1880,
+     "origin": "米国産"
+    },
+    {
+     "title": "牛ハラミ 塩だれ漬け 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛ハラミ 塩だれ漬け 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "牛ハラミ 味噌だれ漬け 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "牛ハラミ ねぎ塩だれ付き 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "米国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_beef_harami_shiodare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_beef_miso_zuke",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "牛肉の味噌漬け焼き",
+    "ご飯のお供",
+    "贈答",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛肩ロースを、もろみ味噌と本みりんを合わせた特製味噌床に漬け込みました。味噌の香ばしさと牛肉の旨みが一体になり、ご飯が止まらないおいしさ。贈り物にも喜ばれる伝統的な味わいです。",
+   "image_brief": "Slices of beef shoulder coated in dark miso marinade arranged in a black tray with clear film, simple blank paper wrap label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛肩ロース 味噌漬け 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛もも 味噌漬け 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "黒毛和牛 味噌漬け 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1980,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "黒毛和牛 味噌漬け ギフト箱入 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 5800,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "牛肩ロース 味噌漬け 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_beef_miso_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_tontoro_shiodare",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚トロ焼き",
+    "焼肉",
+    "ねぎ塩豚トロ丼",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "コリコリとした食感が人気の豚トロを、レモン果汁入りのねぎ塩だれに漬け込みました。焼くと脂がほどよく落ちてジューシーに。ビールのお供やご飯のおかずにぴったりで、焼くだけで手軽に一品が完成します。",
+   "image_brief": "Pinkish marbled pork jowl slices with chopped green onion and sesame in a clear salty marinade, black tray, clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "豚トロ ねぎ塩だれ漬け 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "豚トロ ねぎ塩だれ漬け 徳用 450g",
+     "brand": "",
+     "size": "450g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "豚トロ ねぎ塩だれ漬け 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "豚トロ 柚子こしょう塩だれ漬け 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "豚トロ 焼肉のたれ漬け 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_tontoro_shiodare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_mutton_jingisukan",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "ジンギスカン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ジンギスカン",
+    "ジンギスカン鍋",
+    "焼きうどん",
+    "野菜炒め"
+   ],
+   "tax_rate": 8,
+   "description": "旨みの強いマトン肩ロースを、生姜とりんご入りの醤油だれにじっくり漬けた北海道風ジンギスカンです。もやしや玉ねぎ、かぼちゃと一緒に焼けば、野菜にもたれの旨みがしみて格別。締めのうどんもおすすめです。",
+   "image_brief": "Dark red sliced mutton in a dark soy and apple marinade inside a round plastic tub with a clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "味付けマトンジンギスカン 肩ロース 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "味付けマトンジンギスカン 肩ロース 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1780,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "味付けマトンジンギスカン ロール 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "味付けマトンジンギスカン 塩味 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "冷凍 味付けマトンジンギスカン 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_mutton_jingisukan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_lamb_roll_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "ラム肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ラムしゃぶ",
+    "ジンギスカン",
+    "ラム肉炒め",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "ラム肩ロースを丸めて凍らせ、薄くスライスしたラムロールです。くせが少なくやわらかい肉質で、しゃぶしゃぶにすると脂がほどよく落ちてさっぱり。ジンギスカンや炒め物にも使いやすい使い勝手の良い冷凍品です。",
+   "image_brief": "Frozen curled thin rolls of lamb shoulder neatly lined up in a white tray wrapped with clear film, frost visible, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ラム肩ロース ロール しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ラム肩ロース ロール しゃぶしゃぶ用 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1680,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ラムもも 薄切り しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ラムロース 薄切り しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "国産ラム 肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_lamb_roll_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_lamb_leg_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "ラム肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ラムのロースト",
+    "ラムステーキ",
+    "クリスマス料理",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "ニュージーランド産の骨なしラムもも肉ブロックです。ハーブとにんにくをすり込んでオーブンで焼けば、華やかなローストラムに。脂が少なく赤身の旨みが濃いので、ステーキや煮込みにも向いています。",
+   "image_brief": "A netted boneless lamb leg roast with deep red meat in a black tray under clear film, rosemary sprig beside, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ラムもも 骨なしブロック ロースト用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1680,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ラムもも 骨なしブロック ロースト用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 3180,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ラム肩 ブロック 煮込み用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ラムラック フレンチカット 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 2980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ラムもも ステーキ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_lamb_leg_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_jerk_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "ジャークチキン",
+    "バーベキュー",
+    "ライスプレート",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "オールスパイスやタイム、唐辛子をブレンドしたカリブ風ジャークソースに若鶏もも肉を漬け込みました。焼くとスパイスの香りが立ち、ピリッとした辛さがクセになります。アウトドアのグリル料理やワンプレートにどうぞ。",
+   "image_brief": "Dark brown spice-rubbed chicken thighs in a black tray sealed with clear film, a halved lime next to it, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも ジャークチキン用 味付け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏手羽元 ジャークチキン用 味付け 8本入（約500g）",
+     "brand": "Cymbal",
+     "size": "8本入（約500g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも ジャークチキン用 味付け 600g",
+     "brand": "Cymbal ベーシック",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 骨付きもも ジャークチキン用 2本入（約600g）",
+     "brand": "Cymbal セレクト",
+     "size": "2本入（約600g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_jerk_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_herb_garlic_chicken_breast",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンソテー",
+    "サラダ",
+    "パスタの具",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏むね肉を、バジルやオレガノ、にんにく、オリーブオイルでマリネしました。下味がしっかり入っているので、焼くだけでしっとりジューシーなハーブチキンに。高たんぱくなおかずを手軽に作りたい方におすすめです。",
+   "image_brief": "Chicken breast fillets coated in green herbs and olive oil in a clear vacuum pack with a blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏むね バジル&ガーリック 2枚（約400g）",
+     "brand": "Cymbal",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね レモンペッパー 2枚（約400g）",
+     "brand": "Cymbal",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね スパイシーケイジャン 2枚（約400g）",
+     "brand": "Cymbal",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏むね ハーブマリネ 徳用 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏むね ローズマリー&岩塩 2枚（約400g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね バジル&ガーリック 小分け 100g×4袋",
+     "brand": "Cymbal",
+     "size": "100g×4袋",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_herb_garlic_chicken_breast_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_bbq_spareribs",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "BBQスペアリブ",
+    "オーブン料理",
+    "パーティー料理",
+    "バーベキュー"
+   ],
+   "tax_rate": 8,
+   "description": "豚スペアリブをりんごとはちみつ入りのバーベキューソースに漬け込みました。オーブンでじっくり焼けば、骨離れのよいやわらかな仕上がりに。照りのある見た目でパーティーやホームパーティーのメインにぴったりです。",
+   "image_brief": "Glossy sauce-coated pork spare ribs in a black tray sealed with clear film, deep mahogany color, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "豚スペアリブ BBQソース漬け 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "豚スペアリブ BBQソース漬け 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 880,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "豚スペアリブ はちみつ醤油漬け 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "豚スペアリブ BBQソース漬け 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1580,
+     "origin": "米国産"
+    },
+    {
+     "title": "豚スペアリブ マーマレード漬け 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_bbq_spareribs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_garlic_soy_chicken_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンステーキ",
+    "ガーリックライス",
+    "お弁当",
+    "丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏もも肉を一枚まるごと、にんにく醤油だれに漬け込んだチキンステーキ用です。皮目からじっくり焼けば、パリッとした皮とジューシーな身の食感が楽しめます。ガツンと香るにんにくでご飯がすすみます。",
+   "image_brief": "Two whole chicken thigh fillets in dark garlic soy marinade with garlic slices, black tray, clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも チキンステーキ用 ガーリック醤油 2枚（約500g）",
+     "brand": "Cymbal",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも チキンステーキ用 ガーリック醤油 1枚（約250g）",
+     "brand": "Cymbal",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも チキンステーキ用 黒こしょう塩 2枚（約500g）",
+     "brand": "Cymbal",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産地鶏 チキンステーキ用 ガーリック醤油 1枚（約250g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 880,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも チキンステーキ用 ガーリック醤油 3枚（約750g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3枚（約750g）",
+     "price_tax_excluded": 898,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_garlic_soy_chicken_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_samgyeopsal_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サムギョプサル",
+    "焼肉",
+    "サンチュ包み",
+    "ホットプレート"
+   ],
+   "tax_rate": 8,
+   "description": "豚バラ肉を厚めにスライスし、ごま油と塩こしょうで軽く下味をつけたサムギョプサル用です。ホットプレートでカリッと焼き、サンチュやキムチと一緒に包んで召し上がれ。サムジャン付きのセットもご用意しました。",
+   "image_brief": "Thick slices of pork belly lightly brushed with sesame oil in a long black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "豚バラ 厚切り サムギョプサル用 下味付き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "豚バラ 厚切り サムギョプサル用 下味付き 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "豚バラ サムギョプサル用 サムジャン付 2〜3人前（450g）",
+     "brand": "",
+     "size": "2〜3人前（450g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "豚バラ 厚切り サムギョプサル用 ハーブ塩 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "豚バラ 厚切り サムギョプサル用 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1680,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_samgyeopsal_pork_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chinjao_beef_kit",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "青椒肉絲",
+    "中華炒め",
+    "丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "細切りにした牛もも肉にオイスターソースベースの下味をつけ、片栗粉をまぶした青椒肉絲用です。ピーマンとたけのこと一緒に炒めるだけで、肉がやわらかく本格中華の味に仕上がります。忙しい日の夕食に便利です。",
+   "image_brief": "Thin julienned beef strips in a brown oyster sauce marinade in a black tray with clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛もも 細切り 青椒肉絲用 味付け 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal 国産牛もも 細切り 青椒肉絲用 味付け 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 豚もも 細切り 青椒肉絲用 味付け 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 牛もも 細切り 青椒肉絲用 味付け たけのこ入り 2〜3人前（350g）",
+     "brand": "Cymbal",
+     "size": "2〜3人前（350g）",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal ベーシック 牛こま 細切り 中華炒め用 味付け 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "米国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chinjao_beef_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chicken_shio_lemon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "塩レモンチキン",
+    "唐揚げ",
+    "サラダ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏もも肉を瀬戸内産レモン果汁と天日塩で漬け込みました。レモンの爽やかな酸味が鶏の脂をさっぱりとまとめ、焼いても揚げてもおいしく仕上がります。暑い日にも食べやすい軽やかな味わいです。",
+   "image_brief": "Chicken thigh pieces with thin lemon slices on top in a white tray sealed with clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏もも 塩レモン漬け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 塩レモン漬け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏手羽中 塩レモン漬け 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏もも 瀬戸内レモン塩漬け 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏もも 塩レモン漬け 徳用 600g",
+     "brand": "Cymbal ベーシック",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chicken_shio_lemon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_seseri_shio",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "せせり焼き",
+    "おつまみ",
+    "焼き鳥",
+    "丼"
+   ],
+   "tax_rate": 8,
+   "description": "鶏一羽からわずかしか取れない首肉「せせり」に、粗挽き黒こしょうと塩で下味をつけました。弾力のある食感とあふれる肉汁が魅力。フライパンでさっと焼くだけで、焼き鳥屋さんのような味わいが楽しめます。",
+   "image_brief": "Small pieces of chicken neck meat seasoned with coarse black pepper in a small black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産若鶏 せせり 塩こしょう味 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産若鶏 せせり 塩こしょう味 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "国産若鶏 せせり ゆず塩味 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産若鶏 せせり 柚子こしょう味 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 地鶏 せせり 塩味 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_seseri_shio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_pork_kasuzuke",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "粕漬け焼き",
+    "和定食",
+    "お弁当",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚ロースを、地酒の酒粕と白味噌を合わせた粕床に漬け込みました。酒粕の豊かな香りが肉の旨みを引き立て、焼くとふっくらやわらか。冬の食卓にうれしい、ほんのり甘い大人の味わいです。",
+   "image_brief": "Two pork loin chops covered in creamy white sake-lees paste in a tray with clear film, blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産豚ロース 粕漬け 2枚（200g）",
+     "brand": "Cymbal",
+     "size": "2枚（200g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 地酒酒粕仕込み 国産豚ロース 粕漬け 2枚（240g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（240g）",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚肩ロース 粕漬け 2枚（200g）",
+     "brand": "Cymbal",
+     "size": "2枚（200g）",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄豚 粕漬け 化粧箱入 4枚（480g）",
+     "brand": "Cymbal セレクト",
+     "size": "4枚（480g）",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_pork_kasuzuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_hoikoro_pork_kit",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "回鍋肉",
+    "中華炒め",
+    "丼",
+    "野菜炒め"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚バラ薄切りに甜麺醤と豆板醤ベースの合わせだれを添えた回鍋肉用セットです。キャベツとピーマンを用意して炒めるだけで、甘辛くコクのある本格回鍋肉に。たれは別添えなので味の濃さも調整できます。",
+   "image_brief": "Thin pork belly slices in a tray with a small brown sauce pouch on top, clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産豚バラ 回鍋肉用 たれ付 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚バラ 回鍋肉用 たれ付 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚バラ 回鍋肉用 たれ付 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal 国産豚肩ロース 麻辣回鍋肉用 たれ付 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_hoikoro_pork_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_menchi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "メンチカツ（生）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉",
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "メンチカツ",
+    "メンチカツサンド",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "牛豚合いびき肉と玉ねぎをたっぷり使い、パン粉をつけた状態でお届けする揚げるだけの生メンチカツです。揚げたてはサクッとした衣から肉汁があふれ出します。ソースやからしを添えて、ご家庭で揚げたての味を。",
+   "image_brief": "Four breaded raw minced-meat cutlets with golden-white panko coating in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 揚げるだけ 生メンチカツ 4個入（320g）",
+     "brand": "Cymbal",
+     "size": "4個入（320g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げるだけ 生メンチカツ 2個入（160g）",
+     "brand": "Cymbal",
+     "size": "2個入（160g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛入り 揚げるだけ 生メンチカツ 3個入（270g）",
+     "brand": "Cymbal セレクト",
+     "size": "3個入（270g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げるだけ 生チーズメンチカツ 4個入（320g）",
+     "brand": "Cymbal",
+     "size": "4個入（320g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 揚げるだけ 生メンチカツ 10個入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入（600g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_menchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_chicken_katsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "チキンカツ（生）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンカツ",
+    "チキンカツサンド",
+    "チキン南蛮",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏むね肉を食べやすい厚さに開き、下味をつけてパン粉衣をまとわせました。揚げるだけで、やわらかくジューシーなチキンカツが完成。タルタルソースを合わせてチキン南蛮風にするのもおすすめです。",
+   "image_brief": "Two flat breaded raw chicken cutlets with pale panko coating in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏むね 揚げるだけ チキンカツ 2枚入（240g）",
+     "brand": "Cymbal",
+     "size": "2枚入（240g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏もも 揚げるだけ チキンカツ 2枚入（260g）",
+     "brand": "Cymbal",
+     "size": "2枚入（260g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏ささみ 揚げるだけ ささみカツ 梅しそ 4本入（200g）",
+     "brand": "Cymbal",
+     "size": "4本入（200g）",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏ささみ 揚げるだけ ささみカツ チーズ入り 4本入（200g）",
+     "brand": "Cymbal",
+     "size": "4本入（200g）",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 若鶏むね 揚げるだけ チキンカツ 徳用 5枚入（550g）",
+     "brand": "Cymbal ベーシック",
+     "size": "5枚入（550g）",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_chicken_katsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_tsukune_dane_nankotsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "つくね（生）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "つくね焼き",
+    "鍋",
+    "つくね串",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏ひき肉に刻んだ鶏軟骨と長ねぎ、生姜を練り込んだ成形前の生つくねだねです。スプーンで丸めて鍋に落としたり、平たく焼いて照り焼きにしたり自由自在。コリコリとした軟骨の食感がアクセントです。",
+   "image_brief": "Raw minced chicken meat mixture with visible green onion bits in a squeezable clear tube-shaped pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産鶏 軟骨入り つくねだね 生 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産鶏 大葉入り つくねだね 生 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産鶏 れんこん入り つくねだね 生 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産地鶏 つくねだね 生 生姜たっぷり 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産鶏 軟骨入り つくねだね 生 徳用 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_tsukune_dane_nankotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_tofu_hamburg",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "ハンバーグ種"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "大豆",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豆腐ハンバーグ",
+    "和風おろしハンバーグ",
+    "お弁当",
+    "煮込みハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏ひき肉と国産大豆の木綿豆腐を合わせ、ひじきと人参を加えた生の豆腐ハンバーグです。ふんわりやわらかく、あっさりとした味わいでお子さまから年配の方まで食べやすい一品。大根おろしとぽん酢がよく合います。",
+   "image_brief": "Four raw round tofu and chicken patties dotted with black hijiki and orange carrot bits in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産鶏と豆腐の 生ハンバーグ ひじき入り 4個入（320g）",
+     "brand": "Cymbal",
+     "size": "4個入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産鶏と豆腐の 生ハンバーグ 枝豆入り 4個入（320g）",
+     "brand": "Cymbal",
+     "size": "4個入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産鶏と豆腐の 生ハンバーグ 8個入（640g）",
+     "brand": "Cymbal",
+     "size": "8個入（640g）",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏と国産大豆豆腐の 生ハンバーグ 大葉入り 3個入（270g）",
+     "brand": "Cymbal セレクト",
+     "size": "3個入（270g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_tofu_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_cheese_in_hamburg",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "ハンバーグ種"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉",
+    "乳",
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズインハンバーグ",
+    "ハンバーグ定食",
+    "ロコモコ",
+    "煮込みハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "粗挽きの牛豚合いびき肉で、とろけるナチュラルチーズを包み込んだ生ハンバーグです。焼き上げて割ると中からチーズがとろり。デミグラスソースやトマトソースで煮込んでもおいしく、子どもが喜ぶごちそうメニューです。",
+   "image_brief": "Two thick raw hamburger patties with a hint of cheese visible on the side, in a black tray with clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼くだけ チーズイン 生ハンバーグ 2個入（300g）",
+     "brand": "Cymbal",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ チーズイン 生ハンバーグ 4個入（600g）",
+     "brand": "Cymbal",
+     "size": "4個入（600g）",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛入り チーズイン 生ハンバーグ 2個入（320g）",
+     "brand": "Cymbal セレクト",
+     "size": "2個入（320g）",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ 4種チーズイン 生ハンバーグ 2個入（300g）",
+     "brand": "Cymbal",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 チーズイン 生ハンバーグ 6個入（720g）",
+     "brand": "Cymbal ベーシック",
+     "size": "6個入（720g）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_cheese_in_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_roll_cabbage",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "ロールキャベツ（生）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ロールキャベツ",
+    "ポトフ",
+    "トマト煮込み",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく下茹でしたキャベツで、豚と鶏の合いびき肉だねを包んだ生のロールキャベツです。コンソメスープやトマトソースで煮込むだけで、ほっとする家庭の味が完成。寒い季節の煮込み料理にぴったりです。",
+   "image_brief": "Four raw cabbage rolls wrapped in pale green cabbage leaves in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 煮込むだけ 生ロールキャベツ 4個入（400g）",
+     "brand": "Cymbal",
+     "size": "4個入（400g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮込むだけ 生ロールキャベツ 8個入（800g）",
+     "brand": "Cymbal",
+     "size": "8個入（800g）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮込むだけ 生ロールキャベツ ミニ 8個入（320g）",
+     "brand": "Cymbal",
+     "size": "8個入（320g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 煮込むだけ 生ロールキャベツ チーズ入り 4個入（440g）",
+     "brand": "Cymbal セレクト",
+     "size": "4個入（440g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_roll_cabbage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_raw_nikudango_nabe",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉・ハンバーグ",
+    "肉だんご（生）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "肉だんご鍋",
+    "春雨スープ",
+    "甘酢肉だんご",
+    "中華スープ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚ひき肉に白菜と生姜を練り込んで一口大に丸めた生の肉だんごです。鍋やスープに入れると、旨みがスープに溶け出してふっくらやわらかに。寄せ鍋や中華風スープなど、冬の鍋料理に欠かせない一品です。",
+   "image_brief": "Raw pinkish round pork meatballs neatly packed in rows in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産豚 鍋用 生肉だんご 15個入（300g）",
+     "brand": "Cymbal",
+     "size": "15個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚 鍋用 生肉だんご 生姜たっぷり 15個入（300g）",
+     "brand": "Cymbal",
+     "size": "15個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚 鍋用 生肉だんご 徳用 30個入（600g）",
+     "brand": "Cymbal",
+     "size": "30個入（600g）",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産豚と鶏の 鍋用 生肉だんご 柚子風味 15個入（300g）",
+     "brand": "Cymbal",
+     "size": "15個入（300g）",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 黒豚 鍋用 生肉だんご 12個入（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "12個入（300g）",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_raw_nikudango_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_boneless_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ハムステーキ",
+    "オードブル",
+    "サンドイッチ",
+    "お歳暮"
+   ],
+   "tax_rate": 8,
+   "description": "豚もも肉を一本まるごと塩漬けし、桜チップでじっくり燻したボンレスハムです。しっとりとした赤身とやさしい燻香が特長で、厚切りでも薄切りでもおいしく楽しめます。年末年始のごちそうや贈り物にも最適です。",
+   "image_brief": "A cylindrical boneless ham tied with white string, wrapped in clear casing, on a white background with a blank paper tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ボンレスハム ブロック 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ボンレスハム スライス 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 桜チップ燻製 ボンレスハム 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 ボンレスハム ギフト箱入 800g",
+     "brand": "Cymbal セレクト",
+     "size": "800g",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ボンレスハム 切り落とし 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_boneless_ham_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_bone_in_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "骨付きハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマスディナー",
+    "オードブル",
+    "パーティー料理",
+    "お歳暮"
+   ],
+   "tax_rate": 8,
+   "description": "豚もも肉を骨付きのまま塩漬けし、低温で燻製してからボイルした骨付きハムです。テーブルで切り分けるだけで華やかな主役に。クリスマスや年末のホームパーティー、贈り物に喜ばれる季節限定品です。",
+   "image_brief": "A whole bone-in smoked ham with a glossy golden surface and white bone end, wrapped in clear film with a blank red ribbon tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 骨付きハム クリスマス用 約1.2kg",
+     "brand": "Cymbal セレクト",
+     "size": "約1.2kg",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 骨付きハム ギフト箱入 約2kg",
+     "brand": "Cymbal セレクト",
+     "size": "約2kg",
+     "price_tax_excluded": 9800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 骨付きハム ハーフサイズ 約600g",
+     "brand": "Cymbal",
+     "size": "約600g",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 骨付きハム スライス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハニーグレーズ 骨付きハム 約1kg",
+     "brand": "Cymbal セレクト",
+     "size": "約1kg",
+     "price_tax_excluded": 4480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_bone_in_ham_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_momo_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハムエッグ",
+    "冷やし中華",
+    "サンドイッチ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "脂肪分が少なくさっぱりとした豚もも肉を使ったももハムです。赤身のしっとりした食感と、ほどよい塩味が特長。サラダや冷やし中華、サンドイッチの具材としてたっぷり使えるのがうれしい定番スライスハムです。",
+   "image_brief": "Neatly fanned slices of pale pink lean ham in a flat clear plastic pack with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ももハム スライス 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ももハム スライス 3連 35g×3パック",
+     "brand": "Cymbal",
+     "size": "35g×3パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ももハム スライス 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 無塩せき ももハム 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機豚使用 ももハム スライス 50g",
+     "brand": "Cymbal オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_momo_ham_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_honey_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サンドイッチ",
+    "ハムトースト",
+    "オードブル",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "はちみつを加えた漬け込み液で仕上げた、ほんのり甘いハニーハムです。やさしい甘みと燻製の香りが調和し、そのままでも、パンやチーズと合わせてもおいしくいただけます。朝食やお子さまのお弁当にもぴったりです。",
+   "image_brief": "Thin round slices of honey-glazed ham with a light golden edge in a resealable clear pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハニーハム スライス 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーハム スライス 大容量 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 ハニーロースハム スライス 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーハム 厚切り 2枚入（120g）",
+     "brand": "Cymbal",
+     "size": "2枚入（120g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_honey_ham_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_jamon_serrano",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "生ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "生ハムサラダ",
+    "生ハムメロン",
+    "ピンチョス",
+    "ワインのおつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "スペインの乾燥した気候のもとで12か月以上熟成させたハモン・セラーノです。深いルビー色と熟成による凝縮した旨みが特長。常温に少し置いてから食べると脂の香りが引き立ちます。ワインのお供やパーティーにどうぞ。",
+   "image_brief": "Thin translucent slices of deep red cured ham arranged on interleaved film in a flat clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハモン・セラーノ 12か月熟成 スライス 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "ハモン・セラーノ 12か月熟成 スライス 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 880,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "ハモン・セラーノ 18か月熟成 スライス 60g",
+     "brand": "",
+     "size": "60g",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "ハモン・イベリコ スライス 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 1280,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "ハモン・セラーノ ブロック 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1980,
+     "origin": "スペイン産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_jamon_serrano_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_prosciutto_coppa",
+   "category_path": [
+    "お肉・お肉加工品",
+    "シャルキュトリ",
+    "生ハム・コッパ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "前菜盛り合わせ",
+    "パニーニ",
+    "ピザ",
+    "ワインのおつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "イタリアの伝統製法で作られたプロシュートとコッパです。プロシュートは塩味がやさしく甘い脂が魅力、コッパは豚肩ロースをスパイスで熟成させた力強い風味。チーズやオリーブと合わせて前菜盛り合わせにどうぞ。",
+   "image_brief": "Folded slices of rosy cured Italian ham and marbled coppa on parchment in a clear flat pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トラットリア・ベルナ プロシュート スライス 60g",
+     "brand": "トラットリア・ベルナ",
+     "size": "60g",
+     "price_tax_excluded": 698,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ コッパ スライス 50g",
+     "brand": "トラットリア・ベルナ",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ プロシュート&コッパ 盛り合わせ 100g",
+     "brand": "トラットリア・ベルナ",
+     "size": "100g",
+     "price_tax_excluded": 1180,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ スペック（燻製生ハム）スライス 60g",
+     "brand": "トラットリア・ベルナ",
+     "size": "60g",
+     "price_tax_excluded": 698,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ シャルキュトリー 4種盛り合わせ 120g",
+     "brand": "トラットリア・ベルナ",
+     "size": "120g",
+     "price_tax_excluded": 1480,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_prosciutto_coppa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_domestic_namahamu_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "生ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "生ハムの薄切り",
+    "カルパッチョ",
+    "おせちの彩り",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚もも肉を塩だけでじっくり熟成させた生ハムのブロックです。食べる直前に薄く切ることで、香りと口どけのよさが際立ちます。おもてなしや年末年始の食卓、ワイン好きの方への贈り物にもおすすめです。",
+   "image_brief": "A compact block of deep red cured ham with a white fat edge vacuum-sealed in clear film on a wooden board, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 国産豚 熟成生ハム ブロック 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 熟成生ハム ブロック 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 3680,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 熟成生ハム スライス 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産豚 熟成生ハム ブロック 化粧箱入 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 5800,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_domestic_namahamu_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_bacon_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ベーコン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ポトフ",
+    "カルボナーラ",
+    "ベーコンステーキ",
+    "ジャーマンポテト"
+   ],
+   "tax_rate": 8,
+   "description": "豚ばら肉を塩漬けし、りんごの木のチップでじっくり燻製したベーコンのブロックです。厚切りにして焼けば香ばしいベーコンステーキに、角切りにすればポトフやパスタの旨み出しに。ボリュームのある食べ応えが魅力です。",
+   "image_brief": "A rectangular slab of smoked bacon with layered fat and brown smoked rind, vacuum-packed in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーコン ブロック 徳用 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 りんごチップ燻製 ベーコンブロック 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ショルダーベーコン ブロック 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機豚使用 無塩せき ベーコンブロック 150g",
+     "brand": "Cymbal オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ベーコン 切り落とし 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_bacon_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_thick_bacon_slice",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ベーコン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ベーコンエッグ",
+    "BLTサンド",
+    "朝食プレート",
+    "アスパラベーコン"
+   ],
+   "tax_rate": 8,
+   "description": "食べ応えのある厚さ5mmにスライスした厚切りベーコンです。焼くと脂がじゅわっと溶け出し、カリッと香ばしい仕上がりに。朝食のベーコンエッグやボリュームたっぷりのサンドイッチにおすすめです。",
+   "image_brief": "Thick strips of smoked bacon arranged in an overlapping row in a vacuum-sealed clear pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 厚切りベーコン スライス 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 厚切りベーコン スライス 大容量 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 厚切りベーコン 粗挽き黒こしょう 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 厚切りショルダーベーコン 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 厚切りベーコン メープル燻製 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_thick_bacon_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_weisswurst",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ボイルソーセージ",
+    "ポトフ",
+    "ホットドッグ",
+    "ビールのお供"
+   ],
+   "tax_rate": 8,
+   "description": "パセリとレモンピールを練り込んだ、ドイツ・バイエルン地方伝統の白いソーセージです。燻製をかけないため、やさしくまろやかな味わい。湯せんで温めて、甘口マスタードと一緒に召し上がるのがおすすめです。",
+   "image_brief": "Pale white sausages flecked with green parsley in a clear vacuum pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ゾンネブルク ヴァイスヴルスト 白ソーセージ 4本入（200g）",
+     "brand": "ゾンネブルク",
+     "size": "4本入（200g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゾンネブルク ヴァイスヴルスト 白ソーセージ 甘口マスタード付 4本入",
+     "brand": "ゾンネブルク",
+     "size": "4本入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゾンネブルク ヴァイスヴルスト 白ソーセージ 大容量 10本入（500g）",
+     "brand": "ゾンネブルク",
+     "size": "10本入（500g）",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゾンネブルク チューリンガー 焼きソーセージ 4本入（240g）",
+     "brand": "ゾンネブルク",
+     "size": "4本入（240g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_weisswurst_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_herb_wiener",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホットドッグ",
+    "朝食プレート",
+    "ポトフ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "粗挽きの豚肉にバジルやパセリ、レモンなどのハーブを練り込んだ羊腸ウインナーです。パキッとした食感のあとにハーブが爽やかに香り、脂っぽさを感じにくい後味。ビールやワインのお供にもぴったりです。",
+   "image_brief": "Slim natural-casing sausages speckled with green herbs in a clear resealable bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハーブウインナー バジル 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーブウインナー レモン&パセリ 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーブウインナー 2袋組 110g×2",
+     "brand": "Cymbal",
+     "size": "110g×2",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 ハーブウインナー ローズマリー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ガーリックウインナー 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_herb_wiener_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_cheese_wiener",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "ホットドッグ",
+    "ピザトースト",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "あらびきの豚肉に角切りチーズを混ぜ込んだチーズ入りウインナーです。焼くとチーズがとろりと溶け出し、肉の旨みとミルクのコクが広がります。お子さまのお弁当や朝ごはんのおかずとして人気の一品です。",
+   "image_brief": "Plump sausages with small visible white cheese cubes inside, packed in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズ入りウインナー 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズ入りウインナー 2袋組 120g×2",
+     "brand": "Cymbal",
+     "size": "120g×2",
+     "price_tax_excluded": 558,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズ入りウインナー ブラックペッパー 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ゴーダチーズ入り 粗挽きウインナー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チェダーチーズ入り フランク 3本入（180g）",
+     "brand": "Cymbal",
+     "size": "3本入（180g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_cheese_wiener_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_skinless_wiener",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "タコさんウインナー",
+    "ナポリタン",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "皮なしでやわらかく、小さなお子さまにも食べやすいウインナーです。たこ型にカットしてお弁当に入れたり、ナポリタンやスープの具にしたり、毎日使いやすい定番品。まとめ買いにうれしい大容量タイプもあります。",
+   "image_brief": "Short skinless pink sausages lined up in a clear plastic bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 皮なしウインナー 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 皮なしウインナー 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 皮なしミニウインナー お弁当用 90g×2",
+     "brand": "Cymbal",
+     "size": "90g×2",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 皮なしウインナー 減塩 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 無塩せき 皮なしウインナー 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_skinless_wiener_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_bologna_sausage",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ボロニアステーキ",
+    "サンドイッチ",
+    "サラダ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "きめ細かくなめらかな食感の太いボロニアソーセージです。輪切りにして焼けばハムとはまた違う弾力とジューシーさ。スライスしてサンドイッチやサラダに入れても。昔ながらの懐かしい味わいを楽しめます。",
+   "image_brief": "A thick cylindrical bologna sausage in red casing with a few round slices cut in front, wrapped in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ボロニアソーセージ ブロック 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ボロニアソーセージ スライス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ボロニアソーセージ 厚切り 4枚入（200g）",
+     "brand": "Cymbal",
+     "size": "4枚入（200g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ボロニアソーセージ ピスタチオ入り 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_bologna_sausage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_liver_pate",
+   "category_path": [
+    "お肉・お肉加工品",
+    "シャルキュトリ",
+    "パテ・テリーヌ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "バゲット",
+    "オードブル",
+    "クラッカー",
+    "ワインのおつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉と鶏レバーを香味野菜やブランデーと合わせて焼き上げた、田舎風のパテ・ド・カンパーニュとなめらかなレバーペーストです。バゲットにのせればビストロのような前菜に。クリスマスや年末のおもてなしにも重宝します。",
+   "image_brief": "A rectangular slice of country-style terrine and a small round tub of smooth liver pâté on a wooden board, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ビストロ・ルソー パテ・ド・カンパーニュ 120g",
+     "brand": "ビストロ・ルソー",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ビストロ・ルソー 鶏レバーペースト 90g",
+     "brand": "ビストロ・ルソー",
+     "size": "90g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ビストロ・ルソー 豚肉のリエット 90g",
+     "brand": "ビストロ・ルソー",
+     "size": "90g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ビストロ・ルソー 鴨のテリーヌ 100g",
+     "brand": "ビストロ・ルソー",
+     "size": "100g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ビストロ・ルソー パテ・ド・カンパーニュ ブロック 300g",
+     "brand": "ビストロ・ルソー",
+     "size": "300g",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_liver_pate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_karupasu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・ソーセージ",
+    "サラミ・ドライソーセージ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "豚肉",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "アウトドア",
+    "ビールのお供"
+   ],
+   "tax_rate": 8,
+   "description": "細長いスティック状のドライソーセージ「カルパス」を食べきりやすい個包装にしました。噛むほどに肉の旨みとスパイスの風味が広がります。常温で持ち運べるので、晩酌のおつまみやアウトドアにも便利です。",
+   "image_brief": "A clear bag filled with individually wrapped thin dried sausage sticks in plain red film wrappers, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おつまみカルパス 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おつまみカルパス 個包装 大袋 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おつまみカルパス ピリ辛 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おつまみカルパス チーズ入り 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 熟成カルパス 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_karupasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_whole_salami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "シャルキュトリ",
+    "輸入サラミ・ドライソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "サラミの盛り合わせ",
+    "ピザ",
+    "パスタ",
+    "ワインのおつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "丸ごと一本のまま熟成させたサラミです。自分で好みの厚さにスライスでき、白カビの香りや熟成ならではの深い旨みが楽しめます。チーズとともに盛り付ければ、パーティーやワインのお供に華やかな一皿に。",
+   "image_brief": "A whole cured salami with a dusty white mold skin tied with twine, lying on a wooden board with blank paper tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トラットリア・ベルナ ミラノサラミ ホール 約200g",
+     "brand": "トラットリア・ベルナ",
+     "size": "約200g",
+     "price_tax_excluded": 980,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ フェンネルサラミ ホール 約200g",
+     "brand": "トラットリア・ベルナ",
+     "size": "約200g",
+     "price_tax_excluded": 1080,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ 白カビサラミ ミニ 約120g",
+     "brand": "トラットリア・ベルナ",
+     "size": "約120g",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トラットリア・ベルナ ナポリサラミ ホール 辛口 約250g",
+     "brand": "トラットリア・ベルナ",
+     "size": "約250g",
+     "price_tax_excluded": 1180,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トラットリア・ベルナ 白カビサラミ ホール 約300g",
+     "brand": "トラットリア・ベルナ",
+     "size": "約300g",
+     "price_tax_excluded": 1580,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_whole_salami_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_smoked_beef_tongue",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・焼豚",
+    "スモークタン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "オードブル",
+    "サラダ",
+    "サンドイッチ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "牛タンを塩漬けし、桜チップでスモークしてから薄くスライスしました。牛タンならではのやわらかな歯ごたえと燻製の香りが楽しめます。そのままおつまみに、またはサラダやサンドイッチの具材にどうぞ。",
+   "image_brief": "Thin oval slices of smoked beef tongue fanned out in a flat clear pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スモーク牛タン スライス 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スモーク牛タン スライス 大容量 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 スモーク牛タン ブロック 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スモーク牛タン 粗挽き黒こしょう 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_smoked_beef_tongue_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_yakibuta_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・焼豚",
+    "焼豚・チャーシュー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "チャーシュー麺",
+    "焼豚丼",
+    "炒飯",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "豚肩ロースのブロックを特製の醤油だれに漬け、窯で吊るして焼き上げました。香ばしい焼き色とジューシーな肉質が特長。好みの厚さに切ってラーメンにのせたり、角切りにして炒飯に入れたりと幅広く使えます。",
+   "image_brief": "A dark glazed roast pork block with a caramelized surface vacuum-packed in clear film with a small sauce sachet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 吊るし焼豚 ブロック たれ付 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 吊るし焼豚 ブロック たれ付 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚肩ロース 吊るし焼豚 ブロック 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚バラ 巻き焼豚 ブロック たれ付 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒豚 吊るし焼豚 ブロック ギフト 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_yakibuta_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chashu_aburi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・焼豚",
+    "焼豚・チャーシュー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "炙りチャーシュー丼",
+    "ラーメン",
+    "おつまみ",
+    "冷やし中華"
+   ],
+   "tax_rate": 8,
+   "description": "豚バラ肉をじっくり煮込んでから表面をバーナーで炙った炙りチャーシューのスライスです。とろけるような脂と香ばしさが魅力。温めてご飯にのせ、たれをかければ専門店のような炙りチャーシュー丼が楽しめます。",
+   "image_brief": "Round slices of charred pork belly chashu with a browned surface arranged in a black tray with clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 炙りチャーシュー スライス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 炙りチャーシュー 厚切り 5枚入（150g）",
+     "brand": "Cymbal",
+     "size": "5枚入（150g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 炙りチャーシュー 切り落とし 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚バラ 炙りチャーシュー たれ付 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 炙りチャーシュー 丼用 70g×3袋",
+     "brand": "Cymbal",
+     "size": "70g×3袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chashu_aburi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_roast_chicken_leg",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "ローストチキン・スモークチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマスディナー",
+    "パーティー料理",
+    "オードブル",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏の骨付きもも肉を醤油ベースのたれでじっくり焼き上げたローストチキンです。皮は香ばしく、中はふっくらジューシー。温めるだけでクリスマスや誕生日のごちそうに。骨にはペーパーを巻いて手で持って食べやすい仕様です。",
+   "image_brief": "A glossy dark-brown roasted bone-in chicken leg with a paper frill on the bone end, in a clear dome container, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏 ローストチキン 骨付きもも 照り焼き 1本入",
+     "brand": "Cymbal",
+     "size": "1本入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏 ローストチキン 骨付きもも 照り焼き 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産若鶏 ローストチキン 骨付きもも ハーブ&ソルト 1本入",
+     "brand": "Cymbal",
+     "size": "1本入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 ローストチキン 骨付きもも 1本入",
+     "brand": "Cymbal セレクト",
+     "size": "1本入",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック ローストチキン 骨付きもも 照り焼き 4本入",
+     "brand": "Cymbal ベーシック",
+     "size": "4本入",
+     "price_tax_excluded": 1480,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal 国産若鶏 ローストチキン 手羽元 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_roast_chicken_leg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_whole_roast_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "ローストチキン・スモークチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマスディナー",
+    "パーティー料理",
+    "オーブン料理",
+    "取り分け料理"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏を一羽まるごとハーブと塩で味付けし、皮がパリッとするまでオーブンで焼き上げた丸鶏ローストチキンです。温め直すだけでテーブルの主役に。クリスマスやホームパーティーの予約品として人気の季節商品です。",
+   "image_brief": "A whole golden-brown roasted chicken tied with string on a round black tray under a clear dome lid, blank ribbon tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 国産若鶏 丸鶏ローストチキン ハーブ焼き 1羽（約1kg）",
+     "brand": "Cymbal セレクト",
+     "size": "1羽（約1kg）",
+     "price_tax_excluded": 2980,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏 丸鶏ローストチキン ガーリック醤油 1羽（約1kg）",
+     "brand": "Cymbal セレクト",
+     "size": "1羽（約1kg）",
+     "price_tax_excluded": 2980,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏 ローストチキン ハーフ 半身（約500g）",
+     "brand": "Cymbal セレクト",
+     "size": "半身（約500g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 丸鶏ローストチキン 特大 1羽（約1.5kg）",
+     "brand": "Cymbal セレクト",
+     "size": "1羽（約1.5kg）",
+     "price_tax_excluded": 4280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 冷凍 丸鶏ローストチキン 1羽（約900g）",
+     "brand": "Cymbal",
+     "size": "1羽（約900g）",
+     "price_tax_excluded": 1980,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_whole_roast_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_smoked_chicken_breast",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "ローストチキン・スモークチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "おつまみ",
+    "冷製パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏むね肉を桜チップで燻製し、薄くスライスしたスモークチキンです。しっとりやわらかく、燻製の香りが食欲をそそります。サラダやサンドイッチにのせるだけでおしゃれな一品に。高たんぱくで低脂肪なのもうれしいポイントです。",
+   "image_brief": "Thin slices of smoked chicken breast with a golden-brown edge fanned out in a flat clear pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏むね スモークチキン スライス 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね スモークチキン ブロック 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね スモークチキン 黒こしょう 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏もも スモークチキン スライス 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏 スモークチキン 3連パック 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_smoked_chicken_breast_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chilled_meatball_sauce",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉加工品",
+    "ミートボール・肉だんご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ミートボールパスタ",
+    "お弁当",
+    "煮込み料理",
+    "オードブル"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉と鶏肉を合わせたやわらかなミートボールを、トマトソースやデミグラスソースで煮込んだチルドタイプです。レンジで温めるだけでメインおかずに。パスタと和えたり、チーズをのせて焼いたりアレンジも楽しめます。",
+   "image_brief": "Round meatballs in rich red tomato sauce inside a microwavable black plastic tray with a peelable clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トマトソースミートボール 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デミグラスソースミートボール 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームソースミートボール スウェーデン風 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトソースミートボール 大容量 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛豚 煮込みミートボール 赤ワインソース 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chilled_meatball_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_teriyaki_meatball_bento",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉加工品",
+    "ミートボール・肉だんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉",
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "朝ごはん",
+    "おつまみ",
+    "ちらし寿司の具"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏肉を使った一口サイズのミートボールを甘辛い照り焼きソースで仕上げました。常温保存ができ、袋のまま湯せんやレンジで温めるだけ。忙しい朝のお弁当づくりの強い味方で、ストックしておくと便利です。",
+   "image_brief": "A small stand-up retort pouch next to a few glossy teriyaki-glazed mini meatballs on a white plate, blank pouch label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 照り焼きミートボール 常温 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 照り焼きミートボール 常温 3袋組 110g×3",
+     "brand": "Cymbal",
+     "size": "110g×3",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトケチャップミートボール 常温 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機醤油使用 照り焼きミートボール 常温 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_teriyaki_meatball_bento_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_frozen_kurozu_nikudango",
+   "category_path": [
+    "お肉・お肉加工品",
+    "冷凍 肉・肉加工品",
+    "ミートボール・肉だんご"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "黒酢肉だんご",
+    "お弁当",
+    "中華おかず",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉の肉だんごを揚げてから、まろやかな黒酢あんをたっぷり絡めた冷凍品です。コクのある酸味と甘みがやみつきに。必要な分だけ取り出してレンジで温められ、晩ごはんのもう一品やお弁当に重宝します。",
+   "image_brief": "A stand-up frozen food bag beside a white bowl of glossy dark black-vinegar glazed meatballs, blank bag label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 国産豚 黒酢肉だんご 10個入（220g）",
+     "brand": "Cymbal",
+     "size": "10個入（220g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 国産豚 黒酢肉だんご 大容量 25個入（550g）",
+     "brand": "Cymbal",
+     "size": "25個入（550g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 国産豚 れんこん入り肉だんご 甘辛 10個入（220g）",
+     "brand": "Cymbal",
+     "size": "10個入（220g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 国産豚 酢豚風肉だんご 野菜入り 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_frozen_kurozu_nikudango_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_aigamo_nabe_slice",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "合鴨・鴨肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鴨鍋",
+    "鴨南蛮そば",
+    "鴨せいろ",
+    "鴨すき"
+   ],
+   "tax_rate": 8,
+   "description": "脂の甘みが濃い合鴨ロースを鍋用に薄くスライスしました。だしにくぐらせると脂がとけてコクのあるスープに。長ねぎやせりと一緒に鴨鍋で楽しむほか、年越しの鴨南蛮そばにもおすすめの冬の味覚です。",
+   "image_brief": "Thin slices of deep red duck breast with white fat edges fanned in a circle on a black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "合鴨ロース 鍋用スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "合鴨ロース 鍋用スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "タイ産"
+    },
+    {
+     "title": "合鴨ロース 鍋用スライス つくね付きセット 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "合鴨もも 鍋用スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "京鴨 ロース 鍋用スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1480,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_aigamo_nabe_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_roast_duck_slice",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "合鴨ロースト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "オードブル",
+    "鴨そば",
+    "サラダ",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "合鴨ロースを醤油ベースのたれでしっとりとローストし、スライスしました。ピンク色に仕上げた身はやわらかく、脂の甘みとたれのコクが絶妙。おせちやオードブルに添えるだけで華やぎ、温かいそばにのせるのもおすすめです。",
+   "image_brief": "Pink-centered slices of roasted duck breast with a dark glazed fat edge fanned in a clear tray, small sauce sachet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 合鴨ロースト スライス たれ付 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 合鴨ロースト ブロック たれ付 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産合鴨 ロースト スライス 柚子ポン酢付 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産合鴨 ロースト ブロック ギフト 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_roast_duck_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_duck_confit",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "合鴨・鴨肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "鴨のコンフィ",
+    "クリスマスディナー",
+    "カスレ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "鴨のもも肉を塩とハーブでマリネし、鴨脂の中で低温でじっくり煮た伝統的なフランス料理、コンフィです。フライパンで皮目をカリッと焼くだけで、ほろりとやわらかな身が楽しめます。特別な日のメインディッシュに。",
+   "image_brief": "Two golden duck legs submerged in white duck fat inside a clear vacuum pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ビストロ・ルソー 鴨もものコンフィ 1本入（約250g）",
+     "brand": "ビストロ・ルソー",
+     "size": "1本入（約250g）",
+     "price_tax_excluded": 1280,
+     "origin": "フランス産"
+    },
+    {
+     "title": "ビストロ・ルソー 鴨もものコンフィ 2本入（約500g）",
+     "brand": "ビストロ・ルソー",
+     "size": "2本入（約500g）",
+     "price_tax_excluded": 2380,
+     "origin": "フランス産"
+    },
+    {
+     "title": "ビストロ・ルソー 国産合鴨 もものコンフィ 1本入（約220g）",
+     "brand": "ビストロ・ルソー",
+     "size": "1本入（約220g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "ビストロ・ルソー 鴨砂肝のコンフィ 150g",
+     "brand": "ビストロ・ルソー",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_duck_confit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_basashi_akami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "馬肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "馬刺し",
+    "馬肉ユッケ",
+    "馬刺し丼",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "きめ細かくやわらかな馬の赤身を、新鮮なうちに急速冷凍した馬刺し用ブロックです。半解凍の状態で薄く切り、生姜醤油やにんにく醤油でどうぞ。あっさりとした旨みで、お酒のお供や特別な日の一品にぴったりです。",
+   "image_brief": "A deep red block of lean horse meat vacuum-sealed in clear film with a small sachet of sweet soy sauce beside, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "火の国馬刺し本舗 馬刺し 赤身 ブロック たれ付 100g",
+     "brand": "火の国馬刺し本舗",
+     "size": "100g",
+     "price_tax_excluded": 1280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "火の国馬刺し本舗 馬刺し 赤身 ブロック たれ付 200g",
+     "brand": "火の国馬刺し本舗",
+     "size": "200g",
+     "price_tax_excluded": 2380,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "火の国馬刺し本舗 馬刺し 赤身 ブロック 150g",
+     "brand": "火の国馬刺し本舗",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "火の国馬刺し本舗 馬刺し 霜降り ブロック 100g",
+     "brand": "火の国馬刺し本舗",
+     "size": "100g",
+     "price_tax_excluded": 1980,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "火の国馬刺し本舗 馬刺し 3種盛り 赤身・霜降り・たてがみ 約180g",
+     "brand": "火の国馬刺し本舗",
+     "size": "約180g",
+     "price_tax_excluded": 3480,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "火の国馬刺し本舗 馬肉ユッケ たれ付 50g×2",
+     "brand": "火の国馬刺し本舗",
+     "size": "50g×2",
+     "price_tax_excluded": 1180,
+     "origin": "熊本県産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_basashi_akami_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_sakura_nabe",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "馬肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "桜鍋",
+    "すき焼き",
+    "馬肉炒め",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "馬肉を薄切りにした桜鍋用です。脂肪が少なく、割下や味噌仕立ての鍋でさっと煮るとやわらかく仕上がり、さっぱりとした旨みが楽しめます。ごぼうやねぎ、春菊と合わせて、昔ながらの冬の鍋料理をどうぞ。",
+   "image_brief": "Thin slices of dark red horse meat arranged like a flower in a round black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "馬肉 桜鍋用 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "馬肉 桜鍋用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "馬肉 桜鍋用 薄切り 国産 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "馬肉 桜鍋セット 味噌だれ付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 2480,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_sakura_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_venison_loin",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "ジビエ（鹿肉）"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鹿肉のロースト",
+    "鹿肉ステーキ",
+    "ジビエカレー",
+    "赤ワイン煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "自然豊かな山で育ったエゾシカのロース肉です。高たんぱく・低脂肪で、赤身ならではの澄んだ旨みが特長。表面を焼いてから低温でローストし、ベリー系のソースを添えればレストランのような一皿になります。",
+   "image_brief": "A dark maroon venison loin block vacuum-sealed in clear film with light frost, on a dark slate surface, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "エゾシカ ロース ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "エゾシカ もも ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "エゾシカ 焼肉用スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "本州鹿 ロース ステーキ用 2枚（約200g）",
+     "brand": "",
+     "size": "2枚（約200g）",
+     "price_tax_excluded": 1680,
+     "origin": "長野県産"
+    },
+    {
+     "title": "エゾシカ 煮込み用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_venison_loin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_boar_botan_nabe",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "ジビエ（猪肉）"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ぼたん鍋",
+    "猪汁",
+    "猪肉の味噌焼き",
+    "すき焼き"
+   ],
+   "tax_rate": 8,
+   "description": "冬の猪肉を牡丹の花のように盛り付けたぼたん鍋用スライスです。厚い脂身は煮るほどに甘みが増し、味噌仕立てのだしとの相性は抜群。根菜やきのこ、豆腐と一緒に煮込めば体の芯から温まる鍋料理が楽しめます。",
+   "image_brief": "Frozen thin slices of wild boar with thick white fat layers arranged in a peony flower shape on a round plate wrapped in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "猪肉 ぼたん鍋用 スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "猪肉 ぼたん鍋用 スライス 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 2980,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "猪肉 ぼたん鍋セット 味噌付 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 3480,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "猪肉 焼肉用スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1480,
+     "origin": "島根県産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_boar_botan_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_lamb_spice_kebab",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "ラム肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ラム串焼き",
+    "バーベキュー",
+    "おつまみ",
+    "ピタサンド"
+   ],
+   "tax_rate": 8,
+   "description": "ラム肩肉にクミンや唐辛子をまぶし、串に刺した冷凍のスパイス串焼きです。グリルやフライパンで焼くだけで、中央アジアの屋台のような香りが広がります。ビールのおつまみやアウトドアのバーベキューに最適です。",
+   "image_brief": "Skewers of cubed lamb coated in reddish cumin spice frozen and lined up in a clear vacuum pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 ラム肉 クミン串焼き 10本入（300g）",
+     "brand": "",
+     "size": "10本入（300g）",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "冷凍 ラム肉 クミン串焼き 大容量 25本入（750g）",
+     "brand": "",
+     "size": "25本入（750g）",
+     "price_tax_excluded": 2180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "冷凍 ラム肉 ハーブ&ガーリック串 10本入（300g）",
+     "brand": "",
+     "size": "10本入（300g）",
+     "price_tax_excluded": 980,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "冷凍 ラムミンチ ケバブ串 8本入（320g）",
+     "brand": "",
+     "size": "8本入（320g）",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_lamb_spice_kebab_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_marinated_processed_chicken_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉加工品",
+    "鶏ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "棒棒鶏",
+    "サンドイッチ",
+    "冷やし中華"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏むね肉を塩とハーブでマリネし、低温でじっくり加熱した鶏ハムです。しっとりなめらかな食感とやさしい塩味が特長。薄く切ってサラダや棒棒鶏に、パンにはさんでサンドイッチにと幅広く活躍します。",
+   "image_brief": "A pale smooth roll of chicken ham tied in clear wrap with a few slices cut in front on a white board, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産若鶏むね 鶏ハム プレーン 1本（約200g）",
+     "brand": "Cymbal",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 鶏ハム ハーブ 1本（約200g）",
+     "brand": "Cymbal",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 鶏ハム スライス 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産銘柄鶏 鶏ハム 柚子こしょう 1本（約200g）",
+     "brand": "Cymbal セレクト",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 国産若鶏むね 鶏ハム 2本組 約400g",
+     "brand": "Cymbal",
+     "size": "約400g",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_meat_marinated_processed_chicken_ham_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

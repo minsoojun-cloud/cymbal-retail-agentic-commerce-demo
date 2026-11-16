@@ -1,0 +1,3484 @@
+{
+ "category_key": "w_tofu_natto",
+ "items": [
+  {
+   "base_id": "w_tofu_natto_juten_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "充填豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "味噌汁",
+    "麻婆豆腐",
+    "常備用"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳を容器に詰めてから固める充填製法の絹ごし豆腐。空気に触れにくく日持ちがよいので、買い置きにも便利です。きめ細かくつるんとした食感で、冷奴や味噌汁、麻婆豆腐まで幅広く使えます。",
+   "image_brief": "A sealed rectangular white plastic tub of filled silken tofu with a smooth domed film top and a blank paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 充填絹ごし豆腐 長期保存タイプ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 充填絹ごし豆腐 250g×3個パック",
+     "brand": "Cymbal",
+     "size": "250g×3個",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 充填とうふ 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 54,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 充填絹ごし豆腐 濃厚仕立て 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 118,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 充填絹ごし豆腐 ミニ 100g×4個",
+     "brand": "Cymbal",
+     "size": "100g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_juten_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_zaru_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "ざる豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "豆腐サラダ",
+    "湯豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "ざるに寄せて自然に水切りした、ふんわり柔らかなざる豆腐。大豆本来の甘みと豊かな香りが感じられ、まずは塩やしょうゆを少し垂らしてそのまま味わうのがおすすめ。ちょっと贅沢な食卓に。",
+   "image_brief": "A small round bamboo-style plastic colander holding a mound of soft white tofu, packed in a clear lidded container with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "白峰とうふ工房 ざる豆腐 国産大豆 350g",
+     "brand": "白峰とうふ工房",
+     "size": "350g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 ざる豆腐 北海道産大豆 400g",
+     "brand": "白峰とうふ工房",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト ざる豆腐 にがり寄せ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ざる豆腐 ミニ 150g×2個",
+     "brand": "Cymbal",
+     "size": "150g×2個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "白峰とうふ工房 黒豆ざる豆腐 300g",
+     "brand": "白峰とうふ工房",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_zaru_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_shima_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "島豆腐・かた豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ゴーヤーチャンプルー",
+    "豆腐チャンプルー",
+    "炒め物",
+    "冷奴"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄の食卓でおなじみの、しっかり固くて大きな島豆腐。水分が少なく崩れにくいので、ゴーヤーチャンプルーなどの炒め物に最適です。ほんのり塩味があり、そのまま切って食べてもおいしい一品。",
+   "image_brief": "A large firm block of off-white tofu in a clear plastic bag with a plain blank label strip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 沖縄風 島豆腐 1丁 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal 沖縄風 島豆腐 ハーフ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産大豆使用 島豆腐 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal ベーシック チャンプルー用 かた豆腐 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 島豆腐 カット済み 炒め用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 168,
+     "origin": "沖縄県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_shima_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_katadofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "堅豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "煮物",
+    "田楽",
+    "豆腐ステーキ",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "縄で縛っても崩れないといわれるほど固くしまった北陸・山間部の堅豆腐。大豆の旨みがぎゅっと詰まり、噛むほどに味わい深い食感です。煮物やおでん、焼いて田楽にするなど加熱料理で真価を発揮します。",
+   "image_brief": "A dense, tall rectangular block of firm tofu wrapped in clear film on a paper tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "白峰とうふ工房 堅豆腐 1丁 400g",
+     "brand": "白峰とうふ工房",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 堅豆腐 ハーフ 200g",
+     "brand": "白峰とうふ工房",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 富山県製造 堅豆腐 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 328,
+     "origin": "富山県製造"
+    },
+    {
+     "title": "Cymbal セレクト 石川県製造 山里の堅豆腐 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "石川県製造"
+    },
+    {
+     "title": "白峰とうふ工房 堅豆腐 田楽味噌付 300g",
+     "brand": "白峰とうふ工房",
+     "size": "300g",
+     "price_tax_excluded": 378,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_katadofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_edamame_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "枝豆・黒豆豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "前菜",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "枝豆や黒豆をすりつぶして豆乳に加えた、色鮮やかな変わり豆腐。ほのかな豆の風味と甘みが楽しめ、だしやしょうゆをかけるだけで上品な一品になります。おもてなしの前菜や晩酌のお供にどうぞ。",
+   "image_brief": "Two small square cups of pale green tofu with clear film lids and a blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 枝豆豆腐 80g×2個 たれ付",
+     "brand": "Cymbal",
+     "size": "80g×2個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産枝豆使用 枝豆とうふ 100g×2個",
+     "brand": "Cymbal セレクト",
+     "size": "100g×2個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒豆豆腐 80g×2個 たれ付",
+     "brand": "Cymbal",
+     "size": "80g×2個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒大豆使用 黒豆とうふ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "兵庫県産黒大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 茶豆風 枝豆寄せとうふ 150g",
+     "brand": "白峰とうふ工房",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_edamame_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_jimami_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "ジーマーミ豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "前菜",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "落花生のしぼり汁にでん粉を加えて練り上げた、沖縄伝統のジーマーミ豆腐。もっちりとした弾力となめらかな舌ざわり、香ばしいピーナッツのコクが特長です。甘いたれをかけてデザート感覚でも楽しめます。",
+   "image_brief": "Small round cups of creamy ivory peanut tofu with clear lids and a tiny sauce sachet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 沖縄風 ジーマーミ豆腐 70g×3個 たれ付",
+     "brand": "Cymbal",
+     "size": "70g×3個",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal セレクト ジーマーミ豆腐 黒糖たれ付 70g×2個",
+     "brand": "Cymbal セレクト",
+     "size": "70g×2個",
+     "price_tax_excluded": 248,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal ジーマーミ豆腐 甘だれ付 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 368,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産落花生使用 ジーマーミ豆腐 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "千葉県産落花生使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_jimami_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_yakumi_hiyayakko",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "たれ付き冷奴"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "朝食",
+    "お弁当の副菜"
+   ],
+   "tax_rate": 8,
+   "description": "ねぎや生姜、かつお風味の薬味とたれがセットになった、すぐに食べられる冷奴用豆腐。容器のふたを開けて薬味をのせるだけで、手軽に一品が完成します。忙しい朝や、もう一品欲しいときに重宝します。",
+   "image_brief": "Three small square tofu cups joined together, each with a tiny attached sauce and condiment sachet, clear film lids, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 薬味付き冷奴 ねぎ生姜 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷奴 ごまだれ付 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷奴 梅かつおだれ付 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 冷奴 だし醤油ジュレ付 120g×2個",
+     "brand": "Cymbal セレクト",
+     "size": "120g×2個",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 冷奴 たれ付 80g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "80g×4個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_yakumi_hiyayakko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_yudofu_set",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "湯豆腐用豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "湯豆腐",
+    "鍋料理",
+    "豆腐鍋"
+   ],
+   "tax_rate": 8,
+   "description": "湯豆腐にぴったりな、煮崩れしにくくなめらかな豆腐。だし昆布付きのセットなら、鍋に水と昆布と豆腐を入れるだけで本格的な湯豆腐が楽しめます。寒い季節の温かな一品に。",
+   "image_brief": "A rectangular clear tray with two blocks of white tofu and a dried kombu strip tucked beside them, blank paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 湯豆腐用 絹ごし 昆布付 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 京風 湯豆腐セット 昆布付 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 湯豆腐用 木綿 北海道昆布付 400g",
+     "brand": "白峰とうふ工房",
+     "size": "400g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 湯豆腐用 一口サイズ 絹 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 湯豆腐用 嵯峨風 やわらか豆腐 2丁入",
+     "brand": "Cymbal セレクト",
+     "size": "2丁入",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_yudofu_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_nabe_momen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "鍋用豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "すき焼き",
+    "キムチ鍋",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "鍋で煮込んでも崩れにくいよう、しっかり固めに仕上げた鍋用豆腐。だしやスープをよく含み、すき焼きや寄せ鍋、キムチ鍋の具材に最適です。カット済みタイプならそのまま鍋に入れられて便利。",
+   "image_brief": "A white tray of firm tofu pre-cut into neat cubes under clear film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鍋用 木綿豆腐 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鍋用 カット木綿豆腐 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鍋用 豆腐 徳用 600g",
+     "brand": "Cymbal ベーシック",
+     "size": "600g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 すき焼き用 堅め豆腐 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 178,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal スンドゥブ用 やわらか豆腐 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_nabe_momen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_cut_tofu_mabo",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "カット豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "味噌汁",
+    "豆腐炒め"
+   ],
+   "tax_rate": 8,
+   "description": "あらかじめ角切りにしてあるので包丁いらずのカット豆腐。袋から出してそのまま麻婆豆腐や味噌汁に使え、調理時間を短縮できます。一人暮らしや忙しい日の料理に便利なサイズ展開です。",
+   "image_brief": "A clear pouch filled with small white tofu cubes in water, with a blank printed-band label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 麻婆豆腐用 角切り木綿 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味噌汁用 さいの目絹豆腐 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味噌汁用 さいの目絹豆腐 100g×3袋",
+     "brand": "Cymbal",
+     "size": "100g×3袋",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 カット絹豆腐 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 128,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_cut_tofu_mabo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_smoked_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "燻製・味付け豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "サラダ",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "水切りした豆腐を桜チップでじっくり燻した、香り豊かなスモーク豆腐。チーズのような食感で、薄く切ってそのままおつまみに、サラダやサンドイッチの具にも。たんぱく質を手軽に取りたい方にもおすすめです。",
+   "image_brief": "A vacuum-packed amber-brown smoked tofu block in clear film with a blank kraft paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "白峰とうふ工房 燻製豆腐 桜チップ 120g",
+     "brand": "白峰とうふ工房",
+     "size": "120g",
+     "price_tax_excluded": 258,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 燻製豆腐 ブラックペッパー 120g",
+     "brand": "白峰とうふ工房",
+     "size": "120g",
+     "price_tax_excluded": 268,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト スモーク豆腐 スライス 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 味付け豆腐 塩麹 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 燻製豆腐 ハーフ 60g×2",
+     "brand": "Cymbal",
+     "size": "60g×2",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_smoked_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tofu_hamburg",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆腐ハンバーグ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "夕食のおかず",
+    "和風ハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐と鶏ひき肉を合わせてふんわり焼き上げた豆腐ハンバーグ。あっさりとした味わいでやわらかく、子どもから年配の方まで食べやすいのが魅力。温めるだけで和風ソースやおろしポン酢で楽しめます。",
+   "image_brief": "Round golden-brown tofu patties in a clear plastic tray with a small sauce pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆腐ハンバーグ 和風あんかけ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆腐ハンバーグ ひじき入り 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏・国産大豆 豆腐ハンバーグ 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニ豆腐ハンバーグ お弁当用 8個入",
+     "brand": "Cymbal ベーシック",
+     "size": "8個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆腐ハンバーグ おろしソース付 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tofu_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_frozen_agedashi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "揚げ出し豆腐"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "揚げ出し豆腐",
+    "おつまみ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "衣をつけてカラッと揚げた豆腐を急速冷凍。電子レンジで温めて付属のだしつゆをかけるだけで、居酒屋風の揚げ出し豆腐が手軽に楽しめます。大根おろしや刻みねぎを添えればさらにおいしく。",
+   "image_brief": "A frozen food bag showing golden fried tofu cubes in a ceramic bowl with broth, blank illustrated label area, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 揚げ出し豆腐 つゆ付 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げ出し豆腐 つゆ付 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 揚げ出し豆腐 あんかけつゆ付 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 揚げ出し豆腐 業務用 20個入",
+     "brand": "Cymbal ベーシック",
+     "size": "20個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_frozen_agedashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_douhua",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆花・豆腐デザート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ",
+    "台湾スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "台湾の屋台スイーツ・豆花(トウファ)を手軽に。ぷるんとやわらかい豆乳の豆腐に、生姜やきび糖のシロップをかけて味わいます。やさしい甘さで、食後のデザートやおやつにぴったりです。",
+   "image_brief": "A clear round cup of wobbly white soy pudding with a syrup sachet and small sweet beans, blank label lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 台湾風 豆花 生姜シロップ付 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾風 豆花 黒糖シロップ付 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 豆花 小豆・タピオカトッピング付 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆花 ピーナッツ入り 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_douhua_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_doufugan",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "押し豆腐・豆腐干"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "中華和え物",
+    "炒め物",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐を強く圧縮して水分を抜いた中華食材、押し豆腐(豆腐干)。麺のように細切りにしたタイプは、和え物や炒め物に使え、しっかりした歯ごたえが楽しめます。糖質を控えたい方の麺代わりにも。",
+   "image_brief": "A vacuum pack of thin beige pressed tofu sheets and shredded strips, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 押し豆腐 シート 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆腐干 細切り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 押し豆腐 細切り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 五香豆腐干 味付き 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_doufugan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tofuyo",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆腐よう・豆腐の漬物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "酒の肴",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐を麹や泡盛、もろみに漬け込んで熟成させた珍味。濃厚でチーズのようにとろける口あたりと、まろやかな旨みが特長です。爪楊枝で少しずつ削りながら、お酒のお供としてゆっくり味わってください。",
+   "image_brief": "A small glass jar holding cubes of red-tinted fermented tofu in sauce, plain blank label and lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 沖縄風 豆腐よう 紅麹 6粒入",
+     "brand": "Cymbal",
+     "size": "6粒入",
+     "price_tax_excluded": 598,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "Cymbal セレクト 豆腐よう 泡盛熟成 3粒入",
+     "brand": "Cymbal セレクト",
+     "size": "3粒入",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県製造"
+    },
+    {
+     "title": "白峰とうふ工房 豆腐のもろみ漬け 100g",
+     "brand": "白峰とうふ工房",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 豆腐の味噌漬け 80g",
+     "brand": "白峰とうふ工房",
+     "size": "80g",
+     "price_tax_excluded": 368,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 豆腐の粕漬け 酒粕熟成 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 428,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tofuyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_unohana",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "大豆製品",
+    "卯の花・白和え"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "常備菜",
+    "定食の小鉢"
+   ],
+   "tax_rate": 8,
+   "description": "おからや豆腐を使った昔ながらのお惣菜。しっとり炊いた卯の花と、ごまの香るなめらかな白和えを揃えました。野菜やひじきもたっぷりで、食卓にもう一品添えたいときやお弁当の副菜に重宝します。",
+   "image_brief": "A clear plastic deli tray filled with moist pale-yellow okara simmered with carrot and green onion, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 卯の花 ひじき入り 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卯の花 五目 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほうれん草の白和え 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 柿と春菊の白和え 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 卯の花 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_unohana_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kumiage_yuba",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "汲み上げ湯葉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "湯葉丼",
+    "前菜",
+    "刺身",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳を温めた表面にできる膜を、すくい上げたままの汲み上げ湯葉。とろりとやわらかな口あたりと濃厚な豆乳のコクが楽しめます。わさび醤油でそのまま、ご飯にのせて湯葉丼にするのもおすすめです。",
+   "image_brief": "A clear round container of soft, creamy yellow-white pulled-up yuba sheets folded loosely, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京ゆば庵ことね 汲み上げ湯葉 100g",
+     "brand": "京ゆば庵ことね",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "京ゆば庵ことね 汲み上げ湯葉 だし醤油付 150g",
+     "brand": "京ゆば庵ことね",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 汲み上げゆば 80g×2",
+     "brand": "Cymbal セレクト",
+     "size": "80g×2",
+     "price_tax_excluded": 598,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal とろ湯葉 わさび醤油付 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "京ゆば庵ことね 日光風 引き上げ湯葉 120g",
+     "brand": "京ゆば庵ことね",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "栃木県加工"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kumiage_yuba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_yuba_maki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "湯葉巻き・湯葉惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "煮物",
+    "精進料理",
+    "おせち",
+    "吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "湯葉を幾重にも巻いて、だしで含め煮にしたやさしい味わいの湯葉巻き。噛むとじゅわっとだしがあふれます。煮物の一品や吸い物の具、お正月の重箱にも上品に映える、京都風の湯葉惣菜です。",
+   "image_brief": "Neatly rolled cylinders of golden simmered yuba in light broth inside a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京ゆば庵ことね 湯葉巻き 含め煮 4本入",
+     "brand": "京ゆば庵ことね",
+     "size": "4本入",
+     "price_tax_excluded": 498,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "京ゆば庵ことね 湯葉の信田煮 3個入",
+     "brand": "京ゆば庵ことね",
+     "size": "3個入",
+     "price_tax_excluded": 448,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal セレクト 京風 ゆば巻 だし煮 6本入",
+     "brand": "Cymbal セレクト",
+     "size": "6本入",
+     "price_tax_excluded": 698,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 湯葉と野菜の炊き合わせ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "京ゆば庵ことね 揚げ湯葉巻き 甘辛煮 5本入",
+     "brand": "京ゆば庵ことね",
+     "size": "5本入",
+     "price_tax_excluded": 528,
+     "origin": "京都府加工"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_yuba_maki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_awa_fu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "生麩",
+    "粟麩・よもぎ麩"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "田楽",
+    "煮物",
+    "鍋",
+    "お吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちとした弾力が魅力の生麩。粟入りの粟麩と、よもぎが香る緑のよもぎ麩をご用意しました。焼いて田楽に、煮物や鍋の具に使えば、食卓が一気に料亭風に。彩りもきれいなので、おもてなしにも。",
+   "image_brief": "Two long rectangular bars of fresh wheat gluten, one yellow with millet and one green with mugwort, in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "麩処はなもり 粟麩 1本 200g",
+     "brand": "麩処はなもり",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり よもぎ麩 1本 200g",
+     "brand": "麩処はなもり",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり 粟麩・よもぎ麩 詰め合わせ 各100g",
+     "brand": "麩処はなもり",
+     "size": "各100g",
+     "price_tax_excluded": 498,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 生麩 よもぎ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦使用 粟麩 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_awa_fu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_hana_fu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "生麩",
+    "手まり麩・花麩"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お吸い物",
+    "茶碗蒸し",
+    "煮物",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "桜や紅葉、梅などをかたどった色とりどりの生麩。お吸い物や茶碗蒸し、煮物に添えるだけで季節感と華やかさが加わります。もっちりとした食感で、お正月料理やお祝いの席にもぴったりです。",
+   "image_brief": "Small colorful fresh wheat-gluten pieces shaped like maple leaves and plum blossoms arranged in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "麩処はなもり 紅葉麩 生 6個入",
+     "brand": "麩処はなもり",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり 手まり麩 生 8個入",
+     "brand": "麩処はなもり",
+     "size": "8個入",
+     "price_tax_excluded": 378,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり 梅花麩 紅白 生 6個入",
+     "brand": "麩処はなもり",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal セレクト 季節の花麩 詰め合わせ 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 598,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 生麩 細工麩 ミックス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_hana_fu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_fu_manju",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "生麩",
+    "麩まんじゅう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "和菓子",
+    "おやつ",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちの生麩でこしあんを包み、笹の葉でくるんだ麩まんじゅう。つるんとした口どけとすっきりした甘さが特長です。冷やして食べると一層おいしく、お茶請けや手土産にも喜ばれる和菓子です。",
+   "image_brief": "Green glossy wheat-gluten buns wrapped in bamboo leaves lined up in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "麩処はなもり 笹巻き 麩まんじゅう こしあん 5個入",
+     "brand": "麩処はなもり",
+     "size": "5個入",
+     "price_tax_excluded": 598,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり 麩まんじゅう よもぎ 3個入",
+     "brand": "麩処はなもり",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 麩まんじゅう 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 麩まんじゅう 抹茶あん 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "京都府加工"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_fu_manju_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_fu_dengaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "生麩",
+    "生麩田楽"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "田楽",
+    "おつまみ",
+    "前菜"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼いた生麩に、甘い白味噌や赤味噌を塗った生麩田楽。電子レンジやトースターで温めるだけで、もっちり香ばしい一品が完成します。晩酌のおつまみや、和食の前菜にどうぞ。",
+   "image_brief": "Skewered grilled fresh wheat gluten pieces topped with glossy white and red miso glaze on a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "麩処はなもり 生麩田楽 白味噌 4本入",
+     "brand": "麩処はなもり",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "麩処はなもり 生麩田楽 赤味噌・白味噌 各2本",
+     "brand": "麩処はなもり",
+     "size": "4本入",
+     "price_tax_excluded": 418,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 焼き生麩 田楽味噌付 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生麩の柚子味噌田楽 3本入",
+     "brand": "Cymbal セレクト",
+     "size": "3本入",
+     "price_tax_excluded": 448,
+     "origin": "京都府加工"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_fu_dengaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tochio_age",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "大判油揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "焼き油揚げ",
+    "おつまみ",
+    "煮物",
+    "納豆詰め焼き"
+   ],
+   "tax_rate": 8,
+   "description": "厚みがあり大きな、新潟名物の大判油揚げ。外はカリッと、中はふんわりした豆腐の食感が残るのが特長です。こんがり焼いてねぎとしょうゆでシンプルに、納豆やチーズを詰めて焼くのもおすすめ。",
+   "image_brief": "Two long thick golden-brown deep-fried tofu pouches laid side by side in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 新潟風 大判油揚げ 1枚",
+     "brand": "Cymbal",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "新潟県製造"
+    },
+    {
+     "title": "Cymbal 新潟風 大判油揚げ 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "新潟県製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 手揚げ 大判油揚げ 1枚",
+     "brand": "Cymbal セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 258,
+     "origin": "新潟県製造"
+    },
+    {
+     "title": "白峰とうふ工房 ジャンボ油揚げ 1枚",
+     "brand": "白峰とうふ工房",
+     "size": "1枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大判油揚げ ハーフカット 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tochio_age_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kyo_usuage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "京揚げ・薄揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きつねうどん",
+    "炊き込みご飯",
+    "煮びたし",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "関西風の大判で薄く、ふっくらと揚げた京揚げ。油抜きがしやすく、だしをよく含むので、きつねうどんや煮びたし、炊き込みご飯に重宝します。刻んで味噌汁の具にしても豊かなコクが加わります。",
+   "image_brief": "Large thin rectangular sheets of light golden fried tofu stacked in a clear bag, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 京風 大判薄揚げ 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 158,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "Cymbal セレクト 京揚げ 国産大豆 1枚",
+     "brand": "Cymbal セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "Cymbal ベーシック 薄揚げ 5枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "5枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 京風 薄揚げ 細切り 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 菜種油揚げ 京揚げ 2枚入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kyo_usuage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_hirousu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "ひろうす"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "やまいも"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "炊いたん",
+    "おでん",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "銀杏やきくらげ、にんじんなどの具材を豆腐に練り込んで揚げた、関西風の大きながんも「ひろうす」。だしでふっくら炊くと、中からうま味がじゅわっと広がります。煮物やおでんの主役になる一品です。",
+   "image_brief": "Large round golden fried tofu fritters dotted with ginkgo nuts and vegetables in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関西風 ひろうす 銀杏入り 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひろうす 大 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 五目ひろうす 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "白峰とうふ工房 手づくり ひろうす ゆり根入り 2個入",
+     "brand": "白峰とうふ工房",
+     "size": "2個入",
+     "price_tax_excluded": 328,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 炊いたん用 ひろうす 小 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_hirousu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_sankaku_atsuage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "三角・一口厚揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "炒め物",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "使いやすい三角形や一口サイズにカットされた厚揚げ。切る手間がなく、そのまま煮物やおでん、炒め物に使えます。表面はこんがり、中はやわらかな豆腐で、味しみがよく食べごたえも十分です。",
+   "image_brief": "Triangular and bite-size golden fried tofu pieces in a clear tray with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 三角厚揚げ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 一口厚揚げ 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 一口厚揚げ 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 三角絹厚揚げ 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal おでん用 三角厚揚げ 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_sankaku_atsuage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_ajitsuke_yaki_atsuage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "焼き厚揚げ・味付厚揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "丼"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼き上げた厚揚げに、しょうゆやみりんで甘辛く味付けした便利な一品。温めるだけでそのままおかずやおつまみになります。丼にのせたり、お弁当に詰めたりと、アレンジも自在です。",
+   "image_brief": "Grilled fried tofu slices with dark glossy soy glaze and grill marks in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼き厚揚げ 甘辛醤油 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼き厚揚げ ゆず胡椒 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き 厚揚げ 生姜醤油 3枚入",
+     "brand": "Cymbal セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味付け厚揚げ 照り焼き 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼き厚揚げ そのまま食べられる 4切入",
+     "brand": "Cymbal ベーシック",
+     "size": "4切入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_ajitsuke_yaki_atsuage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_shinoda_maki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "信田巻き・袋煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "煮物",
+    "おでん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "油揚げで鶏ひき肉や野菜、卵を包んで、だしで含め煮にした信田巻きと袋煮。ひと口ごとにやさしい煮汁がしみ出します。温めるだけで本格的な煮物の一品になり、おでんやお弁当にも活躍します。",
+   "image_brief": "Rolled and pouch-shaped simmered fried tofu tied with gourd strips in a clear tray with broth, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 信田巻き 鶏ごぼう 3本入",
+     "brand": "Cymbal",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 袋煮 野菜入り 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏 信田巻き 含め煮 2本入",
+     "brand": "Cymbal セレクト",
+     "size": "2本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卵入り 袋煮 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 信田巻き おでん用 5本入",
+     "brand": "Cymbal ベーシック",
+     "size": "5本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_shinoda_maki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tonyu_nabe_soup",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "鍋用大豆製品",
+    "豆乳鍋スープ・鍋用豆乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "雑炊",
+    "鍋料理"
+   ],
+   "tax_rate": 8,
+   "description": "まろやかな豆乳に鶏だしやごまを合わせた豆乳鍋用スープと、鍋用の無調整豆乳。野菜やきのこ、豚肉、豆腐などを入れて煮込むだけで、クリーミーで体が温まる豆乳鍋が楽しめます。締めは雑炊やラーメンで。",
+   "image_brief": "A stand-up refrigerated pouch of creamy white soy milk hot pot broth beside a ceramic hot pot of vegetables, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳鍋スープ 鶏だし 750g 3〜4人前",
+     "brand": "Cymbal",
+     "size": "750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳鍋スープ ごま味噌 750g",
+     "brand": "Cymbal",
+     "size": "750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 濃厚豆乳鍋つゆ 白湯仕立て 600g",
+     "brand": "Cymbal セレクト",
+     "size": "600g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳鍋スープ 1人前 150g×3袋",
+     "brand": "Cymbal",
+     "size": "150g×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "白峰とうふ工房 鍋用 生しぼり豆乳 無調整 500ml",
+     "brand": "白峰とうふ工房",
+     "size": "500ml",
+     "price_tax_excluded": 258,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 汲み湯葉ができる 鍋用濃厚豆乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tonyu_nabe_soup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tofu_chikuwa",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "豆腐ちくわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐と白身魚のすり身を合わせて蒸し上げた、鳥取の郷土食・豆腐ちくわ。ふんわりやわらかく、あっさりした味わいが特長です。そのまま切っておつまみやお弁当に、煮物に入れても味がよくしみます。",
+   "image_brief": "Pale white steamed tube-shaped tofu and fish cakes in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆腐ちくわ 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 248,
+     "origin": "鳥取県製造"
+    },
+    {
+     "title": "Cymbal 豆腐ちくわ ミニ 8本入",
+     "brand": "Cymbal",
+     "size": "8本入",
+     "price_tax_excluded": 268,
+     "origin": "鳥取県製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 豆腐ちくわ 野菜入り 3本入",
+     "brand": "Cymbal セレクト",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "鳥取県製造"
+    },
+    {
+     "title": "Cymbal 豆腐ちくわ ねぎ入り 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 258,
+     "origin": "鳥取県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tofu_chikuwa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kuromame_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "黒豆納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "朝食",
+    "納豆巻き"
+   ],
+   "tax_rate": 8,
+   "description": "黒大豆を使った、ふっくら大粒の黒豆納豆。皮のほのかな渋みと豆の甘みが調和し、普通の納豆とはひと味違う深いコクが楽しめます。粘りはやや控えめで、豆そのものの味わいを好む方におすすめです。",
+   "image_brief": "A stack of small square foam natto cups with purplish-black beans visible through a clear peel lid, blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒豆納豆 大粒 40g×2",
+     "brand": "Cymbal",
+     "size": "40g×2",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産黒大豆 黒豆納豆 45g×2",
+     "brand": "Cymbal セレクト",
+     "size": "45g×2",
+     "price_tax_excluded": 178,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "里山納豆舎 丹波黒豆納豆 50g×2",
+     "brand": "里山納豆舎",
+     "size": "50g×2",
+     "price_tax_excluded": 248,
+     "origin": "兵庫県産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 黒豆ひきわり納豆 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "里山納豆舎 黒豆納豆 たれなし 60g",
+     "brand": "里山納豆舎",
+     "size": "60g",
+     "price_tax_excluded": 158,
+     "origin": "国産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kuromame_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_ao_daizu_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "青大豆・在来種納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "納豆パスタ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "淡い緑色が美しい青大豆や、各地で受け継がれる在来種大豆で作った納豆。甘みが強く、香り高いのが特長です。いつもの納豆ご飯を少し特別にしたい日や、大豆の個性を食べ比べたい方にぴったり。",
+   "image_brief": "Small round paper natto cups with pale green beans shown through a clear lid, tied with a blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "里山納豆舎 青大豆納豆 45g×2",
+     "brand": "里山納豆舎",
+     "size": "45g×2",
+     "price_tax_excluded": 198,
+     "origin": "国産青大豆使用"
+    },
+    {
+     "title": "里山納豆舎 青大豆納豆 中粒 50g×2",
+     "brand": "里山納豆舎",
+     "size": "50g×2",
+     "price_tax_excluded": 228,
+     "origin": "山形県産青大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 在来種大豆 納豆 小粒 40g×3",
+     "brand": "Cymbal セレクト",
+     "size": "40g×3",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 大豆食べ比べ納豆 3種×1個",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産大豆使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 納豆 小粒 40g×3",
+     "brand": "Cymbal オーガニック",
+     "size": "40g×3",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_ao_daizu_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_wara_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "わら納豆・経木納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "納豆ご飯",
+    "納豆汁",
+    "贈答"
+   ],
+   "tax_rate": 8,
+   "description": "稲わらの苞(つと)や経木に包んで発酵させた、昔ながらの製法の納豆。わらや木の香りが、豊かな風味と深い旨みを引き立てます。からしとしょうゆでシンプルに、通好みの味わいを楽しんでください。",
+   "image_brief": "A rice-straw bundle tied at both ends holding natto, next to a thin wood-shaving wrapped natto packet, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "里山納豆舎 わら納豆 2本入 100g",
+     "brand": "里山納豆舎",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "里山納豆舎 わら苞納豆 大粒 1本 80g",
+     "brand": "里山納豆舎",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "茨城県製造"
+    },
+    {
+     "title": "里山納豆舎 経木納豆 中粒 90g",
+     "brand": "里山納豆舎",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 経木包み 小粒納豆 2包",
+     "brand": "Cymbal セレクト",
+     "size": "2包",
+     "price_tax_excluded": 278,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "里山納豆舎 わら納豆 からし付 3本入",
+     "brand": "里山納豆舎",
+     "size": "3本入",
+     "price_tax_excluded": 548,
+     "origin": "茨城県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_wara_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_hoshi_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "干し納豆・乾燥納豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "サラダトッピング",
+    "お茶漬け",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "納豆を乾燥させてカリッと仕上げた干し納豆。粘りが少なく、ポリポリとした食感と香ばしさで、おつまみやおやつ感覚で食べられます。サラダやお茶漬けのトッピングにも。常温保存できるので常備にも便利です。",
+   "image_brief": "A clear stand-up resealable pouch filled with crunchy dried brown fermented soybeans, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "里山納豆舎 干し納豆 塩味 50g",
+     "brand": "里山納豆舎",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "里山納豆舎 干し納豆 小粒 100g",
+     "brand": "里山納豆舎",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 乾燥納豆 フリーズドライ 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 干し納豆 梅しそ味 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal おつまみ干し納豆 わさび味 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_hoshi_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_soboro_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "そぼろ納豆・納豆加工品"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "おにぎり",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "納豆に切り干し大根を合わせ、しょうゆで漬け込んだ茨城の郷土食・そぼろ納豆。ご飯にのせるだけで箸が進む、ポリポリ食感とほどよい塩気が魅力です。お茶漬けやおにぎりの具にもぴったりです。",
+   "image_brief": "A small clear tub of sticky soybeans mixed with shredded dried daikon in soy sauce, blank label lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "里山納豆舎 そぼろ納豆 切り干し大根入り 150g",
+     "brand": "里山納豆舎",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "茨城県製造"
+    },
+    {
+     "title": "里山納豆舎 そぼろ納豆 ピリ辛 120g",
+     "brand": "里山納豆舎",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "茨城県製造"
+    },
+    {
+     "title": "Cymbal 納豆の醤油漬け 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 そぼろ納豆 昆布入り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "茨城県製造"
+    },
+    {
+     "title": "Cymbal 納豆キムチ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_soboro_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kawari_tare_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "変わりだれ納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "納豆パスタ",
+    "納豆オムレツ"
+   ],
+   "tax_rate": 8,
+   "description": "黒酢、ゆず、旨だし、ねぎ塩など、いつもと違うたれで楽しむ変わりだれ納豆。黒酢だれは酸味でまろやかになり、粘りがふんわり軽くなります。毎日食べても飽きない味のバリエーションを揃えました。",
+   "image_brief": "Three stacked square natto cups with small colorful sauce sachets on top, blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒酢たれ納豆 小粒 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず香るたれ納豆 極小粒 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつお旨だしたれ納豆 小粒 45g×4",
+     "brand": "Cymbal",
+     "size": "45g×4",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねぎ塩だれ納豆 ひきわり 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 白だしたれ納豆 小粒 40g×3",
+     "brand": "Cymbal セレクト",
+     "size": "40g×3",
+     "price_tax_excluded": 168,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ごま醤油たれ納豆 中粒 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kawari_tare_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_mild_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "においひかえめ・やわらか納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "朝食",
+    "お子さまの朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "独特のにおいを抑えた納豆や、豆をやわらかく仕上げた納豆。納豆が少し苦手な方や、お子さま、年配の方にも食べやすいよう工夫しました。毎日の朝食に取り入れやすい、やさしい味わいの定番です。",
+   "image_brief": "Small rounded natto cups with soft pastel-colored blank paper bands stacked in a pack of three, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal においひかえめ納豆 小粒 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらか納豆 極小粒 30g×4",
+     "brand": "Cymbal",
+     "size": "30g×4",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども向け 甘めのたれ納豆 30g×4",
+     "brand": "Cymbal",
+     "size": "30g×4",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 においひかえめ ひきわり 40g×3",
+     "brand": "Cymbal セレクト",
+     "size": "40g×3",
+     "price_tax_excluded": 158,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ねばりひかえめ納豆 小粒 45g×3",
+     "brand": "Cymbal",
+     "size": "45g×3",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_mild_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tare_nashi_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "たれなし納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "納豆汁",
+    "納豆チャーハン",
+    "料理用"
+   ],
+   "tax_rate": 8,
+   "description": "たれ・からしを付けずに、大豆と納豆菌だけで仕上げたシンプルな納豆。塩分を自分で調整したい方や、料理に使う方にぴったりです。お好みのしょうゆや塩、薬味で味付けして、大豆本来の風味を楽しめます。",
+   "image_brief": "A plain stack of four small white natto cups with clear lids and no sachets, wrapped in a blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たれなし納豆 小粒 40g×4",
+     "brand": "Cymbal",
+     "size": "40g×4",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たれなし納豆 ひきわり 40g×4",
+     "brand": "Cymbal",
+     "size": "40g×4",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 たれ・からしなし納豆 大粒 50g×2",
+     "brand": "Cymbal セレクト",
+     "size": "50g×2",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 料理用 納豆 たれなし 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 たれなし納豆 45g×3",
+     "brand": "Cymbal オーガニック",
+     "size": "45g×3",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tare_nashi_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_frozen_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "冷凍納豆・業務用納豆"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "納豆ご飯",
+    "納豆巻き",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "ひとつずつ小分けにして冷凍した、買い置きに便利な納豆。食べる前日に冷蔵庫に移せば解凍でき、いつでもおいしく楽しめます。大容量の業務用タイプは納豆巻きや家族の多いご家庭にもおすすめです。",
+   "image_brief": "A large frozen bag containing multiple small natto cups, frosty clear film and a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 小粒納豆 たれ付 40g×10",
+     "brand": "Cymbal",
+     "size": "40g×10",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 ひきわり納豆 たれ付 30g×12",
+     "brand": "Cymbal",
+     "size": "30g×12",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 ひきわり納豆 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 冷凍小粒納豆 45g×8",
+     "brand": "Cymbal セレクト",
+     "size": "45g×8",
+     "price_tax_excluded": 448,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_frozen_natto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_namaimo_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "生芋こんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "煮物",
+    "おでん",
+    "炒め物",
+    "田楽"
+   ],
+   "tax_rate": 8,
+   "description": "こんにゃく芋をすりおろして作る生芋こんにゃく。粉から作るものに比べて独特の弾力と風味があり、味しみもよいのが特長です。おでんや筑前煮、ピリ辛炒めなど、こんにゃくが主役の料理にどうぞ。",
+   "image_brief": "A rectangular gray speckled konjac block in a clear water-filled pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "雪室こんにゃく本舗 生芋こんにゃく 板 300g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "群馬県産こんにゃく芋使用"
+    },
+    {
+     "title": "雪室こんにゃく本舗 生芋こんにゃく 白 300g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "群馬県産こんにゃく芋使用"
+    },
+    {
+     "title": "Cymbal セレクト 群馬県産 生芋 手づくりこんにゃく 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 228,
+     "origin": "群馬県製造"
+    },
+    {
+     "title": "Cymbal 生芋こんにゃく ミニ 150g×2",
+     "brand": "Cymbal",
+     "size": "150g×2",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 生芋こんにゃく 青のり入り 250g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "250g",
+     "price_tax_excluded": 178,
+     "origin": "群馬県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_namaimo_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_ito_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "糸こんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "すき焼き",
+    "肉じゃが",
+    "炒り煮",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "しらたきよりやや太めで、しっかりした歯ごたえのある糸こんにゃく。煮崩れしにくく、すき焼きや肉じゃが、たらこ炒りなどにぴったりです。あく抜き済みタイプなら下ゆでの手間も省けます。",
+   "image_brief": "A clear pouch of coiled dark gray konjac noodles in water with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 糸こんにゃく 黒 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糸こんにゃく あく抜き不要 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 生芋 糸こんにゃく 250g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "250g",
+     "price_tax_excluded": 128,
+     "origin": "群馬県製造"
+    },
+    {
+     "title": "Cymbal ベーシック 糸こんにゃく 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糸こんにゃく 白 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_ito_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_musubi_shirataki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "結びしらたき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "すき焼き",
+    "鍋",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "しらたきを食べやすく結んだ、おでんや鍋に便利な結びしらたき。見た目にもかわいらしく、取り分けやすいのも魅力です。だしをよく含み、ぷりっとした食感がおでんや筑前煮のアクセントになります。",
+   "image_brief": "Neat little knotted bundles of translucent konjac noodles in a clear water-filled tray with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 結びしらたき 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 結びしらたき 20個入",
+     "brand": "Cymbal",
+     "size": "20個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 生芋 結びしらたき 12個入",
+     "brand": "雪室こんにゃく本舗",
+     "size": "12個入",
+     "price_tax_excluded": 178,
+     "origin": "群馬県製造"
+    },
+    {
+     "title": "Cymbal ベーシック おでん用 結びこんにゃく 8個入",
+     "brand": "Cymbal ベーシック",
+     "size": "8個入",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 結びしらたき あく抜き不要 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_musubi_shirataki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_ajitsuke_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "味付けこんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おつまみ",
+    "おでん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆベースのだしでじっくり煮込んだ、味付け済みのこんにゃく。山形の玉こんにゃく風の甘辛味や、ピリ辛煮など、温めるだけで食べられます。からしをつけておつまみに、お弁当のすき間おかずにも。",
+   "image_brief": "Glossy dark brown simmered konjac balls on skewers in a clear tray with a little mustard packet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付け玉こんにゃく 醤油煮 串付 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 248,
+     "origin": "山形県製造"
+    },
+    {
+     "title": "Cymbal 味付け玉こんにゃく 15個入",
+     "brand": "Cymbal",
+     "size": "15個入",
+     "price_tax_excluded": 298,
+     "origin": "山形県製造"
+    },
+    {
+     "title": "Cymbal セレクト 玉こんにゃく 昆布だし煮 12個入",
+     "brand": "Cymbal セレクト",
+     "size": "12個入",
+     "price_tax_excluded": 348,
+     "origin": "山形県製造"
+    },
+    {
+     "title": "Cymbal こんにゃく ピリ辛煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 味付けこんにゃく 甘辛 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_ajitsuke_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_konnyaku_dengaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "こんにゃく田楽"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "田楽",
+    "味噌おでん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "串に刺した三角こんにゃくに、甘い練り味噌を添えたこんにゃく田楽。温めて味噌をたっぷり塗るだけで、縁日やお祭りのような懐かしい味わい。寒い日のおやつや、おつまみにもぴったりです。",
+   "image_brief": "Triangular gray konjac pieces on wooden skewers with a separate sachet of brown sweet miso in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 串こんにゃく 田楽味噌付 5本入",
+     "brand": "Cymbal",
+     "size": "5本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 味噌おでん こんにゃく 甘味噌付 6本入",
+     "brand": "雪室こんにゃく本舗",
+     "size": "6本入",
+     "price_tax_excluded": 298,
+     "origin": "群馬県製造"
+    },
+    {
+     "title": "Cymbal セレクト 生芋 こんにゃく田楽 柚子味噌付 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 328,
+     "origin": "群馬県製造"
+    },
+    {
+     "title": "Cymbal こんにゃく田楽 赤味噌付 8本入",
+     "brand": "Cymbal",
+     "size": "8本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_konnyaku_dengaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_cut_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "カットこんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "筑前煮",
+    "豚汁",
+    "けんちん汁",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "下ゆで済みで角切りや短冊切りにしてあるので、袋から出してすぐ使えるカットこんにゃく。筑前煮や豚汁、けんちん汁の具材に便利です。包丁で切る手間がなく、忙しい日の料理を手助けします。",
+   "image_brief": "A clear pouch of small gray konjac cubes and strips in water with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 下ゆで済み 角切りこんにゃく 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚汁用 短冊こんにゃく 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 下ゆで済み 突きこんにゃく 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カットこんにゃく 徳用 350g",
+     "brand": "Cymbal ベーシック",
+     "size": "350g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_cut_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_aka_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "赤こんにゃく・ご当地こんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "煮物",
+    "炒め物",
+    "刺身",
+    "ご当地料理"
+   ],
+   "tax_rate": 8,
+   "description": "滋賀・近江八幡名物の鮮やかな赤こんにゃくなど、各地のご当地こんにゃくを集めました。赤こんにゃくは煮物や炒め物に入れると食卓がぱっと華やかに。味や食感はいつものこんにゃくと同じように楽しめます。",
+   "image_brief": "A vivid brick-red rectangular konjac block in a clear water pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 近江風 赤こんにゃく 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 158,
+     "origin": "滋賀県製造"
+    },
+    {
+     "title": "Cymbal 赤こんにゃく ちぎり 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "滋賀県製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 柚子こんにゃく 150g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 唐辛子入り こんにゃく 200g",
+     "brand": "雪室こんにゃく本舗",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 近江 赤こんにゃく 三角 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "滋賀県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_aka_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_konnyaku_men",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "こんにゃく麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "焼きそば",
+    "パスタ",
+    "冷やし麺"
+   ],
+   "tax_rate": 8,
+   "description": "こんにゃくを細長い麺状に加工した、低カロリーでヘルシーなこんにゃく麺。においを抑え、つるつるとした食感に仕上げました。ラーメンや焼きそば、パスタの麺の代わりに、量を気にせず楽しめます。",
+   "image_brief": "A clear pouch of light-colored konjac noodles neatly folded in water with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal こんにゃく麺 丸麺 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal こんにゃく麺 平麺 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 においひかえめ こんにゃく細麺 200g×2",
+     "brand": "雪室こんにゃく本舗",
+     "size": "200g×2",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック こんにゃく麺 3食パック 150g×3",
+     "brand": "Cymbal ベーシック",
+     "size": "150g×3",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 海藻入り こんにゃく麺 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_konnyaku_men_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tsubu_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "粒こんにゃく"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ご飯に混ぜて",
+    "炊き込みご飯",
+    "リゾット"
+   ],
+   "tax_rate": 8,
+   "description": "お米と一緒に炊くだけで、ご飯のかさを増やせる米粒状のこんにゃく。混ぜて炊いてもご飯の食感や風味を損ないにくいよう仕上げました。常温で保存できる個包装タイプで、毎日のご飯づくりに手軽に取り入れられます。",
+   "image_brief": "A box of small individually sealed pouches of rice-grain-shaped translucent konjac, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 粒こんにゃく 60g×5袋",
+     "brand": "Cymbal",
+     "size": "60g×5袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 粒こんにゃく 60g×10袋",
+     "brand": "Cymbal",
+     "size": "60g×10袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "雪室こんにゃく本舗 乾燥粒こんにゃく 25g×10袋",
+     "brand": "雪室こんにゃく本舗",
+     "size": "25g×10袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 粒こんにゃく 徳用 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tsubu_konnyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tokoroten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "ところてん・寒天",
+    "ところてん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ところてん",
+    "冷菜",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "天草を煮出して固めた、つるりとした喉ごしのところてん。酢じょうゆや三杯酢をかけて、からしや青のりを添えればさっぱりとした一品に。カロリー控えめで、おやつや食卓の箸休めにぴったりです。",
+   "image_brief": "Long translucent jelly noodles in a clear tray with a small vinegar-soy sauce sachet and mustard packet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ところてん 酢醤油たれ付 150g×3",
+     "brand": "Cymbal",
+     "size": "150g×3",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ところてん 三杯酢付 150g×2",
+     "brand": "Cymbal",
+     "size": "150g×2",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 伊豆産天草使用 ところてん 200g×2 からし付",
+     "brand": "Cymbal セレクト",
+     "size": "200g×2",
+     "price_tax_excluded": 298,
+     "origin": "静岡県製造"
+    },
+    {
+     "title": "Cymbal 天突き付き 生ところてん 棒 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ところてん たれなし 徳用 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tokoroten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kuromitsu_tokoroten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "ところてん・寒天",
+    "黒蜜ところてん・くずきり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ",
+    "和スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "関西で親しまれる、黒蜜をかけて甘く食べるところてんと、つるんとした生くずきり。沖縄産黒糖の黒蜜がコク深く、冷やしてデザートとして楽しめます。きな粉をかければ一層風味豊かな和スイーツに。",
+   "image_brief": "Clear jelly noodles in a clear cup with a dark brown syrup sachet, beside soft translucent kudzu noodles, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒蜜ところてん 150g×2",
+     "brand": "Cymbal",
+     "size": "150g×2",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄産黒糖使用 黒蜜ところてん 150g×3",
+     "brand": "Cymbal セレクト",
+     "size": "150g×3",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生くずきり 黒蜜付 120g×2",
+     "brand": "Cymbal",
+     "size": "120g×2",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 吉野本葛使用 生くずきり 黒蜜付 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 328,
+     "origin": "奈良県製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kuromitsu_tokoroten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_tofu_dengaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆腐田楽"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "田楽",
+    "おつまみ",
+    "夕食の一品"
+   ],
+   "tax_rate": 8,
+   "description": "水切りした豆腐を香ばしく焼き、甘い練り味噌を塗った豆腐田楽。木の芽味噌や柚子味噌など、香りのよい味噌を揃えました。トースターで軽く温めるだけで、料亭のような一品が手軽に食卓に並びます。",
+   "image_brief": "Rectangular grilled tofu slices on twin bamboo skewers topped with glossy brown and green miso in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆腐田楽 赤味噌 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆腐田楽 木の芽味噌 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "白峰とうふ工房 焼き豆腐田楽 柚子味噌 3本入",
+     "brand": "白峰とうふ工房",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 豆腐田楽 三色味噌 6本入",
+     "brand": "Cymbal セレクト",
+     "size": "6本入",
+     "price_tax_excluded": 498,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_tofu_dengaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_mizukiri_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "水切り豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豆腐ステーキ",
+    "炒め物",
+    "豆腐ハンバーグ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "あらかじめしっかり水切りしてあるので、面倒な下ごしらえなしで使える水切り豆腐。崩れにくく、豆腐ステーキや炒め物、手作りハンバーグに最適です。たんぱく質を取りたい方の作り置きにも便利です。",
+   "image_brief": "A vacuum-sealed dense rectangular block of pressed white tofu in tight clear film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水切り木綿豆腐 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 水切り豆腐 ステーキ用 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 水切り豆腐 高たんぱく 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 水切り豆腐 徳用 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 水切り豆腐 キューブ 150g×2",
+     "brand": "Cymbal",
+     "size": "150g×2",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_mizukiri_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_yuba_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "湯葉豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "前菜",
+    "湯豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "刻んだ湯葉を濃い豆乳で寄せた、とろけるような口どけの湯葉豆腐。湯葉の重なりが生む独特の食感と、濃厚な大豆のコクが楽しめます。わさびじょうゆやだしをかけて、ちょっと特別な冷奴にどうぞ。",
+   "image_brief": "A square clear cup of creamy pale yellow tofu with visible layered yuba, sealed with clear film and a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京ゆば庵ことね 湯葉豆腐 2個入 たれ付",
+     "brand": "京ゆば庵ことね",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "京ゆば庵ことね 湯葉豆腐 大 300g",
+     "brand": "京ゆば庵ことね",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産大豆 湯葉寄せ豆腐 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 湯葉入り絹豆腐 100g×3",
+     "brand": "Cymbal",
+     "size": "100g×3",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_yuba_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_tofu_natto_kurumi_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "くるみ豆腐・木の実豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "くるみ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "前菜",
+    "精進料理",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "すりつぶしたくるみを葛で練り上げた、まろやかで香ばしいくるみ豆腐。もっちりとなめらかな舌ざわりで、甘めのたれがよく合います。精進料理や会席の前菜にも使われる、上品な味わいの一品です。",
+   "image_brief": "Small square cups of beige walnut tofu with a tiny sauce sachet on top, clear lids and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal くるみ豆腐 たれ付 80g×2",
+     "brand": "Cymbal",
+     "size": "80g×2",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産くるみ使用 くるみ豆腐 100g×2",
+     "brand": "Cymbal セレクト",
+     "size": "100g×2",
+     "price_tax_excluded": 348,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "白峰とうふ工房 くるみ豆腐 黒蜜たれ付 3個入",
+     "brand": "白峰とうふ工房",
+     "size": "3個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 木の実豆腐 くるみ 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_tofu_natto_kurumi_tofu_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

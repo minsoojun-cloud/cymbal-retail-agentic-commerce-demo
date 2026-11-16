@@ -1,0 +1,3686 @@
+{
+ "category_key": "w_household_paper",
+ "items": [
+  {
+   "base_id": "w_household_paper_toilet_long_roll",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "トイレットペーパー（長巻）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレのストック",
+    "省スペース収納",
+    "まとめ買い"
+   ],
+   "tax_rate": 10,
+   "description": "1ロールの長さを2倍〜4倍にした長巻タイプのトイレットペーパーです。交換の手間が減り、収納スペースも省けるので、ストック場所が限られるご家庭や家族の多いご家庭にぴったり。シングル・ダブルから選べます。",
+   "image_brief": "A tall plastic-wrapped stack of extra-thick white toilet paper rolls with a plain blank pale-blue band label, studio packshot on white.",
+   "labels": [
+    "長巻"
+   ],
+   "attributes": {
+    "material": "再生パルプ・バージンパルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home トイレットペーパー 2倍巻 シングル 100m×6ロール",
+     "brand": "Cymbal Home",
+     "size": "100m×6ロール",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレットペーパー 2倍巻 ダブル 50m×6ロール",
+     "brand": "Cymbal Home",
+     "size": "50m×6ロール",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレットペーパー 3倍巻 シングル 150m×4ロール",
+     "brand": "Cymbal Home",
+     "size": "150m×4ロール",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home トイレットペーパー 3倍巻 ダブル 75m×4ロール",
+     "brand": "Cymbal Home",
+     "size": "75m×4ロール",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト トイレットペーパー 4倍巻 ダブル 100m×6ロール",
+     "brand": "Cymbal セレクト",
+     "size": "100m×6ロール",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トイレットペーパー 2倍巻 シングル 110m×12ロール",
+     "brand": "Cymbal ベーシック",
+     "size": "110m×12ロール",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_toilet_long_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_toilet_scented",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "トイレットペーパー（香り付き）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレのストック",
+    "来客前",
+    "香りでリフレッシュ"
+   ],
+   "tax_rate": 10,
+   "description": "ほのかに香るトイレットペーパーです。巻き芯部分に香りを付けているので、紙を使うたびにやさしく香り、トイレ空間をさわやかに演出します。フローラルやせっけん、ラベンダーなど好みの香りを選べます。",
+   "image_brief": "A plastic-wrapped pack of twelve white toilet paper rolls with a soft pink floral pattern band and plain blank label area, studio packshot.",
+   "labels": [
+    "香り付き"
+   ],
+   "attributes": {
+    "material": "パルプ",
+    "color": "白・プリント柄"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 香り付きトイレットペーパー フローラル ダブル 12ロール",
+     "brand": "Cymbal Home",
+     "size": "12ロール",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 香り付きトイレットペーパー せっけん ダブル 12ロール",
+     "brand": "Cymbal Home",
+     "size": "12ロール",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 香り付きトイレットペーパー ラベンダー シングル 12ロール",
+     "brand": "Cymbal Home",
+     "size": "12ロール",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 花柄プリント トイレットペーパー ローズの香り ダブル 12ロール",
+     "brand": "やわらぎ製紙",
+     "size": "12ロール",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 香り付きトイレットペーパー ホワイトムスク 3枚重ね 8ロール",
+     "brand": "Cymbal セレクト",
+     "size": "8ロール",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_toilet_scented_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_toilet_coreless",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "トイレットペーパー（芯なし）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレのストック",
+    "オフィス・店舗",
+    "ゴミを減らしたい方に"
+   ],
+   "tax_rate": 10,
+   "description": "芯がないぶん紙をしっかり巻き込んだ芯なしトイレットペーパーです。最後まで無駄なく使え、芯ゴミも出ません。専用ホルダー不要で一般的なホルダーにそのまま取り付けられます。業務用にも人気の定番です。",
+   "image_brief": "A clear-wrapped bundle of dense coreless white toilet paper rolls showing solid centers, plain blank label, studio packshot.",
+   "labels": [
+    "芯なし",
+    "再生紙"
+   ],
+   "attributes": {
+    "material": "再生パルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 芯なしトイレットペーパー シングル 130m×6ロール",
+     "brand": "Cymbal ベーシック",
+     "size": "130m×6ロール",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 芯なしトイレットペーパー シングル 170m×12ロール",
+     "brand": "Cymbal ベーシック",
+     "size": "170m×12ロール",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 芯なしトイレットペーパー ダブル 65m×6ロール",
+     "brand": "Cymbal Home",
+     "size": "65m×6ロール",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 業務用 芯なしトイレットペーパー 個包装 シングル 170m×48ロール",
+     "brand": "やわらぎ製紙",
+     "size": "170m×48ロール",
+     "price_tax_excluded": 4280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 再生紙100% 芯なしトイレットペーパー シングル 150m×8ロール",
+     "brand": "Cymbal Home",
+     "size": "150m×8ロール",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_toilet_coreless_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_toilet_premium_soft",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "トイレットペーパー（プレミアム）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレのストック",
+    "来客用",
+    "肌にやさしい"
+   ],
+   "tax_rate": 10,
+   "description": "3枚重ねでふんわり厚みのあるプレミアムトイレットペーパーです。肌ざわりのやさしいバージンパルプを使用し、しっとりなめらかな使い心地。肌がデリケートな方や、ちょっと贅沢したい方におすすめです。",
+   "image_brief": "A pack of plush cream-white quilted toilet paper rolls in a matte ivory wrapper with gold accents and a blank label, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "attributes": {
+    "material": "バージンパルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト ふんわり3枚重ね トイレットペーパー 無香料 8ロール",
+     "brand": "Cymbal セレクト",
+     "size": "8ロール",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ふんわり3枚重ね トイレットペーパー 無香料 12ロール",
+     "brand": "Cymbal セレクト",
+     "size": "12ロール",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト しっとりローション トイレットペーパー ダブル 12ロール",
+     "brand": "Cymbal セレクト",
+     "size": "12ロール",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 エンボス加工 4枚重ね トイレットペーパー 6ロール",
+     "brand": "やわらぎ製紙",
+     "size": "6ロール",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ふんわり3枚重ね トイレットペーパー 2倍巻 6ロール",
+     "brand": "Cymbal セレクト",
+     "size": "6ロール",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_toilet_premium_soft_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_tissue_moisture",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "ティッシュペーパー（保湿）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "かぜの季節",
+    "花粉対策",
+    "乾燥する冬",
+    "メイク落とし"
+   ],
+   "tax_rate": 10,
+   "description": "保湿成分を配合したしっとりやわらかなティッシュです。かぜや花粉の季節、何度も鼻をかんでも肌あたりがやさしく、乾燥しがちな冬にも心強い存在。持ち運び用のポケットタイプもご用意しました。",
+   "image_brief": "A soft white tissue box with a pale lavender gradient and plain blank panel, one tissue sheet pulled up from the top, studio packshot.",
+   "labels": [
+    "保湿"
+   ],
+   "attributes": {
+    "material": "パルプ・保湿成分",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 保湿ティッシュ しっとりやわらか 200枚(100組)×3箱",
+     "brand": "Cymbal セレクト",
+     "size": "200枚(100組)×3箱",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 保湿ティッシュ しっとりやわらか 200枚(100組)×5箱",
+     "brand": "Cymbal セレクト",
+     "size": "200枚(100組)×5箱",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 保湿ティッシュ ボックス 300枚(150組)×3箱",
+     "brand": "Cymbal Home",
+     "size": "300枚(150組)×3箱",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 保湿ティッシュ ポケット 14枚(7組)×8個",
+     "brand": "Cymbal セレクト",
+     "size": "14枚(7組)×8個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 保湿ティッシュ 大判 ローズの香り 220枚(110組)×3箱",
+     "brand": "やわらぎ製紙",
+     "size": "220枚(110組)×3箱",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_tissue_moisture_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_tissue_pocket",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "ポケットティッシュ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "外出時",
+    "通勤・通学",
+    "防災バッグ"
+   ],
+   "tax_rate": 10,
+   "description": "バッグやポケットに入れやすいポケットティッシュです。外出先や学校、職場でさっと使えて、まとめ買いで家族みんなに配れる大容量パック。柄入りや厚手タイプもあります。",
+   "image_brief": "A bundle of small rectangular pocket tissue packs in a clear outer bag, each pack plain white film with blank fronts, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ポケットティッシュ 16枚(8組)×16個",
+     "brand": "Cymbal ベーシック",
+     "size": "16枚(8組)×16個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポケットティッシュ 16枚(8組)×30個",
+     "brand": "Cymbal ベーシック",
+     "size": "16枚(8組)×30個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ポケットティッシュ 厚手 3枚重ね 12枚(4組)×10個",
+     "brand": "Cymbal Home",
+     "size": "12枚(4組)×10個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ポケットティッシュ 柄入り パステル 20枚(10組)×12個",
+     "brand": "Cymbal Home",
+     "size": "20枚(10組)×12個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 ポケットティッシュ 水に流せる 16枚(8組)×10個",
+     "brand": "やわらぎ製紙",
+     "size": "16枚(8組)×10個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_tissue_pocket_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_tissue_softpack",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "ティッシュペーパー（ソフトパック）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "車内",
+    "洗面所",
+    "省スペース収納",
+    "壁掛け"
+   ],
+   "tax_rate": 10,
+   "description": "箱を使わずフィルム包装にしたソフトパックティッシュです。ゴミがかさばらず、つぶして収納できるので省スペース。壁掛けや車内、ホルダーに入れて使えば、使い勝手もボックスタイプと変わりません。",
+   "image_brief": "A stack of soft plastic film-wrapped tissue packs with oval pull openings in pale green, plain blank surfaces, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ソフトパックティッシュ 300枚(150組)×5個",
+     "brand": "Cymbal Home",
+     "size": "300枚(150組)×5個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ソフトパックティッシュ 320枚(160組)×10個",
+     "brand": "Cymbal Home",
+     "size": "320枚(160組)×10個",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ソフトパックティッシュ コンパクト 280枚(140組)×5個",
+     "brand": "Cymbal ベーシック",
+     "size": "280枚(140組)×5個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ソフトパックティッシュ 保湿 200枚(100組)×4個",
+     "brand": "Cymbal セレクト",
+     "size": "200枚(100組)×4個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 ソフトパックティッシュ 大容量 400枚(200組)×5個",
+     "brand": "やわらぎ製紙",
+     "size": "400枚(200組)×5個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_tissue_softpack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_hand_paper_towel",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙製品",
+    "ペーパータオル（ハンドタオル）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手拭き",
+    "洗面所",
+    "オフィス・店舗",
+    "キッチン"
+   ],
+   "tax_rate": 10,
+   "description": "洗面所やキッチンで手を拭くのに便利なペーパータオルです。吸水性が高く1枚でしっかり拭けて、使い捨てなので衛生的。専用ホルダーにも合う中判サイズで、オフィスや店舗の備品にも向いています。",
+   "image_brief": "A clear-wrapped bundle of folded white paper hand towels in a neat rectangular block with a plain blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ペーパータオル 中判 200枚×5パック",
+     "brand": "Cymbal ベーシック",
+     "size": "200枚×5パック",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ペーパータオル 中判 200枚×20パック",
+     "brand": "Cymbal ベーシック",
+     "size": "200枚×20パック",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ペーパータオル 小判 ソフト 200枚×3パック",
+     "brand": "Cymbal Home",
+     "size": "200枚×3パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ペーパータオル 再生紙 200枚×10パック",
+     "brand": "Cymbal Home",
+     "size": "200枚×10パック",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やわらぎ製紙 ペーパータオル 厚手 2枚重ね 150枚×5パック",
+     "brand": "やわらぎ製紙",
+     "size": "150枚×5パック",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_hand_paper_towel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_paper_napkin",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "紙ナプキン"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ホームパーティー",
+    "クリスマス",
+    "お弁当",
+    "おもてなし"
+   ],
+   "tax_rate": 10,
+   "description": "食卓やパーティーで使いやすい紙ナプキンです。口元やグラスの水滴を拭くのにちょうどよい厚みで、カラーやクリスマス柄も揃えました。お弁当の包みやお菓子の敷き紙としても活躍します。",
+   "image_brief": "A neat stack of square folded paper napkins in white, deep red and green tied with a blank paper band, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 紙ナプキン 2枚重ね 白 24cm×100枚",
+     "brand": "Cymbal Home",
+     "size": "24cm×100枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙ナプキン 2枚重ね カラー アソート 33cm×50枚",
+     "brand": "Cymbal Home",
+     "size": "33cm×50枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙ナプキン クリスマス柄 33cm×20枚",
+     "brand": "Cymbal Home",
+     "size": "33cm×20枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 紙ナプキン 1枚重ね 業務用 24cm×500枚",
+     "brand": "Cymbal ベーシック",
+     "size": "24cm×500枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ディナーナプキン 3枚重ね エンボス 40cm×20枚",
+     "brand": "Cymbal セレクト",
+     "size": "40cm×20枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_paper_napkin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_shoji_paper",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "住まいの消耗品",
+    "障子紙"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "年末の大掃除",
+    "障子の張り替え",
+    "新年の準備"
+   ],
+   "tax_rate": 10,
+   "description": "年末の大掃除に合わせて張り替えたい障子紙です。アイロンで貼れるタイプや、破れにくいプラスチック入りの強化タイプなど用途別に選べます。光をやわらかく通し、お部屋を明るく清々しい印象にします。",
+   "image_brief": "A rolled sheet of white washi shoji paper with subtle fiber texture wrapped in clear film with a plain blank paper tag, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ・和紙"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 障子紙 のり貼り 無地 94cm×7.2m",
+     "brand": "Cymbal Home",
+     "size": "94cm×7.2m",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 障子紙 アイロン貼り 94cm×3.6m",
+     "brand": "Cymbal Home",
+     "size": "94cm×3.6m",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 破れにくい 強化障子紙 プラスチック入り 94cm×3.6m",
+     "brand": "Cymbal セレクト",
+     "size": "94cm×3.6m",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 障子紙 雪柄 のり貼り 94cm×7.2m",
+     "brand": "Cymbal Home",
+     "size": "94cm×7.2m",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 障子のり チューブ 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_shoji_paper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_nonwoven_kitchen_towel",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "キッチンタオル（不織布）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食器拭き",
+    "野菜の水切り",
+    "台ふき",
+    "油はね掃除"
+   ],
+   "tax_rate": 10,
+   "description": "洗って繰り返し使える不織布タイプのキッチンタオルです。破れにくく丈夫なので、食器拭きや台ふき、野菜の水切りまで幅広く活躍。ロールから切り取って使え、使い終わったら掃除用に回せます。",
+   "image_brief": "A roll of thick quilted white nonwoven kitchen towel with perforations, wrapped in clear film with blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "レーヨン・ポリエステル不織布",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 洗って使える 不織布キッチンタオル 60カット×1ロール",
+     "brand": "Cymbal Home",
+     "size": "60カット×1ロール",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 洗って使える 不織布キッチンタオル 60カット×2ロール",
+     "brand": "Cymbal Home",
+     "size": "60カット×2ロール",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 不織布キッチンタオル 大判 40カット×2ロール",
+     "brand": "Cymbal セレクト",
+     "size": "40カット×2ロール",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 不織布キッチンタオル 50カット×1ロール",
+     "brand": "Cymbal ベーシック",
+     "size": "50カット×1ロール",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 不織布キッチンタオル ボックス 100枚入",
+     "brand": "Cymbal Home",
+     "size": "100枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_nonwoven_kitchen_towel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_kitchen_paper_box",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "キッチンペーパー（ボックス）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "揚げ物の油切り",
+    "下ごしらえ",
+    "ドリップ取り",
+    "電子レンジ調理"
+   ],
+   "tax_rate": 10,
+   "description": "ティッシュのように1枚ずつ取り出せるボックスタイプのキッチンペーパーです。片手でさっと取れて、揚げ物の油切りや食材の下ごしらえに便利。置き場所を選ばないコンパクトな箱も魅力です。",
+   "image_brief": "A rectangular tissue-style box of folded white kitchen paper with one sheet popped up, plain blank sides, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ボックスキッチンペーパー 200枚(100組)×3箱",
+     "brand": "Cymbal Home",
+     "size": "200枚(100組)×3箱",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ボックスキッチンペーパー 厚手 150枚(75組)×3箱",
+     "brand": "Cymbal Home",
+     "size": "150枚(75組)×3箱",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ボックスキッチンペーパー 160枚(80組)×5箱",
+     "brand": "Cymbal ベーシック",
+     "size": "160枚(80組)×5箱",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ボックスキッチンペーパー 大判 エンボス 120枚(60組)×3箱",
+     "brand": "Cymbal セレクト",
+     "size": "120枚(60組)×3箱",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ソフトパック キッチンペーパー 200枚(100組)×4個",
+     "brand": "Cymbal Home",
+     "size": "200枚(100組)×4個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_kitchen_paper_box_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_tempura_shikishi",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "天ぷら敷紙・懐紙"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "天ぷら",
+    "とんかつ",
+    "おせち",
+    "和菓子",
+    "おもてなし"
+   ],
+   "tax_rate": 10,
+   "description": "揚げ物の盛り付けに使う天ぷら敷紙です。余分な油をほどよく吸い取り、器を汚さず料理を上品に見せてくれます。和菓子の取り分けに便利な懐紙や、おせちに映える紅白柄もあり、年末年始のおもてなしにも。",
+   "image_brief": "A fanned stack of white folded tempura paper sheets with one sheet showing a subtle red-white pattern, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 天ぷら敷紙 白 100枚入",
+     "brand": "Cymbal Home",
+     "size": "100枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 天ぷら敷紙 紅白柄 50枚入",
+     "brand": "Cymbal Home",
+     "size": "50枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 懐紙 無地 30枚入",
+     "brand": "Cymbal セレクト",
+     "size": "30枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 天ぷら敷紙 500枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "500枚入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 懐紙 季節柄 冬 30枚入",
+     "brand": "Cymbal セレクト",
+     "size": "30枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_tempura_shikishi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_long_wrap_pro",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "ラップ（業務用・ロング）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "作り置き",
+    "下味冷凍",
+    "大皿料理",
+    "お弁当"
+   ],
+   "tax_rate": 10,
+   "description": "たっぷり使えるロングタイプのラップです。作り置きや下味冷凍、お弁当づくりなど使用頻度の高いご家庭におすすめ。大皿にも対応する幅広サイズや、詰め替えて使えるロールもご用意しています。",
+   "image_brief": "A long white rectangular cardboard box of plastic cling wrap with a metal cutting edge, a clear film edge visible, plain blank label, studio packshot.",
+   "labels": [
+    "電子レンジ対応"
+   ],
+   "attributes": {
+    "material": "ポリエチレン ほか"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ロングラップ 22cm×100m",
+     "brand": "Cymbal Home",
+     "size": "22cm×100m",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ロングラップ 30cm×100m",
+     "brand": "Cymbal Home",
+     "size": "30cm×100m",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用ラップ 30cm×100m×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "30cm×100m×2本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用ラップ 幅広 45cm×100m",
+     "brand": "Cymbal ベーシック",
+     "size": "45cm×100m",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ロングラップ 詰替用ロール 30cm×100m",
+     "brand": "Cymbal Home",
+     "size": "30cm×100m",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ポリ塩化ビニリデン 高密着ラップ 30cm×50m",
+     "brand": "Cymbal セレクト",
+     "size": "30cm×50m",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_long_wrap_pro_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_foil_nonstick",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "アルミホイル（くっつかない）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鮭のホイル焼き",
+    "グラタン",
+    "焼き魚",
+    "トースター料理"
+   ],
+   "tax_rate": 10,
+   "description": "表面に樹脂加工をして食材がくっつきにくいアルミホイルです。魚焼きグリルやオーブン、トースターでの焼き物もはがれやすく、後片付けがぐんと楽に。チーズ焼きやホイル焼きにも活躍します。",
+   "image_brief": "A slim white box of aluminum foil with a slightly matte silver sheet partially unrolled, plain blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルミニウム・シリコーン樹脂",
+    "color": "シルバー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home くっつかないアルミホイル 25cm×5m",
+     "brand": "Cymbal Home",
+     "size": "25cm×5m",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home くっつかないアルミホイル 25cm×12m",
+     "brand": "Cymbal Home",
+     "size": "25cm×12m",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home くっつかないアルミホイル ミニ 15cm×8m",
+     "brand": "Cymbal Home",
+     "size": "15cm×8m",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト くっつかないアルミホイル 厚手 30cm×7m",
+     "brand": "Cymbal セレクト",
+     "size": "30cm×7m",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック くっつかないアルミホイル 25cm×5m×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "25cm×5m×2本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_foil_nonstick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_foil_heavy",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "アルミホイル（厚手・大判）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "焼き芋",
+    "ローストビーフ",
+    "バーベキュー",
+    "クリスマスチキン"
+   ],
+   "tax_rate": 10,
+   "description": "通常品より厚みがあり破れにくい厚手アルミホイルです。バーベキューやダッチオーブン、ローストビーフや焼き芋など高温調理にも安心。大判サイズで鍋や天板をしっかり覆えます。",
+   "image_brief": "A long sturdy box of thick wide aluminum foil with a bright silver sheet rolled out, plain blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルミニウム",
+    "color": "シルバー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 厚手アルミホイル 30cm×10m",
+     "brand": "Cymbal Home",
+     "size": "30cm×10m",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 厚手アルミホイル 大判 45cm×7m",
+     "brand": "Cymbal Home",
+     "size": "45cm×7m",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 厚手アルミホイル 30cm×50m",
+     "brand": "Cymbal ベーシック",
+     "size": "30cm×50m",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 極厚アルミホイル アウトドア用 45cm×5m",
+     "brand": "Cymbal セレクト",
+     "size": "45cm×5m",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 アルミホイル 25cm×50m",
+     "brand": "Cymbal ベーシック",
+     "size": "25cm×50m",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_foil_heavy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_aluminum_nabe",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "アルミ鍋・アルミ容器"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋焼きうどん",
+    "ひとり鍋",
+    "キャンプ",
+    "グラタン"
+   ],
+   "tax_rate": 10,
+   "description": "そのまま火にかけられる使い捨てのアルミ鍋です。鍋焼きうどんやひとり鍋、キャンプにぴったりで、洗い物を減らせます。グラタンや焼き菓子に使えるアルミ容器も揃え、寒い季節の食卓をお手伝いします。",
+   "image_brief": "A stack of round disposable aluminum pots with folding handles and matching foil lids, shiny silver, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルミニウム",
+    "color": "シルバー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home アルミ鍋 取っ手付き 18cm 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home アルミ鍋 取っ手付き 21cm 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック アルミ鍋 ふた付き 18cm 5組入",
+     "brand": "Cymbal ベーシック",
+     "size": "5組入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home アルミ容器 グラタン 角型 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home アルミ容器 パウンド型 5枚入",
+     "brand": "Cymbal Home",
+     "size": "5枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アルミ すき焼き鍋 取っ手付き 24cm 2枚入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_aluminum_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_frypan_foil_sheet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "フライパン用ホイルシート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "餃子",
+    "ハンバーグ",
+    "目玉焼き"
+   ],
+   "tax_rate": 10,
+   "description": "フライパンに敷くだけで油なしで焼ける、ホイルシートです。焼き魚や餃子、ハンバーグもこびりつかず、フライパンを洗う手間が省けます。グリルやトースターにも使える便利なシートです。",
+   "image_brief": "A white box of round-edged foil sheets with an embossed dimpled silver surface, one sheet laid flat beside it, blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルミニウム・シリコーン樹脂"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home フライパン用ホイルシート 25cm×3m",
+     "brand": "Cymbal Home",
+     "size": "25cm×3m",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フライパン用ホイルシート 30cm×3m",
+     "brand": "Cymbal Home",
+     "size": "30cm×3m",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home フライパン用ホイルシート カット済 丸型 26cm×10枚",
+     "brand": "Cymbal Home",
+     "size": "26cm×10枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フライパン用 くり返し使える フッ素シート 30cm×1枚",
+     "brand": "Cymbal セレクト",
+     "size": "30cm×1枚",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック グリル用 ホイルシート 25cm×5m",
+     "brand": "Cymbal ベーシック",
+     "size": "25cm×5m",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_frypan_foil_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_paper_baking_mold",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "紙製焼き型・製菓用品"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    2
+   ],
+   "dishes": [
+    "クリスマスケーキ",
+    "パウンドケーキ",
+    "マフィン",
+    "手作りギフト"
+   ],
+   "tax_rate": 10,
+   "description": "オーブンにそのまま入れて焼ける紙製の焼き型です。型から外さずそのままラッピングできるので、クリスマスや年末のお菓子づくり、手作りギフトにぴったり。マフィンカップからパウンド型まで揃えました。",
+   "image_brief": "Assorted brown and white paper baking molds including round muffin cups and a rectangular pound cake mold, stacked neatly, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙・耐熱加工"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 紙製 マフィンカップ 6.5cm×20枚",
+     "brand": "Cymbal Home",
+     "size": "6.5cm×20枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙製 パウンド型 18cm×4枚",
+     "brand": "Cymbal Home",
+     "size": "18cm×4枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙製 丸型 ケーキ型 15cm 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紙製 シフォンケーキ型 17cm 2枚入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック グラシン ベーキングカップ 5cm×100枚",
+     "brand": "Cymbal ベーシック",
+     "size": "5cm×100枚",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_paper_baking_mold_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_otoshibuta_sheet",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "落としぶた・アク取りシート"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "ぶり大根",
+    "肉じゃが",
+    "鍋料理",
+    "カレー"
+   ],
+   "tax_rate": 10,
+   "description": "鍋に浮かべるだけで余分なアクや脂を吸い取るシートと、煮物に便利な紙の落としぶたです。おでんやすき焼き、ぶり大根、肉じゃがなど冬の煮込み料理がすっきり仕上がり、味もしっかりしみ込みます。",
+   "image_brief": "A small stack of round white perforated paper drop-lid sheets and a pack of square grease-absorbing sheets in blank film, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "パルプ・不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home アク取りシート 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home あぶら取りシート 16枚入",
+     "brand": "Cymbal Home",
+     "size": "16枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙の落としぶた 24cm 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クッキングペーパー 落としぶた 大小セット 40枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "40枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アク・あぶら取りシート 大判 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_otoshibuta_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_oil_solidifier",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "廃油処理剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "天ぷら",
+    "唐揚げ",
+    "とんかつ",
+    "揚げ物の後片付け"
+   ],
+   "tax_rate": 10,
+   "description": "揚げ物で使った油を手軽に処理できる廃油処理剤と吸収パックです。温かい油に混ぜて固めるタイプと、注いで吸わせるパックタイプがあり、可燃ごみとして出せます。年末の揚げ物シーズンにも。",
+   "image_brief": "A small plastic sachet box of oil solidifier powder next to a white paper oil-absorbing pad pack, all plain blank labels, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "植物由来成分・パルプ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 油を固める 廃油処理剤 18g×10包",
+     "brand": "Cymbal Home",
+     "size": "18g×10包",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 油を吸わせる 廃油処理パック 5枚入",
+     "brand": "Cymbal Home",
+     "size": "5枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 廃油処理パック 大容量 10枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ポイっと捨てる 廃油処理ボックス 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_oil_solidifier_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_toothpick",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "つまようじ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食後",
+    "おつまみ",
+    "ピンチョス",
+    "果物"
+   ],
+   "tax_rate": 10,
+   "description": "白樺などの木を使ったつまようじです。食後の歯の手入れはもちろん、おつまみや果物を刺したり、パーティーのピンチョスにも活躍。個包装やケース入りなど使うシーンで選べます。",
+   "image_brief": "A clear cylindrical case of pale wooden toothpicks with a flip cap and plain blank sticker, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "白樺・クロモジ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック つまようじ 白樺 1000本入",
+     "brand": "Cymbal ベーシック",
+     "size": "1000本入",
+     "price_tax_excluded": 98,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home つまようじ ケース入り 500本入",
+     "brand": "Cymbal Home",
+     "size": "500本入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home つまようじ 個包装 300本入",
+     "brand": "Cymbal Home",
+     "size": "300本入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 黒文字 つまようじ 楊枝 100本入",
+     "brand": "Cymbal セレクト",
+     "size": "100本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 飾りピック パーティー用 100本入",
+     "brand": "Cymbal Home",
+     "size": "100本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_toothpick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_bamboo_skewer",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "竹串"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "焼き鳥",
+    "おでん",
+    "バーベキュー",
+    "串カツ"
+   ],
+   "tax_rate": 10,
+   "description": "焼き鳥やバーベキュー、おでんの串打ちに使える竹串です。しなやかで折れにくく、長さ違いで用途に合わせて選べます。ケーキの焼き加減チェックや野菜の火通り確認にも便利です。",
+   "image_brief": "A bundle of natural bamboo skewers in a clear plastic sleeve with a plain blank paper band, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "竹"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 竹串 15cm 100本入",
+     "brand": "Cymbal ベーシック",
+     "size": "100本入",
+     "price_tax_excluded": 98,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 竹串 18cm 100本入",
+     "brand": "Cymbal ベーシック",
+     "size": "100本入",
+     "price_tax_excluded": 128,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 竹串 24cm 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 鉄砲串 平串 15cm 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home おでん串 丸串 18cm 60本入",
+     "brand": "Cymbal Home",
+     "size": "60本入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_bamboo_skewer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_rubber_band",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "キッチン消耗品",
+    "輪ゴム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "袋の口留め",
+    "小分け",
+    "お菓子の保存"
+   ],
+   "tax_rate": 10,
+   "description": "袋の口留めや食品の小分け、書類まとめに使える輪ゴムです。伸びがよく切れにくい天然ゴムタイプのほか、カラフルな色付きやお菓子の袋留めにぴったりのクリップもご用意しました。",
+   "image_brief": "A small clear box filled with tan natural rubber bands next to colorful rubber bands in a blank pouch, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "天然ゴム"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 輪ゴム #16 箱入 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "タイ製"
+    },
+    {
+     "title": "Cymbal Home 輪ゴム #16 カラー 50g",
+     "brand": "Cymbal Home",
+     "size": "50g",
+     "price_tax_excluded": 128,
+     "origin": "タイ製"
+    },
+    {
+     "title": "Cymbal Home 輪ゴム 太ゴム #18 40g",
+     "brand": "Cymbal Home",
+     "size": "40g",
+     "price_tax_excluded": 128,
+     "origin": "タイ製"
+    },
+    {
+     "title": "Cymbal Home 袋留め クリップ 3サイズ 12個入",
+     "brand": "Cymbal Home",
+     "size": "12個入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 輪ゴム #16 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "タイ製"
+    }
+   ],
+   "images": [
+    "w_household_paper_rubber_band_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_slider_zip_bag",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "保存用品",
+    "保存袋（スライダー付き）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "下味冷凍",
+    "作り置き",
+    "ご飯の冷凍",
+    "小分け保存"
+   ],
+   "tax_rate": 10,
+   "description": "スライダーを引くだけで開け閉めできる保存袋です。力の弱い方やお子さまでも扱いやすく、冷蔵・冷凍保存や下味漬けに便利。汁ものも漏れにくいしっかりした厚みで、作り置き派にぴったりです。",
+   "image_brief": "A box of clear plastic food storage bags with blue sliders on top, one bag shown open beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン",
+    "color": "透明"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home スライダー付き 保存袋 S 12枚入",
+     "brand": "Cymbal Home",
+     "size": "12枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home スライダー付き 保存袋 M 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home スライダー付き 保存袋 L 8枚入",
+     "brand": "Cymbal Home",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スライダー付き 冷凍保存袋 M 30枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト スライダー付き 冷凍保存袋 厚手 L 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_slider_zip_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_stand_zip_bag",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "保存用品",
+    "保存袋（マチ付き・自立型）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーの冷凍",
+    "スープの保存",
+    "立て収納",
+    "下味漬け"
+   ],
+   "tax_rate": 10,
+   "description": "底にマチがあり自立するタイプの保存袋です。スープやカレー、つけ置き調理の食材も袋を立てたまま注げてこぼれにくく、冷凍庫での立て収納もすっきり。電子レンジ解凍にも対応しています。",
+   "image_brief": "Clear stand-up zipper pouches with gusseted bottoms standing upright beside a plain blank box, studio packshot.",
+   "labels": [
+    "電子レンジ対応"
+   ],
+   "attributes": {
+    "material": "ポリエチレン・ナイロン",
+    "color": "透明"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 自立する保存袋 マチ付き M 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 自立する保存袋 マチ付き L 8枚入",
+     "brand": "Cymbal Home",
+     "size": "8枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 自立する保存袋 マチ付き ミニ 15枚入",
+     "brand": "Cymbal Home",
+     "size": "15枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 自立する冷凍保存袋 レンジ対応 M 12枚入",
+     "brand": "Cymbal セレクト",
+     "size": "12枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック マチ付き 保存袋 M 30枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_stand_zip_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_silicone_storage_bag",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "保存用品",
+    "シリコン保存バッグ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "低温調理",
+    "作り置き",
+    "お弁当のおかず",
+    "エコな保存"
+   ],
+   "tax_rate": 10,
+   "description": "洗って繰り返し使えるシリコン製の保存バッグです。冷凍・電子レンジ・湯せんにも対応し、低温調理や作り置きに大活躍。使い捨て袋を減らしたい方に向いた、エコで丈夫な保存袋です。",
+   "image_brief": "A set of translucent soft silicone food storage bags in clear, sage green and gray with pinch-seal tops, studio packshot.",
+   "labels": [
+    "食洗機対応",
+    "電子レンジ対応"
+   ],
+   "attributes": {
+    "material": "シリコーンゴム"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home シリコン保存バッグ 500ml クリア 1枚",
+     "brand": "Cymbal Home",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン保存バッグ 1000ml グレー 1枚",
+     "brand": "Cymbal Home",
+     "size": "1枚",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home シリコン保存バッグ 3サイズセット 3枚入",
+     "brand": "Cymbal Home",
+     "size": "3枚入",
+     "price_tax_excluded": 1680,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト シリコン保存バッグ 自立型 1500ml 1枚",
+     "brand": "Cymbal セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_silicone_storage_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_flat_poly_bag",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "保存用品",
+    "規格袋（ポリ袋 平袋）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜の保存",
+    "小分け",
+    "お裾分け",
+    "小物整理"
+   ],
+   "tax_rate": 10,
+   "description": "透明でマチのないシンプルな規格袋です。食品の小分けや野菜の保存、おにぎりや作り置きのお裾分け、小物の整理まで幅広く使えます。号数別に厚み・サイズを選べる、台所の必需品です。",
+   "image_brief": "A stack of thin clear flat polyethylene bags in a clear sleeve with a plain blank paper insert card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン",
+    "color": "透明"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 規格袋 No.8 透明 0.02mm 100枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "100枚入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 規格袋 No.11 透明 0.02mm 100枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "100枚入",
+     "price_tax_excluded": 178,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 規格袋 No.13 透明 0.02mm 100枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "100枚入",
+     "price_tax_excluded": 228,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 規格袋 No.15 透明 0.03mm 50枚入",
+     "brand": "Cymbal Home",
+     "size": "50枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 規格袋 No.16 透明 0.03mm 50枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_flat_poly_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_garbage_70l",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "ゴミ袋・ポリ袋",
+    "ゴミ袋 70L"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "年末の大掃除",
+    "落ち葉掃除",
+    "引っ越し",
+    "大型ゴミ箱"
+   ],
+   "tax_rate": 10,
+   "description": "大きめのゴミ箱や大掃除にぴったりの70Lゴミ袋です。かさばる紙ごみや落ち葉もまとめて入れられ、厚みのあるタイプは重いごみにも安心。半透明・透明・黒から地域のルールに合わせて選べます。",
+   "image_brief": "A folded stack of large semi-transparent white garbage bags in a clear outer bag with a plain blank label card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン",
+    "capacity": "70L"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ゴミ袋 70L 半透明 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ゴミ袋 70L 透明 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ゴミ袋 70L 黒 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ゴミ袋 70L 半透明 0.025mm 50枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚入",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 ゴミ袋 70L 半透明 0.05mm 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_garbage_70l_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_garbage_90l",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "ゴミ袋・ポリ袋",
+    "ゴミ袋 90L以上"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "年末の大掃除",
+    "庭の手入れ",
+    "店舗・事務所"
+   ],
+   "tax_rate": 10,
+   "description": "業務用や大掃除に便利な90L〜120Lの特大ゴミ袋です。庭の剪定枝や段ボール、使わなくなった布類などをまとめて出すときに重宝します。破れにくい厚手タイプもあり、店舗・事務所にもおすすめです。",
+   "image_brief": "A thick folded stack of extra-large black and translucent garbage bags with a blank paper band, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン",
+    "capacity": "90L"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ゴミ袋 90L 半透明 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ゴミ袋 90L 黒 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 ゴミ袋 90L 半透明 30枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "30枚入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ゴミ袋 120L 半透明 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 ゴミ袋 90L 透明 0.05mm 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_garbage_90l_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_garbage_tie_handle",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "ゴミ袋・ポリ袋",
+    "ひも付きゴミ袋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "キッチンのゴミ箱",
+    "ゴミ出し",
+    "リビングのゴミ箱"
+   ],
+   "tax_rate": 10,
+   "description": "口にひもが付いていて、引っぱるだけでしっかり結べるゴミ袋です。いっぱいに詰めても口が縛りやすく、手が汚れにくいのが魅力。ゴミ箱のふちにひもを掛ければずり落ちも防げます。",
+   "image_brief": "A roll of white drawstring garbage bags with a pale yellow tie string visible at the top, plain blank sleeve label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ひも付きゴミ袋 30L 半透明 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ひも付きゴミ袋 45L 半透明 15枚入",
+     "brand": "Cymbal Home",
+     "size": "15枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ひも付きゴミ袋 45L 黒 15枚入",
+     "brand": "Cymbal Home",
+     "size": "15枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ひも付きゴミ袋 45L 消臭 ロールタイプ 20枚入",
+     "brand": "Cymbal セレクト",
+     "size": "20枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ひも付きゴミ袋 70L 半透明 10枚入",
+     "brand": "Cymbal Home",
+     "size": "10枚入",
+     "price_tax_excluded": 348,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_garbage_tie_handle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_garbage_deodorizing",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "ゴミ袋・ポリ袋",
+    "消臭ゴミ袋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "生ごみ",
+    "キッチン",
+    "ゴミ出しまでの保管"
+   ],
+   "tax_rate": 10,
+   "description": "消臭成分を練り込んだフィルムで、生ごみのいやなにおいを抑えるゴミ袋です。夏場はもちろん、ゴミ出しまで日数があるときにも安心。キッチン用の小さめサイズから45Lまで揃えています。",
+   "image_brief": "A roll of light green translucent deodorizing garbage bags in a clear wrapper with blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエチレン・消臭剤",
+    "color": "ライトグリーン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 消臭ゴミ袋 10L 40枚入",
+     "brand": "Cymbal Home",
+     "size": "40枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 消臭ゴミ袋 20L 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 消臭ゴミ袋 45L 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 強力消臭 ゴミ袋 30L 厚手 15枚入",
+     "brand": "Cymbal セレクト",
+     "size": "15枚入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 消臭ゴミ袋 45L 50枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚入",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_garbage_deodorizing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_odor_proof_bag",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "ゴミ袋・ポリ袋",
+    "防臭袋"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "生ごみ",
+    "紙おむつ",
+    "ペットのトイレ",
+    "外出時"
+   ],
+   "tax_rate": 10,
+   "description": "においを通しにくい特殊フィルムで作った防臭袋です。生ごみや魚の下処理くず、紙おむつ、ペットのトイレ処理などに使え、口を結ぶだけでにおいをしっかり閉じ込めます。外出時の持ち帰り用にも便利です。",
+   "image_brief": "A small white box of opaque light-blue odor-proof bags with one bag knotted beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "多層フィルム",
+    "color": "ライトブルー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 防臭袋 S 100枚入",
+     "brand": "Cymbal Home",
+     "size": "100枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 防臭袋 M 60枚入",
+     "brand": "Cymbal Home",
+     "size": "60枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 防臭袋 L 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 防臭袋 おむつ用 S 箱入 200枚入",
+     "brand": "Cymbal セレクト",
+     "size": "200枚入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 防臭袋 SS 生ごみ用 120枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "120枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_odor_proof_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_paper_bowl",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "紙ボウル・深皿"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "豚汁",
+    "鍋の取り分け",
+    "カレー",
+    "年越しそば",
+    "イベント"
+   ],
+   "tax_rate": 10,
+   "description": "汁気のある料理にも使える深さのある紙ボウルです。豚汁や鍋の取り分け、カレー、年越しそばのふるまいなど、冬のイベントや町内会でも活躍。耐水・耐油加工でしっかりした厚みがあります。",
+   "image_brief": "A stack of plain white deep paper bowls with rolled rims, one bowl standing upright in front, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙・耐水加工",
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 紙ボウル 400ml 20個入",
+     "brand": "Cymbal Home",
+     "size": "20個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙ボウル 600ml 15個入",
+     "brand": "Cymbal Home",
+     "size": "15個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 紙ボウル 400ml 50個入",
+     "brand": "Cymbal ベーシック",
+     "size": "50個入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 竹パルプ 深皿 18cm 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 紙ボウル 汁椀 300ml 30個入",
+     "brand": "Cymbal Home",
+     "size": "30個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_paper_bowl_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_hot_paper_cup",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "紙コップ（ホット用）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "コーヒー",
+    "甘酒",
+    "スープ",
+    "冬のイベント",
+    "来客"
+   ],
+   "tax_rate": 10,
+   "description": "二重構造で熱が伝わりにくいホット用の紙コップです。コーヒーやお茶、甘酒、スープなど熱い飲み物も持ちやすく、ふたも別売りでご用意。寒い季節のイベントや来客時に重宝します。",
+   "image_brief": "A stack of double-walled kraft brown paper hot cups with a few white plastic lids beside them, no printing, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙・ポリエチレン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 断熱 紙コップ ホット用 クラフト 250ml×20個",
+     "brand": "Cymbal Home",
+     "size": "250ml×20個",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 断熱 紙コップ ホット用 白 250ml×20個",
+     "brand": "Cymbal Home",
+     "size": "250ml×20個",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 紙コップ用 ふた 20個入",
+     "brand": "Cymbal Home",
+     "size": "20個入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ホット用 紙コップ 205ml×50個",
+     "brand": "Cymbal ベーシック",
+     "size": "205ml×50個",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 断熱 紙コップ ふた付き 360ml×10組",
+     "brand": "Cymbal セレクト",
+     "size": "360ml×10組",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_hot_paper_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_plastic_cup",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "プラスチックカップ"
+   ],
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "ホームパーティー",
+    "カップデザート",
+    "クリスマス会"
+   ],
+   "tax_rate": 10,
+   "description": "透明で中身が見えるプラスチックカップです。冷たい飲み物はもちろん、ゼリーやパフェ、カップデザートの容器としても便利。ホームパーティーやクリスマス会のテーブルを華やかにします。",
+   "image_brief": "A clear stack of transparent plastic cups beside a few clear dome lids, simple studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリプロピレン",
+    "color": "透明"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home プラカップ 215ml 30個入",
+     "brand": "Cymbal Home",
+     "size": "30個入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home プラカップ 400ml 20個入",
+     "brand": "Cymbal Home",
+     "size": "20個入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home プラカップ ドームふた付き 400ml 10組入",
+     "brand": "Cymbal Home",
+     "size": "10組入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック プラカップ 215ml 100個入",
+     "brand": "Cymbal ベーシック",
+     "size": "100個入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home デザートカップ ミニ 90ml 30個入",
+     "brand": "Cymbal Home",
+     "size": "30個入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_plastic_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_paper_straw",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "ストロー（紙）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ジュース",
+    "パーティー",
+    "アイスコーヒー"
+   ],
+   "tax_rate": 10,
+   "description": "紙でできた環境にやさしいストローです。ジュースやアイスコーヒーなどに使いやすく、カラフルなストライプ柄はパーティーの演出にも。個包装タイプは来客時やお弁当にも衛生的です。",
+   "image_brief": "A bundle of paper straws in white with red, blue and pastel stripes standing in a clear sleeve, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙・竹"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 紙ストロー ストライプ 6mm 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 紙ストロー 白 個包装 6mm 30本入",
+     "brand": "Cymbal Home",
+     "size": "30本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 紙ストロー タピオカ用 太口 12mm 20本入",
+     "brand": "Cymbal Home",
+     "size": "20本入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 紙ストロー 白 6mm 100本入",
+     "brand": "Cymbal ベーシック",
+     "size": "100本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 竹ストロー 洗って使える ブラシ付き 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 598,
+     "origin": "ベトナム製"
+    }
+   ],
+   "images": [
+    "w_household_paper_paper_straw_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_plastic_straw",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "ストロー（プラスチック）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "こどもの飲み物",
+    "介護",
+    "ゼリー飲料"
+   ],
+   "tax_rate": 10,
+   "description": "曲がるタイプやまっすぐタイプが選べるプラスチックストローです。お子さまや介護時の水分補給、ゼリー飲料にも使いやすく、個包装なので衛生的。ストックしておくと何かと便利です。",
+   "image_brief": "A clear bag of colorful bendable plastic straws in assorted pastel colors with a blank label card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリプロピレン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 曲がるストロー 個包装 6mm 80本入",
+     "brand": "Cymbal ベーシック",
+     "size": "80本入",
+     "price_tax_excluded": 128,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 曲がるストロー カラー 6mm 100本入",
+     "brand": "Cymbal Home",
+     "size": "100本入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ストレートストロー 太口 12mm 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 148,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ジャバラ ロングストロー 個包装 40本入",
+     "brand": "Cymbal Home",
+     "size": "40本入",
+     "price_tax_excluded": 178,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 曲がるストロー 白 個包装 500本入",
+     "brand": "Cymbal ベーシック",
+     "size": "500本入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_plastic_straw_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_iwai_bashi",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "祝い箸"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "おせち",
+    "お雑煮",
+    "お祝いの席"
+   ],
+   "tax_rate": 10,
+   "description": "お正月や祝いの席に欠かせない、両端が細い柳の祝い箸です。紅白や金銀の箸袋入りで、家族の名前を書き入れられるタイプも。おせちやお雑煮の食卓を華やかに整えます。早めの準備にどうぞ。",
+   "image_brief": "A set of slender white willow chopsticks in red-and-white and gold paper sleeves tied with a mizuhiki cord, blank surfaces, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "柳・白樺・杉"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 祝い箸 紅白箸袋入り 柳 5膳入",
+     "brand": "Cymbal Home",
+     "size": "5膳入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 祝い箸 紅白箸袋入り 柳 10膳入",
+     "brand": "Cymbal Home",
+     "size": "10膳入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 祝い箸 金銀 水引付き 5膳入",
+     "brand": "Cymbal セレクト",
+     "size": "5膳入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 祝い箸 白樺 10膳入",
+     "brand": "Cymbal ベーシック",
+     "size": "10膳入",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 祝い箸 名入れ用 箸袋付き 吉野杉 5膳入",
+     "brand": "Cymbal セレクト",
+     "size": "5膳入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_iwai_bashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_paper_oshibori",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "紙皿・紙コップ・割りばし",
+    "紙おしぼり"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "ピクニック",
+    "来客",
+    "パーティー"
+   ],
+   "tax_rate": 10,
+   "description": "個包装の使い捨て紙おしぼりです。お弁当やピクニック、宅配ピザの取り分け、来客時のおもてなしに便利。ノンアルコールで手肌にやさしい平型タイプと、たっぷり拭ける厚手タイプがあります。",
+   "image_brief": "A pile of small white individually wrapped paper oshibori towel packets in a clear bag with blank label, studio packshot.",
+   "labels": [
+    "ノンアルコール"
+   ],
+   "attributes": {
+    "material": "レーヨン・パルプ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 紙おしぼり 平型 個包装 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙おしぼり 厚手 個包装 30本入",
+     "brand": "Cymbal Home",
+     "size": "30本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 紙おしぼり 平型 300本入",
+     "brand": "Cymbal ベーシック",
+     "size": "300本入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 布のような 厚手おしぼり 個包装 20本入",
+     "brand": "Cymbal セレクト",
+     "size": "20本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 紙おしぼり 丸型 個包装 50本入",
+     "brand": "Cymbal Home",
+     "size": "50本入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_paper_oshibori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_wet_tissue_nonalcohol",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "ウェットティッシュ（ノンアルコール）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手拭き",
+    "食卓",
+    "おでかけ",
+    "赤ちゃんのいるご家庭"
+   ],
+   "tax_rate": 10,
+   "description": "アルコールを使用していないやさしいウェットティッシュです。純水99%でしっとり、手や顔、テーブルまで家族みんなで使えます。ふた付きのボックスや詰替、携帯用など使い方に合わせて選べます。",
+   "image_brief": "A soft rectangular pack of white wet tissues with a hard flip-top lid in pale aqua, plain blank front, studio packshot.",
+   "labels": [
+    "ノンアルコール",
+    "無香料"
+   ],
+   "attributes": {
+    "material": "不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ノンアルコール ウェットティッシュ 本体 ふた付き 80枚入",
+     "brand": "Cymbal Home",
+     "size": "80枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ノンアルコール ウェットティッシュ 詰替用 80枚×3個",
+     "brand": "Cymbal Home",
+     "size": "80枚×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ノンアルコール ウェットティッシュ 純水99% 60枚×6個",
+     "brand": "Cymbal Home",
+     "size": "60枚×6個",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ノンアルコール ウェットティッシュ 携帯用 10枚×10個",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚×10個",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ノンアルコール ウェットティッシュ 厚手 ボトル 100枚入",
+     "brand": "Cymbal セレクト",
+     "size": "100枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_wet_tissue_nonalcohol_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_hand_mouth_wipes",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "手口ふき"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつの前後",
+    "お食事",
+    "外出先",
+    "子どもの手洗い代わり"
+   ],
+   "tax_rate": 10,
+   "description": "食べる前後の手や口元をさっと拭ける手口ふきです。食品成分でつくったやさしい液で、小さなお子さまのおやつ時間や外出先でも安心して使えます。持ち運びに便利なミニパックもあります。",
+   "image_brief": "A pair of soft wet wipe pouches in pastel yellow and mint with resealable flaps, blank fronts, studio packshot.",
+   "labels": [
+    "ノンアルコール"
+   ],
+   "attributes": {
+    "material": "不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 手口ふき 本体 60枚×3個",
+     "brand": "Cymbal Home",
+     "size": "60枚×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 手口ふき 大容量 80枚×8個",
+     "brand": "Cymbal Home",
+     "size": "80枚×8個",
+     "price_tax_excluded": 898,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 手口ふき 携帯用 20枚×6個",
+     "brand": "Cymbal Home",
+     "size": "20枚×6個",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 手口ふき 厚手 ノンアルコール 60枚×3個",
+     "brand": "Cymbal セレクト",
+     "size": "60枚×3個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 手口ふき 70枚×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "70枚×4個",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_hand_mouth_wipes_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_wet_tissue_pocket",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "ウェットティッシュ（携帯用）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "外食前",
+    "旅行",
+    "通勤・通学",
+    "行楽"
+   ],
+   "tax_rate": 10,
+   "description": "バッグに入れやすい携帯用の除菌ウェットティッシュです。外食前の手拭きや旅行、通勤時のちょっとした汚れにさっと使えます。アルコールタイプとノンアルコールタイプ、個包装タイプを揃えました。",
+   "image_brief": "A fan of small flat pocket-size wet wipe packs in white and light blue with resealable stickers, blank surfaces, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 除菌ウェットティッシュ 携帯用 アルコール 10枚×6個",
+     "brand": "Cymbal Home",
+     "size": "10枚×6個",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 除菌ウェットティッシュ 携帯用 ノンアルコール 10枚×6個",
+     "brand": "Cymbal Home",
+     "size": "10枚×6個",
+     "price_tax_excluded": 198,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 除菌ウェットティッシュ 個包装 30包入",
+     "brand": "Cymbal Home",
+     "size": "30包入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 除菌ウェットティッシュ 携帯用 厚手 アルコール 20枚×3個",
+     "brand": "Cymbal セレクト",
+     "size": "20枚×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 除菌ウェットティッシュ 携帯用 アルコール 10枚×12個",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚×12個",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_wet_tissue_pocket_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_mask_small",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "マスク（小さめサイズ）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "通勤・通学",
+    "かぜの季節",
+    "外出時"
+   ],
+   "tax_rate": 10,
+   "description": "女性や顔の小さい方向けの小さめサイズ不織布マスクです。3層構造でしっかりフィットし、やわらかな耳ひもで長時間でも耳が痛くなりにくい設計。かぜやほこりが気になる季節の外出に。",
+   "image_brief": "A white box of pleated white nonwoven face masks with one small mask displayed in front, plain blank panel, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリプロピレン不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 不織布マスク 小さめサイズ 個包装 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 不織布マスク 小さめサイズ 50枚入",
+     "brand": "Cymbal Home",
+     "size": "50枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 不織布マスク 小さめサイズ 60枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "60枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 不織布マスク 小さめサイズ 日本製 30枚入",
+     "brand": "Cymbal セレクト",
+     "size": "30枚入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 不織布マスク 小さめサイズ ピンク 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_mask_small_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_mask_kids",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "マスク（子ども用）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "登園・登校",
+    "習い事",
+    "かぜの季節"
+   ],
+   "tax_rate": 10,
+   "description": "お子さまの顔にフィットする子ども用不織布マスクです。幼児向けと小学生向けのサイズがあり、息がしやすいやわらかな素材を使用。かわいいカラーや柄で、毎日の登園・登校も楽しくなります。",
+   "image_brief": "A small box of child-size pleated face masks with pastel blue, pink and patterned masks displayed in front, blank box, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリプロピレン不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 子ども用 不織布マスク 幼児用 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 子ども用 不織布マスク 小学生用 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 子ども用 不織布マスク カラーアソート 個包装 20枚入",
+     "brand": "Cymbal Home",
+     "size": "20枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 子ども用 立体マスク 日本製 小学生用 20枚入",
+     "brand": "Cymbal セレクト",
+     "size": "20枚入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 子ども用 不織布マスク 白 50枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_mask_kids_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_mask_3d",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "衛生用品",
+    "マスク（立体・カラー）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "通勤",
+    "メイク時",
+    "おでかけ"
+   ],
+   "tax_rate": 10,
+   "description": "口元に空間ができて呼吸がしやすい立体型の不織布マスクです。メイクがつきにくく、顔をすっきり見せるシルエット。ベージュやグレーなど服に合わせやすいカラーも揃えました。",
+   "image_brief": "A slim box with several folded 3D-shaped nonwoven masks in white, beige and gray fanned in front, plain blank box, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリプロピレン不織布"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 立体型 不織布マスク ふつう 白 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 立体型 不織布マスク ふつう ベージュ 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 立体型 不織布マスク 小さめ グレー 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 立体型 不織布マスク 個包装 くすみカラー アソート 20枚入",
+     "brand": "Cymbal セレクト",
+     "size": "20枚入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 立体型 不織布マスク 大きめ ブラック 30枚入",
+     "brand": "Cymbal Home",
+     "size": "30枚入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_mask_3d_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_kairo_stick",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "季節用品",
+    "使い捨てカイロ（貼る）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "通勤・通学",
+    "屋外作業",
+    "スポーツ観戦",
+    "冷え対策"
+   ],
+   "tax_rate": 10,
+   "description": "衣類に貼って使う使い捨てカイロです。腰や背中に貼れば、手を使わずに長時間ぽかぽか。通勤・通学や屋外での作業、スポーツ観戦など寒い日の外出に欠かせません。大容量パックでまとめ買いがお得です。",
+   "image_brief": "A stack of rectangular white heat pad packets with soft orange gradient bands in a clear outer bag with a blank label, studio packshot.",
+   "labels": [
+    "11月の旬"
+   ],
+   "attributes": {
+    "material": "鉄粉・活性炭・不織布"
+   },
+   "variants": [
+    {
+     "title": "ヌクモリ 貼るカイロ レギュラー 10個入",
+     "brand": "ヌクモリ",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 貼るカイロ レギュラー 30個入",
+     "brand": "ヌクモリ",
+     "size": "30個入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 貼るカイロ ミニ 10個入",
+     "brand": "ヌクモリ",
+     "size": "10個入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 貼るカイロ 高温タイプ 10個入",
+     "brand": "Cymbal Home",
+     "size": "10個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 貼るカイロ レギュラー 30個入",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入",
+     "price_tax_excluded": 648,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 貼るカイロ 長時間 日本製 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_kairo_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_kairo_nonstick",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "季節用品",
+    "使い捨てカイロ（貼らない）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "登下校",
+    "屋外イベント",
+    "初詣",
+    "冬のレジャー"
+   ],
+   "tax_rate": 10,
+   "description": "ポケットに入れて手を温める貼らないタイプのカイロです。もむ必要がなく袋から出すだけですぐに温まり、長時間持続。登下校や駅のホーム、屋外イベントで冷えた指先を包み込みます。",
+   "image_brief": "A bundle of soft white hand-warmer pouches with a warm red stripe in a clear wrapper, one pouch held out, blank label, studio packshot.",
+   "labels": [
+    "11月の旬"
+   ],
+   "attributes": {
+    "material": "鉄粉・活性炭・不織布"
+   },
+   "variants": [
+    {
+     "title": "ヌクモリ 貼らないカイロ レギュラー 10個入",
+     "brand": "ヌクモリ",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 貼らないカイロ レギュラー 30個入",
+     "brand": "ヌクモリ",
+     "size": "30個入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 貼らないカイロ ミニ 15個入",
+     "brand": "ヌクモリ",
+     "size": "15個入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 貼らないカイロ 大判 長時間 10個入",
+     "brand": "Cymbal Home",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 貼らないカイロ レギュラー 30個入",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入",
+     "price_tax_excluded": 648,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_kairo_nonstick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_kairo_foot",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "季節用品",
+    "使い捨てカイロ（靴下・靴用）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の通勤",
+    "立ち仕事",
+    "スキー・スノボ",
+    "足元の冷え"
+   ],
+   "tax_rate": 10,
+   "description": "冷えやすい足元をじんわり温める靴下用・靴用カイロです。つま先に貼る薄型タイプと、靴の中敷きタイプがあり、低めの温度設計で靴の中でも快適。立ち仕事や冬の通勤、スキーなどのお供に。",
+   "image_brief": "Several pairs of thin toe-shaped heat pads and insole-shaped heat pads in white and black packets, blank faces, studio packshot.",
+   "labels": [
+    "11月の旬"
+   ],
+   "attributes": {
+    "material": "鉄粉・活性炭・不織布"
+   },
+   "variants": [
+    {
+     "title": "ヌクモリ 靴下用 貼るカイロ 黒 5足入",
+     "brand": "ヌクモリ",
+     "size": "5足入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 靴下用 貼るカイロ 白 15足入",
+     "brand": "ヌクモリ",
+     "size": "15足入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ヌクモリ 靴用 中敷きカイロ 5足入",
+     "brand": "ヌクモリ",
+     "size": "5足入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home つま先用 貼るカイロ 10足入",
+     "brand": "Cymbal Home",
+     "size": "10足入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 靴下用 貼るカイロ 黒 15足入",
+     "brand": "Cymbal ベーシック",
+     "size": "15足入",
+     "price_tax_excluded": 648,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_kairo_foot_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_battery_aa_aaa",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "アルカリ乾電池（単3・単4）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "リモコン",
+    "おもちゃ",
+    "防災備蓄",
+    "時計"
+   ],
+   "tax_rate": 10,
+   "description": "リモコンや時計、おもちゃ、ワイヤレスマウスなど身の回りの機器に幅広く使えるアルカリ乾電池です。長持ちパワーで液漏れしにくい設計。防災用のストックにもまとめ買いがおすすめです。",
+   "image_brief": "A blister card of cylindrical AA batteries in silver and red with a plain blank card backing, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルカリマンガン"
+   },
+   "variants": [
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単3形 4本入",
+     "brand": "ハルカ電機",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単3形 20本入",
+     "brand": "ハルカ電機",
+     "size": "20本入",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単4形 4本入",
+     "brand": "ハルカ電機",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単4形 20本入",
+     "brand": "ハルカ電機",
+     "size": "20本入",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック アルカリ乾電池 単3形 10本入",
+     "brand": "Cymbal ベーシック",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 長持ちアルカリ乾電池 単3形 日本製 8本入",
+     "brand": "Cymbal セレクト",
+     "size": "8本入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_household_paper_battery_aa_aaa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_battery_d_c",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "アルカリ乾電池（単1・単2）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "懐中電灯",
+    "防災備蓄",
+    "ガスコンロ",
+    "ラジオ"
+   ],
+   "tax_rate": 10,
+   "description": "懐中電灯やラジオ、ガスコンロの点火、ランタンに使う単1・単2形のアルカリ乾電池です。停電時の備えに欠かせない一品で、使用推奨期限の長いタイプは防災ストックにも安心です。",
+   "image_brief": "A shrink-wrapped pack of large D-size batteries in black and gold with plain blank wrapping, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "アルカリマンガン"
+   },
+   "variants": [
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単1形 2本入",
+     "brand": "ハルカ電機",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単1形 6本入",
+     "brand": "ハルカ電機",
+     "size": "6本入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単2形 2本入",
+     "brand": "ハルカ電機",
+     "size": "2本入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 アルカリ乾電池 単2形 6本入",
+     "brand": "ハルカ電機",
+     "size": "6本入",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 マンガン乾電池 単1形 4本入",
+     "brand": "ハルカ電機",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_battery_d_c_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_rechargeable_battery",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "充電式電池"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ゲームコントローラー",
+    "カメラ",
+    "ワイヤレス機器",
+    "節約"
+   ],
+   "tax_rate": 10,
+   "description": "繰り返し充電して使えるニッケル水素電池です。ゲームのコントローラーやデジタル家電など電池の消耗が早い機器に向き、使い捨てより経済的。購入時から充電済みですぐに使えます。",
+   "image_brief": "A blister pack of white and green rechargeable AA batteries next to a compact plain gray charger, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ニッケル水素"
+   },
+   "variants": [
+    {
+     "title": "ハルカ電機 充電式ニッケル水素電池 単3形 4本入",
+     "brand": "ハルカ電機",
+     "size": "4本入",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 充電式ニッケル水素電池 単4形 4本入",
+     "brand": "ハルカ電機",
+     "size": "4本入",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 充電式電池 単3形 4本付き 充電器セット 1セット",
+     "brand": "ハルカ電機",
+     "size": "1セット",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "ハルカ電機 充電式ニッケル水素電池 単3形 大容量 2本入",
+     "brand": "ハルカ電機",
+     "size": "2本入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 充電式ニッケル水素電池 単3形 4本入",
+     "brand": "Cymbal ベーシック",
+     "size": "4本入",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_rechargeable_battery_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_coin_battery",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "ボタン電池・コイン電池"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "車のキー",
+    "体温計",
+    "キッチンタイマー",
+    "体重計"
+   ],
+   "tax_rate": 10,
+   "description": "体温計やキッチンタイマー、車のキー、腕時計、体重計などに使うボタン・コイン形のリチウム電池です。よく使われるサイズを揃えました。お子さまの誤飲防止パッケージを採用しています。",
+   "image_brief": "A small blister card with a single shiny silver coin cell battery against a plain blank card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "リチウム"
+   },
+   "variants": [
+    {
+     "title": "ハルカ電機 リチウムコイン電池 CR2032 1個入",
+     "brand": "ハルカ電機",
+     "size": "1個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 リチウムコイン電池 CR2032 2個入",
+     "brand": "ハルカ電機",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 リチウムコイン電池 CR2025 1個入",
+     "brand": "ハルカ電機",
+     "size": "1個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 リチウムコイン電池 CR2016 1個入",
+     "brand": "ハルカ電機",
+     "size": "1個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカ電機 アルカリボタン電池 LR44 2個入",
+     "brand": "ハルカ電機",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_coin_battery_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_led_bulb_e26",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "LED電球（E26口金）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "リビング",
+    "玄関",
+    "トイレ",
+    "節電"
+   ],
+   "tax_rate": 10,
+   "description": "一般的な電球ソケット(E26)に使えるLED電球です。白熱電球にくらべ消費電力が少なく長寿命で、交換の手間も減らせます。昼光色・昼白色・電球色から、お部屋の雰囲気や用途に合わせて選べます。",
+   "image_brief": "A plain white cardboard box beside a frosted white LED light bulb with a standard screw base, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "樹脂・アルミ"
+   },
+   "variants": [
+    {
+     "title": "ルミナライト LED電球 E26 40形相当 電球色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 E26 40形相当 昼白色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 E26 60形相当 昼光色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 E26 60形相当 電球色 2個入",
+     "brand": "ルミナライト",
+     "size": "2個入",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 E26 100形相当 昼白色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック LED電球 E26 40形相当 電球色 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_led_bulb_e26_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_household_paper_led_bulb_e17",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "電池・電球",
+    "LED電球（E17口金・小形）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ダウンライト",
+    "廊下",
+    "テーブルランプ",
+    "浴室"
+   ],
+   "tax_rate": 10,
+   "description": "ダウンライトや小さな照明器具に使われるE17口金のLED電球です。コンパクトな小形サイズで、浴室や廊下、テーブルランプなどにも。広く光が広がる設計で、明るさもしっかりです。",
+   "image_brief": "A small frosted LED mini bulb with a narrow screw base standing beside a plain white box, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "樹脂・アルミ"
+   },
+   "variants": [
+    {
+     "title": "ルミナライト LED電球 小形 E17 40形相当 電球色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 小形 E17 40形相当 昼白色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 小形 E17 60形相当 電球色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 小形 E17 25形相当 昼光色 1個入",
+     "brand": "ルミナライト",
+     "size": "1個入",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "ルミナライト LED電球 ミニクリプトン形 E17 40形相当 電球色 2個入",
+     "brand": "ルミナライト",
+     "size": "2個入",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_household_paper_led_bulb_e17_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

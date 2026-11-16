@@ -1,0 +1,2975 @@
+{
+ "category_key": "y_frozen_more",
+ "items": [
+  {
+   "base_id": "y_frozen_more_carbonara_pasta",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "お昼ごはん",
+    "夜食",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "チーズと卵のコクのあるソースにベーコンを合わせた、レンジで温めるだけのカルボナーラです。もちもちの麺で、忙しい日のお昼ごはんや子どものランチにも便利です。",
+   "image_brief": "A frozen pasta tray box showing creamy carbonara spaghetti with bacon and black pepper, labeled 「カルボナーラ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 カルボナーラ 1人前 290g",
+     "brand": "トップバリュ",
+     "size": "290g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 カルボナーラ 2食入（580g）",
+     "brand": "トップバリュ",
+     "size": "580g（2食）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 カルボナーラ 260g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "260g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 生パスタ仕立て 濃厚カルボナーラ 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 厚切りベーコンのカルボナーラ 大盛 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 きのことベーコンのクリームスパゲッティ 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_carbonara_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_mentaiko_pasta",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "和風パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "お昼ごはん",
+    "夜食",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷちぷちの明太子やたらこをたっぷり使った和風パスタです。レンジで温めるだけなので、休日のお昼ごはんやひとりランチにちょうどよいです。",
+   "image_brief": "A frozen pasta tray box showing pink mentaiko cream spaghetti topped with shredded nori, labeled 「明太子クリーム」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 明太子クリームスパゲッティ 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 明太子クリームスパゲッティ 2食入（560g）",
+     "brand": "トップバリュ",
+     "size": "560g（2食）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 たらこスパゲッティ 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 たらこバター醤油スパゲッティ 270g",
+     "brand": "トップバリュ",
+     "size": "270g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 辛子明太子たっぷり 生パスタ 明太クリーム 290g",
+     "brand": "トップバリュ セレクト",
+     "size": "290g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 きのこと明太子の和風スパゲッティ 270g",
+     "brand": "トップバリュ",
+     "size": "270g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_mentaiko_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_napolitan_pasta",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "お弁当",
+    "お昼ごはん",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "ケチャップの甘みが懐かしい、ウインナーと野菜入りの喫茶店風ナポリタンです。お昼ごはんはもちろん、お弁当用の小分けタイプもそろっています。",
+   "image_brief": "A frozen pasta tray box showing ketchup-red Napolitan spaghetti with sliced sausage and green pepper, labeled 「ナポリタン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 昔ながらのナポリタン 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 昔ながらのナポリタン 2食入（600g）",
+     "brand": "トップバリュ",
+     "size": "600g（2食）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ナポリタン 270g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "270g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 太麺ナポリタン 大盛 420g",
+     "brand": "トップバリュ",
+     "size": "420g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ナポリタン 6個入（120g）",
+     "brand": "トップバリュ",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 あらびきウインナーのナポリタン 生パスタ 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_napolitan_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_oil_pasta",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "お昼ごはん",
+    "晩酌",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "にんにくと唐辛子を効かせたペペロンチーノや、あさりの旨みが広がるボンゴレなどのオイル系パスタです。レンジで手軽に本格的な味わいが楽しめます。",
+   "image_brief": "A frozen pasta tray box showing garlic oil spaghetti with clams and parsley, labeled 「ボンゴレビアンコ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ペペロンチーノ 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ボンゴレビアンコ あさり入り 270g",
+     "brand": "トップバリュ",
+     "size": "270g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 しらすと大葉の和風ペペロンチーノ 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ペペロンチーノ 2食入（500g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g（2食）",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 ボンゴレロッソ 生パスタ 290g",
+     "brand": "トップバリュ セレクト",
+     "size": "290g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベーコンとほうれん草のガーリック醤油スパゲッティ 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_oil_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_champon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "ちゃんぽん・皿うどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ちゃんぽん",
+    "皿うどん",
+    "お昼ごはん",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉やえび、キャベツなどの具がたっぷり入った長崎風ちゃんぽんです。鍋で温めるだけで、野菜もとれる一杯がすぐに用意できます。",
+   "image_brief": "A frozen noodle bag showing a bowl of milky champon soup with cabbage, shrimp and pork, labeled 「長崎風ちゃんぽん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 長崎風ちゃんぽん 具付 1食（420g）",
+     "brand": "トップバリュ",
+     "size": "420g（1食）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 長崎風ちゃんぽん 具付 2食入（840g）",
+     "brand": "トップバリュ",
+     "size": "840g（2食）",
+     "price_tax_excluded": 538,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ちゃんぽん 麺・スープ 3食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3食入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 野菜たっぷりちゃんぽん 1食（450g）",
+     "brand": "トップバリュ",
+     "size": "450g（1食）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 長崎風皿うどん 具付 1食（300g）",
+     "brand": "トップバリュ",
+     "size": "300g（1食）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 海鮮ちゃんぽん 1食（460g）",
+     "brand": "トップバリュ セレクト",
+     "size": "460g（1食）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_champon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_frozen_soba",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "そば"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "そば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "年越しそば",
+    "お昼ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ゆでたての風味とコシを閉じ込めた冷凍そばです。ざるそばやかけそば、天ぷらそばなど、食べたい時にさっと一人前から用意できます。",
+   "image_brief": "A frozen noodle bag showing chilled soba on a bamboo zaru with dipping sauce, labeled 「冷凍そば」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 そば 5食入（900g）",
+     "brand": "トップバリュ",
+     "size": "900g（5食）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 そば 3食入（540g）",
+     "brand": "トップバリュ",
+     "size": "540g（3食）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ざるそば つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 鴨南蛮そば 具付 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 山菜そば 具付 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 二八そば 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_frozen_soba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_ankake_yakisoba",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "あんかけ焼きそば"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "あんかけ焼きそば",
+    "お昼ごはん",
+    "晩ごはん",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼いた麺に、えびや豚肉、白菜などの具だくさんなあんをかけた五目あんかけ焼きそばです。フライパンやレンジで手軽に中華料理店のような一皿が作れます。",
+   "image_brief": "A frozen tray box showing pan-fried noodles topped with glossy gomoku ankake sauce with shrimp and bok choy, labeled 「五目あんかけ焼きそば」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 五目あんかけ焼きそば 1食（360g）",
+     "brand": "トップバリュ",
+     "size": "360g（1食）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 五目あんかけ焼きそば 2食入（720g）",
+     "brand": "トップバリュ",
+     "size": "720g（2食）",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 かた焼きそば 五目あん付 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 海鮮あんかけ焼きそば 1食（380g）",
+     "brand": "トップバリュ",
+     "size": "380g（1食）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 あんかけ焼きそば 330g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "330g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 野菜たっぷり 塩あんかけ焼きそば 1食（370g）",
+     "brand": "トップバリュ",
+     "size": "370g（1食）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_ankake_yakisoba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_cheese_pizza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "お昼ごはん",
+    "おやつ",
+    "パーティー",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "トマトソースととろけるチーズを合わせた冷凍ピザです。トースターで焼くだけで、休日のお昼ごはんや家族のパーティーに手軽に楽しめます。",
+   "image_brief": "A flat frozen pizza box showing a baked margherita pizza with melted mozzarella and basil, labeled 「マルゲリータ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 マルゲリータピザ 1枚（約200g）",
+     "brand": "トップバリュ",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 マルゲリータピザ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 4種チーズのピザ 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 チーズピザ 2枚入（約300g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2枚入（約300g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 石窯焼き マルゲリータ 1枚",
+     "brand": "トップバリュ セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 498,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 クアトロフォルマッジ はちみつ付 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_cheese_pizza_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_mix_pizza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "お昼ごはん",
+    "おやつ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "サラミやベーコン、野菜をのせた具だくさんの冷凍ピザです。子どもに人気の照り焼きチキンやミニサイズもあり、おやつや週末のランチに便利です。",
+   "image_brief": "A flat frozen pizza box showing a mixed pizza topped with salami, bell peppers, corn and cheese, labeled 「ミックスピザ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ミックスピザ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ミックスピザ 2枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 照り焼きチキンピザ 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベーコンとポテトのピザ 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニピザ ミックス 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 石窯焼き サラミとサルシッチャのピザ 1枚",
+     "brand": "トップバリュ セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 528,
+     "origin": "イタリア製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_mix_pizza_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_pizza_crust",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ生地・クラスト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "手作りピザ",
+    "おやつ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "好きな具材とチーズをのせて焼くだけで手作りピザが楽しめる冷凍ピザクラストです。冷蔵庫の残り野菜やウインナーを使って、親子で作るおうちピザにもおすすめです。",
+   "image_brief": "A frozen bag showing stacked round pre-baked pizza crusts, labeled 「ピザクラスト」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ピザクラスト 20cm 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ピザクラスト 20cm 5枚入",
+     "brand": "トップバリュ",
+     "size": "5枚入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニピザクラスト 12cm 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 全粒粉入り ピザクラスト 20cm 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ナポリ風 もちもちピザ生地 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ピザクラスト トマトソース付 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_pizza_crust_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_takoyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "たこ焼き・お好み焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "おやつ",
+    "晩酌",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "大きめのたこが入った、外はこんがり中はとろりとした冷凍たこ焼きです。レンジで温めてソースと青のりをかければ、おやつや晩酌のおともにぴったりです。",
+   "image_brief": "A frozen bag showing takoyaki balls drizzled with sauce, mayonnaise and aonori, labeled 「たこ焼」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 たこ焼 20個入（400g）",
+     "brand": "トップバリュ",
+     "size": "400g（20個）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 たこ焼 徳用 40個入（800g）",
+     "brand": "トップバリュ",
+     "size": "800g（40個）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 たこ焼 30個入（600g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "600g（30個）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 大粒たこ焼 ソース・青のり付 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 明石焼風 だし付 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 大阪風 とろとろたこ焼 18個入",
+     "brand": "トップバリュ セレクト",
+     "size": "18個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_takoyaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_okonomiyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "たこ焼き・お好み焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "お昼ごはん",
+    "晩ごはん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツたっぷりの生地に豚肉をのせて焼き上げた冷凍お好み焼きです。レンジで温めるだけなので、休日のお昼ごはんや小腹がすいた時に便利です。",
+   "image_brief": "A frozen tray pack showing a pork okonomiyaki with sauce, mayonnaise and bonito flakes, labeled 「豚玉お好み焼」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 豚玉お好み焼 1枚（230g）",
+     "brand": "トップバリュ",
+     "size": "230g（1枚）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 豚玉お好み焼 2枚入（460g）",
+     "brand": "トップバリュ",
+     "size": "460g（2枚）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 お好み焼 ソース付 2枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当にも ミニお好み焼 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ねぎ焼 しょうゆ味 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 山芋入り ふわふわ豚玉お好み焼 1枚",
+     "brand": "トップバリュ セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_okonomiyaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_hiroshima_okonomiyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "たこ焼き・お好み焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "焼きそば",
+    "お昼ごはん",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "薄い生地にキャベツと豚肉、中華麺を重ねて焼いた広島風お好み焼きです。ボリュームがあり、家族の晩ごはんや休日のランチの一品として重宝します。",
+   "image_brief": "A frozen tray pack showing a layered Hiroshima-style okonomiyaki with noodles, egg and sauce, labeled 「広島風お好み焼」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 広島風お好み焼 そば入り 1枚（330g）",
+     "brand": "トップバリュ",
+     "size": "330g（1枚）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 広島風お好み焼 そば入り 2枚入（660g）",
+     "brand": "トップバリュ",
+     "size": "660g（2枚）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 広島風お好み焼 うどん入り 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 モダン焼 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 広島県産キャベツ使用 肉玉そばダブル 1枚",
+     "brand": "トップバリュ セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 広島風お好み焼 ハーフサイズ 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_hiroshima_okonomiyaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_doria",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 グラタン・ドリア",
+    "ドリア"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ドリア",
+    "お昼ごはん",
+    "晩ごはん",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "バターライスにミートソースやホワイトソース、チーズを重ねて焼き上げた冷凍ドリアです。トースターやレンジで温めるだけで、熱々の洋食が楽しめます。",
+   "image_brief": "A frozen oven tray box showing a bubbling meat doria with browned cheese, labeled 「ミートドリア」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ミートドリア 2個入（400g）",
+     "brand": "トップバリュ",
+     "size": "400g（2個）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミートドリア 1個（230g）",
+     "brand": "トップバリュ",
+     "size": "230g（1個）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 チーズドリア 1個（200g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g（1個）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チキンクリームドリア 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 焼きカレードリア 1個（250g）",
+     "brand": "トップバリュ",
+     "size": "250g（1個）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道産チーズの濃厚ミラノ風ドリア 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_doria_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_lasagna",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 グラタン・ドリア",
+    "ラザニア"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラザニア",
+    "晩ごはん",
+    "お昼ごはん",
+    "お弁当",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "ミートソースとベシャメルソース、パスタ生地を重ねて焼き上げた冷凍ラザニアです。オーブンいらずで温めるだけなので、ちょっと特別な晩ごはんにもおすすめです。",
+   "image_brief": "A frozen oven tray box showing a layered meat lasagna with golden cheese crust, labeled 「ミートラザニア」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ミートラザニア 1個（250g）",
+     "brand": "トップバリュ",
+     "size": "250g（1個）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミートラザニア 2個入（500g）",
+     "brand": "トップバリュ",
+     "size": "500g（2個）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 ボロネーゼラザニア 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ほうれん草とチーズのラザニア 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニラザニア 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ラザニア 1個（200g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g（1個）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_lasagna_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_nikujaga",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 和風惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "晩ごはん",
+    "お弁当",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのじゃがいもとお肉を甘辛く煮込んだ冷凍の肉じゃがです。レンジで温めるだけで、あと一品ほしい日の晩ごはんやお弁当のおかずに便利です。",
+   "image_brief": "A frozen microwavable tray showing nikujaga with potatoes, beef, carrots and snow peas, labeled 「肉じゃが」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 牛肉じゃが レンジで温めるだけ 1人前（180g）",
+     "brand": "トップバリュ",
+     "size": "180g（1人前）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 牛肉じゃが 2人前（360g）",
+     "brand": "トップバリュ",
+     "size": "360g（2人前）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 豚肉じゃが 1人前（180g）",
+     "brand": "トップバリュ",
+     "size": "180g（1人前）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 肉じゃが 160g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産牛と北海道産男爵の肉じゃが 1人前",
+     "brand": "トップバリュ セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 小分け 肉じゃが 4袋入（100g×4）",
+     "brand": "トップバリュ",
+     "size": "100g×4袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_nikujaga_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_chikuzenni",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 和風惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "晩ごはん",
+    "お弁当",
+    "おせち",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉とごぼう、れんこん、にんじんなどの根菜を甘辛く煮含めた冷凍の筑前煮です。下ごしらえの手間がかかる煮物も、温めるだけで食卓に出せます。",
+   "image_brief": "A frozen microwavable tray showing chikuzenni with chicken, lotus root, burdock and carrots, labeled 「筑前煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 筑前煮 レンジで温めるだけ 1人前（170g）",
+     "brand": "トップバリュ",
+     "size": "170g（1人前）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 筑前煮 2人前（340g）",
+     "brand": "トップバリュ",
+     "size": "340g（2人前）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 筑前煮 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産鶏と国産野菜の筑前煮 1人前",
+     "brand": "トップバリュ セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 小分け 筑前煮 4袋入（90g×4）",
+     "brand": "トップバリュ",
+     "size": "90g×4袋",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 博多風 がめ煮 1人前",
+     "brand": "トップバリュ",
+     "size": "1人前",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_chikuzenni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_nizakana",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 和風惣菜",
+    "焼魚・煮魚"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "煮魚",
+    "焼き魚",
+    "晩ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "骨を取り除いた魚を、味噌煮や煮付け、照り焼きに仕上げた冷凍のお魚惣菜です。レンジで温めるだけなので、子どもにも食べやすい魚料理が手軽に用意できます。",
+   "image_brief": "A frozen microwavable tray showing two boneless mackerel fillets simmered in miso sauce, labeled 「骨取り さばの味噌煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 骨取り さばの味噌煮 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 骨取り さばの味噌煮 4切入",
+     "brand": "トップバリュ",
+     "size": "4切入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 骨取り かれいの煮付け 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 骨取り ぶりの照り焼き 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 骨取り 赤魚の煮付け 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 骨取り 銀だらの煮付け 2切入",
+     "brand": "トップバリュ",
+     "size": "2切入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_nizakana_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_chawanmushi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 和風惣菜",
+    "茶碗蒸し・玉子料理"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "茶碗蒸し",
+    "晩ごはん",
+    "和食",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "だしの効いたなめらかな玉子に、えびや鶏肉、しいたけを入れた冷凍茶碗蒸しです。レンジで温めるだけで、和食の献立にもう一品添えられます。",
+   "image_brief": "A frozen box showing a lidded cup of smooth chawanmushi with shrimp and mitsuba, labeled 「茶碗蒸し」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 茶碗蒸し 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 茶碗蒸し 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 茶碗蒸し 3個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 えびと銀杏の茶碗蒸し 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 具だくさん茶碗蒸し 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 あんかけ茶碗蒸し 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_chawanmushi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_agedashi_tofu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 和風惣菜",
+    "豆腐料理"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "揚げ出し豆腐",
+    "晩ごはん",
+    "晩酌",
+    "和食"
+   ],
+   "tax_rate": 8,
+   "description": "衣をつけてカラッと揚げた豆腐に、かつおだしのつゆを合わせた冷凍揚げ出し豆腐です。レンジで温めるだけで、晩ごはんの副菜や晩酌のおつまみになります。",
+   "image_brief": "A frozen bag showing fried tofu cubes in dashi broth topped with grated daikon and green onion, labeled 「揚げ出し豆腐」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 揚げ出し豆腐 つゆ付 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 揚げ出し豆腐 つゆ付 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 きのこあんかけ揚げ出し豆腐 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 揚げ出し豆腐 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産大豆の揚げ出し豆腐 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 揚げ出し豆腐 みぞれあん付 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_agedashi_tofu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_ebichili",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "エビチリ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エビチリ",
+    "晩ごはん",
+    "お弁当",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとしたえびに、甘辛いチリソースをからめた冷凍エビチリです。レンジで温めるだけで、中華の献立やお弁当のおかずが手軽に用意できます。",
+   "image_brief": "A frozen tray box showing plump shrimp coated in glossy red chili sauce with green onion, labeled 「えびチリ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 えびチリ 2人前（220g）",
+     "brand": "トップバリュ",
+     "size": "220g（2人前）",
+     "price_tax_excluded": 498,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 えびチリ 1人前（130g）",
+     "brand": "トップバリュ",
+     "size": "130g（1人前）",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 えびチリ 180g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 大粒えびのえびチリ 220g",
+     "brand": "トップバリュ セレクト",
+     "size": "220g",
+     "price_tax_excluded": 698,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニえびチリ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 えびチリ 甘口 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 498,
+     "origin": "タイ製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_ebichili_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_subuta",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "酢豚"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "晩ごはん",
+    "お弁当",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "カラッと揚げた豚肉と野菜に甘酢あんをからめた冷凍酢豚です。温めるだけで、子どもも好きな甘酸っぱい中華のおかずが一品できあがります。",
+   "image_brief": "A frozen tray box showing sweet and sour pork with bell peppers, onion and carrot in glossy sauce, labeled 「酢豚」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 酢豚 2人前（300g）",
+     "brand": "トップバリュ",
+     "size": "300g（2人前）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 酢豚 1人前（150g）",
+     "brand": "トップバリュ",
+     "size": "150g（1人前）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 酢豚 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産豚の黒酢酢豚 280g",
+     "brand": "トップバリュ セレクト",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 野菜たっぷり酢豚 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 黒酢酢豚 1人前（150g）",
+     "brand": "トップバリュ",
+     "size": "150g（1人前）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_subuta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_mapo",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "麻婆豆腐・麻婆なす"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "麻婆なす",
+    "麻婆丼",
+    "晩ごはん",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "豆板醤と甜麺醤を効かせたひき肉たっぷりの冷凍麻婆豆腐や麻婆なすです。温めてご飯にかければ、手早く麻婆丼にもなります。",
+   "image_brief": "A frozen bag showing a bowl of mapo tofu with ground pork and chili oil, labeled 「麻婆豆腐 中辛」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 麻婆豆腐 中辛 2人前（360g）",
+     "brand": "トップバリュ",
+     "size": "360g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 麻婆豆腐 甘口 2人前（360g）",
+     "brand": "トップバリュ",
+     "size": "360g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 四川風 本格麻婆豆腐 辛口 1人前",
+     "brand": "トップバリュ セレクト",
+     "size": "1人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 麻婆なす 2人前（320g）",
+     "brand": "トップバリュ",
+     "size": "320g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 麻婆豆腐 1人前（180g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g（1人前）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 麻婆丼の具 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_mapo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_chinese_chicken",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "鶏の中華惣菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "油淋鶏",
+    "晩ごはん",
+    "お弁当",
+    "中華",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと揚げた鶏もも肉に、香味野菜たっぷりの甘酢だれを合わせた油淋鶏などの中華惣菜です。レンジやトースターで温めるだけで、ボリュームのある晩ごはんのおかずになります。",
+   "image_brief": "A frozen bag showing crispy fried chicken pieces topped with chopped green onion sauce, labeled 「油淋鶏」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 油淋鶏 たれ付 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 油淋鶏 たれ付 徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 油淋鶏 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 鶏の甘酢あんかけ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 よだれ鶏 たれ付 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 鶏肉とカシューナッツ炒め 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_chinese_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_xiaolongbao",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "小籠包・点心"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "小籠包",
+    "点心",
+    "晩ごはん",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちの皮の中に、豚肉の旨みたっぷりのスープを閉じ込めた冷凍小籠包です。蒸し器やレンジで手軽に温められ、中華の献立や晩酌のおともに便利です。",
+   "image_brief": "A frozen bag showing steamed xiaolongbao dumplings in a bamboo steamer with ginger, labeled 「小籠包」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 小籠包 12個入（300g）",
+     "brand": "トップバリュ",
+     "size": "300g（12個）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 小籠包 徳用 24個入（600g）",
+     "brand": "トップバリュ",
+     "size": "600g（24個）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 小籠包 20個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "20個入",
+     "price_tax_excluded": 498,
+     "origin": "台湾製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 黒豚小籠包 8個入",
+     "brand": "トップバリュ セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 焼き小籠包 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 蒸し点心 3種アソート 9個入",
+     "brand": "トップバリュ",
+     "size": "9個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_xiaolongbao_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_chukaman",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "中華まん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉まん",
+    "おやつ",
+    "朝ごはん",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりとした生地で具をたっぷり包んだ冷凍の中華まんです。レンジで温めるだけで、寒い日のおやつや朝ごはんにほかほかの一品が楽しめます。",
+   "image_brief": "A frozen bag showing fluffy white steamed pork buns, one split open to show filling, labeled 「肉まん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 肉まん 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 肉まん 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 あんまん 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ごまあんまん 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 豚角煮まん 3個入",
+     "brand": "トップバリュ セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニ肉まん 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_chukaman_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_chukadon_no_gu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 中華惣菜",
+    "中華丼・八宝菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "中華丼",
+    "八宝菜",
+    "あんかけ焼きそば",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "白菜やえび、豚肉、うずら卵などをとろみのあるあんで仕上げた中華丼の具です。温めてご飯にかければ中華丼、麺にかければあんかけ焼きそばになります。",
+   "image_brief": "A frozen pouch pack showing a bowl of rice topped with glossy chop suey with shrimp, napa cabbage and quail egg, labeled 「中華丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 中華丼の具 3袋入（170g×3）",
+     "brand": "トップバリュ",
+     "size": "170g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 中華丼の具 5袋入（170g×5）",
+     "brand": "トップバリュ",
+     "size": "170g×5袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 中華丼の具 2袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2袋入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 八宝菜 2人前（330g）",
+     "brand": "トップバリュ",
+     "size": "330g（2人前）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 海鮮八宝菜 2人前",
+     "brand": "トップバリュ セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 五目うま煮 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_chukadon_no_gu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_omurice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "オムライス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "オムライス",
+    "お昼ごはん",
+    "お弁当",
+    "洋食"
+   ],
+   "tax_rate": 8,
+   "description": "ケチャップライスをふんわり卵で包んだ冷凍オムライスです。レンジで温めるだけなので、子どものお昼ごはんやお弁当にも重宝します。",
+   "image_brief": "A frozen tray box showing an omurice with fluffy yellow egg and ketchup drizzle, labeled 「オムライス」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 オムライス 1個（240g）",
+     "brand": "トップバリュ",
+     "size": "240g（1個）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 オムライス 2個入（480g）",
+     "brand": "トップバリュ",
+     "size": "480g（2個）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 デミグラスソースのオムライス 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニオムライス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 オムライス 1個（220g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "220g（1個）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ふわとろ卵のチーズオムライス 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_omurice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_okowa_chimaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "おこわ・ちまき"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おこわ",
+    "中華ちまき",
+    "お弁当",
+    "お昼ごはん",
+    "行事"
+   ],
+   "tax_rate": 8,
+   "description": "もち米をふっくら蒸し上げた冷凍のおこわや中華ちまきです。小分けなのでレンジで必要な分だけ温められ、お弁当やあと一品に便利です。",
+   "image_brief": "A frozen bag showing bamboo-leaf wrapped Chinese sticky rice dumplings, one unwrapped, labeled 「中華ちまき」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 中華ちまき 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 中華ちまき 徳用 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 五目おこわ 150g×3袋",
+     "brand": "トップバリュ",
+     "size": "150g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 赤飯 150g×3袋",
+     "brand": "トップバリュ",
+     "size": "150g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 山菜おこわ 150g×3袋",
+     "brand": "トップバリュ",
+     "size": "150g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 栗おこわ 2袋入",
+     "brand": "トップバリュ セレクト",
+     "size": "2袋入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_okowa_chimaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_mango",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "マンゴー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "完熟したマンゴーを食べやすくカットして冷凍しました。半解凍でシャーベットのように食べたり、ヨーグルトやスムージーに使ったりと、朝ごはんやおやつに便利です。",
+   "image_brief": "A resealable frozen fruit bag showing bright orange mango chunks, labeled 「冷凍 マンゴー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 完熟マンゴー カット 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 完熟マンゴー カット 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 マンゴー チャンク 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 アルフォンソマンゴー カット 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "インド産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 マンゴー 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ 冷凍 マンゴーとパインのミックス 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_mango_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_blueberry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "ブルーベリー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "お菓子作り"
+   ],
+   "tax_rate": 8,
+   "description": "粒のそろったブルーベリーを1粒ずつバラ凍結しました。使いたい分だけ取り出せるので、ヨーグルトやパンケーキのトッピング、お菓子作りに便利です。",
+   "image_brief": "A resealable frozen fruit bag showing deep blue loose-frozen blueberries, labeled 「冷凍 ブルーベリー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ブルーベリー 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ブルーベリー 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ブルーベリー 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 ブルーベリー 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産ブルーベリー 120g",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "長野県産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ワイルドブルーベリー 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_blueberry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_strawberry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "いちご"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "いちごミルク"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいいちごを丸ごと冷凍しました。牛乳と一緒にミキサーにかけていちごミルクにしたり、ジャム作りやスムージーにも使えます。",
+   "image_brief": "A resealable frozen fruit bag showing whole red frozen strawberries, labeled 「冷凍 いちご」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 いちご 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "トップバリュ 冷凍 いちご 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 いちご 800g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 福岡県産 あまおう 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 いちご 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 スライスいちご 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "エジプト産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_strawberry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_mixed_berry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "ミックスベリー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "お菓子作り"
+   ],
+   "tax_rate": 8,
+   "description": "いちご、ブルーベリー、ラズベリーなどを組み合わせた冷凍ミックスベリーです。彩りがよく、ヨーグルトやスムージー、ケーキのトッピングに使えます。",
+   "image_brief": "A resealable frozen fruit bag showing a colorful mix of strawberries, blueberries, raspberries and blackberries, labeled 「冷凍 ミックスベリー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ミックスベリー 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "セルビア産ほか"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミックスベリー 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "セルビア産ほか"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ミックスベリー 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "チリ産ほか"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 ミックスベリー 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "セルビア産ほか"
+    },
+    {
+     "title": "トップバリュ 冷凍 ラズベリー 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "セルビア産"
+    },
+    {
+     "title": "トップバリュ 冷凍 トリプルベリー（いちご・ブルーベリー・ラズベリー）400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "チリ産ほか"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_mixed_berry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_pineapple",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "パイナップル"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "酢豚"
+   ],
+   "tax_rate": 8,
+   "description": "甘みの強いパイナップルを一口大にカットして冷凍しました。そのままシャーベット感覚で食べたり、スムージーや酢豚などの料理にも使えます。",
+   "image_brief": "A resealable frozen fruit bag showing golden pineapple chunks, labeled 「冷凍 パイン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 パインアップル カット 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ 冷凍 パインアップル カット 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 パイン 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 パインアップル 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "コスタリカ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ゴールデンパイン チャンク 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "コスタリカ産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 沖縄県産パインアップル 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "沖縄県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_pineapple_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_cheesecake",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "冷凍ケーキ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "おもてなし",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "クリームチーズのコクがしっかり感じられる冷凍チーズケーキです。冷蔵庫で解凍するだけなので、食後のデザートや急な来客時のおもてなしに便利です。",
+   "image_brief": "A frozen dessert box showing slices of golden baked cheesecake on a plate, labeled 「ベイクドチーズケーキ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ベイクドチーズケーキ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベイクドチーズケーキ ホール 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道産クリームチーズの濃厚チーズケーキ 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 レアチーズケーキ ブルーベリーソース 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 スフレチーズケーキ 5号 1台",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくちチーズケーキ 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_cheesecake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_cake_assort",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "冷凍ケーキ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "誕生日",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "しっとり濃厚なガトーショコラやいちごのショートケーキなど、解凍するだけで楽しめる冷凍ケーキです。ストックしておけば、家族の記念日やおやつ時間に重宝します。",
+   "image_brief": "A frozen dessert box showing squares of dense gateau chocolat dusted with powdered sugar, labeled 「ガトーショコラ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ガトーショコラ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ガトーショコラ ホール 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 濃厚ガトーショコラ 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくちガトーショコラ 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 いちごのショートケーキ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 生クリームのロールケーキ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_cake_assort_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_cream_puff",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "シュークリーム・エクレア"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかなカスタードクリームをたっぷり詰めた冷凍シュークリームです。半解凍でアイス感覚、全解凍でしっとりと、好みの食べ方で楽しめます。",
+   "image_brief": "A frozen bag showing a pile of bite-size cream puffs with one cut to reveal custard, labeled 「ミニシュークリーム」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ミニシュークリーム 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニシュークリーム 徳用 40個入",
+     "brand": "トップバリュ",
+     "size": "40個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニシュークリーム チョコ 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道生クリーム入り シュークリーム 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 エクレア 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくち抹茶シュー 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_cream_puff_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_daigaku_imo",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "大学いも"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "大学いも",
+    "おやつ",
+    "お弁当",
+    "副菜"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのさつまいもに甘い蜜とごまをからめた冷凍大学いもです。レンジで温めるだけで、子どものおやつやお弁当の甘いおかずになります。",
+   "image_brief": "A frozen bag showing glossy honey-coated sweet potato chunks sprinkled with black sesame, labeled 「大学いも」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 大学いも 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 大学いも 徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 大学いも 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "中国製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 鹿児島県産紅はるかの大学いも 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 お弁当用 ミニ大学いも 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 スティック大学いも 黒ごま 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_daigaku_imo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_imagawayaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "今川焼・たい焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "和菓子",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりした生地に北海道産小豆のつぶあんやカスタードを詰めた冷凍の今川焼やたい焼きです。レンジやトースターで温めるだけで、焼きたてのようなおやつが楽しめます。",
+   "image_brief": "A frozen bag showing round imagawayaki cakes, one split to show red bean paste, labeled 「今川焼 つぶあん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 今川焼 つぶあん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 今川焼 カスタード 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 今川焼 2種アソート（つぶあん・カスタード）10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 今川焼 つぶあん 8個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 たい焼き つぶあん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道産小豆の薄皮たい焼き 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_imagawayaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_pancake_waffle",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "ホットケーキ・ワッフル"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり焼き上げたホットケーキやワッフルを冷凍しました。レンジやトースターで温めるだけなので、忙しい朝ごはんや子どものおやつにすぐ出せます。",
+   "image_brief": "A frozen bag showing a stack of golden pancakes with butter and syrup, labeled 「ホットケーキ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ホットケーキ 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ホットケーキ 徳用 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニパンケーキ メープル風味 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道産小麦のパンケーキ 4枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "4枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベルギー風ワッフル 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 フレンチトースト 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_pancake_waffle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_american_dog",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 スナック・軽食",
+    "アメリカンドッグ・ホットスナック"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ほんのり甘い生地でジューシーなソーセージを包んだ冷凍アメリカンドッグです。レンジで温めるだけで、子どものおやつや部活帰りの軽食にぴったりです。",
+   "image_brief": "A frozen bag showing corn dogs on sticks with ketchup and mustard, labeled 「アメリカンドッグ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 アメリカンドッグ 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 アメリカンドッグ 徳用 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 アメリカンドッグ 6本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくちアメリカンドッグ 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チーズドッグ 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 あらびきソーセージのアメリカンドッグ 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_american_dog_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_frozen_more_kakiage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "天ぷら・かき揚げ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "天ぷらそば",
+    "天丼",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "玉ねぎやにんじん、ごぼうなどの野菜をサクッと揚げた冷凍かき揚げです。そばやうどんにのせたり、天丼にしたりと、トースターで温めるだけで使えます。",
+   "image_brief": "A frozen bag showing crispy round vegetable kakiage fritters with onion and carrot strands, labeled 「野菜かき揚げ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 野菜かき揚げ 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 野菜かき揚げ 徳用 8枚入",
+     "brand": "トップバリュ",
+     "size": "8枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 かき揚げ 5枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ごぼうとにんじんのかき揚げ 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 国産野菜のかき揚げ 3枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 野菜天ぷら盛り合わせ（さつまいも・かぼちゃ・なす・ししとう）12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_frozen_more_kakiage_p.jpg"
+   ]
+  }
+ ]
+}

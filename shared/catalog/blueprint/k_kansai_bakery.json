@@ -1,0 +1,594 @@
+{
+ "category_key": "k_kansai_bakery",
+ "items": [
+  {
+   "base_id": "k_kansai_bk_croissant",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "店内の工房で毎朝生地を折り込み、焼き上げるクロワッサンです。外はサクッと軽く、中はバターの香りがふわっと広がるしっとり食感。焼きたてはそのまま、翌日はトースターで軽く温めるとサクサク感がよみがえります。",
+   "image_brief": "Three golden flaky butter croissants on a small sheet of white baking paper, crisp laminated layers visible. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて バタークロワッサン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて バタークロワッサン 3個入",
+     "brand": "Cymbal ベーカリー",
+     "size": "3個",
+     "price_tax_excluded": 348,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて チョコクロワッサン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて アーモンドクロワッサン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_croissant_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_melonpan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "菓子パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "クッキー生地をたっぷりのせて焼き上げた、店内焼きたてのメロンパン。表面はカリッと香ばしく、中はふんわり。焼き上がり時間には売場に甘い香りが広がる、ベーカリーの人気定番です。",
+   "image_brief": "Two round melon pan sweet buns with a crackled golden cookie crust and sugar crystals on top. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて カリッとメロンパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて カリッとメロンパン 2個入",
+     "brand": "Cymbal ベーカリー",
+     "size": "2個",
+     "price_tax_excluded": 258,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて メロンパン ホイップ入り 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_melonpan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_currypan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "惣菜パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "おやつ",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "牛すじ入りのコク深いカレーを包み、店内で揚げたカレーパンです。パン粉はザクザク、生地はもっちり。辛口・焼きカレーパンもそろえ、お昼ごはんや小腹がすいたときにぴったりです。",
+   "image_brief": "Two golden deep-fried curry bread buns with crunchy panko crust, one cut open showing brown beef curry filling. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 揚げたて 牛すじカレーパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー 揚げたて 辛口カレーパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きカレーパン チーズ入り 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 188,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_currypan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_anpan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "菓子パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "国産小豆を炊いたあんをたっぷり包んだ、店内焼きたてのあんぱんです。しっとりした生地に、甘さひかえめのあんがよく合います。こしあん・つぶあん・白あんからお選びいただけます。",
+   "image_brief": "Three glossy round brown anpan sweet buns topped with sesame seeds and a salted cherry blossom, one cut showing red bean paste. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて こしあんぱん 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて つぶあんぱん 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 白あんぱん 桜 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_anpan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "焼きたて食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "毎日店内で焼き上げる食パンです。耳までやわらかく、ほんのり甘いミルクの風味。焼き上がり時刻にはスライスしてお渡しします。関西で好まれる厚切り（5枚・4枚切り）もご用意しています。",
+   "image_brief": "A freshly baked rectangular loaf of white milk bread partly sliced into thick slices, soft white crumb, golden crust. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて 角食パン 1斤",
+     "brand": "Cymbal ベーカリー",
+     "size": "1斤",
+     "price_tax_excluded": 228,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 角食パン 1.5斤",
+     "brand": "Cymbal ベーカリー",
+     "size": "1.5斤",
+     "price_tax_excluded": 328,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 山型食パン 2斤",
+     "brand": "Cymbal ベーカリー",
+     "size": "2斤",
+     "price_tax_excluded": 428,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 角食パン 5枚切り",
+     "brand": "Cymbal ベーカリー",
+     "size": "5枚",
+     "price_tax_excluded": 228,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 角食パン 4枚切り",
+     "brand": "Cymbal ベーカリー",
+     "size": "4枚",
+     "price_tax_excluded": 228,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_baguette",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "ハード系"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ディナー",
+    "ワインのお供",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "国産小麦をブレンドし、低温でじっくり発酵させて焼き上げたバゲット。皮はパリッと香ばしく、中はもっちり。シチューやスープ、チーズやワインとご一緒にどうぞ。",
+   "image_brief": "A long crusty French baguette and a half baguette with diagonal scores, golden crisp crust. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて バゲット 1本",
+     "brand": "Cymbal ベーカリー",
+     "size": "1本",
+     "price_tax_excluded": 258,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて バゲット ハーフ",
+     "brand": "Cymbal ベーカリー",
+     "size": "ハーフ",
+     "price_tax_excluded": 138,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて 明太フランス 1本",
+     "brand": "Cymbal ベーカリー",
+     "size": "1本",
+     "price_tax_excluded": 238,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて ガーリックフランス 1本",
+     "brand": "Cymbal ベーカリー",
+     "size": "1本",
+     "price_tax_excluded": 218,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_baguette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_tamagosand",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり焼いた厚焼き玉子をはさんだ、関西風のたまごサンドです。だしの効いた玉子と、からしマヨネーズがアクセント。ミックスサンド、カツサンドもそろえています。",
+   "image_brief": "A neat cut sandwich showing a thick fluffy Japanese rolled omelette between soft white bread slices, in a clear plastic sandwich pack. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 関西風 厚焼き玉子サンド 1パック",
+     "brand": "Cymbal ベーカリー",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー ミックスサンド 1パック",
+     "brand": "Cymbal ベーカリー",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー ロースカツサンド 1パック",
+     "brand": "Cymbal ベーカリー",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_tamagosand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_sozai",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "惣菜パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "軽食",
+    "部活のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "焼きそばやコロッケ、ウインナーなど、ボリュームのある具材をのせて焼いた店内焼きたての総菜パン。お昼ごはんやおやつに選べる、ベーカリー売場の人気メニューです。",
+   "image_brief": "Assortment of Japanese savory breads: a yakisoba-filled hot dog bun, a croquette sandwich bun and a sausage roll on white paper. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きそばパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー コロッケパン ソース味 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー あらびきウインナーロール 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー ハムチーズデニッシュ 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー ツナコーンマヨパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_sozai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_cream",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "菓子パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "自家製カスタードクリームをたっぷり包んだクリームパンや、シナモンロールなど、店内焼きたての甘いパン。コーヒーや紅茶と一緒に、おやつタイムにどうぞ。",
+   "image_brief": "A glove-shaped custard cream bun and a glazed cinnamon roll side by side on white baking paper. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて カスタードクリームパン 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて シナモンロール 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて チョココロネ 1個",
+     "brand": "Cymbal ベーカリー",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_fruitsand",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "手みやげ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "いちごやキウイ、みかんなど季節のフルーツと、甘さひかえめのホイップクリームをはさんだフルーツサンドです。断面の彩りがきれいで、手みやげにも喜ばれます。",
+   "image_brief": "A fruit sandwich cut in half showing strawberries, kiwi and mandarin in whipped cream between white bread, in a clear pack. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 季節のフルーツサンド 1パック",
+     "brand": "Cymbal ベーカリー",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal ベーカリー いちごサンド 1パック",
+     "brand": "Cymbal ベーカリー",
+     "size": "1パック",
+     "price_tax_excluded": 428,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_fruitsand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_bk_bagel_kids",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "店内焼きたてベーカリー",
+    "ミニパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "朝ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "小さなお子さまでも食べやすい、ひとくちサイズのミニパンの詰め合わせ。ミルク、チョコ、レーズンの3種類が入っています。",
+   "image_brief": "A clear bag of small bite-size bread rolls in three varieties, plain, chocolate and raisin. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーカリー 焼きたて ミニパン 3種アソート 8個入",
+     "brand": "Cymbal ベーカリー",
+     "size": "8個",
+     "price_tax_excluded": 298,
+     "origin": "店内焼成"
+    },
+    {
+     "title": "Cymbal ベーカリー 焼きたて ミルクロール 6個入",
+     "brand": "Cymbal ベーカリー",
+     "size": "6個",
+     "price_tax_excluded": 258,
+     "origin": "店内焼成"
+    }
+   ],
+   "images": [
+    "k_kansai_bk_bagel_kids_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

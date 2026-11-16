@@ -1,0 +1,3092 @@
+{
+ "category_key": "y_deli_bento",
+ "items": [
+  {
+   "base_id": "y_deli_bento_makunouchi_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "幕の内・和風弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "晩ごはん",
+    "行楽",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "焼き魚や玉子焼き、煮物、揚げ物など定番のおかずを少しずつ詰め合わせた幕の内弁当です。忙しい日のお昼ごはんや晩ごはんに、彩りよく楽しめます。",
+   "image_brief": "Clear-lid black bento tray with compartments of grilled salmon, rolled egg, simmered vegetables, tempura and white rice with sesame, label '幕の内弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] 幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 焼き鮭入り 幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 彩り 二段幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ごはん少なめ 小さめ幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えび天入り 幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産牛すき煮入り 幕の内弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_makunouchi_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_nori_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "のり弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "晩ごはん",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "おかか醤油をのせたごはんに焼きのりを敷き、白身魚フライとちくわ天をのせた定番ののり弁当です。手軽にしっかり食べたいお昼ごはんにぴったりです。",
+   "image_brief": "Rectangular clear-lid bento with nori-covered rice topped with fried white fish, chikuwa tempura and pickles, label 'のり弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] のり弁当 白身フライ・ちくわ天入り 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ごはん大盛り のり弁当 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約350g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 焼き鮭のり弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 唐揚げのり弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 有明海産のり使用 二段のり弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "有明海産のり使用"
+    },
+    {
+     "title": "[店内調理] おかか昆布のミニのり弁当 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約180g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_nori_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_karaage_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "晩ごはん",
+    "部活帰り",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "店内で揚げたジューシーな若鶏の唐揚げをたっぷり詰めたお弁当です。玉子焼きや付け合わせ入りで、家族のお昼ごはんや遅めの晩ごはんにも重宝します。",
+   "image_brief": "Clear-lid bento tray packed with golden fried chicken pieces, shredded cabbage, rolled egg and white rice, label '唐揚げ弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の唐揚げ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 唐揚げ弁当 ごはん大盛り 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約350g）",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の塩唐揚げ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 唐揚げ弁当 ねぎ塩だれ付 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 唐揚げ4個入 ミニ弁当 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約180g）",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 唐揚げと玉子焼きの弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産 赤鶏の唐揚げ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_karaage_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_ginger_pork_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚の生姜焼き",
+    "お昼ごはん",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉を甘辛い生姜だれで焼き上げた、ごはんがすすむ生姜焼き弁当です。千切りキャベツを添えて、しっかり食べたい日のお昼ごはんや晩ごはんに。",
+   "image_brief": "Clear-lid bento with glossy ginger-glazed pork slices over shredded cabbage beside white rice, label '生姜焼き弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚の生姜焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 生姜焼き弁当 ごはん大盛り 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約350g）",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ロース 厚切り生姜焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の生姜焼き丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 生姜焼きミニ弁当 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約180g）",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肩ロース 生姜焼き重 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_ginger_pork_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_hamburg_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "肉のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "お昼ごはん",
+    "晩ごはん",
+    "子どものごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくら焼き上げた牛豚合いびき肉のハンバーグがメインのお弁当です。デミグラスや和風おろしなど味のバリエーションがあり、子どもから大人まで喜ばれます。",
+   "image_brief": "Clear-lid bento tray with a demi-glace hamburg steak, napolitan pasta, broccoli and white rice, label 'ハンバーグ弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛豚ハンバーグ弁当 デミグラスソース 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] 和風おろしハンバーグ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] チーズインハンバーグ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] 目玉焼きのせハンバーグ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] ハンバーグ＆唐揚げ弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国産牛豚肉・国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] ミニハンバーグ弁当 ナポリタン添え 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約180g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_hamburg_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_grilled_fish_bento",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "魚のお弁当"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "お昼ごはん",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "店内で香ばしく焼き上げた魚をメインに、玉子焼きや煮物を添えた焼き魚弁当です。魚を手軽に食べたい日のお昼ごはんや晩ごはんにおすすめです。",
+   "image_brief": "Clear-lid bento with a grilled salted salmon fillet, rolled egg, simmered vegetables and white rice, label '焼き魚弁当'.",
+   "variants": [
+    {
+     "title": "[店内調理] チリ産銀鮭の焼き鮭弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "チリ産"
+    },
+    {
+     "title": "[店内調理] 北海道産 秋鮭の塩焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[店内調理] 甘塩紅鮭弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "[店内調理] ノルウェー産 塩さば焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "[店内調理] 国産さばの味噌煮弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 銀だら西京焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "[店内調理] 北海道加工 ほっけ焼き弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "北海道加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_grilled_fish_bento_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_katsudon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "お昼ごはん",
+    "晩ごはん",
+    "受験の日"
+   ],
+   "tax_rate": 8,
+   "description": "揚げたてのかつを甘辛いだしと卵でふんわりとじた、ボリュームたっぷりのかつ丼です。温めるだけで、忙しい日の晩ごはんにもすぐ食卓に出せます。",
+   "image_brief": "Deep round bowl container with clear lid showing a breaded pork cutlet simmered with egg and onion over rice, topped with mitsuba, label 'かつ丼'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚ロース かつ丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ヒレかつ丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ロース ソースかつ丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] ミニかつ丼 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約180g）",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] ごはん大盛り かつ丼 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約350g）",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏のチキンかつ丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_katsudon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_donburi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "丼もの"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "牛丼",
+    "お昼ごはん",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "親子丼や牛丼、天丼など人気の丼ものを店内で仕上げました。レンジで温めるだけで、ひとりのお昼ごはんや家族の遅い晩ごはんにも便利です。",
+   "image_brief": "Round donburi container with clear lid showing simmered chicken and fluffy egg over rice, label '親子丼'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の親子丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 牛丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "米国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 牛丼 ごはん大盛り 1人前",
+     "brand": "",
+     "size": "1人前（ごはん約350g）",
+     "price_tax_excluded": 598,
+     "origin": "米国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 帯広風 国産豚の豚丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] えびと野菜の天丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目中華丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産豚の他人丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 528,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_donburi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_kaisendon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お弁当・丼",
+    "海鮮丼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "海鮮丼",
+    "お昼ごはん",
+    "晩ごはん",
+    "週末のごちそう"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろやサーモン、ほたてなどの新鮮なお刺身を酢飯にたっぷりのせた海鮮丼です。週末のちょっとしたごちそうや、手軽な晩ごはんにどうぞ。",
+   "image_brief": "Round black bowl with clear lid showing sliced tuna, salmon, scallop, sweet shrimp and salmon roe over sushi rice, label '海鮮丼'.",
+   "variants": [
+    {
+     "title": "[店内仕上げ] 8種の海鮮丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] まぐろ・サーモン二色丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] ねぎとろ丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] サーモンいくら親子丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] めばちまぐろの鉄火丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] ミニ海鮮丼 1人前",
+     "brand": "",
+     "size": "1人前（酢飯約150g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 北海道産ほたて・サーモン丼 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 1080,
+     "origin": "北海道産ほたて使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_kaisendon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_chirashi_sushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "ちらし寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ちらし寿司",
+    "ひな祭り",
+    "誕生日",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "錦糸玉子や海鮮を彩りよく散らした華やかなちらし寿司です。誕生日やお祝いの食卓、来客時のおもてなしにも手軽に用意できます。",
+   "image_brief": "Round lacquer-style sushi tray with clear lid showing sushi rice topped with shredded egg, shrimp, tuna, salmon roe and snow peas, label 'ちらし寿司'.",
+   "variants": [
+    {
+     "title": "[店内仕上げ] 海鮮ちらし寿司 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目ちらし寿司 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目ちらし寿司 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 角切り海鮮のばらちらし 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] いくら入り 上ちらし寿司 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ミニ五目ちらし寿司 1人前",
+     "brand": "",
+     "size": "1人前（約200g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_chirashi_sushi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_inari_sushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "いなり寿司・助六"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "運動会",
+    "行楽",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く煮含めたふっくらお揚げに酢飯を詰めたいなり寿司です。運動会や行楽のお弁当、小腹が空いた時の軽食にも喜ばれます。",
+   "image_brief": "Clear plastic sushi pack with a row of glossy golden inari sushi pouches and pickled ginger, label 'いなり寿司'.",
+   "variants": [
+    {
+     "title": "[店内調理] いなり寿司 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] いなり寿司 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目いなり寿司 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 関西風 三角いなり寿司 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ゆず香る いなり寿司 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] いなり寿司 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 助六寿司（いなり3個・太巻2切・かんぴょう巻4切）",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_inari_sushi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_futomaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "運動会",
+    "おもてなし",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "玉子焼きやかんぴょう、しいたけ、きゅうりなどを巻いた具だくさんの太巻き寿司です。切り分けてあるので、家族でつまむお昼ごはんや行事の食卓に便利です。",
+   "image_brief": "Clear sushi pack with sliced thick futomaki rolls showing colorful cross-sections of egg, cucumber, kanpyo and pink denbu, label '太巻き'.",
+   "variants": [
+    {
+     "title": "[店内調理] 太巻き寿司 1本（8切）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ハーフ太巻き寿司 4切",
+     "brand": "",
+     "size": "4切",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 海鮮太巻き 1本（8切）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] かに風味サラダ巻 1本（8切）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] まぐろ・いくら入り 上太巻き 1本（8切）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] お徳用 太巻き寿司 2本入（16切）",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_futomaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_hosomaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "晩ごはん",
+    "おつまみ",
+    "手巻き寿司の日"
+   ],
+   "tax_rate": 8,
+   "description": "鉄火巻やかっぱ巻などの細巻きを食べやすく切り分けました。子どもにも食べやすいサイズで、お昼ごはんや晩ごはんの一品にちょうどいい量です。",
+   "image_brief": "Clear sushi pack with neatly cut thin maki rolls of tuna and cucumber with wasabi and soy sauce packet, label '細巻き'.",
+   "variants": [
+    {
+     "title": "[店内仕上げ] めばちまぐろの鉄火巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] かっぱ巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] かんぴょう巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] ねぎとろ巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 納豆巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] サーモン巻 1本（6切）",
+     "brand": "",
+     "size": "1本（6切）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 細巻き3種盛り合わせ 18切",
+     "brand": "",
+     "size": "18切",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_hosomaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_onigiri",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お昼ごはん",
+    "おやつ",
+    "部活の補食"
+   ],
+   "tax_rate": 8,
+   "description": "国産米を使い、店内でふんわり握った手巻きおにぎりです。鮭や梅、ツナマヨなど定番の具が揃い、朝ごはんや部活前の軽食にぴったりです。",
+   "image_brief": "Single film-wrapped triangular rice ball with a nori sheet and a colored flavor sticker, label 'おにぎり'.",
+   "variants": [
+    {
+     "title": "[店内調理] 手巻おにぎり 紅鮭 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり 紀州南高梅 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり 北海道産昆布 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり ツナマヨネーズ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり 辛子明太子 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり おかか 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 鶏五目おにぎり 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 塩むすび 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 手巻おにぎり 焼きたらこ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_onigiri_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_sandwich",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お昼ごはん",
+    "ピクニック",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりした食パンに、たまごやハム、ツナなど定番の具をはさんだサンドイッチです。朝ごはんやお昼の軽食、ピクニックのお供にどうぞ。",
+   "image_brief": "Triangular clear sandwich pack showing egg salad, ham and lettuce, and tuna sandwiches cut in halves, label 'ミックスサンド'.",
+   "variants": [
+    {
+     "title": "[店内製造] ミックスサンド（たまご・ハム・ツナ）1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] たまごサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] ハムレタスサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] BLTサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] フルーツサンド（いちご・キウイ・みかん）1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] ロールサンド 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 照り焼きチキンサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 368,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_sandwich_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_katsu_sandwich",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・サンドイッチ",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "ピクニック",
+    "運動会",
+    "とんかつ"
+   ],
+   "tax_rate": 8,
+   "description": "店内で揚げたかつに甘口ソースをからめ、食パンでやわらかくはさんだカツサンドです。ボリュームがあり、お昼ごはんや行楽のお弁当にも喜ばれます。",
+   "image_brief": "Clear sandwich box with thick pork cutlet sandwiches soaked in brown sauce, cut in three, label 'カツサンド'.",
+   "variants": [
+    {
+     "title": "[店内製造] 国産豚ロースかつサンド 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内製造] 国産豚ヒレかつサンド 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内製造] メンチかつサンド 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 398,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内製造] チキンかつサンド 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 378,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内製造] 厚切り国産豚ロースかつサンド 6切",
+     "brand": "",
+     "size": "6切",
+     "price_tax_excluded": 798,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内製造] ハムかつサンド 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_katsu_sandwich_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_tempura_moriawase",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "天ぷら・かき揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "天ぷらそば",
+    "天丼",
+    "晩ごはん",
+    "年越しそば"
+   ],
+   "tax_rate": 8,
+   "description": "店内でサクッと揚げたえびや季節の野菜の天ぷらを盛り合わせました。そばやうどんにのせたり、天丼にしたりと晩ごはんのおかずに大活躍します。",
+   "image_brief": "Clear-lid paper-lined tray of assorted tempura including shrimp, squid, kabocha, eggplant and shiso leaf, label '天ぷら盛り合わせ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 天ぷら盛り合わせ（えび・いか・野菜）5品",
+     "brand": "",
+     "size": "5品",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えび天ぷら 3尾入",
+     "brand": "",
+     "size": "3尾入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 野菜天ぷら盛り合わせ 6品",
+     "brand": "",
+     "size": "6品",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "[店内調理] 上天ぷら盛り合わせ 8品",
+     "brand": "",
+     "size": "8品",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大えび天ぷら 2尾入",
+     "brand": "",
+     "size": "2尾入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] いか天ぷら 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ちくわ磯辺天 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大分風 国産若鶏のとり天 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_tempura_moriawase_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_kakiage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "天ぷら・かき揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "かき揚げうどん",
+    "天丼",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "玉ねぎや桜えびなどを香ばしくまとめて揚げたかき揚げです。うどんやそばにのせるだけで、ボリュームのある一品になります。",
+   "image_brief": "Clear tray with thick round golden kakiage fritters of onion, carrot and tiny shrimp, label 'かき揚げ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 桜えびと玉ねぎのかき揚げ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 野菜かき揚げ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "[店内調理] 小えびのかき揚げ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産ごぼうのかき揚げ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 278,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "[店内調理] 北海道産とうもろこしのかき揚げ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 178,
+     "origin": "北海道産とうもろこし使用"
+    },
+    {
+     "title": "[店内調理] ほたてと三つ葉のかき揚げ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 298,
+     "origin": "北海道産ほたて使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_kakiage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_aji_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "アジフライ",
+    "晩ごはん",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚な真あじに衣をつけて店内でサクッと揚げたアジフライです。ソースやタルタルソースで、晩ごはんのおかずやお弁当にどうぞ。",
+   "image_brief": "Clear-lid tray with butterflied golden horse mackerel fries on shredded cabbage with a lemon wedge, label 'アジフライ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 長崎県産 真あじフライ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[店内調理] 大判 真あじフライ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 248,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[店内調理] 真あじフライ タルタルソース付 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[店内調理] 長崎県産 真あじフライ 徳用 5枚入",
+     "brand": "",
+     "size": "5枚入",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[店内調理] 骨取り 真あじフライ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 小あじフライ ソース付 6尾入",
+     "brand": "",
+     "size": "6尾入",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_aji_fry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_seafood_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "フライ",
+    "晩ごはん",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "白身魚やいか、ほたて、かきなどを店内で揚げたシーフードフライです。タルタルソースを添えて、晩ごはんのメインやお弁当のおかずに。",
+   "image_brief": "Clear tray with assorted seafood fries of white fish, squid rings, scallop and oyster with tartar sauce cup, label 'シーフードフライ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 白身魚フライ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] いかフライ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 北海道産ほたてフライ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "[店内調理] 広島県産 かきフライ 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 498,
+     "origin": "広島県産"
+    },
+    {
+     "title": "[店内調理] ミックスフライ（白身・いか・ほたて）3品",
+     "brand": "",
+     "size": "3品",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 白身魚フライ タルタルソース付 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_seafood_fry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_menchi_katsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "カツ・メンチカツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "メンチカツ",
+    "晩ごはん",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "牛豚合いびき肉と玉ねぎをたっぷり使い、店内で揚げた肉汁あふれるメンチカツです。ソースをかけて晩ごはんのおかずに、パンにはさんでも楽しめます。",
+   "image_brief": "Clear tray with round golden breaded minced meat cutlets, one cut open showing juicy filling, label 'メンチカツ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛豚メンチカツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛豚メンチカツ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 448,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] チーズ入りメンチカツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] 黒毛和牛入りメンチカツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] 玉ねぎたっぷりメンチカツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産牛豚肉使用"
+    },
+    {
+     "title": "[店内調理] ミニメンチカツ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国産牛豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_menchi_katsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_tonkatsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "カツ・メンチカツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "かつ丼",
+    "カツカレー",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉を店内で揚げた、衣サクサクのとんかつです。そのままソースで、卵とじにしてかつ丼に、カツカレーにもアレンジできます。",
+   "image_brief": "Clear tray with sliced golden pork cutlet on shredded cabbage with a mustard packet, label 'ロースかつ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚ロースかつ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ヒレかつ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚 一口ヒレかつ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 厚切り国産豚ロースかつ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肩ロースかつ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の串かつ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_tonkatsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_chicken_katsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "チキンかつ・チキン南蛮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンカツ",
+    "晩ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏のむね肉やささみを使い、店内でサクッと揚げたチキンかつです。あっさりとした味わいで、お弁当のおかずや晩ごはんの一品に。",
+   "image_brief": "Clear tray with sliced golden breaded chicken cutlets and breaded chicken tender sticks, label 'チキンかつ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏 チキンかつ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 大判 国産若鶏チキンかつ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 ささみかつ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 ささみチーズかつ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 梅しそささみかつ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 378,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 チキンかつ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 648,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_chicken_katsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_chicken_nanban",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "チキンかつ・チキン南蛮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキン南蛮",
+    "晩ごはん",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "揚げた鶏肉を甘酢だれにくぐらせ、手作り風タルタルソースをたっぷりかけた宮崎風チキン南蛮です。ごはんがすすむ味で、晩ごはんのメインにおすすめです。",
+   "image_brief": "Clear-lid tray with sliced fried chicken glazed in sweet vinegar sauce and covered with chunky tartar sauce, label 'チキン南蛮'.",
+   "variants": [
+    {
+     "title": "[店内調理] 宮崎風 国産若鶏のチキン南蛮 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏のチキン南蛮 2〜3人前 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 898,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] ミニチキン南蛮 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏むね肉のチキン南蛮 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産 赤鶏のチキン南蛮 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内調理] チキン南蛮弁当 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_chicken_nanban_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_harumaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "春巻"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "春巻",
+    "晩ごはん",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "たけのこや椎茸、豚肉を炒めた具をパリッと揚げた春巻です。そのままでも、からしや酢醤油を添えて晩ごはんの一品やおつまみにどうぞ。",
+   "image_brief": "Clear tray with crispy golden spring rolls stacked diagonally, one cut showing vegetable filling, label '春巻'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚肉の春巻 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 108,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の春巻 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] えび春巻 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] チーズ春巻 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ミニ春巻 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目春巻 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_harumaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_yakitori",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "焼き鳥"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "晩酌",
+    "おつまみ",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏を店内で一本ずつ焼き上げた焼き鳥です。香ばしいたれと素材の味が楽しめる塩があり、晩酌のおつまみや晩ごはんのもう一品にぴったりです。",
+   "image_brief": "Clear-lid tray with grilled chicken skewers glazed in soy tare and salted skewers with a lemon wedge, label '焼き鳥'.",
+   "variants": [
+    {
+     "title": "[店内焼き] 国産若鶏 ねぎま串 たれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 ねぎま串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 もも串 たれ 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産鶏 つくね串 たれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 328,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 皮串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 砂肝串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 レバー串 たれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 焼き鳥盛り合わせ たれ・塩 10本入",
+     "brand": "",
+     "size": "10本入",
+     "price_tax_excluded": 980,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_yakitori_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_egg_dishes",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "卵料理",
+    "かに玉・オムレツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはん",
+    "朝ごはん",
+    "お弁当",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "かに玉やニラ玉、スパニッシュオムレツなど、卵をふんわり仕上げた卵料理のお惣菜です。もう一品ほしい晩ごはんや朝ごはんのおかずにどうぞ。",
+   "image_brief": "Clear round deli container with a fluffy crab omelette covered in glossy sweet-and-sour sauce and green peas, label 'かに玉'.",
+   "variants": [
+    {
+     "title": "[店内調理] かに風味かに玉 甘酢あんかけ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] 高知県産にらのニラ玉 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] えびと卵のふわふわ炒め 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 448,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] トマトと卵の中華炒め 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] じゃがいもとベーコンのスパニッシュオムレツ 1/4カット",
+     "brand": "",
+     "size": "1/4カット（約150g）",
+     "price_tax_excluded": 328,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] ふわとろプレーンオムレツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国産卵使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_egg_dishes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_gobo_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "ごぼう・根菜サラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはん",
+    "副菜",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "シャキシャキのごぼうとにんじんを、ごまの香るマヨネーズで和えたごぼうサラダです。お弁当の副菜や晩ごはんのもう一品にぴったりです。",
+   "image_brief": "Clear deli cup filled with julienned burdock and carrot in creamy sesame mayonnaise, label 'ごぼうサラダ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産ごぼうサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "[店内調理] 国産ごぼうサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "[店内調理] 焙煎ごま香る ごぼうサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "[店内調理] 明太ごぼうサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 328,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "トップバリュ ごぼうサラダ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ごぼう・れんこん・にんじんの根菜サラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 328,
+     "origin": "国産野菜使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_gobo_salad_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_harusame_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "春雨サラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "副菜",
+    "お弁当",
+    "晩ごはん",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "つるっとした春雨にきゅうりやハム、錦糸玉子を合わせ、さっぱりした甘酢で和えた春雨サラダです。中華のおかずの付け合わせやお弁当の副菜に。",
+   "image_brief": "Clear deli cup of glass noodle salad with cucumber, ham and shredded egg strips glossy with dressing, label '春雨サラダ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 中華春雨サラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 中華春雨サラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] マヨネーズ和え 春雨サラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華春雨サラダ 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ピリ辛 春雨サラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えび入り タイ風春雨サラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_harusame_salad_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_kaiso_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "海藻サラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "副菜",
+    "晩ごはん",
+    "焼き魚",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "わかめや茎わかめ、海藻を彩りよく合わせ、和風ドレッシングを添えた海藻サラダです。焼き魚や煮魚の献立に、さっぱりした副菜として合わせやすい一品です。",
+   "image_brief": "Clear salad container with colorful seaweed mix of green, red and translucent seaweeds over lettuce with a dressing sachet, label '海藻サラダ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 海藻サラダ 和風ドレッシング付 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 海藻と国産大豆豆腐のサラダ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 海藻サラダ ごまドレッシング付 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 海藻とツナのサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 海藻ときゅうりの酢の物 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大盛り 海藻サラダ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_kaiso_salad_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_coleslaw",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "コールスロー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "付け合わせ",
+    "ハンバーグ",
+    "唐揚げ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "細かく刻んだキャベツとにんじんをまろやかなドレッシングで和えたコールスローです。唐揚げやハンバーグの付け合わせ、お弁当の彩りにも便利です。",
+   "image_brief": "Clear deli cup filled with finely chopped cabbage and carrot coleslaw in creamy dressing, label 'コールスロー'.",
+   "variants": [
+    {
+     "title": "[店内調理] コールスローサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 228,
+     "origin": "国産キャベツ使用"
+    },
+    {
+     "title": "[店内調理] コールスローサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産キャベツ使用"
+    },
+    {
+     "title": "[店内調理] コーン入り コールスロー 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "国産キャベツ使用"
+    },
+    {
+     "title": "トップバリュ コールスローサラダ 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ハム入り コールスロー 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国産キャベツ使用"
+    },
+    {
+     "title": "[店内調理] 紫キャベツのコールスロー 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国産キャベツ使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_coleslaw_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_macaroni_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "マカロニサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "付け合わせ",
+    "晩ごはん",
+    "子どものごはん"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかくゆでたマカロニにハムやきゅうり、にんじんを合わせたマカロニサラダです。子どもにも人気で、お弁当のすき間や晩ごはんの付け合わせに重宝します。",
+   "image_brief": "Clear deli cup of creamy macaroni salad with ham, cucumber and carrot bits, label 'マカロニサラダ'.",
+   "variants": [
+    {
+     "title": "[店内調理] マカロニサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] マカロニサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] たまごたっぷり マカロニサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "トップバリュ マカロニサラダ 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 明太マカロニサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ツナマカロニサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_macaroni_salad_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_pumpkin_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "かぼちゃ・さつまいもサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "副菜",
+    "晩ごはん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのかぼちゃをなめらかにつぶし、ほんのり甘く仕上げたかぼちゃサラダです。お弁当の彩りや晩ごはんの副菜として、子どもにも食べやすい味わいです。",
+   "image_brief": "Clear deli cup of smooth orange mashed pumpkin salad with visible pumpkin skin bits and raisins, label 'かぼちゃサラダ'.",
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産かぼちゃサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内調理] クリームチーズ入り かぼちゃサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 328,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内調理] レーズン入り かぼちゃサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産 さつまいもサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "トップバリュ かぼちゃサラダ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_pumpkin_salad_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_goma_ae",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和え物・小鉢",
+    "ごま和え"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "副菜",
+    "お弁当",
+    "晩ごはん",
+    "焼き魚"
+   ],
+   "tax_rate": 8,
+   "description": "ゆでた野菜を香ばしいすりごまと甘めの醤油で和えたごま和えです。焼き魚や煮物の献立にもう一品添えたい時や、お弁当の彩りに便利です。",
+   "image_brief": "Small clear deli cup of green beans coated in ground sesame dressing, label 'いんげんのごま和え'.",
+   "variants": [
+    {
+     "title": "[店内調理] いんげんのごま和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産ほうれん草のごま和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国産ほうれん草使用"
+    },
+    {
+     "title": "[店内調理] 国産小松菜のごま和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 228,
+     "origin": "国産小松菜使用"
+    },
+    {
+     "title": "[店内調理] ブロッコリーのごま和え 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産春菊のごま和え 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 248,
+     "origin": "国産春菊使用"
+    },
+    {
+     "title": "[店内調理] ごま和え3種盛り（いんげん・ほうれん草・にんじん）約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_goma_ae_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_namul",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和え物・小鉢",
+    "ナムル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ビビンバ",
+    "副菜",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "もやしやほうれん草、にんじんをごま油とにんにくで和えた韓国風のナムルです。焼肉の付け合わせや、ごはんにのせてビビンバ風にも楽しめます。",
+   "image_brief": "Clear deli tray divided into three sections of bean sprout, spinach and carrot namul glistening with sesame oil, label '3種ナムル'.",
+   "variants": [
+    {
+     "title": "[店内調理] 3種ナムル（もやし・ほうれん草・にんじん）約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] もやしナムル 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "国産もやし使用"
+    },
+    {
+     "title": "[店内調理] 大豆もやしナムル 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 218,
+     "origin": "国産大豆もやし使用"
+    },
+    {
+     "title": "[店内調理] 国産ほうれん草のナムル 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国産ほうれん草使用"
+    },
+    {
+     "title": "[店内調理] 5種ナムル盛り合わせ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 小松菜とにんじんのナムル 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 228,
+     "origin": "国産小松菜使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_namul_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_ebi_chili",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "えびチリ・えびマヨ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エビチリ",
+    "中華",
+    "晩ごはん",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとしたえびを甘辛いチリソースでからめたえびのチリソースです。温めるだけで本格中華の一品が完成し、晩ごはんやおもてなしにも喜ばれます。",
+   "image_brief": "Clear round deli container of plump shrimp coated in glossy red chili sauce with green onion, label 'えびチリ'.",
+   "variants": [
+    {
+     "title": "[店内調理] えびのチリソース 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびのチリソース 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大えびのチリソース 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびマヨ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびチリ・えびマヨ 盛り合わせ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_ebi_chili_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_subuta",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "酢豚・甘酢あん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "中華",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "カラッと揚げた国産豚肉と野菜を、甘酸っぱいあんでからめた酢豚です。温めるだけで中華の献立のメインになり、ごはんがすすみます。",
+   "image_brief": "Clear deli container of sweet and sour pork with onion, green pepper and carrot in glossy sauce, label '酢豚'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚の酢豚 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の黒酢酢豚 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 黒酢あん肉団子 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] ミニ酢豚 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の甘酢あん（酢鶏）約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の酢豚 2〜3人前 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 898,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_subuta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_chinese_chicken_dishes",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "鶏の中華惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "中華",
+    "晩ごはん",
+    "おつまみ",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "揚げた鶏肉に香味だれをかけた油淋鶏や、ピリ辛のよだれ鶏など鶏肉の中華惣菜です。食卓に並べるだけで、晩ごはんがぐっと華やかになります。",
+   "image_brief": "Clear deli container of sliced crispy fried chicken topped with chopped green onion and soy vinegar sauce, label '油淋鶏'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の油淋鶏 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の油淋鶏 ミニ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏むね肉のよだれ鶏 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の棒棒鶏 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鶏肉とカシューナッツ炒め 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の鶏チリ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_chinese_chicken_dishes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_shumai",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "焼売・小籠包"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼売",
+    "中華",
+    "晩ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉と玉ねぎのうま味をぎゅっと閉じ込め、店内で蒸し上げた焼売です。からし醤油で晩ごはんのおかずに、お弁当にも使えます。",
+   "image_brief": "Clear tray of plump steamed pork shumai dumplings each topped with a green pea, with mustard packet, label '焼売'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚肉の焼売 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 大粒 国産豚肉の焼売 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] えび焼売 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の焼売 12個入",
+     "brand": "",
+     "size": "12個入",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産黒豚の焼売 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の小籠包 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_shumai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_yakisoba",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "焼きそば・焼きうどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼きそば",
+    "お昼ごはん",
+    "夜食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉とキャベツをたっぷり使い、店内の鉄板でソースを香ばしく焼き上げた焼きそばです。温めるだけで、休日のお昼ごはんや部活帰りの軽食に。",
+   "image_brief": "Clear rectangular container of sauce yakisoba noodles with pork and cabbage topped with aonori and red pickled ginger, label 'ソース焼きそば'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚のソース焼きそば 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 大盛り ソース焼きそば 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の塩焼きそば 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 目玉焼きのせ ソース焼きそば 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] 五目あんかけ焼きそば 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産豚の焼きうどん 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_yakisoba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_fried_rice",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "チャーハン・天津飯"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "お昼ごはん",
+    "晩ごはん",
+    "中華"
+   ],
+   "tax_rate": 8,
+   "description": "強火でパラッと炒めた、卵とねぎの香るチャーハンです。餃子や焼売と合わせて中華の献立に、ひとりのお昼ごはんにもぴったりです。",
+   "image_brief": "Clear dome-lid container mounded with golden egg fried rice with green onion and char siu bits, label '五目チャーハン'.",
+   "variants": [
+    {
+     "title": "[店内調理] 五目チャーハン 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] えびチャーハン 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 高菜チャーハン 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 豚キムチチャーハン 1人前 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 428,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] 大盛り 五目チャーハン 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内調理] かに風味天津飯 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 448,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_fried_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_deli_bento_okowa",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "赤飯・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "お昼ごはん",
+    "お弁当",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "国産もち米をもっちり蒸し上げた赤飯やおこわです。お祝いの日の食卓や、おにぎりにしてお弁当や行楽にも楽しめます。",
+   "image_brief": "Clear container of glossy red-bean sekihan sticky rice sprinkled with black sesame salt, label '赤飯'.",
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産小豆の赤飯 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "[店内調理] 北海道産小豆の赤飯 2〜3人前 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 648,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の中華おこわ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "[店内調理] 山菜おこわ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "[店内調理] 栗おこわ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "[店内調理] 鶏五目おこわ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_deli_bento_okowa_p.jpg"
+   ]
+  }
+ ]
+}

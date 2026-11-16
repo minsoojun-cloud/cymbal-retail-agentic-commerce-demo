@@ -1,0 +1,3004 @@
+{
+ "category_key": "y_drink_soft",
+ "items": [
+  {
+   "base_id": "y_drink_soft_hojicha_bottle",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ほうじ茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "天ぷら",
+    "お弁当",
+    "朝ごはん",
+    "和食の食卓"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焙じた国産茶葉のほうじ茶です。すっきりとした後味で、焼き魚や天ぷらなど和食の食卓によく合います。家族みんなで飲みやすい味わいで、お弁当のお供にも。",
+   "image_brief": "A clear PET bottle of amber roasted green tea with a brown label reading 「ほうじ茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産茶葉使用 ほうじ茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 ほうじ茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 738,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 ほうじ茶 600ml",
+     "brand": "トップバリュ",
+     "size": "600ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 ほうじ茶 600ml×24本",
+     "brand": "トップバリュ",
+     "size": "600ml×24本",
+     "price_tax_excluded": 1780,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 ほうじ茶 350ml",
+     "brand": "トップバリュ",
+     "size": "350ml",
+     "price_tax_excluded": 58,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ほうじ茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 京都府産 一番茶使用 ほうじ茶 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "京都府産茶葉"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_hojicha_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_oolong_tea_bottle",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "烏龍茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "餃子",
+    "麻婆豆腐",
+    "酢豚",
+    "焼肉",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "すっきりとした香りの烏龍茶です。唐揚げや餃子、麻婆豆腐など油を使った料理の食事中にもさっぱりと飲めます。大容量ボトルは家族の食卓に便利です。",
+   "image_brief": "A PET bottle of reddish-brown oolong tea with a red-and-gold label reading 「烏龍茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ 烏龍茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 烏龍茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 烏龍茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 68,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 烏龍茶 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1480,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 烏龍茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 濃いめ 烏龍茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 福建省産茶葉 鉄観音 烏龍茶 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 118,
+     "origin": "中国福建省産茶葉"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_oolong_tea_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_jasmine_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ジャスミン茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "青椒肉絲",
+    "チャーハン",
+    "焼きそば",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "華やかなジャスミンの香りが広がるお茶です。餃子やチャーハンなど中華料理と相性がよく、食事の時間をさっぱりと楽しめます。冷やしても温めてもおいしくいただけます。",
+   "image_brief": "A PET bottle of pale golden jasmine tea with a white label featuring jasmine flowers and 「ジャスミン茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ ジャスミン茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジャスミン茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 748,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジャスミン茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジャスミン茶 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1680,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ジャスミン茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 茉莉花茶 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジャスミン茶 ティーバッグ 2g×30袋",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_jasmine_tea_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_unsweetened_black_tea_bottle",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "紅茶（無糖）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "グラタン",
+    "オムライス",
+    "サンドイッチ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖不使用ですっきり飲める無糖の紅茶です。パスタやグラタン、オムライスなど洋食のお供にぴったり。冷蔵庫に常備して毎日の食事に。",
+   "image_brief": "A PET bottle of clear reddish black tea with a navy label reading 「無糖紅茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ 無糖紅茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 138,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 無糖紅茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 798,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 無糖紅茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 無糖紅茶 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1720,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 無糖紅茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ダージリン茶葉100% 無糖紅茶 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "インド産茶葉"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_unsweetened_black_tea_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_milk_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ミルクティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "パン",
+    "ホットケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "紅茶の香りとミルクのまろやかさを楽しめるミルクティーです。おやつの時間や朝ごはんのパンと一緒にどうぞ。冷やしてそのまま飲める手軽さが魅力です。",
+   "image_brief": "A PET bottle of creamy beige milk tea with a cream-colored label reading 「ミルクティー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミルクティー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクティー 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2180,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクティー 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ ミルクティー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクティー 280ml",
+     "brand": "トップバリュ",
+     "size": "280ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ロイヤルミルクティー 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_milk_tea_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_lemon_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "レモンティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当",
+    "サンドイッチ",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "紅茶にレモンの爽やかな香りを合わせたレモンティーです。すっきりとした甘さで、おやつやお弁当のお供にぴったり。冷やしてごくごく飲めます。",
+   "image_brief": "A PET bottle of golden lemon tea with a yellow label showing lemon slices and 「レモンティー」.",
+   "variants": [
+    {
+     "title": "トップバリュ レモンティー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レモンティー 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 188,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レモンティー 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2180,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ レモンティー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 瀬戸内レモン果汁使用 レモンティー 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レモンティー 紙パック 250ml×6本",
+     "brand": "トップバリュ",
+     "size": "250ml×6本",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_lemon_tea_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_black_tea_bags",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "紅茶ティーバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パン",
+    "ケーキ",
+    "ミルクティー"
+   ],
+   "tax_rate": 8,
+   "description": "カップにお湯を注ぐだけで手軽に本格的な紅茶が楽しめるティーバッグです。朝ごはんのパンやおやつのケーキと一緒に。牛乳を加えてミルクティーにするのもおすすめです。",
+   "image_brief": "A paper box of black tea bags with a red label showing a teacup and 「紅茶 ティーバッグ」.",
+   "variants": [
+    {
+     "title": "トップバリュ セイロンブレンド 紅茶 ティーバッグ 2g×50袋",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セイロンブレンド 紅茶 ティーバッグ 2g×100袋",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 428,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ アールグレイ 紅茶 ティーバッグ 2g×25袋",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 228,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ダージリンブレンド 紅茶 ティーバッグ 2g×25袋",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ アッサム 紅茶 ティーバッグ 2g×25袋",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ダージリン ファーストフラッシュ ティーバッグ 2g×20袋",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "インド産茶葉"
+    },
+    {
+     "title": "トップバリュ ベストプライス 紅茶 ティーバッグ 2g×100袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_black_tea_bags_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_mugicha_tea_bags",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "麦茶パック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "夏の水分補給",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "水出しでも煮出しでも作れる麦茶パックです。ポットに入れておけば香ばしい麦茶がたっぷり作れ、家族の毎日の食卓に欠かせません。水筒に入れてお弁当と一緒にも。",
+   "image_brief": "A large plastic bag of barley tea pouches with a brown label reading 「麦茶 ティーバッグ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 水出し麦茶 ティーバッグ 10g×52袋",
+     "brand": "トップバリュ",
+     "size": "520g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 煮出し麦茶 ティーバッグ 10g×54袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産六条大麦100% 麦茶 ティーバッグ 8g×40袋",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 298,
+     "origin": "国産大麦"
+    },
+    {
+     "title": "トップバリュ ベストプライス 麦茶 ティーバッグ 8g×54袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "432g",
+     "price_tax_excluded": 178,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 水出し麦茶 ポット用 30g×16袋",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 278,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 麦茶 ティーバッグ 8g×20袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "160g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_mugicha_tea_bags_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_blend_tea_bottle",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ブレンド茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはん",
+    "鍋",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "大麦やはと麦、玄米などをブレンドした香ばしいブレンド茶です。クセが少なく、和洋中どんな食事にも合わせやすい味わい。子どもから大人まで家族で楽しめます。",
+   "image_brief": "A PET bottle of light brown blended grain tea with a green label showing grains and 「ブレンド茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ ブレンド茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブレンド茶 600ml",
+     "brand": "トップバリュ",
+     "size": "600ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブレンド茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブレンド茶 600ml×24本",
+     "brand": "トップバリュ",
+     "size": "600ml×24本",
+     "price_tax_excluded": 1680,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ブレンド茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産十八穀ブレンド茶 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 118,
+     "origin": "国産原料"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_blend_tea_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_grain_herb_tea_bags",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "穀物茶・ルイボスティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "晩ごはん",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "黒豆やとうもろこし、ルイボスなど素材の香りを楽しめるティーバッグです。煮出しても水出しでも作れて、食事の時間やおやつの時間に。季節を問わず楽しめる穏やかな味わいです。",
+   "image_brief": "A stand-up pouch of tea bags with a natural kraft label showing roasted beans and 「黒豆茶」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産黒大豆使用 黒豆茶 ティーバッグ 5g×20袋",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産黒大豆"
+    },
+    {
+     "title": "トップバリュ コーン茶 ティーバッグ 5g×30袋",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ルイボスティー ティーバッグ 2g×40袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "トップバリュ 国産ごぼう茶 ティーバッグ 1g×20袋",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 498,
+     "origin": "国産ごぼう"
+    },
+    {
+     "title": "トップバリュ はと麦茶 ティーバッグ 5g×30袋",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ルイボスティー ティーバッグ 2g×20袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_grain_herb_tea_bags_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_black_coffee_bottle",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "ボトルコーヒー（無糖）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パン",
+    "アイスコーヒー",
+    "おやつ",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "冷やしてそのまま飲める無糖のボトルコーヒーです。朝ごはんのパンやおやつの時間に、グラスに注いで手軽にアイスコーヒーが楽しめます。牛乳で割ってカフェオレにも。",
+   "image_brief": "A tall PET bottle of black coffee with a dark brown label reading 「無糖 ブラックコーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ボトルコーヒー 無糖 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトルコーヒー 無糖 900ml×12本",
+     "brand": "トップバリュ",
+     "size": "900ml×12本",
+     "price_tax_excluded": 1480,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブラックコーヒー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブラックコーヒー 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2280,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ボトルコーヒー 無糖 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ブラジル産豆100% ボトルコーヒー 無糖 900ml",
+     "brand": "トップバリュ セレクト",
+     "size": "900ml",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトルコーヒー 深煎り 無糖 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 138,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_black_coffee_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_sweetened_coffee_bottle",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "ボトルコーヒー（微糖・加糖）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パン",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "ほどよい甘さのボトルコーヒーです。冷蔵庫で冷やしておけば、家事の合間の休憩やおやつの時間にすぐ楽しめます。朝ごはんのパンとも好相性です。",
+   "image_brief": "A tall PET bottle of milky coffee with a beige label reading 「微糖 コーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ボトルコーヒー 微糖 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトルコーヒー 加糖 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトルコーヒー 甘さひかえめ 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトルコーヒー 微糖 900ml×12本",
+     "brand": "トップバリュ",
+     "size": "900ml×12本",
+     "price_tax_excluded": 1480,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 微糖コーヒー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ボトルコーヒー 加糖 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ カフェラテ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 108,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_sweetened_coffee_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_canned_black_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "缶コーヒー（ブラック）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "休憩",
+    "ドライブ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "すっきりとした苦みのブラック缶コーヒーです。持ち運びやすい缶タイプで、休憩時間やお出かけのお供に。ケース買いでストックしておくと便利です。",
+   "image_brief": "A slim steel can of black coffee with a black-and-gold design reading 「ブラック 無糖」.",
+   "variants": [
+    {
+     "title": "トップバリュ 缶コーヒー ブラック 185g",
+     "brand": "トップバリュ",
+     "size": "185g",
+     "price_tax_excluded": 58,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー ブラック 185g×6本",
+     "brand": "トップバリュ",
+     "size": "185g×6本",
+     "price_tax_excluded": 338,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー ブラック 185g×30本",
+     "brand": "トップバリュ",
+     "size": "185g×30本",
+     "price_tax_excluded": 1580,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトル缶コーヒー ブラック 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトル缶コーヒー ブラック 400g×24本",
+     "brand": "トップバリュ",
+     "size": "400g×24本",
+     "price_tax_excluded": 2380,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 深煎り ボトル缶コーヒー ブラック 285g",
+     "brand": "トップバリュ セレクト",
+     "size": "285g",
+     "price_tax_excluded": 98,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_canned_black_coffee_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_canned_milk_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "缶コーヒー（微糖・ミルク）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "休憩",
+    "おやつ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "ミルクのまろやかさとコーヒーの香りを楽しめる缶コーヒーです。ほっと一息つきたい休憩時間やおやつのお供に。ケースでのまとめ買いもおすすめです。",
+   "image_brief": "A slim steel can of milk coffee with a cream-and-brown design reading 「微糖 コーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 缶コーヒー 微糖 185g",
+     "brand": "トップバリュ",
+     "size": "185g",
+     "price_tax_excluded": 58,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー 微糖 185g×6本",
+     "brand": "トップバリュ",
+     "size": "185g×6本",
+     "price_tax_excluded": 338,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー 微糖 185g×30本",
+     "brand": "トップバリュ",
+     "size": "185g×30本",
+     "price_tax_excluded": 1580,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー ミルク入り 加糖 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 缶コーヒー ミルク入り 加糖 250g×24本",
+     "brand": "トップバリュ",
+     "size": "250g×24本",
+     "price_tax_excluded": 1680,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトル缶コーヒー 微糖 370g",
+     "brand": "トップバリュ",
+     "size": "370g",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ボトル缶 カフェラテ 370g",
+     "brand": "トップバリュ",
+     "size": "370g",
+     "price_tax_excluded": 118,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_canned_milk_coffee_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_drip_bag_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "ドリップバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パン",
+    "ケーキ",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "カップにセットしてお湯を注ぐだけで、挽きたての香りが楽しめるドリップバッグコーヒーです。朝ごはんや午後のおやつの時間に一杯ずつ手軽に淹れられます。",
+   "image_brief": "A paper box of individually wrapped drip bag coffee with a brown design and 「ドリップコーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ドリップコーヒー スペシャルブレンド 8g×20袋",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ドリップコーヒー モカブレンド 7g×18袋",
+     "brand": "トップバリュ",
+     "size": "126g",
+     "price_tax_excluded": 448,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ドリップコーヒー キリマンジャロブレンド 7g×18袋",
+     "brand": "トップバリュ",
+     "size": "126g",
+     "price_tax_excluded": 448,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ドリップコーヒー カフェインレス 7g×10袋",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ドリップコーヒー ブルーマウンテンブレンド 8g×8袋",
+     "brand": "トップバリュ セレクト",
+     "size": "64g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ドリップコーヒー 8g×10袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ドリップコーヒー 7g×30袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "210g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_drip_bag_coffee_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_instant_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "インスタントコーヒー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "カフェオレ",
+    "コーヒーゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "お湯や牛乳に溶かすだけで手軽に楽しめるインスタントコーヒーです。朝の忙しい時間にもさっと一杯。手作りのコーヒーゼリーやお菓子作りにも使えます。",
+   "image_brief": "A glass jar of freeze-dried instant coffee with a red cap and a label reading 「インスタントコーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ インスタントコーヒー 瓶 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ インスタントコーヒー 瓶 135g",
+     "brand": "トップバリュ",
+     "size": "135g",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ インスタントコーヒー 詰め替え用 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ インスタントコーヒー ブラック スティック 2g×30本",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト フリーズドライ インスタントコーヒー 瓶 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ カフェインレス インスタントコーヒー 瓶 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス インスタントコーヒー 袋 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_instant_coffee_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_ground_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "レギュラーコーヒー（粉）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パン",
+    "ケーキ",
+    "アイスコーヒー"
+   ],
+   "tax_rate": 8,
+   "description": "ペーパードリップやコーヒーメーカーで淹れられる中挽きのレギュラーコーヒーです。朝ごはんのパンや週末のケーキと一緒に、香り高い一杯をどうぞ。",
+   "image_brief": "A gusseted foil coffee bag with a valve and a dark label reading 「レギュラーコーヒー 粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ レギュラーコーヒー モカブレンド 粉 320g",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レギュラーコーヒー キリマンジャロブレンド 粉 320g",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レギュラーコーヒー マイルドブレンド 粉 320g",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 548,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ レギュラーコーヒー スペシャルブレンド 粉 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト コロンビア スプレモ 粉 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "コロンビア産豆"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック レギュラーコーヒー 粉 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ アイスコーヒー用 深煎り 粉 320g",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 598,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_ground_coffee_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_coffee_beans",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "コーヒー豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ケーキ",
+    "休日のブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "自宅で挽きたての香りを楽しめる焙煎コーヒー豆です。休日のブランチや手作りケーキのお供にぴったり。好みの挽き方で味わえます。",
+   "image_brief": "A kraft paper coffee bean bag with a one-way valve showing roasted beans and 「コーヒー豆」.",
+   "variants": [
+    {
+     "title": "トップバリュ コーヒー豆 マイルドブレンド 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ブラジル サントス コーヒー豆 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産豆"
+    },
+    {
+     "title": "トップバリュ セレクト グアテマラ コーヒー豆 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "グアテマラ産豆"
+    },
+    {
+     "title": "トップバリュ セレクト エチオピア モカ コーヒー豆 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "エチオピア産豆"
+    },
+    {
+     "title": "トップバリュ コーヒー豆 スペシャルブレンド 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック コーヒー豆 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーヒー豆 深煎りブレンド 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_coffee_beans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_stick_latte_mix",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "スティックミックス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "休憩",
+    "パン"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注ぐだけでカフェ気分を味わえるスティックタイプのミックス飲料です。1杯ずつ個包装なので、家事の合間の休憩やおやつの時間に便利です。",
+   "image_brief": "A paper box of individual drink mix sticks with a latte art photo and 「スティック カフェオレ」.",
+   "variants": [
+    {
+     "title": "トップバリュ スティック カフェオレ 14g×20本",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ スティック カフェオレ 14g×20本",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スティック ロイヤルミルクティー 14g×10本",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スティック 抹茶ラテ 12g×10本",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スティック ほうじ茶ラテ 12g×10本",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス スティック カフェオレ 12g×30本",
+     "brand": "トップバリュ ベストプライス",
+     "size": "360g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_stick_latte_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_sports_drink",
+   "category_path": [
+    "飲料・水",
+    "スポーツドリンク",
+    "スポーツドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "部活",
+    "運動会",
+    "夏の水分補給",
+    "お出かけ",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "すっきりとした飲み口のスポーツドリンクです。部活動や運動会、暑い日のお出かけのお供に。粉末タイプは水筒用に作れて便利です。",
+   "image_brief": "A PET bottle of clear sports drink with a blue-and-white label reading 「スポーツドリンク」.",
+   "variants": [
+    {
+     "title": "トップバリュ スポーツドリンク 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 138,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スポーツドリンク 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スポーツドリンク 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1880,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スポーツドリンク 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 798,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スポーツドリンク 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スポーツドリンク 粉末 1L用 74g×5袋",
+     "brand": "トップバリュ",
+     "size": "370g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス スポーツドリンク 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 108,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_sports_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_cider",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "サイダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "誕生日パーティー",
+    "お風呂上がり",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "シュワッと爽快な炭酸のサイダーです。誕生日パーティーや週末の唐揚げの日に家族で楽しめます。果物を入れてフルーツポンチにするのもおすすめです。",
+   "image_brief": "A clear PET bottle of colorless soda with a blue-and-white label reading 「サイダー」.",
+   "variants": [
+    {
+     "title": "トップバリュ サイダー 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ サイダー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ サイダー 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1680,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ サイダー 1.5L×8本",
+     "brand": "トップバリュ",
+     "size": "1.5L×8本",
+     "price_tax_excluded": 898,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ サイダー 缶 350ml×6本",
+     "brand": "トップバリュ",
+     "size": "350ml×6本",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス サイダー 1.5L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.5L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_cider_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_cola",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "コーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "唐揚げ",
+    "誕生日パーティー",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "刺激的な炭酸と甘い香りのコーラです。ハンバーグや唐揚げの日、ホームパーティーで家族みんなで楽しめます。カロリーゼロタイプもそろえました。",
+   "image_brief": "A PET bottle of dark cola with a red label reading 「コーラ」.",
+   "variants": [
+    {
+     "title": "トップバリュ コーラ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーラ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーラ 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1680,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーラ 缶 350ml×6本",
+     "brand": "トップバリュ",
+     "size": "350ml×6本",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーラ ゼロ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ コーラ ゼロ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス コーラ 1.5L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.5L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_cola_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_ginger_ale",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "ジンジャーエール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "とんかつ",
+    "誕生日パーティー",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "しょうがの爽やかな香りが広がるジンジャーエールです。唐揚げやとんかつなど揚げ物の日にすっきりと。辛口タイプは大人の食事にもよく合います。",
+   "image_brief": "A PET bottle of pale golden ginger ale with a green-and-gold label reading 「ジンジャーエール」.",
+   "variants": [
+    {
+     "title": "トップバリュ ジンジャーエール 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジンジャーエール 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ジンジャーエール 缶 350ml×6本",
+     "brand": "トップバリュ",
+     "size": "350ml×6本",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ドライ ジンジャーエール 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産しょうが使用 辛口ジンジャーエール 280ml",
+     "brand": "トップバリュ セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 128,
+     "origin": "国産しょうが"
+    },
+    {
+     "title": "トップバリュ ジンジャーエール ゼロ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 128,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_ginger_ale_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_fruit_soda",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "フルーツ炭酸・ラムネ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "誕生日パーティー",
+    "夏祭り",
+    "クリームソーダ"
+   ],
+   "tax_rate": 8,
+   "description": "フルーツの香りと甘さを楽しめるカラフルな炭酸飲料です。バニラアイスをのせればおうちでクリームソーダに。子どもたちのパーティーや夏のおやつに人気です。",
+   "image_brief": "A PET bottle of bright green melon soda with a playful label reading 「メロンソーダ」.",
+   "variants": [
+    {
+     "title": "トップバリュ メロンソーダ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ メロンソーダ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グレープソーダ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ オレンジソーダ 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ラムネ 瓶 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ラムネ 瓶 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 448,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_fruit_soda_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_flavored_sparkling_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "フレーバー炭酸水"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "餃子",
+    "焼肉",
+    "お風呂上がり",
+    "割り材"
+   ],
+   "tax_rate": 8,
+   "description": "レモンなど果実の香りをつけた無糖の強炭酸水です。唐揚げや餃子などの食事中にさっぱりと。お酒の割り材やレモンスカッシュ作りにも使えます。",
+   "image_brief": "A clear PET bottle of sparkling water with a yellow lemon label reading 「強炭酸水 レモン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 強炭酸水 レモン 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 レモン 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1580,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 レモン 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 レモン 1L×15本",
+     "brand": "トップバリュ",
+     "size": "1L×15本",
+     "price_tax_excluded": 1480,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 グレープフルーツ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 ライム 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 瀬戸内レモン果汁入り 強炭酸水 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_flavored_sparkling_water_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_orange_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "オレンジジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パン",
+    "オムライス",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "オレンジの甘みと酸味がバランスよく楽しめる果汁100%ジュースです。朝ごはんのパンやオムライスのランチと一緒に。冷やしてグラスに注ぐだけで食卓が華やぎます。",
+   "image_brief": "A paper carton of orange juice with a bright orange design showing oranges and 「果汁100% オレンジ」.",
+   "variants": [
+    {
+     "title": "トップバリュ オレンジジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ オレンジジュース 果汁100% 1L×6本",
+     "brand": "トップバリュ",
+     "size": "1L×6本",
+     "price_tax_excluded": 1180,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ オレンジジュース 果汁100% 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ つぶ入り オレンジジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 228,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス オレンジジュース 果汁100% 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト バレンシアオレンジ ストレート果汁100% 1000ml",
+     "brand": "トップバリュ セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ オレンジジュース 果汁100% 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 298,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_orange_juice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_apple_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "りんごジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パン",
+    "カレーの隠し味"
+   ],
+   "tax_rate": 8,
+   "description": "りんごのやさしい甘さが広がる果汁100%ジュースです。朝ごはんやおやつにはもちろん、カレーやポークソテーの隠し味にも使えます。",
+   "image_brief": "A paper carton of apple juice with a red-apple design and 「果汁100% りんご」.",
+   "variants": [
+    {
+     "title": "トップバリュ りんごジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ りんごジュース 果汁100% 1L×6本",
+     "brand": "トップバリュ",
+     "size": "1L×6本",
+     "price_tax_excluded": 1180,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ りんごジュース 果汁100% 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス りんごジュース 果汁100% 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 青森県産りんご ストレート果汁100% 1000ml",
+     "brand": "トップバリュ セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "青森県産りんご"
+    },
+    {
+     "title": "トップバリュ セレクト 長野県産ふじ ストレート果汁100% 1000ml",
+     "brand": "トップバリュ セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 418,
+     "origin": "長野県産りんご"
+    },
+    {
+     "title": "トップバリュ にごりりんごジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 228,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_apple_juice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_grape_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "ぶどうジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "誕生日パーティー",
+    "ゼリー作り"
+   ],
+   "tax_rate": 8,
+   "description": "濃厚なぶどうの甘みが楽しめる果汁100%ジュースです。おやつの時間やパーティーの乾杯に。ゼラチンで固めて手作りゼリーにするのもおすすめです。",
+   "image_brief": "A paper carton of grape juice with a deep purple grape design and 「果汁100% ぶどう」.",
+   "variants": [
+    {
+     "title": "トップバリュ ぶどうジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 218,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ぶどうジュース 果汁100% 1L×6本",
+     "brand": "トップバリュ",
+     "size": "1L×6本",
+     "price_tax_excluded": 1280,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ぶどうジュース 果汁100% 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 368,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ぶどうジュース 果汁100% 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト コンコード ストレート果汁100% 1000ml",
+     "brand": "トップバリュ セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 418,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 白ぶどうジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 218,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_grape_juice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_mixed_fruit_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "ミックスジュース・その他果汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パン",
+    "フルーツポンチ"
+   ],
+   "tax_rate": 8,
+   "description": "いろいろな果実の味わいを楽しめる果汁100%ジュースです。朝ごはんのビタミンカラーの一杯や、フルーツポンチのベースにも。家族の好みに合わせて選べます。",
+   "image_brief": "A paper carton of mixed fruit juice with colorful fruit illustrations and 「果汁100% ミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミックスジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ パインアップルジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 228,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グレープフルーツジュース 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 218,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ マンゴーミックス 果汁100% 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミックスジュース 果汁100% 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ミックスジュース 果汁100% 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 158,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_mixed_fruit_juice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_kids_juice_small_pack",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "小容量・キッズ向けジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当",
+    "遠足",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "子どもが飲みきりやすい125mlの果汁100%ジュースです。ストロー付きで、おやつやお弁当、遠足のお供に便利。お出かけバッグにも入れやすいサイズです。",
+   "image_brief": "A shrink-wrapped three-pack of small juice cartons with straws and a cute label reading 「キッズ 果汁100%」.",
+   "variants": [
+    {
+     "title": "トップバリュ キッズ 果汁100% りんご 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キッズ 果汁100% オレンジ 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キッズ 果汁100% ぶどう 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キッズ 果汁100% ミックス 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キッズ 果汁100% 白ぶどう 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キッズ 果汁100% アソート 125ml×18本",
+     "brand": "トップバリュ",
+     "size": "125ml×18本",
+     "price_tax_excluded": 898,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_kids_juice_small_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_lactic_acid_drink",
+   "category_path": [
+    "飲料・水",
+    "乳酸菌飲料・豆乳飲料",
+    "乳酸菌飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "お風呂上がり",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱくて飲みやすい乳酸菌飲料です。小さなボトルは子どもの朝ごはんやおやつにちょうどいいサイズ。冷蔵庫に常備しておくと便利です。",
+   "image_brief": "A shrink-wrapped multipack of small plastic bottles of lactic acid drink with a red foil top and 「乳酸菌飲料」.",
+   "variants": [
+    {
+     "title": "トップバリュ 乳酸菌飲料 65ml×10本",
+     "brand": "トップバリュ",
+     "size": "65ml×10本",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳酸菌飲料 65ml×5本",
+     "brand": "トップバリュ",
+     "size": "65ml×5本",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳酸菌飲料 65ml×30本",
+     "brand": "トップバリュ",
+     "size": "65ml×30本",
+     "price_tax_excluded": 548,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ 乳酸菌飲料 65ml×10本",
+     "brand": "トップバリュ",
+     "size": "65ml×10本",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳酸菌飲料 400ml",
+     "brand": "トップバリュ",
+     "size": "400ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳酸菌飲料 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_lactic_acid_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_lactic_concentrate",
+   "category_path": [
+    "飲料・水",
+    "乳酸菌飲料・豆乳飲料",
+    "乳性飲料・希釈用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "夏の水分補給",
+    "かき氷",
+    "誕生日パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "水や炭酸水で割って楽しむ希釈用の乳性飲料と、そのまま飲めるストレートタイプです。甘酸っぱい味わいで夏のおやつにぴったり。かき氷のシロップにも使えます。",
+   "image_brief": "A white PET bottle with blue polka-dot design reading 「乳性飲料 希釈用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 乳性飲料 希釈用 470ml",
+     "brand": "トップバリュ",
+     "size": "470ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性飲料 希釈用 ぶどう 470ml",
+     "brand": "トップバリュ",
+     "size": "470ml",
+     "price_tax_excluded": 428,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性飲料 希釈用 マンゴー 470ml",
+     "brand": "トップバリュ",
+     "size": "470ml",
+     "price_tax_excluded": 428,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性飲料 ストレート 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 178,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性飲料 ストレート 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性炭酸飲料 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 乳性飲料 ストレート 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2080,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_lactic_concentrate_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_flavored_soy_milk_drink",
+   "category_path": [
+    "飲料・水",
+    "乳酸菌飲料・豆乳飲料",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "お弁当",
+    "パン"
+   ],
+   "tax_rate": 8,
+   "description": "大豆のまろやかさにフレーバーを加えた飲みやすい豆乳飲料です。朝ごはんのパンと一緒に、おやつの時間に。ストロー付きの紙パックでお弁当にも添えやすいです。",
+   "image_brief": "A small paper carton of flavored soy milk drink with a straw and a label reading 「豆乳飲料 麦芽コーヒー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豆乳飲料 麦芽コーヒー 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 バナナ 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 紅茶 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 抹茶 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 麦芽コーヒー 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 アソート 200ml×18本",
+     "brand": "トップバリュ",
+     "size": "200ml×18本",
+     "price_tax_excluded": 1280,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 さつまいも 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_flavored_soy_milk_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_smoothie",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "スムージー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パン",
+    "おやつ",
+    "グラノーラ"
+   ],
+   "tax_rate": 8,
+   "description": "野菜や果物をなめらかに仕上げた、とろりとした口当たりのスムージーです。忙しい朝ごはんにパンやグラノーラと一緒に。冷やしてそのまま飲めます。",
+   "image_brief": "A chilled paper carton of green smoothie with leafy greens and kiwi illustrations reading 「グリーンスムージー」.",
+   "variants": [
+    {
+     "title": "トップバリュ グリーンスムージー 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベリースムージー 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ マンゴースムージー 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ キウイ＆りんごスムージー 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンスムージー 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベリースムージー 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_smoothie_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_natural_water_small",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "ミネラルウォーター（小容量）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お出かけ",
+    "部活",
+    "お弁当",
+    "防災備蓄"
+   ],
+   "tax_rate": 8,
+   "description": "持ち運びやすい小容量ボトルの軟水の天然水です。お出かけや部活、お弁当のお供にちょうどいいサイズ。ケースでストックすれば防災用の備えにもなります。",
+   "image_brief": "A small clear PET bottle of mineral water with a light blue mountain label reading 「天然水」.",
+   "variants": [
+    {
+     "title": "トップバリュ 天然水 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 58,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 天然水 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1180,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ラベルレス 天然水 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1080,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 天然水 330ml×24本",
+     "brand": "トップバリュ",
+     "size": "330ml×24本",
+     "price_tax_excluded": 1080,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 天然水 500ml×24本",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml×24本",
+     "price_tax_excluded": 898,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 富士山麓の天然水 550ml",
+     "brand": "トップバリュ セレクト",
+     "size": "550ml",
+     "price_tax_excluded": 78,
+     "origin": "山梨県"
+    },
+    {
+     "title": "トップバリュ 天然水 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_natural_water_small_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_flavored_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "フレーバーウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "お出かけ",
+    "お風呂上がり",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ほんのり果実の香りがする、すっきり飲みやすいフレーバーウォーターです。甘さ控えめで、お弁当やお出かけのお供に。冷やしてお風呂上がりにも。",
+   "image_brief": "A clear PET bottle of near-water with a soft pink peach label reading 「白桃 フレーバーウォーター」.",
+   "variants": [
+    {
+     "title": "トップバリュ フレーバーウォーター 白桃 555ml",
+     "brand": "トップバリュ",
+     "size": "555ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フレーバーウォーター レモン 555ml",
+     "brand": "トップバリュ",
+     "size": "555ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フレーバーウォーター ゆず 555ml",
+     "brand": "トップバリュ",
+     "size": "555ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フレーバーウォーター ぶどう 555ml",
+     "brand": "トップバリュ",
+     "size": "555ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フレーバーウォーター 白桃 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フレーバーウォーター 白桃 555ml×24本",
+     "brand": "トップバリュ",
+     "size": "555ml×24本",
+     "price_tax_excluded": 2080,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_flavored_water_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_jelly_drink",
+   "category_path": [
+    "飲料・水",
+    "ゼリー飲料",
+    "ゼリー飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "部活",
+    "おやつ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとした食感で手軽に飲めるパウチ入りのゼリー飲料です。忙しい朝ごはんや部活前、おやつの時間に。冷やすとよりおいしく楽しめます。",
+   "image_brief": "A spouted pouch of fruit jelly drink with a green muscat design reading 「ゼリー飲料 マスカット」.",
+   "variants": [
+    {
+     "title": "トップバリュ ゼリー飲料 マスカット 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ゼリー飲料 ぶどう 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ゼリー飲料 りんご 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ゼリー飲料 グレープフルーツ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ゼリー飲料 みかん 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ゼリー飲料 マスカット 180g×6個",
+     "brand": "トップバリュ",
+     "size": "180g×6個",
+     "price_tax_excluded": 748,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ゼリー飲料 180g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_jelly_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_milk_cocoa_powder",
+   "category_path": [
+    "飲料・水",
+    "粉末飲料・ココア",
+    "ミルクココア"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "寒い日のホットドリンク",
+    "パン"
+   ],
+   "tax_rate": 8,
+   "description": "お湯や牛乳で溶かすだけのミルクココアです。寒い朝の朝ごはんや、子どものおやつの時間にほっとする一杯を。甘さひかえめタイプもあります。",
+   "image_brief": "A stand-up zipper pouch of cocoa powder with a steaming mug image and 「ミルクココア」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミルクココア 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクココア 徳用 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 698,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ ミルクココア 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクココア スティック 20g×10本",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ミルクココア 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミルクココア ペットボトル 280ml",
+     "brand": "トップバリュ",
+     "size": "280ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_milk_cocoa_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_pure_cocoa_powder",
+   "category_path": [
+    "飲料・水",
+    "粉末飲料・ココア",
+    "純ココア"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お菓子作り",
+    "ホットケーキ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖やミルクを加えていない純ココアです。牛乳と砂糖で好みの甘さに調整でき、ココアクッキーやガトーショコラなどお菓子作りにも使えます。",
+   "image_brief": "A cylindrical paper canister of pure cocoa powder with a dark brown label reading 「純ココア」.",
+   "variants": [
+    {
+     "title": "トップバリュ 純ココア 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 純ココア 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 純ココア 120g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 純ココア 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_pure_cocoa_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_amazake",
+   "category_path": [
+    "飲料・水",
+    "その他飲料",
+    "甘酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ひな祭り",
+    "冬の温かい飲み物"
+   ],
+   "tax_rate": 8,
+   "description": "米麹から作った、ノンアルコールでやさしい甘さの甘酒です。冷やしても温めてもおいしく、朝ごはんやおやつにどうぞ。ひな祭りなど季節の行事にも。",
+   "image_brief": "A PET bottle of milky white rice koji amazake with a traditional label reading 「米麹 甘酒」.",
+   "variants": [
+    {
+     "title": "トップバリュ 米麹 甘酒 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 米麹 甘酒 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 米麹 甘酒 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 258,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ しょうが入り 米麹 甘酒 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 108,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 米麹 甘酒 濃縮タイプ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 米麹 甘酒 250ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_amazake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_drinking_vinegar",
+   "category_path": [
+    "飲料・水",
+    "その他飲料",
+    "飲むお酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お風呂上がり",
+    "おやつ",
+    "ドレッシング作り"
+   ],
+   "tax_rate": 8,
+   "description": "果実の甘みでまろやかに仕上げた飲むお酢です。水や炭酸水、牛乳で割って好みの濃さで楽しめます。サラダのドレッシング作りにも使えます。",
+   "image_brief": "A glass bottle of amber drinking vinegar with an apple illustration and 「りんご酢ドリンク」.",
+   "variants": [
+    {
+     "title": "トップバリュ りんご酢ドリンク 希釈用 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ はちみつりんご酢 ストレート 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 228,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 黒酢ドリンク ストレート 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 228,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブルーベリー黒酢 希釈用 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ざくろ酢ドリンク 希釈用 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産りんご使用 りんご酢ドリンク 希釈用 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 548,
+     "origin": "国産りんご"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_drinking_vinegar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_drink_soft_honey_lemon_drink",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "果汁入り飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "部活",
+    "お弁当",
+    "寒い日のホットドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "はちみつのやさしい甘さとレモンの酸味を合わせた飲みやすいドリンクです。部活やお弁当のお供に。ホット用ボトルは寒い日に温めて楽しめます。",
+   "image_brief": "A PET bottle of pale yellow honey lemon drink with a honey-dipper and lemon label reading 「はちみつレモン」.",
+   "variants": [
+    {
+     "title": "トップバリュ はちみつレモン 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ はちみつレモン 1.5L",
+     "brand": "トップバリュ",
+     "size": "1.5L",
+     "price_tax_excluded": 178,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ はちみつレモン ホット用 280ml",
+     "brand": "トップバリュ",
+     "size": "280ml",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ はちみつレモン 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2080,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ はちみつレモン 希釈用 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_drink_soft_honey_lemon_drink_p.jpg"
+   ]
+  }
+ ]
+}

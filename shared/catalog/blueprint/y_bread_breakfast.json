@@ -1,0 +1,3130 @@
+{
+ "category_key": "y_bread_breakfast",
+ "items": [
+  {
+   "base_id": "y_bread_breakfast_whole_wheat_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "全粒粉・ライ麦食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "全粒粉を練り込んだ、香ばしく素朴な味わいの食パンです。トーストしてバターやジャムを塗るほか、ハムや卵をはさんだサンドイッチにもおすすめです。",
+   "image_brief": "Plastic bag of sliced brown whole-wheat bread loaf with clear window and label 「全粒粉入り食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 全粒粉入り食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り食パン 8枚切",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機小麦全粒粉入り食パン 6枚切",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "6枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦 全粒粉食パン 5枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "5枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ライ麦入り食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_whole_wheat_shokupan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_raisin_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "レーズン・菓子食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "おやつ",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "レーズンなどの具材をたっぷり練り込んだ、ほんのり甘い食パンです。そのままでも、軽くトーストしてバターをのせても美味しく、朝ごはんや子どものおやつにぴったりです。",
+   "image_brief": "Clear plastic bag of sliced raisin bread showing raisins in the crumb, label 「レーズン食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ レーズン食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レーズン食パン 4枚切",
+     "brand": "トップバリュ",
+     "size": "4枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト カリフォルニアレーズン たっぷりレーズンブレッド 1斤",
+     "brand": "トップバリュ セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ くるみレーズン食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコチップ食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メープル風味食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シナモンレーズン食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_raisin_shokupan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_thick_sliced_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "厚切り食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "厚切りトースト",
+    "ピザトースト",
+    "フレンチトースト"
+   ],
+   "tax_rate": 8,
+   "description": "外はカリッと中はもっちり焼き上がる、厚切りタイプの食パンです。バタートーストやピザトースト、休日のフレンチトーストにも向いています。",
+   "image_brief": "Plastic bag holding thick-cut square white bread slices, label 「厚切りトースト食パン 4枚切」.",
+   "variants": [
+    {
+     "title": "トップバリュ 厚切りトースト食パン 4枚切",
+     "brand": "トップバリュ",
+     "size": "4枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りトースト食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りトースト食パン 3枚切",
+     "brand": "トップバリュ",
+     "size": "3枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 極厚 バター香る食パン 2枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 角食パン 厚切り 4枚切",
+     "brand": "",
+     "size": "4枚",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 角食パン 厚切り 3枚切",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りトースト食パン 4枚切 2袋組",
+     "brand": "トップバリュ",
+     "size": "4枚×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_thick_sliced_shokupan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_premium_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "こだわり食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小麦や湯種製法にこだわった、しっとりもちもちの食パンです。焼かずにそのまま食べても甘みが感じられ、休日の朝ごはんやたまごサンドにおすすめです。",
+   "image_brief": "Premium paper-and-film bag of soft white bread loaf, label 「北海道産小麦100% 湯種食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 北海道産小麦100% 湯種食パン 6枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "6枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦100% 湯種食パン 5枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "5枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦100% 湯種食パン 8枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "8枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 発酵バター入り 生食パン 1斤（スライスなし）",
+     "brand": "トップバリュ セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 北海道産生クリーム入り 生食パン 1斤",
+     "brand": "",
+     "size": "1斤",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 北海道産生クリーム入り 生食パン ハーフ（1/2斤）",
+     "brand": "",
+     "size": "1/2斤",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト はちみつ入り ホテルブレッド 6枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "6枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_premium_shokupan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_sandwich_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "サンドイッチ用食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サンドイッチ",
+    "お弁当",
+    "ピクニック",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "サンドイッチ作りに便利な薄切り・耳なしの食パンです。たまごサンドやハムサンド、ロールサンドなど、お弁当や行楽のお供に活躍します。",
+   "image_brief": "Plastic bag of thin crustless white bread slices stacked neatly, label 「サンドイッチ用 耳なし食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ サンドイッチ用 食パン 10枚切",
+     "brand": "トップバリュ",
+     "size": "10枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サンドイッチ用 食パン 12枚切",
+     "brand": "トップバリュ",
+     "size": "12枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サンドイッチ用 耳なし食パン 8枚入",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サンドイッチ用 耳なし食パン 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サンドイッチ用 全粒粉入り 食パン 10枚切",
+     "brand": "トップバリュ",
+     "size": "10枚",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロールサンド用 耳なし うすぎり食パン 10枚入",
+     "brand": "トップバリュ",
+     "size": "10枚",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_sandwich_bread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_yamagata_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "山型・イギリス食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ",
+    "ホットサンド"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり膨らんだ山型が特徴の、軽い口あたりの食パンです。トーストするとサクッと香ばしく、ホットサンドやサンドイッチにも使いやすいです。",
+   "image_brief": "Plastic bag of dome-topped sliced white bread loaf, label 「山型食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 山型食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 山型食パン 8枚切",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 山型食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦 イギリス食パン 6枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "6枚",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] イギリスパン 1本（約1.5斤）",
+     "brand": "",
+     "size": "1本（約1.5斤）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛乳仕込み 山型食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_yamagata_bread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_rice_flour_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "米粉パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "国産米粉を加えて焼き上げた、もっちりとした食感の食パンです。トーストするとさっくり、そのままでもしっとりとして、和風のおかずをはさむサンドイッチにも合います。",
+   "image_brief": "Plastic bag of soft white sliced bread with rice ear illustration, label 「国産米粉入り 食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米粉入り 食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米粉入り 食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米粉入り 食パン 8枚切",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米粉入り もっちりミニ食パン 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米粉入り 黒糖食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 新潟県産米粉の もちもち食パン 1斤",
+     "brand": "",
+     "size": "1斤",
+     "price_tax_excluded": 368,
+     "origin": "国内製造（新潟県産米粉使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_rice_flour_bread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_melon_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "メロンパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ランチ",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのクッキー生地とふんわりパン生地が楽しめるメロンパンです。子どものおやつや、忙しい日の朝ごはんにも手軽に食べられます。",
+   "image_brief": "Single melon pan with golden cookie crust in a clear printed bag, label 「メロンパン」.",
+   "variants": [
+    {
+     "title": "トップバリュ メロンパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メロンパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メロンクリームパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコチップメロンパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニメロンパン 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] サクサク 大きなメロンパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産バター使用 メロンパン 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_melon_pan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_anpan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "あんぱん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "ランチ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりした生地にあんこをたっぷり包んだ定番のあんぱんです。つぶあん・こしあんなど好みに合わせて選べ、おやつやお茶うけにぴったりです。",
+   "image_brief": "Round glossy anpan topped with sesame in a clear printed bag, label 「つぶあんぱん」.",
+   "variants": [
+    {
+     "title": "トップバリュ つぶあんぱん 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こしあんぱん 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産小豆 つぶあんぱん 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 桜あんぱん 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白あんぱん 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごま入りつぶあんぱん 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 北海道産小豆のこしあんぱん 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 十勝産小豆 粒あんぱん 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_anpan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_cream_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "クリームパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "ランチ",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかなカスタードクリームをたっぷり詰めたクリームパンです。やさしい甘さで子どもから大人まで人気があり、おやつや軽い朝ごはんにどうぞ。",
+   "image_brief": "Glove-shaped cream pan in a clear printed bag, label 「クリームパン」.",
+   "variants": [
+    {
+     "title": "トップバリュ クリームパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クリームパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルククリームパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコクリームパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産牛乳使用 とろけるカスタードクリームパン 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 生カスタードのクリームパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_cream_pan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_choco_cornet",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "コロネ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "くるくる巻いた生地にクリームを詰めたコロネです。チョコやカスタードなど味が選べ、子どものおやつに人気の菓子パンです。",
+   "image_brief": "Spiral-shaped choco cornet filled with chocolate cream in a clear bag, label 「チョココロネ」.",
+   "variants": [
+    {
+     "title": "トップバリュ チョココロネ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニチョココロネ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カスタードコロネ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホイップクリームコロネ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 濃厚チョコのコロネ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 2色コロネ（チョコ&カスタード）1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_choco_cornet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_mini_sweet_bun_pack",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "袋入りミニパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "食べきりやすい小さなパンが袋に入った、家族で分けやすい菓子パンです。朝ごはんの一品や子どものおやつ、ピクニックのお供にも便利です。",
+   "image_brief": "Clear bag with five small thin-skinned buns lined up, label 「薄皮つぶあんぱん 5個入」.",
+   "variants": [
+    {
+     "title": "トップバリュ 薄皮つぶあんぱん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮こしあんぱん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮クリームパン 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮チョコパン 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮ピーナッツクリームパン 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮かぼちゃあんぱん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちぎりパン ミルククリーム 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_mini_sweet_bun_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_koppe_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "コッペパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ランチ",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "昔ながらのふんわりコッペパンに、ジャムやクリームをはさんだ懐かしい味わいです。プレーンタイプは焼きそばやたまごサラダをはさんでアレンジも楽しめます。",
+   "image_brief": "Long soft koppe bun sliced and filled with jam and margarine in a clear bag, label 「コッペパン ジャム&マーガリン」.",
+   "variants": [
+    {
+     "title": "トップバリュ コッペパン ジャム&マーガリン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コッペパン ピーナッツクリーム 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コッペパン つぶあん&マーガリン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コッペパン たまごサラダ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレーン コッペパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 昔ながらの コッペパン あんバター 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コッペパン 小倉&ホイップ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_koppe_pan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_steamed_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "蒸しパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりふわふわに蒸し上げた、やさしい甘さの蒸しパンです。子どものおやつや、朝ごはんにも食べやすいサイズです。",
+   "image_brief": "Round yellow steamed cake in a clear printed bag, label 「チーズ蒸しケーキ」.",
+   "variants": [
+    {
+     "title": "トップバリュ チーズ蒸しケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒糖蒸しパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産かぼちゃの蒸しパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶あずき蒸しパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ蒸しパン 3種アソート 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ さつまいも蒸しパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレーン 蒸しパン 2個入",
+     "brand": "トップバリュ",
+     "size": "2個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_steamed_bread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_curry_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "カレーパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "朝ごはん",
+    "おやつ",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスの効いたカレーを包んで揚げたり焼いたりした惣菜パンです。トースターで温め直すと衣がサクッとして、ランチや小腹がすいた時にぴったりです。",
+   "image_brief": "Golden breaded curry bread in a clear printed bag, label 「カレーパン」.",
+   "variants": [
+    {
+     "title": "トップバリュ カレーパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きカレーパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 辛口カレーパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカレーパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産牛のビーフカレーパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 半熟たまご入り カレーパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チーズ入り焼きカレーパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_curry_pan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_yakisoba_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "焼きそばパン・ドッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "お弁当",
+    "おやつ",
+    "焼きそば"
+   ],
+   "tax_rate": 8,
+   "description": "ソース焼きそばをコッペパンにたっぷりはさんだ、ボリュームのある惣菜パンです。紅しょうがのアクセントが効いて、ランチや部活帰りの軽食にも人気です。",
+   "image_brief": "Hot-dog style bun stuffed with sauce yakisoba and red pickled ginger in a clear bag, label 「焼きそばパン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 焼きそばパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きそばドッグ マヨネーズ入り 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大盛り 焼きそばパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩焼きそばパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ナポリタンドッグ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きそば&コロッケパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_yakisoba_pan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_savory_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ランチ",
+    "おやつ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ウインナーやツナマヨ、コーンなどをのせて焼き上げた調理パンです。軽く温めると香ばしさが増し、朝ごはんや子どもの軽食にもおすすめです。",
+   "image_brief": "Golden roll wrapped around a sausage in a clear printed bag, label 「ウインナーロール」.",
+   "variants": [
+    {
+     "title": "トップバリュ ウインナーロール 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウインナーロール 3個入",
+     "brand": "トップバリュ",
+     "size": "3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ツナマヨパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンマヨパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハム&チーズパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 厚切りベーコンエピ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピザパン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_savory_roll_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_sandwich",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ランチ",
+    "ピクニック",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "たまごやハム、ツナなど定番の具材をはさんだサンドイッチです。忙しい朝ごはんやランチ、ピクニックのお供に手軽に楽しめます。",
+   "image_brief": "Clear triangular plastic pack showing egg, ham and tuna sandwich cross-sections, label 「ミックスサンド」.",
+   "variants": [
+    {
+     "title": "[店内調理] ミックスサンド（たまご・ハム・ツナ）1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] たまごサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ハムレタスサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産豚ロースかつサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たまごサンド 2個入",
+     "brand": "トップバリュ",
+     "size": "2個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハム&チーズ ロールサンド 3個入",
+     "brand": "トップバリュ",
+     "size": "3個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] BLTサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_sandwich_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_fruit_sandwich",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "フルーツサンド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ブランチ",
+    "デザート",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりした食パンにホイップクリームと彩りのよいフルーツをはさんだフルーツサンドです。おやつや休日のブランチ、ちょっとしたおもてなしにも喜ばれます。",
+   "image_brief": "Clear pack of crustless sandwiches showing whipped cream with strawberry, kiwi and mandarin cross-sections, label 「ミックスフルーツサンド」.",
+   "variants": [
+    {
+     "title": "[店内調理] ミックスフルーツサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] いちごサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] みかんサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツサンド ホイップ&ミックスフルーツ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] バナナクリームサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] シャインマスカットサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_fruit_sandwich_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_bagel",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ベーグル・マフィン",
+    "ベーグル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ブランチ",
+    "サンドイッチ",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちとした歯ごたえが楽しめるベーグルです。横半分に切ってトーストし、クリームチーズやスモークサーモンをはさむと、休日のブランチにぴったりです。",
+   "image_brief": "Single plain bagel in a clear bag with sticker label 「ベーグル プレーン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベーグル プレーン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル プレーン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル ブルーベリー 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル 全粒粉 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル セサミ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル チョコチップ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーグル シナモンレーズン 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_bagel_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_english_muffin",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ベーグル・マフィン",
+    "イングリッシュマフィン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "エッグマフィン",
+    "ブランチ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "手で半分に割ってトーストすると、外はカリッと中はもっちり仕上がるイングリッシュマフィンです。目玉焼きやハム、チーズをはさんでエッグマフィン風の朝ごはんにどうぞ。",
+   "image_brief": "Plastic bag of four cornmeal-dusted English muffins, label 「イングリッシュマフィン プレーン」.",
+   "variants": [
+    {
+     "title": "トップバリュ イングリッシュマフィン プレーン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ イングリッシュマフィン プレーン 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ イングリッシュマフィン 全粒粉 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ イングリッシュマフィン レーズン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦 イングリッシュマフィン 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ イングリッシュマフィン ハニー 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_english_muffin_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_naan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ナン・ピタ・トルティーヤ",
+    "ナン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "キーマカレー",
+    "ピザ",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "フライパンやトースターで温めるだけで、もちもちの焼きたて食感が楽しめるナンです。おうちカレーやキーマカレーに添えたり、ピザ風にアレンジしたりもできます。",
+   "image_brief": "Plastic pouch with two teardrop-shaped naan breads visible, label 「プレーンナン 2枚入」.",
+   "variants": [
+    {
+     "title": "トップバリュ プレーンナン 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレーンナン 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガーリックナン 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チーズナン 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入りナン 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニナン 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_naan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_hotdog_bun",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ホットドッグ・バーガー用パン",
+    "ドッグパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホットドッグ",
+    "朝ごはん",
+    "焼きそばパン",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ソーセージや焼きそば、たまごサラダなど好きな具材をはさめるホットドッグ用パンです。切り込み入りで、朝ごはんや子どもと一緒に作るランチに便利です。",
+   "image_brief": "Clear bag of soft pre-slit hot dog buns lined up, label 「ホットドッグ用パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ホットドッグ用パン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホットドッグ用パン 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロングドッグパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニドッグパン 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入りドッグパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ソフトフランス ドッグパン 3個入",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_hotdog_bun_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_hamburger_bun",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ホットドッグ・バーガー用パン",
+    "バンズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーガー",
+    "ハンバーグ",
+    "照り焼きバーガー",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "手作りハンバーガーにぴったりのふんわりバンズです。ハンバーグや照り焼きチキン、えびカツをはさんで、週末のおうちバーガーを楽しめます。",
+   "image_brief": "Clear bag of sesame-topped round burger buns, label 「ハンバーガーバンズ ごま付き」.",
+   "variants": [
+    {
+     "title": "トップバリュ ハンバーガーバンズ ごま付き 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハンバーガーバンズ ごま付き 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハンバーガーバンズ プレーン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニバンズ 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブリオッシュバンズ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入りバンズ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_hamburger_bun_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_french_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "バゲット・フランスパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "シチュー",
+    "パスタ",
+    "グラタン",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "店内で焼き上げた、皮がパリッと香ばしいフランスパンです。シチューやパスタに添えたり、ガーリックトーストにしたりと、晩ごはんにもよく合います。",
+   "image_brief": "Long crusty baguette in a paper bakery sleeve with sticker 「バゲット」.",
+   "variants": [
+    {
+     "title": "[店内焼成] バゲット 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] バゲット ハーフ 1本",
+     "brand": "",
+     "size": "1/2本",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] バタール 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ミニフランス 4個入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガーリックフランス 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スライス フランスパン 8枚入",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 明太フランス 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_french_bread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_donut",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ドーナツ・揚げパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり揚げたドーナツや揚げパンです。シュガーやきなこ、チョコがけなど味わいが選べ、家族のおやつにぴったりです。",
+   "image_brief": "Clear bag of four sugar-coated ring donuts, label 「シュガードーナツ 4個入」.",
+   "variants": [
+    {
+     "title": "トップバリュ シュガードーナツ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オールドファッション 3個入",
+     "brand": "トップバリュ",
+     "size": "3個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコがけドーナツ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ揚げドーナツ 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] きなこ揚げパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] あんドーナツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ツイストドーナツ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_donut_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_oatmeal",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "オートミール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "オートミール粥",
+    "お菓子作り",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦を食べやすく加工したオートミールです。牛乳や豆乳で煮て朝ごはんにしたり、だしで煮て和風のおかゆ風にしたり、クッキー作りにも使えます。",
+   "image_brief": "Stand-up resealable bag of rolled oats with oat flakes visible through window, label 「オートミール ロールドオーツ」.",
+   "variants": [
+    {
+     "title": "トップバリュ オートミール ロールドオーツ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ オートミール ロールドオーツ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ オートミール クイックオーツ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ オートミール インスタントオーツ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機オートミール 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "オーストラリア産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ 国産 オートミール 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産オーツ麦使用"
+    },
+    {
+     "title": "トップバリュ オートミール フルーツミックス 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_oatmeal_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_brown_rice_flakes",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "玄米フレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ヨーグルトトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "玄米を香ばしく焼き上げた、サクサク食感のフレークです。牛乳をかけて朝ごはんにしたり、ヨーグルトにトッピングしたりして手軽に楽しめます。",
+   "image_brief": "Cardboard cereal box showing a bowl of golden brown rice flakes with milk, label 「玄米フレーク」.",
+   "variants": [
+    {
+     "title": "トップバリュ 玄米フレーク 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玄米フレーク 大容量 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玄米フレーク 黒糖味 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玄米フレーク メープル味 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米使用 玄米フレーク 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造（国産玄米使用）"
+    },
+    {
+     "title": "トップバリュ 玄米フレーク フルーツ入り 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_brown_rice_flakes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_chocolate_cereal",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "ココア・チョコシリアル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "お菓子作り"
+   ],
+   "tax_rate": 8,
+   "description": "ココアの風味が子どもに人気のシリアルです。牛乳をかけるとほんのりチョコミルクになり、朝ごはんやおやつにぴったりです。",
+   "image_brief": "Colorful cereal box showing chocolate puffs in a bowl of milk, label 「ココア味 シリアル」.",
+   "variants": [
+    {
+     "title": "トップバリュ ココア味 シリアル 220g",
+     "brand": "トップバリュ",
+     "size": "220g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコクランチ シリアル 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアパフ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコリング シリアル 220g",
+     "brand": "トップバリュ",
+     "size": "220g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココア味 シリアル 大容量 440g",
+     "brand": "トップバリュ",
+     "size": "440g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコ&バニラ 2色パフ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_chocolate_cereal_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_flavored_corn_flakes",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "味付きコーンフレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖やはちみつなどで味付けした、サクサクのコーンフレークです。牛乳をかけるだけで朝ごはんになり、パフェのトッピングにも使えます。",
+   "image_brief": "Cereal box showing sugar-frosted corn flakes in a bowl, label 「シュガーコーンフレーク」.",
+   "variants": [
+    {
+     "title": "トップバリュ シュガーコーンフレーク 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シュガーコーンフレーク 大容量 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ はちみつコーンフレーク 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メープル味 コーンフレーク 220g",
+     "brand": "トップバリュ",
+     "size": "220g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きなこ味 コーンフレーク 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごミルク味 コーンフレーク 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_flavored_corn_flakes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_bran_flakes",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "ブランフレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ヨーグルトトッピング",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "小麦の外皮（ブラン）や全粒粉を使った、香ばしい味わいのフレークです。牛乳やヨーグルトと合わせて、毎日の朝ごはんにどうぞ。",
+   "image_brief": "Cereal box showing brown bran flakes with raisins in a bowl, label 「全粒粉ブランフレーク」.",
+   "variants": [
+    {
+     "title": "トップバリュ 全粒粉ブランフレーク 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉ブランフレーク レーズン入り 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小麦ブラン ドライフルーツ入り 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉ブランフレーク 大容量 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉 ブランリング 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ブランフレーク 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_bran_flakes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_muesli",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "ミューズリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ヨーグルトトッピング",
+    "オーバーナイトオーツ"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦にドライフルーツやナッツを合わせた、焼かずに仕上げたミューズリーです。牛乳やヨーグルトに一晩浸してしっとりさせるのもおすすめです。",
+   "image_brief": "Stand-up pouch showing oats, dried fruits and nuts, label 「ミューズリー フルーツ&ナッツ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミューズリー フルーツ&ナッツ 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミューズリー ベリーミックス 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミューズリー 砂糖不使用 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 7種のフルーツとナッツのミューズリー 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミューズリー フルーツ&ナッツ 大容量 700g",
+     "brand": "トップバリュ",
+     "size": "700g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ミューズリー 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_muesli_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_peanut_butter",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ピーナッツバター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "サンドイッチ",
+    "ごま和え風"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいピーナッツの風味が広がるスプレッドです。トーストやバナナサンドにはもちろん、和え物のコクだしにも使えます。",
+   "image_brief": "Plastic jar of creamy peanut butter with peanut illustration, label 「ピーナッツバター クリーミー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ピーナッツバター クリーミー 340g",
+     "brand": "トップバリュ",
+     "size": "340g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピーナッツバター チャンキー 340g",
+     "brand": "トップバリュ",
+     "size": "340g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピーナッツクリーム 加糖 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピーナッツバター 無糖 ピーナッツ100% 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピーナッツクリーム チューブ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 千葉県産落花生 ピーナッツバター 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造（千葉県産落花生使用）"
+    },
+    {
+     "title": "トップバリュ ピーナッツバター クリーミー 大容量 510g",
+     "brand": "トップバリュ",
+     "size": "510g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_peanut_butter_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_chocolate_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "チョコスプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "おやつ",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "パンに塗りやすい、なめらかなチョコレートスプレッドです。トーストやパンケーキ、バナナと合わせて子どもに人気の朝ごはんやおやつになります。",
+   "image_brief": "Glass jar of glossy chocolate spread with a slice of toast illustration, label 「チョコレートスプレッド」.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコレートスプレッド 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ヘーゼルナッツ ココアスプレッド 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホワイトチョコスプレッド 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコクリーム チューブ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ベルギーチョコレート使用 チョコスプレッド 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクチョコスプレッド 大容量 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_chocolate_spread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_marmalade",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "マーマレード"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "ヨーグルト",
+    "照り焼き"
+   ],
+   "tax_rate": 8,
+   "description": "柑橘の皮のほろ苦さと甘みが楽しめるマーマレードです。トーストやヨーグルトに添えるほか、鶏肉の照り焼きやスペアリブの隠し味にも使えます。",
+   "image_brief": "Glass jar of orange marmalade with visible peel strips, label 「オレンジマーマレード」.",
+   "variants": [
+    {
+     "title": "トップバリュ オレンジマーマレード 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オレンジマーマレード 低糖度 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産 夏みかんマーマレード 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造（国産夏みかん使用）"
+    },
+    {
+     "title": "トップバリュ 高知県産 ゆずマーマレード 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（高知県産ゆず使用）"
+    },
+    {
+     "title": "トップバリュ 瀬戸内レモン マーマレード 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造（瀬戸内産レモン使用）"
+    },
+    {
+     "title": "トップバリュ セレクト セビルオレンジ マーマレード 270g",
+     "brand": "トップバリュ セレクト",
+     "size": "270g",
+     "price_tax_excluded": 498,
+     "origin": "スペイン産セビルオレンジ使用"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機オレンジマーマレード 260g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "260g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_marmalade_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_maple_syrup",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "はちみつ・シロップ",
+    "メープルシロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パンケーキ",
+    "フレンチトースト",
+    "ヨーグルト",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "カナダ産のサトウカエデの樹液を煮詰めた、純粋メープルシロップです。パンケーキやフレンチトーストにかけるほか、照り焼きや煮物の甘み付けにも使えます。",
+   "image_brief": "Glass bottle of amber maple syrup with maple leaf illustration, label 「メープルシロップ 純粋」.",
+   "variants": [
+    {
+     "title": "トップバリュ メープルシロップ 純粋 カナダ産 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ メープルシロップ 純粋 カナダ産 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 1280,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ メープルシロップ ゴールデン デリケートテイスト 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ セレクト メープルシロップ アンバー リッチテイスト 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機メープルシロップ 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 948,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ メープルシロップ ポーションタイプ 10g×12個",
+     "brand": "トップバリュ",
+     "size": "10g×12個",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_maple_syrup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_toast_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "トーストスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "ガーリックトースト",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "食パンに塗ってトースターで焼くだけで、いつもと違うトーストが楽しめるスプレッドです。ガーリックトーストやシュガートーストなど、朝ごはんやおやつのバリエーションが広がります。",
+   "image_brief": "Small plastic cup of spread with toast photo on lid, label 「ガーリックトーストスプレッド」.",
+   "variants": [
+    {
+     "title": "トップバリュ ガーリックトーストスプレッド 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シュガーバタートーストスプレッド 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぬって焼くだけ ツナマヨスプレッド 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぬって焼くだけ メロンパン風スプレッド 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぬって焼くだけ ピザトーストソース 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カスタードクリームスプレッド 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 練乳いちごスプレッド 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_toast_spread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_anko_spread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "あんこ・小倉スプレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "小倉トースト",
+    "おやつ",
+    "ぜんざい",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆を使った、トーストや和菓子作りに使いやすいあんこです。バターと合わせて小倉トーストにしたり、白玉と合わせておやつにしたりと活躍します。",
+   "image_brief": "Stand-up pouch of sweet red bean paste with toast illustration, label 「北海道産小豆 つぶあん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産小豆 つぶあん 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（北海道産小豆使用）"
+    },
+    {
+     "title": "トップバリュ 北海道産小豆 こしあん 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（北海道産小豆使用）"
+    },
+    {
+     "title": "トップバリュ 小倉スプレッド チューブ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小倉マーガリン スプレッド 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 十勝産小豆 粒あん 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（北海道十勝産小豆使用）"
+    },
+    {
+     "title": "トップバリュ あんバター スプレッド 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_anko_spread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_frozen_pancake",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍パン・朝食",
+    "パンケーキ・ホットケーキ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "ブランチ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "電子レンジで温めるだけで、ふんわりしたパンケーキが楽しめます。バターやメープルシロップをかけて忙しい朝ごはんや子どものおやつにどうぞ。",
+   "image_brief": "Frozen food bag showing stacked pancakes with butter and syrup, label 「冷凍 ホットケーキ 6枚入」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ホットケーキ 6枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "6枚（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニパンケーキ 12枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "12枚（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 メープル入り パンケーキ 6枚入（270g）",
+     "brand": "トップバリュ",
+     "size": "6枚（270g）",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ふわふわ スフレパンケーキ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 米粉のパンケーキ 6枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "6枚（240g）",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ホットケーキ 大容量 10枚入（400g）",
+     "brand": "トップバリュ",
+     "size": "10枚（400g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 チョコチップ ミニパンケーキ 12枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "12枚（240g）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_frozen_pancake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_frozen_french_toast",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍パン・朝食",
+    "フレンチトースト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "ブランチ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "卵液をしっかり染み込ませて焼き上げたフレンチトーストです。電子レンジやトースターで温めるだけで、手間のかかる一品が手軽に楽しめます。",
+   "image_brief": "Frozen food box showing golden French toast slices dusted with sugar, label 「冷凍 フレンチトースト」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 フレンチトースト 4枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "4枚（240g）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 フレンチトースト メープル 4枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "4枚（240g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくちフレンチトースト 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 バゲットのフレンチトースト 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 ブリオッシュ フレンチトースト 2枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 フレンチトースト シナモン 4枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "4枚（240g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_frozen_french_toast_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_frozen_waffle",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍パン・朝食",
+    "ワッフル"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "トースターで温めると外はカリッと香ばしく仕上がるワッフルです。アイスやフルーツを添えてデザート風にしたり、朝ごはんにしたりと楽しめます。",
+   "image_brief": "Frozen food bag showing Belgian waffles with pearl sugar, label 「冷凍 ベルギーワッフル」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ベルギーワッフル 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベルギーワッフル チョコ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 トースター用 ワッフル 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニワッフル メープル 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベルギーワッフル 大容量 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 米粉のワッフル 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_frozen_waffle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_bread_breakfast_cup_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "トースト",
+    "お弁当",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注ぐだけで手軽に作れるインスタントスープです。トーストやパンと合わせた朝ごはんに、スープジャーに入れてお弁当にもおすすめです。",
+   "image_brief": "Paper box of individual soup sachets with a mug of creamy corn soup photo, label 「コーンポタージュ 3袋入」.",
+   "variants": [
+    {
+     "title": "トップバリュ コーンポタージュ 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンポタージュ 8袋入",
+     "brand": "トップバリュ",
+     "size": "8袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポタージュ じゃがいも 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポタージュ かぼちゃ 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クラムチャウダー 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミネストローネ 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オニオンコンソメスープ 5袋入",
+     "brand": "トップバリュ",
+     "size": "5袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_bread_breakfast_cup_soup_p.jpg"
+   ]
+  }
+ ]
+}

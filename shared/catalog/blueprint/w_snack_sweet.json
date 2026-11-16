@@ -1,0 +1,4234 @@
+{
+ "category_key": "w_snack_sweet",
+ "items": [
+  {
+   "base_id": "w_snack_sweet_white_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "ホワイトチョコレート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "手作りお菓子"
+   ],
+   "tax_rate": 8,
+   "description": "ミルクのコクとやさしい甘さが広がるホワイトチョコレート。なめらかな口どけで、そのまま食べても、刻んでクッキーやスコーンに混ぜ込んでもおいしく使えます。いちご入りや個包装タイプも揃えました。",
+   "image_brief": "A flat rectangular ivory-white chocolate bar half unwrapped from a plain cream paper sleeve with silver foil, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホワイトチョコレート 板 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ホワイトチョコレート 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホワイトチョコレート 個包装 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産全粉乳使用 ホワイトチョコレート 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホワイトチョコレート いちごつぶ入り 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ ホワイトショコラ バニラビーンズ 70g",
+     "brand": "ショコラ・ルミエ",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_white_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_macadamia_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "マカダミアチョコレート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "マカダミアナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "手土産",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "大粒のマカダミアナッツをまるごとミルクチョコでコーティング。ナッツのまろやかな甘みとカリッとした歯ざわりがチョコとよく合います。ちょっとしたご褒美やお土産にもおすすめです。",
+   "image_brief": "A small plain brown paper box with a clear window showing glossy round milk chocolate covered macadamia nuts, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マカダミアナッツチョコレート 9粒",
+     "brand": "Cymbal",
+     "size": "9粒",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マカダミアナッツチョコレート 大袋 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハワイ産マカダミア使用 マカダミアチョコ 12粒",
+     "brand": "Cymbal セレクト",
+     "size": "12粒",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マカダミアチョコ ホワイト 9粒",
+     "brand": "Cymbal",
+     "size": "9粒",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ マカダミアショコラ ビター 100g",
+     "brand": "ショコラ・ルミエ",
+     "size": "100g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_macadamia_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_tiramisu_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "ティラミス風チョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "マスカルポーネ風のクリーミーなチョコをビスケット生地で包み、ほろ苦いココアパウダーをまぶしたティラミス風チョコ。コーヒーの香りがふわっと広がり、ひと粒で本格デザートのような満足感です。",
+   "image_brief": "A plain dark brown pouch bag next to small cube-shaped chocolates dusted with cocoa powder on a white surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ティラミス風チョコ 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ティラミス風チョコ 56g",
+     "brand": "Cymbal",
+     "size": "56g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マスカルポーネ入り ティラミスショコラ 8粒",
+     "brand": "Cymbal セレクト",
+     "size": "8粒",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ティラミス風チョコ 抹茶 56g",
+     "brand": "Cymbal",
+     "size": "56g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ ティラミスキューブ エスプレッソ仕立て 100g",
+     "brand": "ショコラ・ルミエ",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_tiramisu_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_strawberry_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "いちごチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "おやつ",
+    "バレンタイン",
+    "トッピング"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいいちごの風味をぎゅっと閉じ込めた、ピンク色がかわいいいちごチョコレート。フリーズドライいちごのつぶつぶ食感が楽しく、お子さまから大人まで人気。冬から春のいちごシーズンにどうぞ。",
+   "image_brief": "Pink strawberry chocolate pieces with visible red freeze-dried strawberry bits spilling from a plain pink pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごチョコレート 板 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フリーズドライいちご入り つぶつぶいちごチョコ 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごチョコ 個包装 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産いちご使用 いちごショコラ 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック いちごチョコ 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ まるごといちごチョコ ホワイト 60g",
+     "brand": "ショコラ・ルミエ",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_strawberry_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_matcha_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "抹茶チョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "香り高い抹茶をたっぷり練り込んだ、深い緑色の抹茶チョコレート。ほろ苦さとミルクのやさしい甘さのバランスがよく、緑茶やほうじ茶にもよく合います。濃いめのセレクト品も揃えました。",
+   "image_brief": "Deep green matcha chocolate squares stacked beside a plain green paper box on a light wood board, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 抹茶チョコレート 板 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶使用 濃い抹茶チョコ 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶チョコ 個包装 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 西尾産抹茶 生チョコ風抹茶ショコラ 12粒",
+     "brand": "Cymbal セレクト",
+     "size": "12粒",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 抹茶ショコラ ほうじ茶アソート 16枚",
+     "brand": "はるかぜ本舗",
+     "size": "16枚",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_matcha_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_crunch_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "クランチチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "大袋"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのパフを閉じ込めた軽い食感のクランチチョコレート。噛むたびにザクッと心地よく、ついもう一つと手が伸びます。個包装の大袋はシェアやおやつのストックにぴったりです。",
+   "image_brief": "Bite-size chocolate crunch bars with puffed cereal texture in individual blank silver wrappers, next to a plain brown bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クランチチョコ 個包装 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クランチチョコバー 4本",
+     "brand": "Cymbal",
+     "size": "4本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック パフ入りクランチチョコ 大袋 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クランチチョコ ホワイト 個包装 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クランチチョコ ビター 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アーモンドクランチショコラ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_crunch_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_truffle_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "トリュフチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "手土産",
+    "ギフト",
+    "クリスマス",
+    "バレンタイン"
+   ],
+   "tax_rate": 8,
+   "description": "ガナッシュをチョコで包み、ココアパウダーをまとわせたひと口トリュフ。口に入れるとすっと溶ける贅沢な味わいです。冬のおもてなしやちょっとした贈り物、自分へのご褒美におすすめ。",
+   "image_brief": "Round cocoa-dusted chocolate truffles in a small plain dark gift box with paper cups, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トリュフチョコ ココアパウダー 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト トリュフショコラ アソート 9粒",
+     "brand": "Cymbal セレクト",
+     "size": "9粒",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ トリュフ プラリネ 12粒",
+     "brand": "ショコラ・ルミエ",
+     "size": "12粒",
+     "price_tax_excluded": 980,
+     "origin": "ベルギー製造"
+    },
+    {
+     "title": "ショコラ・ルミエ トリュフ シャンパン風味(ノンアルコール) 8粒",
+     "brand": "ショコラ・ルミエ",
+     "size": "8粒",
+     "price_tax_excluded": 780,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal トリュフチョコ 抹茶 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_truffle_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_nama_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "生チョコレート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "手土産",
+    "クリスマス",
+    "バレンタイン",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "生クリームをたっぷり合わせた、とろけるような口どけの生チョコレート。ココアパウダーのほろ苦さが濃厚な甘さを引き立てます。冷蔵でお届けする冬季限定の味わいをどうぞ。",
+   "image_brief": "A shallow plain white box with neat cocoa-dusted square ganache chocolates and a small wooden pick, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生チョコレート ミルク 20粒",
+     "brand": "Cymbal",
+     "size": "20粒",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生チョコレート ビター 20粒",
+     "brand": "Cymbal",
+     "size": "20粒",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産生クリーム使用 生チョコレート 20粒",
+     "brand": "Cymbal セレクト",
+     "size": "20粒",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生チョコレート 抹茶 20粒",
+     "brand": "Cymbal セレクト",
+     "size": "20粒",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ 生ショコラ 洋酒入り 16粒",
+     "brand": "ショコラ・ルミエ",
+     "size": "16粒",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_nama_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_choco_pretzel",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "チョコスティック菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "パーティー",
+    "シェア"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと焼いた細いプレッツェルにチョコをコーティングしたスティック菓子。手を汚さずに食べやすく、パーティーやおやつタイムに大活躍。いちご味や小分けパックも揃えています。",
+   "image_brief": "Thin pretzel sticks half-coated in milk chocolate fanned out from a plain red rectangular box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコスティック プレッツェル 2袋",
+     "brand": "Cymbal",
+     "size": "2袋",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコスティック いちご 2袋",
+     "brand": "Cymbal",
+     "size": "2袋",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコスティック 小袋 9袋",
+     "brand": "Cymbal",
+     "size": "9袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 極細チョコスティック ビター 2袋",
+     "brand": "Cymbal セレクト",
+     "size": "2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チョコスティック 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコスティック アーモンドクラッシュ 2袋",
+     "brand": "Cymbal",
+     "size": "2袋",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_choco_pretzel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_marble_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "糖衣チョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "トッピング",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "カラフルな糖衣でチョコを包んだ、見た目も楽しいマーブルチョコ。カリッとした糖衣の中から、なめらかなミルクチョコが現れます。ケーキやクッキーのデコレーションにも使えます。",
+   "image_brief": "Colorful round sugar-coated chocolate candies spilling from a plain white cylinder tube and a clear pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マーブル糖衣チョコ 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マーブル糖衣チョコ 筒入り 32g",
+     "brand": "Cymbal",
+     "size": "32g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マーブル糖衣チョコ 大袋 個包装 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 糖衣チョコ 徳用 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーナッツ入り 糖衣チョコ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_marble_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_orange_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "オレンジピールチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワインのお供",
+    "コーヒーのお供",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖漬けにしたオレンジピールをビターチョコでコーティング。柑橘のさわやかな香りとほろ苦さが重なる、大人のためのチョコレートです。食後のコーヒーや紅茶、ワインのお供にもどうぞ。",
+   "image_brief": "Strips of candied orange peel half-dipped in dark chocolate arranged on a slate board beside a plain kraft pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト オレンジピールチョコ ビター 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "スペイン産オレンジ使用"
+    },
+    {
+     "title": "Cymbal オレンジピールチョコ 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ オランジェット 10本",
+     "brand": "ショコラ・ルミエ",
+     "size": "10本",
+     "price_tax_excluded": 780,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産みかんピール ショコラ 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": "国産みかん使用"
+    },
+    {
+     "title": "Cymbal オレンジピールチョコ 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_orange_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_peanut_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "ピーナッツチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "大袋"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく煎ったピーナッツをミルクチョコで包んだロングセラータイプ。ナッツのカリッとした食感と塩気がチョコの甘さを引き立てます。おやつにもお酒のお供にもぴったりです。",
+   "image_brief": "Round chocolate-coated peanuts piled in front of a plain brown stand-up pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピーナッツチョコ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーナッツチョコ 大袋 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 千葉県産落花生 ピーナッツチョコ 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 348,
+     "origin": "千葉県産落花生使用"
+    },
+    {
+     "title": "Cymbal ピーナッツチョコ 小袋 15g×10袋",
+     "brand": "Cymbal",
+     "size": "15g×10袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ピーナッツチョコ 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_peanut_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_mint_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "ミントチョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "リフレッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "清涼感のあるミント入りクリームをチョコで包んだミントチョコ。すっきりした後味で甘いものが苦手な方にもおすすめ。薄い板タイプや個包装など、シーンに合わせて選べます。",
+   "image_brief": "Thin square dark chocolates with pale green mint filling shown in cross-section, beside a plain mint-green box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミントチョコ 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 薄焼きミントチョコ 20枚",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ペパーミント ダークチョコ 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコミント 板チョコ 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ショコラ・ルミエ ミントショコラ シン 24枚",
+     "brand": "ショコラ・ルミエ",
+     "size": "24枚",
+     "price_tax_excluded": 598,
+     "origin": "イギリス製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_mint_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_choco_wafer_bar",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "チョコウエハースバー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "小腹満たし",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "軽いウエハースを何層にも重ね、チョコでしっかりコーティングしたバータイプ。サクサク食感で食べごたえがあり、小腹がすいたときや持ち歩きのおやつにちょうどいいサイズです。",
+   "image_brief": "A row of chocolate-coated wafer bars in plain red and silver flow wrappers with one bar unwrapped showing layers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコウエハースバー 4本",
+     "brand": "Cymbal",
+     "size": "4本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコウエハースバー 個包装 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコウエハースバー ホワイト 4本",
+     "brand": "Cymbal",
+     "size": "4本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チョコウエハースバー 徳用 20本",
+     "brand": "Cymbal ベーシック",
+     "size": "20本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor ヘーゼルナッツクリーム チョコウエハース 3本",
+     "brand": "Sweet Harbor",
+     "size": "3本",
+     "price_tax_excluded": 248,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_choco_wafer_bar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_winter_milk_choco",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "冬季限定チョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "冬のご褒美"
+   ],
+   "tax_rate": 8,
+   "description": "気温の下がる冬だけに作る、ココアバターを増やした口どけ重視のミルクチョコレート。粉雪のようなココアパウダーをまとい、舌の上ですっと溶けていきます。寒い季節の特別な味わいです。",
+   "image_brief": "Small cubes of milk chocolate dusted with fine powder arranged in a plain white box with a snowy blue band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冬季限定 くちどけミルクチョコ 18粒",
+     "brand": "Cymbal",
+     "size": "18粒",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冬季限定 くちどけチョコ 抹茶 18粒",
+     "brand": "Cymbal",
+     "size": "18粒",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冬季限定 くちどけチョコ ビター 18粒",
+     "brand": "Cymbal",
+     "size": "18粒",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 冬季限定 洋酒香るくちどけショコラ 16粒",
+     "brand": "Cymbal セレクト",
+     "size": "16粒",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冬季限定 くちどけチョコ 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_winter_milk_choco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_butter_sable",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "サブレ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "手土産",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "発酵バターを使い、さっくりほろりと崩れる食感に焼き上げたサブレ。素朴なバターの香りと甘さが口いっぱいに広がります。個包装で配りやすく、職場のおやつや手土産にも重宝します。",
+   "image_brief": "Round golden butter sablé cookies with crimped edges in individual clear wrappers stacked beside a plain cream box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バターサブレ 個包装 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター使用 バターサブレ 10枚",
+     "brand": "Cymbal セレクト",
+     "size": "10枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 鳥形 バターサブレ 缶入り 16枚",
+     "brand": "こもれび製菓",
+     "size": "16枚",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ココアサブレ 個包装 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック サブレ 徳用 24枚",
+     "brand": "Cymbal ベーシック",
+     "size": "24枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ごまサブレ 10枚",
+     "brand": "こもれび製菓",
+     "size": "10枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_butter_sable_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_langue_de_chat",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ラングドシャ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "手土産",
+    "お茶請け",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "薄くパリッと焼き上げたラングドシャでホワイトチョコをサンド。軽やかな食感とミルキーな甘さが絶妙です。個包装で日持ちもしやすく、帰省のお土産や年末年始のおもてなしにもおすすめ。",
+   "image_brief": "Thin rectangular golden langue de chat cookies sandwiching white chocolate, in clear wrappers fanned in front of a plain white box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ラングドシャ ホワイトチョコサンド 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラングドシャ ミルクチョコサンド 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道バター ラングドシャ 18枚",
+     "brand": "Cymbal セレクト",
+     "size": "18枚",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ラングドシャ 抹茶 10枚",
+     "brand": "こもれび製菓",
+     "size": "10枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ラングドシャクッキー 9枚",
+     "brand": "Cymbal ベーシック",
+     "size": "9枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_langue_de_chat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_shortbread",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ショートブレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "紅茶のお供",
+    "おやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "小麦粉・バター・砂糖のシンプルな配合で、ざっくり厚めに焼いたショートブレッド。噛むほどにバターの風味があふれ、紅茶との相性は抜群です。輸入品の缶入りタイプも揃えました。",
+   "image_brief": "Thick finger-shaped shortbread biscuits with pricked tops arranged on a plate beside a plain red tin, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バターショートブレッド 8本",
+     "brand": "Cymbal",
+     "size": "8本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor ショートブレッド フィンガー 150g",
+     "brand": "Sweet Harbor",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "イギリス製造"
+    },
+    {
+     "title": "Sweet Harbor ショートブレッド 缶入り 300g",
+     "brand": "Sweet Harbor",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "イギリス製造"
+    },
+    {
+     "title": "Cymbal ショートブレッド チョコチップ 8本",
+     "brand": "Cymbal",
+     "size": "8本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 全粒粉ショートブレッド 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_shortbread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_florentin",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "フロランタン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "アーモンド"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "手土産",
+    "お茶請け",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのクッキー生地に、キャラメルでからめたスライスアーモンドをたっぷりのせて焼いたフロランタン。香ばしさとほろ苦い甘さがやみつきになります。ギフトにも喜ばれる人気の焼き菓子です。",
+   "image_brief": "Square florentine bars topped with glossy caramelized sliced almonds, individually wrapped, stacked in a plain kraft box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フロランタン 個包装 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 キャラメルアーモンド フロランタン 8個",
+     "brand": "こもれび製菓",
+     "size": "8個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター フロランタン 5個",
+     "brand": "Cymbal セレクト",
+     "size": "5個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 フロランタン ショコラ 6個",
+     "brand": "こもれび製菓",
+     "size": "6個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニフロランタン 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_florentin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_zenryufun_biscuit",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "全粒粉ビスケット"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "小腹満たし"
+   ],
+   "tax_rate": 8,
+   "description": "全粒粉を使った、香ばしく素朴な味わいのビスケット。ザクッとした歯ごたえで食べごたえがあり、朝食やおやつにぴったり。オーガニックやライ麦入りなど、こだわりのラインも揃えています。",
+   "image_brief": "Round wholewheat digestive-style biscuits with speckled brown surface in a plain kraft paper roll pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 全粒粉ビスケット 2枚×10パック",
+     "brand": "Cymbal",
+     "size": "2枚×10パック",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機全粒粉ビスケット 120g",
+     "brand": "Cymbal オーガニック",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 全粒粉ビスケット チョコがけ 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor ダイジェスティブビスケット 250g",
+     "brand": "Sweet Harbor",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "イギリス製造"
+    },
+    {
+     "title": "Cymbal ベーシック 全粒粉ビスケット 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ライ麦入り 全粒粉ビスケット 2枚×8パック",
+     "brand": "Cymbal",
+     "size": "2枚×8パック",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_zenryufun_biscuit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_animal_biscuit",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "動物ビスケット"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "お出かけ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ゾウやくま、うさぎなどいろいろな動物の形をした、小さめサイズのビスケット。やさしい甘さでお子さまのおやつにぴったり。小分けパックはお出かけや保育園のおやつにも便利です。",
+   "image_brief": "Small animal-shaped golden biscuits scattered around a plain yellow pouch with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal どうぶつビスケット 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal どうぶつビスケット 小分け 15g×6袋",
+     "brand": "Cymbal",
+     "size": "15g×6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal どうぶつビスケット ココア 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機小麦 どうぶつビスケット 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック どうぶつビスケット 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_animal_biscuit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_soft_cookie",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ソフトクッキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "大袋",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "外はさっくり、中はしっとりやわらかな食感のソフトクッキー。バニラとココアの2つの味が入った個包装の大袋で、家族みんなで楽しめます。電子レンジで軽く温めると焼きたてのような味わいに。",
+   "image_brief": "Round soft-baked cookies with chocolate chips, one broken to show moist center, beside a plain brown family bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しっとりソフトクッキー バニラ&ココア 個包装 18枚",
+     "brand": "Cymbal",
+     "size": "18枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しっとりソフトクッキー 抹茶 16枚",
+     "brand": "Cymbal",
+     "size": "16枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ソフトクッキー 徳用 24枚",
+     "brand": "Cymbal ベーシック",
+     "size": "24枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター しっとりソフトクッキー 12枚",
+     "brand": "Cymbal セレクト",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しっとりソフトクッキー 冬のマロン 16枚",
+     "brand": "Cymbal",
+     "size": "16枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_soft_cookie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_leaf_pie",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "パイ菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "何層にも折り込んだパイ生地を木の葉の形に焼き上げ、ざらめをまぶしたリーフパイ。サクサクと軽い歯ざわりとバターの香りが楽しめます。個包装で割れにくく、贈り物にも向いています。",
+   "image_brief": "Leaf-shaped flaky puff pastry cookies with sparkling sugar glaze in clear individual wrappers beside a plain gold box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal リーフパイ 個包装 10枚",
+     "brand": "Cymbal",
+     "size": "10枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 発酵バター リーフパイ 12枚",
+     "brand": "こもれび製菓",
+     "size": "12枚",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal リーフパイ チョコがけ 8枚",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニリーフパイ 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハート型パイ 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_leaf_pie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_palmier",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "パイ菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "紅茶のお供",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "パイ生地を渦巻き状に巻いてキャラメリゼしたパルミエ。カリッとした表面と香ばしい甘さが特徴で、ひとつで満足感があります。紅茶やコーヒーと一緒に、ゆったりしたティータイムにどうぞ。",
+   "image_brief": "Heart-shaped spiral palmier pastries with caramelized sugar edges stacked in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 渦巻きパイ パルミエ 8枚",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor パルミエ バター 100g",
+     "brand": "Sweet Harbor",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal 渦巻きパイ ショコラ 8枚",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 大きなパルミエ 個包装 5枚",
+     "brand": "こもれび製菓",
+     "size": "5枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニ渦巻きパイ 徳用 140g",
+     "brand": "Cymbal ベーシック",
+     "size": "140g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_palmier_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_egg_roll",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "エッグロール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "卵をたっぷり使った生地を薄く焼いて、くるくる巻いたエッグロール。パリッと軽い食感と卵のやさしい甘さが魅力です。ごま入りやチョコクリーム入りなど食べ比べも楽しめます。",
+   "image_brief": "Golden thin rolled egg wafer cigars in a clear plastic tube container with plain lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal エッグロール 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エッグロール 黒ごま 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エッグロール チョコクリーム入り 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 香港風 エッグロール 缶入り 24本",
+     "brand": "こもれび製菓",
+     "size": "24本",
+     "price_tax_excluded": 780,
+     "origin": "香港製造"
+    },
+    {
+     "title": "Cymbal ベーシック エッグロール 徳用 20本",
+     "brand": "Cymbal ベーシック",
+     "size": "20本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_egg_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_raisin_sand",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "サンドクッキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "手土産",
+    "コーヒーのお供",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "ラム酒漬けレーズンとバタークリームをサクサクのビスケットでサンド。濃厚なクリームと芳醇なレーズンが溶け合う、ちょっと大人の洋菓子です。冷蔵庫で冷やしてもおいしくいただけます。",
+   "image_brief": "Rectangular biscuit sandwiches with thick cream and rum raisins visible from the side, in plain white individual wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ラムレーズンサンド 5個",
+     "brand": "Cymbal",
+     "size": "5個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ラムレーズンサンド 個包装 10個",
+     "brand": "こもれび製菓",
+     "size": "10個",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道バター ラムレーズンサンド 5個",
+     "brand": "Cymbal セレクト",
+     "size": "5個",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ラムレーズンサンド ショコラ 5個",
+     "brand": "こもれび製菓",
+     "size": "5個",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニラムレーズンサンド 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_raisin_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_cookie_assort_can",
+   "category_path": [
+    "お菓子・製菓",
+    "詰め合わせ・アソート",
+    "クッキー缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "アーモンド"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "手土産",
+    "クリスマス",
+    "年末年始"
+   ],
+   "tax_rate": 8,
+   "description": "バタークッキーやチョコクッキー、ジャムクッキーなど数種類を詰め合わせた缶入りアソート。冬らしいデザインの缶で、帰省のお土産やお歳暮、クリスマスの集まりなどにぴったりです。",
+   "image_brief": "An open round plain navy tin filled with assorted butter, chocolate and jam-centered cookies in paper cups, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クッキーアソート缶 24枚",
+     "brand": "Cymbal",
+     "size": "24枚",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター クッキーアソート缶 32枚",
+     "brand": "Cymbal セレクト",
+     "size": "32枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor デンマーク風バタークッキー缶 340g",
+     "brand": "Sweet Harbor",
+     "size": "340g",
+     "price_tax_excluded": 980,
+     "origin": "デンマーク製造"
+    },
+    {
+     "title": "こもれび製菓 ごちそうクッキー缶 18種",
+     "brand": "こもれび製菓",
+     "size": "18種",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニクッキー缶 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クッキーアソート 2段缶 48枚",
+     "brand": "Cymbal セレクト",
+     "size": "48枚",
+     "price_tax_excluded": 2280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_cookie_assort_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_tamago_boro",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ボーロ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "お出かけ",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "口の中でほろっと溶ける、小粒のたまごボーロ。じゃがいもでん粉と卵でつくるやさしい甘さで、小さなお子さまのおやつにも人気です。小分けパックは持ち運びにも便利です。",
+   "image_brief": "Tiny round pale yellow egg boro drops spilling from a plain small pouch with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たまごボーロ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たまごボーロ 小分け 15g×5袋",
+     "brand": "Cymbal",
+     "size": "15g×5袋",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 野菜ボーロ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 平飼い卵 たまごボーロ 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 ミルクボーロ 北海道牛乳 90g",
+     "brand": "はるかぜ本舗",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_tamago_boro_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_madeleine",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "マドレーヌ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "手土産",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "シェル型でふっくら焼き上げた、しっとりバター香るマドレーヌ。レモンの皮をほんのり効かせ、さわやかな後味に仕上げました。個包装なので、おやつや配り菓子にも便利です。",
+   "image_brief": "Shell-shaped golden madeleines in clear individual wrappers arranged in a plain white box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マドレーヌ 個包装 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター マドレーヌ 5個",
+     "brand": "Cymbal セレクト",
+     "size": "5個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 マドレーヌ レモン 6個",
+     "brand": "こもれび製菓",
+     "size": "6個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マドレーヌ ショコラ 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック マドレーヌ 徳用 12個",
+     "brand": "Cymbal ベーシック",
+     "size": "12個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 マドレーヌ 和栗 5個",
+     "brand": "こもれび製菓",
+     "size": "5個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_madeleine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_financier",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "フィナンシェ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手土産",
+    "おやつ",
+    "紅茶のお供"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンドプードルと焦がしバターをたっぷり使った、外はカリッと中はしっとりのフィナンシェ。豊かな香りとコクのある甘さが楽しめます。ちょっとしたお礼やギフトにもおすすめです。",
+   "image_brief": "Rectangular golden-brown financier cakes with crisp edges, individually wrapped, lined up in a plain brown box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フィナンシェ 個包装 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焦がしバター フィナンシェ 5個",
+     "brand": "Cymbal セレクト",
+     "size": "5個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 フィナンシェ 抹茶 6個",
+     "brand": "こもれび製菓",
+     "size": "6個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 フィナンシェ ショコラ 6個",
+     "brand": "こもれび製菓",
+     "size": "6個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フィナンシェ 徳用 10個",
+     "brand": "Cymbal ベーシック",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_financier_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_brownie",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "ブラウニー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "くるみ",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "小腹満たし"
+   ],
+   "tax_rate": 8,
+   "description": "チョコレートを贅沢に使い、ずっしり濃厚に焼き上げたブラウニー。ローストしたくるみの香ばしさがアクセントです。個包装で、仕事や勉強の合間のおやつにもちょうどいいサイズです。",
+   "image_brief": "Dense square chocolate brownies with walnut pieces on top, one cut showing fudgy interior, beside plain wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal くるみ入りブラウニー 個包装 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚ショコラブラウニー 4個",
+     "brand": "Cymbal セレクト",
+     "size": "4個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ブラウニー ホワイトチョコ 6個",
+     "brand": "こもれび製菓",
+     "size": "6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニブラウニー 大袋 15個",
+     "brand": "Cymbal",
+     "size": "15個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor アメリカンブラウニー バー 2本",
+     "brand": "Sweet Harbor",
+     "size": "2本",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_brownie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_suzu_castella",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "ミニカステラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズの鈴の形に焼き上げた、ふんわりやさしい甘さのカステラ。はちみつの香りがほんのり広がり、つまみやすく食べやすいのが魅力です。お子さまのおやつやお茶請けにどうぞ。",
+   "image_brief": "Small bell-shaped bite-size castella cakes with golden brown tops piled in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鈴カステラ 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつ鈴カステラ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鈴カステラ 黒糖 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニカステラ 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 ベビーカステラ 10個",
+     "brand": "はるかぜ本舗",
+     "size": "10個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_suzu_castella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_stollen",
+   "category_path": [
+    "お菓子・製菓",
+    "洋菓子・ケーキ",
+    "クリスマス焼き菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "アーモンド",
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "手土産",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "洋酒漬けのドライフルーツとナッツを練り込み、粉糖で真っ白に仕上げたシュトーレン。クリスマスまで少しずつスライスして、熟成していく味わいの変化を楽しむドイツの伝統菓子です。",
+   "image_brief": "A loaf-shaped stollen covered in thick white powdered sugar, one slice cut showing dried fruit, on a board beside a plain wrapping, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シュトーレン 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 洋酒香る 熟成シュトーレン 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニシュトーレン 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor ドイツ産 シュトーレン 750g",
+     "brand": "Sweet Harbor",
+     "size": "750g",
+     "price_tax_excluded": 2480,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "こもれび製菓 シュトーレン 抹茶と栗 250g",
+     "brand": "こもれび製菓",
+     "size": "250g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_stollen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_panettone",
+   "category_path": [
+    "お菓子・製菓",
+    "洋菓子・ケーキ",
+    "クリスマス焼き菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "朝食",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "天然酵母でじっくり発酵させた、ふんわり軽い口当たりのパネトーネ。オレンジピールとレーズンの香りが広がる、イタリアのクリスマス菓子です。朝食やティータイムに切り分けてどうぞ。",
+   "image_brief": "A tall dome-topped panettone in a brown paper baking mold, wrapped in clear cellophane with a plain ribbon, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Sweet Harbor パネトーネ クラシコ 500g",
+     "brand": "Sweet Harbor",
+     "size": "500g",
+     "price_tax_excluded": 1280,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Sweet Harbor パネトーネ チョコチップ 500g",
+     "brand": "Sweet Harbor",
+     "size": "500g",
+     "price_tax_excluded": 1380,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ミニパネトーネ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor パネトーネ 大 1kg",
+     "brand": "Sweet Harbor",
+     "size": "1kg",
+     "price_tax_excluded": 2280,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal パネトーネ スライス 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_panettone_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_dacquoise",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "ダックワーズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手土産",
+    "おやつ",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンドメレンゲを外はサクッと中はふんわりに焼き、バタークリームをはさんだダックワーズ。軽やかな食感と香ばしさが楽しめる、ちょっと贅沢な焼き菓子です。",
+   "image_brief": "Oval dacquoise cakes with powdered sugar dusting and cream filling, in clear individual wrappers in a plain box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "こもれび製菓 ダックワーズ プレーン 5個",
+     "brand": "こもれび製菓",
+     "size": "5個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび製菓 ダックワーズ 抹茶 5個",
+     "brand": "こもれび製菓",
+     "size": "5個",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ダックワーズ アソート 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ダックワーズ ショコラ 5個",
+     "brand": "Cymbal セレクト",
+     "size": "5個",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_dacquoise_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_karinto_donut",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ドーナツ菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "棒状のドーナツ生地をカリッと揚げ、黒糖の蜜をからめたドーナツ棒。外はかりんとうのようにカリカリ、中はしっとり。どこか懐かしい素朴な甘さで、家族みんなのおやつにぴったりです。",
+   "image_brief": "Stick-shaped dark brown glazed donut sticks piled in front of a plain amber clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒糖ドーナツ棒 8本",
+     "brand": "Cymbal",
+     "size": "8本",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖ドーナツ棒 個包装 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産黒糖 ドーナツ棒 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ドーナツ棒 きなこ 8本",
+     "brand": "Cymbal",
+     "size": "8本",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ドーナツ棒 徳用 16本",
+     "brand": "Cymbal ベーシック",
+     "size": "16本",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_karinto_donut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_mini_donut",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ドーナツ菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズで食べやすい、ふんわり食感のミニドーナツ。シュガーやチョコがけなど味のバリエーションが豊富で、袋から手軽につまめます。お子さまのおやつや行楽のお供にどうぞ。",
+   "image_brief": "Small ring-shaped mini donuts with sugar glaze and chocolate coating piled in a clear zip bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひとくちミニドーナツ シュガー 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちミニドーナツ チョコ 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちミニドーナツ 個包装 大袋 20個",
+     "brand": "Cymbal",
+     "size": "20個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニドーナツ 徳用 14個",
+     "brand": "Cymbal ベーシック",
+     "size": "14個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちミニドーナツ きなこ黒みつ 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちミニドーナツ いちごチョコ 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_mini_donut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_monaka",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "最中"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お茶請け",
+    "手土産",
+    "年末年始"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼いたもち米の皮に、北海道産小豆のつぶあんをたっぷり詰めた最中。皮のパリッとした食感と、甘さ控えめのあんの調和が楽しめます。お茶の時間や年始のおもてなしにどうぞ。",
+   "image_brief": "Round golden wafer monaka filled with red bean paste, one cut in half, beside a plain washi-wrapped box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つぶあん最中 5個",
+     "brand": "Cymbal",
+     "size": "5個",
+     "price_tax_excluded": 398,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "はるかぜ本舗 栗入り最中 5個",
+     "brand": "はるかぜ本舗",
+     "size": "5個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 手づくり最中 皮とあん別添 4個",
+     "brand": "はるかぜ本舗",
+     "size": "4個",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白あん最中 5個",
+     "brand": "Cymbal",
+     "size": "5個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大納言最中 6個",
+     "brand": "Cymbal セレクト",
+     "size": "6個",
+     "price_tax_excluded": 798,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "はるかぜ本舗 柚子最中 5個",
+     "brand": "はるかぜ本舗",
+     "size": "5個",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_monaka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_yasai_karinto",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "かりんとう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶請け",
+    "おやつ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "かぼちゃやごぼう、にんじんなどの野菜を練り込んだ細身のかりんとう。カリッと軽い食感で、野菜のほのかな風味と甘じょっぱさがあとを引きます。白砂糖のかりんとうとの食べ比べもおすすめ。",
+   "image_brief": "Thin colorful vegetable karinto sticks in orange, green and brown shades spilling from a plain kraft pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 野菜かりんとう 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 ごぼうかりんとう 90g",
+     "brand": "はるかぜ本舗",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白砂糖かりんとう 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 いもかりんとう 紅はるか 100g",
+     "brand": "はるかぜ本舗",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 細かりんとう 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_yasai_karinto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kuri_mushi_yokan",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "蒸し羊羹"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    10,
+    12
+   ],
+   "dishes": [
+    "お茶請け",
+    "手土産",
+    "秋の味覚"
+   ],
+   "tax_rate": 8,
+   "description": "栗の甘露煮をたっぷり入れて、もっちりと蒸し上げた栗蒸し羊羹。煉羊羹とは違うやわらかな口当たりと、ほっくりした栗の甘さが秋冬らしい味わいです。お茶とご一緒にどうぞ。",
+   "image_brief": "A rectangular block of steamed chestnut yokan with whole chestnuts visible in cut slices on a wooden plate beside a plain bamboo-leaf wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "はるかぜ本舗 栗蒸し羊羹 1本",
+     "brand": "はるかぜ本舗",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 栗蒸し羊羹 カット 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産栗 栗蒸し羊羹 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "はるかぜ本舗 栗蒸し羊羹 竹皮包み 1本",
+     "brand": "はるかぜ本舗",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kuri_mushi_yokan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_imo_yokan",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "芋ようかん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    10,
+    12
+   ],
+   "dishes": [
+    "お茶請け",
+    "おやつ",
+    "秋の味覚"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいもをじっくり蒸して裏ごしし、砂糖と少しの塩だけで仕上げた芋ようかん。素材そのままの自然な甘さとほっくりした口当たりが楽しめます。軽く焼いてもおいしいです。",
+   "image_brief": "Golden yellow sweet potato yokan bars cut into thick slices on a plain paper tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "はるかぜ本舗 芋ようかん 5本",
+     "brand": "はるかぜ本舗",
+     "size": "5本",
+     "price_tax_excluded": 498,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal 芋ようかん カット 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 298,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 紅はるか 芋ようかん 5本",
+     "brand": "Cymbal セレクト",
+     "size": "5本",
+     "price_tax_excluded": 698,
+     "origin": "茨城県産紅はるか使用"
+    },
+    {
+     "title": "はるかぜ本舗 安納芋 芋ようかん 5本",
+     "brand": "はるかぜ本舗",
+     "size": "5本",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産安納芋使用"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_imo_yokan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_amanatto",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "甘納豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶請け",
+    "おやつ",
+    "赤飯"
+   ],
+   "tax_rate": 8,
+   "description": "大粒の豆をじっくり蜜煮して砂糖をまぶした甘納豆。豆それぞれのほっくりした食感と自然な甘みが楽しめます。そのままお茶請けにはもちろん、北海道風の甘い赤飯づくりにも使えます。",
+   "image_brief": "Glossy sugar-dusted candied beans in red, white and green piled in a plain shallow tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 甘納豆 4種ミックス 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 大納言 甘納豆 150g",
+     "brand": "はるかぜ本舗",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal 白花豆 甘納豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 栗甘納豆 120g",
+     "brand": "はるかぜ本舗",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 甘納豆 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_amanatto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_fugashi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "麩菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "焼き麩に黒糖蜜をしみこませた、ふわっと軽い麩菓子。噛むとシュワっと溶ける独特の食感と、コクのある黒糖の甘さが懐かしい味わいです。大きな棒タイプや食べやすいミニサイズもあります。",
+   "image_brief": "Long stick-shaped dark brown fugashi wheat gluten sweets coated with brown sugar in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒糖麩菓子 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ麩菓子 一口 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 沖縄黒糖 麩菓子 8本",
+     "brand": "はるかぜ本舗",
+     "size": "8本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 麩菓子 きなこ 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 麩菓子 徳用 20本",
+     "brand": "Cymbal ベーシック",
+     "size": "20本",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_fugashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_konpeito",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "金平糖"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶請け",
+    "手土産",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "時間をかけて少しずつ蜜をかけ、トゲトゲの形に仕上げた色とりどりの金平糖。シャリッとした食感とやさしい甘さが楽しめます。小瓶入りはちょっとしたプレゼントやお祝いの引き菓子にも。",
+   "image_brief": "Colorful pastel star-shaped konpeito sugar candies in a small clear glass jar with plain cork lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 金平糖 カラフル 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 京風 金平糖 小瓶 40g",
+     "brand": "はるかぜ本舗",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 金平糖 いちご 60g",
+     "brand": "はるかぜ本舗",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 金平糖 小袋 10g×10袋",
+     "brand": "Cymbal",
+     "size": "10g×10袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 金平糖 詰め合わせ 5種 150g",
+     "brand": "はるかぜ本舗",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_konpeito_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kinako_neji",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "きな粉菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶請け",
+    "おやつ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいきな粉と水あめを練り合わせ、ねじって形づくったきな粉ねじり。もっちりした食感と、大豆の素朴な風味がやみつきに。昔ながらの駄菓子屋さんのような懐かしい味です。",
+   "image_brief": "Twisted light brown kinako soybean flour candy sticks dusted with powder in a plain clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きな粉ねじり 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 国産大豆 きな粉ねじり 90g",
+     "brand": "はるかぜ本舗",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal きな粉棒 個包装 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 抹茶きな粉ねじり 90g",
+     "brand": "はるかぜ本舗",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖きな粉ねじり 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kinako_neji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kokuto",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "黒糖"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶請け",
+    "おやつ",
+    "コーヒーの甘みづけ"
+   ],
+   "tax_rate": 8,
+   "description": "さとうきびの搾り汁を煮詰めてつくる、コク深い味わいのかち割り黒糖。ミネラル感のある濃い甘さで、お茶請けにはもちろん、料理やコーヒーの甘みづけにも使えます。",
+   "image_brief": "Rough irregular chunks of dark brown cane sugar in a clear zip pouch with a plain label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かち割り黒糖 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産さとうきび使用"
+    },
+    {
+     "title": "Cymbal セレクト 多良間島産 黒糖 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県多良間島産"
+    },
+    {
+     "title": "Cymbal ひとくち黒糖 個包装 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "Cymbal 黒糖 生姜入り 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kokuto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_nama_yatsuhashi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "生八つ橋"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お茶請け",
+    "手土産",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "肉桂がほんのり香るもちもちの皮で、なめらかなこしあんを三角に包んだ生八つ橋。上品な甘さとやわらかな食感が楽しめます。抹茶や季節限定の栗あんなど、いろいろな味を揃えました。",
+   "image_brief": "Triangular folded soft yatsuhashi rice cakes with cinnamon and green tea colors arranged in a plain shallow box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "はるかぜ本舗 生八つ橋 こしあん 10個",
+     "brand": "はるかぜ本舗",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "はるかぜ本舗 生八つ橋 抹茶 10個",
+     "brand": "はるかぜ本舗",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "はるかぜ本舗 生八つ橋 栗あん 10個",
+     "brand": "はるかぜ本舗",
+     "size": "10個",
+     "price_tax_excluded": 548,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "はるかぜ本舗 生八つ橋 2種詰め合わせ 20個",
+     "brand": "はるかぜ本舗",
+     "size": "20個",
+     "price_tax_excluded": 980,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "Cymbal 焼き八つ橋 ニッキ 15枚",
+     "brand": "Cymbal",
+     "size": "15枚",
+     "price_tax_excluded": 348,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_nama_yatsuhashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kuri_kinton",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "栗菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    10,
+    12
+   ],
+   "dishes": [
+    "お茶請け",
+    "手土産",
+    "秋の味覚"
+   ],
+   "tax_rate": 8,
+   "description": "蒸した栗を裏ごしして砂糖だけで炊き、茶巾でしぼって形づくった栗きんとん。ほっくりとした栗本来の味わいと上品な甘さは、秋から冬だけのごちそう。お抹茶とともにどうぞ。",
+   "image_brief": "Small chestnut kinton balls with twisted cloth-squeezed tops arranged in a plain wooden box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "はるかぜ本舗 栗きんとん 茶巾 5個",
+     "brand": "はるかぜ本舗",
+     "size": "5個",
+     "price_tax_excluded": 980,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal セレクト 岐阜県産栗 栗きんとん 6個",
+     "brand": "Cymbal セレクト",
+     "size": "6個",
+     "price_tax_excluded": 1480,
+     "origin": "岐阜県産栗使用"
+    },
+    {
+     "title": "Cymbal 栗きんとん 茶巾 3個",
+     "brand": "Cymbal",
+     "size": "3個",
+     "price_tax_excluded": 498,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "はるかぜ本舗 栗きんとん 和三盆仕立て 8個",
+     "brand": "はるかぜ本舗",
+     "size": "8個",
+     "price_tax_excluded": 1980,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kuri_kinton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_sour_gummy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "グミ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "気分転換",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "表面に酸っぱいパウダーをまぶした、刺激的なサワーグミ。最初はキュッと酸っぱく、噛むほどに甘いフルーツの味が広がります。レモン・グレープ・りんごなど、気分で選べる味を揃えました。",
+   "image_brief": "Chewy gummy candies coated with white sour sugar powder in lemon yellow, purple and green, spilling from a plain zip pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal サワーグミ レモン 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サワーグミ グレープ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サワーグミ グリーンアップル 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サワーグミ 3種アソート 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake 超すっぱいサワーベルト 60g",
+     "brand": "Mintlake",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal ベーシック サワーグミ ミックス 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_sour_gummy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_hard_gummy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "グミ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "仕事中",
+    "気分転換"
+   ],
+   "tax_rate": 8,
+   "description": "噛みごたえのあるしっかり食感のハードグミ。弾力が強く、長くもぐもぐ楽しめるので、仕事や勉強の合間の気分転換にもぴったりです。コーラやソーダなど人気の味をラインアップ。",
+   "image_brief": "Firm translucent gummy candies shaped like small bottles in cola brown and soda blue in front of a plain stand-up pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハードグミ コーラ 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハードグミ ソーダ 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハードグミ マスカット 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ハードグミ エナジードリンク味 60g",
+     "brand": "Mintlake",
+     "size": "60g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハードグミ アソート 大袋 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_hard_gummy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_jelly_beans",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "ゼリービーンズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "パーティー",
+    "トッピング"
+   ],
+   "tax_rate": 8,
+   "description": "外はシャリッと中はやわらかな、色とりどりのゼリービーンズ。フルーツ系を中心にたくさんの味がミックスされていて、どの色が何味か当てるのも楽しいお菓子です。",
+   "image_brief": "Glossy multicolored jelly beans piled in a clear plastic jar with a plain white lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゼリービーンズ ミックス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake グルメゼリービーンズ 20フレーバー 150g",
+     "brand": "Mintlake",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ゼリービーンズ 小袋 15g×8袋",
+     "brand": "Cymbal",
+     "size": "15g×8袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ゼリービーンズ 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ゼリービーンズ ボトル入り 250g",
+     "brand": "Mintlake",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_jelly_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kuro_ame",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "キャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "外出時",
+    "お茶請け"
+   ],
+   "tax_rate": 8,
+   "description": "黒糖をじっくり煮詰めた、コク深い甘さの黒あめ。素朴でやさしい味わいは世代を問わず人気です。ゆっくりなめて楽しめるので、外出時やデスクのお供にもおすすめです。",
+   "image_brief": "Round glossy dark brown hard candies in individual clear twist wrappers spilling from a plain brown bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒あめ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産黒糖 黒あめ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒あめ 生姜入り 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 黒あめ 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 黒糖きなこあめ 100g",
+     "brand": "はるかぜ本舗",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kuro_ame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_bekko_ame",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "キャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "縁日気分"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖と水あめだけを煮詰めた、琥珀色に透き通るべっこう飴。すっきりと澄んだ甘さと、パリッとした歯ざわりが昔なつかしい味わいです。棒付きタイプはお祭り気分も楽しめます。",
+   "image_brief": "Clear amber flat round hard candies in clear wrappers, and stick lollipops of the same, beside a plain bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal べっこう飴 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 棒付き べっこう飴 10本",
+     "brand": "はるかぜ本舗",
+     "size": "10本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 べっこう飴 はちみつ 100g",
+     "brand": "はるかぜ本舗",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック べっこう飴 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_bekko_ame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_shio_ame",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "キャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "スポーツ",
+    "アウトドア",
+    "屋外作業"
+   ],
+   "tax_rate": 8,
+   "description": "ほどよい塩気と甘さのバランスが心地よい塩飴。汗をかく季節のスポーツや屋外作業のお供に、レモン味やすっきり梅味など、続けやすい味を揃えました。",
+   "image_brief": "Translucent pale yellow and pink hard candies with salt crystals in clear individual wrappers next to a plain pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩レモン飴 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩梅飴 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄の海塩 塩飴 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩飴 アソート 徳用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩ライチ飴 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_shio_ame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_kinkan_nodoame",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "のど飴"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "乾燥する季節に",
+    "外出時",
+    "冬のお供"
+   ],
+   "tax_rate": 8,
+   "description": "完熟金柑のエキスとはちみつを合わせた、やさしい甘さの金柑のど飴。ハーブのすっきり感もプラスし、空気が乾燥する冬にうれしい味わいです。携帯しやすいスティックタイプもあります。",
+   "image_brief": "Translucent orange hard candies in individual wrappers piled with a few fresh kumquats beside a plain orange bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 金柑のど飴 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産金柑 はちみつ金柑のど飴 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 金柑のど飴 スティック 10粒",
+     "brand": "Cymbal",
+     "size": "10粒",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつ大根のど飴 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 金柑のど飴 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しょうが湯風のど飴 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_kinkan_nodoame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_mint_tablet",
+   "category_path": [
+    "お菓子・製菓",
+    "ガム・ラムネ",
+    "ミントタブレット"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "リフレッシュ",
+    "仕事中",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "口に入れた瞬間に強い清涼感が広がる、小粒のミントタブレット。ポケットに入るスリムケースで、会議前やドライブ中、食後のリフレッシュにぴったり。強さの違う味を選べます。",
+   "image_brief": "A slim plain white plastic flip-top case with tiny round white mint tablets spilling out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミントタブレット ストロング 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミントタブレット ペパーミント 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミントタブレット シトラス 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ハイパーミント タブレット 15g",
+     "brand": "Mintlake",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ミントタブレット 缶入り 50g",
+     "brand": "Mintlake",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "イギリス製造"
+    },
+    {
+     "title": "Cymbal シュガーレス ミントタブレット 26g",
+     "brand": "Cymbal",
+     "size": "26g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_mint_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_ramune",
+   "category_path": [
+    "お菓子・製菓",
+    "ガム・ラムネ",
+    "ラムネ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "リフレッシュ",
+    "勉強中"
+   ],
+   "tax_rate": 8,
+   "description": "口に入れるとしゅわっと溶ける、ぶどう糖たっぷりのラムネ菓子。爽やかなソーダ味をはじめ、フルーツ味もいろいろ揃えました。小袋タイプは勉強や仕事の合間の気分転換にもぴったりです。",
+   "image_brief": "Small round pastel-colored compressed ramune tablets spilling from a plain light blue pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ラムネ ソーダ 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ぶどう糖ラムネ 大粒 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラムネ フルーツアソート 小袋 10袋",
+     "brand": "Cymbal",
+     "size": "10袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラムネ いちご 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ラムネ 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 瓶型ケース入り ラムネ 5本",
+     "brand": "はるかぜ本舗",
+     "size": "5本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_ramune_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_fusen_gum",
+   "category_path": [
+    "お菓子・製菓",
+    "ガム・ラムネ",
+    "ガム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "遊び",
+    "駄菓子"
+   ],
+   "tax_rate": 8,
+   "description": "大きくふくらませて遊べる、やわらかいフーセンガム。ぶどうやいちごなどフルーツの甘い香りが楽しめます。小粒の個包装は駄菓子のように配りやすく、子どものおやつやイベントにも便利です。",
+   "image_brief": "Small colorful cube bubble gums in individual plain wrappers spilling from a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フーセンガム ぶどう 10粒",
+     "brand": "Cymbal",
+     "size": "10粒",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フーセンガム いちご 10粒",
+     "brand": "Cymbal",
+     "size": "10粒",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フーセンガム アソート 大袋 50粒",
+     "brand": "Cymbal",
+     "size": "50粒",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ロングフーセンガム コーラ 8枚",
+     "brand": "Mintlake",
+     "size": "8枚",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 板ガム フルーツミント 9枚",
+     "brand": "Cymbal",
+     "size": "9枚",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_fusen_gum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_soft_candy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "ソフトキャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お出かけ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "噛むとやわらかく、なめらかにのびるソフトキャンディ。果汁を使ったジューシーな味わいで、一粒ずつ個包装なので持ち歩きにも便利です。いろいろなフルーツ味から選べます。",
+   "image_brief": "Rectangular soft chewy candies in pastel colors individually wrapped in blank paper, stacked in a plain stick pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ソフトキャンディ グレープ スティック 12粒",
+     "brand": "Cymbal",
+     "size": "12粒",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ソフトキャンディ ストロベリー スティック 12粒",
+     "brand": "Cymbal",
+     "size": "12粒",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ソフトキャンディ アソート 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake ソフトキャンディ マンゴー 80g",
+     "brand": "Mintlake",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ソフトキャンディ ヨーグルト 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ソフトキャンディ 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_soft_candy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_chewy_candy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "チューイングキャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お出かけ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "フルーツの濃い味が口いっぱいに広がる、もちっと弾力のあるチューイングキャンディ。噛むほどにジューシーさが続きます。細長いスティックタイプと、ひと口サイズの袋入りから選べます。",
+   "image_brief": "Square fruit chewy candies in bright red, orange and yellow individual waxed wrappers beside a plain pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツチューイングキャンディ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake フルーツチュー スティック 6フレーバー 6本",
+     "brand": "Mintlake",
+     "size": "6本",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal チューイングキャンディ コーラ 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チューイングキャンディ ミックス 大袋 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake トロピカルチュー 100g",
+     "brand": "Mintlake",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_chewy_candy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_lollipop",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "棒付きキャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "パーティー",
+    "ごほうび"
+   ],
+   "tax_rate": 8,
+   "description": "持ちやすい棒付きで、ゆっくりなめて楽しめるキャンディ。フルーツやミルク味など色とりどりの詰め合わせで、パーティーやお子さまのごほうびにぴったり。ぐるぐる模様の大きなタイプもあります。",
+   "image_brief": "Round colorful lollipops on white sticks fanned out in front of a plain clear bag, with one large swirl lollipop, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 棒付きキャンディ フルーツアソート 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 棒付きキャンディ ミルク 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Mintlake うずまき 大きな棒付きキャンディ 1本",
+     "brand": "Mintlake",
+     "size": "1本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 棒付きキャンディ 徳用 40本",
+     "brand": "Cymbal ベーシック",
+     "size": "40本",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 棒付きキャンディ 乳酸菌飲料味 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_lollipop_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_drop_can",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "ドロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お出かけ",
+    "プレゼント"
+   ],
+   "tax_rate": 8,
+   "description": "昔ながらのレトロな缶に入った、色とりどりのフルーツドロップ。ふたを開けてカラカラと振り出す楽しさも魅力です。食べ終わった缶は小物入れにも。お子さまへのちょっとしたプレゼントにも。",
+   "image_brief": "A rectangular plain red metal tin with a small round lid and colorful round fruit drops scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツドロップ 缶入り 115g",
+     "brand": "Cymbal",
+     "size": "115g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 レトロ缶 フルーツドロップ 200g",
+     "brand": "はるかぜ本舗",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツドロップ 袋入り 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハッカドロップ 缶入り 115g",
+     "brand": "Cymbal",
+     "size": "115g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "はるかぜ本舗 フルーツドロップ ミニ缶 40g",
+     "brand": "はるかぜ本舗",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_drop_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_choco_marshmallow",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "マシュマロ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "ゼラチン",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ココアのトッピング",
+    "おやつ",
+    "焼きマシュマロ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりやわらかなマシュマロを、ミルクチョコでコーティング。口の中で溶け合うふわとろ食感は、冬にうれしい甘いひととき。ホットココアに浮かべたり、軽くあぶってもおいしく楽しめます。",
+   "image_brief": "Round marshmallows half-dipped in milk chocolate, one cut to show fluffy white inside, beside a plain brown pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコがけマシュマロ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごチョコマシュマロ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニマシュマロ ココア用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sweet Harbor 焼きマシュマロ用 ジャンボマシュマロ 200g",
+     "brand": "Sweet Harbor",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal チョコクリーム入り マシュマロ 個包装 16個",
+     "brand": "Cymbal",
+     "size": "16個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_choco_marshmallow_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_sweet_baked_family_pack",
+   "category_path": [
+    "お菓子・製菓",
+    "詰め合わせ・アソート",
+    "ファミリーパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "家族のおやつ",
+    "職場の配り菓子",
+    "まとめ買い"
+   ],
+   "tax_rate": 8,
+   "description": "クッキーやパイ、ケーキ菓子など人気の焼き菓子を詰め合わせた個包装のファミリーパック。いろいろな味を少しずつ楽しめ、家族のおやつや職場の配り菓子に重宝するたっぷりサイズです。",
+   "image_brief": "A large plain blue family-size bag with assorted individually wrapped cookies, pies and small cakes spilling in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼き菓子ファミリーパック 8種 40袋",
+     "brand": "Cymbal",
+     "size": "40袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クッキーファミリーパック 5種 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼き菓子ファミリーパック 徳用 60袋",
+     "brand": "Cymbal ベーシック",
+     "size": "60袋",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 和洋菓子ファミリーパック 36袋",
+     "brand": "Cymbal",
+     "size": "36袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコ菓子ファミリーパック 6種 35袋",
+     "brand": "Cymbal",
+     "size": "35袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_sweet_baked_family_pack_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

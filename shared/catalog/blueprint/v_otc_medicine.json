@@ -1,0 +1,1845 @@
+{
+ "category_key": "v_otc_medicine",
+ "items": [
+  {
+   "base_id": "v_otc_cold_tablet",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "総合かぜ薬 錠剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "かぜの諸症状（発熱・悪寒・頭痛・のどの痛み・鼻水・鼻づまり・くしゃみ・せき・たん）の緩和に用いる総合かぜ薬です。飲みやすい小粒のフィルムコーティング錠で、持ち運びしやすいPTPシート包装。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A white-and-teal medicine carton box standing upright with a silver blister pack of small white film-coated tablets in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "発熱",
+     "頭痛",
+     "のどの痛み",
+     "鼻水",
+     "鼻づまり",
+     "せき",
+     "くしゃみ",
+     "悪寒",
+     "たん"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 総合かぜ薬 錠剤 30錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "30錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 総合かぜ薬 錠剤 60錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "60錠",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 総合かぜ薬 錠剤 18錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "18錠",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_granule",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "総合かぜ薬 顆粒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "かぜの諸症状（のどの痛み・せき・たん・鼻水・発熱・頭痛など）の緩和に用いる顆粒タイプの総合かぜ薬です。1回分ずつの分包で、水なしでも服用しやすい細かな顆粒。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A flat medicine carton box with several small rectangular single-dose granule sachets fanned out in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "発熱",
+     "頭痛",
+     "のどの痛み",
+     "鼻水",
+     "鼻づまり",
+     "せき",
+     "くしゃみ",
+     "悪寒",
+     "たん"
+    ],
+    "age_min": 15,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 総合かぜ薬 顆粒 12包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "12包",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 総合かぜ薬 顆粒 24包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "24包",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_granule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_sorano_ex",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "総合かぜ薬 錠剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "かぜの諸症状（のどの痛み・せき・鼻水・鼻づまり・発熱・悪寒・頭痛・関節の痛み）の緩和に。1日3回服用タイプの総合かぜ薬です。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A sky-blue medicine carton box with a blister pack of light-blue coated tablets in front. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "発熱",
+     "頭痛",
+     "のどの痛み",
+     "鼻水",
+     "鼻づまり",
+     "せき",
+     "くしゃみ",
+     "悪寒",
+     "たん",
+     "関節痛"
+    ],
+    "age_min": 15,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 ソラノかぜ薬 EX錠 24錠",
+     "brand": "ソラノ製薬",
+     "size": "24錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 ソラノかぜ薬 EX錠 48錠",
+     "brand": "ソラノ製薬",
+     "size": "48錠",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_sorano_ex_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_capsule",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "総合かぜ薬 カプセル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "かぜの諸症状のうち、特にのどの痛み・鼻水・鼻づまり・くしゃみの緩和に用いるカプセルタイプのかぜ薬です。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A navy-and-white medicine carton box with a blister pack of two-tone navy and white capsules in front. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "のどの痛み",
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ",
+     "発熱",
+     "頭痛"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル かぜカプセル のど・鼻ケア 20カプセル",
+     "brand": "Cymbal メディカル",
+     "size": "20カプセル",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル かぜカプセル のど・鼻ケア 36カプセル",
+     "brand": "Cymbal メディカル",
+     "size": "36カプセル",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_capsule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_night",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "総合かぜ薬 錠剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "かぜの諸症状（鼻水・くしゃみ・せき・発熱・頭痛など）の緩和に。眠気をもよおす成分を含むため、服用後は乗物・機械類の運転操作をしないでください。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A dark navy medicine carton box with a blister pack of pale yellow tablets in front. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "くしゃみ",
+     "せき",
+     "発熱",
+     "頭痛",
+     "のどの痛み"
+    ],
+    "age_min": 15,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル 総合かぜ薬 ナイトケア錠 24錠",
+     "brand": "Cymbal メディカル",
+     "size": "24錠",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_night_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_kakkonto",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "漢方タイプ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "体力中等度以上のものの、かぜのひき始めで発熱して体がぞくぞくし、首筋や肩がこる方の、かぜのひき始め・頭痛・肩こりの緩和に用いる葛根湯エキス製剤です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A traditional-style beige-and-teal herbal medicine carton box with small paper sachets of brown granules in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "かぜのひき始め",
+     "悪寒",
+     "頭痛",
+     "肩こり",
+     "発熱"
+    ],
+    "age_min": 2,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 葛根湯エキス顆粒 10包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "10包",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 葛根湯エキス顆粒 20包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "20包",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 葛根湯エキス錠 72錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "72錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_kakkonto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_shoseiryuto",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "漢方タイプ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "体力中等度またはやや虚弱で、うすい水様のたんを伴うせきや鼻水が出る方の、鼻水・鼻炎・くしゃみ・うすい水様のたんを伴うせきの緩和に用いる小青竜湯エキス製剤です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo herbal medicine carton box with a small glass bottle of brown tablets beside it. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "くしゃみ",
+     "せき",
+     "たん",
+     "鼻炎"
+    ],
+    "age_min": 7,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 小青竜湯エキス錠 48錠",
+     "brand": "ほしぞら製薬",
+     "size": "48錠",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほしぞら製薬 小青竜湯エキス錠 96錠",
+     "brand": "ほしぞら製薬",
+     "size": "96錠",
+     "price_tax_excluded": 2680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_shoseiryuto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_gintonic",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "漢方タイプ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "体力に関わらず使用でき、かぜによるのどの痛み・口の渇き・せき・頭痛の緩和に用いる漢方処方の顆粒です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo herbal medicine carton box with single-dose paper sachets beside it. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "のどの痛み",
+     "せき",
+     "頭痛",
+     "口の渇き"
+    ],
+    "age_min": 7,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 漢方かぜ顆粒 のどタイプ 9包",
+     "brand": "ほしぞら製薬",
+     "size": "9包",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_gintonic_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_kids_syrup",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "子ども用シロップ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "お子さまのかぜの諸症状（鼻水・鼻づまり・くしゃみ・のどの痛み・せき・たん・発熱）の緩和に用いる子ども用かぜシロップです。1歳から服用できる量の目安を表示し、計量カップ付き。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small amber plastic syrup bottle with a clear measuring cup on top next to a pastel pink-and-teal carton box. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ",
+     "のどの痛み",
+     "せき",
+     "たん",
+     "発熱"
+    ],
+    "age_min": 1,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 子どもかぜシロップ いちご味 120mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "120mL",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 子どもかぜシロップ ぶどう味 120mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "120mL",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 子どもかぜシロップ いちご味 60mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "60mL",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_kids_syrup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cold_kids_granule",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "かぜ薬",
+    "子ども用シロップ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "お子さまのかぜの諸症状（発熱・鼻水・せき・のどの痛み）の緩和に用いる、甘い味付けの子ども用顆粒です。3歳から服用できます。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small green-and-white carton box decorated with simple abstract shapes, with tiny pastel single-dose sachets in front. Packaging colors fresh green and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "発熱",
+     "鼻水",
+     "せき",
+     "のどの痛み"
+    ],
+    "age_min": 3,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ミドリノ薬品 こどもかぜ顆粒 12包",
+     "brand": "ミドリノ薬品",
+     "size": "12包",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミドリノ薬品 こどもかぜ顆粒 24包",
+     "brand": "ミドリノ薬品",
+     "size": "24包",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cold_kids_granule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_standard",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "頭痛・生理痛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "頭痛・歯痛・抜歯後の疼痛・咽喉痛・耳痛・関節痛・神経痛・腰痛・筋肉痛・肩こり痛・打撲痛・ねんざ痛・月経痛（生理痛）・外傷痛の鎮痛、悪寒・発熱時の解熱に用いる大人用の解熱鎮痛薬です。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A compact white-and-teal medicine carton box with a blister pack of small round white tablets in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "頭痛",
+     "発熱",
+     "生理痛",
+     "歯痛",
+     "関節痛",
+     "腰痛",
+     "肩こり痛",
+     "のどの痛み"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 解熱鎮痛薬 A錠 24錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "24錠",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 解熱鎮痛薬 A錠 48錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "48錠",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 解熱鎮痛薬 A錠 12錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "12錠",
+     "price_tax_excluded": 420,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_standard_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_premium",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "第1類 解熱鎮痛薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "頭痛・歯痛・月経痛（生理痛）・腰痛・関節痛・神経痛・筋肉痛・肩こり痛・打撲痛などの鎮痛、悪寒・発熱時の解熱に用いる第1類の解熱鎮痛薬です。第1類医薬品のため、ご購入の際は薬剤師からの説明が必要です（薬剤師不在時は販売できません）。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A premium navy-and-silver medicine carton box with a blister pack of small pink tablets in front. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第1類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第1類医薬品",
+    "symptoms": [
+     "頭痛",
+     "発熱",
+     "生理痛",
+     "歯痛",
+     "腰痛",
+     "関節痛",
+     "肩こり痛"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル 解熱鎮痛薬 プレミアム錠 12錠",
+     "brand": "Cymbal メディカル",
+     "size": "12錠",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル 解熱鎮痛薬 プレミアム錠 24錠",
+     "brand": "Cymbal メディカル",
+     "size": "24錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_premium_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_quick",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "頭痛・生理痛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "頭痛・月経痛（生理痛）・歯痛・肩こり痛・腰痛などの鎮痛、発熱時の解熱に用いる速溶タイプの錠剤です。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A sky-blue medicine carton box with a blister pack of small white oval tablets in front. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "頭痛",
+     "生理痛",
+     "歯痛",
+     "肩こり痛",
+     "腰痛",
+     "発熱"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 ソラノ鎮痛錠 速溶タイプ 20錠",
+     "brand": "ソラノ製薬",
+     "size": "20錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 ソラノ鎮痛錠 速溶タイプ 40錠",
+     "brand": "ソラノ製薬",
+     "size": "40錠",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 ソラノ鎮痛錠 速溶タイプ 10錠",
+     "brand": "ソラノ製薬",
+     "size": "10錠",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_quick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_mild",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "頭痛・生理痛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "頭痛・発熱・歯痛・関節痛・月経痛（生理痛）の緩和に用いる、空腹時を避けて服用する解熱鎮痛薬です。眠くなる成分は含みません。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo medicine carton box with a blister pack of white round tablets in front. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "頭痛",
+     "発熱",
+     "歯痛",
+     "関節痛",
+     "生理痛"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 頭痛薬 マイルド錠 30錠",
+     "brand": "ほしぞら製薬",
+     "size": "30錠",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほしぞら製薬 頭痛薬 マイルド錠 60錠",
+     "brand": "ほしぞら製薬",
+     "size": "60錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_mild_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_period",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "頭痛・生理痛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "月経痛（生理痛）・頭痛・腰痛・歯痛・関節痛の鎮痛、発熱時の解熱に用いる錠剤です。眠くなる成分は含みません。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A soft green-and-white medicine carton box with a blister pack of small round white tablets in front. Packaging colors fresh green and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "生理痛",
+     "頭痛",
+     "腰痛",
+     "歯痛",
+     "発熱"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ミドリノ薬品 生理痛・頭痛薬 20錠",
+     "brand": "ミドリノ薬品",
+     "size": "20錠",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミドリノ薬品 生理痛・頭痛薬 40錠",
+     "brand": "ミドリノ薬品",
+     "size": "40錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_period_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_kids_chewable",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "子ども用"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "お子さまの発熱時の解熱、頭痛・歯痛・耳痛などの鎮痛に用いる、水なしで噛んで服用できる小児用チュアブル錠です。3歳から15歳未満向け。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A pastel teal-and-white small carton box with a blister pack of round pale orange chewable tablets in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "発熱",
+     "頭痛",
+     "歯痛",
+     "耳痛"
+    ],
+    "age_min": 3,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 小児用 解熱鎮痛チュアブル 16錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "16錠",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_kids_chewable_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_pain_kids_supp",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "解熱鎮痛薬",
+    "子ども用"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "お子さまの発熱時の解熱に用いる小児用の解熱坐剤です。1歳から使用でき、冷所保管タイプ。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small green-and-white carton box with a strip of white bullet-shaped suppositories in clear plastic wrapping in front. Packaging colors fresh green and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "発熱"
+    ],
+    "age_min": 1,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ミドリノ薬品 小児用 解熱坐剤 10個",
+     "brand": "ミドリノ薬品",
+     "size": "10個",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_pain_kids_supp_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_throat_spray",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "のどスプレー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "のどの炎症によるのどのあれ・のどの痛み・のどのはれ・のどの不快感・声がれの緩和に用いる、直接噴霧するのどスプレーです。ロングノズルで患部に届きやすい形状。第3類医薬品です。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A slim white-and-teal throat spray bottle with a long angled nozzle standing next to its small carton box. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第3類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第3類医薬品",
+    "symptoms": [
+     "のどの痛み",
+     "のどのはれ",
+     "声がれ",
+     "のどの不快感"
+    ],
+    "age_min": 1,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア のどスプレー 30mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "30mL",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア のどスプレー クールミント 30mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "30mL",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア のどスプレー 50mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "50mL",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_throat_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_throat_troche",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "トローチ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "口腔内・のどの殺菌・消毒、のどの痛み・はれの緩和に用いる、口の中でゆっくり溶かすトローチです。第3類医薬品です。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small white-and-teal carton box with a blister sheet of round pale yellow lozenge tablets in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第3類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第3類医薬品",
+    "symptoms": [
+     "のどの痛み",
+     "のどのはれ",
+     "口臭"
+    ],
+    "age_min": 5,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア のどトローチ はちみつレモン味 24錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "24錠",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア のどトローチ ミント味 24錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "24錠",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア のどトローチ はちみつレモン味 36錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "36錠",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_throat_troche_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_throat_drop",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "薬用のどドロップ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "のどの炎症によるのどの痛み・はれ・不快感・声がれの緩和に用いる薬用ドロップです。個包装で持ち歩きやすいタイプ。医薬部外品です。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small stand-up pouch bag with several individually wrapped amber hard drops scattered in front. Packaging colors fresh green and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "attributes": {
+    "drug_class": "医薬部外品",
+    "symptoms": [
+     "のどの痛み",
+     "声がれ",
+     "のどの不快感"
+    ],
+    "age_min": 3,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ミドリノ薬品 薬用のどドロップ はちみつ味 18粒",
+     "brand": "ミドリノ薬品",
+     "size": "18粒",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミドリノ薬品 薬用のどドロップ ハーブ味 18粒",
+     "brand": "ミドリノ薬品",
+     "size": "18粒",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_throat_drop_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cough_syrup",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "せき止め"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "せき・たんの緩和に用いるシロップタイプのせき止めです。12歳未満は服用できません。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A brown glass syrup bottle with a clear measuring cup cap next to a navy-and-white carton box. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "せき",
+     "たん"
+    ],
+    "age_min": 12,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル せき止めシロップ 120mL",
+     "brand": "Cymbal メディカル",
+     "size": "120mL",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル せき止めシロップ 60mL",
+     "brand": "Cymbal メディカル",
+     "size": "60mL",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cough_syrup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cough_tablet",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "せき止め"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "せき・たんの緩和に用いる錠剤タイプのせき止め薬です。12歳未満は服用できません。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A sky-blue medicine carton box with a blister pack of small light-green tablets in front. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "せき",
+     "たん"
+    ],
+    "age_min": 12,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 せき止め錠 EX 18錠",
+     "brand": "ソラノ製薬",
+     "size": "18錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 せき止め錠 EX 36錠",
+     "brand": "ソラノ製薬",
+     "size": "36錠",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cough_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_cough_bakumondoto",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "せき止め"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "体力中等度以下で、たんが切れにくく、ときに強くせきこみ、またはのどの乾燥感がある方の、からぜき・気管支炎・咽頭炎・しわがれ声の緩和に用いる麦門冬湯エキス製剤です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo herbal medicine carton box with single-dose paper sachets of granules in front. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "からぜき",
+     "せき",
+     "のどの乾燥感",
+     "声がれ"
+    ],
+    "age_min": 2,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 麦門冬湯エキス顆粒 12包",
+     "brand": "ほしぞら製薬",
+     "size": "12包",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほしぞら製薬 麦門冬湯エキス顆粒 24包",
+     "brand": "ほしぞら製薬",
+     "size": "24包",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_cough_bakumondoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_throat_gargle",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "のど・せき",
+    "うがい薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "口腔内・のどの殺菌・消毒・洗浄、口臭の除去に用いる、水でうすめて使うタイプのうがい薬です。第3類医薬品です。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A brown plastic gargle bottle with a measuring cap standing next to a small teal carton. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第3類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第3類医薬品",
+    "symptoms": [
+     "のどの殺菌・消毒",
+     "口臭"
+    ],
+    "age_min": 1,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア うがい薬 200mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "200mL",
+     "price_tax_excluded": 480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア うがい薬 500mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "500mL",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_throat_gargle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_rhinitis_capsule",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "鼻炎薬",
+    "鼻炎カプセル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "急性鼻炎・アレルギー性鼻炎または副鼻腔炎による鼻水・鼻づまり・くしゃみ・なみだ目・頭重の緩和に用いる、1日2回服用の持続性カプセルです。眠気をもよおすことがあります。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A white-and-teal medicine carton box with a blister pack of red-and-clear capsules showing tiny beads in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ",
+     "なみだ目",
+     "頭重"
+    ],
+    "age_min": 15,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 持続性 鼻炎カプセル 12カプセル",
+     "brand": "Cymbal ヘルスケア",
+     "size": "12カプセル",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 持続性 鼻炎カプセル 24カプセル",
+     "brand": "Cymbal ヘルスケア",
+     "size": "24カプセル",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 持続性 鼻炎カプセル 48カプセル",
+     "brand": "Cymbal ヘルスケア",
+     "size": "48カプセル",
+     "price_tax_excluded": 2780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_rhinitis_capsule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_rhinitis_allergy",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "鼻炎薬",
+    "アレルギー専用"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "花粉・ハウスダスト（室内塵）などによる次のような鼻のアレルギー症状の緩和：くしゃみ・鼻水・鼻づまり。1日2回服用の錠剤です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A navy-and-white medicine carton box with a blister pack of small oval white tablets in front. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ",
+     "花粉による鼻炎"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル アレルギー性鼻炎薬 AL錠 28錠",
+     "brand": "Cymbal メディカル",
+     "size": "28錠",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル アレルギー性鼻炎薬 AL錠 56錠",
+     "brand": "Cymbal メディカル",
+     "size": "56錠",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル アレルギー性鼻炎薬 AL錠 14錠",
+     "brand": "Cymbal メディカル",
+     "size": "14錠",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_rhinitis_allergy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_rhinitis_nasal_spray",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "鼻炎薬",
+    "点鼻薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "急性鼻炎・アレルギー性鼻炎または副鼻腔炎による鼻づまり・鼻水・くしゃみ・頭重の緩和に用いる点鼻薬です。長期連用は避けてください。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small white nasal spray pump bottle with a sky-blue cap standing next to its compact carton box. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "鼻づまり",
+     "鼻水",
+     "くしゃみ",
+     "頭重"
+    ],
+    "age_min": 7,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 ソラノ点鼻薬 クール 30mL",
+     "brand": "ソラノ製薬",
+     "size": "30mL",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 ソラノ点鼻薬 マイルド 30mL",
+     "brand": "ソラノ製薬",
+     "size": "30mL",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_rhinitis_nasal_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_rhinitis_kids",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "鼻炎薬",
+    "子ども用"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "お子さまの急性鼻炎・アレルギー性鼻炎による鼻水・鼻づまり・くしゃみの緩和に用いる子ども用シロップです。3歳から服用できます。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A small amber syrup bottle with a measuring cup beside a green-and-white carton with simple abstract shapes. Packaging colors fresh green and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ"
+    ],
+    "age_min": 3,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ミドリノ薬品 こども鼻炎シロップ 120mL",
+     "brand": "ミドリノ薬品",
+     "size": "120mL",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_rhinitis_kids_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_rhinitis_ex",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "鼻炎薬",
+    "鼻炎錠"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "急性鼻炎・アレルギー性鼻炎による鼻水・鼻づまり・くしゃみ・なみだ目の緩和に用いる鼻炎錠です。眠気をもよおすことがあります。指定第2類医薬品です。使用上の注意（してはいけないこと）をよくお読みください。濫用等のおそれのある医薬品のため、お一人様1個まで、医薬品カウンターでのお渡しとなります。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A sky-blue medicine carton box with a blister pack of small pale-blue tablets in front. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "指定第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "指定第2類医薬品",
+    "symptoms": [
+     "鼻水",
+     "鼻づまり",
+     "くしゃみ",
+     "なみだ目"
+    ],
+    "age_min": 15,
+    "abuse_control": "true"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 鼻炎錠 EX 24錠",
+     "brand": "ソラノ製薬",
+     "size": "24錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 鼻炎錠 EX 48錠",
+     "brand": "ソラノ製薬",
+     "size": "48錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_rhinitis_ex_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_general",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "総合胃腸薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "胃もたれ・胸やけ・食べすぎ・飲みすぎ・胃部不快感・消化不良・食欲不振・胃重・胃部膨満感の緩和に用いる総合胃腸薬です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A white-and-teal medicine carton box with a few small paper sachets of fine powder in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "胃もたれ",
+     "胸やけ",
+     "食べすぎ",
+     "飲みすぎ",
+     "胃部不快感",
+     "消化不良",
+     "食欲不振"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 総合胃腸薬 顆粒 16包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "16包",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 総合胃腸薬 顆粒 32包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "32包",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 総合胃腸薬 錠剤 90錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "90錠",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_general_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_h2",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "第1類 胃腸薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "胃痛・もたれ・胸やけ・むかつきの緩和に用いる、胃酸の出すぎをおさえるタイプの第1類胃腸薬です。3日間服用しても症状が続く場合は服用を中止し、医師の診療を受けてください。第1類医薬品のため、ご購入の際は薬剤師からの説明が必要です（薬剤師不在時は販売できません）。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A navy-and-silver compact medicine carton box with a small blister pack of white tablets in front. Packaging colors white and navy blue, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第1類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第1類医薬品",
+    "symptoms": [
+     "胃痛",
+     "胸やけ",
+     "胃もたれ",
+     "むかつき"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal メディカル 胃腸薬 H2ブロッカー錠 6錠",
+     "brand": "Cymbal メディカル",
+     "size": "6錠",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メディカル 胃腸薬 H2ブロッカー錠 12錠",
+     "brand": "Cymbal メディカル",
+     "size": "12錠",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_h2_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_probiotic",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "整腸薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "整腸（便通を整える）、腹部膨満感、便秘、軟便の緩和に用いる、乳酸菌配合の整腸薬です。5歳から服用できます。第3類医薬品です。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A white plastic medicine bottle with a teal cap and a small heap of tiny white tablets in front, next to a carton box. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第3類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第3類医薬品",
+    "symptoms": [
+     "整腸",
+     "便秘",
+     "軟便",
+     "腹部膨満感"
+    ],
+    "age_min": 5,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 整腸薬 錠剤 350錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "350錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 整腸薬 錠剤 550錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "550錠",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 整腸薬 細粒 36包",
+     "brand": "Cymbal ヘルスケア",
+     "size": "36包",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_probiotic_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_diarrhea",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "下痢止め"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "下痢・食あたり・水あたり・はき下し・くだり腹・軟便の緩和に用いる下痢止めです。発熱や血便を伴う場合は医師にご相談ください。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A sky-blue medicine carton box with a blister pack of small white tablets in front. Packaging colors sky blue and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "下痢",
+     "食あたり",
+     "水あたり",
+     "軟便"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ソラノ製薬 下痢止め錠 12錠",
+     "brand": "ソラノ製薬",
+     "size": "12錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ製薬 下痢止め錠 24錠",
+     "brand": "ソラノ製薬",
+     "size": "24錠",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_diarrhea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_constipation",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "便秘薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "便秘、便秘に伴う頭重・のぼせ・肌あれ・吹出物・食欲不振・腹部膨満・腸内異常発酵・痔の緩和に用いる便秘薬です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo medicine carton box with a blister pack of small pink coated tablets in front. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "便秘",
+     "腹部膨満感",
+     "肌あれ"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 便秘薬 錠剤 60錠",
+     "brand": "ほしぞら製薬",
+     "size": "60錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほしぞら製薬 便秘薬 錠剤 120錠",
+     "brand": "ほしぞら製薬",
+     "size": "120錠",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_constipation_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_stomachache",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "胃痛・腹痛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "胃痛・腹痛・さしこみ（疝痛・癪）・胃酸過多・胸やけの緩和に用いる錠剤です。強い腹痛が続く場合は医療機関を受診してください。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "A white-and-teal medicine carton box with a blister pack of small light-orange tablets in front. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "胃痛",
+     "腹痛",
+     "さしこみ",
+     "胸やけ"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 胃痛・腹痛薬 18錠",
+     "brand": "Cymbal ヘルスケア",
+     "size": "18錠",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_stomachache_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_liquid",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "総合胃腸薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "食べすぎ・飲みすぎ・胃もたれ・胸やけ・胃部不快感・はきけ（むかつき・二日酔い・悪酔いのむかつき）の緩和に用いる液剤タイプの胃腸薬です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "Three small brown glass medicine drink bottles with plain gold caps lined up beside a small carton. Packaging colors white and teal, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "胃もたれ",
+     "胸やけ",
+     "食べすぎ",
+     "飲みすぎ",
+     "むかつき"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ヘルスケア 胃腸薬 液剤 30mL×3本",
+     "brand": "Cymbal ヘルスケア",
+     "size": "30mL×3本",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヘルスケア 胃腸薬 液剤 30mL",
+     "brand": "Cymbal ヘルスケア",
+     "size": "30mL",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_liquid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "v_otc_gi_anchusan",
+   "category_path": [
+    "医薬品・ヘルスケア",
+    "胃腸薬",
+    "漢方胃腸薬"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [],
+   "tax_rate": 10,
+   "description": "体力中等度以下で、腹部は力がなく、胃痛または腹痛があって、ときに胸やけやげっぷ、胃もたれ、食欲不振、吐き気、嘔吐などを伴う方の、神経性胃炎・慢性胃炎・胃腸虚弱の緩和に用いる安中散エキス製剤です。第2類医薬品です。ご不明な点は薬剤師・登録販売者にご相談ください。パッケージ記載の用法・用量を守ってお使いください。",
+   "image_brief": "An indigo herbal medicine carton box with a small glass bottle of light-brown tablets beside it. Packaging colors deep indigo and white, completely blank label areas with no text, no logo, no letters or numbers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "第2類医薬品"
+   ],
+   "attributes": {
+    "drug_class": "第2類医薬品",
+    "symptoms": [
+     "胃痛",
+     "胸やけ",
+     "胃もたれ",
+     "食欲不振",
+     "吐き気"
+    ],
+    "age_min": 15,
+    "abuse_control": "false"
+   },
+   "variants": [
+    {
+     "title": "ほしぞら製薬 安中散エキス錠 60錠",
+     "brand": "ほしぞら製薬",
+     "size": "60錠",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほしぞら製薬 安中散エキス錠 120錠",
+     "brand": "ほしぞら製薬",
+     "size": "120錠",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "v_otc_gi_anchusan_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

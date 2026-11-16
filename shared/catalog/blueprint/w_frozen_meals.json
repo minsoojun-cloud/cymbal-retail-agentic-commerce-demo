@@ -1,0 +1,4174 @@
+{
+ "category_key": "w_frozen_meals",
+ "items": [
+  {
+   "base_id": "w_frozen_meals_sui_gyoza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "水餃子"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水餃子",
+    "スープ餃子",
+    "鍋",
+    "中華スープ"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちの厚皮で包んだ、ゆでて食べる水餃子です。豚肉と白菜のあんはジューシーで、つるんとした喉ごしが楽しめます。鍋やスープに凍ったまま入れられるので、寒い日の一品にも便利です。",
+   "image_brief": "A clear resealable bag of plump white boiled-style dumplings with thick pleated wrappers, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal もちもち厚皮 水餃子 20個入（400g）",
+     "brand": "Cymbal",
+     "size": "20個入（400g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 水餃子 30個入（540g）",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入（540g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒豚と白菜の水餃子 16個入（368g）",
+     "brand": "Cymbal セレクト",
+     "size": "16個入（368g）",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産黒豚使用"
+    },
+    {
+     "title": "ゆげ屋 スープ用 ひとくち水餃子 36個入（360g）",
+     "brand": "ゆげ屋",
+     "size": "36個入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびと青菜の水餃子 15個入（300g）",
+     "brand": "Cymbal",
+     "size": "15個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_sui_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_nama_gyoza_ooban",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "生餃子"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "鶏肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き餃子",
+    "揚げ餃子",
+    "餃子パーティー",
+    "晩ごはんのおかず"
+   ],
+   "tax_rate": 8,
+   "description": "焼く前の生の状態で急速凍結した大判サイズの餃子です。フライパンで焼くと皮はパリッと、中からは肉汁があふれます。にんにく控えめタイプや、しょうがを効かせたタイプなど好みで選べます。",
+   "image_brief": "A white plastic tray of large raw half-moon pork dumplings neatly lined in rows under clear film, plain blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 肉汁あふれる 大判生餃子 焼き調理用 12個入（360g）",
+     "brand": "Cymbal",
+     "size": "12個入（360g）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生餃子 焼き調理用 50個入（900g）",
+     "brand": "Cymbal ベーシック",
+     "size": "50個入（900g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚肉 大判生餃子 10個入（350g）",
+     "brand": "Cymbal セレクト",
+     "size": "10個入（350g）",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal にんにく不使用 生餃子 24個入（480g）",
+     "brand": "Cymbal",
+     "size": "24個入（480g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 しょうが餃子 生タイプ 20個入（440g）",
+     "brand": "ゆげ屋",
+     "size": "20個入（440g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_nama_gyoza_ooban_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_shiso_gyoza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "しそ・野菜餃子"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き餃子",
+    "おつまみ",
+    "お弁当",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "青じそを刻み込んださわやかな香りの焼き餃子です。キャベツやニラなど野菜をたっぷり使い、後味すっきり。にんにくのにおいが気になる日にも食べやすく、油・水なしで焼けるタイプも揃えました。",
+   "image_brief": "A clear tray of small pan-fried dumplings with green herb flecks visible through translucent wrappers, plain blank paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 青じそ香る しそ餃子 12個入（240g）",
+     "brand": "Cymbal",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 野菜たっぷり餃子 油・水いらず 12個入（264g）",
+     "brand": "Cymbal",
+     "size": "12個入（264g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大葉と国産野菜の餃子 15個入（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "15個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal ベーシック 野菜餃子 30個入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入（600g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機キャベツの野菜餃子 12個入（240g）",
+     "brand": "Cymbal オーガニック",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_shiso_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_ebi_mushi_gyoza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "蒸し餃子・点心"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "点心",
+    "飲茶",
+    "おつまみ",
+    "中華ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "半透明のもっちりした皮から、ぷりっとしたえびが透けて見える蒸し餃子です。電子レンジや蒸し器で手軽に本格的な飲茶気分が楽しめます。おもてなしの一品や、おつまみにもおすすめです。",
+   "image_brief": "A black plastic tray holding translucent pleated shrimp dumplings with pink shrimp visible inside, clear lid, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぷりぷり えび蒸し餃子 8個入（160g）",
+     "brand": "Cymbal",
+     "size": "8個入（160g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大粒えび使用 えび蒸し餃子 10個入（250g）",
+     "brand": "Cymbal セレクト",
+     "size": "10個入（250g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ニラ饅頭 蒸し点心 6個入（180g）",
+     "brand": "Cymbal",
+     "size": "6個入（180g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 点心3種アソート えび・ニラ・肉 12個入（300g）",
+     "brand": "ゆげ屋",
+     "size": "12個入（300g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック えび蒸し餃子 16個入（288g）",
+     "brand": "Cymbal ベーシック",
+     "size": "16個入（288g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_ebi_mushi_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_ebi_shumai",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "しゅうまい"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しゅうまい",
+    "お弁当",
+    "点心",
+    "中華ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "えびのすり身と粗切りのえびを合わせた、ぷりぷり食感のえび焼売です。ほんのりした甘みとえびの香りが広がり、電子レンジで手軽に温められます。お弁当にも食卓にも使いやすい定番品です。",
+   "image_brief": "A clear tray of round shumai dumplings topped with a pink shrimp, wrapped in yellow wrappers, plain blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびしゅうまい レンジ調理 10個入（200g）",
+     "brand": "Cymbal",
+     "size": "10個入（200g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大きなえびのせ えびしゅうまい 8個入（240g）",
+     "brand": "Cymbal セレクト",
+     "size": "8個入（240g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 ミニえびしゅうまい 18個入（216g）",
+     "brand": "Cymbal ベーシック",
+     "size": "18個入（216g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびしゅうまい 徳用 24個入（480g）",
+     "brand": "Cymbal",
+     "size": "24個入（480g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 えびとれんこんのしゅうまい 10個入（250g）",
+     "brand": "ゆげ屋",
+     "size": "10個入（250g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_ebi_shumai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_hotate_shumai",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "しゅうまい"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "しゅうまい",
+    "おもてなし",
+    "点心",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "ほたての貝柱を練り込み、うま味をぎゅっと閉じ込めた贅沢な焼売です。豚肉の肉汁とほたての甘みが重なり、からしじょうゆがよく合います。来客時や年末年始のごちそうにも喜ばれます。",
+   "image_brief": "A black gift-style tray of large shumai each topped with a scallop slice, clear film lid, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 北海道産ほたて使用 帆立しゅうまい 8個入（240g）",
+     "brand": "Cymbal セレクト",
+     "size": "8個入（240g）",
+     "price_tax_excluded": 598,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal 帆立しゅうまい 10個入（250g）",
+     "brand": "Cymbal",
+     "size": "10個入（250g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト かにと帆立のしゅうまい 8個入（240g）",
+     "brand": "Cymbal セレクト",
+     "size": "8個入（240g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 ほたて入り 大粒しゅうまい 6個入（210g）",
+     "brand": "ゆげ屋",
+     "size": "6個入（210g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_hotate_shumai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_mochigome_shumai",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "しゅうまい"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "点心",
+    "お弁当",
+    "おやつ",
+    "中華ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "肉だんごのまわりにもち米をまぶして蒸し上げた、真珠のような見た目の焼売です。もち米のもっちり感と肉のうま味が一緒に味わえ、食べごたえも十分。お子さまのお弁当にもおすすめです。",
+   "image_brief": "A clear tray of round pearl-like meatballs coated in glossy white sticky rice grains, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal もち米しゅうまい 8個入（200g）",
+     "brand": "Cymbal",
+     "size": "8個入（200g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産もち米 真珠しゅうまい 8個入（240g）",
+     "brand": "Cymbal セレクト",
+     "size": "8個入（240g）",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal ベーシック もち米しゅうまい 16個入（400g）",
+     "brand": "Cymbal ベーシック",
+     "size": "16個入（400g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 もち米しゅうまい 枝豆入り 10個入（250g）",
+     "brand": "ゆげ屋",
+     "size": "10個入（250g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_mochigome_shumai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_shio_karaage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "からあげ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "おつまみ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "にんにくと黒こしょうを効かせた塩味の若鶏もも唐揚げです。電子レンジで温めるだけで外はカリッ、中はジューシー。レモンをしぼってさっぱりと、お弁当やおつまみにも重宝します。",
+   "image_brief": "A clear stand-up bag of golden crispy fried chicken pieces seasoned with pepper, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 若鶏もも 塩からあげ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩からあげ 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏 塩からあげ ゆず胡椒風味 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ガーリック塩からあげ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル 北の塩ざんぎ 400g",
+     "brand": "ノースベル",
+     "size": "400g",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_shio_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tatsutaage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "竜田揚げ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "竜田揚げ定食",
+    "おつまみ",
+    "丼"
+   ],
+   "tax_rate": 8,
+   "description": "しょうがじょうゆに漬け込み、片栗粉の衣で揚げた竜田揚げです。白っぽく仕上がった衣のサクッとした食感と、しっかりしみた和風の下味が特長。ごはんのおかずにもお弁当にもよく合います。",
+   "image_brief": "A clear bag of pale, crunchy potato-starch-coated fried chicken pieces with white speckled crust, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 若鶏の竜田揚げ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏 しょうが竜田揚げ 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏の竜田揚げ 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さばの竜田揚げ 骨取り 6切入（240g）",
+     "brand": "Cymbal",
+     "size": "6切入（240g）",
+     "price_tax_excluded": 458,
+     "origin": "ノルウェー産さば使用"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tatsutaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_spicy_chicken",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "フライドチキン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パーティー",
+    "クリスマス",
+    "おつまみ",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスを効かせた衣をまとった、骨なしのフライドチキンです。オーブントースターで温めると衣がサクサクに戻り、ピリッとした辛さがあとを引きます。ホームパーティーやクリスマスにも活躍します。",
+   "image_brief": "An open-front bag spilling crispy reddish-golden boneless spicy fried chicken chunks, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 骨なしスパイシーチキン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 骨なしフライドチキン ハーブ&ペッパー 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フライドチキン 骨なし 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏 ホットスパイシーチキン 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 648,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Frozzo ジャンボチキンステーキ フライド 2枚入（300g）",
+     "brand": "Frozzo",
+     "size": "2枚入（300g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_spicy_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_nankotsu_karaage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 からあげ・揚げ物",
+    "からあげ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "お弁当",
+    "居酒屋メニュー"
+   ],
+   "tax_rate": 8,
+   "description": "コリコリ食感がクセになる、鶏のやげん軟骨を使った唐揚げです。しょうゆとにんにくでしっかり味付けしてあり、レンジでも揚げてもOK。ビールのお供や居酒屋気分の家飲みにぴったりです。",
+   "image_brief": "A clear bag of small crunchy fried chicken cartilage nuggets in golden brown crust, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏軟骨からあげ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏なんこつ唐揚げ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏軟骨からあげ ゆず塩味 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル 居酒屋の やげん軟骨揚げ 200g",
+     "brand": "ノースベル",
+     "size": "200g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_nankotsu_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_cheese_in_hamburg",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉おかず",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "牛肉",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ定食",
+    "お弁当",
+    "ロコモコ",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "割るととろりとチーズがあふれ出す、チーズインハンバーグです。牛肉と豚肉の合いびきでジューシーに焼き上げ、デミグラスソースをからめてあります。湯せんやレンジで温めるだけで、子どもにも大人気の一皿に。",
+   "image_brief": "A plain blank pouch beside a plated round hamburger steak cut open with melted cheese oozing in dark demi-glace sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズインハンバーグ デミグラスソース 2個入（300g）",
+     "brand": "Cymbal",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 チーズインハンバーグ 2個入（340g）",
+     "brand": "Cymbal セレクト",
+     "size": "2個入（340g）",
+     "price_tax_excluded": 698,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック チーズインハンバーグ 6個入（720g）",
+     "brand": "Cymbal ベーシック",
+     "size": "6個入（720g）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズインハンバーグ トマトソース 2個入（300g）",
+     "brand": "Cymbal",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Frozzo ダブルチーズハンバーグ 1個入（200g）",
+     "brand": "Frozzo",
+     "size": "1個入（200g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_cheese_in_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_wafu_oroshi_hamburg",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉おかず",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "牛肉",
+    "豚肉",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ定食",
+    "お弁当",
+    "丼",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "大根おろし入りの和風しょうゆだれでさっぱり仕上げたハンバーグです。肉のうま味とおろしのやさしい酸味がよく合い、ごはんがすすみます。湯せんで温めるだけなので、忙しい日の夕食に便利です。",
+   "image_brief": "A plated hamburger steak topped with grated daikon and green onion in glossy soy sauce, next to a plain blank pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 和風おろしハンバーグ 2個入（320g）",
+     "brand": "Cymbal",
+     "size": "2個入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛入り おろしハンバーグ 2個入（340g）",
+     "brand": "Cymbal セレクト",
+     "size": "2個入（340g）",
+     "price_tax_excluded": 798,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal 照り焼きハンバーグ 2個入（300g）",
+     "brand": "Cymbal",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 和風ハンバーグ 5個入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "5個入（600g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きのこおろしハンバーグ 2個入（340g）",
+     "brand": "Cymbal",
+     "size": "2個入（340g）",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_wafu_oroshi_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tofu_hamburg",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉おかず",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "お弁当",
+    "ヘルシーごはん",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐と鶏ひき肉を合わせたふんわりやわらかな豆腐ハンバーグです。ひじきや野菜も入り、あっさりしながらも満足感のある味わい。あんかけ風のたれ付きで、カロリーが気になる方にもおすすめです。",
+   "image_brief": "Two soft pale tofu hamburger patties with flecks of hijiki and carrot under amber starch sauce, beside a plain blank pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ふんわり豆腐ハンバーグ 和風あん付 4個入（280g）",
+     "brand": "Cymbal",
+     "size": "4個入（280g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひじき入り 豆腐ハンバーグ 6個入（300g）",
+     "brand": "Cymbal",
+     "size": "6個入（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆の豆腐ハンバーグ 4個入（240g）",
+     "brand": "Cymbal オーガニック",
+     "size": "4個入（240g）",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 豆腐ハンバーグ 10個入（500g）",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入（500g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tofu_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_chicken_nanban",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉おかず",
+    "鶏肉おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキン南蛮",
+    "お弁当",
+    "ワンプレート",
+    "晩ごはんのおかず"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり卵衣の鶏むね肉に甘酢だれをからめた、宮崎風のチキン南蛮です。たっぷりのタルタルソース付きで、温めるだけでボリュームのある主菜に。ごはんがすすむ甘酸っぱい味付けです。",
+   "image_brief": "A plated chicken nanban with sweet vinegar glaze and thick tartar sauce, beside a plain blank pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 宮崎風 チキン南蛮 タルタル付 2枚入（300g）",
+     "brand": "Cymbal",
+     "size": "2枚入（300g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏もも チキン南蛮 2枚入（320g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚入（320g）",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック チキン南蛮 5枚入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "5枚入（600g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お弁当用 ミニチキン南蛮 6個入（150g）",
+     "brand": "Cymbal",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_chicken_nanban_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_ebi_chahan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "チャーハン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "卵",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "ランチ",
+    "夜食",
+    "中華セット"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとしたえびと卵をたっぷり使ったパラパラ食感のチャーハンです。高温で一気に炒めた香ばしさを閉じ込め、フライパンでもレンジでもおいしく仕上がります。小分けにしやすいチャック付き袋です。",
+   "image_brief": "A resealable bag with a clear window showing fluffy golden fried rice with pink shrimp and egg, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぷりぷり えびチャーハン 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大粒えびの塩チャーハン 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびチャーハン 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびチャーハン 小分け 220g×2袋",
+     "brand": "Cymbal",
+     "size": "220g×2袋",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル かに入り 五目えびチャーハン 500g",
+     "brand": "ノースベル",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_ebi_chahan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_takana_chahan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "チャーハン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "卵",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "ランチ",
+    "お弁当",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ピリ辛の高菜漬けとごまの香ばしさが食欲をそそる高菜チャーハンです。豚肉のうま味としょうゆの風味がごはん一粒一粒に行き渡り、最後まで飽きずに楽しめます。九州産の高菜を使ったタイプもあります。",
+   "image_brief": "A plain blank bag beside a bowl of fried rice speckled with dark green pickled mustard leaves and sesame, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピリ辛 高菜チャーハン 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 九州産高菜使用 高菜チャーハン 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "九州産高菜使用"
+    },
+    {
+     "title": "Cymbal ベーシック 高菜チャーハン 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太高菜チャーハン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_takana_chahan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_kimchi_chahan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "チャーハン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "卵",
+    "大豆",
+    "ごま",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "チャーハン",
+    "ランチ",
+    "夜食",
+    "キムチ丼"
+   ],
+   "tax_rate": 8,
+   "description": "白菜キムチの酸味とうま辛さを生かした、豚肉入りのキムチチャーハンです。ごま油の香りが広がり、目玉焼きやチーズをのせてアレンジするのもおすすめ。寒い季節に体が温まる一皿です。",
+   "image_brief": "A plain blank bag with a clear window showing reddish-orange kimchi fried rice with pork and scallions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚キムチチャーハン 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズ入り キムチチャーハン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック キムチチャーハン 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル 旨辛 韓国風キムチポックンパ 2袋入（440g）",
+     "brand": "ノースベル",
+     "size": "2袋入（440g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_kimchi_chahan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_kinoko_butter_pilaf",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "ピラフ・炒めごはん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "ピラフ",
+    "ランチ",
+    "洋食プレート",
+    "オムライスの具"
+   ],
+   "tax_rate": 8,
+   "description": "しめじ、まいたけ、マッシュルームなど数種のきのこをバターで炒め合わせた香り豊かなピラフです。しょうゆを隠し味に加えたまろやかな味わいで、秋冬のランチにぴったり。レンジで手軽に温められます。",
+   "image_brief": "A plain blank bag with a clear window showing buttery pilaf rice studded with brown mushroom pieces and parsley, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きのこのバターしょうゆピラフ 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産きのこ5種のバターピラフ 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産きのこ使用"
+    },
+    {
+     "title": "Cymbal ベーシック きのこピラフ 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポルチーニ香る きのこリゾット風ピラフ 380g",
+     "brand": "Cymbal",
+     "size": "380g",
+     "price_tax_excluded": 428,
+     "origin": "イタリア産ポルチーニ使用"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_kinoko_butter_pilaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_garlic_rice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "ピラフ・炒めごはん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ガーリックライス",
+    "ステーキの付け合わせ",
+    "ワンプレート",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "フライドガーリックとバターの香りが食欲をそそるガーリックライスです。ステーキやハンバーグの付け合わせにはもちろん、単品でも満足感のあるしっかりした味わい。牛肉入りタイプも揃えました。",
+   "image_brief": "A plain blank bag beside a plate of golden garlic fried rice topped with crispy garlic chips and parsley, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ガーリックライス 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牛肉入り ペッパーガーリックライス 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック ガーリックライス 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焦がしバター ガーリックライス 380g",
+     "brand": "Cymbal セレクト",
+     "size": "380g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_garlic_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_paella",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "パエリア・リゾット"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "鶏肉",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パエリア",
+    "パーティー",
+    "クリスマス",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "えび、いか、あさりなど魚介のうま味とサフランの香りを生かしたパエリアです。フライパンで温めればおこげも楽しめ、テーブルが華やかに。ホームパーティーやクリスマスのメニューにもおすすめです。",
+   "image_brief": "A shallow round black foil pan of saffron-yellow paella with shrimp, squid rings and mussels under clear film, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 魚介のパエリア 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 有頭えびのせ 本格パエリア 2人前（500g）",
+     "brand": "Cymbal セレクト",
+     "size": "2人前（500g）",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンとトマトのパエリア 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Frozzo イカ墨パエリア 350g",
+     "brand": "Frozzo",
+     "size": "350g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびのトマトクリームリゾット 2袋入（440g）",
+     "brand": "Cymbal",
+     "size": "2袋入（440g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_paella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bibimbap",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "ビビンバ・韓国ごはん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "牛肉",
+    "大豆",
+    "ごま",
+    "小麦",
+    "鶏肉",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ビビンバ",
+    "石焼きビビンバ風",
+    "ランチ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ナムルと甘辛い牛肉そぼろをごはんと合わせたビビンバです。フライパンで焼き付けると石焼き風のおこげが楽しめます。コチュジャンだれ付きで辛さを調整でき、卵を落とせばさらにまろやかに。",
+   "image_brief": "A plain blank bag beside a hot stone bowl of rice with colorful namul vegetables, minced beef and a fried egg, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛肉ビビンバ 2袋入（440g）",
+     "brand": "Cymbal",
+     "size": "2袋入（440g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 石焼き風 プルコギビビンバ 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック ビビンバ 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル チーズタッカルビ風 ごはん 2袋入（440g）",
+     "brand": "ノースベル",
+     "size": "2袋入（440g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bibimbap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tenshinhan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "丼・天津飯"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "かに",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天津飯",
+    "中華ランチ",
+    "夜食",
+    "丼"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり焼いたかに玉を、甘酢あんとともにごはんにのせた天津飯です。お皿に移してレンジで温めるだけで、中華料理店のような一皿が完成します。甘酢あんとしょうゆあんの2種類から選べます。",
+   "image_brief": "A round microwave-safe tray of fluffy crab omelet on rice covered with glossy red sweet-and-sour sauce, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かに玉天津飯 甘酢あん 1食（330g）",
+     "brand": "Cymbal",
+     "size": "1食（330g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天津飯 しょうゆあん 1食（330g）",
+     "brand": "Cymbal",
+     "size": "1食（330g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ずわいがに入り 天津飯 1食（350g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（350g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 天津飯 2食入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "2食入（600g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 中華丼 あんかけごはん 1食（350g）",
+     "brand": "Cymbal",
+     "size": "1食（350g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tenshinhan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_frozen_onigiri",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ごはん・チャーハン",
+    "おにぎり"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "さけ",
+    "大豆",
+    "小麦",
+    "いくら"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "夜食",
+    "受験の夜食"
+   ],
+   "tax_rate": 8,
+   "description": "具を包んで握ったおにぎりを1個ずつ包装し冷凍しました。レンジで温めるだけでふっくらとした炊きたての味わい。朝ごはんや夜食、忙しい日のお弁当にも便利で、鮭や昆布、梅など定番の具が揃います。",
+   "image_brief": "Several individually film-wrapped triangular rice balls with nori, piled in front of a plain blank bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鮭おにぎり 4個入（360g）",
+     "brand": "Cymbal",
+     "size": "4個入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "Cymbal 昆布おにぎり 4個入（360g）",
+     "brand": "Cymbal",
+     "size": "4個入（360g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 梅しそおにぎり 4個入（360g）",
+     "brand": "Cymbal",
+     "size": "4個入（360g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト いくら醤油漬 おにぎり 2個入（200g）",
+     "brand": "Cymbal セレクト",
+     "size": "2個入（200g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鮭わかめおにぎり 8個入（640g）",
+     "brand": "Cymbal ベーシック",
+     "size": "8個入（640g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 五目おこわおにぎり 4個入（360g）",
+     "brand": "Cymbal",
+     "size": "4個入（360g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_frozen_onigiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_niku_udon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "うどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "肉うどん",
+    "ランチ",
+    "夜食",
+    "鍋のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "コシの強いうどんに、甘辛く煮た牛肉と関西風の白だしつゆをセットにした具付きうどんです。鍋に入れて温めるだけで、お店のような一杯が手軽に。寒い季節のランチや夜食にぴったりです。",
+   "image_brief": "A plain blank pouch beside a bowl of thick udon in clear broth topped with sweet simmered beef and green onions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 具付き 肉うどん 1食（420g）",
+     "brand": "Cymbal",
+     "size": "1食（420g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 すき焼き風肉うどん 1食（450g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（450g）",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック 肉うどん 3食入（1,200g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入（1,200g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麺匠かざみ 関西風 牛すじうどん 1食（430g）",
+     "brand": "麺匠かざみ",
+     "size": "1食（430g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_niku_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_curry_udon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "うどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "カレーうどん",
+    "ランチ",
+    "夜食",
+    "あったかメニュー"
+   ],
+   "tax_rate": 8,
+   "description": "だしのうま味をきかせたとろみのあるカレーつゆと、もちもちのうどんがセットになったカレーうどんです。豚肉と玉ねぎ入りで食べごたえも十分。体の芯から温まる、冬におすすめの一品です。",
+   "image_brief": "A plain blank pouch next to a bowl of udon in thick golden curry broth with pork and scallions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal だし香る カレーうどん 1食（450g）",
+     "brand": "Cymbal",
+     "size": "1食（450g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレーうどん 3食入（1,290g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入（1,290g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 和牛入り 和風だしカレーうどん 1食（460g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（460g）",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "麺匠かざみ とろ〜りチーズカレーうどん 1食（460g）",
+     "brand": "麺匠かざみ",
+     "size": "1食（460g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_curry_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_kitsune_udon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "うどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きつねうどん",
+    "ランチ",
+    "夜食",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "甘く炊いたふっくら大きなお揚げをのせた、関西風のきつねうどんです。昆布とかつおのだしが香るやさしいつゆで、するするっと食べやすい。鍋ひとつで手軽に作れて、小腹がすいたときにも便利です。",
+   "image_brief": "A plain blank pouch beside a bowl of udon topped with a large sweet fried tofu pouch and green onion in light broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関西風 きつねうどん 1食（400g）",
+     "brand": "Cymbal",
+     "size": "1食（400g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック きつねうどん 3食入（1,200g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入（1,200g）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たぬきうどん 天かす付 1食（380g）",
+     "brand": "Cymbal",
+     "size": "1食（380g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 京風 きざみきつねうどん 1食（410g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（410g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麺匠かざみ ごぼう天うどん 1食（430g）",
+     "brand": "麺匠かざみ",
+     "size": "1食（430g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_kitsune_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_udon_hosomen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "うどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ざるうどん",
+    "釜玉うどん",
+    "煮込みうどん",
+    "鍋のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "つるりとなめらかな喉ごしの細うどんです。ゆでたてを急速凍結しているので、レンジや鍋で温めるだけでコシのある食感に。ざるうどんや釜玉、鍋のしめなど幅広く使え、食べきりやすい1玉ずつの個包装です。",
+   "image_brief": "A plain blank bag containing five individually wrapped square blocks of thin white udon noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つるつる細うどん 5食入（900g）",
+     "brand": "Cymbal",
+     "size": "5食入（900g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 稲庭風 手延べ細うどん 3食入（540g）",
+     "brand": "Cymbal セレクト",
+     "size": "3食入（540g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もちもち極太うどん 3食入（750g）",
+     "brand": "Cymbal",
+     "size": "3食入（750g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 細うどん 5食入（850g）",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入（850g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麺匠かざみ 国産小麦 細うどん 5食入（900g）",
+     "brand": "麺匠かざみ",
+     "size": "5食入（900g）",
+     "price_tax_excluded": 428,
+     "origin": "国産小麦使用"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_udon_hosomen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tempura_soba",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "そば"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "そば",
+    "小麦",
+    "えび",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "天ぷらそば",
+    "年越しそば",
+    "ランチ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "香りのよいそばに、えび天とかつおだしのつゆを添えた具付きそばです。鍋で温めるだけで、手間なく本格的な天ぷらそばが楽しめます。年越しそばにも便利で、年末のまとめ買いにもおすすめです。",
+   "image_brief": "A plain blank pouch beside a bowl of buckwheat soba in dark broth topped with a large shrimp tempura and scallions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えび天そば 1食（400g）",
+     "brand": "Cymbal",
+     "size": "1食（400g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大えび天 年越しそば 2食入（820g）",
+     "brand": "Cymbal セレクト",
+     "size": "2食入（820g）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 天ぷらそば 3食入（1,200g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入（1,200g）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かき揚げそば 1食（410g）",
+     "brand": "Cymbal",
+     "size": "1食（410g）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麺匠かざみ にしんそば 1食（380g）",
+     "brand": "麺匠かざみ",
+     "size": "1食（380g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tempura_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_kamonanban_soba",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "そば"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "そば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "鴨南蛮そば",
+    "年越しそば",
+    "ランチ",
+    "あったかメニュー"
+   ],
+   "tax_rate": 8,
+   "description": "合鴨肉と焼きねぎのうま味が溶け込んだ、コクのあるつゆが自慢の鴨南蛮そばです。脂の甘みとそばの香りがよく合い、寒い季節にうれしい一杯。手軽にお店の味が楽しめるよう具材もセットにしました。",
+   "image_brief": "A plain blank pouch beside a bowl of soba with sliced duck breast and charred leeks in rich dark broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鴨南蛮そば 1食（400g）",
+     "brand": "Cymbal",
+     "size": "1食（400g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産合鴨 鴨南蛮そば 1食（420g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（420g）",
+     "price_tax_excluded": 598,
+     "origin": "国産合鴨使用"
+    },
+    {
+     "title": "麺匠かざみ 鴨せいろ用 つけそば 2食入（600g）",
+     "brand": "麺匠かざみ",
+     "size": "2食入（600g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鴨南蛮うどん 1食（420g）",
+     "brand": "Cymbal",
+     "size": "1食（420g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_kamonanban_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_miso_ramen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "ラーメン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "味噌ラーメン",
+    "ランチ",
+    "夜食",
+    "あったかメニュー"
+   ],
+   "tax_rate": 8,
+   "description": "炒め野菜と豚肉のうま味を合わせた濃厚味噌スープに、太めのちぢれ麺がよくからむ味噌ラーメンです。具材付きで鍋ひとつで完成。寒い日の夜食やランチに、体が温まる北国風の一杯をどうぞ。",
+   "image_brief": "A plain blank pouch next to a bowl of miso ramen with curly noodles, stir-fried vegetables, corn and butter, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 具付き 味噌ラーメン 1食（480g）",
+     "brand": "Cymbal",
+     "size": "1食（480g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 味噌ラーメン スープ付 3食入",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベル 札幌風 濃厚味噌ラーメン 2食入（900g）",
+     "brand": "ノースベル",
+     "size": "2食入（900g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 辛味噌ラーメン 1食（480g）",
+     "brand": "Cymbal",
+     "size": "1食（480g）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白味噌バターコーンラーメン 1食（500g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（500g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_miso_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tonkotsu_ramen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "ラーメン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんこつラーメン",
+    "替え玉",
+    "夜食",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨をじっくり炊き出したようなクリーミーな白濁スープと、細ストレート麺の博多風とんこつラーメンです。チャーシューやきくらげなどの具材付きで、紅しょうがやごまを添えればさらに本格的に。",
+   "image_brief": "A plain blank pouch beside a bowl of creamy white pork-bone ramen with thin noodles, chashu, wood ear mushrooms and scallions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 具付き 博多風とんこつラーメン 1食（450g）",
+     "brand": "Cymbal",
+     "size": "1食（450g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とんこつラーメン スープ付 3食入",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 豚骨魚介ラーメン 1食（480g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（480g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal とんこつ醤油ラーメン 2食入（880g）",
+     "brand": "Cymbal",
+     "size": "2食入（880g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 替え玉用 細麺 5玉入（500g）",
+     "brand": "Cymbal",
+     "size": "5玉入（500g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tonkotsu_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tantanmen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "担々麺"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "落花生"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "担々麺",
+    "汁なし担々麺",
+    "ランチ",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "練りごまのコクとラー油の辛さ、花椒のしびれが楽しめる担々麺です。ピリ辛の肉みそと青菜付きで、スープまで飲み干したくなるまろやかさ。汁なしタイプも揃え、気分に合わせて選べます。",
+   "image_brief": "A plain blank pouch next to a bowl of sesame-orange tantanmen with spicy minced pork and bok choy, chili oil swirling, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごま濃厚 担々麺 1食（480g）",
+     "brand": "Cymbal",
+     "size": "1食（480g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 汁なし担々麺 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 花椒香る 本格担々麺 1食（500g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（500g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 担々麺 スープ付 3食入",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 白ごま担々麺 マイルド 2食入（900g）",
+     "brand": "ゆげ屋",
+     "size": "2食入（900g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tantanmen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tsukemen",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "つけ麺"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "つけ麺",
+    "ランチ",
+    "夜食",
+    "家ラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "もっちりとした極太麺を、豚骨魚介の濃厚なつけだれにくぐらせて食べるつけ麺です。麺をゆでて冷水でしめれば、お店のような弾力が楽しめます。チャーシューとメンマ付きで満足感のある一杯です。",
+   "image_brief": "A plain blank pouch beside a plate of thick chilled noodles and a bowl of rich brown dipping broth with chashu, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚骨魚介 つけ麺 1食（420g）",
+     "brand": "Cymbal",
+     "size": "1食（420g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 極太麺 濃厚つけ麺 2食入（860g）",
+     "brand": "Cymbal セレクト",
+     "size": "2食入（860g）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック つけ麺 スープ付 3食入",
+     "brand": "Cymbal ベーシック",
+     "size": "3食入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 辛つけ麺 1食（420g）",
+     "brand": "Cymbal",
+     "size": "1食（420g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tsukemen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tarako_butter_spaghetti",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタランチ",
+    "夜食",
+    "和風パスタ",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "たらこの粒々感とバターのコク、刻みのりの香りがよく合う和風スパゲッティです。もちっとした太めの麺に、たっぷりのたらこソースがからみます。レンジで温めるだけで、手軽にランチが完成します。",
+   "image_brief": "A rectangular microwave tray of spaghetti coated in pale pink cod roe butter sauce topped with shredded nori, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たらこバター スパゲッティ 1人前（270g）",
+     "brand": "Cymbal",
+     "size": "1人前（270g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産たらこ使用 たらこスパゲッティ 1人前（280g）",
+     "brand": "Cymbal セレクト",
+     "size": "1人前（280g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産たらこ使用"
+    },
+    {
+     "title": "Cymbal ベーシック たらこスパゲッティ 2人前（540g）",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前（540g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal うにクリーム スパゲッティ 1人前（280g）",
+     "brand": "Cymbal",
+     "size": "1人前（280g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きのこ和風しょうゆ スパゲッティ 1人前（270g）",
+     "brand": "Cymbal",
+     "size": "1人前（270g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tarako_butter_spaghetti_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_vongole",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "えび",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタランチ",
+    "ワインのお供",
+    "ディナー",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "あさりのうま味が溶け出したオイルソースに、にんにくとパセリを効かせたボンゴレビアンコです。殻付きあさり入りで見た目も本格的。白ワインの香りがほのかに広がる、大人向けの味わいです。",
+   "image_brief": "A black microwave tray of spaghetti with whole clams in shells, garlic oil and parsley flecks, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あさりのボンゴレビアンコ 1人前（260g）",
+     "brand": "Cymbal",
+     "size": "1人前（260g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ボンゴレロッソ トマト仕立て 1人前（280g）",
+     "brand": "Cymbal",
+     "size": "1人前（280g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 殻付きあさり たっぷりボンゴレ 1人前（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "1人前（300g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Tavola Lumi 魚介のペスカトーレ 1人前（300g）",
+     "brand": "Tavola Lumi",
+     "size": "1人前（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_vongole_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_genovese",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "カシューナッツ",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタランチ",
+    "ディナー",
+    "ワンプレート",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "バジルの爽やかな香りと粉チーズのコクが広がるジェノベーゼです。じゃがいもといんげん入りの伝統的なスタイルで、色鮮やかな緑のソースが食卓を彩ります。レンジ調理で手軽に楽しめます。",
+   "image_brief": "A microwave tray of spaghetti tossed in vivid green basil pesto with potato and green bean pieces, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バジル香る ジェノベーゼ 1人前（260g）",
+     "brand": "Cymbal",
+     "size": "1人前（260g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産バジル使用 ジェノベーゼ 1人前（270g）",
+     "brand": "Cymbal セレクト",
+     "size": "1人前（270g）",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産バジル使用"
+    },
+    {
+     "title": "Tavola Lumi えびとブロッコリーのジェノベーゼ 1人前（290g）",
+     "brand": "Tavola Lumi",
+     "size": "1人前（290g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ジェノベーゼ スパゲッティ 2人前（520g）",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前（520g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_genovese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_ebi_tomato_cream",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "かに",
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタランチ",
+    "ディナー",
+    "ワンプレート",
+    "女子会"
+   ],
+   "tax_rate": 8,
+   "description": "えびのうま味を生かしたトマトクリームソースのスパゲッティです。トマトの酸味と生クリームのまろやかさがほどよく調和し、ぷりっとしたえびがアクセントに。ランチにもディナーにも満足感のある一皿です。",
+   "image_brief": "A microwave tray of spaghetti in orange-pink tomato cream sauce with plump shrimp and parsley, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびのトマトクリーム スパゲッティ 1人前（290g）",
+     "brand": "Cymbal",
+     "size": "1人前（290g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 渡りがにのトマトクリーム スパゲッティ 1人前（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "1人前（300g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal なすとベーコンのトマトソース スパゲッティ 1人前（290g）",
+     "brand": "Cymbal",
+     "size": "1人前（290g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック トマトクリーム スパゲッティ 2人前（560g）",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前（560g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Tavola Lumi モッツァレラのアラビアータ 1人前（280g）",
+     "brand": "Tavola Lumi",
+     "size": "1人前（280g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_ebi_tomato_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plain_spaghetti",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 麺類",
+    "パスタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "ナポリタン",
+    "スープパスタ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ゆでたてのアルデンテ食感を急速凍結した、具なしのスパゲッティ麺です。レンジで温めてお好みのソースをかけるだけで、パスタを手早く用意できます。1食ずつ分かれているので必要な分だけ使えます。",
+   "image_brief": "A clear bag containing several individually portioned frozen nests of plain spaghetti, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆでスパゲッティ 1.7mm 5食入（1,000g）",
+     "brand": "Cymbal",
+     "size": "5食入（1,000g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スパゲッティ麺 5食入（900g）",
+     "brand": "Cymbal ベーシック",
+     "size": "5食入（900g）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もちもち生パスタ フェットチーネ 3食入（540g）",
+     "brand": "Cymbal",
+     "size": "3食入（540g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト デュラム小麦100% 生パスタ リングイネ 3食入（540g）",
+     "brand": "Cymbal セレクト",
+     "size": "3食入（540g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plain_spaghetti_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_akashiyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "たこ焼き・お好み焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "明石焼き",
+    "おやつ",
+    "おつまみ",
+    "粉もんパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "卵たっぷりの生地でたこを包んだ、ふわふわ食感の明石焼きです。温めてだし汁につけて食べるのが本場流。だしの素付きで、やさしい味わいはおやつにもおつまみにも喜ばれます。",
+   "image_brief": "A clear tray of soft yellow puffy octopus dumplings lined on a wooden board-style insert, small blank broth sachet, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ふわふわ明石焼き だし付 16個入（320g）",
+     "brand": "Cymbal",
+     "size": "16個入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ナンバ粉もん堂 明石焼き 大粒 12個入（300g）",
+     "brand": "ナンバ粉もん堂",
+     "size": "12個入（300g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 明石焼き 30個入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入（600g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 兵庫県産だし使用 明石焼き 16個入（320g）",
+     "brand": "Cymbal セレクト",
+     "size": "16個入（320g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_akashiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_modern_yaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "たこ焼き・お好み焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "豚肉",
+    "牛肉",
+    "えび",
+    "いか",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "ランチ",
+    "おつまみ",
+    "粉もんパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ソース焼きそばを重ねて焼き上げた、ボリューム満点のモダン焼きです。甘辛ソースとマヨネーズ、青のり付き。レンジで温めるだけで鉄板焼きの香ばしさが楽しめ、食べ盛りの子どもにもおすすめです。",
+   "image_brief": "A round paper tray holding a thick savory pancake layered with fried noodles, glazed with brown sauce and mayo zigzags, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナンバ粉もん堂 豚玉モダン焼き 1枚（350g）",
+     "brand": "ナンバ粉もん堂",
+     "size": "1枚（350g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal そば入り モダン焼き 1枚（330g）",
+     "brand": "Cymbal",
+     "size": "1枚（330g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 海鮮お好み焼き えび・いか入り 1枚（300g）",
+     "brand": "Cymbal",
+     "size": "1枚（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 牛すじこんにゃく ねぎ焼き 1枚（280g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（280g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニお好み焼き 8枚入（480g）",
+     "brand": "Cymbal ベーシック",
+     "size": "8枚入（480g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_modern_yaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_tonpeiyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "鉄板焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "豚肉",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とん平焼き",
+    "おつまみ",
+    "晩酌",
+    "ランチ"
+   ],
+   "tax_rate": 8,
+   "description": "豚バラ肉とキャベツをふんわり卵で包んだ、大阪の鉄板焼きの定番・とん平焼きです。ソースとマヨネーズ付きで、レンジで温めるだけ。おつまみにもごはんのおかずにもなる便利な一品です。",
+   "image_brief": "An oval tray of a fluffy egg omelet wrapped around pork and cabbage, topped with brown sauce and mayo lines, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ナンバ粉もん堂 とん平焼き 2枚入（300g）",
+     "brand": "ナンバ粉もん堂",
+     "size": "2枚入（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ふんわり卵の とん平焼き 1枚（180g）",
+     "brand": "Cymbal",
+     "size": "1枚（180g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズとん平焼き 2枚入（320g）",
+     "brand": "Cymbal",
+     "size": "2枚入（320g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とん平焼き 4枚入（560g）",
+     "brand": "Cymbal ベーシック",
+     "size": "4枚入（560g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_tonpeiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_teriyaki_chicken_pizza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "鶏肉",
+    "卵",
+    "大豆",
+    "豚肉",
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ピザ",
+    "パーティー",
+    "ランチ",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛い照り焼きチキンとマヨネーズ、刻みのりをトッピングした和風ピザです。もっちりした生地にとろけるチーズがたっぷり。トースターで焼くだけで、子どもから大人まで楽しめる人気の味です。",
+   "image_brief": "A shrink-wrapped round pizza on a cardboard disc with teriyaki chicken, mayo drizzle, corn and nori, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 照り焼きチキンピザ 1枚（約230g）",
+     "brand": "Cymbal",
+     "size": "1枚（約230g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 照り焼きチキンピザ ハーフサイズ 2枚入（約260g）",
+     "brand": "Cymbal",
+     "size": "2枚入（約260g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産若鶏の照り焼きピザ 厚切りクラスト 1枚（約300g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Frozzo ポテマヨベーコンピザ 1枚（約250g）",
+     "brand": "Frozzo",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Frozzo プルコギピザ 1枚（約250g）",
+     "brand": "Frozzo",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_teriyaki_chicken_pizza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_quattro_formaggi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ピザ",
+    "ワインのお供",
+    "ディナー",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "モッツァレラ、ゴルゴンゾーラ、パルミジャーノ、チェダーの4種のチーズを贅沢に使ったピザです。はちみつをかけると甘じょっぱい味わいに。薄くパリッとしたクラストで、ワインのお供にもぴったりです。",
+   "image_brief": "A round thin-crust pizza covered in bubbling white and golden cheeses on a board, plain blank shrink film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Tavola Lumi 4種チーズのクアトロフォルマッジ 1枚（約210g）",
+     "brand": "Tavola Lumi",
+     "size": "1枚（約210g）",
+     "price_tax_excluded": 548,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal 4種チーズピザ はちみつ付 1枚（約220g）",
+     "brand": "Cymbal",
+     "size": "1枚（約220g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 石窯焼き 4種チーズピッツァ 1枚（約250g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 698,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ベーコンとチーズのビスマルク 1枚（約230g）",
+     "brand": "Cymbal",
+     "size": "1枚（約230g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Tavola Lumi 生ハムとルッコラのピッツァ 1枚（約220g）",
+     "brand": "Tavola Lumi",
+     "size": "1枚（約220g）",
+     "price_tax_excluded": 648,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_quattro_formaggi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_mini_pizza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ピザ・粉もの",
+    "ピザ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "大豆",
+    "卵",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "お弁当",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "直径12cmほどの食べきりサイズのミニピザです。トースターで数分焼けば朝食や子どものおやつにちょうどよいボリューム。ミックスやコーンマヨなど好みの味を選べ、パーティーのオードブルにも重宝します。",
+   "image_brief": "A clear bag holding a stack of small round personal-size pizzas topped with sausage, peppers and cheese, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニピザ ミックス 4枚入（360g）",
+     "brand": "Cymbal",
+     "size": "4枚入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニピザ 6枚入（480g）",
+     "brand": "Cymbal ベーシック",
+     "size": "6枚入（480g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニピザ コーンマヨ 4枚入（340g）",
+     "brand": "Cymbal",
+     "size": "4枚入（340g）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちピザ ポップ 12個入（240g）",
+     "brand": "Cymbal",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ミニナンピザ チキンティッカ 4枚入（400g）",
+     "brand": "Cymbal セレクト",
+     "size": "4枚入（400g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_mini_pizza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_potato_gratin",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 グラタン・ドリア",
+    "グラタン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "グラタン",
+    "付け合わせ",
+    "ディナー",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "薄切りのじゃがいもをホワイトソースとチーズで焼き上げたポテトグラタンです。ほくほくのじゃがいもとベーコンの塩気がよく合い、焦げたチーズも香ばしい。肉料理の付け合わせや冬のごちそうに。",
+   "image_brief": "A white oval ceramic-look tray of potato gratin with golden browned cheese on top, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーコンポテトグラタン 2個入（360g）",
+     "brand": "Cymbal",
+     "size": "2個入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産じゃがいも ドフィノワ風グラタン 1個（250g）",
+     "brand": "Cymbal セレクト",
+     "size": "1個（250g）",
+     "price_tax_excluded": 448,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal かぼちゃグラタン 2個入（360g）",
+     "brand": "Cymbal",
+     "size": "2個入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトグラタン 4個入（640g）",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入（640g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太ポテトグラタン 2個入（360g）",
+     "brand": "Cymbal",
+     "size": "2個入（360g）",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_potato_gratin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_hotate_gratin",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 グラタン・ドリア",
+    "グラタン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "えび",
+    "かに"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "グラタン",
+    "ディナー",
+    "おもてなし",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "ほたてやえび、かにを贅沢に使った魚介のグラタンです。濃厚なホワイトソースに魚介のだしが溶け込み、ひと口ごとにうま味が広がります。貝殻型の器入りもあり、クリスマスやおもてなしにおすすめです。",
+   "image_brief": "A scallop-shell shaped dish filled with creamy seafood gratin topped with toasted cheese and breadcrumbs, plain blank box beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ほたて貝殻入り 帆立グラタン 2個入（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "2個入（300g）",
+     "price_tax_excluded": 698,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal えびと帆立のグラタン 2個入（400g）",
+     "brand": "Cymbal",
+     "size": "2個入（400g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ずわいがにのクリームグラタン 1個（230g）",
+     "brand": "Cymbal セレクト",
+     "size": "1個（230g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シーフードマカロニグラタン 1個（220g）",
+     "brand": "Cymbal",
+     "size": "1個（220g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック シーフードグラタン 4個入（720g）",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入（720g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_hotate_gratin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_seafood_doria",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 グラタン・ドリア",
+    "ドリア"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "えび",
+    "いか",
+    "鶏肉",
+    "かに"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ドリア",
+    "ランチ",
+    "夜食",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "バターライスの上にシーフードのホワイトソースとチーズを重ねて焼いたドリアです。えびやいかのうま味がたっぷりで、レンジでも焼き目の香ばしさが楽しめます。寒い日のランチにうれしい一品です。",
+   "image_brief": "A rectangular black tray of seafood doria with browned cheese, shrimp and squid peeking through, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シーフードドリア 1個（250g）",
+     "brand": "Cymbal",
+     "size": "1個（250g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンホワイトソースドリア 2個入（460g）",
+     "brand": "Cymbal",
+     "size": "2個入（460g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ずわいがにのドリア 1個（260g）",
+     "brand": "Cymbal セレクト",
+     "size": "1個（260g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびドリア 4個入（800g）",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入（800g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼きカレードリア 1個（250g）",
+     "brand": "Cymbal",
+     "size": "1個（250g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_seafood_doria_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_taiyaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "今川焼・たい焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "和菓子",
+    "お茶請け",
+    "冬のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "しっぽまであんこが詰まった、パリッと香ばしい皮のたい焼きです。トースターで温めると焼きたてのような食感がよみがえります。北海道産小豆のつぶあんのほか、カスタードや抹茶あんもご用意しました。",
+   "image_brief": "A clear tray of golden fish-shaped taiyaki pastries lined side by side, plain blank paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つぶあん たい焼き 5個入（400g）",
+     "brand": "Cymbal",
+     "size": "5個入（400g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal カスタード たい焼き 5個入（400g）",
+     "brand": "Cymbal",
+     "size": "5個入（400g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白いもちもち たい焼き 抹茶あん 4個入（320g）",
+     "brand": "Cymbal セレクト",
+     "size": "4個入（320g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニたい焼き つぶあん 12個入（360g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12個入（360g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ヒバリ亭 羽根つき たい焼き 黒糖あん 4個入（360g）",
+     "brand": "ヒバリ亭",
+     "size": "4個入（360g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_taiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_sweet_potato",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 デザート・スイーツ",
+    "スイートポテト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "お茶請け",
+    "お弁当デザート",
+    "ハロウィン"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいもの自然な甘みを生かし、バターと生クリームでなめらかに仕上げたスイートポテトです。自然解凍でしっとり、トースターで温めれば香ばしい焼き菓子に。秋冬のおやつやお弁当のデザートにどうぞ。",
+   "image_brief": "A clear tray of boat-shaped golden glazed sweet potato cakes in paper cups, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しっとり スイートポテト 6個入（240g）",
+     "brand": "Cymbal",
+     "size": "6個入（240g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県産紅はるか スイートポテト 4個入（200g）",
+     "brand": "Cymbal セレクト",
+     "size": "4個入（200g）",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "Cymbal ベーシック ミニスイートポテト 12個入（300g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12個入（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ヒバリ亭 安納芋のスイートポテトタルト 4個入（240g）",
+     "brand": "ヒバリ亭",
+     "size": "4個入（240g）",
+     "price_tax_excluded": 548,
+     "origin": "種子島産安納芋使用"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_sweet_potato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_mini_omelette",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "卵焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "朝ごはん",
+    "ワンプレート",
+    "幼稚園弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ひとくちサイズのふんわりミニオムレツです。自然解凍でもおいしく食べられるので、凍ったままお弁当に入れるだけ。プレーンのほか、チーズ入りや野菜入りなど彩りも楽しめます。",
+   "image_brief": "A clear tray of small oval yellow mini omelettes in individual green silicone-look cups, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 自然解凍OK ミニオムレツ 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK チーズ入りミニオムレツ 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK 野菜入りスパニッシュオムレツ 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 ミニオムレツ 12個入（216g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12個入（216g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_mini_omelette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_spinach_saute",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "自然解凍おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "付け合わせ",
+    "朝ごはん",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "ほうれん草とコーン、ベーコンをバターでソテーしたカップ入りおかずです。凍ったままお弁当に詰めればお昼にはちょうど食べごろ。緑と黄色の彩りで、お弁当箱がぱっと明るくなります。",
+   "image_brief": "A tray of small green paper cups filled with buttery sauteed spinach, corn and bacon bits, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 自然解凍OK ほうれん草とコーンのバターソテー 6カップ入（96g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（96g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK ほうれん草とベーコンのソテー 6カップ入（96g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（96g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK いんげんとにんじんのソテー 6カップ入（96g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（96g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 自然解凍OK 有機ほうれん草のソテー 6カップ入（90g）",
+     "brand": "Cymbal オーガニック",
+     "size": "6カップ入（90g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 野菜ソテー3種 12カップ入（180g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12カップ入（180g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_spinach_saute_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_mini_ebifry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "フライ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "幼稚園弁当",
+    "ワンプレート",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "お弁当にちょうどよい小ぶりのえびフライを、揚げずにレンジで温めるだけにしました。サクッとした衣とぷりっとしたえびの食感が楽しめ、タルタルソース付きタイプも。忙しい朝の心強い味方です。",
+   "image_brief": "A tray of small golden breaded shrimp with red tails neatly lined up, a tiny blank sauce cup, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジでOK お弁当ミニえびフライ 6尾入（90g）",
+     "brand": "Cymbal",
+     "size": "6尾入（90g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジでOK ミニえびフライ タルタル付 5尾入（100g）",
+     "brand": "Cymbal",
+     "size": "5尾入（100g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 えびフライ 12尾入（180g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12尾入（180g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト レンジでOK 大えびフライ お弁当用 4尾入（100g）",
+     "brand": "Cymbal セレクト",
+     "size": "4尾入（100g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_mini_ebifry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_shiromi_fry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "フライ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "のり弁",
+    "フィッシュバーガー",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "白身魚をサクッと揚げたお弁当用フライです。レンジで温めるだけで衣はサクサク、身はふっくら。タルタルソースをかけたタイプやのり弁風の甘辛だれタイプもあり、ごはんにもパンにもよく合います。",
+   "image_brief": "A tray of rectangular golden breaded white fish fillets topped with dollops of tartar sauce, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジでOK 白身魚フライ タルタルソース 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal のり弁風 白身フライ 甘辛だれ 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 白身魚フライ 10個入（200g）",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入（200g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 真だら使用 白身魚フライ 4枚入（160g）",
+     "brand": "Cymbal セレクト",
+     "size": "4枚入（160g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産真だら使用"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_shiromi_fry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_mini_harumaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "中華おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "乳",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おつまみ",
+    "中華おかず",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "ひとくちで食べられるお弁当用のミニ春巻です。豚肉とたけのこ、しいたけ入りのあんをパリッとした皮で包み、レンジで温めても食感よく仕上がります。チーズ入りやえびチリも選べます。",
+   "image_brief": "A tray of small golden finger-sized spring rolls lined in rows, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジでOK ミニ春巻 8本入（144g）",
+     "brand": "Cymbal",
+     "size": "8本入（144g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジでOK チーズ春巻 6本入（120g）",
+     "brand": "Cymbal",
+     "size": "6本入（120g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お弁当用 えびチリ 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 ミニ春巻 16本入（288g）",
+     "brand": "Cymbal ベーシック",
+     "size": "16本入（288g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_mini_harumaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_kabocha_croquette",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "グラタン・コロッケ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "かに"
+   ],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "お弁当",
+    "ワンプレート",
+    "おやつ",
+    "ハロウィン"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産かぼちゃのほっくりした甘みが広がる、小判型のかぼちゃコロッケです。レンジで温めるだけでお弁当に入れられる手軽さ。黄色い色合いがお弁当を明るくし、お子さまにも喜ばれます。",
+   "image_brief": "A tray of small oval golden breaded croquettes, one cut open to show bright orange pumpkin filling, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジでOK かぼちゃコロッケ 6個入（150g）",
+     "brand": "Cymbal",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 248,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "Cymbal レンジでOK クリームコロッケ かにクリーム 6個入（150g）",
+     "brand": "Cymbal",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジでOK コーンクリームコロッケ 6個入（150g）",
+     "brand": "Cymbal",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 かぼちゃコロッケ 12個入（276g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12個入（276g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_kabocha_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_tsukune",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "肉おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おつまみ",
+    "丼",
+    "ワンプレート"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏肉に軟骨やれんこんを加え、コリっとした食感をプラスした鶏つくねです。甘辛い照り焼きだれでごはんがすすむ味わい。レンジで温めるだけなのでお弁当にも晩酌のおつまみにも便利です。",
+   "image_brief": "A tray of glossy brown teriyaki chicken meatballs in neat rows, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジでOK 鶏つくね 照り焼き 8個入（160g）",
+     "brand": "Cymbal",
+     "size": "8個入（160g）",
+     "price_tax_excluded": 258,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal レンジでOK れんこん入り 鶏つくね 8個入（160g）",
+     "brand": "Cymbal",
+     "size": "8個入（160g）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お弁当用 甘辛チキン 6個入（120g）",
+     "brand": "Cymbal",
+     "size": "6個入（120g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 鶏つくね 16個入（320g）",
+     "brand": "Cymbal ベーシック",
+     "size": "16個入（320g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お弁当用 ミニハンバーグ 照り焼き 6個入（150g）",
+     "brand": "Cymbal",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_tsukune_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_bento_napolitan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お弁当おかず",
+    "パスタおかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "乳",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "付け合わせ",
+    "ワンプレート",
+    "幼稚園弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ケチャップでしっかり味付けした、お弁当用の小分けナポリタンです。自然解凍で食べられるので、凍ったまま詰めるだけ。ハンバーグや唐揚げの付け合わせにもちょうどよく、彩りもきれいです。",
+   "image_brief": "A tray of small paper cups filled with ketchup-red spaghetti with sausage slices and green pepper, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 自然解凍OK お弁当ナポリタン 6カップ入（120g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（120g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK お弁当ミートソーススパゲッティ 6カップ入（120g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（120g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 自然解凍OK たらこスパゲッティ カップ 6カップ入（114g）",
+     "brand": "Cymbal",
+     "size": "6カップ入（114g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック お弁当用 スパゲッティ2種 12カップ入（228g）",
+     "brand": "Cymbal ベーシック",
+     "size": "12カップ入（228g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_bento_napolitan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plate_hamburg_napolitan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ワンプレート",
+    "洋食プレート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "牛肉",
+    "豚肉",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夕食",
+    "ひとりごはん",
+    "在宅ワーク"
+   ],
+   "tax_rate": 8,
+   "description": "ハンバーグ、ナポリタン、ポテト、ブロッコリーをひと皿に盛り合わせた洋食ワンプレートです。トレーごとレンジで温めるだけで、洗い物も少なく済みます。ひとりの食事や在宅ワークのランチにおすすめ。",
+   "image_brief": "A black divided microwave tray with a hamburger steak, ketchup spaghetti, fries and broccoli, clear film lid, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ワンプレート ハンバーグ&ナポリタン 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート オムライス&ミニグラタン 1食（320g）",
+     "brand": "Cymbal",
+     "size": "1食（320g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ワンプレート ビーフシチュー&バターライス 1食（350g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（350g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ワンプレート 洋食ランチ 1食（280g）",
+     "brand": "Cymbal ベーシック",
+     "size": "1食（280g）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート チキン南蛮&ポテトサラダ風 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plate_hamburg_napolitan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plate_karaage_teishoku",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ワンプレート",
+    "和定食プレート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "卵",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夕食",
+    "ひとりごはん",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "ごはん、鶏の唐揚げ、玉子焼き、ひじき煮をひとつのトレーにまとめた定食スタイルのワンプレートです。レンジで温めるだけでバランスよく食べられます。忙しい日のランチや遅い夕食にぴったりです。",
+   "image_brief": "A divided tray with white rice, fried chicken pieces, a slice of rolled omelet and simmered hijiki, clear lid, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ワンプレート 唐揚げ定食 1食（330g）",
+     "brand": "Cymbal",
+     "size": "1食（330g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート 生姜焼き定食 1食（330g）",
+     "brand": "Cymbal",
+     "size": "1食（330g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート 豚カツ卵とじ定食 1食（350g）",
+     "brand": "Cymbal",
+     "size": "1食（350g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ワンプレート ごはん&おかず 1食（300g）",
+     "brand": "Cymbal ベーシック",
+     "size": "1食（300g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plate_karaage_teishoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plate_salmon_washoku",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ワンプレート",
+    "和定食プレート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "さけ",
+    "さば",
+    "小麦",
+    "大豆",
+    "卵",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夕食",
+    "ひとりごはん",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "焼き鮭に雑穀ごはん、筑前煮、ほうれん草のおひたしを盛り合わせた和食ワンプレートです。やさしい味付けで、毎日の食事にも取り入れやすい内容。レンジで温めるだけで手軽にきちんとした和定食を。",
+   "image_brief": "A divided tray with a grilled salmon fillet, multigrain rice, simmered vegetables and spinach, clear lid, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ワンプレート 鮭の塩焼き和定食 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 448,
+     "origin": "チリ産さけ使用"
+    },
+    {
+     "title": "Cymbal ワンプレート さばの味噌煮定食 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ワンプレート 銀だら西京焼き定食 1食（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（300g）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート 鶏の照り焼き和定食 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plate_salmon_washoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plate_chuka",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ワンプレート",
+    "中華プレート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "卵",
+    "豚肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夕食",
+    "ひとりごはん",
+    "中華セット"
+   ],
+   "tax_rate": 8,
+   "description": "えびチリ、チャーハン、焼売、青菜炒めをひと皿にまとめた中華ワンプレートです。町中華のランチセットのような満足感を、レンジで温めるだけで手軽に。ボリュームがありながら栄養バランスにも配慮しました。",
+   "image_brief": "A divided black tray with chili shrimp, fried rice, two shumai and stir-fried greens, clear lid, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ワンプレート えびチリ&チャーハン 1食（340g）",
+     "brand": "Cymbal",
+     "size": "1食（340g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート 回鍋肉&ごはん 1食（340g）",
+     "brand": "Cymbal",
+     "size": "1食（340g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ワンプレート 麻婆なす&五目ごはん 1食（330g）",
+     "brand": "Cymbal",
+     "size": "1食（330g）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ワンプレート 黒酢酢豚&チャーハン 1食（360g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（360g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plate_chuka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_plate_lowcarb",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 ワンプレート",
+    "ヘルシープレート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "夕食",
+    "糖質を控えたい日",
+    "在宅ワーク"
+   ],
+   "tax_rate": 8,
+   "description": "ごはんの代わりにカリフラワーライスや雑穀を使い、鶏むね肉や野菜でおかずを組み立てたヘルシーなワンプレートです。たんぱく質がとれ、糖質は控えめ。食生活を整えたい方の夕食やランチにおすすめです。",
+   "image_brief": "A white divided tray with herb chicken breast slices, cauliflower rice and colorful roasted vegetables, clear lid, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 糖質控えめ ワンプレート ハーブチキン&カリフラワーライス 1食（280g）",
+     "brand": "Cymbal",
+     "size": "1食（280g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たんぱく質たっぷり ワンプレート 鶏むね肉の照り焼き 1食（300g）",
+     "brand": "Cymbal",
+     "size": "1食（300g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 野菜たっぷり ワンプレート 鶏と彩り野菜のトマト煮 1食（300g）",
+     "brand": "Cymbal セレクト",
+     "size": "1食（300g）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜の ワンプレート 豆腐ハンバーグ&雑穀ごはん 1食（300g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1食（300g）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_plate_lowcarb_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_meals_age_gyoza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 餃子・焼売",
+    "揚げ餃子"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "パーティー",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "パリッと揚げた皮の香ばしさが楽しめる揚げ餃子です。レンジやトースターで温めるだけで、揚げたてのような食感に。チーズ入りや大葉入りなど種類も豊富で、おつまみやパーティーにおすすめです。",
+   "image_brief": "A clear bag of crispy golden-brown fried crescent dumplings with blistered skins, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal パリパリ揚げ餃子 12個入（240g）",
+     "brand": "Cymbal",
+     "size": "12個入（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズ入り揚げ餃子 10個入（220g）",
+     "brand": "Cymbal",
+     "size": "10個入（220g）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 揚げ餃子 30個入（600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入（600g）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ゆげ屋 大葉チーズ揚げ餃子 10個入（220g）",
+     "brand": "ゆげ屋",
+     "size": "10個入（220g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_meals_age_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

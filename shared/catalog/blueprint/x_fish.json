@@ -1,0 +1,2653 @@
+{
+ "category_key": "x_fish",
+ "items": [
+  {
+   "base_id": "x_fish_coho_salmon_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮭・サーモン",
+    "銀鮭"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "dishes": [
+    "焼き魚",
+    "鮭のムニエル",
+    "ちゃんちゃん焼き",
+    "お弁当のおかず",
+    "朝ごはん"
+   ],
+   "description": "脂がのってふっくらとした身の銀鮭の切り身です。塩焼きやムニエル、ちゃんちゃん焼きなど毎日のおかずに使いやすく、お弁当や朝ごはんの焼き魚にもぴったりです。",
+   "image_brief": "Clear-wrapped white foam tray with orange-red coho salmon fillets with silver skin, green bamboo-leaf divider, label reading 「銀鮭 切り身」.",
+   "variants": [
+    {
+     "title": "宮城県産 生銀鮭 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生銀鮭 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 948,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生銀鮭 切り身 厚切り 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 598,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "チリ産 銀鮭 甘塩 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "チリ産 銀鮭 甘塩 切り身 6切（約480g）",
+     "brand": "",
+     "size": "6切（約480g）",
+     "price_tax_excluded": 898,
+     "origin": "チリ産"
+    },
+    {
+     "title": "チリ産 銀鮭 中辛 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ 銀鮭 甘口 切り身 4切（240g）",
+     "brand": "トップバリュ",
+     "size": "4切（240g）",
+     "price_tax_excluded": 548,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_coho_salmon_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_sockeye_salmon_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮭・サーモン",
+    "紅鮭"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "焼き魚",
+    "鮭おにぎり",
+    "鮭茶漬け",
+    "お弁当のおかず",
+    "朝ごはん"
+   ],
+   "description": "鮮やかな紅色の身が特徴の天然紅鮭です。焼くだけで朝ごはんやお弁当のおかずになり、ほぐしておにぎりやお茶漬けにも使えます。",
+   "image_brief": "Clear-wrapped tray of deep red sockeye salmon fillets with silver skin on a white tray, label reading 「天然紅鮭」.",
+   "variants": [
+    {
+     "title": "ロシア産 甘塩紅鮭 切り身 2切（約140g）",
+     "brand": "",
+     "size": "2切（約140g）",
+     "price_tax_excluded": 598,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 甘塩紅鮭 切り身 4切（約280g）",
+     "brand": "",
+     "size": "4切（約280g）",
+     "price_tax_excluded": 1148,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 紅鮭 辛口 切り身 2切（約140g）",
+     "brand": "",
+     "size": "2切（約140g）",
+     "price_tax_excluded": 598,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "アメリカ産 天然紅鮭 甘口 切り身 3切（約210g）",
+     "brand": "",
+     "size": "3切（約210g）",
+     "price_tax_excluded": 848,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 天然紅鮭 生 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ セレクト 天然紅鮭 厚切り 甘口 2切（160g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2切（160g）",
+     "price_tax_excluded": 798,
+     "origin": "ロシア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_sockeye_salmon_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_trout_salmon_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮭・サーモン",
+    "トラウトサーモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鮭のムニエル",
+    "ホイル焼き",
+    "グラタン",
+    "シチュー",
+    "パスタ",
+    "焼き魚"
+   ],
+   "description": "脂のりがよく、加熱してもしっとりやわらかいトラウトサーモンです。ムニエルやホイル焼きのほか、クリームシチューやグラタン、パスタの具にもおすすめです。",
+   "image_brief": "Clear-wrapped white tray with bright orange trout salmon fillets showing white fat lines, label reading 「トラウトサーモン 切り身」.",
+   "variants": [
+    {
+     "title": "チリ産 トラウトサーモン 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 548,
+     "origin": "チリ産"
+    },
+    {
+     "title": "チリ産 トラウトサーモン 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 998,
+     "origin": "チリ産"
+    },
+    {
+     "title": "ノルウェー産 トラウトサーモン 切り身 厚切り 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "青森県産 トラウトサーモン 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 798,
+     "origin": "青森県産"
+    },
+    {
+     "title": "チリ産 トラウトサーモン 皮なし 骨取り 加熱用 ブロック 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 898,
+     "origin": "チリ産"
+    },
+    {
+     "title": "チリ産 トラウトサーモン 切り落とし 加熱用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 798,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ 骨取り トラウトサーモン 切り身 3切（210g）",
+     "brand": "トップバリュ",
+     "size": "3切（210g）",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_trout_salmon_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_lightly_salted_cod",
+   "category_path": [
+    "お魚・水産加工品",
+    "たら・白身魚",
+    "甘塩たら"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "ムニエル",
+    "ホイル焼き",
+    "焼き魚",
+    "たらちり"
+   ],
+   "description": "ほどよい塩加減で下味いらずの甘塩たらです。鍋やたらちりはもちろん、ムニエルやホイル焼きにすると淡白な身がふっくら仕上がります。",
+   "image_brief": "Clear-wrapped white tray with pale white cod fillets with grey skin, label reading 「甘塩たら 切り身」.",
+   "variants": [
+    {
+     "title": "北海道産 甘塩真だら 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 甘塩真だら 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 948,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 甘塩真だら 鍋用 切り身 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 甘塩すけそうだら 切り身 3切（約210g）",
+     "brand": "",
+     "size": "3切（約210g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 甘塩すけそうだら 切り身 6切（約420g）",
+     "brand": "",
+     "size": "6切（約420g）",
+     "price_tax_excluded": 748,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 骨取り 甘塩たら 切り身 4切（200g）",
+     "brand": "トップバリュ",
+     "size": "4切（200g）",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_lightly_salted_cod_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_sawara_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "さわら・かじき",
+    "さわら"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "焼き魚",
+    "照り焼き",
+    "西京焼き",
+    "ムニエル",
+    "お弁当のおかず"
+   ],
+   "description": "やわらかく上品な味わいのさわらの切り身です。照り焼きや塩焼き、みそ漬けにして西京焼きにするのもおすすめで、お弁当のおかずにも重宝します。",
+   "image_brief": "Clear-wrapped white tray of white-fleshed Spanish mackerel fillets with silvery-blue spotted skin, label reading 「さわら 切り身」.",
+   "variants": [
+    {
+     "title": "長崎県産 生さわら 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 生さわら 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 1148,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 生さわら 照り焼き用 切り身 3切（約180g）",
+     "brand": "",
+     "size": "3切（約180g）",
+     "price_tax_excluded": 648,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "香川県産 生さわら 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 648,
+     "origin": "香川県産"
+    },
+    {
+     "title": "石川県産 生さわら 切り身 厚切り 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 748,
+     "origin": "石川県産"
+    },
+    {
+     "title": "韓国産 さわら 切り身 3切（約210g）",
+     "brand": "",
+     "size": "3切（約210g）",
+     "price_tax_excluded": 598,
+     "origin": "韓国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_sawara_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_swordfish_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "さわら・かじき",
+    "かじき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "照り焼き",
+    "ムニエル",
+    "竜田揚げ",
+    "フライ",
+    "お弁当のおかず"
+   ],
+   "description": "骨がなく子どもにも食べやすいめかじきの切り身です。照り焼きやムニエル、竜田揚げなど和洋どちらのおかずにも使え、お弁当にも便利です。",
+   "image_brief": "Clear-wrapped white tray with thick pinkish-white boneless swordfish steaks, label reading 「めかじき 切り身」.",
+   "variants": [
+    {
+     "title": "宮城県産 生めかじき 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生めかじき 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 948,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生めかじき 角切り 唐揚げ用 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "静岡県産 めかじき 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "インドネシア産 めかじき 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 548,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "トップバリュ 骨なし めかじき 切り身 4切（280g）",
+     "brand": "トップバリュ",
+     "size": "4切（280g）",
+     "price_tax_excluded": 698,
+     "origin": "台湾産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_swordfish_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_kinmedai",
+   "category_path": [
+    "お魚・水産加工品",
+    "鯛・高級魚",
+    "金目鯛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "煮魚",
+    "金目鯛の煮付け",
+    "しゃぶしゃぶ",
+    "鍋"
+   ],
+   "description": "鮮やかな赤い皮と脂ののった白身が魅力の金目鯛です。甘辛い煮付けは家族のごちそうに、しゃぶしゃぶや鍋にしても上品なうま味が楽しめます。",
+   "image_brief": "Clear-wrapped black tray with red-skinned golden-eye snapper fillets on a green leaf, label reading 「金目鯛」.",
+   "variants": [
+    {
+     "title": "千葉県産 金目鯛 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 1280,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 金目鯛 煮付け用 半身 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 1980,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 金目鯛 丸 1尾（約500g）",
+     "brand": "",
+     "size": "1尾（約500g）",
+     "price_tax_excluded": 2980,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "静岡県産 金目鯛 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 1380,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 金目鯛 しゃぶしゃぶ用 薄造り 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 1480,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "高知県産 金目鯛 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 1180,
+     "origin": "高知県産"
+    },
+    {
+     "title": "ニュージーランド産 金目鯛 切り身 3切（約210g）",
+     "brand": "",
+     "size": "3切（約210g）",
+     "price_tax_excluded": 1080,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_kinmedai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_karei_flounder",
+   "category_path": [
+    "お魚・水産加工品",
+    "たら・白身魚",
+    "かれい"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "煮魚",
+    "かれいの煮付け",
+    "から揚げ",
+    "ムニエル"
+   ],
+   "description": "ふっくらとした白身のかれいです。しょうゆとみりんで甘辛く煮付けるのが定番で、小ぶりなものはから揚げに、切り身はムニエルにもおすすめです。",
+   "image_brief": "Clear-wrapped white tray with flat flounder pieces showing brown skin and roe, label reading 「子持ちかれい」.",
+   "variants": [
+    {
+     "title": "北海道産 子持ちかれい 切り身 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 子持ちかれい 1尾（約300g）",
+     "brand": "",
+     "size": "1尾（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 真がれい 1尾（約250g）",
+     "brand": "",
+     "size": "1尾（約250g）",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "鳥取県産 赤がれい 1尾（約250g）",
+     "brand": "",
+     "size": "1尾（約250g）",
+     "price_tax_excluded": 398,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "青森県産 生かれい から揚げ用 小 4尾（約300g）",
+     "brand": "",
+     "size": "4尾（約300g）",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "アメリカ産 子持ちからすがれい 切り身 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_karei_flounder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_madai_sea_bream",
+   "category_path": [
+    "お魚・水産加工品",
+    "鯛・高級魚",
+    "真鯛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "鯛めし",
+    "刺身",
+    "煮魚",
+    "鯛のあら炊き",
+    "潮汁"
+   ],
+   "description": "くせのない上品な白身の真鯛です。切り身は鯛めしや煮魚に、刺身用はそのままお造りに、あらはあら炊きや潮汁にすると旨みたっぷりに仕上がります。",
+   "image_brief": "Clear-wrapped white tray with pink-skinned red sea bream fillets beside a green leaf, label reading 「真鯛」.",
+   "variants": [
+    {
+     "title": "愛媛県産 養殖真鯛 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 刺身用 さく 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 698,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 あら 1尾分（約500g）",
+     "brand": "",
+     "size": "1尾分（約500g）",
+     "price_tax_excluded": 398,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 丸 1尾（約800g）",
+     "brand": "",
+     "size": "1尾（約800g）",
+     "price_tax_excluded": 1580,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 鯛めし用 切り身 骨取り 2切（約140g）",
+     "brand": "",
+     "size": "2切（約140g）",
+     "price_tax_excluded": 648,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "熊本県産 養殖真鯛 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 798,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "長崎県産 天然真鯛 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 898,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_madai_sea_bream_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_sardine",
+   "category_path": [
+    "お魚・水産加工品",
+    "さんま・いわし",
+    "いわし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "いわしの梅煮",
+    "つみれ汁",
+    "フライ",
+    "蒲焼き",
+    "塩焼き"
+   ],
+   "description": "脂ののった真いわしです。梅煮や塩焼きはもちろん、手開きはフライや蒲焼きに、たたき身はつみれ汁にと手軽に使えます。",
+   "image_brief": "Clear-wrapped white tray with shiny silver-blue whole sardines lined up, label reading 「真いわし」.",
+   "variants": [
+    {
+     "title": "千葉県産 生真いわし 4尾（約400g）",
+     "brand": "",
+     "size": "4尾（約400g）",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 生真いわし 8尾（約800g）",
+     "brand": "",
+     "size": "8尾（約800g）",
+     "price_tax_excluded": 698,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 生真いわし 刺身用 3尾（約300g）",
+     "brand": "",
+     "size": "3尾（約300g）",
+     "price_tax_excluded": 448,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 真いわし たたき身 つみれ用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "長崎県産 生真いわし 手開き 6尾（約200g）",
+     "brand": "",
+     "size": "6尾（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "宮城県産 生真いわし フライ用 開き 8枚（約240g）",
+     "brand": "",
+     "size": "8枚（約240g）",
+     "price_tax_excluded": 548,
+     "origin": "宮城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_sardine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_fresh_mackerel_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "さば・あじ",
+    "さば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "さばの味噌煮",
+    "竜田揚げ",
+    "しめさば",
+    "煮魚",
+    "焼き魚"
+   ],
+   "description": "塩をしていない生のさばです。さばの味噌煮や竜田揚げ、塩焼きなど好みの味付けで調理でき、新鮮なものはしめさばにもおすすめです。",
+   "image_brief": "Clear-wrapped white tray with blue-striped mackerel fillets showing pinkish flesh, label reading 「生真さば」.",
+   "variants": [
+    {
+     "title": "長崎県産 生真さば 切り身 2切（約160g）",
+     "brand": "",
+     "size": "2切（約160g）",
+     "price_tax_excluded": 398,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 生真さば 切り身 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 748,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 生ごまさば 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "千葉県産 生真さば 半身 2枚（約300g）",
+     "brand": "",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "青森県産 生真さば 1尾（約400g）",
+     "brand": "",
+     "size": "1尾（約400g）",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "宮城県産 生真さば 三枚おろし 1尾分（約250g）",
+     "brand": "",
+     "size": "1尾分（約250g）",
+     "price_tax_excluded": 548,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "ノルウェー産 さば 骨取り 切り身 無塩 4切（約280g）",
+     "brand": "",
+     "size": "4切（約280g）",
+     "price_tax_excluded": 548,
+     "origin": "ノルウェー産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_fresh_mackerel_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_aji_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "さば・あじ",
+    "あじ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "アジフライ",
+    "南蛮漬け",
+    "たたき",
+    "塩焼き",
+    "刺身"
+   ],
+   "description": "下ごしらえの手間が少ない三枚おろしやフライ用の開きなど、使い道に合わせて選べる真あじです。アジフライや南蛮漬けのほか、新鮮なものはたたきや刺身にもどうぞ。",
+   "image_brief": "Clear-wrapped white tray with butterflied silver horse mackerel fillets neatly arranged, label reading 「真あじ 三枚おろし」.",
+   "variants": [
+    {
+     "title": "長崎県産 真あじ 三枚おろし 4枚（約160g）",
+     "brand": "",
+     "size": "4枚（約160g）",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 真あじ 三枚おろし 8枚（約320g）",
+     "brand": "",
+     "size": "8枚（約320g）",
+     "price_tax_excluded": 848,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 真あじ 丸 3尾（約450g）",
+     "brand": "",
+     "size": "3尾（約450g）",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "島根県産 真あじ フライ用 開き 4枚（約200g）",
+     "brand": "",
+     "size": "4枚（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "島根県産"
+    },
+    {
+     "title": "鹿児島県産 真あじ 刺身用 さく 4枚（約120g）",
+     "brand": "",
+     "size": "4枚（約120g）",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "静岡県産 小あじ 南蛮漬け用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "トップバリュ 骨取り あじフライ用 開き 6枚（240g）",
+     "brand": "トップバリュ",
+     "size": "6枚（240g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_aji_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_saury_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "さんま開き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "朝ごはん",
+    "お弁当のおかず",
+    "炊き込みご飯"
+   ],
+   "description": "ほどよい塩味で焼くだけでおいしいさんまの開きです。朝ごはんや夕食の焼き魚に手軽に使え、焼いてほぐせば炊き込みご飯にもアレンジできます。",
+   "image_brief": "Clear-wrapped tray with golden butterflied dried saury fillets, label reading 「さんま開き」.",
+   "variants": [
+    {
+     "title": "北海道産 さんま開き 2枚（約200g）",
+     "brand": "",
+     "size": "2枚（約200g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 さんま開き 4枚（約400g）",
+     "brand": "",
+     "size": "4枚（約400g）",
+     "price_tax_excluded": 748,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 さんま開き 大 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 さんま開き 減塩 2枚（約200g）",
+     "brand": "",
+     "size": "2枚（約200g）",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    },
+    {
+     "title": "宮城県加工 さんま開き 3枚（約270g）",
+     "brand": "",
+     "size": "3枚（約270g）",
+     "price_tax_excluded": 498,
+     "origin": "宮城県加工"
+    },
+    {
+     "title": "岩手県産 さんま 一夜干し 2枚（約200g）",
+     "brand": "",
+     "size": "2枚（約200g）",
+     "price_tax_excluded": 448,
+     "origin": "岩手県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_saury_hiraki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_buri_ara",
+   "category_path": [
+    "お魚・水産加工品",
+    "ぶり・はまち",
+    "ぶりあら・かま"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ぶり大根",
+    "あら炊き",
+    "あら汁",
+    "煮魚",
+    "焼き魚"
+   ],
+   "description": "旨みがたっぷり詰まったぶりのあらとかまです。大根と煮込むぶり大根やあら炊き、あら汁が定番で、かまは塩焼きにしても脂がのって美味しくいただけます。",
+   "image_brief": "Clear-wrapped large white tray piled with yellowtail head and collar pieces, label reading 「ぶりあら」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 養殖ぶり あら 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 養殖ぶり あら 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 548,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "富山県産 天然ぶり あら 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "富山県産"
+    },
+    {
+     "title": "大分県産 養殖ぶり かま 2切（約400g）",
+     "brand": "",
+     "size": "2切（約400g）",
+     "price_tax_excluded": 498,
+     "origin": "大分県産"
+    },
+    {
+     "title": "長崎県産 天然ぶり かま 1切（約300g）",
+     "brand": "",
+     "size": "1切（約300g）",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "愛媛県産 養殖ぶり ぶり大根用 切り身・あら 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_buri_ara_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_negitoro",
+   "category_path": [
+    "お魚・水産加工品",
+    "まぐろ",
+    "ねぎとろ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ねぎとろ丼",
+    "手巻き寿司",
+    "軍艦巻き",
+    "海鮮丼"
+   ],
+   "description": "解凍してご飯にのせるだけで手軽にねぎとろ丼が楽しめるまぐろのたたき身です。手巻き寿司や軍艦巻きの具材にもぴったりで、使い切りやすい小分けタイプもあります。",
+   "image_brief": "Frozen flat plastic pack showing pink minced tuna through a clear window, label reading 「ねぎとろ」.",
+   "variants": [
+    {
+     "title": "トップバリュ まぐろたたき ねぎとろ用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "トップバリュ まぐろたたき ねぎとろ用 70g×3パック",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 698,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス まぐろたたき 50g×4パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "静岡県加工 ねぎとろ用 まぐろたたき 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "静岡県加工 本まぐろ入り ねぎとろ 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "静岡県加工 ねぎとろ 小分け 40g×5パック",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 748,
+     "origin": "静岡県加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_negitoro_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_katsuo_tataki",
+   "category_path": [
+    "お魚・水産加工品",
+    "かつお",
+    "かつおたたき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    9,
+    10
+   ],
+   "dishes": [
+    "かつおのたたき",
+    "刺身",
+    "海鮮丼",
+    "手こね寿司"
+   ],
+   "description": "表面を香ばしく焼き上げたかつおのたたきです。厚めに切って薬味とぽん酢でいただくほか、海鮮丼や手こね寿司にしても美味しく召し上がれます。",
+   "image_brief": "Clear-wrapped tray with a seared bonito loin block showing charred edges and deep red center, label reading 「かつおたたき」.",
+   "variants": [
+    {
+     "title": "高知県産 かつおたたき 藁焼き 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 698,
+     "origin": "高知県産"
+    },
+    {
+     "title": "高知県産 かつおたたき 藁焼き 約350g",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 1148,
+     "origin": "高知県産"
+    },
+    {
+     "title": "高知県産 かつおたたき 刺身用 カット済 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "宮城県産 戻りかつお たたき 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 698,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "鹿児島県産 かつおたたき 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "静岡県産 初がつお たたき 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 648,
+     "origin": "静岡県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_katsuo_tataki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_ikura_shoyuzuke",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "いくら"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10
+   ],
+   "dishes": [
+    "いくら丼",
+    "ちらし寿司",
+    "手巻き寿司",
+    "海鮮丼"
+   ],
+   "description": "ぷちっとはじける粒のいくらを醤油だれに漬け込みました。温かいご飯にのせていくら丼に、ちらし寿司や手巻き寿司の彩りにも華やかです。",
+   "image_brief": "Frozen clear round plastic container filled with glossy orange salmon roe, label reading 「いくら醤油漬け」.",
+   "variants": [
+    {
+     "title": "北海道産 いくら醤油漬け 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 1580,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 いくら醤油漬け 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 2780,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 いくら醤油漬け 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 4480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 いくら醤油漬け 小分け 40g×3パック",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 2280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "アメリカ産 鱒いくら醤油漬け 70g",
+     "brand": "",
+     "size": "70g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 鱒いくら醤油漬け 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "ロシア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_ikura_shoyuzuke_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_boiled_baby_scallop",
+   "category_path": [
+    "お魚・水産加工品",
+    "貝類",
+    "ボイルほたて"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "八宝菜",
+    "シーフードカレー",
+    "シチュー",
+    "炊き込みご飯",
+    "グラタン"
+   ],
+   "description": "ボイル済みで下ごしらえ不要のほたてです。八宝菜やシーフードカレー、クリームシチューに加えるだけでうま味が広がり、炊き込みご飯にもおすすめです。",
+   "image_brief": "Clear-wrapped tray of plump cream-colored boiled baby scallops, label reading 「ボイルベビーほたて」.",
+   "variants": [
+    {
+     "title": "北海道産 ボイルベビーほたて 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 ボイルベビーほたて 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 948,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 ボイル片貝ほたて 6枚入（約240g）",
+     "brand": "",
+     "size": "6枚入（約240g）",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "青森県産 ボイルほたて 大粒 8個入（約200g）",
+     "brand": "",
+     "size": "8個入（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "宮城県産 ボイルほたて 6個入（約150g）",
+     "brand": "",
+     "size": "6個入（約150g）",
+     "price_tax_excluded": 548,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "トップバリュ ボイルベビーほたて 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_boiled_baby_scallop_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_shijimi",
+   "category_path": [
+    "お魚・水産加工品",
+    "貝類",
+    "しじみ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    1,
+    2,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "味噌汁",
+    "すまし汁",
+    "酒蒸し",
+    "しじみご飯"
+   ],
+   "description": "砂抜き済みですぐに使える大和しじみです。だしがよく出るので味噌汁やすまし汁に最適で、酒蒸しやしじみご飯にもおすすめです。",
+   "image_brief": "Clear plastic bag with dark glossy freshwater clams and a little water, label reading 「大和しじみ 砂抜き済」.",
+   "variants": [
+    {
+     "title": "青森県産 大和しじみ 砂抜き済 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 大和しじみ 砂抜き済 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 748,
+     "origin": "青森県産"
+    },
+    {
+     "title": "島根県産 大和しじみ 砂抜き済 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "島根県産"
+    },
+    {
+     "title": "島根県産 大和しじみ 大粒 砂抜き済 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "島根県産"
+    },
+    {
+     "title": "茨城県産 大和しじみ 砂抜き済 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "北海道産 しじみ 砂抜き済 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_shijimi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_hamaguri",
+   "category_path": [
+    "お魚・水産加工品",
+    "貝類",
+    "はまぐり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "潮汁",
+    "酒蒸し",
+    "お吸い物",
+    "焼きはまぐり",
+    "パスタ"
+   ],
+   "description": "ぷっくりとした身のはまぐりです。上品なだしが出るので潮汁やお吸い物に、酒蒸しや焼きはまぐり、パスタの具にしても美味しくいただけます。",
+   "image_brief": "Clear-wrapped tray holding smooth cream-and-brown patterned hard clams, label reading 「はまぐり 砂抜き済」.",
+   "variants": [
+    {
+     "title": "千葉県産 はまぐり 砂抜き済 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 はまぐり 大粒 4個入（約250g）",
+     "brand": "",
+     "size": "4個入（約250g）",
+     "price_tax_excluded": 1080,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "三重県産 はまぐり 砂抜き済 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "三重県産"
+    },
+    {
+     "title": "熊本県産 はまぐり 砂抜き済 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 880,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "中国産 はまぐり 砂抜き済 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "中国産 はまぐり 砂抜き済 小粒 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_hamaguri_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_raw_oyster",
+   "category_path": [
+    "お魚・水産加工品",
+    "貝類",
+    "かき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "カキフライ",
+    "鍋",
+    "土手鍋",
+    "かきご飯",
+    "グラタン"
+   ],
+   "description": "身がぷっくりとしたかきのむき身です。カキフライや土手鍋、かきご飯など冬のごちそうに使え、グラタンにするとクリーミーなソースとよく合います。",
+   "image_brief": "Clear plastic tub with plump grey-white shucked oysters in liquid, label reading 「かき むき身 加熱用」.",
+   "variants": [
+    {
+     "title": "広島県産 かき むき身 加熱用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "広島県産"
+    },
+    {
+     "title": "広島県産 かき むき身 加熱用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1148,
+     "origin": "広島県産"
+    },
+    {
+     "title": "広島県産 かき むき身 加熱用 大粒 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 848,
+     "origin": "広島県産"
+    },
+    {
+     "title": "宮城県産 かき むき身 生食用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 殻付きかき 加熱用 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 698,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "岡山県産 かき むき身 加熱用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 748,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "兵庫県産 かき むき身 加熱用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "兵庫県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_raw_oyster_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_roll_squid",
+   "category_path": [
+    "お魚・水産加工品",
+    "いか・たこ",
+    "ロールいか"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "八宝菜",
+    "焼きそば",
+    "お好み焼き",
+    "天ぷら"
+   ],
+   "description": "皮をむいて下処理済みの冷凍ロールいかです。必要な分だけ解凍して野菜炒めや八宝菜、焼きそば、お好み焼きの具に使え、カット済みタイプは炒め物にすぐ使えます。",
+   "image_brief": "Frozen resealable bag showing thick white squid pieces through a window, label reading 「ロールいか」.",
+   "variants": [
+    {
+     "title": "ペルー産 ロールいか 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 ロールいか 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 ロールいか 短冊カット 炒め物用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 ロールいか 松笠カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 ロールいか リングカット 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ ロールいか 下処理済 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ロールいか 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産（中国加工）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_roll_squid_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_spear_squid",
+   "category_path": [
+    "お魚・水産加工品",
+    "いか・たこ",
+    "やりいか"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "いか大根",
+    "煮物",
+    "刺身",
+    "天ぷら",
+    "焼きいか"
+   ],
+   "description": "身がやわらかく甘みのあるやりいかです。いか大根や煮付けにすると味がよくしみ、新鮮なものは刺身や天ぷら、丸ごと焼いても美味しくいただけます。",
+   "image_brief": "Clear-wrapped white tray with translucent whole spear squid lined up, label reading 「やりいか」.",
+   "variants": [
+    {
+     "title": "青森県産 生やりいか 2杯（約200g）",
+     "brand": "",
+     "size": "2杯（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 生やりいか 4杯（約400g）",
+     "brand": "",
+     "size": "4杯（約400g）",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 子持ちやりいか 2杯（約250g）",
+     "brand": "",
+     "size": "2杯（約250g）",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長崎県産 生やりいか 3杯（約300g）",
+     "brand": "",
+     "size": "3杯（約300g）",
+     "price_tax_excluded": 698,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 やりいか 刺身用 1杯（約150g）",
+     "brand": "",
+     "size": "1杯（約150g）",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "島根県産 小やりいか 煮付け用 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "島根県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_spear_squid_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_vannamei_shrimp",
+   "category_path": [
+    "お魚・水産加工品",
+    "えび・かに",
+    "バナメイえび"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "えびフライ",
+    "えびチリ",
+    "天ぷら",
+    "グラタン",
+    "パスタ",
+    "八宝菜"
+   ],
+   "description": "ぷりっとした食感で使い勝手のよい殻付きバナメイえびです。えびフライや天ぷら、えびチリのほか、グラタンやパスタ、八宝菜にも幅広く使えます。",
+   "image_brief": "Frozen resealable bag showing grey shell-on shrimp through a clear window, label reading 「バナメイえび 殻付き」.",
+   "variants": [
+    {
+     "title": "インドネシア産 バナメイえび 殻付き 大 10尾（約200g）",
+     "brand": "",
+     "size": "10尾（約200g）",
+     "price_tax_excluded": 798,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "インドネシア産 バナメイえび 殻付き 大 20尾（約400g）",
+     "brand": "",
+     "size": "20尾（約400g）",
+     "price_tax_excluded": 1480,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "タイ産 バナメイえび 殻付き 中 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "タイ産"
+    },
+    {
+     "title": "インド産 バナメイえび 殻付き 特大 8尾（約240g）",
+     "brand": "",
+     "size": "8尾（約240g）",
+     "price_tax_excluded": 980,
+     "origin": "インド産"
+    },
+    {
+     "title": "ベトナム産 バナメイえび 天ぷら用 のばしえび 10尾（約150g）",
+     "brand": "",
+     "size": "10尾（約150g）",
+     "price_tax_excluded": 698,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "トップバリュ バナメイえび 殻付き 背わた処理済 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "トップバリュ ベストプライス バナメイえび 殻付き 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 1280,
+     "origin": "インド産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_vannamei_shrimp_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_head_on_red_shrimp",
+   "category_path": [
+    "お魚・水産加工品",
+    "えび・かに",
+    "有頭えび"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "塩焼き",
+    "えびフライ",
+    "鍋",
+    "グラタン",
+    "味噌汁"
+   ],
+   "description": "頭付きで見栄えがよく、殻や頭からもよいだしが出る有頭えびです。塩焼きやえびフライ、鍋の具材に使うと華やかで、頭は味噌汁のだしにも活用できます。",
+   "image_brief": "Frozen tray pack of bright red head-on shrimp arranged in rows under clear film, label reading 「有頭赤えび」.",
+   "variants": [
+    {
+     "title": "アルゼンチン産 有頭赤えび 大 6尾（約300g）",
+     "brand": "",
+     "size": "6尾（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "アルゼンチン産 有頭赤えび 大 12尾（約600g）",
+     "brand": "",
+     "size": "12尾（約600g）",
+     "price_tax_excluded": 1480,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "アルゼンチン産 有頭赤えび 特大 4尾（約250g）",
+     "brand": "",
+     "size": "4尾（約250g）",
+     "price_tax_excluded": 898,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "インドネシア産 有頭バナメイえび 15尾（約300g）",
+     "brand": "",
+     "size": "15尾（約300g）",
+     "price_tax_excluded": 698,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "鹿児島県産 有頭くるまえび 6尾（約150g）",
+     "brand": "",
+     "size": "6尾（約150g）",
+     "price_tax_excluded": 1980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 有頭赤えび 刺身用 8尾（約200g）",
+     "brand": "トップバリュ",
+     "size": "8尾（約200g）",
+     "price_tax_excluded": 898,
+     "origin": "アルゼンチン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_head_on_red_shrimp_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_boiled_snow_crab",
+   "category_path": [
+    "お魚・水産加工品",
+    "えび・かに",
+    "ずわいがに"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "かに"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かに鍋",
+    "しゃぶしゃぶ",
+    "雑炊",
+    "茶碗蒸し",
+    "ちらし寿司"
+   ],
+   "description": "解凍するだけで食べられるボイルずわいがにです。かに鍋やかにしゃぶで家族のごちそうに、ほぐし身は茶碗蒸しやちらし寿司、鍋の後の雑炊にも使えます。",
+   "image_brief": "Frozen black tray of orange-red boiled snow crab legs under clear film, label reading 「ボイルずわいがに」.",
+   "variants": [
+    {
+     "title": "ロシア産 ボイルずわいがに 脚 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 3980,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 ボイルずわいがに 脚 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 7480,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 生ずわいがに ハーフポーション しゃぶしゃぶ用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 4480,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "カナダ産 ボイルずわいがに 肩付き脚 2肩（約600g）",
+     "brand": "",
+     "size": "2肩（約600g）",
+     "price_tax_excluded": 4980,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "アメリカ産 ボイルずわいがに 脚 カット済 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 5480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "北海道産 ボイルずわいがに 姿 1尾（約500g）",
+     "brand": "",
+     "size": "1尾（約500g）",
+     "price_tax_excluded": 3480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ボイルずわいがに ほぐし身 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 1280,
+     "origin": "ロシア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_boiled_snow_crab_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_octopus_kiriotoshi",
+   "category_path": [
+    "お魚・水産加工品",
+    "いか・たこ",
+    "たこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "酢の物",
+    "唐揚げ",
+    "刺身",
+    "たこ飯"
+   ],
+   "description": "使いやすい大きさにカットされたゆでだこです。たこ焼きや酢の物、たこの唐揚げにすぐ使え、刺身用はそのまま食卓に、たこ飯にもおすすめです。",
+   "image_brief": "Clear-wrapped tray of chopped boiled octopus pieces with purple-red skin and white flesh, label reading 「ゆで真だこ 切り落とし」.",
+   "variants": [
+    {
+     "title": "モーリタニア産 ゆで真だこ 切り落とし 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "モーリタニア産"
+    },
+    {
+     "title": "モーリタニア産 ゆで真だこ 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 948,
+     "origin": "モーリタニア産"
+    },
+    {
+     "title": "モロッコ産 ゆで真だこ たこ焼き用 ぶつ切り 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "兵庫県産 ゆで真だこ 切り落とし 刺身用 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "北海道産 ゆで水だこ 刺身用 スライス 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ゆでだこ 唐揚げ用 ぶつ切り 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "モーリタニア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_octopus_kiriotoshi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_shishamo",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "ししゃも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "フライ",
+    "南蛮漬け",
+    "お弁当のおかず",
+    "朝ごはん"
+   ],
+   "description": "頭から丸ごと食べられる子持ちししゃもです。グリルで焼くだけで朝ごはんやお弁当のおかずになり、フライや南蛮漬けにしても美味しくいただけます。",
+   "image_brief": "Clear-wrapped tray of small silver capelin lined up in neat rows, label reading 「子持ちししゃも」.",
+   "variants": [
+    {
+     "title": "ノルウェー産 子持ちからふとししゃも 10尾（約160g）",
+     "brand": "",
+     "size": "10尾（約160g）",
+     "price_tax_excluded": 298,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "ノルウェー産 子持ちからふとししゃも 20尾（約320g）",
+     "brand": "",
+     "size": "20尾（約320g）",
+     "price_tax_excluded": 548,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "アイスランド産 子持ちからふとししゃも 大 12尾（約220g）",
+     "brand": "",
+     "size": "12尾（約220g）",
+     "price_tax_excluded": 398,
+     "origin": "アイスランド産"
+    },
+    {
+     "title": "北海道産 本ししゃも 子持ち 8尾（約120g）",
+     "brand": "",
+     "size": "8尾（約120g）",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 本ししゃも オス 10尾（約140g）",
+     "brand": "",
+     "size": "10尾（約140g）",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 子持ちからふとししゃも 15尾（250g）",
+     "brand": "トップバリュ",
+     "size": "15尾（250g）",
+     "price_tax_excluded": 398,
+     "origin": "ノルウェー産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_shishamo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_white_fish_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "たら・白身魚",
+    "白身魚（ホキ・メルルーサ）"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "フライ",
+    "ムニエル",
+    "ホイル焼き",
+    "南蛮漬け",
+    "お弁当のおかず"
+   ],
+   "description": "骨取り済みで子どもにも食べやすい冷凍の白身魚です。フライやムニエル、ホイル焼きのほか、南蛮漬けや甘酢あんかけなどお弁当のおかずにも重宝します。",
+   "image_brief": "Frozen resealable bag showing individually frozen white fish fillets through a window, label reading 「骨取り 白身魚」.",
+   "variants": [
+    {
+     "title": "ニュージーランド産 ホキ 切り身 皮なし 5切（約300g）",
+     "brand": "",
+     "size": "5切（約300g）",
+     "price_tax_excluded": 398,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "アルゼンチン産 メルルーサ 切り身 フライ用 6切（約360g）",
+     "brand": "",
+     "size": "6切（約360g）",
+     "price_tax_excluded": 448,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "南アフリカ産 メルルーサ 切り身 骨取り 4切（約280g）",
+     "brand": "",
+     "size": "4切（約280g）",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "アメリカ産 すけそうだら フィーレ 骨取り 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 骨取り ホキ 切り身 8切（400g）",
+     "brand": "トップバリュ",
+     "size": "8切（400g）",
+     "price_tax_excluded": 598,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "トップバリュ 骨取り 白身魚 一口カット 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 骨取り メルルーサ 切り身 10切（500g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10切（500g）",
+     "price_tax_excluded": 598,
+     "origin": "アルゼンチン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_white_fish_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_akauo_redfish",
+   "category_path": [
+    "お魚・水産加工品",
+    "たら・白身魚",
+    "赤魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "煮魚",
+    "赤魚の煮付け",
+    "粕漬け焼き",
+    "ムニエル",
+    "から揚げ"
+   ],
+   "description": "やわらかくほぐれる白身の赤魚です。甘辛い煮付けが定番で、粕漬けにして焼いたり、ムニエルやから揚げにしても美味しく召し上がれます。",
+   "image_brief": "Clear-wrapped white tray with red-skinned redfish fillets and white flesh, label reading 「赤魚 切り身」.",
+   "variants": [
+    {
+     "title": "アイスランド産 赤魚 切り身 3切（約240g）",
+     "brand": "",
+     "size": "3切（約240g）",
+     "price_tax_excluded": 498,
+     "origin": "アイスランド産"
+    },
+    {
+     "title": "アイスランド産 赤魚 切り身 6切（約480g）",
+     "brand": "",
+     "size": "6切（約480g）",
+     "price_tax_excluded": 948,
+     "origin": "アイスランド産"
+    },
+    {
+     "title": "アイスランド産 赤魚 半身 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 548,
+     "origin": "アイスランド産"
+    },
+    {
+     "title": "アメリカ産 赤魚 切り身 煮付け用 4切（約320g）",
+     "brand": "",
+     "size": "4切（約320g）",
+     "price_tax_excluded": 548,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ノルウェー産 赤魚 切り身 大 2切（約200g）",
+     "brand": "",
+     "size": "2切（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "ノルウェー産"
+    },
+    {
+     "title": "トップバリュ 骨取り 赤魚 切り身 4切（240g）",
+     "brand": "トップバリュ",
+     "size": "4切（240g）",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_akauo_redfish_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_salmon_ara",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮭・サーモン",
+    "鮭あら・かま"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "石狩鍋",
+    "粕汁",
+    "三平汁",
+    "あら汁",
+    "焼き魚"
+   ],
+   "description": "鮭のうま味がぎゅっと詰まったあらやかまです。石狩鍋や粕汁、三平汁など汁物に入れるとよいだしが出て、かまやハラスは塩焼きにしても美味しくいただけます。",
+   "image_brief": "Clear-wrapped white tray piled with orange salmon head, bone and collar pieces, label reading 「鮭あら」.",
+   "variants": [
+    {
+     "title": "北海道産 生秋鮭 あら 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 生秋鮭 あら 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 生秋鮭 かま 2個（約300g）",
+     "brand": "",
+     "size": "2個（約300g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 生秋鮭 中骨 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "チリ産 銀鮭 かま 甘塩 4個（約400g）",
+     "brand": "",
+     "size": "4個（約400g）",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "ノルウェー産 サーモン ハラス 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "ノルウェー産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_salmon_ara_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_seafood_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "シーフードミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "八宝菜",
+    "パスタ",
+    "焼きそば",
+    "お好み焼き",
+    "チャーハン",
+    "カレー"
+   ],
+   "description": "えびやいか、あさりなどを下処理済みで詰め合わせた冷凍シーフードミックスです。凍ったまま使えるので、八宝菜や焼きそば、お好み焼き、パスタやシーフードカレーにと手軽に魚介のうま味を足せます。",
+   "image_brief": "Frozen resealable bag with a photo window showing shrimp, squid rings and clams, label reading 「シーフードミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス シーフードミックス 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "外国産（タイ・ベトナム他）"
+    },
+    {
+     "title": "トップバリュ ベストプライス シーフードミックス 600g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "600g",
+     "price_tax_excluded": 748,
+     "origin": "外国産（タイ・ベトナム他）"
+    },
+    {
+     "title": "トップバリュ シーフードミックス 大粒 えび・いか・あさり 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "外国産（タイ・中国他）"
+    },
+    {
+     "title": "トップバリュ シーフードミックス 小分け 100g×3袋",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "外国産（タイ・中国他）"
+    },
+    {
+     "title": "トップバリュ 炒めもの用 シーフードミックス えび・いか 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "外国産（ベトナム・ペルー他）"
+    },
+    {
+     "title": "トップバリュ セレクト 5種のシーフードミックス 280g",
+     "brand": "トップバリュ セレクト",
+     "size": "280g",
+     "price_tax_excluded": 798,
+     "origin": "外国産（タイ・中国他）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_seafood_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_tara_shirako",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "白子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "たらちり",
+    "白子ポン酢",
+    "天ぷら",
+    "味噌汁"
+   ],
+   "description": "冬が旬のクリーミーなたらの白子です。さっと湯通ししてぽん酢で、または鍋やたらちり、天ぷら、味噌汁の具にしても濃厚な味わいが楽しめます。",
+   "image_brief": "Clear-wrapped tray with creamy white cod milt clusters, label reading 「真だら 白子」.",
+   "variants": [
+    {
+     "title": "北海道産 真だら 白子 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 真だら 白子 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 真だら 白子 鍋用 カット済 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 すけそうだら 白子 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "岩手県産 真だら 白子 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 748,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 真だら 白子 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 748,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_tara_shirako_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_unagi_kabayaki",
+   "category_path": [
+    "お魚・水産加工品",
+    "うなぎ・蒲焼",
+    "うなぎ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    7,
+    8
+   ],
+   "dishes": [
+    "うな丼",
+    "ひつまぶし",
+    "う巻き",
+    "うざく",
+    "ちらし寿司"
+   ],
+   "description": "香ばしく焼き上げたうなぎの蒲焼です。温め直してご飯にのせればうな丼やひつまぶしに、刻んで卵焼きに巻いてう巻きにするのもおすすめです。",
+   "image_brief": "Vacuum-sealed clear pack with a glossy brown grilled eel fillet plus small sauce and sansho sachets, label reading 「うなぎ蒲焼」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 うなぎ蒲焼 長焼 1尾（約150g）たれ・山椒付",
+     "brand": "",
+     "size": "1尾（約150g）",
+     "price_tax_excluded": 2980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 うなぎ蒲焼 長焼 大 1尾（約180g）たれ・山椒付",
+     "brand": "",
+     "size": "1尾（約180g）",
+     "price_tax_excluded": 3480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 うなぎ蒲焼 カット 2切（約80g）",
+     "brand": "",
+     "size": "2切（約80g）",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 うなぎ蒲焼 長焼 1尾（約140g）",
+     "brand": "",
+     "size": "1尾（約140g）",
+     "price_tax_excluded": 2780,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "愛知県産 うなぎ蒲焼 長焼 1尾（約150g）",
+     "brand": "",
+     "size": "1尾（約150g）",
+     "price_tax_excluded": 3280,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "中国産 うなぎ蒲焼 長焼 1尾（約150g）",
+     "brand": "",
+     "size": "1尾（約150g）",
+     "price_tax_excluded": 1480,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 うなぎ蒲焼 刻み 50g×2袋",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_unagi_kabayaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_sakura_ebi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海産乾物",
+    "桜えび"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "かき揚げ",
+    "チャーハン",
+    "焼きそば",
+    "卵焼き"
+   ],
+   "description": "香ばしい風味と鮮やかな色の素干し桜えびです。お好み焼きやかき揚げ、焼きそばに加えると風味が増し、チャーハンや卵焼きの彩りにもぴったりです。",
+   "image_brief": "Clear stand-up zip pouch showing bright pink dried sakura shrimp, label reading 「素干し桜えび」.",
+   "variants": [
+    {
+     "title": "静岡県産 素干し桜えび 10g",
+     "brand": "",
+     "size": "10g",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 素干し桜えび 20g",
+     "brand": "",
+     "size": "20g",
+     "price_tax_excluded": 948,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 素干し桜えび 徳用 40g",
+     "brand": "",
+     "size": "40g",
+     "price_tax_excluded": 1780,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "台湾産 素干し桜えび 15g",
+     "brand": "",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "台湾産"
+    },
+    {
+     "title": "台湾産 素干し桜えび 徳用 30g",
+     "brand": "",
+     "size": "30g",
+     "price_tax_excluded": 698,
+     "origin": "台湾産"
+    },
+    {
+     "title": "トップバリュ 素干し桜えび 13g",
+     "brand": "トップバリュ",
+     "size": "13g",
+     "price_tax_excluded": 348,
+     "origin": "台湾産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_sakura_ebi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_fish_albacore_tuna_sashimi",
+   "category_path": [
+    "お魚・水産加工品",
+    "まぐろ",
+    "びんちょうまぐろ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "刺身",
+    "海鮮丼",
+    "手巻き寿司",
+    "漬け丼",
+    "ちらし寿司"
+   ],
+   "description": "淡いピンク色でやわらかな口当たりのびんちょうまぐろです。お刺身や海鮮丼、手巻き寿司に手頃に使え、しょうゆだれに漬けて漬け丼にするのもおすすめです。",
+   "image_brief": "Clear-wrapped black tray with a pale pink albacore tuna block on shredded daikon and a shiso leaf, label reading 「びんちょうまぐろ 刺身用」.",
+   "variants": [
+    {
+     "title": "国産 びんちょうまぐろ 刺身用 さく 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 びんちょうまぐろ 刺身用 さく 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 びんとろ 刺身用 さく 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "太平洋産 びんちょうまぐろ 刺身用 スライス 8切（約100g）",
+     "brand": "",
+     "size": "8切（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "太平洋産"
+    },
+    {
+     "title": "インド洋産 びんちょうまぐろ 刺身用 さく 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 548,
+     "origin": "インド洋産"
+    },
+    {
+     "title": "トップバリュ びんちょうまぐろ 切り落とし 刺身用 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "太平洋産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_fish_albacore_tuna_sashimi_p.jpg"
+   ]
+  }
+ ]
+}

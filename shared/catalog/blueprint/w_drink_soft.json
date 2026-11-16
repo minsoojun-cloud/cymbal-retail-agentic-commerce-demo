@@ -1,0 +1,4337 @@
+{
+ "category_key": "w_drink_soft",
+ "items": [
+  {
+   "base_id": "w_drink_soft_hard_mineral_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "硬水ミネラルウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事中の水分補給",
+    "煮込み料理",
+    "ワークアウト後"
+   ],
+   "tax_rate": 8,
+   "description": "カルシウムやマグネシウムを豊富に含むヨーロッパ産の硬水ミネラルウォーターです。しっかりとした飲みごたえがあり、肉の煮込みやパスタ料理にも。中硬水から超硬水まで、好みに合わせて選べます。",
+   "image_brief": "A tall clear plastic bottle of still mineral water with a light blue cap and a plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 硬水ミネラルウォーター 中硬水 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 128,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal 硬水ミネラルウォーター 中硬水 1L×12本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1380,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 超硬水ミネラルウォーター 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "Cymbal セレクト 超硬水ミネラルウォーター 500ml×24本 ケース",
+     "brand": "Cymbal セレクト",
+     "size": "ケース",
+     "price_tax_excluded": 3480,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "Montvert アルパイン 硬水 ミネラルウォーター 750ml",
+     "brand": "Montvert",
+     "size": "750ml",
+     "price_tax_excluded": 168,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_hard_mineral_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_deep_sea_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "海洋深層水"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "水分補給",
+    "お茶・コーヒー用",
+    "炊飯"
+   ],
+   "tax_rate": 8,
+   "description": "深海から汲み上げた海洋深層水を脱塩してつくった、まろやかな口当たりの飲料水です。ミネラルバランスがよく、そのまま飲むのはもちろん、お茶やコーヒー、ご飯炊きにも使いやすい一本です。",
+   "image_brief": "A slim clear plastic bottle of water with a deep navy cap and a plain blank wave-blue label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 海洋深層水 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "高知県室戸沖"
+    },
+    {
+     "title": "Cymbal 海洋深層水 2L",
+     "brand": "Cymbal",
+     "size": "2L",
+     "price_tax_excluded": 168,
+     "origin": "高知県室戸沖"
+    },
+    {
+     "title": "Cymbal 海洋深層水 2L×6本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 980,
+     "origin": "高知県室戸沖"
+    },
+    {
+     "title": "アオミナモ 海洋深層水 硬度250 1L",
+     "brand": "アオミナモ",
+     "size": "1L",
+     "price_tax_excluded": 158,
+     "origin": "富山湾"
+    },
+    {
+     "title": "アオミナモ 海洋深層水 硬度250 1L×12本 ケース",
+     "brand": "アオミナモ",
+     "size": "ケース",
+     "price_tax_excluded": 1780,
+     "origin": "富山湾"
+    }
+   ],
+   "images": [
+    "w_drink_soft_deep_sea_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_silica_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "天然水（シリカ含有）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "水分補給",
+    "美容習慣に",
+    "白湯"
+   ],
+   "tax_rate": 8,
+   "description": "火山地帯の地層をくぐり抜けた、シリカを含む天然水です。やわらかくクセのない軟水で、毎日たっぷり飲みたい方に。持ち歩きやすい小容量からまとめ買いに便利なケースまで揃えました。",
+   "image_brief": "A rounded clear plastic bottle of natural water with a white cap and a plain blank pale green label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト シリカ含有 天然水 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "宮崎県霧島山系"
+    },
+    {
+     "title": "Cymbal セレクト シリカ含有 天然水 500ml×24本 ケース",
+     "brand": "Cymbal セレクト",
+     "size": "ケース",
+     "price_tax_excluded": 2580,
+     "origin": "宮崎県霧島山系"
+    },
+    {
+     "title": "Cymbal セレクト シリカ含有 天然水 2L",
+     "brand": "Cymbal セレクト",
+     "size": "2L",
+     "price_tax_excluded": 248,
+     "origin": "宮崎県霧島山系"
+    },
+    {
+     "title": "ホシノミズ シリカ天然水 高濃度 1L",
+     "brand": "ホシノミズ",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "大分県産"
+    },
+    {
+     "title": "ホシノミズ シリカ天然水 高濃度 1L×12本 ケース",
+     "brand": "ホシノミズ",
+     "size": "ケース",
+     "price_tax_excluded": 2180,
+     "origin": "大分県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_silica_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_natural_sparkling_water_bottle",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "天然発泡ミネラルウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食中酒の代わりに",
+    "レストラン気分のディナー",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "地下で自然に炭酸ガスを含んだ、ヨーロッパ産の天然発泡ミネラルウォーターです。きめ細かくやさしい泡と、すっきりした後味が特長。グラス映えする瓶入りで、ホームパーティーや食事のお供に。",
+   "image_brief": "A green glass bottle of sparkling mineral water with a silver crown cap and a plain blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 天然発泡ミネラルウォーター 瓶 330ml",
+     "brand": "Cymbal セレクト",
+     "size": "330ml",
+     "price_tax_excluded": 158,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 天然発泡ミネラルウォーター 瓶 750ml",
+     "brand": "Cymbal セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 268,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 天然発泡ミネラルウォーター 瓶 330ml×24本 ケース",
+     "brand": "Cymbal セレクト",
+     "size": "ケース",
+     "price_tax_excluded": 3580,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Montvert スパークリング ミネラルウォーター ペット 500ml",
+     "brand": "Montvert",
+     "size": "500ml",
+     "price_tax_excluded": 148,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Montvert スパークリング ミネラルウォーター ペット 1L",
+     "brand": "Montvert",
+     "size": "1L",
+     "price_tax_excluded": 228,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_natural_sparkling_water_bottle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_tonic_water",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "トニックウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ノンアルカクテル",
+    "ジントニックの割材",
+    "モクテル",
+    "レモンスカッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "柑橘の香りとほろ苦さがきいた、すっきり甘さ控えめのトニックウォーターです。そのまま飲んでも、ライムを搾ってノンアルコールカクテル風に楽しんでも。割材としても使いやすい定番品です。",
+   "image_brief": "A small clear glass bottle of tonic water with a gold crown cap and a plain blank white label beside a lime wedge, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トニックウォーター 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トニックウォーター 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クラフトトニックウォーター 瓶 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クラフトトニックウォーター 瓶 200ml×4本 パック",
+     "brand": "Cymbal セレクト",
+     "size": "パック",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トニックウォーター カロリーゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_tonic_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_water_bag_in_box",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "大容量・長期保存水"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "防災備蓄",
+    "炊飯",
+    "料理用",
+    "キャンプ"
+   ],
+   "tax_rate": 8,
+   "description": "コック付きの箱型パックに入った大容量の天然水と、長期保存できる備蓄用の水です。そのまま注げるので料理やお茶、炊飯に気兼ねなく使えます。防災用の備えやアウトドアにも便利です。",
+   "image_brief": "A white cardboard box of water with a small plastic spout tap at the bottom front and a plain blank side panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 天然水 バッグインボックス 5L",
+     "brand": "Cymbal",
+     "size": "5L",
+     "price_tax_excluded": 398,
+     "origin": "静岡県富士山麓"
+    },
+    {
+     "title": "Cymbal 天然水 バッグインボックス 10L",
+     "brand": "Cymbal",
+     "size": "10L",
+     "price_tax_excluded": 698,
+     "origin": "静岡県富士山麓"
+    },
+    {
+     "title": "Cymbal ベーシック ピュアウォーター バッグインボックス 10L",
+     "brand": "Cymbal ベーシック",
+     "size": "10L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天然水 長期保存 5年 2L×6本",
+     "brand": "Cymbal",
+     "size": "2L×6本",
+     "price_tax_excluded": 1280,
+     "origin": "鳥取県大山山麓"
+    },
+    {
+     "title": "Cymbal 天然水 長期保存 5年 500ml×24本",
+     "brand": "Cymbal",
+     "size": "500ml×24本",
+     "price_tax_excluded": 2480,
+     "origin": "鳥取県大山山麓"
+    }
+   ],
+   "images": [
+    "w_drink_soft_water_bag_in_box_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_genmaicha_pet",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "玄米茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎりのお供",
+    "和食",
+    "ランチ",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "炒った玄米の香ばしさと緑茶のすっきり感をバランスよく合わせた玄米茶です。苦みが少なく、食事と合わせても飲み疲れしない味わい。抹茶入りの香り高いタイプもご用意しました。",
+   "image_brief": "A clear plastic tea bottle filled with golden-yellow genmaicha, green cap and a plain blank beige label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 香ばし玄米茶 600ml",
+     "brand": "Cymbal",
+     "size": "600ml",
+     "price_tax_excluded": 88,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 香ばし玄米茶 2L",
+     "brand": "Cymbal",
+     "size": "2L",
+     "price_tax_excluded": 158,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 香ばし玄米茶 2L×6本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 898,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト 抹茶入り 玄米茶 525ml",
+     "brand": "Cymbal セレクト",
+     "size": "525ml",
+     "price_tax_excluded": 108,
+     "origin": "京都府産抹茶使用"
+    },
+    {
+     "title": "Cymbal ベーシック 玄米茶 2L",
+     "brand": "Cymbal ベーシック",
+     "size": "2L",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_genmaicha_pet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_koime_ryokucha",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "濃い緑茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "脂っこい食事に",
+    "和菓子のお供",
+    "仕事中のリフレッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "茶葉を多めに使い、しっかりとした渋みと旨みを引き出した濃いめの緑茶です。揚げ物や焼肉など脂のある料理と好相性。持ち歩きやすい小容量や温めて飲めるホット用もあります。",
+   "image_brief": "A clear plastic bottle of deep green tea with a dark green cap and a plain blank dark green label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃いめ緑茶 525ml",
+     "brand": "Cymbal",
+     "size": "525ml",
+     "price_tax_excluded": 98,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 濃いめ緑茶 2L",
+     "brand": "Cymbal",
+     "size": "2L",
+     "price_tax_excluded": 178,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 濃いめ緑茶 ホット用 345ml",
+     "brand": "Cymbal",
+     "size": "345ml",
+     "price_tax_excluded": 98,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト 八女茶 濃い緑茶 玉露入り 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "福岡県八女産茶葉使用"
+    },
+    {
+     "title": "Cymbal 濃いめ緑茶 280ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1680,
+     "origin": "国産茶葉使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_koime_ryokucha_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_sencha_leaf",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "煎茶（茶葉）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食後のお茶",
+    "来客のおもてなし",
+    "お茶漬け",
+    "和菓子"
+   ],
+   "tax_rate": 8,
+   "description": "急須でいれるリーフタイプの煎茶です。産地ごとの個性を楽しめるよう、深蒸しのまろやかなタイプから、香り高い上級煎茶まで揃えました。ご家庭の普段使いにも、ちょっとした手土産にも。",
+   "image_brief": "A standing foil tea pouch in matte green with a plain blank paper label, a small heap of dark green tea leaves in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 静岡 深蒸し煎茶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal 静岡 深蒸し煎茶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal セレクト 知覧 上煎茶 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal セレクト 宇治 煎茶 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 880,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 煎茶 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 煎茶 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_sencha_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_hojicha_leaf",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ほうじ茶（茶葉・ティーバッグ）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "食後のお茶",
+    "ほうじ茶ラテ",
+    "お茶漬け",
+    "和菓子"
+   ],
+   "tax_rate": 8,
+   "description": "強火でじっくり焙じた、香ばしい香りが広がるほうじ茶です。カフェインが比較的少なく渋みも穏やかなので、夜のくつろぎ時間にも。急須用の茶葉と手軽なティーバッグからお選びいただけます。",
+   "image_brief": "A brown kraft tea bag pouch with a plain blank label next to a small pile of roasted brown tea leaves, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 香ばし ほうじ茶 茶葉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ほうじ茶 ティーバッグ 2g×50袋 50袋",
+     "brand": "Cymbal",
+     "size": "50袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 加賀 棒ほうじ茶 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "石川県加工"
+    },
+    {
+     "title": "Cymbal セレクト 京 ほうじ茶 ティーバッグ 3g×20袋 20袋",
+     "brand": "Cymbal セレクト",
+     "size": "20袋",
+     "price_tax_excluded": 498,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 ほうじ茶 ティーバッグ 5g×100袋 100袋",
+     "brand": "Cymbal ベーシック",
+     "size": "100袋",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_hojicha_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_genmaicha_leaf",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "玄米茶（茶葉）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事のお供",
+    "おにぎりと一緒に",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "国産の煎茶に香ばしく炒った玄米をブレンドした茶葉タイプの玄米茶です。熱湯でさっといれても香りがよく立ち、家族みんなで飲みやすい味わい。抹茶入りやティーバッグもあります。",
+   "image_brief": "A clear standing tea pouch showing green tea leaves mixed with toasted brown rice grains, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 玄米茶 茶葉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 抹茶入り 玄米茶 茶葉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 玄米茶 ティーバッグ 2.5g×50袋 50袋",
+     "brand": "Cymbal",
+     "size": "50袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 玄米茶 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶入り 玄米茶 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "京都府産抹茶使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_genmaicha_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_green_tea_bag",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "緑茶ティーバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "水出し",
+    "お弁当のお茶",
+    "急須いらずの一杯"
+   ],
+   "tax_rate": 8,
+   "description": "急須いらずで手軽においしい緑茶がいれられるティーバッグです。冷水ポットに入れるだけの水出し用や、マグカップに便利な一杯用など、暮らしに合わせて使い分けられます。",
+   "image_brief": "A green paper box of pyramid tea bags with one mesh tea bag of green leaves placed in front, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水出し緑茶 ティーバッグ 5g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 緑茶 ティーバッグ 2g×50袋 50袋",
+     "brand": "Cymbal",
+     "size": "50袋",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 抹茶入り 煎茶 三角ティーバッグ 2.5g×20袋 20袋",
+     "brand": "Cymbal セレクト",
+     "size": "20袋",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機緑茶 ティーバッグ 2g×20袋 20袋",
+     "brand": "Cymbal オーガニック",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 緑茶 ティーバッグ 2g×100袋 100袋",
+     "brand": "Cymbal ベーシック",
+     "size": "100袋",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_green_tea_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_matcha_powder",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "抹茶パウダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "抹茶ラテ",
+    "お点前",
+    "抹茶スイーツ",
+    "抹茶ミルク"
+   ],
+   "tax_rate": 8,
+   "description": "石臼で丁寧に挽いた、鮮やかな緑色の抹茶パウダーです。茶筅で点てて楽しむ飲用向けから、ラテやお菓子作りにたっぷり使える製菓用まで。ほろ苦さとふくよかな旨みが広がります。",
+   "image_brief": "A small cylindrical metal tin of matcha with its lid off showing bright green powder and a bamboo scoop beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 宇治抹茶 飲用 缶 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 980,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal セレクト 西尾抹茶 飲用 缶 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 1180,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal 抹茶パウダー 製菓・ラテ用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 抹茶パウダー 製菓・ラテ用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機抹茶 30g",
+     "brand": "Cymbal オーガニック",
+     "size": "30g",
+     "price_tax_excluded": 880,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_matcha_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_instant_green_tea_powder",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "粉末緑茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "オフィスでの一杯",
+    "寿司屋風のお茶",
+    "水筒"
+   ],
+   "tax_rate": 8,
+   "description": "お湯や水にさっと溶けるインスタントの粉末緑茶です。急須の後片付けがいらず、オフィスやアウトドアでも手軽に本格的な味わい。持ち運びに便利なスティックタイプもあります。",
+   "image_brief": "A tall green plastic jar of instant green tea powder beside individual slim stick sachets, all with plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 粉末緑茶 スティック 0.8g×30本 30本",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 398,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 粉末緑茶 ボトル 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 粉末 ほうじ茶 スティック 0.8g×30本 30本",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 398,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト 寿司屋の粉茶 抹茶入り 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 粉末緑茶 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 680,
+     "origin": "国産茶葉使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_instant_green_tea_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_chinese_tea_bag",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "中国茶ティーバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "中華料理",
+    "飲茶",
+    "食後のお茶",
+    "水出し"
+   ],
+   "tax_rate": 8,
+   "description": "鉄観音やプーアル茶など、本場の中国茶を手軽に楽しめるティーバッグです。脂っこい中華料理や点心と相性がよく、香りや深みの違いを飲み比べるのもおすすめ。水出しでもおいしくいれられます。",
+   "image_brief": "A red-and-gold paper box of tea bags with a glass cup of amber oolong tea in front, plain blank box face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鉄観音茶 ティーバッグ 3g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "中国福建省産"
+    },
+    {
+     "title": "Cymbal プーアル茶 ティーバッグ 3g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "中国雲南省産"
+    },
+    {
+     "title": "Cymbal ジャスミン茶 ティーバッグ 2g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 398,
+     "origin": "中国福建省産"
+    },
+    {
+     "title": "Cymbal セレクト 凍頂烏龍茶 ティーバッグ 3g×15袋 15袋",
+     "brand": "Cymbal セレクト",
+     "size": "15袋",
+     "price_tax_excluded": 598,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal セレクト 東方美人茶 リーフ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 980,
+     "origin": "台湾産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_chinese_tea_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_corn_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "コーン茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "韓国料理",
+    "焼肉",
+    "家族の水分補給",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "焙煎したとうもろこしの、ほんのり甘く香ばしい香りが楽しめるノンカフェインのコーン茶です。韓国料理や焼肉と合わせるのはもちろん、お子さまから大人まで家族みんなで飲みやすい味わいです。",
+   "image_brief": "A clear plastic bottle of pale golden corn tea with a yellow cap and a plain blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal とうもろこしのひげ入り コーン茶 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal とうもろこしのひげ入り コーン茶 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーン茶 1.5L×8本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーン茶 ティーバッグ 10g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 398,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル 焙煎コーン茶 ティーバッグ 10g×50袋 50袋",
+     "brand": "ハヌル",
+     "size": "50袋",
+     "price_tax_excluded": 598,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_corn_tea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_decaf_black_tea_bag",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "デカフェ紅茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夜のティータイム",
+    "ミルクティー",
+    "カフェインを控えたいときに",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "紅茶本来の香りとコクを残したまま、カフェインを取り除いたデカフェ紅茶です。寝る前のくつろぎの時間や、カフェインを控えたい方に。ミルクティー向けのコク深いタイプやスティックも揃えました。",
+   "image_brief": "A pastel lavender paper box of tea bags with a white cup of black tea in front, plain blank box face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デカフェ紅茶 ティーバッグ 2g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "Cymbal デカフェ紅茶 ティーバッグ 2g×50袋 50袋",
+     "brand": "Cymbal",
+     "size": "50袋",
+     "price_tax_excluded": 798,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "Cymbal セレクト デカフェ アールグレイ ティーバッグ 2g×20袋 20袋",
+     "brand": "Cymbal セレクト",
+     "size": "20袋",
+     "price_tax_excluded": 498,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト デカフェ アッサム ミルクティー用 ティーバッグ 2.5g×20袋 20袋",
+     "brand": "Cymbal セレクト",
+     "size": "20袋",
+     "price_tax_excluded": 498,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal デカフェ ミルクティー スティック 13g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_decaf_black_tea_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_flavored_black_tea_bag",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "フレーバー紅茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "アフタヌーンティー",
+    "アイスティー",
+    "おもてなし",
+    "スイーツのお供"
+   ],
+   "tax_rate": 8,
+   "description": "華やかな香りを楽しめるフレーバー紅茶のティーバッグです。ベルガモットの香るアールグレイ、甘い香りのアップルやピーチなど、気分に合わせて選べます。アイスティーにしても香りが引き立ちます。",
+   "image_brief": "A row of three pastel paper tea boxes in pink, green and blue with a glass teapot of amber tea, all labels plain blank, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アールグレイ ティーバッグ 2g×25袋 25袋",
+     "brand": "Cymbal",
+     "size": "25袋",
+     "price_tax_excluded": 298,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal アップルティー ティーバッグ 2g×25袋 25袋",
+     "brand": "Cymbal",
+     "size": "25袋",
+     "price_tax_excluded": 298,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal ピーチティー ティーバッグ 2g×25袋 25袋",
+     "brand": "Cymbal",
+     "size": "25袋",
+     "price_tax_excluded": 298,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト マスカットフレーバー 紅茶 三角ティーバッグ 2.5g×15袋 15袋",
+     "brand": "Cymbal セレクト",
+     "size": "15袋",
+     "price_tax_excluded": 498,
+     "origin": "インド産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト キャラメル ルイボス&紅茶 ティーバッグ 2g×15袋 15袋",
+     "brand": "Cymbal セレクト",
+     "size": "15袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Rosewell Tea ベリーミックス 紅茶 ティーバッグ 2g×20袋 20袋",
+     "brand": "Rosewell Tea",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製"
+    }
+   ],
+   "images": [
+    "w_drink_soft_flavored_black_tea_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_black_tea_leaf",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "紅茶リーフ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ティーポットで",
+    "ロイヤルミルクティー",
+    "アイスティー",
+    "チャイ"
+   ],
+   "tax_rate": 8,
+   "description": "ティーポットでじっくり蒸らして楽しむ、産地別の紅茶リーフです。マスカテルフレーバーのダージリン、コク深いアッサム、すっきりしたセイロンなど、個性の違いを楽しめるラインナップです。",
+   "image_brief": "A round metal tea caddy in deep red with lid open showing black tea leaves, a small pile of leaves beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ダージリン リーフ 缶 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 1280,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト アッサム CTC リーフ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 880,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セイロン ウバ リーフ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "Cymbal イングリッシュブレンド リーフ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "スリランカ・インド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 アールグレイ リーフ 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 798,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト 和紅茶 リーフ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 880,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_black_tea_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_straight_tea_pet",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "ストレートティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スイーツのお供",
+    "ランチ",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "香り高い紅茶葉を使い、ほんのり甘く仕上げたストレートティーです。すっきりした後味で、洋菓子やサンドイッチと合わせてもおいしい一本。紙パックやケースでのまとめ買いも便利です。",
+   "image_brief": "A clear plastic bottle of reddish-amber sweetened black tea with a red cap and a plain blank ivory label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ストレートティー 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal ストレートティー 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 158,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal ストレートティー 紙パック 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 128,
+     "origin": "スリランカ産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト ダージリン ストレートティー 甘さひかえめ 470ml",
+     "brand": "Cymbal セレクト",
+     "size": "470ml",
+     "price_tax_excluded": 118,
+     "origin": "インド産茶葉使用"
+    },
+    {
+     "title": "Cymbal ストレートティー 500ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1880,
+     "origin": "スリランカ産茶葉使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_straight_tea_pet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_royal_milk_tea_powder",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ミルクティー・チャイパウダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットドリンク",
+    "おやつ時間",
+    "オフィス",
+    "アイスミルクティー"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注ぐだけで濃厚なロイヤルミルクティーやスパイス香るチャイが楽しめるパウダーです。寒い季節の温かい一杯にぴったり。個包装スティックなので職場や旅行先にも気軽に持っていけます。",
+   "image_brief": "A cream-colored box of stick sachets beside a mug of creamy milk tea topped with a sprinkle of cinnamon, plain blank box face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ロイヤルミルクティー スティック 14g×20本 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロイヤルミルクティー 袋 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイスチャイ スティック 14g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 アッサムミルクティー スティック 18g×8本 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロイヤルミルクティー 甘さひかえめ スティック 12g×20本 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_royal_milk_tea_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_herbal_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ハーブティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "リラックスタイム",
+    "夜のくつろぎ",
+    "アイスハーブティー",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "やさしい香りに癒されるハーブティーのティーバッグです。りんごのような香りのカモミール、清涼感のあるペパーミント、鮮やかな色のハイビスカスなど。ノンカフェインで時間を選ばず楽しめます。",
+   "image_brief": "A clear glass mug of pale yellow herbal tea with a mesh tea bag and dried chamomile flowers beside a plain kraft box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カモミール ティーバッグ 1.5g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "Cymbal ペパーミント ティーバッグ 1.5g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ハイビスカス&ローズヒップ ティーバッグ 2g×20袋 20袋",
+     "brand": "Cymbal",
+     "size": "20袋",
+     "price_tax_excluded": 398,
+     "origin": "スーダン・チリ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 レモングラス&ジンジャー ティーバッグ 1.5g×15袋 15袋",
+     "brand": "Cymbal オーガニック",
+     "size": "15袋",
+     "price_tax_excluded": 498,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ブレンドハーブ おやすみ ティーバッグ 1.5g×15袋 15袋",
+     "brand": "Cymbal オーガニック",
+     "size": "15袋",
+     "price_tax_excluded": 498,
+     "origin": "ドイツ製"
+    }
+   ],
+   "images": [
+    "w_drink_soft_herbal_tea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_kombucha_powder",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "昆布茶・梅こぶ茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お茶漬け",
+    "浅漬け",
+    "炒め物の隠し味",
+    "ほっと一息"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産昆布の旨みが溶け出す、ほっとする味わいの昆布茶です。お湯に溶かして飲むだけでなく、浅漬けやパスタ、炒め物の味付けにも重宝します。梅の酸味が爽やかな梅こぶ茶もどうぞ。",
+   "image_brief": "A small round plastic canister of fine pale yellow kelp tea granules with a scoop and a teacup beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 昆布茶 缶 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 梅こぶ茶 缶 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal 梅こぶ茶 スティック 2g×24本 24本",
+     "brand": "Cymbal",
+     "size": "24本",
+     "price_tax_excluded": 348,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 日高昆布 昆布茶 袋 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "北海道日高産昆布使用"
+    },
+    {
+     "title": "Cymbal しいたけ茶 スティック 2g×20本 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 348,
+     "origin": "国産しいたけ使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_kombucha_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_yuzu_tea_jam",
+   "category_path": [
+    "飲料・水",
+    "その他飲料",
+    "ゆず茶・柑橘茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットドリンク",
+    "ヨーグルトのトッピング",
+    "炭酸割り",
+    "トーストに"
+   ],
+   "tax_rate": 8,
+   "description": "刻んだゆずの皮と果肉をはちみつで漬け込んだ、韓国風のゆず茶です。お湯に溶かすと甘酸っぱい香りがふわっと広がり、寒い日の体を温めます。ヨーグルトや炭酸割り、トーストにも使えます。",
+   "image_brief": "A wide glass jar filled with golden yuzu citrus marmalade-like tea with a white lid and a plain blank label, a steaming cup beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal はちみつ入り ゆず茶 瓶 480g",
+     "brand": "Cymbal",
+     "size": "480g",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "Cymbal はちみつ入り ゆず茶 瓶 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 880,
+     "origin": "韓国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産ゆず茶 瓶 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "高知県産ゆず使用"
+    },
+    {
+     "title": "Cymbal ゆず茶 スティック 30g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル はちみつレモン茶 瓶 480g",
+     "brand": "ハヌル",
+     "size": "480g",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル なつめ茶 スティック 15g×15本 15本",
+     "brand": "ハヌル",
+     "size": "15本",
+     "price_tax_excluded": 598,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_yuzu_tea_jam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_shogayu",
+   "category_path": [
+    "飲料・水",
+    "その他飲料",
+    "しょうが湯・葛湯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "寒い日のホットドリンク",
+    "おやすみ前",
+    "受験勉強の夜食に"
+   ],
+   "tax_rate": 8,
+   "description": "国産しょうがを使った、体の芯からぽかぽか温まるしょうが湯です。とろみがあってやさしい甘さ。お湯を注ぐだけの個包装で、寒い季節の一杯やほっとしたい夜に。葛湯や黒糖入りもあります。",
+   "image_brief": "A small cardboard box of individual sachets with a ceramic cup of cloudy amber ginger drink in front, plain blank box face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産しょうが湯 20g×6袋 6袋",
+     "brand": "Cymbal",
+     "size": "6袋",
+     "price_tax_excluded": 298,
+     "origin": "国産しょうが使用"
+    },
+    {
+     "title": "Cymbal 国産しょうが湯 20g×12袋 12袋",
+     "brand": "Cymbal",
+     "size": "12袋",
+     "price_tax_excluded": 548,
+     "origin": "国産しょうが使用"
+    },
+    {
+     "title": "Cymbal 黒糖しょうが湯 20g×6袋 6袋",
+     "brand": "Cymbal",
+     "size": "6袋",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "Cymbal セレクト 本葛湯 抹茶 20g×5袋 5袋",
+     "brand": "Cymbal セレクト",
+     "size": "5袋",
+     "price_tax_excluded": 398,
+     "origin": "国産本葛使用"
+    },
+    {
+     "title": "Cymbal はちみつ しょうが湯 15g×10袋 10袋",
+     "brand": "Cymbal",
+     "size": "10袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_shogayu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_matcha_hojicha_latte_powder",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "抹茶ラテ・ほうじ茶ラテ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "カフェ風ドリンク",
+    "おやつ時間",
+    "アイスラテ",
+    "オフィス"
+   ],
+   "tax_rate": 8,
+   "description": "お湯や牛乳に溶かすだけで、カフェのような抹茶ラテやほうじ茶ラテが楽しめるパウダーです。茶葉の香りとミルクのコクのバランスがよく、甘さ控えめタイプも。ホットでもアイスでもおいしく作れます。",
+   "image_brief": "A green and brown pair of stand-up pouches next to a glass of layered matcha latte, all labels plain blank, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 抹茶ラテ スティック 12g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 298,
+     "origin": "国産抹茶使用"
+    },
+    {
+     "title": "Cymbal ほうじ茶ラテ スティック 12g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 298,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal 抹茶ラテ 袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産抹茶使用"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶ラテ 甘さひかえめ スティック 14g×8本 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 398,
+     "origin": "京都府産抹茶使用"
+    },
+    {
+     "title": "Cymbal セレクト 加賀棒茶ラテ スティック 14g×8本 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 398,
+     "origin": "石川県加工"
+    }
+   ],
+   "images": [
+    "w_drink_soft_matcha_hojicha_latte_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_health_tea_blend_bag",
+   "category_path": [
+    "飲料・水",
+    "健康茶・青汁",
+    "健康茶ティーバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食事のお供",
+    "水出し",
+    "ノンカフェインの水分補給"
+   ],
+   "tax_rate": 8,
+   "description": "昔ながらの素材を使った、ノンカフェインの健康茶ティーバッグです。香ばしいごぼう茶、すっきりした杜仲茶、独特の風味のどくだみ茶など。煮出しても水出しでも楽しめ、毎日の水分補給に。",
+   "image_brief": "A kraft paper zip pouch of tea bags with a few dried herb and root pieces scattered in front, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産ごぼう茶 ティーバッグ 1g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 498,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "Cymbal 杜仲茶 ティーバッグ 3g×40袋 40袋",
+     "brand": "Cymbal",
+     "size": "40袋",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal どくだみ茶 ティーバッグ 3g×40袋 40袋",
+     "brand": "Cymbal",
+     "size": "40袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 はと麦&黒豆 ブレンド茶 ティーバッグ 8g×24袋 24袋",
+     "brand": "Cymbal セレクト",
+     "size": "24袋",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 グァバ葉茶 ティーバッグ 2g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 598,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_health_tea_blend_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_soba_tea",
+   "category_path": [
+    "飲料・水",
+    "健康茶・青汁",
+    "そば茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "食後のお茶",
+    "そばの実をトッピング",
+    "年越しそばと一緒に"
+   ],
+   "tax_rate": 8,
+   "description": "そばの実を香ばしく焙煎した、ほのかな甘みのあるそば茶です。ノンカフェインで食事にも合わせやすく、お茶を飲んだ後の実はサラダのトッピングにも。※そばアレルギーの方はお控えください。",
+   "image_brief": "A clear stand-up pouch of toasted brown buckwheat kernels with a glass teapot of golden tea beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal そば茶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産そばの実使用"
+    },
+    {
+     "title": "Cymbal そば茶 ティーバッグ 5g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 498,
+     "origin": "国産そばの実使用"
+    },
+    {
+     "title": "Cymbal セレクト 韃靼そば茶 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 韃靼そば茶 ティーバッグ 5g×30袋 30袋",
+     "brand": "Cymbal セレクト",
+     "size": "30袋",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 徳用 そば茶 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_soba_tea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_barley_tea_mineral",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "ミネラル麦茶（小容量・紙パック）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "お弁当",
+    "部活動",
+    "お子さまの水分補給"
+   ],
+   "tax_rate": 8,
+   "description": "海洋ミネラルを加えた、すっきり飲みやすいノンカフェインの麦茶です。持ち歩きに便利な小容量ボトルや、お弁当やお出かけに使いやすい紙パックをご用意。暑い季節の水分補給に家族みんなで。",
+   "image_brief": "A small clear bottle of amber barley tea with a brown cap next to a slim paper drink box with straw, plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミネラル麦茶 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミネラル麦茶 紙パック 250ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミネラル麦茶 650ml",
+     "brand": "Cymbal",
+     "size": "650ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミネラル麦茶 650ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミネラル麦茶 キッズ 紙パック 125ml×3本 3本",
+     "brand": "Cymbal",
+     "size": "3本",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_barley_tea_mineral_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_sparkling_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "スパークリングティー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事のお供",
+    "パーティー",
+    "ノンアルコールの乾杯"
+   ],
+   "tax_rate": 8,
+   "description": "緑茶やジャスミン茶、紅茶に炭酸を合わせた、甘くないスパークリングティーです。お茶の香りと炭酸の爽快感で食事がすっきり進みます。ノンアルコールの乾杯ドリンクとしてもおすすめです。",
+   "image_brief": "A tall clear glass bottle of pale golden sparkling tea with a black cap and fine bubbles, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スパークリング緑茶 無糖 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "Cymbal スパークリングジャスミン 無糖 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト スパークリング ダージリン 瓶 750ml",
+     "brand": "Cymbal セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 880,
+     "origin": "インド産茶葉使用"
+    },
+    {
+     "title": "Cymbal セレクト スパークリング 玉露 瓶 330ml",
+     "brand": "Cymbal セレクト",
+     "size": "330ml",
+     "price_tax_excluded": 498,
+     "origin": "福岡県八女産茶葉使用"
+    },
+    {
+     "title": "Cymbal スパークリング緑茶 無糖 500ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 2780,
+     "origin": "国産茶葉使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_sparkling_tea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_kuromame_kokuto_drink",
+   "category_path": [
+    "飲料・水",
+    "その他飲料",
+    "黒豆・黒糖ドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットドリンク",
+    "和スイーツのお供",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "国産黒豆のきなこや沖縄の黒糖を使った、ほっとする和風のホットドリンクです。香ばしくやさしい甘さで、お湯でも牛乳でもおいしくいただけます。寒い季節のおやつ時間にぴったりの一杯です。",
+   "image_brief": "A beige box of stick sachets beside a ceramic cup of warm tan kinako drink, plain blank box face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒豆きなこドリンク スティック 15g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 348,
+     "origin": "国産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 黒糖しょうがドリンク スティック 15g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 348,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "Cymbal 黒ごまきなこドリンク 袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒豆茶ラテ スティック 14g×8本 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県丹波産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_kuromame_kokuto_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_cafe_au_lait_carton",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "カフェオレ（チルド）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "アイスカフェオレ"
+   ],
+   "tax_rate": 8,
+   "description": "コーヒーと牛乳をバランスよく合わせた、まろやかな紙パックのカフェオレです。冷蔵庫に常備して朝食やおやつの時間に。甘さ控えめタイプや、ミルクたっぷりの北海道牛乳使用タイプもあります。",
+   "image_brief": "A gabled paper milk carton in brown and cream with a glass of iced café au lait beside it, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カフェオレ 紙パック 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェオレ 甘さひかえめ 紙パック 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェオレ 紙パック 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道牛乳使用 カフェオレ 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 228,
+     "origin": "北海道産生乳使用"
+    },
+    {
+     "title": "Cymbal ベーシック コーヒー 乳飲料 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_cafe_au_lait_carton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_chilled_cup_latte",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "チルドカップコーヒー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "通勤のお供",
+    "ランチ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ストロー付きのカップで手軽に楽しめる、冷蔵のカフェラテです。エスプレッソのキレとミルクのまろやかさがバランスよく、甘さの違いで選べます。キャラメルや抹茶などの風味も人気です。",
+   "image_brief": "A plastic chilled coffee cup with a peel-off foil lid and a straw attached on the side, light brown latte visible, plain blank sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カフェラテ カップ 240ml",
+     "brand": "Cymbal",
+     "size": "240ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェラテ 甘さひかえめ カップ 240ml",
+     "brand": "Cymbal",
+     "size": "240ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エスプレッソラテ ビター カップ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キャラメルラテ カップ 240ml",
+     "brand": "Cymbal",
+     "size": "240ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶ラテ カップ 240ml",
+     "brand": "Cymbal セレクト",
+     "size": "240ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_chilled_cup_latte_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_coffee_pet_small",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "ペットボトルコーヒー（小容量）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デスクワーク",
+    "通勤",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "少しずつ飲めて持ち歩きに便利な、小容量ペットボトルのコーヒーです。すっきりしたブラックや、ミルクのコクを感じるカフェラテなど。デスクワークのお供にもぴったりの飲みきりサイズです。",
+   "image_brief": "A short squat clear plastic bottle of dark coffee and one of light brown latte with brown caps and plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ブラックコーヒー ペット 280ml",
+     "brand": "Cymbal",
+     "size": "280ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェラテ ペット 280ml",
+     "brand": "Cymbal",
+     "size": "280ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブラックコーヒー ペット 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブラックコーヒー ペット 280ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラテ エスプレッソ ダブルショット ペット 280ml",
+     "brand": "Cymbal セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_coffee_pet_small_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_decaf_instant_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "カフェインレスインスタントコーヒー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夜のコーヒータイム",
+    "カフェオレ",
+    "カフェインを控えたいときに"
+   ],
+   "tax_rate": 8,
+   "description": "カフェインを97%以上取り除いた、カフェインレスのインスタントコーヒーです。コーヒーらしい香りとコクはそのままに、夜や体調に合わせて楽しめます。瓶タイプと個包装スティックを揃えました。",
+   "image_brief": "A clear glass jar with a brown screw lid filled with freeze-dried coffee granules and a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カフェインレス インスタントコーヒー 瓶 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェインレス インスタントコーヒー 詰替 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェインレス スティックコーヒー 2g×20本 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カフェインレス フリーズドライ コロンビア 瓶 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 880,
+     "origin": "コロンビア産豆使用"
+    },
+    {
+     "title": "Cymbal カフェインレス カフェオレ スティック 14g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_decaf_instant_coffee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_decaf_drip_bag",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "カフェインレスドリップバッグ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "夜のコーヒータイム",
+    "スイーツのお供",
+    "職場で"
+   ],
+   "tax_rate": 8,
+   "description": "マグカップにかけてお湯を注ぐだけのカフェインレスのドリップバッグです。挽きたてのような香りと、すっきりした後味が特長。カフェインが気になる方や、夕食後のくつろぎの一杯にどうぞ。",
+   "image_brief": "A small rectangular paper box of single-serve drip coffee bags with one bag hooked on a white mug, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カフェインレス ドリップコーヒー 7g×10袋 10袋",
+     "brand": "Cymbal",
+     "size": "10袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェインレス ドリップコーヒー 7g×30袋 30袋",
+     "brand": "Cymbal",
+     "size": "30袋",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カフェインレス ドリップ エチオピア 8g×8袋 8袋",
+     "brand": "Cymbal セレクト",
+     "size": "8袋",
+     "price_tax_excluded": 498,
+     "origin": "エチオピア産豆使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 カフェインレス ドリップ 8g×8袋 8袋",
+     "brand": "Cymbal オーガニック",
+     "size": "8袋",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産豆使用"
+    },
+    {
+     "title": "Torimi Coffee Works デカフェ ブレンド ドリップ 10g×6袋 6袋",
+     "brand": "Torimi Coffee Works",
+     "size": "6袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_decaf_drip_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_black_stick_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "スティックコーヒー（ブラック）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オフィス",
+    "アウトドア",
+    "アイスコーヒー",
+    "旅行"
+   ],
+   "tax_rate": 8,
+   "description": "1杯分ずつ個包装になった、ブラックのスティックコーヒーです。お湯でも水でもさっと溶け、職場やアウトドアで手軽に本格的な味わい。深煎りやアイス用など、好みや季節で選べます。",
+   "image_brief": "A paper box of slim brown stick sachets with a few sticks fanned out in front and a black coffee cup, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スティックブラック 2g×30本 30本",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックブラック 2g×60本 60本",
+     "brand": "Cymbal",
+     "size": "60本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックブラック 深煎り 2g×30本 30本",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックブラック 水に溶ける アイス用 2g×20本 20本",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト スティックブラック キリマンジャロ 2g×20本 20本",
+     "brand": "Cymbal セレクト",
+     "size": "20本",
+     "price_tax_excluded": 498,
+     "origin": "タンザニア産豆使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_black_stick_coffee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_single_origin_beans",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "シングルオリジンコーヒー豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンドドリップ",
+    "フレンチプレス",
+    "朝の一杯",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "単一の産地や農園にこだわったシングルオリジンのコーヒー豆です。華やかな香りのエチオピア、ナッツのようなブラジル、酸味と甘みの調和したグアテマラなど。産地ごとの個性をお楽しみください。",
+   "image_brief": "A matte black valve coffee bag standing upright with roasted coffee beans spilled in front, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト エチオピア イルガチェフェ 豆 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "エチオピア産"
+    },
+    {
+     "title": "Cymbal セレクト ブラジル セラード 豆 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 880,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト グアテマラ アンティグア 豆 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "グアテマラ産"
+    },
+    {
+     "title": "Cymbal セレクト コスタリカ ハニー 豆 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1180,
+     "origin": "コスタリカ産"
+    },
+    {
+     "title": "Torimi Coffee Works インドネシア マンデリン 深煎り 豆 200g",
+     "brand": "Torimi Coffee Works",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ペルー 中煎り 豆 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "ペルー産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_single_origin_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_iced_coffee_ground",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "アイスコーヒー用粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "アイスコーヒー",
+    "コーヒーゼリー",
+    "アイスカフェオレ"
+   ],
+   "tax_rate": 8,
+   "description": "氷で冷やしても味がぼやけないよう、深煎りに焙煎したアイスコーヒー専用の粉です。キレのある苦みと香ばしさが特長。コーヒーゼリーやアイスカフェオレ作りにもおすすめです。",
+   "image_brief": "A dark brown foil bag of ground coffee standing next to a tall glass of iced black coffee with ice cubes, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アイスコーヒー用 深煎り 粉 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フレンチロースト アイスブレンド 粉 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック アイスコーヒー 粉 徳用 750g",
+     "brand": "Cymbal ベーシック",
+     "size": "750g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_iced_coffee_ground_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_coffee_base_portion",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "コーヒーポーション・希釈用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "アイスカフェオレ",
+    "コーヒーゼリー",
+    "アフォガート",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "水や牛乳で割るだけでコーヒーが作れる、濃縮タイプのポーションとボトルです。1個で1杯分のポーションは計量いらずで便利。カフェオレやアレンジドリンク、デザート作りにも活躍します。",
+   "image_brief": "A clear plastic tray of small sealed coffee portion cups beside a short concentrate bottle, all labels plain blank, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コーヒーポーション 無糖 18g×8個 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒーポーション 甘さひかえめ 18g×8個 8個",
+     "brand": "Cymbal",
+     "size": "8個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒーポーション 無糖 18g×24個 24個",
+     "brand": "Cymbal",
+     "size": "24個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カフェベース 希釈用 無糖 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カフェベース 希釈用 キャラメル 340ml",
+     "brand": "Cymbal セレクト",
+     "size": "340ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_coffee_base_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_cold_brew_coffee_pack",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "水出しコーヒーパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "アイスコーヒー",
+    "作り置き",
+    "カフェオレ"
+   ],
+   "tax_rate": 8,
+   "description": "ポットに入れて水を注ぎ、冷蔵庫で一晩置くだけで、まろやかな水出しコーヒーができるパックです。苦みや雑味が出にくく、すっきりとした甘みが特長。暑い季節の作り置きにぴったりです。",
+   "image_brief": "A clear plastic pitcher of dark cold brew coffee with a white mesh coffee pack floating inside and a plain blank pouch beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水出しコーヒー 30g×4袋 4袋",
+     "brand": "Cymbal",
+     "size": "4袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 水出しコーヒー 30g×8袋 8袋",
+     "brand": "Cymbal",
+     "size": "8袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 水出しコーヒー グアテマラ 35g×4袋 4袋",
+     "brand": "Cymbal セレクト",
+     "size": "4袋",
+     "price_tax_excluded": 598,
+     "origin": "グアテマラ産豆使用"
+    },
+    {
+     "title": "Cymbal 水出し カフェインレスコーヒー 30g×4袋 4袋",
+     "brand": "Cymbal",
+     "size": "4袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Torimi Coffee Works コールドブリュー ブレンド 40g×3袋 3袋",
+     "brand": "Torimi Coffee Works",
+     "size": "3袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_cold_brew_coffee_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_grain_coffee",
+   "category_path": [
+    "飲料・水",
+    "コーヒー",
+    "穀物コーヒー・たんぽぽコーヒー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ノンカフェインの一杯",
+    "ミルク割り",
+    "夜のくつろぎ"
+   ],
+   "tax_rate": 8,
+   "description": "大麦やチコリ、たんぽぽの根を焙煎した、コーヒー風味のノンカフェイン飲料です。香ばしくほろ苦い味わいで、ミルクを加えるとまろやかに。カフェインを控えたいときの一杯におすすめです。",
+   "image_brief": "A short glass jar of dark brown roasted grain coffee granules beside a mug of milky drink, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 穀物コーヒー インスタント 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "フランス製"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 たんぽぽコーヒー ティーバッグ 2g×20袋 20袋",
+     "brand": "Cymbal オーガニック",
+     "size": "20袋",
+     "price_tax_excluded": 698,
+     "origin": "ポーランド産"
+    },
+    {
+     "title": "Cymbal たんぽぽコーヒー インスタント 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 チコリコーヒー インスタント 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 798,
+     "origin": "フランス製"
+    },
+    {
+     "title": "Cymbal 黒豆コーヒー ティーバッグ 5g×15袋 15袋",
+     "brand": "Cymbal",
+     "size": "15袋",
+     "price_tax_excluded": 498,
+     "origin": "国産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_grain_coffee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_energy_drink",
+   "category_path": [
+    "飲料・水",
+    "栄養・機能性飲料",
+    "エナジードリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "仕事の合間",
+    "勉強中",
+    "ドライブ",
+    "スポーツ観戦"
+   ],
+   "tax_rate": 8,
+   "description": "炭酸の刺激とフルーティーな甘さで気分を切り替えたいときにぴったりのエナジードリンクです。カフェインやアルギニン、ビタミンB群を配合。カロリーゼロや大容量缶もご用意しました。",
+   "image_brief": "A tall slim aluminum can in metallic electric blue with silver accents and no text, condensation droplets, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal エナジードリンク 缶 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エナジードリンク ゼロ 缶 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エナジードリンク 缶 355ml",
+     "brand": "Cymbal",
+     "size": "355ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エナジードリンク 250ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 2880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "VOLTRIX エナジーソーダ トロピカル 缶 500ml",
+     "brand": "VOLTRIX",
+     "size": "500ml",
+     "price_tax_excluded": 228,
+     "origin": "オーストリア製"
+    }
+   ],
+   "images": [
+    "w_drink_soft_energy_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_milky_soda",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "乳性炭酸飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "おやつ",
+    "クリームソーダ"
+   ],
+   "tax_rate": 8,
+   "description": "乳成分のまろやかさと炭酸のシュワっと感を合わせた、甘酸っぱい乳性炭酸飲料です。クリーミーなのに後味はさっぱり。お風呂上がりやおやつタイムに、お子さまにも大人にも人気の味わいです。",
+   "image_brief": "A clear plastic bottle of milky-white carbonated drink with a blue cap and a plain blank white-and-blue label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乳性ソーダ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳性ソーダ 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳性ソーダ メロン 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳性ソーダ 缶 350ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳性ソーダ ゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_milky_soda_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_vitamin_soda_mini",
+   "category_path": [
+    "飲料・水",
+    "栄養・機能性飲料",
+    "ビタミン炭酸飲料（小びん）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝のリフレッシュ",
+    "仕事の合間",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "小さな茶色い瓶に入った、ビタミンCたっぷりの微炭酸飲料です。甘酸っぱくすっきりした味わいで、ひと息つきたいときにぴったり。冷やして飲むのがおすすめ。まとめ買いできるパックもあります。",
+   "image_brief": "A small brown glass bottle with a gold screw cap and a plain blank yellow label, beside a 10-bottle cardboard carrier, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビタミンC 微炭酸 小びん 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビタミンC 微炭酸 小びん 120ml×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビタミンC 微炭酸 ゼロ 小びん 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビタミン微炭酸 ペット 160ml",
+     "brand": "Cymbal",
+     "size": "160ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ローヤルゼリー入り 微炭酸 小びん 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_vitamin_soda_mini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_craft_cola_syrup",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "クラフトコーラシロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "炭酸割り",
+    "ホットコーラ",
+    "ミルク割り",
+    "モクテル"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスや柑橘、きび砂糖でつくった希釈用のクラフトコーラシロップです。炭酸水で割れば香り高い自家製コーラに。お湯で割るホットコーラや、ミルク割り、かき氷のシロップとしても楽しめます。",
+   "image_brief": "A small apothecary-style glass bottle of dark brown syrup with a cork-like cap beside a glass of cola over ice with a lemon slice, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト クラフトコーラシロップ 瓶 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クラフトコーラシロップ 瓶 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーラシロップ 希釈用 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クラフトジンジャーシロップ 瓶 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "高知県産しょうが使用"
+    },
+    {
+     "title": "Cymbal セレクト クラフトコーラシロップ 黒糖 瓶 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "沖縄県産黒糖使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_craft_cola_syrup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_local_cider_bottle",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "ご当地サイダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お土産",
+    "ギフト",
+    "バーベキュー",
+    "夏祭り"
+   ],
+   "tax_rate": 8,
+   "description": "各地の果実を使った、昔ながらの瓶入りご当地サイダーです。りんご、白桃、ゆず、みかんなど、それぞれの果実の香りがふわっと広がるやさしい甘さ。見た目もかわいく、手土産やギフトにも喜ばれます。",
+   "image_brief": "A row of small retro glass soda bottles in pastel tints with crown caps and plain blank paper labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ヤマカゼ飲料 青森りんごサイダー 瓶 200ml",
+     "brand": "ヤマカゼ飲料",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "青森県産りんご果汁使用"
+    },
+    {
+     "title": "ヤマカゼ飲料 白桃サイダー 瓶 200ml",
+     "brand": "ヤマカゼ飲料",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "山梨県産もも果汁使用"
+    },
+    {
+     "title": "ヤマカゼ飲料 ゆずサイダー 瓶 200ml",
+     "brand": "ヤマカゼ飲料",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "高知県産ゆず果汁使用"
+    },
+    {
+     "title": "ヤマカゼ飲料 みかんサイダー 瓶 200ml",
+     "brand": "ヤマカゼ飲料",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "愛媛県産みかん果汁使用"
+    },
+    {
+     "title": "ヤマカゼ飲料 ご当地サイダー 飲み比べ 200ml×4本 4本",
+     "brand": "ヤマカゼ飲料",
+     "size": "4本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_local_cider_bottle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_lemon_squash_soda",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "レモンスカッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事のお供",
+    "暑い日のリフレッシュ",
+    "喫茶店風ドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "レモン果汁を使った、甘酸っぱく爽快なレモンスカッシュです。強めの炭酸ではじける喉ごしと、すっきりとした後味が特長。喫茶店のような懐かしい味わいを、ご家庭で手軽にどうぞ。",
+   "image_brief": "A clear plastic bottle of pale yellow lemon soda with a yellow cap and fresh lemon slices beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レモンスカッシュ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモンスカッシュ 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモンスカッシュ 缶 350ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内レモンスカッシュ 瓶 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 198,
+     "origin": "広島県産レモン果汁使用"
+    },
+    {
+     "title": "Cymbal レモンスカッシュ ゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_lemon_squash_soda_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_grapefruit_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "グレープフルーツジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "炭酸割り",
+    "サラダドレッシング"
+   ],
+   "tax_rate": 8,
+   "description": "グレープフルーツをしぼった、果汁100%のジュースです。ほどよい酸味と心地よいほろ苦さで、朝食や食後に爽やかな気分に。ピンクグレープフルーツのまろやかなタイプもご用意しています。",
+   "image_brief": "A tall paper juice carton in pale yellow with a screw cap beside a halved grapefruit, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピンクグレープフルーツジュース 果汁100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 218,
+     "origin": "イスラエル産果汁使用"
+    },
+    {
+     "title": "Cymbal グレープフルーツジュース 果汁100% 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 348,
+     "origin": "南アフリカ産果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト ストレート グレープフルーツジュース 900ml",
+     "brand": "Cymbal セレクト",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal グレープフルーツジュース 果汁100% 1L×6本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1180,
+     "origin": "南アフリカ産果汁使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_grapefruit_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_tomato_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース・果汁飲料",
+    "トマトジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "トマトカクテル風",
+    "冷製スープ",
+    "リゾットの素に"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトをたっぷり使ったトマトジュースです。トマト本来の甘みと酸味を楽しめる食塩無添加と、飲みやすい有塩タイプを用意。料理のスープベースやトマトカクテル風アレンジにも使えます。",
+   "image_brief": "A red paper juice carton and a small red can side by side with a ripe tomato, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トマトジュース 食塩無添加 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトジュース 有塩 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトジュース 食塩無添加 缶 190g×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産完熟トマトジュース ストレート 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "北海道産トマト使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機トマトジュース 食塩無添加 720ml",
+     "brand": "Cymbal オーガニック",
+     "size": "720ml",
+     "price_tax_excluded": 498,
+     "origin": "イタリア産トマト使用"
+    },
+    {
+     "title": "Cymbal トマトジュース 食塩無添加 200ml×12本 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_tomato_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_carrot_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース・果汁飲料",
+    "にんじんジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お子さまのおやつ",
+    "スムージーのベースに"
+   ],
+   "tax_rate": 8,
+   "description": "にんじんの自然な甘さを生かした、飲みやすいにんじんジュースです。りんごやレモン果汁を合わせたタイプは、野菜が苦手なお子さまにもおすすめ。朝食の一杯やスムージー作りにどうぞ。",
+   "image_brief": "A bright orange paper juice carton with a screw cap beside fresh carrots, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal にんじんジュース 100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal にんじん&りんごミックス 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal にんじんジュース 100% 200ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産にんじん ストレートジュース 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 598,
+     "origin": "北海道産にんじん使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機にんじんジュース 500ml",
+     "brand": "Cymbal オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_carrot_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_pineapple_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "パインアップルジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "トロピカルドリンク",
+    "肉の下ごしらえ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "南国のパインアップルをしぼった、甘酸っぱくジューシーな果汁100%ジュースです。そのまま飲むのはもちろん、炭酸割りやトロピカルドリンク、肉をやわらかくする下ごしらえにも使えます。",
+   "image_brief": "A golden yellow paper juice carton with a screw cap next to a whole pineapple, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal パインアップルジュース 果汁100% 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 348,
+     "origin": "タイ産果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産 パインアップルジュース 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "Cymbal パイン&マンゴー ミックス 果汁100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 218,
+     "origin": "タイ・フィリピン産果汁使用"
+    },
+    {
+     "title": "Cymbal パインアップルジュース 果汁100% 缶 160g×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産果汁使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_pineapple_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_nectar",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "ネクター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザートドリンク",
+    "お子さまのおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "果肉をなめらかに裏ごしした、とろりと濃厚なネクタータイプの果実飲料です。白桃や洋なし、マンゴーなど果物そのものを味わうような甘さ。冷やしてデザート感覚で楽しめます。",
+   "image_brief": "A short yellow-peach colored steel can and a small bottle of thick fruit nectar with a peach beside them, plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白桃ネクター 缶 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白桃ネクター 190g×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 洋なしネクター 缶 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マンゴーネクター ペット 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 ラ・フランス ネクター 瓶 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 248,
+     "origin": "山形県産洋なし使用"
+    },
+    {
+     "title": "Cymbal セレクト 山梨県産 白桃ネクター 瓶 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 248,
+     "origin": "山梨県産もも使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_nectar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_mikan_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "みかんジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "朝食",
+    "こたつのお供",
+    "ゼリー作り",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "旬の温州みかんをしぼった、果汁100%のみかんジュースです。オレンジとはひと味違う、やさしい甘みとほどよい酸味が特長。ストレートの瓶入りは贈り物にも喜ばれます。",
+   "image_brief": "A glass bottle of bright orange mandarin juice with a gold cap beside a few small mandarins with green leaves, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 温州みかんジュース 果汁100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 248,
+     "origin": "国産果汁使用"
+    },
+    {
+     "title": "Cymbal 温州みかんジュース 果汁100% 200ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 448,
+     "origin": "国産果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト 愛媛県産 みかんストレートジュース 瓶 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 698,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "Cymbal セレクト 和歌山県産 有田みかんストレートジュース 瓶 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 698,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "Cymbal セレクト せとかストレートジュース 瓶 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 880,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "Cymbal セレクト みかんストレートジュース 瓶 720ml×2本 ギフト ギフト",
+     "brand": "Cymbal セレクト",
+     "size": "ギフト",
+     "price_tax_excluded": 1580,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_mikan_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_fruit_syrup_concentrate",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "希釈用果汁シロップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かき氷",
+    "炭酸割り",
+    "お湯割り",
+    "ゼリー作り"
+   ],
+   "tax_rate": 8,
+   "description": "水や炭酸、お湯で割るだけで手軽に楽しめる、果汁入りの希釈用シロップです。国産の梅や青森りんごなど素材の香りを生かしたやさしい甘さ。かき氷やゼリー作りにも使えて経済的です。",
+   "image_brief": "A tall glass bottle of amber fruit syrup with a white cap beside a glass of diluted drink with ice, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 梅シロップ 希釈用 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal 青森りんご 希釈用 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "青森県産りんご使用"
+    },
+    {
+     "title": "Cymbal 巨峰 希釈用 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国産ぶどう使用"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内レモン はちみつ 希釈用 瓶 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "広島県産レモン使用"
+    },
+    {
+     "title": "Cymbal セレクト ゆず はちみつ 希釈用 瓶 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "高知県産ゆず使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_fruit_syrup_concentrate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_acerola_drink",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "アセロラドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝のビタミン補給",
+    "炭酸割り",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ビタミンCを多く含むアセロラを使った、甘酸っぱく飲みやすいドリンクです。鮮やかな赤い色と爽やかな酸味で、朝の目覚めの一杯に。果汁たっぷりの100%タイプもあります。",
+   "image_brief": "A clear plastic bottle of bright red acerola drink with a red cap and a few acerola cherries beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アセロラドリンク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "ブラジル産果汁使用"
+    },
+    {
+     "title": "Cymbal アセロラドリンク 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 158,
+     "origin": "ブラジル産果汁使用"
+    },
+    {
+     "title": "Cymbal アセロラドリンク 200ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 348,
+     "origin": "ブラジル産果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産 アセロラ果汁100% 瓶 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 880,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "Cymbal アセロラドリンク ゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "ブラジル産果汁使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_acerola_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_coconut_water",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "ココナッツウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "スポーツの後",
+    "スムージー",
+    "南国気分のドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "若いココナッツの果汁をそのまま詰めた、すっきりやさしい甘さのココナッツウォーターです。カリウムを含み、暑い日や運動後の水分補給にも。スムージーやカクテル風ドリンクのベースにもなります。",
+   "image_brief": "A white rectangular paper carton with a small screw cap next to a halved green young coconut, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ココナッツウォーター 100% 330ml",
+     "brand": "Cymbal",
+     "size": "330ml",
+     "price_tax_excluded": 198,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal ココナッツウォーター 100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal ココナッツウォーター 330ml×12本 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 2280,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ココナッツウォーター 500ml",
+     "brand": "Cymbal オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "Cymbal ココナッツウォーター パイナップル 330ml",
+     "brand": "Cymbal",
+     "size": "330ml",
+     "price_tax_excluded": 198,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_coconut_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_cranberry_berry_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "クランベリー・ベリージュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "ヨーグルトに",
+    "モクテル",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいクランベリーやブルーベリー、カシスを使ったベリー系の果実ジュースです。鮮やかなルビー色で食卓が華やぎます。炭酸割りでモクテル風にしたり、ヨーグルトにかけたりするのもおすすめです。",
+   "image_brief": "A deep ruby-red plastic juice bottle with a white cap beside a small bowl of cranberries, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クランベリージュース 果汁27% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "アメリカ産果汁使用"
+    },
+    {
+     "title": "Cymbal クランベリージュース 果汁100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産果汁使用"
+    },
+    {
+     "title": "Cymbal ブルーベリージュース 果汁100% 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト カシス&ベリー 果汁100% 瓶 750ml",
+     "brand": "Cymbal セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "ニュージーランド産果汁使用"
+    },
+    {
+     "title": "Cymbal クランベリージュース 200ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産果汁使用"
+    }
+   ],
+   "images": [
+    "w_drink_soft_cranberry_berry_juice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_aloe_drink",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "アロエドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "ヨーグルトと一緒に"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるぷるのアロエ果肉がたっぷり入った、さっぱり甘いアロエドリンクです。つるんとした食感と白ぶどう風味の爽やかな味わいが楽しく、冷やしておやつ代わりにもぴったり。ゼロカロリータイプもあります。",
+   "image_brief": "A clear plastic bottle of pale translucent drink with visible white aloe cubes and a green cap, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アロエ果肉入り ドリンク 白ぶどう 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アロエ果肉入り ドリンク 白ぶどう 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アロエ果肉入り ドリンク ゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハヌル アロエドリンク マスカット 500ml",
+     "brand": "ハヌル",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "韓国製"
+    },
+    {
+     "title": "ハヌル アロエドリンク 缶 240ml×6本 6本",
+     "brand": "ハヌル",
+     "size": "6本",
+     "price_tax_excluded": 598,
+     "origin": "韓国製"
+    }
+   ],
+   "images": [
+    "w_drink_soft_aloe_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_canned_juice_mini",
+   "category_path": [
+    "飲料・水",
+    "ジュース",
+    "缶ジュース（ミニ缶）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "オレンジ",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "来客用",
+    "冷蔵庫ストック",
+    "パーティー",
+    "お弁当のお供"
+   ],
+   "tax_rate": 8,
+   "description": "冷蔵庫に常備しやすい、飲みきりサイズのミニ缶ジュースです。オレンジ、りんご、ぶどうなど定番の味をそろえ、来客時やちょっとした差し入れにも便利。まとめ買いできる12本パックもご用意しました。",
+   "image_brief": "A cluster of small colorful aluminum mini cans in orange, red and purple with blank surfaces, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニ缶 オレンジ 果汁100% 160g×6本",
+     "brand": "Cymbal",
+     "size": "160g×6本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ缶 りんご 果汁100% 160g×6本",
+     "brand": "Cymbal",
+     "size": "160g×6本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ缶 ぶどう 果汁100% 160g×6本",
+     "brand": "Cymbal",
+     "size": "160g×6本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ缶 アソート 果汁100% 160g×12本",
+     "brand": "Cymbal",
+     "size": "160g×12本",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ缶 ミックスフルーツ 190g×6本",
+     "brand": "Cymbal",
+     "size": "190g×6本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_canned_juice_mini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_oral_rehydration",
+   "category_path": [
+    "飲料・水",
+    "スポーツドリンク",
+    "経口補水液"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    12,
+    1
+   ],
+   "dishes": [
+    "暑い日の備え",
+    "スポーツ後",
+    "防災備蓄",
+    "アウトドア"
+   ],
+   "tax_rate": 8,
+   "description": "電解質と糖分のバランスを整えた、すばやく水分と塩分を補給できる飲料です。たくさん汗をかいたときや夏場の外出、防災用の備えとして常備しておくと安心。飲みやすいゼリータイプもあります。",
+   "image_brief": "A clear plastic bottle of slightly cloudy colorless drink with a light blue cap and a plain blank white label, beside a spouted jelly pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 経口補水液 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 経口補水液 500ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 3680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 経口補水液 2L",
+     "brand": "Cymbal",
+     "size": "2L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 経口補水 ゼリー パウチ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 経口補水パウダー 1L用 10g×5包 5包",
+     "brand": "Cymbal",
+     "size": "5包",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_oral_rehydration_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_hypotonic_drink",
+   "category_path": [
+    "飲料・水",
+    "スポーツドリンク",
+    "ハイポトニック飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "ランニング",
+    "サウナ後",
+    "部活動",
+    "アウトドア"
+   ],
+   "tax_rate": 8,
+   "description": "体液よりも低い浸透圧に調整した、すっきり薄味のハイポトニック飲料です。甘さ控えめで、ランニングや長時間の運動中にもごくごく飲みやすいのが特長。凍らせて持ち歩けるボトルもあります。",
+   "image_brief": "A clear plastic sports bottle of slightly cloudy pale blue drink with a white cap and a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハイポトニック飲料 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハイポトニック飲料 1.5L",
+     "brand": "Cymbal",
+     "size": "1.5L",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハイポトニック飲料 凍らせてもOK 490ml",
+     "brand": "Cymbal",
+     "size": "490ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハイポトニック飲料 500ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "ケース",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハイポトニック飲料 グレープフルーツ風味 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_hypotonic_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_sports_drink_powder",
+   "category_path": [
+    "飲料・水",
+    "スポーツドリンク",
+    "スポーツドリンク粉末"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "部活動",
+    "ジョギング",
+    "アウトドア",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "水に溶かすだけでスポーツドリンクが作れる粉末タイプです。部活動や運動会、アウトドアでたっぷり作れて経済的。かさばらず持ち運びにも便利で、濃さを好みに調整できます。",
+   "image_brief": "A stand-up foil pouch of drink powder in sky blue with individual sachets in front and a sports water jug, plain blank packaging, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スポーツドリンク 粉末 1L用 48g×5袋 5袋",
+     "brand": "Cymbal",
+     "size": "5袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スポーツドリンク 粉末 1L用 48g×10袋 10袋",
+     "brand": "Cymbal",
+     "size": "10袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スポーツドリンク 粉末 5L用 240g 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スポーツドリンク 粉末 レモン 1L用 48g×5袋 5袋",
+     "brand": "Cymbal",
+     "size": "5袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アミノ酸配合 スポーツドリンク 粉末 1L用 48g×5袋 5袋",
+     "brand": "Cymbal セレクト",
+     "size": "5袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_sports_drink_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_konjac_jelly_pouch",
+   "category_path": [
+    "飲料・水",
+    "ゼリー飲料",
+    "こんにゃくゼリー（パウチ）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "小腹満たし",
+    "冷凍して",
+    "お弁当のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとした弾力ある食感の、飲むタイプのこんにゃくゼリーです。果汁入りでさっぱり甘く、カロリーを抑えたいおやつにも。凍らせればシャーベット風に楽しめます。※よくかんでお召し上がりください。",
+   "image_brief": "A spouted soft pouch with a colorful fruit pattern and blank white panel, several pouches fanned out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 飲むこんにゃくゼリー りんご 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 飲むこんにゃくゼリー 白桃 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 飲むこんにゃくゼリー グレープ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 飲むこんにゃくゼリー アソート 150g×6個 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 飲むこんにゃくゼリー カロリーゼロ マスカット 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_konjac_jelly_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_protein_jelly",
+   "category_path": [
+    "飲料・水",
+    "ゼリー飲料",
+    "プロテインゼリー飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トレーニング後",
+    "朝食代わり",
+    "部活動"
+   ],
+   "tax_rate": 8,
+   "description": "片手で手軽にたんぱく質を補える、飲むゼリータイプです。さっぱりしたフルーツ風味で、トレーニング後や忙しい朝でも飲みやすいのが魅力。まとめ買いに便利な6個パックもあります。",
+   "image_brief": "A tall spouted jelly pouch in silver and orange with a plain blank front panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal プロテインゼリー たんぱく質10g ヨーグルト風味 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プロテインゼリー たんぱく質10g グレープフルーツ風味 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プロテインゼリー たんぱく質10g 180g×6個 6個",
+     "brand": "Cymbal",
+     "size": "6個",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プロテインゼリー たんぱく質15g マスカット風味 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プロテインゼリー たんぱく質5g りんご風味 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_protein_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_aojiru_drink",
+   "category_path": [
+    "飲料・水",
+    "健康茶・青汁",
+    "青汁ドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "野菜不足が気になるときに",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "国産大麦若葉やケールを使った、すぐ飲める紙パック入りの青汁ドリンクです。はちみつで飲みやすく仕上げたタイプは青汁初心者にも。粉を溶かす手間がなく、朝の習慣にぴったりです。",
+   "image_brief": "A small green paper drink carton with an attached straw beside a few young barley leaves, plain blank carton face, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 青汁ドリンク 大麦若葉 125ml×3本",
+     "brand": "Cymbal",
+     "size": "125ml×3本",
+     "price_tax_excluded": 248,
+     "origin": "国産大麦若葉使用"
+    },
+    {
+     "title": "Cymbal 青汁ドリンク 大麦若葉 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国産大麦若葉使用"
+    },
+    {
+     "title": "Cymbal 青汁ドリンク はちみつ入り 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 498,
+     "origin": "国産大麦若葉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産ケール 青汁ドリンク 190g×6本",
+     "brand": "Cymbal セレクト",
+     "size": "190g×6本",
+     "price_tax_excluded": 698,
+     "origin": "愛媛県産ケール使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 大麦若葉 青汁ドリンク 125ml×3本",
+     "brand": "Cymbal オーガニック",
+     "size": "125ml×3本",
+     "price_tax_excluded": 348,
+     "origin": "大分県産"
+    }
+   ],
+   "images": [
+    "w_drink_soft_aojiru_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_cocoa_drink",
+   "category_path": [
+    "飲料・水",
+    "粉末飲料・ココア",
+    "ココアドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "ホットココア",
+    "寒い日の一杯"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの香りとミルクのまろやかさを楽しめる、すぐ飲めるココアドリンクです。冷たいままでも、温めてホットココアにしてもおいしい。寒い季節には温かいペットボトルタイプもおすすめです。",
+   "image_brief": "A short brown paper drink carton and a warm-colored small plastic bottle of chocolate cocoa drink side by side, plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ココアドリンク 紙パック 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ココアドリンク 200ml×6本 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホットココア ペット 280ml",
+     "brand": "Cymbal",
+     "size": "280ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カカオ70% 濃厚ココアドリンク 240ml",
+     "brand": "Cymbal セレクト",
+     "size": "240ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ココアドリンク 甘さひかえめ 紙パック 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_drink_soft_cocoa_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_drink_soft_malt_drink_powder",
+   "category_path": [
+    "飲料・水",
+    "粉末飲料・ココア",
+    "麦芽飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お子さまのおやつ",
+    "牛乳に混ぜて"
+   ],
+   "tax_rate": 8,
+   "description": "麦芽エキスにカルシウムや鉄分、ビタミンを加えた、栄養をおいしく補える麦芽飲料です。牛乳に溶かすと香ばしいチョコレート風味に。育ち盛りのお子さまの朝食やおやつにおすすめです。",
+   "image_brief": "A cylindrical cardboard canister with a green lid and a plain blank label next to a glass of chocolate-colored malted milk, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 麦芽飲料 ココア風味 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 麦芽飲料 ココア風味 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 麦芽飲料 甘さひかえめ 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 麦芽飲料 スティック 15g×10本 10本",
+     "brand": "Cymbal",
+     "size": "10本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sunfield モルトドリンク オリジナル 400g",
+     "brand": "Sunfield",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア製"
+    }
+   ],
+   "images": [
+    "w_drink_soft_malt_drink_powder_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

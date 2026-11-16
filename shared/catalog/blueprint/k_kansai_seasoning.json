@@ -1,0 +1,498 @@
+{
+ "category_key": "k_kansai_seasoning",
+ "items": [
+  {
+   "base_id": "k_kansai_se_sauce_thick",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "関西のソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "串カツ",
+    "焼きそば"
+   ],
+   "tax_rate": 8,
+   "description": "野菜や果実をじっくり煮込んだ、関西の老舗風ソースです。スパイスがきいた濃厚タイプは、串カツや焼きそばの味付けに。ウスター・中濃・お好み焼ソースもそろえています。",
+   "image_brief": "A row of three plain brown sauce bottles of different sizes with blank labels, dark sauce visible. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "こがね屋ソース 濃厚ソース どろり仕込み 300mL",
+     "brand": "こがね屋ソース",
+     "size": "300mL",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こがね屋ソース ウスターソース 500mL",
+     "brand": "こがね屋ソース",
+     "size": "500mL",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こがね屋ソース 中濃ソース 500mL",
+     "brand": "こがね屋ソース",
+     "size": "500mL",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こがね屋ソース お好み焼ソース 500g",
+     "brand": "こがね屋ソース",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こがね屋ソース たこ焼ソース 300g",
+     "brand": "こがね屋ソース",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_sauce_thick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_usukuchi",
+   "category_path": [
+    "調味料",
+    "醤油",
+    "淡口醤油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お吸い物",
+    "炊いたん",
+    "うどんだし"
+   ],
+   "tax_rate": 8,
+   "description": "播州の蔵で仕込んだ淡口（うすくち）しょうゆ。色が淡く、素材の色や香りを生かした関西の料理に欠かせない調味料です。",
+   "image_brief": "A plain glass bottle of light amber soy sauce and a smaller plain bottle, blank labels. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 淡口しょうゆ 1L",
+     "brand": "みなせ醸造",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "兵庫県製造"
+    },
+    {
+     "title": "みなせ醸造 淡口しょうゆ 500mL",
+     "brand": "みなせ醸造",
+     "size": "500mL",
+     "price_tax_excluded": 258,
+     "origin": "兵庫県製造"
+    },
+    {
+     "title": "みなせ醸造 こいくちしょうゆ 1L",
+     "brand": "みなせ醸造",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "兵庫県製造"
+    },
+    {
+     "title": "みなせ醸造 再仕込み 甘露しょうゆ 300mL",
+     "brand": "みなせ醸造",
+     "size": "300mL",
+     "price_tax_excluded": 458,
+     "origin": "兵庫県製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_usukuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_shirodashi",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "白だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "だし巻き",
+    "お吸い物",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "かつお節と昆布のだしに淡口しょうゆを合わせた白だしです。だし巻き、お吸い物、茶碗蒸し、おでんなどがこれ1本で。",
+   "image_brief": "A plain clear bottle of golden white dashi stock with a blank label beside a slice of rolled omelette. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 京風 白だし 500mL",
+     "brand": "みなせ醸造",
+     "size": "500mL",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 京風 白だし 1L",
+     "brand": "みなせ醸造",
+     "size": "1L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_shirodashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_udondashi",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "うどんだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きつねうどん",
+    "親子丼",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "昆布とうるめ・さば節のうま味をきかせた、関西風のうどんだし。お湯で溶くだけの粉末タイプと、希釈タイプをご用意しています。",
+   "image_brief": "A plain box of powdered dashi sachets with a few small plain sachets in front and a plain bottle of liquid dashi. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 関西風 うどんだし 粉末 8g×10袋",
+     "brand": "みなせ醸造",
+     "size": "10袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 関西風 うどんだし 希釈用 500mL",
+     "brand": "みなせ醸造",
+     "size": "500mL",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 昆布だし 粉末 6g×10袋",
+     "brand": "みなせ醸造",
+     "size": "10袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_udondashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鍋",
+    "てっちり",
+    "冷しゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "だいだいやゆず、すだちの果汁をたっぷり使ったぽん酢しょうゆ。関西の冬の鍋、てっちりや水炊きによく合います。",
+   "image_brief": "Two plain glass bottles of dark ponzu sauce with blank labels beside halved citrus fruits. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 だいだいぽん酢 360mL",
+     "brand": "みなせ醸造",
+     "size": "360mL",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 ゆず・すだち ぽん酢 360mL",
+     "brand": "みなせ醸造",
+     "size": "360mL",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 だいだいぽん酢 1L",
+     "brand": "みなせ醸造",
+     "size": "1L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_shiromiso",
+   "category_path": [
+    "調味料",
+    "みそ",
+    "白みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "西京焼き",
+    "田楽"
+   ],
+   "tax_rate": 8,
+   "description": "米こうじをたっぷり使い、短期間で熟成させた甘口の白みそ。京都のお雑煮や西京焼き、田楽みそに。",
+   "image_brief": "A plain tub of pale cream-coloured sweet white miso paste with the lid off. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 京 白みそ 300g",
+     "brand": "みなせ醸造",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "みなせ醸造 京 白みそ 500g",
+     "brand": "みなせ醸造",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_shiromiso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_shichimi",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "七味・山椒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "うどん",
+    "鍋",
+    "焼き鳥"
+   ],
+   "tax_rate": 8,
+   "description": "香り高い山椒をきかせた京風の七味唐がらしと、粉山椒。うどんや鍋、焼き鳥の香りづけに。",
+   "image_brief": "Two small plain wooden-lidded spice containers, one with red shichimi pepper blend and one with green sansho powder. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 京風 山椒七味 15g",
+     "brand": "みなせ醸造",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなせ醸造 粉山椒 10g",
+     "brand": "みなせ醸造",
+     "size": "10g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_shichimi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_kushikatsu_batter",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "粉もん・揚げ物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "串カツ",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "水で溶くだけで、関西の串カツ店風の衣ができるバッター粉と、細かめのパン粉です。",
+   "image_brief": "A plain unprinted pouch of batter flour and a plain pouch of fine panko bread crumbs side by side. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 串カツ用 バッター粉 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 串カツ用 細目パン粉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_kushikatsu_batter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_okonomiyaki_ko",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "粉もん・揚げ物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "さば",
+    "大豆",
+    "やまいも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "ねぎ焼"
+   ],
+   "tax_rate": 8,
+   "description": "山いもパウダーとだしを配合したお好み焼粉。キャベツと卵、水を混ぜるだけで、ふんわり仕上がります。天かす・青のりもそろえています。",
+   "image_brief": "A plain pouch of okonomiyaki flour, a small bag of tenkasu tempura crumbs and a small bag of green aonori. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関西風 お好み焼粉 山いも入り 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天かす 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 青のり 2g",
+     "brand": "Cymbal",
+     "size": "2g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_okonomiyaki_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_se_kombu",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "昆布・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "だし取り",
+    "湯豆腐",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "関西のだしの決め手、真昆布とかつお削り節。湯豆腐や関東煮、お吸い物のだし取りに。",
+   "image_brief": "A piece of dark green dried kombu kelp and a small heap of pale pink bonito flakes beside a plain pouch. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "みなせ醸造 だし用 真昆布 80g",
+     "brand": "みなせ醸造",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "みなせ醸造 かつお削り節 花かつお 40g",
+     "brand": "みなせ醸造",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_se_kombu_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

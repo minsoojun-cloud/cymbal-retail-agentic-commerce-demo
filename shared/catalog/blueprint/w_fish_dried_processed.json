@@ -1,0 +1,3367 @@
+{
+ "category_key": "w_fish_dried_processed",
+ "items": [
+  {
+   "base_id": "w_fish_dried_processed_muroaji_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "むろあじ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "朝ごはん",
+    "お茶漬け",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "伊豆の島々で親しまれるむろあじを、天日風に仕上げた開き干しです。真あじより脂が控えめで身がしっかりしており、焼くと香ばしく旨みが凝縮。朝ごはんの一品や晩酌のおつまみにぴったりです。",
+   "image_brief": "Two split-open dried muroaji horse mackerel fish laid flat on a white foam tray under clear wrap, golden-brown skin and pale flesh, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "伊豆諸島加工 むろあじ開き 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 398,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "静岡県加工 むろあじ開き 3枚",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 498,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "伊豆諸島加工 むろあじ開き 大 1枚",
+     "brand": "",
+     "size": "大1枚",
+     "price_tax_excluded": 298,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "Cymbal セレクト 天日干し むろあじ開き 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 598,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "Cymbal ベーシック むろあじ開き 徳用 5枚",
+     "brand": "Cymbal ベーシック",
+     "size": "5枚",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_muroaji_hiraki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_shimahokke_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "縞ほっけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "居酒屋メニュー",
+    "定食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののりが良い縞ほっけを開き干しにしました。ふっくら大きな身は焼くとジューシーで、皿からはみ出すほどのボリューム。居酒屋気分の晩酌や、ご飯がすすむ定食のおかずにおすすめです。",
+   "image_brief": "A large split-open dried striped atka mackerel with dark striped skin side visible, on a long white tray wrapped in film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ロシア産 縞ほっけ開き 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 498,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "アメリカ産 縞ほっけ開き 特大 1枚（約450g）",
+     "brand": "",
+     "size": "特大1枚（約450g）",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ロシア産 縞ほっけ開き 半身 2枚",
+     "brand": "",
+     "size": "半身2枚",
+     "price_tax_excluded": 398,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "Cymbal 骨取り 縞ほっけ 切り身 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 大振り 縞ほっけ開き 1枚（約500g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約500g）",
+     "price_tax_excluded": 980,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_shimahokke_hiraki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_sanma_mirin",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "みりん干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "焼き魚",
+    "お弁当",
+    "朝ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさんまを開き、甘辛いみりんだれに漬けてから干し上げました。白ごまをふった表面は焼くと照りよく香ばしく、子どもにも食べやすい甘めの味わい。お弁当のおかずにも重宝します。",
+   "image_brief": "Three glossy amber mirin-glazed dried saury fillets sprinkled with white sesame seeds on a white tray under clear film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 さんまみりん干し 3枚",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "三陸加工 さんまみりん干し 5枚",
+     "brand": "",
+     "size": "5枚",
+     "price_tax_excluded": 598,
+     "origin": "宮城県加工"
+    },
+    {
+     "title": "Cymbal さんまみりん干し 骨取り 4枚",
+     "brand": "Cymbal",
+     "size": "4枚",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 銚子加工 本みりん仕込み さんまみりん干し 3枚",
+     "brand": "Cymbal セレクト",
+     "size": "3枚",
+     "price_tax_excluded": 580,
+     "origin": "千葉県加工"
+    },
+    {
+     "title": "Cymbal ベーシック さんまみりん干し 徳用 6枚",
+     "brand": "Cymbal ベーシック",
+     "size": "6枚",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_sanma_mirin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kamasu_mirin",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "みりん干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "焼き魚",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "淡白で上品な白身のかますを、まろやかなみりんだれで仕上げたみりん干し。焦がさないよう弱火でじっくり焼けば、ふっくらした身に甘い香りが広がります。ご飯のおかずにも日本酒の肴にも合います。",
+   "image_brief": "Two slender mirin-glazed dried barracuda fillets with sesame seeds, shiny caramel color, on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長崎県産 かますみりん干し 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 398,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "静岡県加工 かますみりん干し 3枚",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 498,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "Cymbal セレクト 大振り 赤かますみりん干し 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 680,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal かますみりん干し 小 4枚",
+     "brand": "Cymbal",
+     "size": "小4枚",
+     "price_tax_excluded": 458,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kamasu_mirin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nodoguro_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "高級干物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "焼き魚",
+    "おもてなし",
+    "ご褒美ごはん",
+    "日本酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "白身のトロと称されるのどぐろを、薄塩で丁寧に開き干しにしました。皮目から滴るほどの上質な脂と甘みが特長で、焼くだけで料亭気分。ご褒美やおもてなし、年末のご馳走にもおすすめです。",
+   "image_brief": "A premium split-open dried blackthroat seaperch with bright red skin edges and glistening fatty white flesh, on a black lacquer-style tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "島根県産 のどぐろ開き 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 1280,
+     "origin": "島根県産"
+    },
+    {
+     "title": "長崎県産 のどぐろ開き 小 2枚",
+     "brand": "",
+     "size": "小2枚",
+     "price_tax_excluded": 1480,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "島根県産 のどぐろ開き 大 1枚（約250g）",
+     "brand": "",
+     "size": "大1枚（約250g）",
+     "price_tax_excluded": 2480,
+     "origin": "島根県産"
+    },
+    {
+     "title": "Cymbal セレクト 浜田港 のどぐろ一夜干し 2枚 化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚 化粧箱",
+     "price_tax_excluded": 3980,
+     "origin": "島根県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nodoguro_hiraki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kinmedai_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "高級干物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き魚",
+    "おもてなし",
+    "日本酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかな赤い皮が美しい金目鯛を、ほどよい塩加減で開き干しにしました。脂のりの良いしっとりとした白身は焼くと甘みが引き立ちます。贈り物や特別な日の食卓にもぴったりの干物です。",
+   "image_brief": "A bright red split-open dried splendid alfonsino with large eye and glossy fatty flesh on a white tray under clear wrap, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県加工 金目鯛開き 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 980,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "千葉県産 金目鯛開き 大 1枚（約300g）",
+     "brand": "",
+     "size": "大1枚（約300g）",
+     "price_tax_excluded": 1580,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal セレクト 伊豆加工 金目鯛開き 2枚 化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚 化粧箱",
+     "price_tax_excluded": 2980,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "ニュージーランド産 金目鯛開き 小 2枚",
+     "brand": "",
+     "size": "小2枚",
+     "price_tax_excluded": 1180,
+     "origin": "静岡県加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kinmedai_hiraki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yanagi_karei",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "かれい干物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "焼き魚",
+    "唐揚げ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "身が薄く上品な柳かれいを一夜干しにしました。ほどよく水分が抜けて旨みがぎゅっと詰まり、焼いても唐揚げにしても美味。骨離れが良く食べやすいので、ご年配の方にも人気の干物です。",
+   "image_brief": "Several thin oval dried willow flounders lined up neatly on a white tray under film, light brown skin, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 柳かれい一夜干し 3枚",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "宮城県産 柳かれい一夜干し 5枚",
+     "brand": "",
+     "size": "5枚",
+     "price_tax_excluded": 898,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "Cymbal セレクト 大振り 柳かれい一夜干し 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "大2枚",
+     "price_tax_excluded": 780,
+     "origin": "北海道産"
+    },
+    {
+     "title": "島根県産 笹かれい一夜干し 4枚",
+     "brand": "",
+     "size": "4枚",
+     "price_tax_excluded": 680,
+     "origin": "島根県産"
+    },
+    {
+     "title": "Cymbal 子持ち 赤がれい一夜干し 2枚",
+     "brand": "Cymbal",
+     "size": "2枚",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yanagi_karei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_ika_ichiyaboshi",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "いか一夜干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼きいか",
+    "おつまみ",
+    "炒め物",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "するめいかを丸ごと開いて一夜干しにしました。焼くとふっくら柔らかく、噛むほどに甘みと旨みがあふれます。マヨネーズや七味を添えて晩酌のお供に。切って野菜炒めやバーベキューにも使えます。",
+   "image_brief": "A whole split-open semi-dried squid with pale white body and tentacles spread on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 するめいか一夜干し 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "北海道産 するめいか一夜干し 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 898,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal いか一夜干し 食べやすいカット 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 函館加工 真いか一夜干し 大 1枚（約300g）",
+     "brand": "Cymbal セレクト",
+     "size": "大1枚（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "島根県産 剣先いか一夜干し 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 980,
+     "origin": "島根県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_ika_ichiyaboshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_iwashi_mirin",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "みりん干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おつまみ",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "小ぶりの真いわしを開き、甘辛いみりんだれでつやよく仕上げました。骨まで柔らかく、焼いてそのまま頭からいただけます。カルシウム豊富な小魚料理としてお子さまのおかずや晩酌にも。",
+   "image_brief": "A neat row of small glossy mirin-glazed dried sardine fillets topped with sesame seeds on a white tray under clear film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "千葉県産 いわしみりん干し 8枚",
+     "brand": "",
+     "size": "8枚",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal いわしみりん干し 12枚",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "鳥取県加工 いわし桜干し 10枚",
+     "brand": "",
+     "size": "10枚",
+     "price_tax_excluded": 458,
+     "origin": "鳥取県加工"
+    },
+    {
+     "title": "Cymbal ベーシック いわしみりん干し 徳用 20枚",
+     "brand": "Cymbal ベーシック",
+     "size": "20枚",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_iwashi_mirin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_urume_maruboshi",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "いわし・めざし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き魚",
+    "おつまみ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "目が潤んで見えることから名付けられたうるめいわしの丸干し。脂が少なめで身が締まり、焼くと香ばしく苦みもほどよい大人の味わいです。冬場の脂がのった時期は特におすすめ。日本酒によく合います。",
+   "image_brief": "A row of whole dried round herring with silvery-blue skin and big eyes arranged side by side on a white tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "高知県産 うるめいわし丸干し 6尾",
+     "brand": "",
+     "size": "6尾",
+     "price_tax_excluded": 398,
+     "origin": "高知県産"
+    },
+    {
+     "title": "長崎県産 うるめいわし丸干し 10尾",
+     "brand": "",
+     "size": "10尾",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "Cymbal セレクト 土佐 天日干し うるめいわし丸干し 5尾",
+     "brand": "Cymbal セレクト",
+     "size": "5尾",
+     "price_tax_excluded": 580,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal ベーシック うるめいわし丸干し 徳用 15尾",
+     "brand": "Cymbal ベーシック",
+     "size": "15尾",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_urume_maruboshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_mezashi",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "めざし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "焼き魚",
+    "朝ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "かたくちいわしを塩水に漬け、目に串や藁を通して連にした昔ながらのめざし。焼いて丸ごと食べられ、ほろ苦さと塩気がご飯によく合います。素朴な味わいを好む方にぴったりの一品です。",
+   "image_brief": "Several strings of small whole dried anchovies skewered through the eyes on bamboo sticks, arranged on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "千葉県産 めざし 4尾×5連",
+     "brand": "",
+     "size": "4尾×5連",
+     "price_tax_excluded": 298,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "三重県産 めざし 5尾×4連",
+     "brand": "",
+     "size": "5尾×4連",
+     "price_tax_excluded": 298,
+     "origin": "三重県産"
+    },
+    {
+     "title": "Cymbal ベーシック めざし 徳用 4尾×8連",
+     "brand": "Cymbal ベーシック",
+     "size": "4尾×8連",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 藁通し 大羽めざし 5尾×3連",
+     "brand": "Cymbal セレクト",
+     "size": "5尾×3連",
+     "price_tax_excluded": 458,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_mezashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kusaya",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "くさや"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "日本酒の肴",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "伊豆諸島に伝わる発酵液「くさや液」に漬け込んで干し上げた伝統の干物。独特の香りと深い旨み、ほどよい塩味は一度はまるとやみつきに。焼いて細く裂き、日本酒や焼酎と合わせるのがおすすめです。",
+   "image_brief": "A dark amber split-open dried kusaya mackerel scad vacuum-sealed in clear plastic on a plain kraft card, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "東京都新島加工 青むろくさや 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 780,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "東京都八丈島加工 とびうおくさや 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 880,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "東京都新島加工 焼きくさや ほぐし 瓶 40g",
+     "brand": "",
+     "size": "40g",
+     "price_tax_excluded": 980,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "Cymbal セレクト 島の伝統 青むろくさや 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 1480,
+     "origin": "東京都加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kusaya_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_saba_mirin",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "みりん干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "焼き魚",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさばを甘辛いみりんだれに漬け込み、照りよく仕上げたみりん干し。焼くと香ばしく、冷めても美味しいのでお弁当にも最適です。骨取りタイプは小さなお子さまにも安心して出せます。",
+   "image_brief": "Two glossy dark amber mirin-glazed mackerel fillets with sesame seeds on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ノルウェー産 さばみりん干し 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り さばみりん干し 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "長崎県産 真さばみりん干し 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "Cymbal ベーシック さばみりん干し 徳用 4枚",
+     "brand": "Cymbal ベーシック",
+     "size": "4枚",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 金ごま仕立て 真さばみりん干し 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "2枚",
+     "price_tax_excluded": 680,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_saba_mirin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_benizake_ookara",
+   "category_path": [
+    "お魚・水産加工品",
+    "塩さば・塩鮭",
+    "塩鮭（大辛）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鮭",
+    "おにぎり",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "昔ながらのしょっぱい塩鮭を好む方へ、紅鮭を大辛口に仕上げました。強めの塩気でご飯がどんどん進み、焼いてほぐせばおにぎりやお茶漬けの具に最適。少量でも満足できる、保存性の高い塩鮭です。",
+   "image_brief": "Two deep red-orange heavily salted sockeye salmon fillets with white salt crust on a white tray under clear wrap, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ロシア産 紅鮭 大辛口 切り身 2切",
+     "brand": "",
+     "size": "2切",
+     "price_tax_excluded": 498,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "アラスカ産 紅鮭 大辛口 切り身 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal セレクト 昔造り 紅鮭 激辛口 切り身 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "Cymbal 紅鮭 大辛口 切り落とし 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_benizake_ookara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_sake_toba",
+   "category_path": [
+    "お魚・水産加工品",
+    "塩さば・塩鮭",
+    "鮭とば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おつまみ",
+    "酒の肴",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "秋鮭を細く切り、潮風に当てて干し上げた北海道の伝統的な珍味、鮭とば。噛むほどに鮭の旨みと塩気が口に広がります。軽く炙ると香ばしさが増して、ビールや日本酒のお供にぴったりです。",
+   "image_brief": "Thin strips of dark red dried salmon jerky with silver skin packed in a clear resealable pouch, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 鮭とば ソフト 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道加工 鮭とば 皮付き 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "シオカゼ工房 鮭とば 一本物 150g",
+     "brand": "シオカゼ工房",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 鮭とば 一口カット 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 羅臼 熟成鮭とば 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 780,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_sake_toba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yaki_tarako",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "焼きたらこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お弁当",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "たらこをじっくり焼き上げ、外は香ばしく中はほっくり仕上げました。おにぎりの具やお弁当にそのまま使え、ほぐしてお茶漬けにも。生のたらこが苦手な方やお子さまにも食べやすい一品です。",
+   "image_brief": "Two golden-brown grilled cod roe sacs with lightly charred surface on a small white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道加工 焼きたらこ 2腹（約80g）",
+     "brand": "",
+     "size": "2腹（約80g）",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "Cymbal 焼きたらこ 切子 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きたらこ ほぐし 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 無着色 焼きたらこ 一本物 3腹",
+     "brand": "Cymbal セレクト",
+     "size": "3腹",
+     "price_tax_excluded": 798,
+     "origin": "北海道加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yaki_tarako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_tarako_ippon",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "たらこ（一本物）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "たらこご飯",
+    "おにぎり",
+    "たらこパスタ",
+    "お歳暮"
+   ],
+   "tax_rate": 8,
+   "description": "形のきれいな一腹だけを選んだ一本物のたらこです。粒がしっかりしていて、ほどよい塩加減で素材の甘みが引き立ちます。贈答用の化粧箱入りもご用意し、年末のご挨拶にもおすすめです。",
+   "image_brief": "Several plump pink whole cod roe sacs neatly arranged on a dark tray in a clear-lidded box, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道加工 無着色 たらこ 一本物 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "北海道加工 甘口たらこ 一本物 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "Cymbal セレクト 虎杖浜加工 特選たらこ 一本物 300g 化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "300g 化粧箱",
+     "price_tax_excluded": 2980,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "北海道加工 紅葉子 一本物 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 880,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "Cymbal 無着色 たらこ 一本物 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_tarako_ippon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_mentaiko_ippon",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "辛子明太子（一本物）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "明太子ご飯",
+    "おにぎり",
+    "お歳暮",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "形の整った一腹を、唐辛子と昆布の効いた特製調味液にじっくり漬け込んだ一本物の辛子明太子。粒感が良く、辛さの後に旨みが続きます。そのまま炊きたてご飯にのせて。贈り物にもおすすめです。",
+   "image_brief": "Bright red-orange spicy marinated pollock roe sacs neatly lined in a black tray with a clear lid, red chili flakes visible, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福岡県加工 辛子明太子 一本物 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 798,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "福岡県加工 辛子明太子 一本物 中辛 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1580,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "Cymbal セレクト 博多仕込み 無着色 辛子明太子 一本物 300g 化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "300g 化粧箱",
+     "price_tax_excluded": 3480,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "福岡県加工 辛子明太子 一本物 辛口 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "Cymbal 無着色 辛子明太子 一本物 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_mentaiko_ippon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_mentaiko_tube",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "明太子ほぐし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "明太子パスタ",
+    "明太マヨ",
+    "卵焼き",
+    "トースト"
+   ],
+   "tax_rate": 8,
+   "description": "使いたい分だけ絞り出せるチューブ入りのほぐし明太子。皮なしなので料理に混ぜやすく、明太子パスタや卵焼き、明太マヨトーストが手軽に作れます。冷蔵庫に常備しておくと便利です。",
+   "image_brief": "A squeezable clear plastic tube filled with pinkish-red spicy cod roe paste, standing upright, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 明太子ほぐし チューブ 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 明太子ほぐし チューブ 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal たらこほぐし チューブ 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 無着色 明太子ほぐし 小分け 25g×4袋",
+     "brand": "Cymbal セレクト",
+     "size": "25g×4袋",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 明太子ほぐし 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_mentaiko_tube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yuzu_mentaiko",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "味付け明太子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "明太子ご飯",
+    "酒の肴",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "定番の辛子明太子にひと工夫加えた変わり味シリーズ。爽やかな柚子の香りや、昆布の旨み、鼻に抜けるわさびの辛みなど、それぞれの風味が明太子の旨みを引き立てます。食べ比べも楽しい一品です。",
+   "image_brief": "Cut pieces of red spicy pollock roe with flecks of yellow yuzu zest in a small clear plastic tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆず明太子 切子 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 昆布漬け明太子 切子 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal わさび明太子 切子 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産ゆず使用 ゆず明太子 一本物 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "Cymbal 減塩 辛子明太子 切子 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 458,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yuzu_mentaiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_komochi_konbu",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "子持ち昆布"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おせち料理",
+    "酒の肴",
+    "お正月"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚の昆布にびっしりと産みつけられたにしんの卵、子持ち昆布。プチプチとした独特の歯ごたえと昆布の風味が楽しめる高級珍味です。味付けタイプは切ってそのまま、おせちの一品にどうぞ。",
+   "image_brief": "Thick slices of kelp coated with dense layers of pale yellow herring roe in a small clear tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 味付け子持ち昆布 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "カナダ産 塩子持ち昆布 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2480,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 厚切り 味付け子持ち昆布 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1680,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 味付け子持ち昆布 切り落とし 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_komochi_konbu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_shoyu_sujiko",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "醤油すじこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いくら",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "すじこおにぎり",
+    "ご飯のお供",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "秋鮭のすじこを、だし醤油ベースのたれにじっくり漬け込みました。薄皮に包まれた粒がとろりと崩れ、濃厚な旨みが広がります。熱々のご飯にのせたり、おにぎりの具にしたりと贅沢な味わいです。",
+   "image_brief": "Deep orange-red soy-marinated salmon roe skeins glistening in a small clear plastic tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 醤油すじこ 切子 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 醤油すじこ 一腹 約200g",
+     "brand": "",
+     "size": "一腹 約200g",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "岩手県産 醤油すじこ 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 1180,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 紅鮭 醤油すじこ 一本物 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_shoyu_sujiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_karasumi",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "からすみ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "酒の肴",
+    "パスタ",
+    "おせち料理"
+   ],
+   "tax_rate": 8,
+   "description": "ぼらの卵巣を塩漬けにし、じっくり干し上げた日本三大珍味のひとつ。ねっとりとした濃厚な旨みと独特の香りが特長です。薄く切って大根と合わせたり、すりおろしてパスタにかけたりと楽しみ方いろいろ。",
+   "image_brief": "A flat amber-orange slab of cured mullet roe with glossy surface, vacuum-sealed and laid in a small wooden box, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長崎県加工 からすみ 1腹（約60g）",
+     "brand": "",
+     "size": "1腹（約60g）",
+     "price_tax_excluded": 2980,
+     "origin": "長崎県加工"
+    },
+    {
+     "title": "長崎県加工 からすみ スライス 20g",
+     "brand": "",
+     "size": "スライス20g",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県加工"
+    },
+    {
+     "title": "Cymbal セレクト 野母崎仕込み からすみ 大 1腹（約100g）化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "1腹（約100g）",
+     "price_tax_excluded": 5980,
+     "origin": "長崎県加工"
+    },
+    {
+     "title": "Cymbal からすみパウダー 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_karasumi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_capelin_roe",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚卵",
+    "ししゃも卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "軍艦巻き",
+    "手巻き寿司",
+    "サラダ",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "からふとししゃもの卵を、まろやかな醤油だれで味付けしました。とびっこより細かい粒で、プチプチとした食感が楽しい一品。ご飯にのせたり、手巻き寿司やサラダのトッピングに手軽に使えます。",
+   "image_brief": "A small clear plastic cup filled with tiny golden-orange seasoned capelin roe beads, sealed with a plain film lid.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付け ししゃも卵 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal わさび風味 ししゃも卵 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ゆず風味 ししゃも卵 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 味付け ししゃも卵 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_capelin_roe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_chirimen_jako",
+   "category_path": [
+    "お魚・水産加工品",
+    "しらす・ちりめん",
+    "ちりめんじゃこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "大根おろし",
+    "ちりめんご飯",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "しらすを釜揚げした後、しっかり乾燥させたちりめんじゃこ。ほどよい塩味と凝縮した旨みが特長で、大根おろしに添えたり、混ぜご飯やサラダのトッピングにしたりと幅広く使えます。カルシウム補給にも。",
+   "image_brief": "A clear plastic tray of small dried white baby sardines (chirimen jako) piled loosely under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "徳島県産 ちりめんじゃこ 40g",
+     "brand": "",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "兵庫県産 上乾ちりめん 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "愛知県産 ちりめんじゃこ 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal セレクト 無漂白 上乾ちりめん 小羽 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal ベーシック ちりめんじゃこ 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 780,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_chirimen_jako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nama_shirasu",
+   "category_path": [
+    "お魚・水産加工品",
+    "しらす・ちりめん",
+    "生しらす"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "生しらす丼",
+    "ポン酢和え",
+    "軍艦巻き"
+   ],
+   "tax_rate": 8,
+   "description": "水揚げ後すぐに急速冷凍した生しらすです。透き通った身はとろりとした食感と甘み、ほのかなほろ苦さが魅力。解凍してご飯にのせ、生姜醤油やポン酢でどうぞ。漁港の味をご家庭で楽しめます。",
+   "image_brief": "Translucent raw whitebait piled in a small round clear container, frozen with a light frost, with a plain blank lid label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 冷凍 生しらす 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "神奈川県産 冷凍 生しらす 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "神奈川県産"
+    },
+    {
+     "title": "静岡県産 冷凍 生しらす 小分け 30g×3個",
+     "brand": "",
+     "size": "30g×3個",
+     "price_tax_excluded": 698,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal セレクト 駿河湾 冷凍 生しらす 船上急速凍結 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 780,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nama_shirasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_tatami_iwashi",
+   "category_path": [
+    "お魚・水産加工品",
+    "しらす・ちりめん",
+    "たたみいわし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "酒の肴",
+    "おつまみ",
+    "おせち料理"
+   ],
+   "tax_rate": 8,
+   "description": "生のしらすを木枠に薄く広げて板状に干し上げた、昔ながらのたたみいわし。軽く炙るとパリッと香ばしく、ほのかな塩味が日本酒によく合います。醤油を塗って炙れば、ご飯のお供にもなります。",
+   "image_brief": "Thin rectangular sheets of dried pressed baby sardines with a lacy texture stacked in a clear cellophane bag, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "神奈川県加工 たたみいわし 5枚",
+     "brand": "",
+     "size": "5枚",
+     "price_tax_excluded": 498,
+     "origin": "神奈川県加工"
+    },
+    {
+     "title": "静岡県加工 たたみいわし 10枚",
+     "brand": "",
+     "size": "10枚",
+     "price_tax_excluded": 880,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "Cymbal セレクト 炙り たたみいわし 3枚",
+     "brand": "Cymbal セレクト",
+     "size": "3枚",
+     "price_tax_excluded": 498,
+     "origin": "神奈川県加工"
+    },
+    {
+     "title": "Cymbal たたみいわし 一口サイズ 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_tatami_iwashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_sakuraebi_kamaage",
+   "category_path": [
+    "お魚・水産加工品",
+    "しらす・ちりめん",
+    "釜揚げ桜えび"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [
+    4,
+    5,
+    11,
+    12
+   ],
+   "dishes": [
+    "桜えび丼",
+    "かき揚げ",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "獲れたての桜えびを塩水でさっと釜揚げにしました。ふっくら柔らかく、えび本来の甘みと香りがストレートに味わえます。ご飯にたっぷりのせて桜えび丼に、パスタやかき揚げにもおすすめです。",
+   "image_brief": "A small clear tray piled with tender boiled pink sakura shrimp glistening under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 釜揚げ桜えび 40g",
+     "brand": "",
+     "size": "40g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 釜揚げ桜えび 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 1080,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 冷凍 釜揚げ桜えび 50g",
+     "brand": "",
+     "size": "冷凍50g",
+     "price_tax_excluded": 698,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal セレクト 由比港 釜揚げ桜えび 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 1480,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_sakuraebi_kamaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kizami_unagi",
+   "category_path": [
+    "お魚・水産加工品",
+    "うなぎ・蒲焼",
+    "刻みうなぎ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    7,
+    8
+   ],
+   "dishes": [
+    "ひつまぶし",
+    "うな丼",
+    "うざく",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "うなぎの蒲焼を食べやすく刻み、たれと山椒を添えました。ご飯に混ぜてひつまぶしにしたり、きゅうりと和えてうざくにしたりと手軽に使えます。少量ずつ楽しめるので、一人分のうな丼にもぴったりです。",
+   "image_brief": "Bite-size pieces of glossy dark grilled eel kabayaki in a small black tray with a sauce sachet, frozen and wrapped in film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 刻みうなぎ蒲焼 50g たれ・山椒付",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "中国産 刻みうなぎ蒲焼 60g×2袋 たれ付",
+     "brand": "",
+     "size": "60g×2袋",
+     "price_tax_excluded": 980,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ひつまぶし用 刻みうなぎ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 1280,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 愛知県三河産 刻みうなぎ蒲焼 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 1580,
+     "origin": "愛知県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kizami_unagi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_unagi_shirayaki",
+   "category_path": [
+    "お魚・水産加工品",
+    "うなぎ・蒲焼",
+    "うなぎ白焼き"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8
+   ],
+   "dishes": [
+    "わさび醤油",
+    "白焼き丼",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "たれをつけずに素焼きにしたうなぎの白焼き。うなぎ本来の脂の甘みと香ばしさが際立ち、わさび醤油や塩でさっぱりいただけます。日本酒との相性も抜群で、蒲焼とはまた違う大人の楽しみ方ができます。",
+   "image_brief": "A whole flat grilled white eel fillet without sauce, golden and lightly charred, on a black tray with a small wasabi pack, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 うなぎ白焼き 1尾（約120g）",
+     "brand": "",
+     "size": "1尾（約120g）",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 うなぎ白焼き 1尾（約150g）",
+     "brand": "",
+     "size": "1尾（約150g）",
+     "price_tax_excluded": 2980,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal セレクト 静岡県産 うなぎ白焼き 大 1尾（約180g）わさび付",
+     "brand": "Cymbal セレクト",
+     "size": "1尾（約180g）",
+     "price_tax_excluded": 3980,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "中国産 うなぎ白焼き 1尾（約140g）",
+     "brand": "",
+     "size": "1尾（約140g）",
+     "price_tax_excluded": 1480,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_unagi_shirayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yaki_anago",
+   "category_path": [
+    "お魚・水産加工品",
+    "うなぎ・蒲焼",
+    "焼きあなご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "あなご丼",
+    "あなご飯",
+    "ちらし寿司",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "開いたあなごを香ばしく焼き上げ、特製の甘だれを添えました。ふわっとした身と焼き目の香ばしさが魅力で、温めてご飯にのせればあなご丼に。刻んでちらし寿司や混ぜご飯にもおすすめです。",
+   "image_brief": "Several flat grilled conger eel fillets with a light char glaze laid diagonally on a dark tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "兵庫県加工 焼きあなご 2尾 たれ付",
+     "brand": "",
+     "size": "2尾",
+     "price_tax_excluded": 980,
+     "origin": "兵庫県加工"
+    },
+    {
+     "title": "広島県加工 焼きあなご 3尾 たれ付",
+     "brand": "",
+     "size": "3尾",
+     "price_tax_excluded": 1480,
+     "origin": "広島県加工"
+    },
+    {
+     "title": "Cymbal 刻み焼きあなご 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 明石加工 焼きあなご 大 2尾",
+     "brand": "Cymbal セレクト",
+     "size": "大2尾",
+     "price_tax_excluded": 1980,
+     "origin": "兵庫県加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yaki_anago_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kawaebi_tsukudani",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "琵琶湖などの小さな川えびを、殻ごと甘辛く炊き上げた佃煮です。えびの香ばしさと噛むほどに広がる旨みが魅力で、ご飯のお供や酒の肴にぴったり。鮮やかな色合いはお弁当の彩りにもなります。",
+   "image_brief": "A clear tub of small reddish-brown candied river shrimp tsukudani with a glossy sheen, plain blank lid label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "滋賀県加工 川えび佃煮 70g",
+     "brand": "",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "滋賀県加工"
+    },
+    {
+     "title": "Cymbal 小えび佃煮 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 328,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 琵琶湖産 すじえび 大粒佃煮 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 680,
+     "origin": "滋賀県加工"
+    },
+    {
+     "title": "Cymbal ベーシック 小えび佃煮 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kawaebi_tsukudani_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kawazakana_kanroni",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "甘露煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "おせち料理",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "小鮎やはぜ、ふななどの川魚・小魚を、骨まで柔らかくなるまで甘辛くじっくり炊いた甘露煮。頭から丸ごと食べられ、ほろ苦さとこっくりした甘みが後を引きます。おせちの一品や晩酌のお供にどうぞ。",
+   "image_brief": "A clear tub of small whole dark amber candied river fish glistening with syrupy glaze, plain blank lid label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 小鮎甘露煮 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "滋賀県加工 子持ち鮎甘露煮 2尾",
+     "brand": "",
+     "size": "2尾",
+     "price_tax_excluded": 980,
+     "origin": "滋賀県加工"
+    },
+    {
+     "title": "宮城県加工 はぜ甘露煮 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "宮城県加工"
+    },
+    {
+     "title": "Cymbal セレクト 琵琶湖産 ふな甘露煮 2尾",
+     "brand": "Cymbal セレクト",
+     "size": "2尾",
+     "price_tax_excluded": 880,
+     "origin": "滋賀県加工"
+    },
+    {
+     "title": "Cymbal ベーシック 小鮎甘露煮 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kawazakana_kanroni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_hokke_hogushi",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚加工品",
+    "ほぐし身"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お茶漬け",
+    "混ぜご飯",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "焼き上げた魚の身を丁寧にほぐした、使いやすいほぐし身。骨や皮を取り除いてあるので、そのままご飯にのせたり、混ぜご飯やチャーハン、パスタの具に。忙しい日の時短調理にも役立ちます。",
+   "image_brief": "A small clear plastic cup filled with flaked grilled white and brown fish meat, sealed with a plain film lid.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きほっけ ほぐし身 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きさば ほぐし身 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きたら ほぐし身 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き 金目鯛 ほぐし身 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きあじ ほぐし身 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_hokke_hogushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_saba_misoni",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "煮魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "定食",
+    "お弁当",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさばを、合わせ味噌と生姜でこっくり煮込んださば味噌煮。骨取りタイプもあり、温めるだけで本格的な煮魚が楽しめます。忙しい日の夕食や、一人暮らしの方のおかずにぴったりです。",
+   "image_brief": "Two pieces of mackerel simmered in thick brown miso sauce with ginger slivers in a microwavable clear-lidded black tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さば味噌煮 2切 レンジ対応",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り さば味噌煮 2切",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 458,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal さば醤油煮 2切 レンジ対応",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産真さば 味噌煮 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック さば味噌煮 1切",
+     "brand": "Cymbal ベーシック",
+     "size": "1切",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_saba_misoni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_iwashi_umeni",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "煮魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "定食",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "真いわしを梅干しと生姜でじっくり煮込み、骨まで柔らかく仕上げました。梅の酸味でさっぱりと食べやすく、丸ごと食べられるのでカルシウムもとれます。温めても冷たいままでも美味しくいただけます。",
+   "image_brief": "Several small whole sardines simmered with red pickled plums in a dark glossy sauce, in a clear-lidded black tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いわし梅煮 4尾",
+     "brand": "Cymbal",
+     "size": "4尾",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal いわし生姜煮 4尾",
+     "brand": "Cymbal",
+     "size": "4尾",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨まで食べられる さんま生姜煮 2尾",
+     "brand": "Cymbal",
+     "size": "2尾",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産真いわし 梅煮 6尾",
+     "brand": "Cymbal セレクト",
+     "size": "6尾",
+     "price_tax_excluded": 580,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_iwashi_umeni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_karei_nitsuke",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "煮魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "定食",
+    "晩ごはん",
+    "介護食"
+   ],
+   "tax_rate": 8,
+   "description": "かれいを甘辛い煮汁でふっくら煮付けた、温めるだけの煮魚パック。身離れが良くしっとり柔らかで、ご年配の方にも食べやすい味わいです。煮汁ごと温めてご飯にかけても美味しくいただけます。",
+   "image_brief": "A whole flatfish simmered in shiny brown soy-based sauce with ginger in a microwavable clear-lidded tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 赤魚の煮付け 2切",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal かれいの煮付け 2切",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 子持ちかれいの煮付け 1切",
+     "brand": "Cymbal",
+     "size": "1切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 骨取り なめたかれい煮付け 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_karei_nitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_kinmedai_nitsuke",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "煮魚（調理済み）"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはん",
+    "おもてなし",
+    "日本酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののった金目鯛を、甘辛い醤油ベースの煮汁で料亭風に煮付けました。ふっくらとした身に煮汁がしっかりしみ込み、湯せんやレンジで温めるだけで本格的な味わい。ご褒美やおもてなしにもどうぞ。",
+   "image_brief": "A red-skinned alfonsino fillet simmered in glossy dark sauce in a vacuum-sealed clear pouch next to a small dish, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 金目鯛の煮付け 1切",
+     "brand": "Cymbal",
+     "size": "1切",
+     "price_tax_excluded": 798,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 伊豆加工 金目鯛の煮付け 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 1680,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "Cymbal 銀だらの煮付け 1切",
+     "brand": "Cymbal",
+     "size": "1切",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 鯛のあら炊き 1パック",
+     "brand": "Cymbal セレクト",
+     "size": "1パック",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_kinmedai_nitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yaki_hokke_pack",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "焼き魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "定食",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったほっけを香ばしく焼き上げた調理済みパック。レンジで温めるだけで焼きたての香ばしさが楽しめ、グリルを汚さずに焼き魚が食べられます。忙しい朝食や晩酌の一品にもぴったりです。",
+   "image_brief": "A grilled split atka mackerel with browned skin in a microwavable clear-lidded black tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きほっけ 半身 1枚 レンジ対応",
+     "brand": "Cymbal",
+     "size": "半身1枚",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼き縞ほっけ 1枚 レンジ対応",
+     "brand": "Cymbal",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り 焼きほっけ 2切",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 458,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き 真ほっけ 1枚",
+     "brand": "Cymbal セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yaki_hokke_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_buri_teriyaki",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "焼き魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "定食",
+    "お弁当",
+    "晩ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったぶりを、甘辛い照り焼きだれで焼き上げました。レンジで温めるだけで、つやつやの照り焼きが食卓に。冬が旬のぶりは身がふっくらジューシーで、ご飯にもお弁当にもよく合います。",
+   "image_brief": "Two glossy caramel-brown teriyaki yellowtail fillets in a microwavable clear-lidded black tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぶり照り焼き 2切 レンジ対応",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り ぶり照り焼き 3切",
+     "brand": "Cymbal",
+     "size": "3切",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal さわら西京焼き 2切",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 天然ぶり 照り焼き 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_buri_teriyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yaki_sake_pack",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "焼き魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "鮭を香ばしく焼き上げた調理済みパックです。骨取り済みなので小さなお子さまにも安心で、温めるだけでふっくらした焼き鮭が楽しめます。朝ごはんやお弁当、ほぐしておにぎりの具にもどうぞ。",
+   "image_brief": "Two grilled salmon fillets with lightly charred skin in a small microwavable clear-lidded tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 骨取り 焼き銀鮭 2切 レンジ対応",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼き紅鮭 2切 レンジ対応",
+     "brand": "Cymbal",
+     "size": "2切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り 焼きトラウトサーモン 3切",
+     "brand": "Cymbal",
+     "size": "3切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き 秋鮭 2切",
+     "brand": "Cymbal セレクト",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 焼き鮭 1切",
+     "brand": "Cymbal ベーシック",
+     "size": "1切",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yaki_sake_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nama_mozuku",
+   "category_path": [
+    "お魚・水産加工品",
+    "海藻・もずく",
+    "生もずく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "もずく酢",
+    "味噌汁",
+    "天ぷら",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄県産の太もずくを、味付けせずに塩抜き済みでお届けします。ぬめりと歯ごたえが楽しめ、お好みの酢で和えるのはもちろん、味噌汁やスープ、天ぷらにも。洗ってすぐに使えるので手軽です。",
+   "image_brief": "A clear plastic tray of glossy dark brown thick mozuku seaweed strands piled loosely under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "沖縄県産 生もずく 太もずく 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 生もずく 塩抜き済 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 258,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 生もずく 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "長崎県産 糸もずく 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "沖縄県産 冷凍 生もずく 小分け 50g×4",
+     "brand": "",
+     "size": "50g×4",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nama_mozuku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nama_mekabu",
+   "category_path": [
+    "お魚・水産加工品",
+    "海藻・もずく",
+    "生めかぶ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "めかぶ丼",
+    "味噌汁",
+    "納豆めかぶ"
+   ],
+   "tax_rate": 8,
+   "description": "わかめの根元にあたるめかぶを湯通しして細かく刻みました。味付けしていないので、ポン酢や醤油、納豆と合わせるなど自由にアレンジできます。ねばりと歯ごたえが楽しめ、毎日の食卓に取り入れやすい一品です。",
+   "image_brief": "A clear tray of finely chopped bright green-brown sticky mekabu seaweed under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "三陸産 生めかぶ 刻み 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "宮城県産 生めかぶ 刻み 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "鳴門産 生めかぶ 刻み 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "Cymbal 刻みめかぶ 無調味 40g×4",
+     "brand": "Cymbal",
+     "size": "40g×4",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nama_mekabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_hatahata_ichiyaboshi",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "はたはた"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "焼き魚",
+    "しょっつる鍋",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "冬の秋田を代表するはたはたを、薄塩で一夜干しにしました。ぬめりがとれて身が締まり、焼くと淡白な白身にほどよい旨みが凝縮。ブリコと呼ばれる卵を抱えた子持ちタイプは、プチプチ食感も楽しめます。",
+   "image_brief": "Several small whole semi-dried sandfish with mottled brown skin lined up on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "秋田県産 はたはた一夜干し 6尾",
+     "brand": "",
+     "size": "6尾",
+     "price_tax_excluded": 598,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "秋田県産 子持ちはたはた一夜干し 5尾",
+     "brand": "",
+     "size": "5尾",
+     "price_tax_excluded": 798,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "鳥取県産 はたはた一夜干し 10尾",
+     "brand": "",
+     "size": "10尾",
+     "price_tax_excluded": 698,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "Cymbal セレクト 男鹿加工 子持ちはたはた 大 4尾",
+     "brand": "Cymbal セレクト",
+     "size": "大4尾",
+     "price_tax_excluded": 980,
+     "origin": "秋田県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_hatahata_ichiyaboshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_fugu_mirin",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "みりん干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おつまみ",
+    "酒の肴",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "ふぐの身を薄く開き、甘辛いみりんだれに漬けて干し上げた下関名物のふぐみりん干し。軽く炙るだけで香ばしく、噛むほどに淡白な白身の旨みが広がります。お酒のお供やちょっとしたお土産にもおすすめです。",
+   "image_brief": "Thin translucent amber mirin-glazed dried pufferfish fillets with sesame seeds fanned out in a clear flat pack, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山口県加工 ふぐみりん干し 5枚",
+     "brand": "",
+     "size": "5枚",
+     "price_tax_excluded": 698,
+     "origin": "山口県加工"
+    },
+    {
+     "title": "山口県加工 ふぐみりん干し 徳用 10枚",
+     "brand": "",
+     "size": "10枚",
+     "price_tax_excluded": 1280,
+     "origin": "山口県加工"
+    },
+    {
+     "title": "Cymbal セレクト 下関仕込み とらふぐみりん干し 3枚",
+     "brand": "Cymbal セレクト",
+     "size": "3枚",
+     "price_tax_excluded": 1480,
+     "origin": "山口県加工"
+    },
+    {
+     "title": "Cymbal ふぐみりん干し 一口カット 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_fugu_mirin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_tobiuo_hiraki",
+   "category_path": [
+    "お魚・水産加工品",
+    "干物",
+    "とびうお"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "お茶漬け",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "あご（とびうお）を開いて塩干しにしました。脂が少なく引き締まった身はさっぱりとした上品な味わいで、焼くと香ばしい香りが立ちます。身をほぐしてお茶漬けにしても、あごだしのような旨みが楽しめます。",
+   "image_brief": "Two split-open dried flying fish with long wing-like fins spread out on a white tray under film, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長崎県産 とびうお開き 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "鹿児島県屋久島産 とびうお開き 3枚",
+     "brand": "",
+     "size": "3枚",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "島根県産 あご開き 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 598,
+     "origin": "島根県産"
+    },
+    {
+     "title": "Cymbal セレクト 天日干し とびうお開き 大 2枚",
+     "brand": "Cymbal セレクト",
+     "size": "大2枚",
+     "price_tax_excluded": 780,
+     "origin": "長崎県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_tobiuo_hiraki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_eihire",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "酒の肴",
+    "居酒屋メニュー"
+   ],
+   "tax_rate": 8,
+   "description": "えいのひれを味付けして干し上げた、居酒屋でも人気の珍味えいひれ。軽く炙ると表面が香ばしく膨らみ、噛むほどに甘みと旨みがにじみ出ます。マヨネーズに七味をふってビールや日本酒と一緒にどうぞ。",
+   "image_brief": "Thin triangular pieces of dried golden-brown ray fin in a clear resealable pouch, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ工房 えいひれ 炙り用 40g",
+     "brand": "シオカゼ工房",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "シオカゼ工房 えいひれ 徳用 100g",
+     "brand": "シオカゼ工房",
+     "size": "100g",
+     "price_tax_excluded": 880,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きえいひれ ソフト 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 炭火炙り えいひれ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_eihire_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_hotaruika",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "ほたるいか"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いか",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "酒の肴",
+    "パスタ",
+    "おつまみ",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "富山湾などで獲れるほたるいかを、醤油だれに漬けた沖漬けや、ボイルして干した素干しなどに仕上げました。濃厚なわたの旨みとぷりっとした食感が魅力。お酒の肴はもちろん、パスタや炊き込みご飯にも使えます。",
+   "image_brief": "Small whole firefly squid glistening in dark soy marinade inside a small clear tub, plain blank lid label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "富山県加工 ほたるいか沖漬け 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "富山県加工"
+    },
+    {
+     "title": "兵庫県産 ほたるいか素干し 20g",
+     "brand": "",
+     "size": "20g",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "富山県産 ボイルほたるいか 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "富山県産"
+    },
+    {
+     "title": "Cymbal セレクト 富山湾 ほたるいか燻製 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "富山県加工"
+    },
+    {
+     "title": "Cymbal 冷凍 ほたるいか沖漬け 80g",
+     "brand": "Cymbal",
+     "size": "冷凍80g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_hotaruika_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_shuto",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "塩辛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "酒の肴",
+    "クリームチーズ和え",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "かつおの内臓をじっくり熟成させた塩辛、酒盗。酒が盗まれるほど進むことから名付けられた通り、濃厚な旨みと塩気が日本酒にぴったりです。クリームチーズに添えたり、パスタの隠し味にしたりするのもおすすめ。",
+   "image_brief": "A small glass jar of dark reddish-brown fermented bonito innards with a plain metal lid and blank paper label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "高知県加工 かつお酒盗 瓶 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "高知県加工"
+    },
+    {
+     "title": "静岡県焼津加工 かつお酒盗 瓶 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 780,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "Cymbal セレクト 土佐 かつお酒盗 熟成二年 瓶 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 980,
+     "origin": "高知県加工"
+    },
+    {
+     "title": "鹿児島県加工 まぐろ酒盗 瓶 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_shuto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_takowasa",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "珍味"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酒の肴",
+    "おつまみ",
+    "居酒屋メニュー"
+   ],
+   "tax_rate": 8,
+   "description": "生だこを刻んで、ツンと香る茎わさびと合わせた人気の珍味たこわさび。コリコリとしたたこの食感と爽やかな辛みが後を引きます。海苔で巻いたり、冷奴にのせたりしても美味しくいただけます。",
+   "image_brief": "A small clear plastic cup of chopped raw octopus mixed with light green wasabi stem pieces in glossy sauce, sealed with a plain film lid.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たこわさび 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal たこわさび 徳用 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産真だこ使用 たこわさび 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal いかわさび 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 冷凍 たこわさび 小分け 40g×3個",
+     "brand": "Cymbal",
+     "size": "40g×3個",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_takowasa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_akamoku",
+   "category_path": [
+    "お魚・水産加工品",
+    "海藻・もずく",
+    "あかもく"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "あかもく丼",
+    "納豆あかもく",
+    "味噌汁",
+    "そば"
+   ],
+   "tax_rate": 8,
+   "description": "強いねばりが特長の海藻あかもく（ぎばさ）を湯通しして細かく刻み、使いやすく冷凍しました。めかぶ以上のとろみと、シャキシャキした食感が楽しめます。ポン酢や醤油をかけて、ご飯や納豆、そばにのせてどうぞ。",
+   "image_brief": "Small frozen cups of finely chopped dark green sticky akamoku seaweed in a clear multipack, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮城県産 冷凍 あかもく 40g×4",
+     "brand": "",
+     "size": "40g×4",
+     "price_tax_excluded": 298,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "秋田県産 冷凍 ぎばさ 50g×3",
+     "brand": "",
+     "size": "50g×3",
+     "price_tax_excluded": 298,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "岩手県産 冷凍 あかもく 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "Cymbal 味付け あかもく 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_akamoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nama_aosa",
+   "category_path": [
+    "お魚・水産加工品",
+    "海藻・もずく",
+    "生あおさ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    1,
+    2,
+    3,
+    11,
+    12
+   ],
+   "dishes": [
+    "あおさの味噌汁",
+    "天ぷら",
+    "卵焼き",
+    "お吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "冬から春に摘み取ったあおさを生のまま急速冷凍しました。乾燥品にはない鮮やかな緑と磯の香りが楽しめます。凍ったまま味噌汁やお吸い物に入れるだけで手軽な一品に。天ぷらや卵焼きにもおすすめです。",
+   "image_brief": "A clear pouch of bright vivid green fresh frozen aosa sea lettuce in loose clumps, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "三重県産 冷凍 生あおさ 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "三重県産"
+    },
+    {
+     "title": "愛知県産 冷凍 生あおさ 小分け 30g×4",
+     "brand": "",
+     "size": "30g×4",
+     "price_tax_excluded": 398,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "鹿児島県産 冷凍 生あおさ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal セレクト 伊勢湾 冷凍 新芽あおさ 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "三重県産"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nama_aosa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_nishin_kanroni",
+   "category_path": [
+    "お魚・水産加工品",
+    "ご飯のお供",
+    "甘露煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "にしんそば",
+    "おせち料理",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "身欠きにしんを、ふっくら柔らかくなるまで甘辛く炊き上げた甘露煮です。温かいそばにのせるだけで京都名物のにしんそばに。年越しそばやおせちの一品としても重宝し、ご飯のおかずにもよく合います。",
+   "image_brief": "Two long glossy dark brown simmered herring fillets in sweet soy glaze in a clear vacuum pack, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道加工 にしん甘露煮 2本",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "京都加工 にしんそば用 にしん甘露煮 4本",
+     "brand": "",
+     "size": "4本",
+     "price_tax_excluded": 880,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal にしん甘露煮 1本 ×2袋",
+     "brand": "Cymbal",
+     "size": "1本×2袋",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 ソフトにしん甘露煮 3本",
+     "brand": "Cymbal セレクト",
+     "size": "3本",
+     "price_tax_excluded": 980,
+     "origin": "北海道加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_nishin_kanroni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_yaki_sanma_pack",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "焼き魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "定食",
+    "朝ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "旬のさんまを丸ごと香ばしく塩焼きにした調理済みパック。レンジで温めるだけで、グリルの手間や煙を気にせず焼きたてのような味わいが楽しめます。大根おろしとすだちを添えて秋の味覚をどうぞ。",
+   "image_brief": "A whole salt-grilled saury with charred silver skin in a long microwavable clear-lidded black tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きさんま 塩焼き 1尾 レンジ対応",
+     "brand": "Cymbal",
+     "size": "1尾",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 焼きさんま 塩焼き 2尾",
+     "brand": "Cymbal",
+     "size": "2尾",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 骨取り 焼きさんま 4切",
+     "brand": "Cymbal",
+     "size": "4切",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 炭火焼きさんま 1尾",
+     "brand": "Cymbal セレクト",
+     "size": "1尾",
+     "price_tax_excluded": 398,
+     "origin": "北海道加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_yaki_sanma_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fish_dried_processed_buri_daikon",
+   "category_path": [
+    "お魚・水産加工品",
+    "焼魚・煮魚",
+    "煮魚（調理済み）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "晩ごはん",
+    "定食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "冬が旬のぶりのあらと大根を、甘辛い煮汁でじっくり煮込んだぶり大根。ぶりの旨みが大根の芯までしみ込み、温めるだけで寒い日の食卓に温かい一品が加わります。生姜の風味で後味もすっきりです。",
+   "image_brief": "Pieces of simmered yellowtail and thick amber daikon radish rounds in glossy soy broth in a microwavable clear-lidded tray, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぶり大根 1人前 レンジ対応",
+     "brand": "Cymbal",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ぶり大根 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 天然ぶり使用 ぶり大根 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 冷凍 ぶり大根 1人前",
+     "brand": "Cymbal",
+     "size": "冷凍1人前",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_fish_dried_processed_buri_daikon_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

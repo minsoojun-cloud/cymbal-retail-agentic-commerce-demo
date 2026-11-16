@@ -1,0 +1,2625 @@
+{
+ "category_key": "x_veg_root",
+ "items": [
+  {
+   "base_id": "x_veg_root_kitaakari_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "ポテトサラダ",
+    "コロッケ",
+    "カレー",
+    "シチュー",
+    "じゃがバター"
+   ],
+   "description": "黄色い果肉でほくほくとした食感が特徴のキタアカリです。甘みがあり、ポテトサラダやコロッケ、じゃがバターにぴったりです。カレーやシチューに入れると、とろりとした口当たりになります。",
+   "image_brief": "A clear plastic bag of round yellow-skinned Kitaakari potatoes with a green label reading 「北海道産 キタアカリ」.",
+   "variants": [
+    {
+     "title": "北海道産 じゃがいも（キタアカリ）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 458,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（キタアカリ）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 258,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（キタアカリ）2kg 箱入",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（キタアカリ）大玉 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "青森県産 じゃがいも（キタアカリ）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 428,
+     "origin": "青森県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 北海道産 有機じゃがいも（キタアカリ）700g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "700g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_kitaakari_potato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_may_queen_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "肉じゃが",
+    "カレー",
+    "シチュー",
+    "豚汁",
+    "おでん"
+   ],
+   "description": "細長い形で煮くずれしにくいメークインです。肉じゃがやカレー、シチューなど煮込み料理に向いています。皮がむきやすく、毎日の料理に使いやすいじゃがいもです。",
+   "image_brief": "A clear bag of elongated smooth-skinned May Queen potatoes with a label reading 「メークイン」.",
+   "variants": [
+    {
+     "title": "北海道産 じゃがいも（メークイン）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（メークイン）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（メークイン）2kg 箱入",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 778,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（メークイン）L玉 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "長崎県産 じゃがいも（メークイン）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 428,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 北海道産 有機じゃがいも（メークイン）700g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "700g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_may_queen_potato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_inca_no_mezame_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "じゃがバター",
+    "ポテトサラダ",
+    "フライドポテト",
+    "グラタン",
+    "肉じゃが"
+   ],
+   "description": "栗やさつまいものような甘みが楽しめる、濃い黄色の小ぶりなじゃがいもです。じゃがバターやフライドポテトにすると、素材の味が引き立ちます。ポテトサラダやグラタンにもおすすめです。",
+   "image_brief": "A small mesh-window bag of little deep-yellow Inca no Mezame potatoes with a label reading 「インカのめざめ」.",
+   "variants": [
+    {
+     "title": "北海道産 じゃがいも（インカのめざめ）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（インカのめざめ）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（インカのめざめ）小玉 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（インカのめざめ）2kg 箱入",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（インカのめざめ）熟成 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 458,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_inca_no_mezame_potato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_new_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "煮っころがし",
+    "肉じゃが",
+    "じゃがバター",
+    "ポテトサラダ",
+    "フライドポテト"
+   ],
+   "description": "春に出回る、皮が薄くみずみずしい新じゃがです。皮ごと使えるので、煮っころがしや皮付きフライドポテトにぴったり。肉じゃがやじゃがバターでも旬の味を楽しめます。",
+   "image_brief": "A clear bag of small thin-skinned new potatoes with a spring-green label reading 「新じゃが」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 新じゃが 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "長崎県産 新じゃが 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 新じゃが 小粒 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 328,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "静岡県産 新じゃが（三方原）約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 458,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "鹿児島県産 新じゃが（ニシユタカ）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 528,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "長崎県産 新じゃが 2kg 箱入",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 980,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_new_potato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_nagaimo",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "とろろご飯",
+    "お好み焼き",
+    "長いもの磯辺焼き",
+    "長いもの浅漬け",
+    "山かけ"
+   ],
+   "description": "すりおろすとなめらかなとろろになる長いもです。とろろご飯や山かけはもちろん、お好み焼きの生地に入れるとふんわり仕上がります。輪切りにして焼けば、シャキッとした食感も楽しめます。",
+   "image_brief": "A cut piece of nagaimo yam wrapped in clear film on a white tray with a label reading 「長いも」.",
+   "variants": [
+    {
+     "title": "北海道産 長いも 1/2カット（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 長いも 1本（約1kg）",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "青森県産 長いも カット 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 278,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 長いも 1/2カット（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 388,
+     "origin": "青森県産"
+    },
+    {
+     "title": "北海道産 長いも 短尺 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "青森県産 長いも 1本（約1kg）",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 680,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_nagaimo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_yamato_imo",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "とろろ",
+    "お好み焼き",
+    "山かけ",
+    "とろろそば",
+    "麦とろご飯"
+   ],
+   "description": "粘りが強く、コクのあるとろろになる大和いもです。お好み焼きに加えると生地がふっくら仕上がります。とろろそばや麦とろご飯にもおすすめです。",
+   "image_brief": "A knobby fist-shaped yamato-imo yam in a clear bag with a label reading 「大和いも」.",
+   "variants": [
+    {
+     "title": "群馬県産 大和いも 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 大和いも 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "千葉県産 大和いも 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 478,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "埼玉県産 大和いも 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 488,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "群馬県産 大和いも カット 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "群馬県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_yamato_imo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_frozen_grated_yam",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍野菜",
+    "冷凍 とろろ・薬味"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "とろろご飯",
+    "麦とろご飯",
+    "山かけ",
+    "とろろそば",
+    "お好み焼き"
+   ],
+   "description": "すりおろした山いもを小分けにして冷凍した、すぐ使えるとろろです。流水解凍するだけで、とろろご飯やとろろそばが手軽に作れます。お好み焼きの生地に混ぜるのにも便利です。",
+   "image_brief": "A stand-up freezer bag showing small individually wrapped portions of white grated yam with a label reading 「冷凍 とろろ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 冷凍 とろろ 小分け 40g×6袋",
+     "brand": "トップバリュ",
+     "size": "240g（40g×6袋）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 北海道産長いも使用 冷凍 とろろ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 とろろ 小分け 40g×4袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g（40g×4袋）",
+     "price_tax_excluded": 258,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 大和いもとろろ 小分け 50g×4袋",
+     "brand": "トップバリュ",
+     "size": "200g（50g×4袋）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 とろろ 小分け 40g×10袋",
+     "brand": "トップバリュ",
+     "size": "400g（40g×10袋）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 刻み長いも 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_frozen_grated_yam_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_red_onion",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    9,
+    10
+   ],
+   "dishes": [
+    "マリネ",
+    "サラダ",
+    "南蛮漬け",
+    "ポテトサラダ",
+    "オニオンスライス"
+   ],
+   "description": "辛みが少なく、鮮やかな紫色が料理を華やかにする紫たまねぎです。薄切りにしてサラダやマリネ、南蛮漬けに使うと彩りよく仕上がります。ポテトサラダのアクセントにもおすすめです。",
+   "image_brief": "Two glossy purple red onions in a clear net bag with a label reading 「紫たまねぎ」.",
+   "variants": [
+    {
+     "title": "北海道産 紫たまねぎ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 紫たまねぎ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "北海道産"
+    },
+    {
+     "title": "佐賀県産 紫たまねぎ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 288,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "淡路島産 紫たまねぎ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 348,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "北海道産 紫たまねぎ 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "アメリカ産 レッドオニオン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_red_onion_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_new_onion",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "オニオンスライス",
+    "新玉ねぎのサラダ",
+    "新玉ねぎの丸ごとスープ",
+    "豚の生姜焼き",
+    "かき揚げ"
+   ],
+   "description": "春だけの、みずみずしく辛みの少ない新たまねぎです。薄切りにして水にさらさずオニオンスライスやサラダで味わえます。丸ごとスープやかき揚げにすると甘みが引き立ちます。",
+   "image_brief": "Three white-skinned flattened new onions in a clear net bag with a spring label reading 「新たまねぎ」.",
+   "variants": [
+    {
+     "title": "佐賀県産 新たまねぎ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "淡路島産 新たまねぎ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "愛知県産 新たまねぎ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 288,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "佐賀県産 新たまねぎ 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 458,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "淡路島産 新たまねぎ 大玉 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "熊本県産 新たまねぎ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 278,
+     "origin": "熊本県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_new_onion_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_mini_carrot",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    11,
+    12
+   ],
+   "dishes": [
+    "お弁当のおかず",
+    "にんじんのグラッセ",
+    "ハンバーグの付け合わせ",
+    "スティックサラダ",
+    "シチュー"
+   ],
+   "description": "小ぶりで丸ごと使えるミニキャロットです。皮が柔らかく甘みがあるので、グラッセやスティックサラダに向いています。ハンバーグの付け合わせやお弁当の彩りにも便利です。",
+   "image_brief": "A clear bag of small slender bright-orange mini carrots with a label reading 「ミニキャロット」.",
+   "variants": [
+    {
+     "title": "愛知県産 ミニキャロット 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 ミニキャロット 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "国産 葉付き ミニキャロット 1束",
+     "brand": "",
+     "size": "1束",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "愛知県産 ミニキャロット 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 368,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ミニキャロット 120g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_mini_carrot_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_kintoki_carrot",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "筑前煮",
+    "お雑煮",
+    "紅白なます",
+    "煮しめ",
+    "きんぴら"
+   ],
+   "description": "鮮やかな赤色と甘みが特徴の金時にんじんです。煮くずれしにくく、筑前煮や煮しめ、お雑煮を華やかに彩ります。お正月の紅白なますにもぴったりです。",
+   "image_brief": "Slender deep-red kintoki carrots wrapped in clear film with a label reading 「金時にんじん」.",
+   "variants": [
+    {
+     "title": "香川県産 金時にんじん 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "香川県産"
+    },
+    {
+     "title": "香川県産 金時にんじん 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 368,
+     "origin": "香川県産"
+    },
+    {
+     "title": "京都府産 京にんじん（金時）1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 228,
+     "origin": "京都府産"
+    },
+    {
+     "title": "香川県産 金時にんじん 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 498,
+     "origin": "香川県産"
+    },
+    {
+     "title": "徳島県産 金時にんじん 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 188,
+     "origin": "徳島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_kintoki_carrot_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_turnip",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "かぶの浅漬け",
+    "味噌汁",
+    "かぶのそぼろあんかけ",
+    "かぶのクリーム煮",
+    "シチュー"
+   ],
+   "description": "やわらかく火の通りが早いかぶです。浅漬けや味噌汁はもちろん、そぼろあんかけやクリーム煮にするととろけるような食感になります。葉も炒め物や味噌汁に使えます。",
+   "image_brief": "A bunch of round white turnips with green leaves tied with tape and a label reading 「かぶ」.",
+   "variants": [
+    {
+     "title": "千葉県産 かぶ 3個入（葉付き）",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 小かぶ 1束（4〜5個）",
+     "brand": "",
+     "size": "1束（4〜5個）",
+     "price_tax_excluded": 298,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "埼玉県産 かぶ 3個入（葉付き）",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 238,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "京都府産 聖護院かぶ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    },
+    {
+     "title": "国産 赤かぶ 1束",
+     "brand": "",
+     "size": "1束",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "青森県産 かぶ 3個入（葉付き）",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_turnip_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_steamed_potato_peeled",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ポテトサラダ",
+    "肉じゃが",
+    "カレー",
+    "コロッケ",
+    "ジャーマンポテト"
+   ],
+   "description": "皮をむいて蒸してあるので、下ゆでの手間なくすぐ使えるじゃがいもです。つぶしてポテトサラダやコロッケに、そのままカレーや肉じゃがに加えても便利です。忙しい日の時短調理に役立ちます。",
+   "image_brief": "A vacuum-sealed clear pack of peeled steamed yellow potatoes with a label reading 「皮むき 蒸しじゃがいも」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産じゃがいも使用 皮むき蒸しじゃがいも 4個入（約400g）",
+     "brand": "トップバリュ",
+     "size": "約400g（4個入）",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 蒸しじゃがいも カット 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 ポテトサラダ用 蒸しじゃがいも 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 268,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 蒸しじゃがいも 皮むき 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 北海道産 メークイン 皮むき蒸し 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 皮むき じゃがいも 水煮 カット 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_steamed_potato_peeled_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_boiled_daikon",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "下ごしらえ野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おでん",
+    "ぶり大根",
+    "ふろふき大根",
+    "大根の煮物",
+    "豚汁"
+   ],
+   "description": "下ゆで済みで、味がしみ込みやすい大根です。おでんやぶり大根、ふろふき大根が短い煮込み時間で仕上がります。面取り済みなので煮くずれしにくく、見た目もきれいです。",
+   "image_brief": "A clear pouch of thick round pre-boiled daikon slices in liquid with a label reading 「下ゆで大根」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 下ゆで大根 おでん用 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 下ゆで大根 輪切り 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 下ゆで大根 ぶり大根用 カット 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 下ゆで大根 8個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "国産 だいこん 下ゆで済み 厚切り 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_boiled_daikon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_gobo_sasagaki_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "きんぴら",
+    "豚汁",
+    "筑前煮",
+    "柳川風卵とじ",
+    "炊き込みご飯"
+   ],
+   "description": "ささがきにして下ゆでした、すぐ使えるごぼうの水煮です。アク抜き不要で、きんぴらや豚汁、炊き込みご飯に手軽に使えます。柳川風の卵とじにもおすすめです。",
+   "image_brief": "A clear flat pouch of thin shaved burdock root strips in water with a label reading 「ささがきごぼう 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 ささがきごぼう 水煮 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ささがきごぼう 水煮 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ささがきごぼう 水煮 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 カットごぼう 水煮（乱切り）150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ごぼう 水煮 千切り 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 青森県産 ささがきごぼう 水煮 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 178,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_gobo_sasagaki_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_renkon_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "れんこんのきんぴら",
+    "酢れんこん",
+    "れんこんのはさみ揚げ",
+    "煮しめ"
+   ],
+   "description": "皮むき・下ゆで済みで、変色しにくいれんこんの水煮です。筑前煮やきんぴらにそのまま使えて、シャキシャキ食感が楽しめます。酢れんこんや煮しめなどお正月料理にも便利です。",
+   "image_brief": "A clear pouch of white lotus root slices with visible holes in water with a label reading 「れんこん 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 れんこん 水煮 スライス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 れんこん 水煮 乱切り 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス れんこん 水煮 スライス 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 茨城県産 れんこん 水煮 ホール 1節",
+     "brand": "トップバリュ",
+     "size": "1節",
+     "price_tax_excluded": 298,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ 国産 酢れんこん用 れんこん 水煮 花切り 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 れんこん 水煮 いちょう切り 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_renkon_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_takenoko_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "青椒肉絲",
+    "若竹煮",
+    "たけのこご飯",
+    "筑前煮",
+    "酢豚",
+    "土佐煮"
+   ],
+   "description": "アク抜き済みで、すぐに使えるたけのこの水煮です。青椒肉絲や酢豚などの中華料理、若竹煮やたけのこご飯など和食にも幅広く使えます。歯ごたえのよい食感が料理のアクセントになります。",
+   "image_brief": "A clear vacuum pouch containing a whole pale-yellow boiled bamboo shoot in water with a label reading 「たけのこ 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 たけのこ 水煮 ホール 1本（約200g）",
+     "brand": "トップバリュ",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス たけのこ 水煮 ホール 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 たけのこ 水煮 土佐煮用 スライス 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 九州産 たけのこ 水煮 若竹煮用 カット 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "九州産"
+    },
+    {
+     "title": "トップバリュ 国産 細切りたけのこ 水煮 青椒肉絲用 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "福岡県産 朝掘り ゆでたけのこ 1本（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "トップバリュ 国産 たけのこ 水煮 穂先 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_takenoko_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_satoimo_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "里芋の煮っころがし",
+    "筑前煮",
+    "豚汁",
+    "いかと里芋の煮物",
+    "けんちん汁"
+   ],
+   "description": "皮むき・下ゆで済みで、ぬめり取りの手間がいらない里芋の水煮です。煮っころがしや筑前煮が手軽に作れます。豚汁やけんちん汁の具にもそのまま使えます。",
+   "image_brief": "A clear pouch of small peeled white taro pieces in water with a label reading 「さといも 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 さといも 水煮 皮むき 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 さといも 水煮 皮むき 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス さといも 水煮 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 宮崎県産 さといも 水煮 小粒 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 268,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 国産 さといも 水煮 煮物用カット 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_satoimo_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_frozen_satoimo",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍野菜",
+    "冷凍 和風野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "里芋の煮っころがし",
+    "豚汁",
+    "筑前煮",
+    "けんちん汁",
+    "里芋のそぼろ煮"
+   ],
+   "description": "皮をむいて下ゆでし、凍ったまま使える冷凍さといもです。必要な分だけ取り出して、煮っころがしや豚汁、筑前煮に使えます。常備しておくと煮物づくりが手軽になります。",
+   "image_brief": "A stand-up freezer bag showing peeled frosty white taro pieces with a label reading 「冷凍 さといも」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 冷凍 さといも 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 さといも 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 宮崎県産 冷凍 さといも 小粒 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 さといも 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 有機さといも 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_frozen_satoimo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_sansai_mizuni",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "水煮野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "山菜そば",
+    "山菜うどん",
+    "山菜おこわ",
+    "炊き込みご飯",
+    "ナムル",
+    "山菜の煮物"
+   ],
+   "description": "アク抜き済みですぐに使える山菜の水煮です。そばやうどんにのせれば手軽に山菜そばが楽しめます。炊き込みご飯やおこわ、煮物やナムルにもおすすめです。",
+   "image_brief": "A clear pouch of mixed brown and green mountain vegetables in water with a label reading 「山菜 水煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 山菜ミックス 水煮 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 わらび 水煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ぜんまい 水煮 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ふき 水煮 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 山菜ミックス 水煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ぜんまい 水煮 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_sansai_mizuni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_tonjiru_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚汁",
+    "けんちん汁",
+    "味噌汁",
+    "粕汁"
+   ],
+   "description": "大根・にんじん・ごぼうなど、豚汁に使う根菜をまとめてカットした野菜セットです。洗って切る手間なく、豚肉と煮込むだけで具だくさんの豚汁が作れます。けんちん汁や粕汁にも使えます。",
+   "image_brief": "A clear tray bag of cut daikon, carrot, burdock and taro pieces with a label reading 「豚汁用 野菜セット」.",
+   "variants": [
+    {
+     "title": "国産 豚汁用 カット野菜セット 2〜3人前（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚汁用 カット野菜セット 4〜5人前（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 豚汁の具 カット野菜 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 けんちん汁用 カット野菜セット 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 具だくさん 豚汁用野菜セット こんにゃく入り 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚汁用 カット野菜 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_tonjiru_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_chikuzenni_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "煮しめ",
+    "がめ煮",
+    "炊き込みご飯"
+   ],
+   "description": "れんこん・ごぼう・にんじん・たけのこ・里芋などを下ごしらえした筑前煮用の野菜ミックスです。鶏肉と煮るだけで、手間のかかる筑前煮が手軽に作れます。お正月の煮しめにも便利です。",
+   "image_brief": "A clear pouch of mixed boiled lotus root, burdock, carrot, bamboo shoot and taro with a label reading 「筑前煮用 野菜ミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 筑前煮用 野菜ミックス 水煮 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 筑前煮用 野菜ミックス 水煮 350g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350g",
+     "price_tax_excluded": 258,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 筑前煮用 野菜ミックス 水煮 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 筑前煮用 生カット野菜セット 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 煮しめ用 野菜ミックス 水煮 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 九州産 がめ煮用 野菜ミックス 水煮 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "九州産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_chikuzenni_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_curry_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "シチュー",
+    "ハヤシライス",
+    "ポトフ"
+   ],
+   "description": "じゃがいも・にんじん・たまねぎを食べやすくカットしたカレー用の野菜セットです。お肉と一緒に炒めて煮込むだけで、手軽にカレーやシチューが作れます。皮むきの手間が省けて忙しい日に便利です。",
+   "image_brief": "A clear bag of cubed potato, carrot and onion pieces with a label reading 「カレー用 野菜セット」.",
+   "variants": [
+    {
+     "title": "国産 カレー用 カット野菜セット 2〜3人前（約350g）",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カレー用 カット野菜セット 4〜5人前（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 カレー・シチュー用 カット野菜 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 シチュー用 カット野菜セット ブロッコリー入り 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス カレー用 カット野菜 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 夏野菜カレー用 カット野菜セット 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_curry_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_nikujaga_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "煮物",
+    "豚じゃが",
+    "カレー"
+   ],
+   "description": "じゃがいも・にんじん・たまねぎを肉じゃが向けの大きさにカットした野菜セットです。お肉と調味料を加えて煮るだけで、家庭の味の肉じゃがが手軽に作れます。煮物やカレーにも使えます。",
+   "image_brief": "A clear bag of large-cut potato, carrot and onion wedges with a label reading 「肉じゃが用 野菜セット」.",
+   "variants": [
+    {
+     "title": "国産 肉じゃが用 カット野菜セット 2〜3人前（約350g）",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 肉じゃが用 カット野菜セット しらたき入り 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 肉じゃが用 カット野菜 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 肉じゃが用 カット野菜セット 4〜5人前（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 煮物用 カット根菜ミックス 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_nikujaga_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_stir_fry_vegetable_mix",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "焼きそば",
+    "回鍋肉",
+    "ちゃんぽん",
+    "タンメン"
+   ],
+   "description": "キャベツ・にんじん・もやしなどを炒めやすくカットした野菜ミックスです。袋から出してお肉と炒めるだけで、野菜炒めや焼きそばがすぐに作れます。ちゃんぽんやタンメンの具にも便利です。",
+   "image_brief": "A pillow bag of shredded cabbage, carrot, bean sprouts and green pepper with a label reading 「野菜炒めミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 野菜炒めミックス 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 肉野菜炒め用 カット野菜 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 もやしたっぷり 野菜炒めミックス 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 中華炒め用 カット野菜ミックス（キャベツ・にんじん・ピーマン）250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 焼きそば用 カット野菜 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 回鍋肉用 カット野菜 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ちゃんぽん用 カット野菜 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_stir_fry_vegetable_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_shredded_cabbage",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "コールスロー",
+    "お好み焼き",
+    "豚の生姜焼き",
+    "メンチカツ"
+   ],
+   "description": "洗わずにそのまま使える千切りキャベツです。とんかつや豚の生姜焼きの付け合わせに、袋から出してすぐ盛り付けられます。お好み焼きやコールスローにも便利です。",
+   "image_brief": "A pillow bag of finely shredded pale-green cabbage with a label reading 「千切りキャベツ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 千切りキャベツ 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 千切りキャベツ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 千切りキャベツ にんじん入り 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 コールスロー用 カットキャベツ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 紫キャベツ入り 千切りキャベツミックス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 138,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 お好み焼き用 カットキャベツ（粗みじん）300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ふんわり極細 千切りキャベツ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_shredded_cabbage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_kinpira_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "カット野菜・水煮",
+    "料理用カット野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "きんぴら",
+    "豚汁",
+    "炊き込みご飯",
+    "お弁当のおかず"
+   ],
+   "description": "ごぼうとにんじんをきんぴら用の細切りにした生のカット野菜です。ごま油で炒めて味付けするだけで、定番のきんぴらがすぐに作れます。豚汁や炊き込みご飯の具にも使えます。",
+   "image_brief": "A clear bag of julienned burdock and carrot strips with a label reading 「きんぴら用 ごぼう・にんじん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 きんぴら用 ごぼう・にんじんミックス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 きんぴら用 ごぼう・にんじんミックス 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 れんこんきんぴら用 スライス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス きんぴら用 ごぼう・にんじん 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "国産 ささがきごぼう 生カット 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 きんぴら用 細切り根菜ミックス（ごぼう・にんじん・れんこん）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_kinpira_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_frozen_wafu_root_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍野菜",
+    "冷凍 和風野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "豚汁",
+    "きんぴら",
+    "煮物",
+    "炊き込みご飯",
+    "カレー"
+   ],
+   "description": "下ごしらえ済みの根菜を凍ったまま使える冷凍野菜ミックスです。使いたい分だけ取り出して、筑前煮や豚汁、きんぴらに手軽に使えます。冷凍庫に常備しておくと、野菜が足りないときに便利です。",
+   "image_brief": "A stand-up freezer bag showing frosty cut lotus root, burdock, carrot and taro with a label reading 「冷凍 和風野菜ミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 冷凍 和風野菜ミックス（筑前煮用）400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 和風野菜ミックス 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 258,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 豚汁・けんちん汁用 根菜ミックス 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 ささがきごぼう 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 れんこん 乱切り 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 カレー用 野菜ミックス 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 258,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 きんぴら用 ごぼう・にんじん 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_frozen_wafu_root_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_fresh_edamame",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "塩ゆで枝豆",
+    "枝豆ご飯",
+    "かき揚げ",
+    "ずんだ和え",
+    "お弁当のおかず"
+   ],
+   "description": "さやごと塩ゆでして味わう、旬の生の枝豆です。ゆでたてはもちろん、むき実を枝豆ご飯やかき揚げに使っても彩りよく仕上がります。お弁当のすき間おかずにもぴったりです。",
+   "image_brief": "A clear mesh-window bag of bright-green fresh edamame pods with a label reading 「枝豆」.",
+   "variants": [
+    {
+     "title": "群馬県産 枝豆 1袋（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "山形県産 だだちゃ豆 1袋（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "山形県産"
+    },
+    {
+     "title": "新潟県産 茶豆 1袋（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "千葉県産 枝付き 枝豆 1束（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "兵庫県産 丹波黒枝豆 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "埼玉県産 枝豆 1袋（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 328,
+     "origin": "埼玉県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_fresh_edamame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_steamed_soybeans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "蒸し豆・水煮豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "五目豆",
+    "ひじき煮",
+    "ポークビーンズ",
+    "サラダ",
+    "味噌汁"
+   ],
+   "description": "大豆を蒸して仕上げた、袋を開けてすぐ使える蒸し大豆です。戻す手間がいらず、五目豆やひじき煮、ポークビーンズに手軽に使えます。サラダや味噌汁にそのまま加えるのもおすすめです。",
+   "image_brief": "A small stand-up pouch with a window showing plump beige steamed soybeans and a label reading 「蒸し大豆」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産大豆 蒸し大豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産大豆 蒸し大豆 100g×3袋",
+     "brand": "トップバリュ",
+     "size": "300g（100g×3袋）",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 北海道産大豆 蒸し大豆 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産 蒸し黒豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 蒸し大豆 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 118,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機蒸し大豆 100g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産大豆 水煮大豆 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_steamed_soybeans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_steamed_mixed_beans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "蒸し豆・水煮豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "ミネストローネ",
+    "ポークビーンズ",
+    "カレー",
+    "スープ"
+   ],
+   "description": "数種類の豆を蒸して仕上げた、そのまま使えるミックスビーンズです。サラダにのせるだけで彩りと食感がプラスされます。ミネストローネやカレー、ポークビーンズにもおすすめです。",
+   "image_brief": "A small stand-up pouch with a window showing colorful mixed steamed beans and a label reading 「蒸しミックスビーンズ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 蒸しミックスビーンズ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 蒸しサラダ豆（大豆・青大豆・金時豆）100g×3袋",
+     "brand": "トップバリュ",
+     "size": "300g（100g×3袋）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミックスビーンズ 水煮 110g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "110g",
+     "price_tax_excluded": 98,
+     "origin": "アメリカ・カナダ産"
+    },
+    {
+     "title": "トップバリュ 蒸しひよこ豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 北海道産 蒸し金時豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 北海道産 蒸し青大豆 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_steamed_mixed_beans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_soybean_sprouts",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "もやし・スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ナムル",
+    "野菜炒め",
+    "味噌汁",
+    "ビビンバ",
+    "もやしスープ"
+   ],
+   "description": "豆の部分まで食べられる、シャキシャキ食感の大豆もやしです。ゆでてナムルにしたり、ビビンバや野菜炒めに使ったりと活躍します。味噌汁やスープの具にもおすすめです。",
+   "image_brief": "A clear pillow bag of soybean sprouts with yellow bean heads visible and a label reading 「大豆もやし」.",
+   "variants": [
+    {
+     "title": "国産 大豆もやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 58,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 大豆もやし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 78,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産大豆使用 大豆もやし 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 68,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ひげ根取り 大豆もやし 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 黒豆もやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 88,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大豆もやし 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_soybean_sprouts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_black_matpe_sprouts",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "もやし・スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "ラーメン",
+    "焼きそば",
+    "ナムル",
+    "鍋"
+   ],
+   "description": "細めでシャキッとした歯ごたえのブラックマッペもやしです。野菜炒めや焼きそば、ラーメンのトッピングに使いやすく、お財布にやさしい食材です。ナムルや鍋の具にもおすすめです。",
+   "image_brief": "A clear pillow bag of thin white black-matpe bean sprouts with a label reading 「ブラックマッペもやし」.",
+   "variants": [
+    {
+     "title": "国産 ブラックマッペもやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 48,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ブラックマッペもやし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 58,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス もやし（ブラックマッペ）200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 38,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 細もやし（ブラックマッペ）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 48,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ブラックマッペもやし 3袋パック（200g×3）",
+     "brand": "",
+     "size": "600g（200g×3）",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 根切り ブラックマッペもやし 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_black_matpe_sprouts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_green_beans",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "いんげんのごま和え",
+    "いんげんの肉巻き",
+    "煮物",
+    "天ぷら",
+    "お弁当のおかず"
+   ],
+   "description": "やわらかく彩りのよいさやいんげんです。さっとゆでてごま和えにしたり、豚肉で巻いて肉巻きにしたりと使いやすい食材です。煮物の彩りやお弁当のおかずにも重宝します。",
+   "image_brief": "A clear bag of slender fresh green beans with a label reading 「さやいんげん」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 さやいんげん 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "沖縄県産 さやいんげん 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "福島県産 さやいんげん 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 258,
+     "origin": "福島県産"
+    },
+    {
+     "title": "千葉県産 モロッコいんげん 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 258,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "国産 丸さやいんげん 徳用 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 さやいんげん 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_green_beans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_snap_peas",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "スナップえんどうのサラダ",
+    "卵とじ",
+    "天ぷら",
+    "野菜炒め",
+    "お弁当のおかず"
+   ],
+   "description": "さやごと食べられる、甘みのあるスナップえんどうです。筋を取ってさっとゆでるだけでサラダやお弁当の彩りになります。卵とじや炒め物、天ぷらにもおすすめです。",
+   "image_brief": "A clear bag of plump bright-green snap pea pods with a label reading 「スナップえんどう」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 スナップえんどう 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "熊本県産 スナップえんどう 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "和歌山県産 スナップえんどう 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "愛知県産 スナップえんどう 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "国産 スナップえんどう 徳用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_snap_peas_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_snow_peas",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "筑前煮",
+    "卵とじ",
+    "味噌汁",
+    "ちらし寿司",
+    "煮物"
+   ],
+   "description": "薄いさやで、料理に彩りを添えるきぬさやです。筑前煮や煮物の仕上げに加えると、緑が映えて見た目が華やかになります。卵とじや味噌汁、ちらし寿司にもおすすめです。",
+   "image_brief": "A small clear bag of flat thin snow pea pods with a label reading 「きぬさや」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 きぬさや 1袋（約50g）",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 158,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "愛知県産 きぬさや 1袋（約50g）",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 168,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "和歌山県産 きぬさや 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 298,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "国産 きぬさや 徳用 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "熊本県産 きぬさや 1袋（約50g）",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 158,
+     "origin": "熊本県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_snow_peas_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_fava_beans",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "塩ゆでそら豆",
+    "かき揚げ",
+    "そら豆ご飯",
+    "炒め物",
+    "焼きそら豆"
+   ],
+   "description": "ほくほくとした食感と豊かな風味が楽しめる、旬のそら豆です。塩ゆでやさやごと焼く焼きそら豆はもちろん、かき揚げや炊き込みご飯にもおすすめです。",
+   "image_brief": "A clear bag of large green fava bean pods with a label reading 「そら豆」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 そら豆 さや付き 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "千葉県産 そら豆 さや付き 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 478,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "愛媛県産 そら豆 さや付き 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 898,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "鹿児島県産 むきそら豆 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "茨城県産 そら豆 さや付き 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_fava_beans_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_veg_root_green_peas",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "豆ごはん",
+    "卵とじ",
+    "翡翠煮",
+    "チャーハン",
+    "シチュー"
+   ],
+   "description": "春が旬の、甘みのある生のグリーンピースです。さやからむいて炊き込めば、香りのよい豆ごはんが楽しめます。卵とじや翡翠煮、チャーハンの彩りにもおすすめです。",
+   "image_brief": "A clear bag of plump green pea pods with a few shelled peas visible and a label reading 「グリーンピース」.",
+   "variants": [
+    {
+     "title": "和歌山県産 うすいえんどう さや付き 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "鹿児島県産 グリーンピース さや付き 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 348,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "和歌山県産 むきうすいえんどう 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "国産 グリーンピース むき実 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    },
+    {
+     "title": "熊本県産 グリーンピース さや付き 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 548,
+     "origin": "熊本県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_veg_root_green_peas_p.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4050 @@
+{
+ "category_key": "w_dry_goods_flour",
+ "items": [
+  {
+   "base_id": "w_dry_goods_flour_takujo_ajitsuke_nori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "味付のり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おにぎり",
+    "お弁当",
+    "卵かけごはん"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛いしょうゆだれをしみ込ませて香ばしく焼き上げた卓上タイプの味付のりです。食卓に置いておけるボトル入りで湿気にくく、朝ごはんやお弁当のおともに。子どもから大人まで食べやすいやさしい味わいです。",
+   "image_brief": "A clear round plastic tabletop bottle filled with stacked small rectangular glossy dark seasoned nori sheets, plain blank white lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 卓上味付のり 12切60枚",
+     "brand": "Cymbal",
+     "size": "12切60枚",
+     "price_tax_excluded": 248,
+     "origin": "国産のり使用"
+    },
+    {
+     "title": "Cymbal 卓上味付のり 徳用 12切120枚",
+     "brand": "Cymbal",
+     "size": "12切120枚",
+     "price_tax_excluded": 428,
+     "origin": "国産のり使用"
+    },
+    {
+     "title": "Cymbal ベーシック 味付のり 8切40枚",
+     "brand": "Cymbal ベーシック",
+     "size": "8切40枚",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 有明海産 一番摘み 卓上味付のり 12切48枚",
+     "brand": "Cymbal セレクト",
+     "size": "12切48枚",
+     "price_tax_excluded": 398,
+     "origin": "有明海産"
+    },
+    {
+     "title": "Cymbal 卓上味付のり 梅風味 12切60枚",
+     "brand": "Cymbal",
+     "size": "12切60枚",
+     "price_tax_excluded": 258,
+     "origin": "国産のり使用"
+    },
+    {
+     "title": "Cymbal 卓上味付のり わさび風味 12切60枚",
+     "brand": "Cymbal",
+     "size": "12切60枚",
+     "price_tax_excluded": 258,
+     "origin": "国産のり使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_takujo_ajitsuke_nori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kizami_nori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "刻みのり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ざるそば",
+    "ちらし寿司",
+    "丼もの",
+    "和風パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "焼のりを細く刻んだ、トッピング用の刻みのりです。袋から出してそのまま散らすだけで、ざるそばやちらし寿司、丼ものの香りと彩りがぐっと引き立ちます。チャック付きで使いたい分だけ取り出せます。",
+   "image_brief": "A small resealable clear stand-up pouch showing fine black shredded nori strands, plain blank kraft-colored label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 刻みのり 5g",
+     "brand": "Cymbal",
+     "size": "5g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 刻みのり 徳用 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 刻みのり 10g",
+     "brand": "Cymbal ベーシック",
+     "size": "10g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 有明海産 極細 刻みのり 4g",
+     "brand": "Cymbal セレクト",
+     "size": "4g",
+     "price_tax_excluded": 248,
+     "origin": "有明海産"
+    },
+    {
+     "title": "シオカゼ海産 瀬戸内産 太刻みのり 8g",
+     "brand": "シオカゼ海産",
+     "size": "8g",
+     "price_tax_excluded": 278,
+     "origin": "瀬戸内海産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kizami_nori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_momi_nori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "もみのり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "とろろごはん",
+    "冷奴",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "焼のりを手でもんだようなふんわりとした細片タイプ。香りが立ちやすく、ごはんや麺、お好み焼き、冷奴などに軽く振りかけるだけで磯の風味が広がります。料理の仕上げにひとつあると便利な一品です。",
+   "image_brief": "A clear pillow bag of loose crumpled dark green toasted nori flakes with a plain blank white sticker label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 もみのり 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 もみのり 徳用 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック もみのり 15g",
+     "brand": "Cymbal ベーシック",
+     "size": "15g",
+     "price_tax_excluded": 178,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 三重県産 焼もみのり 8g",
+     "brand": "Cymbal セレクト",
+     "size": "8g",
+     "price_tax_excluded": 258,
+     "origin": "三重県産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_momi_nori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_iwa_nori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "岩のり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "味噌汁",
+    "岩のりの佃煮",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "冬の岩場で摘み取った天然の岩のりを乾燥させました。ざらりとした食感と強い磯の香りが特徴で、お雑煮にのせたり、お吸い物や味噌汁に加えたりするのがおすすめ。年末年始の食卓を豊かに彩ります。",
+   "image_brief": "A flat clear tray pack holding a thin uneven sheet of dark wild rock nori, sealed with film and a plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 天然 岩のり 板 1枚(約10g)",
+     "brand": "シオカゼ海産",
+     "size": "1枚(約10g)",
+     "price_tax_excluded": 598,
+     "origin": "島根県産"
+    },
+    {
+     "title": "シオカゼ海産 天然 岩のり バラ 8g",
+     "brand": "シオカゼ海産",
+     "size": "8g",
+     "price_tax_excluded": 498,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal 岩のり 乾燥 6g",
+     "brand": "Cymbal",
+     "size": "6g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 出雲産 十六島風 岩のり 1枚(約8g)",
+     "brand": "Cymbal セレクト",
+     "size": "1枚(約8g)",
+     "price_tax_excluded": 980,
+     "origin": "島根県産"
+    },
+    {
+     "title": "Cymbal ベーシック 岩のり入り 焼のり 全形5枚",
+     "brand": "Cymbal ベーシック",
+     "size": "全形5枚",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_iwa_nori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_korean_nori_flakes",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "韓国のり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "韓国風おにぎり",
+    "ビビンバ",
+    "チャーハン",
+    "ごはんのおとも"
+   ],
+   "tax_rate": 8,
+   "description": "ごま油と塩で香ばしく味付けした韓国風のりを細かく砕いたフレークタイプ。ごはんに混ぜればそのまま韓国風おにぎりに。ビビンバやチャーハン、サラダのトッピングにも使える手軽さが人気です。",
+   "image_brief": "A resealable foil stand-up pouch next to a small bowl of crumbled glossy seasoned seaweed flakes with sesame seeds, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 韓国のりフレーク 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "韓国加工"
+    },
+    {
+     "title": "Cymbal 韓国のりフレーク 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "韓国加工"
+    },
+    {
+     "title": "Cymbal 韓国のりフレーク ピリ辛 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "韓国加工"
+    },
+    {
+     "title": "Cymbal ベーシック 韓国風 味付のりフレーク 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "韓国加工"
+    },
+    {
+     "title": "Cymbal セレクト えごま油仕立て 韓国のりフレーク 45g",
+     "brand": "Cymbal セレクト",
+     "size": "45g",
+     "price_tax_excluded": 398,
+     "origin": "韓国加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_korean_nori_flakes_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_temaki_nori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "のり",
+    "焼のり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手巻き寿司",
+    "おにぎり",
+    "サンドイッチ寿司",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "手巻き寿司にちょうどよい半切サイズの焼のりです。パリッとした歯切れのよさとほどよい厚みで、具をたっぷり巻いても破れにくいのが特長。週末の手巻きパーティーや家族のイベントにどうぞ。",
+   "image_brief": "A clear rectangular bag holding a neat stack of half-cut crisp black toasted nori sheets, plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 手巻き寿司用 焼のり 半切 20枚",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 手巻き寿司用 焼のり 半切 40枚",
+     "brand": "Cymbal",
+     "size": "40枚",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 手巻き用 焼のり 半切 30枚",
+     "brand": "Cymbal ベーシック",
+     "size": "30枚",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 有明海産 手巻き寿司用 焼のり 半切 20枚",
+     "brand": "Cymbal セレクト",
+     "size": "20枚",
+     "price_tax_excluded": 498,
+     "origin": "有明海産"
+    },
+    {
+     "title": "Cymbal 手巻き寿司用 焼のり 1/4切 40枚",
+     "brand": "Cymbal",
+     "size": "40枚",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_temaki_nori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kizami_mekabu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "めかぶ・茎わかめ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "めかぶ酢",
+    "味噌汁",
+    "めかぶ納豆",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚のめかぶを細かく刻んで乾燥させました。水で戻すと独特のねばりとシャキッとした食感がよみがえり、ポン酢をかけるだけで一品に。味噌汁やスープ、納豆に混ぜるなど毎日の献立に取り入れやすい乾物です。",
+   "image_brief": "A small clear zip pouch filled with dark green dried shredded mekabu seaweed pieces, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 三陸産 乾燥刻みめかぶ 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 298,
+     "origin": "三陸産"
+    },
+    {
+     "title": "Cymbal 三陸産 乾燥刻みめかぶ 徳用 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "三陸産"
+    },
+    {
+     "title": "Cymbal ベーシック 乾燥めかぶ 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 岩手県産 乾燥刻みめかぶ 20g",
+     "brand": "Cymbal セレクト",
+     "size": "20g",
+     "price_tax_excluded": 348,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "シオカゼ海産 乾燥 茎わかめ 刻み 30g",
+     "brand": "シオカゼ海産",
+     "size": "30g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kizami_mekabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kaiso_salad_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "海藻ミックス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "海藻サラダ",
+    "酢の物",
+    "味噌汁",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "わかめ、赤とさか、白きくらげ風の海藻、茎わかめなど数種類を合わせた乾燥海藻ミックス。水で戻すだけで色とりどりの海藻サラダが完成します。ドレッシングを替えて和風にも中華風にも楽しめます。",
+   "image_brief": "A clear stand-up pouch with a window showing colorful dried seaweed mix in green, red, and white pieces, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 海藻サラダミックス 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 海藻サラダミックス 徳用 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 428,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ベーシック 海藻ミックス 25g",
+     "brand": "Cymbal ベーシック",
+     "size": "25g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産6種の海藻ミックス 12g",
+     "brand": "Cymbal セレクト",
+     "size": "12g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 海藻ミックス 小分け 5g×6袋",
+     "brand": "Cymbal",
+     "size": "5g×6袋",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kaiso_salad_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_funori",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "ふのり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "刺身のつま",
+    "酢の物",
+    "そば"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとした歯ざわりと磯の香りが持ち味のふのりです。水にさっとくぐらせるだけで戻り、味噌汁の具や刺身のつま、酢の物に。そばの名脇役としても重宝する、昔ながらの海藻です。",
+   "image_brief": "A small clear bag of curly reddish-brown dried funori seaweed sprigs with a plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 国産 ふのり 10g",
+     "brand": "シオカゼ海産",
+     "size": "10g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "シオカゼ海産 国産 ふのり 20g",
+     "brand": "シオカゼ海産",
+     "size": "20g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ふのり 乾燥 8g",
+     "brand": "Cymbal",
+     "size": "8g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 三陸産 天然ふのり 10g",
+     "brand": "Cymbal セレクト",
+     "size": "10g",
+     "price_tax_excluded": 398,
+     "origin": "三陸産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_funori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_tororo_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "とろろ昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "とろろ昆布のお吸い物",
+    "うどん",
+    "おにぎり",
+    "湯豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "酢に漬けた昆布を薄く削ったふんわりとろろ昆布。お椀に入れてお湯を注ぐだけで、ほっとするお吸い物になります。うどんやおにぎり、湯豆腐にのせても美味しく、寒い季節に常備したい一品です。",
+   "image_brief": "A clear bag filled with fluffy pale green-brown shaved kelp threads, plain blank paper header card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産昆布使用 とろろ昆布 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 北海道産昆布使用 とろろ昆布 徳用 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal ベーシック とろろ昆布 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 真昆布 白とろろ昆布 20g",
+     "brand": "Cymbal セレクト",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 梅入り とろろ昆布 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 268,
+     "origin": "北海道産昆布使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_tororo_kombu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_oboro_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "おぼろ昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おぼろ昆布のおにぎり",
+    "お吸い物",
+    "うどん",
+    "鍋料理"
+   ],
+   "tax_rate": 8,
+   "description": "職人が一枚ずつ帯状に削り出したような薄いおぼろ昆布です。口の中でほどける繊細な食感と昆布のうま味が魅力。おにぎりに巻いたり、お吸い物やうどんに浮かべたりして上品な味わいをお楽しみください。",
+   "image_brief": "A clear flat bag showing thin translucent ribbon sheets of shaved kombu folded in layers, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産昆布使用 おぼろ昆布 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 北海道産昆布使用 おぼろ昆布 徳用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal セレクト 真昆布 手すき風 おぼろ昆布 15g",
+     "brand": "Cymbal セレクト",
+     "size": "15g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "シオカゼ海産 黒おぼろ昆布 25g",
+     "brand": "シオカゼ海産",
+     "size": "25g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_oboro_kombu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_mozuku",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "もずく"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "もずくスープ",
+    "酢の物",
+    "天ぷら",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄県産のもずくを乾燥させ、常温で保存できるようにしました。水で戻せばつるっとした食感がよみがえり、スープや酢の物、かき揚げに。必要な分だけ戻せるので、使い切れずに困ることがありません。",
+   "image_brief": "A clear zip pouch of tangled thin dark brown dried mozuku seaweed strands, plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 沖縄県産 乾燥もずく 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "Cymbal 沖縄県産 乾燥もずく 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 598,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "シオカゼ海産 乾燥 太もずく 15g",
+     "brand": "シオカゼ海産",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "Cymbal ベーシック 乾燥もずく 20g",
+     "brand": "Cymbal ベーシック",
+     "size": "20g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_mozuku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_matsumaezuke_no_moto",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "がごめ昆布・松前漬けの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "いか"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "松前漬け",
+    "おせち",
+    "酒の肴",
+    "ごはんのおとも"
+   ],
+   "tax_rate": 8,
+   "description": "細切りのするめと、粘りの出るがごめ昆布、昆布を合わせた松前漬けの素。しょうゆとみりん、酒で漬け込むだけで、手作りの松前漬けが簡単に作れます。お好みでにんじんや数の子を加えて、年末のおせち準備にどうぞ。",
+   "image_brief": "A clear bag showing thin strips of pale dried squid mixed with dark shredded kelp, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産昆布使用 松前漬けの素 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 北海道産昆布使用 松前漬けの素 徳用 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 898,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal セレクト 函館産がごめ昆布入り 松前漬けの素 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 698,
+     "origin": "北海道函館産"
+    },
+    {
+     "title": "シオカゼ海産 刻みがごめ昆布 30g",
+     "brand": "シオカゼ海産",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 松前漬けの素 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_matsumaezuke_no_moto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_ne_kombu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "根昆布だし",
+    "煮物",
+    "昆布水",
+    "湯豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "昆布の根元にあたる肉厚な部分を集めた根昆布です。粘りとうま味がしっかり出るので、一晩水に浸けておくだけで濃いめの昆布水が作れます。煮物や湯豆腐のだし取り、食べるだしとしても使えます。",
+   "image_brief": "A clear bag holding thick dark rounded kombu root pieces with whitish natural salt bloom, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 根昆布 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 北海道産 根昆布 カット 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 日高産 根昆布 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "北海道日高産"
+    },
+    {
+     "title": "シオカゼ海産 根昆布 だし用 小切れ 80g",
+     "brand": "シオカゼ海産",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_ne_kombu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kongo_kezuribushi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そばつゆ",
+    "うどんだし",
+    "煮物",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "さば節、そうだかつお節、うるめいわし節などをブレンドした混合削り節。かつお節だけよりも力強くコクのあるだしが取れ、そばつゆやうどん、おでん、煮物にぴったりです。たっぷり使える業務用サイズも揃えました。",
+   "image_brief": "A large clear bag filled with thick pale-brown shaved dried fish flakes, plain blank white label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 混合削り節 さば・そうだ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 混合削り節 さば・そうだ 徳用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック だし用 混合削り節 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト そば屋の厚削り さば節 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "静岡県焼津加工"
+    },
+    {
+     "title": "シオカゼ海産 うるめ・さば 混合削り節 120g",
+     "brand": "シオカゼ海産",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kongo_kezuribushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_ito_kezuri",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "おひたし",
+    "お好み焼き",
+    "焼きなす"
+   ],
+   "tax_rate": 8,
+   "description": "かつお節を糸のように細く削った糸削り。ふわりと軽く、料理の上で揺れる様子が食欲をそそります。冷奴やおひたし、焼きなすなどの天盛りに使えば、見た目も香りもワンランク上の仕上がりに。",
+   "image_brief": "A small clear bag of very fine hair-thin pinkish-brown bonito threads, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かつお 糸削り 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 248,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "Cymbal かつお 糸削り 徳用 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "Cymbal セレクト 本枯節 糸削り 8g",
+     "brand": "Cymbal セレクト",
+     "size": "8g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県枕崎加工"
+    },
+    {
+     "title": "Cymbal ベーシック 糸がき かつお削り 15g",
+     "brand": "Cymbal ベーシック",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_ito_kezuri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kona_gatsuo",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "たこ焼き",
+    "おにぎり",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "かつお節を細かい粉末にした粉がつお。お好み焼きやたこ焼きの仕上げはもちろん、生地や和え物、炒め物に混ぜてうま味をプラスできます。だしパック代わりに少量入れるのもおすすめです。",
+   "image_brief": "A clear zip pouch filled with fine light-brown bonito powder next to a small wooden spoon of powder, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 粉がつお 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 粉がつお 徳用 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本枯節 粉がつお 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 348,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "Cymbal ベーシック かつお粉 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 粉がつお 卓上ボトル 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kona_gatsuo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_honkare_bushi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "一番だし",
+    "お吸い物",
+    "お雑煮",
+    "かつお節ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "カビ付けと天日干しを繰り返して仕上げた本枯節を、節のままお届けします。削り器で削りたての香りは格別で、お吸い物やお雑煮の一番だしが驚くほど澄んだ味わいに。年末年始の特別な料理にも。",
+   "image_brief": "A whole hard dark-brown smoked bonito fillet block resting on a plain kraft paper wrap beside a small wooden shaving box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 鹿児島県枕崎産 本枯節 背節 1本(約250g)",
+     "brand": "Cymbal セレクト",
+     "size": "1本(約250g)",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県枕崎産"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県枕崎産 本枯節 腹節 1本(約230g)",
+     "brand": "Cymbal セレクト",
+     "size": "1本(約230g)",
+     "price_tax_excluded": 2280,
+     "origin": "鹿児島県枕崎産"
+    },
+    {
+     "title": "Cymbal かつお荒節 1本(約200g)",
+     "brand": "Cymbal",
+     "size": "1本(約200g)",
+     "price_tax_excluded": 1280,
+     "origin": "静岡県焼津産"
+    },
+    {
+     "title": "Cymbal セレクト 本枯節 小節 2本入(約240g)",
+     "brand": "Cymbal セレクト",
+     "size": "2本入(約240g)",
+     "price_tax_excluded": 1980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal 本枯節 削りたてパック 3g×8袋",
+     "brand": "Cymbal",
+     "size": "3g×8袋",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_honkare_bushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_yaki_ago",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "あご・焼き干し"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "ラーメンスープ",
+    "うどんだし",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "とびうおを焼いてから干し上げた焼きあご。上品で甘みのあるすっきりとしただしが取れ、九州では正月のお雑煮に欠かせない存在です。うどんやラーメンのスープ、茶碗蒸しにも使えます。",
+   "image_brief": "A clear bag of whole grilled and dried flying fish with silvery-brown skin lined up neatly, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 長崎県産 焼きあご 50g",
+     "brand": "シオカゼ海産",
+     "size": "50g",
+     "price_tax_excluded": 698,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "シオカゼ海産 長崎県産 焼きあご 100g",
+     "brand": "シオカゼ海産",
+     "size": "100g",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "Cymbal 焼きあご 割れ 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 平戸産 焼きあご 特選 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 1480,
+     "origin": "長崎県平戸産"
+    },
+    {
+     "title": "Cymbal 焼きあご 粉末 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_yaki_ago_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_hoshi_kaibashira",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "干し貝柱"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "中華粥",
+    "炊き込みごはん",
+    "スープ",
+    "XO醤風炒め"
+   ],
+   "tax_rate": 8,
+   "description": "ほたての貝柱をじっくり乾燥させた干し貝柱です。戻し汁まで濃厚なうま味があふれ、中華粥や炊き込みごはん、スープに使えば本格的な味わいに。贈答にも使える大粒から料理用の割れまで揃えました。",
+   "image_brief": "A clear plastic tub filled with round golden-amber dried scallop adductors, plain blank white lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 北海道産 干し貝柱 割れ 50g",
+     "brand": "シオカゼ海産",
+     "size": "50g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "シオカゼ海産 北海道産 干し貝柱 割れ 100g",
+     "brand": "シオカゼ海産",
+     "size": "100g",
+     "price_tax_excluded": 2380,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 干し貝柱 大粒 SA 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 2980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 干し貝柱 ミニ 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 干し貝柱 ほぐし 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 898,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_hoshi_kaibashira_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_tazukuri",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごまめ・田作り"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "田作り",
+    "おせち",
+    "ナッツ和え",
+    "カルシウムおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "おせちの定番「田作り」用に、小ぶりで形のそろった片口いわしを素干しにしたごまめです。から煎りしてから甘辛いたれをからめれば、香ばしい田作りが完成。ナッツと合わせたアレンジも人気です。",
+   "image_brief": "A clear bag of small silvery whole dried baby sardines with a plain blank red-and-white paper header card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 ごまめ 田作り用 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 ごまめ 田作り用 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内産 小羽 ごまめ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 698,
+     "origin": "瀬戸内海産"
+    },
+    {
+     "title": "Cymbal ベーシック ごまめ 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 448,
+     "origin": "国内加工"
+    },
+    {
+     "title": "シオカゼ海産 千葉県産 ごまめ 50g",
+     "brand": "シオカゼ海産",
+     "size": "50g",
+     "price_tax_excluded": 548,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_tazukuri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kanso_zenmai",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "山菜乾物"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ぜんまいの煮物",
+    "ナムル",
+    "炊き込みごはん",
+    "けんちん汁"
+   ],
+   "tax_rate": 8,
+   "description": "ゆでてから手もみと天日干しを重ねた乾燥ぜんまいです。じっくり戻すと独特の歯ごたえとほろ苦さが楽しめ、煮物やナムル、炊き込みごはんに。行事の煮しめにも使われる昔ながらの山菜乾物です。",
+   "image_brief": "A clear bag of twisted dark brown dried fiddlehead fern stalks bundled loosely, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乾燥ぜんまい 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 天日干し 乾燥ぜんまい 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 乾燥ぜんまい 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 乾燥わらび 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 山菜ミックス 乾燥 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 548,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kanso_zenmai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_imogara",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "山菜乾物"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "芋がらの煮物",
+    "味噌汁",
+    "酢の物",
+    "お雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "八つ頭や里いもの茎を皮むきして干した芋がら(干しずいき)。戻すとシャキシャキとした食感で、油揚げとの煮物や味噌汁、酢の物に向いています。地方の郷土料理や冬の煮しめに欠かせない乾物です。",
+   "image_brief": "A clear bag holding long flat dried taro stems tied in a bundle with string, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 国産 芋がら(干しずいき) 30g",
+     "brand": "シオカゼ海産",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "シオカゼ海産 国産 芋がら(干しずいき) 60g",
+     "brand": "シオカゼ海産",
+     "size": "60g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 干しずいき カット 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 赤ずいき 干し 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 698,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_imogara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_hoshi_yuba",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ゆば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お吸い物",
+    "煮物",
+    "鍋料理",
+    "ゆば丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆の豆乳から引き上げたゆばを乾燥させました。さっと戻すだけでやわらかく、お吸い物や煮物、鍋料理に上品なコクを添えます。精進料理やおもてなしにも使いやすい形をご用意しました。",
+   "image_brief": "A clear tray pack with pale cream-colored dried yuba rolls and flat sheets, plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産大豆 乾燥ゆば 平ゆば 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 国産大豆 乾燥ゆば 小巻 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 448,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 京風 結びゆば 20g",
+     "brand": "Cymbal セレクト",
+     "size": "20g",
+     "price_tax_excluded": 598,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 乾燥ゆば 徳用 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 国産大豆 汲み上げゆばチップ 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_hoshi_yuba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kanso_yasai_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "乾燥野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "スープ",
+    "インスタント麺",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツ、にんじん、ねぎ、ほうれん草、わかめなどを手軽に使える乾燥野菜ミックス。お椀に入れてお湯を注ぐだけで具だくさんの味噌汁に。忙しい朝や野菜が少し足りない日のひと手間を助けてくれます。",
+   "image_brief": "A resealable clear stand-up pouch showing colorful dried vegetable bits in green, orange, and white, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味噌汁の具 乾燥野菜ミックス 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 味噌汁の具 乾燥野菜ミックス 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜だけの 乾燥野菜ミックス 35g",
+     "brand": "Cymbal セレクト",
+     "size": "35g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 乾燥野菜ミックス 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal スープの具 乾燥野菜 コーン入り 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 乾燥ねぎ 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kanso_yasai_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kanso_kinoko_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "乾燥きのこ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "炊き込みごはん",
+    "きのこ汁",
+    "パスタ",
+    "鍋料理"
+   ],
+   "tax_rate": 8,
+   "description": "しいたけ、まいたけ、えのき、ぶなしめじを乾燥させたきのこミックス。干すことでうま味と香りが凝縮され、戻し汁ごと使えば炊き込みごはんやきのこ汁が一段と深い味わいに。秋冬の鍋にもおすすめです。",
+   "image_brief": "A clear zip pouch filled with mixed dried mushrooms, sliced shiitake and maitake fronds in tan and brown, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 乾燥きのこミックス 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 乾燥きのこミックス 徳用 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 乾燥まいたけ 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 乾燥えのき 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 原木 乾燥きのこ 4種 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kanso_kinoko_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_sendai_fu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "麩"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "油麩丼",
+    "煮物",
+    "味噌汁",
+    "すき焼き"
+   ],
+   "tax_rate": 8,
+   "description": "小麦グルテンを棒状にして油で揚げた、宮城の郷土食材・油麩です。煮汁をたっぷり吸ってジューシーに仕上がり、卵でとじる油麩丼や煮物、味噌汁に。お肉の代わりに使えるボリューム感も魅力です。",
+   "image_brief": "A long clear bag holding thick golden-brown fried wheat gluten logs, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 宮城風 油麩 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 宮城風 油麩 カット 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宮城県登米加工 油麩 3本入",
+     "brand": "Cymbal セレクト",
+     "size": "3本入",
+     "price_tax_excluded": 498,
+     "origin": "宮城県加工"
+    },
+    {
+     "title": "Cymbal ベーシック 揚げ麩 輪切り 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_sendai_fu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kuzukiri",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "くずきり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鍋料理",
+    "黒蜜くずきり",
+    "すき焼き",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "でんぷんと葛粉を使ったつるんとした乾燥くずきりです。鍋に入れてもコシが続き、すき焼きや寄せ鍋、スープの具に最適。ゆでて冷やせば黒蜜でいただく和の涼菓にもなる、使い道の広い乾物です。",
+   "image_brief": "A long clear bag of flat translucent dried kuzukiri noodle strips laid straight, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鍋用 くずきり 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鍋用 くずきり 徳用 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本葛入り くずきり 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック くずきり 太切り 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くずきり 黒蜜付き 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kuzukiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_azuki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "小豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ぜんざい",
+    "おはぎ",
+    "赤飯",
+    "冬至のいとこ煮"
+   ],
+   "tax_rate": 8,
+   "description": "北海道で育った小豆を選別した乾燥小豆です。皮がやわらかく煮えやすく、炊き上がりのふっくらした風味が自慢。手作りのあんこやぜんざい、お赤飯に。冬至や年末年始の行事に合わせて手作りする方にもぴったりです。",
+   "image_brief": "A clear stand-up bag filled with glossy small deep-red azuki beans, plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 小豆 300g",
+     "brand": "トカチ豆蔵",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 小豆 1kg",
+     "brand": "トカチ豆蔵",
+     "size": "1kg",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 十勝産 大納言小豆 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "北海道十勝産"
+    },
+    {
+     "title": "Cymbal ベーシック 小豆 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 小豆 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_azuki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_soybeans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "大豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "五目豆",
+    "手作り味噌",
+    "煮豆",
+    "豆ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産の乾燥大豆です。一晩水に浸けてからゆでれば、ほくほくとした甘みが広がります。五目豆や煮豆、豆ごはんはもちろん、手作り味噌や自家製豆乳の材料にも。用途に合わせて粒の大きさを選べます。",
+   "image_brief": "A clear bag filled with round pale yellow dried soybeans, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 大豆 大粒 300g",
+     "brand": "トカチ豆蔵",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 大豆 1kg",
+     "brand": "トカチ豆蔵",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 国産 大豆 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 佐賀県産 フクユタカ 大豆 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 大豆 300g",
+     "brand": "Cymbal オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 大豆 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_soybeans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_kintoki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "いんげん豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "金時豆の甘煮",
+    "豆サラダ",
+    "チリコンカン",
+    "ぜんざい"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産の大粒金時豆です。皮が薄く、煮ると鮮やかな赤紫色と栗のような甘みが楽しめます。定番の甘煮のほか、豆サラダやチリコンカンなど洋風料理にも活躍。じっくり煮る楽しみを味わえる乾物です。",
+   "image_brief": "A clear stand-up bag of large glossy reddish-purple kidney-shaped beans, plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 大正金時豆 300g",
+     "brand": "トカチ豆蔵",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 大正金時豆 1kg",
+     "brand": "トカチ豆蔵",
+     "size": "1kg",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 金時豆 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 十勝産 福勝 金時豆 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "北海道十勝産"
+    },
+    {
+     "title": "Cymbal ベーシック 赤いんげん豆 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_kintoki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_shirohanamame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "いんげん豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "白花豆の甘煮",
+    "白いんげんのスープ",
+    "白あん",
+    "豆のポタージュ"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくらとした大粒の白花豆と、なめらかな口あたりの大福豆を揃えました。甘煮にするとほっくりと上品な甘さに仕上がり、白あんやポタージュ、スープにも。お茶うけやお正月の一品にも映えます。",
+   "image_brief": "A clear bag filled with very large plump ivory-white beans, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 白花豆 250g",
+     "brand": "トカチ豆蔵",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 大福豆 300g",
+     "brand": "トカチ豆蔵",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 白いんげん豆 手亡 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 特選 白花豆 大粒 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1080,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 白いんげん豆 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_shirohanamame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_aodaizu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "青大豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ひたし豆",
+    "青大豆ごはん",
+    "豆サラダ",
+    "きな粉作り"
+   ],
+   "tax_rate": 8,
+   "description": "淡い緑色が美しい乾燥青大豆。ほどよい甘みと香りがあり、ゆでて浸し地に漬ける東北の郷土料理「ひたし豆」に最適です。豆ごはんやサラダ、すりつぶしてディップにするなどアレンジも楽しめます。",
+   "image_brief": "A clear bag of round pale green dried soybeans with a plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 青大豆 250g",
+     "brand": "トカチ豆蔵",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 青大豆 500g",
+     "brand": "トカチ豆蔵",
+     "size": "500g",
+     "price_tax_excluded": 998,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 秘伝豆 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal 国産 青大豆 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_aodaizu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_uzuramame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "いんげん豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うずら豆の煮豆",
+    "スープ",
+    "豆サラダ",
+    "ミネストローネ"
+   ],
+   "tax_rate": 8,
+   "description": "うずらの卵のようなまだら模様が特徴のうずら豆と、とら豆を揃えました。煮るとクリーミーな食感と甘みが際立ち、煮豆はもちろんスープやサラダ、ミネストローネにもよく合います。",
+   "image_brief": "A clear stand-up bag of beige beans speckled with brown spots, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "トカチ豆蔵 北海道産 うずら豆 300g",
+     "brand": "トカチ豆蔵",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トカチ豆蔵 北海道産 とら豆 250g",
+     "brand": "トカチ豆蔵",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal うずら豆 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック うずら豆 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_uzuramame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_iri_daizu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "炒り豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "炒り大豆ごはん",
+    "おやつ",
+    "節分",
+    "サラダのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆をじっくり焙煎した香ばしい炒り大豆。そのままカリッとおやつやおつまみに、お米と一緒に炊けば香ばしい大豆ごはんにもなります。節分の豆まき用小袋タイプもご用意しました。",
+   "image_brief": "A clear bag of roasted golden-brown soybeans with slightly cracked skins, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 炒り大豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 炒り大豆 徳用 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 炒り黒豆 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 節分 福豆 小袋 20g×10袋",
+     "brand": "Cymbal",
+     "size": "20g×10袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 鶴の子大豆 炒り豆 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_iri_daizu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_yude_azuki_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ゆであずき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ぜんざい",
+    "あずきトースト",
+    "かき氷",
+    "おはぎ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆をふっくら甘く炊き上げたゆであずきの缶詰です。温めてお餅を入れればすぐにぜんざいに。トーストにのせたり、ヨーグルトやアイスに添えたりと、甘いものが恋しい季節に重宝します。",
+   "image_brief": "A short cylindrical steel can with a plain blank cream-colored wrap label, beside a small dish of sweet red beans, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産小豆 ゆであずき 缶 430g",
+     "brand": "Cymbal",
+     "size": "430g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal 北海道産小豆 ゆであずき 缶 小 165g",
+     "brand": "Cymbal",
+     "size": "165g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック ゆであずき 缶 430g",
+     "brand": "Cymbal ベーシック",
+     "size": "430g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 十勝産小豆 ゆであずき 甘さ控えめ 缶 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "北海道十勝産"
+    },
+    {
+     "title": "Cymbal 北海道産小豆 ゆであずき パウチ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "北海道産小豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_yude_azuki_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_arai_goma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "自家製いりごま",
+    "ごま和え",
+    "ごま豆腐",
+    "ごまだれ"
+   ],
+   "tax_rate": 8,
+   "description": "洗って乾かした生のごまです。食べる直前にフライパンで煎れば、はじけるような香ばしい香りが広がります。煎り加減を調整できるので、ごま和えやごまだれ、手作りのごま豆腐にこだわりたい方に。",
+   "image_brief": "A clear bag of raw pale ivory sesame seeds with a plain blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 洗いごま 白 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "Cymbal 洗いごま 黒 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "ミャンマー産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 洗いごま 白 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 洗いごま 金 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal ベーシック 洗いごま 白 徳用 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "南米産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_arai_goma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kiri_goma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "炒め物",
+    "和え物",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "いりごまを包丁で刻んだように粗く切った切りごま。すりごまより粒感が残り、いりごまより香りが立つのが特長です。おにぎりや和え物、炒め物の仕上げにさっとかけるだけで風味がぐっと豊かになります。",
+   "image_brief": "A small clear zip pouch of coarsely chopped toasted sesame seeds, plain blank kraft label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 切りごま 白 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 切りごま 黒 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 切りごま 金 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産 切りごま 白 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kiri_goma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_goma_shio",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ごま"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "赤飯",
+    "おにぎり",
+    "白ごはん",
+    "ゆで卵"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく煎った黒ごまと焼き塩を合わせたごま塩。お赤飯やおにぎり、炊きたての白ごはんにぱらりとかけるだけで、ごまの香りと塩けがちょうどよいアクセントに。ゆで卵や浅漬けにもおすすめです。",
+   "image_brief": "A small clear shaker bottle filled with black sesame and white salt crystals, plain blank lid label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごま塩 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 158,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ごま塩 詰替用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産黒ごま 藻塩仕立て ごま塩 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 赤飯用 ごま塩 小袋 2g×10袋",
+     "brand": "Cymbal",
+     "size": "2g×10袋",
+     "price_tax_excluded": 198,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_goma_shio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kinako",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "きな粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "きな粉もち",
+    "わらびもち",
+    "きな粉牛乳",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "炒った大豆を細かく挽いたきな粉です。香ばしい香りとやさしい甘みで、お餅やわらびもちにまぶすのはもちろん、牛乳やヨーグルトに混ぜても。青大豆のうぐいすきな粉、黒豆きな粉もご用意しました。",
+   "image_brief": "A clear stand-up pouch of fine golden-tan roasted soybean flour with a plain blank label, a small mound of powder beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産大豆 きな粉 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 国産大豆 きな粉 徳用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック きな粉 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 青大豆 うぐいすきな粉 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒豆 黒豆きな粉 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "兵庫県産黒大豆使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 きな粉 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kinako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_churikiko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "小麦粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手打ちうどん",
+    "すいとん",
+    "ほうとう",
+    "お好み焼き"
+   ],
+   "tax_rate": 8,
+   "description": "うどん作りに適した中力粉です。ほどよいコシとなめらかなのど越しに仕上がり、手打ちうどんやすいとん、ほうとうに。薄力粉と強力粉の間の性質で、お好み焼きや皮ものなど家庭料理全般にも使えます。",
+   "image_brief": "A white paper flour sack with a plain blank label and folded top, a small heap of white flour in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 中力小麦粉 うどん用 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 298,
+     "origin": "国内製粉"
+    },
+    {
+     "title": "ムギノ製粉 国産小麦 中力粉 1kg",
+     "brand": "ムギノ製粉",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "Cymbal セレクト 香川県産小麦 さぬきの夢 中力粉 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "香川県産"
+    },
+    {
+     "title": "Cymbal ベーシック 中力粉 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 228,
+     "origin": "国内製粉"
+    },
+    {
+     "title": "ムギノ製粉 手打ちうどん用 中力粉 2kg",
+     "brand": "ムギノ製粉",
+     "size": "2kg",
+     "price_tax_excluded": 698,
+     "origin": "国内製粉"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_churikiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_zenryufun",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "小麦粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "全粒粉パン",
+    "スコーン",
+    "クッキー",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "小麦をふすまや胚芽ごと挽いた全粒粉です。香ばしい風味とつぶつぶした食感があり、パンやスコーン、クッキーに混ぜると素朴で味わい深い仕上がりに。食物繊維を手軽に取り入れたい方にもおすすめです。",
+   "image_brief": "A kraft paper flour bag with a plain blank label, beside a small pile of speckled light brown whole wheat flour, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ムギノ製粉 国産 全粒粉 強力タイプ 500g",
+     "brand": "ムギノ製粉",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "ムギノ製粉 国産 全粒粉 薄力タイプ 500g",
+     "brand": "ムギノ製粉",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国産小麦使用"
+    },
+    {
+     "title": "Cymbal 全粒粉 パン用 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "国内製粉"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 全粒粉 500g",
+     "brand": "Cymbal オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製粉"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 石臼挽き 全粒粉 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_zenryufun_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_rye_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "ライ麦粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ライ麦パン",
+    "カンパーニュ",
+    "クラッカー",
+    "サワードウ"
+   ],
+   "tax_rate": 8,
+   "description": "ライ麦を挽いた香り高いライ麦粉です。強力粉に1~3割混ぜるだけで、ほのかな酸味と深い風味のあるカンパーニュや田舎パンに。手作りクラッカーやサワードウ作りに挑戦したい方にも向いています。",
+   "image_brief": "A brown kraft paper bag of flour with a plain blank label, a small mound of grayish-beige rye flour beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ムギノ製粉 ライ麦粉 細挽き 500g",
+     "brand": "ムギノ製粉",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "ドイツ産ライ麦使用"
+    },
+    {
+     "title": "ムギノ製粉 ライ麦粉 粗挽き 500g",
+     "brand": "ムギノ製粉",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "ドイツ産ライ麦使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 ライ麦全粒粉 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ライ麦粉 300g",
+     "brand": "Cymbal オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製粉"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_rye_flour_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_soba_ko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "そば粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "手打ちそば",
+    "そばがき",
+    "ガレット",
+    "そばクレープ"
+   ],
+   "tax_rate": 8,
+   "description": "そばの実を挽いた香り豊かなそば粉です。年越しの手打ちそばはもちろん、そばがきやガレット、パンケーキにも使えます。新そばの季節にぴったりの挽きたての風味をお楽しみください。",
+   "image_brief": "A white paper bag of flour with a plain blank label, beside a small pile of grayish speckled buckwheat flour, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ムギノ製粉 北海道産 そば粉 500g",
+     "brand": "ムギノ製粉",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ムギノ製粉 北海道産 そば粉 1kg",
+     "brand": "ムギノ製粉",
+     "size": "1kg",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 長野県産 石臼挽き そば粉 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal 手打ちそばセット(そば粉・打ち粉) 4人前",
+     "brand": "Cymbal",
+     "size": "4人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製粉"
+    },
+    {
+     "title": "Cymbal ガレット用 そば粉 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製粉"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_soba_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_joshinko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "上新粉・和菓子用粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "柏もち",
+    "草もち",
+    "すあま",
+    "だんご"
+   ],
+   "tax_rate": 8,
+   "description": "うるち米を粉にした上新粉です。歯切れのよいもちもち食感に仕上がり、団子や柏もち、草もち、すあまなど和菓子作りの基本に。米粉ならではのやさしい甘みで、手作りおやつにもおすすめです。",
+   "image_brief": "A clear plastic bag of fine bright white rice flour with a plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産米 上新粉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 国産米 上新粉 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県産米 上新粉 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "ムギノ製粉 だんご粉(上新粉・白玉粉ブレンド) 200g",
+     "brand": "ムギノ製粉",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_joshinko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_mochiko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "上新粉・和菓子用粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "大福",
+    "求肥",
+    "おはぎ",
+    "もち粉の団子"
+   ],
+   "tax_rate": 8,
+   "description": "もち米を粉にしたもち粉です。白玉粉よりきめが細かく、よりやわらかく伸びのある仕上がりに。大福や求肥、ぎゅうひ菓子作りに最適で、少量を料理のとろみ付けや揚げ衣に使うこともできます。",
+   "image_brief": "A clear bag of powdery white glutinous rice flour with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産もち米 もち粉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 国産もち米 もち粉 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 佐賀県産ひよくもち もち粉 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "ムギノ製粉 求肥粉 150g",
+     "brand": "ムギノ製粉",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_mochiko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_warabimochi_ko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "わらびもち粉・葛粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "わらびもち",
+    "くず餅",
+    "水まんじゅう",
+    "黒蜜がけ"
+   ],
+   "tax_rate": 8,
+   "description": "火にかけて練るだけで、ぷるぷるのわらびもちが手作りできるわらびもち粉。きな粉と黒蜜をかければ家族で楽しめる和のおやつに。本わらび粉入りのこだわりタイプもご用意しました。",
+   "image_brief": "A clear bag of slightly grayish fine starch powder with a plain blank label next to a plate of translucent cubes dusted with soybean flour, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal わらびもち粉 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal わらびもち粉 徳用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本わらび粉入り わらびもち粉 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒蜜・きな粉付き わらびもちの素 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_warabimochi_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_hon_kuzu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "わらびもち粉・葛粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "くず湯",
+    "ごま豆腐",
+    "くずもち",
+    "あんかけ"
+   ],
+   "tax_rate": 8,
+   "description": "葛の根から取り出したでんぷんを精製した本葛粉です。なめらかで透明感のある仕上がりが特長で、くず湯やごま豆腐、くずもちなどに。寒い季節は生姜を加えたくず湯で温まるのもおすすめです。",
+   "image_brief": "A small clear bag of irregular white chalky kudzu starch chunks with a plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 吉野風 本葛粉 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 吉野風 本葛粉 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 葛粉 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くず湯 しょうが 20g×5袋",
+     "brand": "Cymbal",
+     "size": "20g×5袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くず湯 抹茶 20g×5袋",
+     "brand": "Cymbal",
+     "size": "20g×5袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_hon_kuzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_cornstarch",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "コーンスターチ・でんぷん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カスタードクリーム",
+    "ブランマンジェ",
+    "クッキー",
+    "とろみ付け"
+   ],
+   "tax_rate": 8,
+   "description": "とうもろこしから作られたでんぷん、コーンスターチです。カスタードクリームやブランマンジェをなめらかに固め、クッキーやスポンジ生地に混ぜるとさっくり軽い食感に。料理のとろみ付けにも使えます。",
+   "image_brief": "A clear stand-up bag of fine snow-white cornstarch powder with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コーンスターチ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック コーンスターチ 徳用 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産とうもろこし コーンスターチ 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 コーンスターチ 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_cornstarch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_tapioca_ko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "コーンスターチ・でんぷん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ポンデケージョ",
+    "タピオカドリンク",
+    "もちもちパン",
+    "揚げ衣"
+   ],
+   "tax_rate": 8,
+   "description": "キャッサバ芋から作られたタピオカ粉です。もっちりとした弾力が出るので、ブラジルのチーズパン・ポンデケージョやもちもち食感のパン、揚げ衣に。小麦粉不使用のお菓子作りにも役立ちます。",
+   "image_brief": "A clear bag of bright white tapioca starch with a plain blank label and a few small chewy cheese bread rolls beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal タピオカ粉 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal タピオカ粉 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal ポンデケージョミックス 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 タピオカ粉 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_tapioca_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_batter_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン粉・フライ用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "えびフライ",
+    "コロッケ",
+    "チキンカツ"
+   ],
+   "tax_rate": 8,
+   "description": "水で溶くだけで、小麦粉・卵・牛乳の3ステップを1回で済ませられるバッター液ミックス。パン粉がしっかり付いて衣はがれしにくく、サクッとした揚げ上がりに。揚げ物の準備がぐんとラクになります。",
+   "image_brief": "A stand-up foil pouch with a plain blank label next to a small bowl of creamy pale yellow batter, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フライ用 バッター液ミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フライ用 バッター液ミックス 徳用 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 揚げ物 バッター粉 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フライ用 バッター液ミックス パン粉セット 2〜3回分",
+     "brand": "Cymbal",
+     "size": "2〜3回分",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_batter_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_komeko_panko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン粉・フライ用"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "コロッケ",
+    "グラタン",
+    "ハンバーグのつなぎ"
+   ],
+   "tax_rate": 8,
+   "description": "国産米の米粉で作ったパン粉です。油の吸収が少なめで、カラッと軽く揚がるのが特長。小麦粉を使っていないので、グラタンのトッピングやハンバーグのつなぎにもいつもと違う食感が楽しめます。",
+   "image_brief": "A clear stand-up pouch of fine white rice-based breadcrumbs with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産米粉 米粉パン粉 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 国産米粉 米粉パン粉 徳用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 国産米粉 米粉パン粉 細目 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 新潟県産米粉 米粉パン粉 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "新潟県産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_komeko_panko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_monja_ko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お好み焼き粉・たこ焼き粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "もんじゃ焼き",
+    "ホットプレートパーティー",
+    "ちくわもんじゃ",
+    "明太もちもんじゃ"
+   ],
+   "tax_rate": 8,
+   "description": "かつおとさば節のだし、ソースの風味をきかせたもんじゃ焼き粉。キャベツと好みの具を用意するだけで、ホットプレートで本格もんじゃが楽しめます。桜えびと天かす付きのセットもご用意しました。",
+   "image_brief": "A rectangular foil pouch with a plain blank label beside a small iron spatula and shredded cabbage, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal もんじゃ焼き粉 ソース味 2人前×2回分",
+     "brand": "Cymbal",
+     "size": "2人前×2回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もんじゃ焼き粉 明太風味 2人前×2回分",
+     "brand": "Cymbal",
+     "size": "2人前×2回分",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もんじゃ焼きセット 桜えび・天かす付き 3〜4人前",
+     "brand": "Cymbal",
+     "size": "3〜4人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック もんじゃ焼き粉 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_monja_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_yamaimo_ko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お好み焼き粉・たこ焼き粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "やまいも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "たこ焼き",
+    "とろろ汁",
+    "ふわふわ卵焼き"
+   ],
+   "tax_rate": 8,
+   "description": "長いもを乾燥させて粉末にしたやまいも粉です。お好み焼きやたこ焼きの生地に加えるとふんわりとろっとした食感に。水で溶けば手軽にとろろとしても使え、すりおろす手間が省けます。",
+   "image_brief": "A small clear zip pouch of off-white fine yam powder with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 やまいも粉 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国産長いも使用"
+    },
+    {
+     "title": "Cymbal 国産 やまいも粉 徳用 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国産長いも使用"
+    },
+    {
+     "title": "Cymbal セレクト 青森県産 長いも粉 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "Cymbal 大和いも粉 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_yamaimo_ko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_taiyaki_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お菓子用ミックス粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "たい焼き",
+    "大判焼き",
+    "ワッフル",
+    "どら焼き"
+   ],
+   "tax_rate": 8,
+   "description": "外はカリッと、中はふんわり仕上がるたい焼き・大判焼き用のミックス粉。卵と水を混ぜて焼くだけで、お店のような香ばしい生地になります。あんこやカスタードを詰めて冬のおやつ作りを楽しんでください。",
+   "image_brief": "A rectangular paper box of baking mix with a plain blank front panel next to golden fish-shaped cakes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たい焼き・大判焼きミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たい焼き・大判焼きミックス 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たい焼きミックス 北海道産小豆あん付き 8個分",
+     "brand": "Cymbal",
+     "size": "8個分",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産小麦 たい焼きミックス 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産小麦使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_taiyaki_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_crepe_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "お菓子用ミックス粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "クレープ",
+    "ガレット風",
+    "クレープロール",
+    "ミルクレープ"
+   ],
+   "tax_rate": 8,
+   "description": "牛乳と卵を加えて混ぜるだけで、薄くもちっとした生地が焼けるクレープミックスです。フルーツと生クリームを巻いたデザートクレープはもちろん、ハムやチーズを包んだ食事系にも使えます。",
+   "image_brief": "A foil pouch with a plain blank label next to a folded thin golden crepe with strawberries, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クレープミックス 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クレープミックス 200g×2袋",
+     "brand": "Cymbal",
+     "size": "200g×2袋",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 米粉のクレープミックス 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター風味 クレープミックス 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_crepe_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_pizza_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン・ピザミックス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手作りピザ",
+    "ナン",
+    "フォカッチャ",
+    "カルツォーネ"
+   ],
+   "tax_rate": 8,
+   "description": "イースト入りで、水とオリーブオイルを混ぜるだけで生地が作れるピザミックス。発酵不要のクイックタイプなら30分ほどで焼き上がり、休日の手作りピザにぴったり。ナンやフォカッチャにも使えます。",
+   "image_brief": "A paper box with a plain blank front panel next to a round pizza crust topped with tomato and basil, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピザ生地ミックス 200g×2袋",
+     "brand": "Cymbal",
+     "size": "200g×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 発酵いらず クイックピザミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産小麦 00粉 ピザ生地ミックス 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産小麦使用"
+    },
+    {
+     "title": "Cymbal ナンミックス 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ムギノ製粉 全粒粉入り ピザ生地ミックス 250g",
+     "brand": "ムギノ製粉",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_pizza_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_bread_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "パン・ピザミックス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食パン",
+    "ロールパン",
+    "ホームベーカリー",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "ホームベーカリー用の1斤分のパンミックス。ドライイースト付きで、水を入れてスタートボタンを押すだけで焼きたての食パンが楽しめます。ふんわり食パンからもっちり米粉入りまで好みで選べます。",
+   "image_brief": "A small stack of square foil pouches with plain blank labels next to a freshly baked loaf of white bread, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホームベーカリー用 食パンミックス 1斤用 250g×3袋",
+     "brand": "Cymbal",
+     "size": "250g×3袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホームベーカリー用 食パンミックス 1斤用 250g×6袋",
+     "brand": "Cymbal",
+     "size": "250g×6袋",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産小麦 食パンミックス 1斤用 260g×3袋",
+     "brand": "Cymbal セレクト",
+     "size": "260g×3袋",
+     "price_tax_excluded": 698,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "Cymbal ホームベーカリー用 米粉入り食パンミックス 250g×3袋",
+     "brand": "Cymbal",
+     "size": "250g×3袋",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホームベーカリー用 レーズンパンミックス 300g×2袋",
+     "brand": "Cymbal",
+     "size": "300g×2袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_bread_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_food_jusou",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "製菓・製パン材料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "どら焼き",
+    "蒸しパン",
+    "かりんとう",
+    "豆の下ゆで"
+   ],
+   "tax_rate": 8,
+   "description": "食品に使える食用重曹(炭酸水素ナトリウム)です。どら焼きや蒸しパン、かりんとうのふくらし粉として、また山菜のあく抜きや豆をやわらかく煮るときにも使えます。小分けタイプは使い切りに便利です。",
+   "image_brief": "A small white plastic standing pouch of fine white baking soda with a plain blank label, a small spoon of powder beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 食用 重曹 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 食用 重曹 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 食用 重曹 小分け 5g×10袋",
+     "brand": "Cymbal",
+     "size": "5g×10袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国内精製 食用重曹 アルミ缶入り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_food_jusou_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_wakasagi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "わかさぎ・小魚乾物"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "かき揚げ",
+    "佃煮",
+    "南蛮漬け",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "湖で獲れたわかさぎを素干しにしました。から揚げやかき揚げ、甘露煮にすれば骨ごとまるごと食べられます。軽く炙ってお酒のおつまみにしても香ばしく、小魚好きの方におすすめの乾物です。",
+   "image_brief": "A clear bag of small slender silvery dried smelt fish lined up, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "シオカゼ海産 素干し わかさぎ 40g",
+     "brand": "シオカゼ海産",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "シオカゼ海産 素干し わかさぎ 80g",
+     "brand": "シオカゼ海産",
+     "size": "80g",
+     "price_tax_excluded": 898,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 焼きわかさぎ 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 網走湖産 素干し わかさぎ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "北海道網走産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_wakasagi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kiriboshi_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "切り干し大根"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "はりはり漬け",
+    "煮物",
+    "サラダ",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "切り干し大根に干しにんじんや昆布を合わせた、はりはり漬けや煮物用のミックスです。水で戻して調味料に漬けるだけで彩りのよい一品に。干し野菜ならではの甘みと歯ごたえが楽しめます。",
+   "image_brief": "A clear bag showing shredded dried white radish mixed with orange carrot strips and dark kelp, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal はりはり漬けの素 切り干し大根ミックス 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal 切り干し大根と干しにんじん 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産 寒干し大根 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 448,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal 長崎県産 ゆで干し大根 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "長崎県産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kiriboshi_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_hoshigaki_ryoriyou",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "干し柿・干し果実"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "干し柿なます",
+    "白和え",
+    "おせち",
+    "そのままおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "渋柿をじっくり干し上げた料理用のあんぽ柿・干し柿スライス。なますや白和えに加えると上品な甘みが加わり、おせちの一品にもなります。そのまま食べても素朴な甘さが楽しめます。",
+   "image_brief": "A clear tray of amber-orange dried persimmon slices sealed with film and a plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 料理用 干し柿スライス 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 長野県産 市田柿 干し柿 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal 干し柿 刻み 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 干し柿 5個入",
+     "brand": "Cymbal ベーシック",
+     "size": "5個入",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_hoshigaki_ryoriyou_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kanso_tofu_fu_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "高野豆腐"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "含め煮",
+    "卵とじ",
+    "唐揚げ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "そのまま煮汁に入れられる、戻し不要の細切り・一口サイズの高野豆腐です。味噌汁やスープにぱらっと入れたり、卵とじや炒め物にしたりと下ごしらえいらず。粉末タイプはハンバーグのつなぎにも使えます。",
+   "image_brief": "A clear zip pouch of small beige freeze-dried tofu cubes and thin strips, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 戻さず使える 細切り高野豆腐 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 戻さず使える 一口高野豆腐 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 粉豆腐(高野豆腐パウダー) 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長野県加工 サイコロ高野豆腐 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kanso_tofu_fu_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_dried_kombu_snack_cut",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "海藻",
+    "昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おでん",
+    "昆布巻き",
+    "煮しめ",
+    "鍋料理"
+   ],
+   "tax_rate": 8,
+   "description": "おでんや鍋、煮しめにそのまま使える、あらかじめ帯状に切った長昆布。やわらかく煮えやすいので、昆布巻きや煮物にも向いています。年末の煮しめ、冬のおでんに一袋あると重宝します。",
+   "image_brief": "A clear long bag of folded flat dark green kelp ribbons, plain blank paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 釧路産 長昆布 煮物用 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "北海道釧路産"
+    },
+    {
+     "title": "Cymbal 昆布巻き用 長昆布 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 羅臼産 煮物用 羅臼昆布 カット 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 798,
+     "origin": "北海道羅臼産"
+    },
+    {
+     "title": "Cymbal ベーシック 煮物用 昆布 カット 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_dried_kombu_snack_cut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_kanso_hijiki_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "ひじき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひじきの煮物",
+    "ひじきごはん",
+    "ひじきサラダ",
+    "白和え"
+   ],
+   "tax_rate": 8,
+   "description": "ひじきに大豆やにんじん、油揚げ風の具材を合わせた乾燥ひじき煮の具セット。水で戻して煮汁で煮るだけで定番のひじき煮が完成します。混ぜごはんやサラダにも使えて常備菜作りに便利です。",
+   "image_brief": "A clear stand-up pouch showing black hijiki pieces mixed with soybeans and orange carrot bits, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひじき煮の具 乾燥ミックス 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal ひじきごはんの具 乾燥 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    },
+    {
+     "title": "Cymbal セレクト 国産ひじき 五目煮の具 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック ひじきミックス 乾燥 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内加工"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_kanso_hijiki_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_goods_flour_instant_dashi_kombu_powder",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "昆布茶",
+    "浅漬け",
+    "おにぎり",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "細かく粉末にした昆布パウダーと昆布茶。お湯で溶けばほっとする一杯に、料理に振りかければうま味調味料として。浅漬けや和風パスタ、おにぎりに少量加えるだけで味が決まります。",
+   "image_brief": "A small cylindrical tin can with a plain blank paper wrap label beside a cup of pale green kelp tea, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産昆布 昆布茶 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 北海道産昆布 梅昆布茶 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 北海道産 昆布パウダー 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 真昆布 粉末昆布 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_goods_flour_instant_dashi_kombu_powder_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

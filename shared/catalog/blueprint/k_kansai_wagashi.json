@@ -1,0 +1,465 @@
+{
+ "category_key": "k_kansai_wagashi",
+ "items": [
+  {
+   "base_id": "k_kansai_wg_warabimochi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "わらび餅・餅菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "夏のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとやわらかなわらび餅に、香ばしいきな粉と黒蜜を添えました。冷やしすぎず、常温に少しおいてお召し上がりください。",
+   "image_brief": "Translucent wobbly warabi mochi cubes dusted with golden kinako soybean flour in a clear tray with a small cup of dark syrup. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "嵯峨野菓寮 わらび餅 きな粉・黒蜜付 1パック",
+     "brand": "嵯峨野菓寮",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "嵯峨野菓寮 本わらび粉入り わらび餅 抹茶きな粉 1パック",
+     "brand": "嵯峨野菓寮",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_warabimochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_wg_mitarashi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "団子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "直火で焼き目をつけた団子に、甘辛いしょうゆだれをたっぷりからめた京風のみたらし団子。あん団子もご用意しています。",
+   "image_brief": "Five skewers of grilled mochi dango balls glazed with glossy sweet soy sauce in a clear tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "嵯峨野菓寮 京風 焼きみたらし団子 5本",
+     "brand": "嵯峨野菓寮",
+     "size": "5本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "嵯峨野菓寮 京風 こしあん団子 3本",
+     "brand": "嵯峨野菓寮",
+     "size": "3本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_mitarashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_wg_namayatsuhashi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "京菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "手みやげ"
+   ],
+   "tax_rate": 8,
+   "description": "ニッキの香るもちもちの生地で粒あんを三角に包んだ、生八ッ橋風の京菓子です。抹茶生地のものもございます。",
+   "image_brief": "Triangular folded soft cinnamon-scented rice dough sweets filled with red bean paste, arranged in rows in a plain box, a few green matcha ones. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "嵯峨野菓寮 ニッキ生地の粒あん包み（生八ッ橋風） 10個入",
+     "brand": "嵯峨野菓寮",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "嵯峨野菓寮 抹茶生地の粒あん包み（生八ッ橋風） 10個入",
+     "brand": "嵯峨野菓寮",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_namayatsuhashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_wg_ohagi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "わらび餅・餅菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お彼岸",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もち米をほどよくつぶし、つぶあん・きな粉・ごまで仕上げたおはぎ。毎朝店内でお作りしています。",
+   "image_brief": "Three ohagi sweet rice balls coated with red bean paste, kinako and black sesame in a clear tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] おはぎ 3種 3個入",
+     "brand": "嵯峨野菓寮",
+     "size": "3個",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] つぶあん おはぎ 2個入",
+     "brand": "嵯峨野菓寮",
+     "size": "2個",
+     "price_tax_excluded": 258,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_ohagi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_wg_kurimushi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "京菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "手みやげ",
+    "秋のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "大粒の栗を、こしあん生地で蒸し上げた栗蒸し羊かん。秋限定の京菓子です。",
+   "image_brief": "A sliced rectangular steamed chestnut yokan with whole chestnuts visible in brown bean paste on a small plain plate. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "嵯峨野菓寮 栗蒸し羊かん 1棹",
+     "brand": "嵯峨野菓寮",
+     "size": "1棹",
+     "price_tax_excluded": 980,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "嵯峨野菓寮 栗蒸し羊かん 切り分け 3切",
+     "brand": "嵯峨野菓寮",
+     "size": "3切",
+     "price_tax_excluded": 398,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_kurimushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_wg_kurisakura_okowa",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "ごはん・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "お祝い",
+    "お弁当",
+    "秋の味覚"
+   ],
+   "tax_rate": 8,
+   "description": "丹波地域産の栗をたっぷり使い、もち米をふっくら蒸し上げた栗おこわ。山菜おこわ、赤飯もそろえています。",
+   "image_brief": "A takeaway container of steamed sticky rice with large golden chestnuts, sprinkled with black sesame. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 丹波地域産 栗使用 栗おこわ 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "京都府産栗使用"
+    },
+    {
+     "title": "[店内調理] 山菜おこわ 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] お赤飯 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 358,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_wg_kurisakura_okowa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_tk_mibuna_zuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "京漬物",
+    "京漬物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶漬け",
+    "ごはんのおとも"
+   ],
+   "tax_rate": 8,
+   "description": "京都の伝統野菜を使った浅漬けの盛合せ。壬生菜、日野菜、赤かぶなど、季節の京漬物をそろえています。",
+   "image_brief": "A small plain wooden tray with neat portions of pickled green mibuna, pink turnip and purple shibazuke-style pickles. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京つむぎ 壬生菜漬 150g",
+     "brand": "京つむぎ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "京つむぎ 日野菜漬 桜漬 150g",
+     "brand": "京つむぎ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "滋賀県製造"
+    },
+    {
+     "title": "京つむぎ 赤かぶ漬 200g",
+     "brand": "京つむぎ",
+     "size": "200g",
+     "price_tax_excluded": 458,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "京つむぎ 京の浅漬け 3種盛合せ",
+     "brand": "京つむぎ",
+     "size": "1パック",
+     "price_tax_excluded": 598,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_tk_mibuna_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_tk_chirimen_sansho",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "京漬物",
+    "佃煮・ちりめん山椒"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ごはんのおとも",
+    "お茶漬け",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "ちりめんじゃこと実山椒を、しょうゆと酒でふっくら炊き上げた京都の定番、ちりめん山椒。ごはんやお茶漬けに。",
+   "image_brief": "A small heap of tiny dried white baby sardines simmered with green sansho peppercorns in a plain small container. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京つむぎ ちりめん山椒 60g",
+     "brand": "京つむぎ",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "京つむぎ ちりめん山椒 120g",
+     "brand": "京つむぎ",
+     "size": "120g",
+     "price_tax_excluded": 1080,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "京つむぎ 昆布の佃煮 山椒入り 100g",
+     "brand": "京つむぎ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_tk_chirimen_sansho_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_tk_yuba_fu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "京のおばんざい",
+    "湯葉・生麩"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お吸い物",
+    "炊いたん",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "京都の精進料理でもおなじみの、汲み上げ湯葉と手毬麩。お吸い物や炊き合わせ、おばんざいに。",
+   "image_brief": "A small plain container of creamy pulled yuba tofu skin and a few colourful round temari wheat gluten balls. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京つむぎ 汲み上げ湯葉 100g",
+     "brand": "京つむぎ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "京都府製造"
+    },
+    {
+     "title": "京つむぎ 京 手毬麩 15g",
+     "brand": "京つむぎ",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "京都府製造"
+    }
+   ],
+   "images": [
+    "k_kansai_tk_yuba_fu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_tk_obanzai",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "おばんざい"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "晩酌",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ひじき煮、おから炊いたん、旬野菜の炊き合わせなど、京都の家庭料理「おばんざい」を少しずつ詰め合わせました。",
+   "image_brief": "A plain divided takeaway container with small portions of simmered hijiki, okara, simmered pumpkin and greens with sesame. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 京のおばんざい 5種盛合せ",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] おから炊いたん 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 198,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] ひじきの炊いたん 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 198,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_tk_obanzai_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

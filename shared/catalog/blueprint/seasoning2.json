@@ -1,0 +1,846 @@
+{
+ "category_key": "seasoning2",
+ "items": [
+  {
+   "base_id": "seasoning2_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "柑橘のさわやかな酸味と醤油のうま味がバランスよく調和したぽん酢です。湯豆腐や水炊きなどの鍋物はもちろん、焼き魚やサラダ、餃子のつけだれにも重宝します。これからの鍋シーズンに常備しておきたい一本です。",
+   "images": [
+    "seasoning2_ponzu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ぽん酢 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 味ぽん酢 600ml",
+     "brand": "トップバリュ",
+     "size": "600ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ゆずぽん酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 高知県産ゆず果汁使用 ゆずぽん酢 360ml",
+     "brand": "トップバリュ セレクト",
+     "size": "360ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（ゆず果汁：高知県産）"
+    },
+    {
+     "title": "トップバリュ すだちぽん酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（すだち果汁：徳島県産）"
+    },
+    {
+     "title": "トップバリュ 減塩ぽん酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_ponzu_1.jpg",
+    "seasoning2_ponzu_2.jpg"
+   ],
+   "dishes": [
+    "水炊き",
+    "しゃぶしゃぶ",
+    "湯豆腐",
+    "焼き魚",
+    "餃子のたれ"
+   ]
+  },
+  {
+   "base_id": "seasoning2_mentsuyu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "めんつゆ・白だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "かつお節と昆布のだしをきかせた、香り豊かなめんつゆです。そばやうどんのつゆはもちろん、煮物や親子丼、天つゆなど毎日のおかず作りの味付けがこれ一本で決まります。忙しい日の時短料理の心強い味方です。",
+   "images": [
+    "seasoning2_mentsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス めんつゆ ストレート 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ めんつゆ 2倍濃縮 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ めんつゆ 3倍濃縮 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ めんつゆ 4倍濃縮 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本枯れ節使用 つゆの素 3倍濃縮 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白だし 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_mentsuyu_1.jpg",
+    "seasoning2_mentsuyu_2.jpg"
+   ],
+   "dishes": [
+    "ざるそば",
+    "そうめん",
+    "親子丼",
+    "天つゆ",
+    "煮物"
+   ]
+  },
+  {
+   "base_id": "seasoning2_koikuchi_soy_sauce",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "醤油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "大豆と小麦をじっくり発酵・熟成させた、香り高くまろやかな濃口醤油です。煮物や照り焼き、刺身のつけ醤油まで幅広く使える、和食の基本の一本。鮮度を保ちやすい密封ボトルタイプもご用意しました。",
+   "images": [
+    "seasoning2_koikuchi_soy_sauce_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス こいくちしょうゆ 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本醸造 こいくちしょうゆ 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 特選丸大豆しょうゆ 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鮮度ボトル 丸大豆しょうゆ 450ml",
+     "brand": "トップバリュ",
+     "size": "450ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鮮度ボトル 減塩しょうゆ 450ml",
+     "brand": "トップバリュ",
+     "size": "450ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産丸大豆・国産小麦使用 しょうゆ 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（大豆・小麦：国産）"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機しょうゆ 500ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_koikuchi_soy_sauce_1.jpg",
+    "seasoning2_koikuchi_soy_sauce_2.jpg"
+   ],
+   "dishes": [
+    "肉じゃが",
+    "照り焼き",
+    "煮物",
+    "卵かけご飯",
+    "刺身"
+   ]
+  },
+  {
+   "base_id": "seasoning2_miso",
+   "category_path": [
+    "調味料",
+    "味噌",
+    "合わせみそ・白みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "米こうじと大豆の自然なうま味が広がる、毎日のお味噌汁にぴったりのみそです。だし入りタイプならお湯に溶くだけで本格的な味わいに。白みそは甘くまろやかで、西京焼きや和え物にもおすすめです。",
+   "images": [
+    "seasoning2_miso_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 合わせみそ 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 料亭の味わい だし入り合わせみそ 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 だし入りみそ 650g",
+     "brand": "トップバリュ",
+     "size": "650g",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 信州 米こうじみそ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "トップバリュ 甘口 白みそ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産大豆・国産米使用 無添加こうじみそ 650g",
+     "brand": "トップバリュ セレクト",
+     "size": "650g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造（大豆・米：国産）"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機みそ 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_miso_1.jpg",
+    "seasoning2_miso_2.jpg"
+   ],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "さばの味噌煮",
+    "なすの味噌炒め",
+    "田楽"
+   ]
+  },
+  {
+   "base_id": "seasoning2_hon_mirin",
+   "category_path": [
+    "調味料",
+    "みりん・料理酒・酢",
+    "みりん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "もち米と米こうじを熟成させた、上品な甘みとコクの本みりんです。照りとツヤを美しく仕上げ、煮魚や照り焼きの味に深みを加えます。煮崩れを防ぎ、素材のうま味を引き立てます。",
+   "images": [
+    "seasoning2_hon_mirin_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス みりん風調味料 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本みりん 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本みりん 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本みりん 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 658,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産もち米使用 三年熟成 本みりん 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造（もち米：国産）"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_hon_mirin_1.jpg",
+    "seasoning2_hon_mirin_2.jpg"
+   ],
+   "dishes": [
+    "照り焼き",
+    "肉じゃが",
+    "煮物",
+    "すき焼き",
+    "めんつゆ"
+   ]
+  },
+  {
+   "base_id": "seasoning2_cooking_sake",
+   "category_path": [
+    "調味料",
+    "みりん・料理酒・酢",
+    "料理酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "お米のうま味とコクをいかした料理用の清酒です。魚や肉の臭みをやわらげ、煮物や炒め物をふっくらとおいしく仕上げます。酒蒸しや鍋のだしにも使いやすい、台所の定番です。",
+   "images": [
+    "seasoning2_cooking_sake_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 料理酒 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 料理清酒 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 料理清酒 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 料理清酒 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 純米 料理酒 国産米100% 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 358,
+     "origin": "国内製造（米：国産）"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_cooking_sake_1.jpg"
+   ],
+   "dishes": [
+    "煮魚",
+    "あさりの酒蒸し",
+    "肉じゃが",
+    "照り焼き",
+    "唐揚げの下味"
+   ]
+  },
+  {
+   "base_id": "seasoning2_white_sugar",
+   "category_path": [
+    "調味料",
+    "砂糖・塩",
+    "砂糖"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "しっとりとした質感で溶けやすく、料理にもお菓子作りにも使いやすい上白糖です。煮物や卵焼き、すき焼きの割り下などにやさしい甘みを加えます。コクのある三温糖やきび砂糖もご用意しました。",
+   "images": [
+    "seasoning2_white_sugar_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 上白糖 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 上白糖 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 上白糖 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 三温糖 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グラニュー糖 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産さとうきび使用 きび砂糖 650g",
+     "brand": "トップバリュ セレクト",
+     "size": "650g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造（さとうきび：鹿児島県産）"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_white_sugar_1.jpg",
+    "seasoning2_white_sugar_2.jpg"
+   ],
+   "dishes": [
+    "肉じゃが",
+    "すき焼き",
+    "卵焼き",
+    "照り焼き",
+    "おはぎ"
+   ]
+  },
+  {
+   "base_id": "seasoning2_salt",
+   "category_path": [
+    "調味料",
+    "砂糖・塩",
+    "塩"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "さらさらとして使いやすく、下ごしらえから味の仕上げまで活躍する食塩です。にがりを含んだ海塩はまろやかな塩味で、塩むすびや焼き魚の味を引き立てます。卓上で便利なボトルタイプもご用意しました。",
+   "images": [
+    "seasoning2_salt_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 食塩 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 食卓塩 ボトル 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼き塩 さらさらタイプ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 瀬戸内の海水塩 にがり仕立て 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（海水：瀬戸内海）"
+    },
+    {
+     "title": "トップバリュ 味付け塩こしょう 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_salt_1.jpg",
+    "seasoning2_salt_2.jpg"
+   ],
+   "dishes": [
+    "おにぎり",
+    "焼き魚",
+    "浅漬け",
+    "塩焼きそば",
+    "ゆで野菜"
+   ]
+  },
+  {
+   "base_id": "seasoning2_mayonnaise",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ・ソース",
+    "マヨネーズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "description": "卵のコクとほどよい酸味がきいた、なめらかでクリーミーなマヨネーズです。ポテトサラダやサンドイッチ、焼き野菜のディップにも大活躍。カロリーを抑えたハーフタイプもご用意しました。",
+   "images": [
+    "seasoning2_mayonnaise_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス マヨネーズタイプ 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マヨネーズ 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マヨネーズ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーハーフ マヨネーズタイプ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産卵黄使用 マヨネーズ 310g",
+     "brand": "トップバリュ セレクト",
+     "size": "310g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造（卵黄：国産）"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_mayonnaise_1.jpg",
+    "seasoning2_mayonnaise_2.jpg"
+   ],
+   "dishes": [
+    "ポテトサラダ",
+    "えびマヨ",
+    "お好み焼き",
+    "たまごサンド",
+    "マカロニサラダ"
+   ]
+  },
+  {
+   "base_id": "seasoning2_tomato_ketchup",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ・ソース",
+    "ケチャップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "完熟トマトの甘みと酸味をぎゅっと詰め込んだ、コク深いトマトケチャップです。オムライスやナポリタン、ハンバーグのソースなど子どもに人気のメニューに欠かせません。使いやすいチューブ容器入りです。",
+   "images": [
+    "seasoning2_tomato_ketchup_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス トマトケチャップ 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ トマトケチャップ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ トマトケチャップ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩分ひかえめ トマトケチャップ 290g",
+     "brand": "トップバリュ",
+     "size": "290g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産トマト100% 完熟トマトケチャップ 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造（トマト：国産）"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機トマトケチャップ 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_tomato_ketchup_1.jpg",
+    "seasoning2_tomato_ketchup_2.jpg"
+   ],
+   "dishes": [
+    "オムライス",
+    "ナポリタン",
+    "チキンライス",
+    "ハンバーグソース",
+    "えびチリ"
+   ]
+  },
+  {
+   "base_id": "seasoning2_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "ごま・和風ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "description": "香ばしく煎ったごまをたっぷり使った濃厚なごまドレッシングと、醤油ベースでさっぱりいただける和風ドレッシングです。サラダはもちろん、しゃぶしゃぶのたれや蒸し鶏、冷ややっこにもよく合います。",
+   "images": [
+    "seasoning2_dressing_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 焙煎ごまドレッシング 380ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "380ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 深煎りごまドレッシング 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 青じそドレッシング ノンオイル 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 和風たまねぎドレッシング 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 和風しょうゆドレッシング 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 金ごま使用 濃厚ごまドレッシング 280ml",
+     "brand": "トップバリュ セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_dressing_1.jpg",
+    "seasoning2_dressing_2.jpg"
+   ],
+   "dishes": [
+    "サラダ",
+    "冷しゃぶサラダ",
+    "棒棒鶏",
+    "ごま和え"
+   ]
+  },
+  {
+   "base_id": "seasoning2_dashi_granules",
+   "category_path": [
+    "調味料",
+    "だし・ブイヨン",
+    "和風だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "かつお節のうま味と香りを手軽に楽しめる顆粒タイプの和風だしです。お味噌汁や煮物、茶わん蒸しなどにさっと溶けて、だしの風味豊かな仕上がりに。使い切りやすいスティックタイプや本格だしパックもご用意しました。",
+   "images": [
+    "seasoning2_dashi_granules_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス かつおだし 顆粒 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かつお風味 和風だしの素 顆粒 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 和風だしの素 スティック 8g×10本",
+     "brand": "トップバリュ",
+     "size": "8g×10本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんぶだしの素 顆粒 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 和風だしの素 顆粒 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県枕崎産 かつお節 だしパック 8g×20袋",
+     "brand": "トップバリュ セレクト",
+     "size": "8g×20袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造（かつお節：鹿児島県枕崎産）"
+    }
+   ],
+   "cc_images": [
+    "seasoning2_dashi_granules_1.jpg",
+    "seasoning2_dashi_granules_2.jpg"
+   ],
+   "dishes": [
+    "味噌汁",
+    "煮物",
+    "茶碗蒸し",
+    "だし巻き玉子",
+    "うどんつゆ"
+   ]
+  }
+ ]
+}

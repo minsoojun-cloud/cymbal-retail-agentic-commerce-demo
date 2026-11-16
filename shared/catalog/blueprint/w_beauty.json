@@ -1,0 +1,3458 @@
+{
+ "category_key": "w_beauty",
+ "items": [
+  {
+   "base_id": "w_beauty_damage_repair_shampoo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "シャンプー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "毎日のバスタイム",
+    "カラー後のヘアケア",
+    "パサつきケア"
+   ],
+   "tax_rate": 10,
+   "description": "カラーやドライヤーの熱で傷みがちな髪のために、補修成分を配合したダメージケアシャンプー。きめ細かな泡が髪をやさしく包み、指通りのよいまとまる髪へ。毛先のパサつきが気になる方におすすめです。",
+   "image_brief": "A tall glossy burgundy pump bottle of shampoo with a plain blank white label, studio packshot on white background.",
+   "labels": [
+    "ダメージケア"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ダメージリペア シャンプー 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ダメージリペア シャンプー 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム ダメージリペア シャンプー 450ml",
+     "brand": "Cymbal セレクト",
+     "size": "450ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ ケラチン補修 シャンプー 480ml",
+     "brand": "ミナモリ",
+     "size": "480ml",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ ケラチン補修 シャンプー つめかえ用 400ml",
+     "brand": "ミナモリ",
+     "size": "400ml",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_damage_repair_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_damage_repair_treatment",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "トリートメント"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "毎日のバスタイム",
+    "乾燥対策",
+    "うねり・広がりケア"
+   ],
+   "tax_rate": 10,
+   "description": "シャンプー後に使う洗い流すタイプのヘアトリートメント。濃密なクリームが髪の内側までなじみ、乾かした後もしっとりまとまります。広がりやすい髪、乾燥する季節のケアにぴったりです。",
+   "image_brief": "A wide matte cream-colored squeeze tube of hair treatment standing cap-down beside a matching pump bottle, plain blank labels, studio packshot.",
+   "labels": [
+    "しっとり"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ダメージリペア トリートメント 500g",
+     "brand": "Cymbal Beauty",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ダメージリペア トリートメント 詰替用 400g",
+     "brand": "Cymbal Beauty",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃密補修 ヘアトリートメント 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 椿オイル配合 しっとりトリートメント 480g",
+     "brand": "ユキシズク",
+     "size": "480g",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 椿オイル配合 しっとりトリートメント つめかえ用 400g",
+     "brand": "ユキシズク",
+     "size": "400g",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_damage_repair_treatment_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_nonsilicone_smooth_shampoo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "シャンプー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のバスタイム",
+    "ボリュームアップ",
+    "頭皮すっきり"
+   ],
+   "tax_rate": 10,
+   "description": "シリコンを使わないノンシリコン処方で、根元からふんわり軽い仕上がりのさらさらシャンプー。植物由来の洗浄成分で頭皮をすっきり洗い上げます。べたつきやボリュームダウンが気になる方に。",
+   "image_brief": "A slim frosted mint-green pump bottle of shampoo with a plain blank label, botanical leaf beside it, studio packshot.",
+   "labels": [
+    "ノンシリコン"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ノンシリコン さらさらシャンプー 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ノンシリコン さらさらシャンプー 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック ノンシリコンシャンプー 400ml",
+     "brand": "Cymbal オーガニック",
+     "size": "400ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ボタニカルハーブ ノンシリコンシャンプー 460ml",
+     "brand": "Soraé",
+     "size": "460ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ボタニカルハーブ ノンシリコンシャンプー 詰替 400ml",
+     "brand": "Soraé",
+     "size": "400ml",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ノンシリコン シャンプー 550ml",
+     "brand": "Cymbal ベーシック",
+     "size": "550ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_nonsilicone_smooth_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_nonsilicone_smooth_conditioner",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "コンディショナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のバスタイム",
+    "さらさら仕上げ"
+   ],
+   "tax_rate": 10,
+   "description": "ノンシリコンでも指通りなめらか。植物オイルが髪表面を整え、軽やかなさらさら髪に仕上げるコンディショナーです。同シリーズのシャンプーと合わせて使うと、ふんわり感が長続きします。",
+   "image_brief": "A slim frosted mint-green pump bottle of conditioner with a plain blank label next to a small sprig of herbs, studio packshot.",
+   "labels": [
+    "ノンシリコン"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ノンシリコン さらさらコンディショナー 480g",
+     "brand": "Cymbal Beauty",
+     "size": "480g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ノンシリコン さらさらコンディショナー 詰替用 400g",
+     "brand": "Cymbal Beauty",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック ノンシリコンコンディショナー 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ボタニカルハーブ コンディショナー 460g",
+     "brand": "Soraé",
+     "size": "460g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ノンシリコン コンディショナー 550g",
+     "brand": "Cymbal ベーシック",
+     "size": "550g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_nonsilicone_smooth_conditioner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_scalp_shampoo_men",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "メンズシャンプー"
+   ],
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "朝シャン",
+    "スポーツ後",
+    "皮脂・におい対策"
+   ],
+   "tax_rate": 10,
+   "description": "皮脂やにおいが気になる頭皮をすっきり洗い上げるメンズ向けスカルプシャンプー。メントールの爽快感で、洗い上がりはひんやり気持ちいい。朝シャンやスポーツの後にも使いやすい処方です。",
+   "image_brief": "A sturdy matte charcoal-black pump bottle of men's scalp shampoo with a plain blank silver label, studio packshot.",
+   "labels": [
+    "メンズ"
+   ],
+   "variants": [
+    {
+     "title": "Hakuro Men スカルプクレンズ シャンプー 400ml",
+     "brand": "Hakuro Men",
+     "size": "400ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men スカルプクレンズ シャンプー 詰替用 350ml",
+     "brand": "Hakuro Men",
+     "size": "350ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men スカルプクレンズ シャンプー クール 400ml",
+     "brand": "Hakuro Men",
+     "size": "400ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ 薬用スカルプシャンプー 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ 薬用スカルプシャンプー 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_scalp_shampoo_men_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_shampoo_refill_jumbo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "詰め替え用"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "家族のバスタイム",
+    "まとめ買い",
+    "ストック"
+   ],
+   "tax_rate": 10,
+   "description": "家族みんなでたっぷり使えるつめかえ大容量パウチ。ボトルへの詰め替え回数が減り、1回あたりのコストもお得です。注ぎ口付きでこぼれにくく、プラスチック使用量の削減にも貢献します。",
+   "image_brief": "A large upright stand-up refill pouch with a spout cap, glossy white and pale blue, plain blank front, studio packshot.",
+   "labels": [
+    "詰替用",
+    "大容量"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック シャンプー つめかえ大容量 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック コンディショナー つめかえ大容量 1000g",
+     "brand": "Cymbal ベーシック",
+     "size": "1000g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ノンシリコン さらさらシャンプー つめかえ大容量 1200ml",
+     "brand": "Cymbal Beauty",
+     "size": "1200ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ダメージリペア シャンプー つめかえ大容量 1100ml",
+     "brand": "Cymbal Beauty",
+     "size": "1100ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ダメージリペア トリートメント つめかえ大容量 1100g",
+     "brand": "Cymbal Beauty",
+     "size": "1100g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ ケラチン補修 シャンプー 特大つめかえ 1600ml",
+     "brand": "ミナモリ",
+     "size": "1600ml",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_shampoo_refill_jumbo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_rinse_in_shampoo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "リンスインシャンプー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "時短ヘアケア",
+    "親子の入浴",
+    "ジム・旅行"
+   ],
+   "tax_rate": 10,
+   "description": "シャンプーとリンスが1本になったリンスインシャンプー。忙しい朝や子どもとの入浴時もワンステップで手早く洗えます。泡切れがよく、きしみにくいなめらかな仕上がり。ジムや旅行用にも便利です。",
+   "image_brief": "A large rounded aqua-blue pump bottle of rinse-in shampoo with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック リンスインシャンプー 600ml",
+     "brand": "Cymbal ベーシック",
+     "size": "600ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック リンスインシャンプー 詰替用 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 家族で使える リンスインシャンプー せっけんの香り 550ml",
+     "brand": "Cymbal Beauty",
+     "size": "550ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ リンスインシャンプー クール 550ml",
+     "brand": "Cymbal Beauty",
+     "size": "550ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty リンスインシャンプー つめかえ大容量 1000ml",
+     "brand": "Cymbal Beauty",
+     "size": "1000ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_rinse_in_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_mask_jar",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "ヘアマスク"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "週末のスペシャルケア",
+    "乾燥対策",
+    "カラー後のケア"
+   ],
+   "tax_rate": 10,
+   "description": "週に1〜2回のスペシャルケアに使う集中ヘアマスク。とろけるバームのような質感で、毛先までしっかり密着。数分おいて洗い流せば、つややかで手触りのよい髪に。乾燥の気になる冬に特におすすめです。",
+   "image_brief": "A short wide frosted lilac jar of rich hair mask with a silver screw lid, one jar open showing creamy texture, plain blank label, studio packshot.",
+   "labels": [
+    "しっとり"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 集中補修 ヘアマスク 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム リッチヘアマスク 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 椿と米ぬか ヘアマスク 220g",
+     "brand": "ユキシズク",
+     "size": "220g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック シアバター ヘアマスク 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 集中補修 ヘアマスク 1回分パウチ 12g×3包",
+     "brand": "Cymbal Beauty",
+     "size": "12g×3包",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_mask_jar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_leave_in_hair_milk",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "洗い流さないトリートメント"
+   ],
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ドライヤー前",
+    "朝のスタイリング",
+    "広がり防止"
+   ],
+   "tax_rate": 10,
+   "description": "タオルドライ後になじませる洗い流さないミルクトリートメント。ドライヤーの熱から髪を守りながら、ふんわりやわらかな手触りに整えます。オイルが重く感じる方や細い髪の方にも使いやすい軽さです。",
+   "image_brief": "A soft pearl-white pump bottle of hair milk with a rose-gold pump head, plain blank label, studio packshot.",
+   "labels": [
+    "洗い流さない"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 洗い流さない ヘアミルク 100ml",
+     "brand": "Cymbal Beauty",
+     "size": "100ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 洗い流さない ヘアミルク 詰替用 90ml",
+     "brand": "Cymbal Beauty",
+     "size": "90ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ヒートプロテクト ヘアミルク 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé シルキー ヘアミルク ホワイトフローラル 100ml",
+     "brand": "Soraé",
+     "size": "100ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ヘアミルク 120ml",
+     "brand": "Cymbal ベーシック",
+     "size": "120ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_leave_in_hair_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_wax",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアスタイリング",
+    "ヘアワックス"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝のスタイリング",
+    "毛束感づくり",
+    "メンズヘア"
+   ],
+   "tax_rate": 10,
+   "description": "髪の動きや毛束感を自在に作れるヘアワックス。ベタつきにくく、手に取ってもすっと伸びるので初めての方でも扱いやすい。仕上がりや髪の長さに合わせてキープ力を選べます。お湯で落としやすい処方です。",
+   "image_brief": "A small round squat plastic jar of hair wax with a black screw lid, one opened showing pale cream wax, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Hakuro Men ヘアワックス ナチュラル 80g",
+     "brand": "Hakuro Men",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men ヘアワックス ハードキープ 80g",
+     "brand": "Hakuro Men",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men ヘアワックス マットハード 80g",
+     "brand": "Hakuro Men",
+     "size": "80g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ヘアワックス ふんわりエアリー 70g",
+     "brand": "Cymbal Beauty",
+     "size": "70g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ヘアワックス ハード 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ヘアワックス ミニ 携帯用 20g",
+     "brand": "Cymbal Beauty",
+     "size": "20g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_wax_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_spray",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアスタイリング",
+    "ヘアスプレー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "仕上げのキープ",
+    "前髪キープ",
+    "冠婚葬祭のヘアセット"
+   ],
+   "tax_rate": 10,
+   "description": "仕上げにひと吹きでヘアスタイルを長時間キープするヘアスプレー。微細なミストで髪がパリパリになりにくく、湿気の多い日も形をきれいに保ちます。ブラッシングで簡単に落とせるのもポイントです。",
+   "image_brief": "A tall slim aerosol can of hair spray in metallic navy with a clear cap and plain blank band, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ヘアスプレー スーパーハード 無香料 180g",
+     "brand": "Cymbal Beauty",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ヘアスプレー ナチュラルキープ 180g",
+     "brand": "Cymbal Beauty",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ヘアスプレー ハード 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men ヘアスプレー エクストラハード 200g",
+     "brand": "Hakuro Men",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ヘアスプレー ミニ 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_oil_styling",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアスタイリング",
+    "スタイリングオイル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ウェットヘア",
+    "毛先のツヤ出し",
+    "お出かけ前"
+   ],
+   "tax_rate": 10,
+   "description": "濡れたようなツヤ感と束感をつくるスタイリング用ヘアオイル。毛先になじませるだけで今っぽいウェットヘアに。仕上げ後は手に残った分をハンドケアにも使えます。軽めのフローラルの香りです。",
+   "image_brief": "A small square amber glass bottle of hair styling oil with a gold pump, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Soraé スタイリングオイル ウェットツヤ 90ml",
+     "brand": "Soraé",
+     "size": "90ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé スタイリングオイル 無香料 90ml",
+     "brand": "Soraé",
+     "size": "90ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ウェットスタイリング ヘアオイル 100ml",
+     "brand": "Cymbal Beauty",
+     "size": "100ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック ホホバ スタイリングオイル 60ml",
+     "brand": "Cymbal オーガニック",
+     "size": "60ml",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ウェットスタイリング ヘアオイル ミニ 30ml",
+     "brand": "Cymbal Beauty",
+     "size": "30ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_oil_styling_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_bedhead_water",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアスタイリング",
+    "寝ぐせ直し"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝の身支度",
+    "寝ぐせリセット",
+    "子どもの髪の手入れ"
+   ],
+   "tax_rate": 10,
+   "description": "朝の寝ぐせや髪のはねをさっと整える寝ぐせ直しウォーター。髪の根元までしっかり届くミストで、ドライヤーとブラシで簡単にリセットできます。忙しい朝の身支度の時短にぴったりのアイテムです。",
+   "image_brief": "A tall white trigger-spray bottle of hair styling water with a light blue trigger and plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 寝ぐせ直しウォーター 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 寝ぐせ直しウォーター 詰替用 220ml",
+     "brand": "Cymbal Beauty",
+     "size": "220ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 寝ぐせ直しミスト 300ml",
+     "brand": "Cymbal ベーシック",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ うるおい寝ぐせ直し ヘアウォーター 250ml",
+     "brand": "ミナモリ",
+     "size": "250ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 寝ぐせ直しウォーター 大容量 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_bedhead_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_kids_foam_shampoo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ヘアケア",
+    "キッズシャンプー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "親子の入浴",
+    "自分で洗う練習",
+    "夏の汗ケア"
+   ],
+   "tax_rate": 10,
+   "description": "ポンプを押すと泡で出てくる子ども用シャンプー。目にしみにくい低刺激処方で、小さな子でも自分で洗う練習ができます。泡切れがよくすすぎも短時間。やさしいフルーツの香りでお風呂が楽しくなります。",
+   "image_brief": "A chubby rounded foam-pump bottle in pastel yellow with a white pump, plain blank label, studio packshot.",
+   "labels": [
+    "泡タイプ",
+    "低刺激"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty キッズ 泡シャンプー ピーチの香り 300ml",
+     "brand": "Cymbal Beauty",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty キッズ 泡シャンプー 詰替用 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ あわあわキッズシャンプー ベリーの香り 350ml",
+     "brand": "アワユラ",
+     "size": "350ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック ベビー&キッズ 泡シャンプー 無香料 300ml",
+     "brand": "Cymbal オーガニック",
+     "size": "300ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ あわあわキッズシャンプー つめかえ用 300ml",
+     "brand": "アワユラ",
+     "size": "300ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_kids_foam_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_weak_acid_body_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ボディソープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "家族のバスタイム",
+    "毎日の入浴",
+    "敏感肌の方に"
+   ],
+   "tax_rate": 10,
+   "description": "肌と同じ弱酸性処方でやさしく洗い上げるボディソープ。もっちりとした泡が汚れを落としながら、肌のうるおいを守ります。赤ちゃんから大人まで家族みんなで使いやすい、香りひかえめのタイプです。",
+   "image_brief": "A large rounded white pump bottle of body wash with a pale pink pump and plain blank label, studio packshot.",
+   "labels": [
+    "弱酸性"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 弱酸性ボディソープ ボトル 550ml",
+     "brand": "Cymbal Beauty",
+     "size": "550ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 弱酸性ボディソープ 詰替用 450ml",
+     "brand": "Cymbal Beauty",
+     "size": "450ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 弱酸性ボディソープ つめかえ大容量 1200ml",
+     "brand": "Cymbal Beauty",
+     "size": "1200ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 弱酸性ボディソープ 600ml",
+     "brand": "Cymbal ベーシック",
+     "size": "600ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 弱酸性 敏感肌ボディソープ 無香料 500ml",
+     "brand": "ミナモリ",
+     "size": "500ml",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 弱酸性 敏感肌ボディソープ 詰替 400ml",
+     "brand": "ミナモリ",
+     "size": "400ml",
+     "price_tax_excluded": 580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_weak_acid_body_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_medicated_deodorant_body_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "薬用ボディソープ"
+   ],
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "汗をかいた日",
+    "スポーツ後",
+    "においケア"
+   ],
+   "tax_rate": 10,
+   "description": "汗や皮脂のにおいが気になる季節に頼れる薬用デオドラントボディソープ。洗浄成分が汗や皮脂汚れをすっきり洗い流し、さっぱりとした洗い上がりに。スポーツをする方や、においが気になる方にもおすすめです。",
+   "image_brief": "A tall cobalt-blue pump bottle of medicated body wash with a white pump, plain blank label, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用デオドラント ボディソープ 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用デオドラント ボディソープ 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 薬用 柿渋エキス配合 ボディソープ 450ml",
+     "brand": "Hakuro Men",
+     "size": "450ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 薬用 柿渋エキス配合 ボディソープ 詰替 380ml",
+     "brand": "Hakuro Men",
+     "size": "380ml",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 薬用ボディソープ 550ml",
+     "brand": "Cymbal ベーシック",
+     "size": "550ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_medicated_deodorant_body_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_foam_body_wash",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "泡ボディソープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "親子の入浴",
+    "時短バスタイム",
+    "敏感肌の方に"
+   ],
+   "tax_rate": 10,
+   "description": "ワンプッシュでふわふわの泡が出てくる泡タイプのボディソープ。泡立て不要なので、子どもの入浴や時短したい日にぴったり。手でなでるように洗えて肌への摩擦も少なく、やさしい石けんの香りです。",
+   "image_brief": "A large foam-pump bottle of body wash in soft peach color with a white pump head, plain blank label, studio packshot.",
+   "labels": [
+    "泡タイプ"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 泡で出てくる ボディソープ 540ml",
+     "brand": "Cymbal Beauty",
+     "size": "540ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 泡で出てくる ボディソープ 詰替用 450ml",
+     "brand": "Cymbal Beauty",
+     "size": "450ml",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ ふわもこ泡ボディソープ ホワイトサボン 500ml",
+     "brand": "アワユラ",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ ふわもこ泡ボディソープ 詰替 430ml",
+     "brand": "アワユラ",
+     "size": "430ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック 泡ボディソープ 400ml",
+     "brand": "Cymbal オーガニック",
+     "size": "400ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_foam_body_wash_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_mens_body_wash",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "メンズボディソープ"
+   ],
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "スポーツ後",
+    "汗をかいた日",
+    "朝シャワー"
+   ],
+   "tax_rate": 10,
+   "description": "男性の皮脂汚れをすっきり落とすメンズボディウォッシュ。ひんやりメントールで洗い上がりは爽快、ベタつきを残しません。顔から全身まで洗えるオールインワンタイプもあり、忙しい方にも便利です。",
+   "image_brief": "A rugged matte gunmetal-gray pump bottle of men's body wash with a black pump, plain blank label, studio packshot.",
+   "labels": [
+    "メンズ"
+   ],
+   "variants": [
+    {
+     "title": "Hakuro Men メンズボディウォッシュ アイスクール 500ml",
+     "brand": "Hakuro Men",
+     "size": "500ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズボディウォッシュ 詰替用 400ml",
+     "brand": "Hakuro Men",
+     "size": "400ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 全身洗える オールインワンウォッシュ 450ml",
+     "brand": "Hakuro Men",
+     "size": "450ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ 爽快ボディソープ 550ml",
+     "brand": "Cymbal Beauty",
+     "size": "550ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ 爽快ボディソープ 詰替用 450ml",
+     "brand": "Cymbal Beauty",
+     "size": "450ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_mens_body_wash_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_bar_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "固形石鹸"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗顔・手洗い",
+    "お風呂",
+    "まとめ買い"
+   ],
+   "tax_rate": 10,
+   "description": "昔ながらの製法で丁寧に練り上げた化粧石けん。きめ細かな泡立ちでさっぱり洗えて、洗面所にもお風呂にも使える定番品です。まとめ買いにうれしい複数個パックも揃えました。",
+   "image_brief": "A stack of plain white wrapped rectangular soap bars with one unwrapped creamy-white bar in front, blank wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 化粧石けん 85g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "85g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 化粧石けん 85g×6個",
+     "brand": "Cymbal ベーシック",
+     "size": "85g×6個",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ミルク配合 化粧石けん 100g×3個",
+     "brand": "Cymbal Beauty",
+     "size": "100g×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ローズの香り 化粧石けん 100g×3個",
+     "brand": "Cymbal Beauty",
+     "size": "100g×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 化粧石けん 大判 バスサイズ 130g×3個",
+     "brand": "Cymbal Beauty",
+     "size": "130g×3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_bar_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_additive_free_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "無添加せっけん"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗顔",
+    "全身",
+    "敏感肌の方に"
+   ],
+   "tax_rate": 10,
+   "description": "香料・着色料・防腐剤を使わない無添加せっけん。植物油脂をじっくり鹸化させたやさしい洗い心地で、洗顔にも全身にも使えます。肌がデリケートな方や赤ちゃんのいるご家庭におすすめです。",
+   "image_brief": "Several pale ivory unscented soap bars in plain kraft-paper wrappers tied with twine, one bar unwrapped, studio packshot.",
+   "labels": [
+    "無香料",
+    "無添加"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 無添加 オリーブ石けん 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 無添加 オリーブ石けん 3個パック 100g×3個",
+     "brand": "Cymbal オーガニック",
+     "size": "100g×3個",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 無添加 米ぬか石けん 90g",
+     "brand": "ユキシズク",
+     "size": "90g",
+     "price_tax_excluded": 480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 無添加 酒かす石けん 90g",
+     "brand": "ユキシズク",
+     "size": "90g",
+     "price_tax_excluded": 580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 無添加せっけん 100g×2個",
+     "brand": "Cymbal Beauty",
+     "size": "100g×2個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_additive_free_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_foam_hand_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "泡ハンドソープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "帰宅後の手洗い",
+    "キッチン",
+    "子どもの手洗い"
+   ],
+   "tax_rate": 10,
+   "description": "ワンプッシュでもこもこの泡が出る薬用泡ハンドソープ。手指の汚れをすばやく落とし、泡切れがよいので子どもでも手洗いしやすい。キッチンや洗面所に置きやすいコンパクトなボトルです。",
+   "image_brief": "A compact white foam-pump bottle of hand soap with a lime-green pump head and plain blank label, studio packshot.",
+   "labels": [
+    "泡タイプ",
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ 本体 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ 詰替用 200ml",
+     "brand": "Cymbal Beauty",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ シトラスの香り 本体 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ キッズ泡ハンドソープ フルーツの香り 250ml",
+     "brand": "アワユラ",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 泡ハンドソープ 本体 250ml",
+     "brand": "Cymbal ベーシック",
+     "size": "250ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ 無香料 本体 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_foam_hand_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_liquid_hand_soap",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "液体ハンドソープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗面所",
+    "キッチン",
+    "来客用"
+   ],
+   "tax_rate": 10,
+   "description": "しっかり泡立つ液体タイプのハンドソープ。保湿成分配合で、何度手を洗ってもつっぱりにくい洗い上がり。爽やかなハーブやフルーツの香りから選べて、洗面所の雰囲気も明るくなります。",
+   "image_brief": "A clear tall pump bottle filled with translucent amber liquid hand soap, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty うるおい液体ハンドソープ ハーブ 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty うるおい液体ハンドソープ ピーチ 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 液体ハンドソープ 300ml",
+     "brand": "Cymbal ベーシック",
+     "size": "300ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ボタニカル ハンドウォッシュ ベルガモット 300ml",
+     "brand": "Soraé",
+     "size": "300ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty キッチン用 液体ハンドソープ 無香料 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_liquid_hand_soap_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hand_soap_refill_jumbo",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ハンドソープ詰替"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "まとめ買い",
+    "オフィス",
+    "家族のストック"
+   ],
+   "tax_rate": 10,
+   "description": "毎日使うハンドソープをたっぷりストックできる大容量詰替パウチ。ボトル数本分を詰め替えられて、1回あたりのコストもお得です。家族が多いご家庭やオフィス、店舗のまとめ買いに便利です。",
+   "image_brief": "A large flat stand-up refill pouch of hand soap in pale green with a screw spout, plain blank front, studio packshot.",
+   "labels": [
+    "詰替用",
+    "大容量"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ 詰替 大容量 800ml",
+     "brand": "Cymbal Beauty",
+     "size": "800ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用泡ハンドソープ 詰替 特大 1500ml",
+     "brand": "Cymbal Beauty",
+     "size": "1500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty うるおい液体ハンドソープ 詰替 大容量 800ml",
+     "brand": "Cymbal Beauty",
+     "size": "800ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 泡ハンドソープ 詰替用 450ml",
+     "brand": "Cymbal ベーシック",
+     "size": "450ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ キッズ泡ハンドソープ 詰替 大容量 750ml",
+     "brand": "アワユラ",
+     "size": "750ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hand_soap_refill_jumbo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_scrub_face_wash",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "洗顔料"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝の洗顔",
+    "夜の洗顔",
+    "テカリ対策"
+   ],
+   "tax_rate": 10,
+   "description": "細かなスクラブ粒子が毛穴の汚れや古い角質をやさしくオフする洗顔フォーム。皮脂が気になるTゾーンもすっきり、なめらかな肌に洗い上げます。ベタつきやテカリが気になる方におすすめです。",
+   "image_brief": "A slim upright squeeze tube of face wash in sky blue with a white flip cap, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 毛穴すっきり スクラブ洗顔 130g",
+     "brand": "Cymbal Beauty",
+     "size": "130g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 皮脂ケア 薬用洗顔フォーム 130g",
+     "brand": "Cymbal Beauty",
+     "size": "130g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ 炭配合 オイルコントロール洗顔 130g",
+     "brand": "Hakuro Men",
+     "size": "130g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック さっぱり洗顔フォーム 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 泥と米ぬか 洗顔フォーム 120g",
+     "brand": "ユキシズク",
+     "size": "120g",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_scrub_face_wash_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_foam_face_wash_pump",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "泡洗顔"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝の洗顔",
+    "時短スキンケア",
+    "敏感肌の方に"
+   ],
+   "tax_rate": 10,
+   "description": "ポンプを押すだけで濃密な泡が出る泡タイプの洗顔料。泡立てる手間がなく、手が肌に触れにくいので摩擦をおさえて洗えます。忙しい朝やメイクをしない日の洗顔にぴったりです。",
+   "image_brief": "A white foam-pump bottle of facial cleansing foam with a pastel green pump head and plain blank label, studio packshot.",
+   "labels": [
+    "泡タイプ"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 泡で出てくる 洗顔フォーム 160ml",
+     "brand": "Cymbal Beauty",
+     "size": "160ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 泡で出てくる 洗顔フォーム 詰替用 140ml",
+     "brand": "Cymbal Beauty",
+     "size": "140ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 敏感肌用 泡洗顔 無香料 150ml",
+     "brand": "ミナモリ",
+     "size": "150ml",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 敏感肌用 泡洗顔 詰替 130ml",
+     "brand": "ミナモリ",
+     "size": "130ml",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ 泡洗顔 クール 150ml",
+     "brand": "Hakuro Men",
+     "size": "150ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_foam_face_wash_pump_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_cleansing_gel",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "クレンジングジェル"
+   ],
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "メイク落とし",
+    "お風呂でのクレンジング",
+    "マツエク中の方に"
+   ],
+   "tax_rate": 10,
+   "description": "肌の上でするするとろけるクレンジングジェル。濡れた手でも使えてお風呂でのメイク落としにも便利です。オイルフリーでマツエクをしている方にもおすすめ。洗い上がりはつっぱらずしっとりします。",
+   "image_brief": "A clear squeeze tube filled with translucent pale-pink cleansing gel and a white cap, plain blank label, studio packshot.",
+   "labels": [
+    "オイルフリー"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ホットクレンジングジェル 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty オイルフリー クレンジングジェル 180g",
+     "brand": "Cymbal Beauty",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クレンジングジェル 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 敏感肌用 クリアクレンジングジェル 150g",
+     "brand": "ミナモリ",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ホットクレンジングジェル 大容量 300g",
+     "brand": "Cymbal Beauty",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_cleansing_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_cleansing_sheet",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "クレンジングシート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "時短メイク落とし",
+    "旅行",
+    "アウトドア"
+   ],
+   "tax_rate": 10,
+   "description": "1枚でメイクをすばやく落とせる拭き取りクレンジングシート。厚手でやわらかなシートに美容液がたっぷり。帰宅後すぐの時短ケア、旅行やアウトドアなど水を使えない場面でも活躍します。",
+   "image_brief": "A soft flat resealable pouch of facial cleansing wipes with a white flip-top lid, one moist wipe pulled out, plain blank front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty メイク落とし クレンジングシート 46枚",
+     "brand": "Cymbal Beauty",
+     "size": "46枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メイク落とし クレンジングシート 詰替 46枚",
+     "brand": "Cymbal Beauty",
+     "size": "46枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メイク落とし クレンジングシート 携帯用 10枚×3個",
+     "brand": "Cymbal Beauty",
+     "size": "10枚×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クレンジングシート 52枚",
+     "brand": "Cymbal ベーシック",
+     "size": "52枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ まつエクOK 拭き取りクレンジングシート 40枚",
+     "brand": "ミナモリ",
+     "size": "40枚",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_cleansing_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_cleansing_balm",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "クレンジングバーム"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "メイク落とし",
+    "毛穴ケア",
+    "乾燥対策"
+   ],
+   "tax_rate": 10,
+   "description": "体温でとろりととろけてメイクとなじむクレンジングバーム。毛穴の奥の汚れまでしっかり浮かせ、洗い流した後はしっとりやわらか。乾燥しがちな季節のメイク落としにおすすめのリッチな質感です。",
+   "image_brief": "A wide shallow frosted white jar of cleansing balm with a matching lid and small spatula, one open showing pale yellow balm, plain blank label, studio packshot.",
+   "labels": [
+    "W洗顔不要"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty とろけるクレンジングバーム 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム クレンジングバーム クリア 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 米ぬか クレンジングバーム 100g",
+     "brand": "ユキシズク",
+     "size": "100g",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty とろけるクレンジングバーム ミニ 20g",
+     "brand": "Cymbal Beauty",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック クレンジングバーム 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 2280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_cleansing_balm_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_point_makeup_remover",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "メイク落とし"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "アイメイク落とし",
+    "リップ落とし",
+    "ウォータープルーフ"
+   ],
+   "tax_rate": 10,
+   "description": "ウォータープルーフのマスカラやリップもすっきり落とせる二層式ポイントメイクリムーバー。振って混ぜてコットンに含ませ、目元・口元に数秒なじませるだけ。こすらずに落とせるので繊細な目元にもやさしい。",
+   "image_brief": "A clear slim bottle showing two layers of blue and clear liquid with a white cap, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ポイントメイクリムーバー 120ml",
+     "brand": "Cymbal Beauty",
+     "size": "120ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ポイントメイクリムーバー 大容量 230ml",
+     "brand": "Cymbal Beauty",
+     "size": "230ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 低刺激 アイメイクリムーバー 100ml",
+     "brand": "ミナモリ",
+     "size": "100ml",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポイントメイクリムーバー 130ml",
+     "brand": "Cymbal ベーシック",
+     "size": "130ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_point_makeup_remover_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_micellar_water",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "クレンジングウォーター"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "拭き取りメイク落とし",
+    "朝の拭き取りケア",
+    "疲れた夜"
+   ],
+   "tax_rate": 10,
+   "description": "コットンに含ませて拭き取るだけでメイクと汚れを落とすクレンジングウォーター。すすぎ不要で、疲れた夜やナチュラルメイクの日に便利です。拭き取り化粧水として朝の洗顔代わりにも使えます。",
+   "image_brief": "A tall clear cylindrical bottle of micellar cleansing water with a pale pink cap, plain blank label, studio packshot.",
+   "labels": [
+    "すすぎ不要"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 拭き取りクレンジングウォーター 300ml",
+     "brand": "Cymbal Beauty",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 拭き取りクレンジングウォーター 大容量 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クレンジングウォーター 300ml",
+     "brand": "Cymbal ベーシック",
+     "size": "300ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ローズウォーター クレンジング 250ml",
+     "brand": "Soraé",
+     "size": "250ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_micellar_water_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hatomugi_lotion_large",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "化粧水"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "コットンパック",
+    "全身の保湿"
+   ],
+   "tax_rate": 10,
+   "description": "全身にたっぷり使える大容量のさっぱり化粧水。ハトムギエキス配合でみずみずしくなじみ、ベタつきません。顔はもちろん、お風呂上がりのボディやコットンパックにも惜しみなく使えます。",
+   "image_brief": "A large tall translucent white bottle of facial lotion with a flip cap, holding clear liquid, plain blank label, studio packshot.",
+   "labels": [
+    "大容量"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ハトムギ化粧水 さっぱり 500ml",
+     "brand": "Cymbal Beauty",
+     "size": "500ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ハトムギ化粧水 ポンプ付き 1000ml",
+     "brand": "Cymbal Beauty",
+     "size": "1000ml",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック さっぱり化粧水 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 米発酵エキス 化粧水 400ml",
+     "brand": "ユキシズク",
+     "size": "400ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ハトムギ化粧水 詰替用 450ml",
+     "brand": "Cymbal Beauty",
+     "size": "450ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hatomugi_lotion_large_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_refreshing_milk",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "乳液"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝のスキンケア",
+    "メイク前",
+    "皮脂が気になる時期"
+   ],
+   "tax_rate": 10,
+   "description": "べたつきが苦手な方のための、さっぱりタイプの乳液。軽いテクスチャーがすっと肌になじみ、うるおいを閉じ込めながらサラッとした仕上がりに。朝のメイク前や皮脂が気になる季節にもおすすめです。",
+   "image_brief": "A slim tapered white plastic bottle of facial milk lotion with a light blue cap, plain blank label, studio packshot.",
+   "labels": [
+    "さっぱり"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty オイリー肌向け さっぱり乳液 140ml",
+     "brand": "Cymbal Beauty",
+     "size": "140ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty オイリー肌向け さっぱり乳液 詰替用 125ml",
+     "brand": "Cymbal Beauty",
+     "size": "125ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 乳液 さっぱりタイプ 160ml",
+     "brand": "Cymbal ベーシック",
+     "size": "160ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモリ 敏感肌用 ライトミルク 120ml",
+     "brand": "ミナモリ",
+     "size": "120ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ さらさら乳液 130ml",
+     "brand": "Hakuro Men",
+     "size": "130ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_refreshing_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_all_in_one_gel",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "オールインワン"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "時短スキンケア",
+    "夜のお手入れ",
+    "乾燥対策"
+   ],
+   "tax_rate": 10,
+   "description": "化粧水・乳液・美容液・クリームなどの役割を1つにまとめたオールインワンジェル。ぷるんとしたジェルが肌にすっとなじみ、忙しい日もこれ1つでスキンケアが完了します。乾燥が気になる冬にも。",
+   "image_brief": "A wide squat white jar of all-in-one skincare gel with a silver lid, one open showing clear gel, plain blank label, studio packshot.",
+   "labels": [
+    "オールインワン"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty オールインワンジェル しっとり 100g",
+     "brand": "Cymbal Beauty",
+     "size": "100g",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty オールインワンジェル 詰替用 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム オールインワンジェル セラミド 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オールインワンジェル 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 米セラミド オールインワンジェル 100g",
+     "brand": "ユキシズク",
+     "size": "100g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty オールインワンジェル ポンプタイプ 180g",
+     "brand": "Cymbal Beauty",
+     "size": "180g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_all_in_one_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_mens_all_in_one",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "メンズスキンケア"
+   ],
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ひげ剃り後",
+    "洗顔後",
+    "時短スキンケア"
+   ],
+   "tax_rate": 10,
+   "description": "洗顔後これ1本で保湿が完了するメンズ向けオールインワンローション。べたつかないジェルローションで、ひげ剃り後の肌もさっぱり整えます。スキンケアを手軽に始めたい男性におすすめです。",
+   "image_brief": "A sleek matte navy-blue pump bottle of men's all-in-one lotion with a chrome pump, plain blank label, studio packshot.",
+   "labels": [
+    "メンズ",
+    "オールインワン"
+   ],
+   "variants": [
+    {
+     "title": "Hakuro Men オールインワン モイストローション 150ml",
+     "brand": "Hakuro Men",
+     "size": "150ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men オールインワン モイストローション 詰替 130ml",
+     "brand": "Hakuro Men",
+     "size": "130ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men オールインワン クールローション 150ml",
+     "brand": "Hakuro Men",
+     "size": "150ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty メンズ オールインワンジェル 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック メンズ スキンローション 200ml",
+     "brand": "Cymbal ベーシック",
+     "size": "200ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_mens_all_in_one_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_uv_spray",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "日焼け止め"
+   ],
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "屋外レジャー",
+    "塗り直し",
+    "スポーツ観戦"
+   ],
+   "tax_rate": 10,
+   "description": "髪や背中にもムラなく使えるスプレータイプの日焼け止め。服の上からでもさっとひと吹き、白くなりにくいサラサラ仕上がりです。外出先での塗り直しや、子どもとの公園遊び、スポーツ観戦にも便利です。",
+   "image_brief": "A slim aerosol can of sunscreen spray in bright white and sunny yellow with a clear cap, plain blank band, studio packshot.",
+   "labels": [
+    "SPF50+"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty UVスプレー SPF50+ PA++++ 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty UVスプレー SPF50+ 大容量 180g",
+     "brand": "Cymbal Beauty",
+     "size": "180g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック UVカットスプレー SPF50+ 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé 髪にも使える UVミスト SPF50+ 80ml",
+     "brand": "Soraé",
+     "size": "80ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty UVスプレー 無香料 ミニ 40g",
+     "brand": "Cymbal Beauty",
+     "size": "40g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_uv_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_kids_sunscreen",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "キッズ日焼け止め"
+   ],
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "公園遊び",
+    "海・プール",
+    "運動会"
+   ],
+   "tax_rate": 10,
+   "description": "子どものデリケートな肌のためにつくった低刺激の日焼け止めミルク。紫外線吸収剤不使用で、石けんで落とせるのも安心ポイント。伸びがよく、遊びに夢中な子どもにもさっと塗れます。",
+   "image_brief": "A small soft squeeze tube of kids sunscreen milk in pastel orange with a white cap, plain blank label, studio packshot.",
+   "labels": [
+    "低刺激",
+    "石けんで落とせる"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty キッズUVミルク SPF35 PA+++ 60ml",
+     "brand": "Cymbal Beauty",
+     "size": "60ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty キッズUVミルク SPF50+ PA++++ 60ml",
+     "brand": "Cymbal Beauty",
+     "size": "60ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック ベビー&キッズ UVクリーム SPF30 50g",
+     "brand": "Cymbal オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アワユラ せっけんで落とせる キッズUVジェル 80g",
+     "brand": "アワユラ",
+     "size": "80g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_kids_sunscreen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_uv_stick",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "UVスティック"
+   ],
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "外出先の塗り直し",
+    "首・耳まわり",
+    "スポーツ"
+   ],
+   "tax_rate": 10,
+   "description": "手を汚さずに直接塗れるスティックタイプの日焼け止め。透明でベタつかず、メイクの上からでも塗り直しができます。バッグに入るコンパクトサイズで、首すじや耳まわりなど塗り忘れやすい部分にも便利です。",
+   "image_brief": "A slim twist-up stick of clear sunscreen balm in a white and sky-blue tube with cap removed, plain blank body, studio packshot.",
+   "labels": [
+    "SPF50+"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty UVスティック 透明 SPF50+ 15g",
+     "brand": "Cymbal Beauty",
+     "size": "15g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé クリアUVスティック SPF50+ PA++++ 20g",
+     "brand": "Soraé",
+     "size": "20g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ UVスティック 15g",
+     "brand": "Hakuro Men",
+     "size": "15g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック UVスティック SPF50+ 15g",
+     "brand": "Cymbal ベーシック",
+     "size": "15g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_uv_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_premium_sheet_mask",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "フェイスマスク"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "特別な日の前夜",
+    "乾燥ケア",
+    "週末のご褒美"
+   ],
+   "tax_rate": 10,
+   "description": "特別な日の前夜に使いたい、1枚ずつ個包装の美容液たっぷりシートマスク。肌に密着するやわらかシートで、乾燥が気になる肌をうるおいで満たします。お悩みに合わせて選べるタイプ別に揃えました。",
+   "image_brief": "A fan of thin individually wrapped foil sheet-mask sachets in pastel pink, white and gold with blank fronts, studio packshot.",
+   "labels": [
+    "個包装"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 美容液たっぷり シートマスク ヒアルロン酸 1枚入",
+     "brand": "Cymbal Beauty",
+     "size": "1枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 美容液たっぷり シートマスク ビタミンC 1枚入",
+     "brand": "Cymbal Beauty",
+     "size": "1枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 美容液たっぷり シートマスク セラミド 5枚セット 5枚",
+     "brand": "Cymbal Beauty",
+     "size": "5枚",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム リフトシートマスク 3枚入",
+     "brand": "Cymbal セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 酒かすエキス シートマスク 7枚入",
+     "brand": "ユキシズク",
+     "size": "7枚入",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 保湿シートマスク 個包装 7枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "7枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_premium_sheet_mask_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_disposable_razor",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "カミソリ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひげ剃り",
+    "旅行・出張",
+    "来客用"
+   ],
+   "tax_rate": 10,
+   "description": "使いたいときにすぐ使える、使い捨てタイプのT字カミソリ。首振りヘッドが顔の凹凸にフィットし、潤滑ストリップで肌すべりもなめらかです。旅行や出張、来客用のストックにも便利な複数本入りです。",
+   "image_brief": "Several disposable T-shaped razors with blue handles and silver blades fanned out on white, plain blank blister card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 使い捨てカミソリ 2枚刃 10本入",
+     "brand": "Cymbal ベーシック",
+     "size": "10本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 使い捨てカミソリ 3枚刃 8本入",
+     "brand": "Cymbal Beauty",
+     "size": "8本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 使い捨てカミソリ 5枚刃 4本入",
+     "brand": "Cymbal Beauty",
+     "size": "4本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 使い捨てカミソリ 2枚刃 お徳用 30本入",
+     "brand": "Cymbal ベーシック",
+     "size": "30本入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 首振り 使い捨てカミソリ 6枚刃 3本入",
+     "brand": "Hakuro Men",
+     "size": "3本入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_disposable_razor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_razor_holder_blades",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "替刃"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎朝のひげ剃り",
+    "深剃り",
+    "ストック"
+   ],
+   "tax_rate": 10,
+   "description": "深剃りとやさしい剃り心地を両立した5枚刃カミソリと専用替刃。精密に並んだ刃が少ない力でしっかり剃り上げ、肌への負担を軽減します。ホルダー付きセットとお得な替刃パックから選べます。",
+   "image_brief": "A sleek silver and black multi-blade razor handle beside a plain blank cardboard box of replacement cartridges, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Hakuro Men 5枚刃カミソリ ホルダー 替刃2個付 1セット",
+     "brand": "Hakuro Men",
+     "size": "1セット",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 5枚刃カミソリ 替刃 4個入",
+     "brand": "Hakuro Men",
+     "size": "4個入",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 5枚刃カミソリ 替刃 8個入",
+     "brand": "Hakuro Men",
+     "size": "8個入",
+     "price_tax_excluded": 2580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 3枚刃カミソリ ホルダー 替刃1個付 1セット",
+     "brand": "Cymbal Beauty",
+     "size": "1セット",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 3枚刃カミソリ 替刃 6個入",
+     "brand": "Cymbal Beauty",
+     "size": "6個入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_razor_holder_blades_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_womens_body_razor",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "女性用カミソリ"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7
+   ],
+   "dishes": [
+    "ムダ毛ケア",
+    "眉の手入れ",
+    "うぶ毛ケア"
+   ],
+   "tax_rate": 10,
+   "description": "腕やひざ下、ワキのお手入れに使いやすい女性用カミソリ。肌あたりのやさしいガード付きの刃で、曲線にもフィットします。眉やうぶ毛を整えるフェイス用の小回りの利くタイプも揃えました。",
+   "image_brief": "Pastel lavender and pink women's razors with curved handles laid on white beside small folding face razors, plain blank packaging, studio packshot.",
+   "labels": [
+    "女性用"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 女性用ボディカミソリ 5枚刃 ホルダー 1本+替刃1個",
+     "brand": "Cymbal Beauty",
+     "size": "1本+替刃1個",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 女性用ボディカミソリ 替刃 4個入",
+     "brand": "Cymbal Beauty",
+     "size": "4個入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 女性用 使い捨てカミソリ 3枚刃 6本入",
+     "brand": "Cymbal Beauty",
+     "size": "6本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty フェイス用カミソリ ガード付き 3本入",
+     "brand": "Cymbal Beauty",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 眉そり用カミソリ 6本入",
+     "brand": "Cymbal ベーシック",
+     "size": "6本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_womens_body_razor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_shaving_foam",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "シェービングフォーム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひげ剃り",
+    "敏感肌の方に",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "濃密でクッション性の高い泡がひげをやわらかくし、カミソリの滑りをなめらかにするシェービングフォーム。剃り残しが見えやすい白い泡で、仕上がりもすっきり。敏感肌向けの無香料タイプもあります。",
+   "image_brief": "A tall aerosol can of shaving foam in white and navy stripes with a dollop of white foam beside it, plain blank band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty シェービングフォーム レギュラー 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty シェービングフォーム 敏感肌用 無香料 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック シェービングフォーム 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men シェービングフォーム メントール 200g",
+     "brand": "Hakuro Men",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty シェービングフォーム 携帯用 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_shaving_foam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_shaving_gel",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "シェービングジェル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひげのライン整え",
+    "ボディシェービング",
+    "肌にやさしいひげ剃り"
+   ],
+   "tax_rate": 10,
+   "description": "透明なジェルで剃りたいラインを確認しながらシェービングできるジェルタイプ。もみあげやあごひげの形を整えるのにも便利です。保湿成分配合で剃った後の肌もつっぱりにくい仕上がりです。",
+   "image_brief": "A clear squeeze tube of translucent aqua shaving gel with a black flip cap, a ribbon of gel beside it, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Hakuro Men クリアシェービングジェル 180g",
+     "brand": "Hakuro Men",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men クリアシェービングジェル 敏感肌用 180g",
+     "brand": "Hakuro Men",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty シェービングジェル アロエ 190g",
+     "brand": "Cymbal Beauty",
+     "size": "190g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 女性用 シェービングジェル ボディ用 150g",
+     "brand": "Cymbal Beauty",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_shaving_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_after_shave_lotion",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "シェービング",
+    "アフターシェーブ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひげ剃り後",
+    "朝の身支度",
+    "カミソリ負けケア"
+   ],
+   "tax_rate": 10,
+   "description": "ひげ剃り後の肌をひんやり引き締め、うるおいを与えるアフターシェーブローション。アルコール控えめでしみにくく、カミソリ負けしやすい方にもおすすめ。爽やかなシトラスの香りで気分もすっきり。",
+   "image_brief": "A short heavy-bottomed frosted green glass bottle of aftershave lotion with a black cap, plain blank label, studio packshot.",
+   "labels": [
+    "メンズ"
+   ],
+   "variants": [
+    {
+     "title": "Hakuro Men アフターシェーブローション シトラス 140ml",
+     "brand": "Hakuro Men",
+     "size": "140ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men アフターシェーブバーム 無香料 100ml",
+     "brand": "Hakuro Men",
+     "size": "100ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty アフターシェーブローション 150ml",
+     "brand": "Cymbal Beauty",
+     "size": "150ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック アフターシェーブローション 180ml",
+     "brand": "Cymbal ベーシック",
+     "size": "180ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_after_shave_lotion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_antiperspirant_spray",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "デオドラント",
+    "制汗スプレー"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "通勤・通学",
+    "部活・スポーツ",
+    "夏の外出"
+   ],
+   "tax_rate": 10,
+   "description": "汗をかいてもサラサラ感が続く制汗デオドラントスプレー。パウダー入りのミストがワキや体の汗・においを抑えます。服を着る前にさっと使えて、通勤・通学や部活の前後に重宝します。",
+   "image_brief": "A medium aerosol can of antiperspirant spray in icy light blue with a white cap, plain blank band, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用 制汗スプレー 無香料 150g",
+     "brand": "Cymbal Beauty",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用 制汗スプレー せっけんの香り 150g",
+     "brand": "Cymbal Beauty",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用 制汗スプレー 大容量 250g",
+     "brand": "Cymbal Beauty",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 薬用 デオドラントスプレー アイスミント 160g",
+     "brand": "Hakuro Men",
+     "size": "160g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 制汗スプレー 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用 制汗スプレー 携帯用 40g",
+     "brand": "Cymbal Beauty",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_antiperspirant_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_deodorant_roll_on",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "デオドラント",
+    "ロールオン"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "朝の身支度",
+    "汗が気になる日",
+    "オフィス"
+   ],
+   "tax_rate": 10,
+   "description": "ワキに直接塗れるロールオンタイプの制汗デオドラント。液だれしにくく、白残りしない透明タイプです。汗が気になる日も朝のひと塗りで長時間さわやか。スプレーの音や粉が気になる方にもおすすめ。",
+   "image_brief": "A small chubby roll-on deodorant bottle in soft white with a pale blue cap, plain blank label, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用 デオドラントロールオン 無香料 40ml",
+     "brand": "Cymbal Beauty",
+     "size": "40ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用 デオドラントロールオン フローラル 40ml",
+     "brand": "Cymbal Beauty",
+     "size": "40ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 薬用 デオドラントロールオン メンズ 50ml",
+     "brand": "Hakuro Men",
+     "size": "50ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ナチュラル デオドラントロールオン 50ml",
+     "brand": "Soraé",
+     "size": "50ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_deodorant_roll_on_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_body_wipe_sheet",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "デオドラント",
+    "汗ふきシート"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "夏の外出",
+    "スポーツ後",
+    "通勤・通学"
+   ],
+   "tax_rate": 10,
+   "description": "汗やベタつきをさっと拭き取れる大判のボディシート。ひんやり感と爽やかな香りで、暑い日の外出先でも気分すっきり。パウダー配合で拭いた後の肌はサラサラ。リュックやバッグに入れておくと便利です。",
+   "image_brief": "A soft resealable pouch of body wiping sheets in cool mint green, one sheet partially pulled out, plain blank front, studio packshot.",
+   "labels": [
+    "冷感"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty さらさらボディシート 無香料 36枚",
+     "brand": "Cymbal Beauty",
+     "size": "36枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty さらさらボディシート シトラス 36枚",
+     "brand": "Cymbal Beauty",
+     "size": "36枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ひんやり冷感 ボディシート 大判 30枚",
+     "brand": "Cymbal Beauty",
+     "size": "30枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ 超冷感 ボディシート 30枚",
+     "brand": "Hakuro Men",
+     "size": "30枚",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ボディシート 40枚",
+     "brand": "Cymbal ベーシック",
+     "size": "40枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty さらさらボディシート 携帯用 10枚×3個",
+     "brand": "Cymbal Beauty",
+     "size": "10枚×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_body_wipe_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_deodorant_stick",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "デオドラント",
+    "デオドラントスティック"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "朝の身支度",
+    "ジム",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "直接塗れる固形タイプのデオドラントスティック。肌にのせるとさらりとした仕上がりで、汗をかいてもベタつきにくいのが特長です。少量で密着するので長持ちし、旅行やジムにも持ち運びやすいサイズです。",
+   "image_brief": "A short oval twist-up deodorant stick in white and lilac with the cap set beside it showing the solid stick, plain blank body, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用 デオドラントスティック 無香料 20g",
+     "brand": "Cymbal Beauty",
+     "size": "20g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用 デオドラントスティック サボン 20g",
+     "brand": "Cymbal Beauty",
+     "size": "20g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men 薬用 デオドラントスティック メンズ 25g",
+     "brand": "Hakuro Men",
+     "size": "25g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Soraé ナチュラル デオドラントバーム 20g",
+     "brand": "Soraé",
+     "size": "20g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_deodorant_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_makeup_cotton",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "コットン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コットンパック",
+    "拭き取りケア",
+    "化粧水のパッティング"
+   ],
+   "tax_rate": 10,
+   "description": "コットンパックや拭き取りケアにこだわりたい方のためのスキンケア用コットン。水分を含ませると縦に伸びるパック専用タイプや、毛羽立ちにくい大判の拭き取り用など、使い方に合わせて選べます。",
+   "image_brief": "Stacks of square and rectangular white cotton pads, one stretched thin pad draped over the stack, beside a plain blank box, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "綿100%",
+    "color": "ホワイト"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty コットンパック用 のびるコットン 60枚入",
+     "brand": "Cymbal Beauty",
+     "size": "60枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 拭き取り化粧水用 大判コットン 80枚入",
+     "brand": "Cymbal Beauty",
+     "size": "80枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン 大判 拭き取り用 60枚入",
+     "brand": "Cymbal オーガニック",
+     "size": "60枚入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 5層 はがせるパフコットン 80枚入",
+     "brand": "Cymbal Beauty",
+     "size": "80枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スキンケア用コットン 大判 お徳用 150枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "150枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_makeup_cotton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_blotting_paper",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "あぶらとり紙"
+   ],
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "メイク直し",
+    "テカリ対策",
+    "夏の外出"
+   ],
+   "tax_rate": 10,
+   "description": "メイクの上から余分な皮脂をすっと吸い取るあぶらとり紙。薄くしなやかな紙が肌に密着し、化粧崩れを防いでテカリをおさえます。ポーチに入れやすいコンパクトサイズで、外出先のメイク直しに重宝します。",
+   "image_brief": "A small slim booklet-style case of thin translucent blotting papers with one sheet pulled out, plain blank cover, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty あぶらとり紙 100枚入",
+     "brand": "Cymbal Beauty",
+     "size": "100枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty あぶらとり紙 パウダー付き 60枚入",
+     "brand": "Cymbal Beauty",
+     "size": "60枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユキシズク 金箔打ち製法 あぶらとり紙 50枚入",
+     "brand": "ユキシズク",
+     "size": "50枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Hakuro Men メンズ 大判あぶらとり紙 70枚入",
+     "brand": "Hakuro Men",
+     "size": "70枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック あぶらとりフィルム 70枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "70枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_blotting_paper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_ties",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "ヘアゴム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "まとめ髪",
+    "スポーツ",
+    "子どもの髪結び"
+   ],
+   "tax_rate": 10,
+   "description": "髪をしっかりまとめても跡がつきにくいヘアゴムのセット。伸縮性がよく、まとめ髪やポニーテールが長時間ゆるみにくい。スポーツや家事、子どもの髪結びにも使いやすい定番カラーを揃えました。",
+   "image_brief": "An assortment of black, brown and beige fabric hair ties loosely piled on white beside a small plain blank card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエステル・ポリウレタン",
+    "color": "アソート"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty 跡がつきにくい ヘアゴム ブラック 10本入",
+     "brand": "Cymbal Beauty",
+     "size": "10本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 跡がつきにくい ヘアゴム ブラウン系 10本入",
+     "brand": "Cymbal Beauty",
+     "size": "10本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty スプリング ヘアゴム クリア 6個入",
+     "brand": "Cymbal Beauty",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 子ども用 カラーヘアゴム 30本入",
+     "brand": "Cymbal Beauty",
+     "size": "30本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty シュシュ サテン 3色セット 3個入",
+     "brand": "Cymbal Beauty",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック シリコン 細ゴム 200本入",
+     "brand": "Cymbal ベーシック",
+     "size": "200本入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_ties_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_brush",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "ヘアブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のブラッシング",
+    "ドライヤー仕上げ",
+    "外出先の身だしなみ"
+   ],
+   "tax_rate": 10,
+   "description": "毎日のブラッシングで髪の絡まりをやさしくほどくヘアブラシ。頭皮にあたる部分がやわらかく、マッサージ感覚で使えます。ツヤ出しに向く天然毛ブラシや、ドライヤー用のロールブラシも選べます。",
+   "image_brief": "A paddle hairbrush with a matte blush-pink handle and soft cushion bristles beside a wooden round brush, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "material": "ABS樹脂・ナイロン",
+    "color": "ピンク"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty からまりにくい パドルブラシ 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty クッションブラシ ミニ 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 天然毛 豚毛ブラシ 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ロールブラシ ブロー用 中 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ヘアブラシ 1本",
+     "brand": "Cymbal ベーシック",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 折りたたみ 携帯ヘアブラシ ミラー付き 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_brush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_hair_clips",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "ヘアクリップ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "前髪留め",
+    "洗顔・メイク時",
+    "まとめ髪"
+   ],
+   "tax_rate": 10,
+   "description": "前髪留めやまとめ髪に便利なヘアクリップとピンのセット。メイクや洗顔の時に前髪をさっと留められ、バンスクリップならおうちでも手早くまとめ髪ができます。シンプルなデザインで通勤にも使えます。",
+   "image_brief": "A neat arrangement of tortoiseshell claw clips, black bobby pins and plain matte hair clips on white, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "樹脂・スチール",
+    "color": "アソート"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty バンスクリップ べっこう柄 中 1個",
+     "brand": "Cymbal Beauty",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 前髪クリップ マット 4個入",
+     "brand": "Cymbal Beauty",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック アメピン ブラック 60本入",
+     "brand": "Cymbal ベーシック",
+     "size": "60本入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 跡がつかない 前髪クリップ 6個入",
+     "brand": "Cymbal Beauty",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 洗顔用 ヘアバンド ふわふわ 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_hair_clips_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_beauty_makeup_sponge",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "美容雑貨",
+    "メイクスポンジ・パフ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ファンデーション",
+    "メイク直し",
+    "お徳用ストック"
+   ],
+   "tax_rate": 10,
+   "description": "ファンデーションをムラなく均一に仕上げるメイクスポンジとパフ。ラテックスフリーで肌あたりがやわらか、水を含ませるとツヤのある仕上がりに。替え時に便利なお徳用パックも揃えました。",
+   "image_brief": "A small pile of white wedge makeup sponges and a peach teardrop sponge with round puffs, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリウレタン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ラテックスフリー メイクスポンジ ウェッジ型 12個入",
+     "brand": "Cymbal Beauty",
+     "size": "12個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty しずく型 メイクスポンジ 2個入",
+     "brand": "Cymbal Beauty",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック メイクスポンジ お徳用 30個入",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty パウダーパフ 丸型 3個入",
+     "brand": "Cymbal Beauty",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty クッションファンデ用パフ 4個入",
+     "brand": "Cymbal Beauty",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_beauty_makeup_sponge_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

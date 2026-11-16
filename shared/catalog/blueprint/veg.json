@@ -1,0 +1,1445 @@
+{
+ "category_key": "veg",
+ "items": [
+  {
+   "base_id": "veg_sweet_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "description": "ねっとり濃厚な甘さが魅力の秋の味覚、さつまいもです。じっくり焼けば蜜があふれる焼き芋に、天ぷらや大学芋、炊き込みご飯にもおすすめ。品種ごとの食感の違いも楽しめます。",
+   "images": [
+    "veg_sweet_potato_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "鹿児島県産 さつまいも（紅はるか）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "種子島産 さつまいも（安納芋）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産（種子島）"
+    },
+    {
+     "title": "茨城県産 さつまいも（シルクスイート）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 348,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "千葉県産 さつまいも（紅あずま）約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 498,
+     "origin": "千葉県産"
+    }
+   ],
+   "cc_images": [
+    "veg_sweet_potato_1.jpg",
+    "veg_sweet_potato_2.jpg"
+   ],
+   "dishes": [
+    "焼き芋",
+    "大学芋",
+    "天ぷら",
+    "さつまいもご飯",
+    "豚汁"
+   ]
+  },
+  {
+   "base_id": "veg_carrot",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "鮮やかなオレンジ色で、加熱するとやさしい甘みが引き立つにんじんです。カレーや肉じゃが、きんぴら、サラダまで毎日の料理に欠かせません。",
+   "images": [
+    "veg_carrot_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "北海道産 にんじん 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 にんじん 約1kg（袋）",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック にんじん 2〜3本",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "2〜3本",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_carrot_1.jpg",
+    "veg_carrot_2.jpg"
+   ],
+   "dishes": [
+    "カレー",
+    "肉じゃが",
+    "きんぴら",
+    "豚汁",
+    "筑前煮"
+   ]
+  },
+  {
+   "base_id": "veg_onion",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "炒めるほどに甘みとコクが増す、料理の名脇役のたまねぎです。カレーやハンバーグ、スープの土台に。常備しておくと便利な保存性の高い野菜です。",
+   "images": [
+    "veg_onion_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "北海道産 たまねぎ 3個入",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 たまねぎ 約2kg（箱・袋）",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "淡路島産 たまねぎ 2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 258,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "国産 赤たまねぎ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_onion_1.jpg",
+    "veg_onion_2.jpg"
+   ],
+   "dishes": [
+    "カレー",
+    "肉じゃが",
+    "ハンバーグ",
+    "親子丼",
+    "オニオンスープ"
+   ]
+  },
+  {
+   "base_id": "veg_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10
+   ],
+   "description": "新物が出回る秋の北海道産じゃがいもです。ほくほくの男爵はコロッケやポテトサラダに、煮崩れしにくいメークインはカレーや肉じゃががおすすめです。",
+   "images": [
+    "veg_potato_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "北海道産 じゃがいも（男爵）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（メークイン）1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（男爵）4〜5個入",
+     "brand": "",
+     "size": "4〜5個",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 じゃがいも（キタアカリ）約700g",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 328,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [
+    "veg_potato_1.jpg",
+    "veg_potato_2.jpg"
+   ],
+   "dishes": [
+    "肉じゃが",
+    "カレー",
+    "ポテトサラダ",
+    "コロッケ",
+    "味噌汁"
+   ]
+  },
+  {
+   "base_id": "veg_daikon",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "みずみずしく、煮ると味がよくしみるだいこんです。ぶり大根やおでん、みそ汁の具に。生のままおろしにすれば焼き魚によく合います。",
+   "images": [
+    "veg_daikon_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 だいこん 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 だいこん 1/2カット（上部）",
+     "brand": "",
+     "size": "1/2本",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 だいこん 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [
+    "veg_daikon_1.jpg",
+    "veg_daikon_2.jpg"
+   ],
+   "dishes": [
+    "ぶり大根",
+    "おでん",
+    "豚汁",
+    "大根おろし",
+    "ふろふき大根"
+   ]
+  },
+  {
+   "base_id": "veg_hakusai",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "寒さとともに甘みが増していく白菜です。鍋物やクリーム煮、浅漬けにぴったり。芯はシャキッと、葉はとろりと、部位ごとの食感も楽しめます。",
+   "images": [
+    "veg_hakusai_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 白菜 1/4カット",
+     "brand": "",
+     "size": "1/4カット",
+     "price_tax_excluded": 128,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 白菜 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 198,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "国産 白菜 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_hakusai_1.jpg",
+    "veg_hakusai_2.jpg"
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "白菜と豚肉のミルフィーユ鍋",
+    "浅漬け",
+    "クリーム煮",
+    "八宝菜"
+   ]
+  },
+  {
+   "base_id": "veg_cabbage",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "シャキシャキとした歯ざわりのキャベツです。千切りでとんかつの付け合わせに、ロールキャベツや回鍋肉など加熱しても甘みが楽しめます。",
+   "images": [
+    "veg_cabbage_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "群馬県産 キャベツ 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "国産 キャベツ 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 118,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 紫キャベツ 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_cabbage_1.jpg",
+    "veg_cabbage_2.jpg"
+   ],
+   "dishes": [
+    "回鍋肉",
+    "ロールキャベツ",
+    "お好み焼き",
+    "千切りキャベツ",
+    "野菜炒め"
+   ]
+  },
+  {
+   "base_id": "veg_spinach",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "やわらかな葉と根元のほのかな甘みが特長のほうれん草です。おひたしやごま和え、バターソテーに。さっと茹でて彩りの一品にどうぞ。",
+   "images": [
+    "veg_spinach_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "群馬県産 ほうれん草 1束",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "国産 サラダほうれん草 1袋",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ほうれん草 1袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_spinach_1.jpg"
+   ],
+   "dishes": [
+    "おひたし",
+    "ごま和え",
+    "ほうれん草のバターソテー",
+    "味噌汁"
+   ]
+  },
+  {
+   "base_id": "veg_komatsuna",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "description": "アクが少なく下茹でなしで使える、時短料理の強い味方の小松菜です。炒め物やおひたし、みそ汁の具に。シャキッとした茎の食感も魅力です。",
+   "images": [
+    "veg_komatsuna_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "埼玉県産 小松菜 1束",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 128,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "国産 小松菜 1袋",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 小松菜 1袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_komatsuna_1.jpg",
+    "veg_komatsuna_2.jpg"
+   ],
+   "dishes": [
+    "おひたし",
+    "煮びたし",
+    "小松菜と油揚げの炒め物",
+    "味噌汁"
+   ]
+  },
+  {
+   "base_id": "veg_negi",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "香味野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "加熱するととろりと甘くなる長ねぎです。鍋物やすき焼き、焼き鳥のねぎま、みそ汁の薬味に。白い部分も青い部分も余さず使えます。",
+   "images": [
+    "veg_negi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 長ねぎ 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "埼玉県産 長ねぎ 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 228,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "国産 カット長ねぎ（小口切り）50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_negi_1.jpg",
+    "veg_negi_2.jpg"
+   ],
+   "dishes": [
+    "すき焼き",
+    "寄せ鍋",
+    "ねぎま",
+    "味噌汁",
+    "麻婆豆腐"
+   ]
+  },
+  {
+   "base_id": "veg_broccoli",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "description": "こんもりと締まった房が新鮮なブロッコリーです。塩茹でしてサラダやお弁当の彩りに、シチューや炒め物にも。茎も甘くておいしく食べられます。",
+   "images": [
+    "veg_broccoli_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 ブロッコリー 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 ブロッコリー 1株（大）",
+     "brand": "",
+     "size": "1株（大）",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 ブロッコリースーパースプラウト 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_broccoli_1.jpg",
+    "veg_broccoli_2.jpg"
+   ],
+   "dishes": [
+    "ブロッコリーのごま和え",
+    "シチュー",
+    "サラダ",
+    "お弁当のおかず"
+   ]
+  },
+  {
+   "base_id": "veg_pumpkin",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "ほくほくとした食感と栗のような甘さの北海道産かぼちゃです。煮物や天ぷら、ポタージュに。ハロウィンの季節のスイーツ作りにもおすすめです。",
+   "images": [
+    "veg_pumpkin_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "北海道産 かぼちゃ 1/4カット",
+     "brand": "",
+     "size": "1/4カット",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 かぼちゃ 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 かぼちゃ 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 坊ちゃんかぼちゃ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_pumpkin_1.jpg",
+    "veg_pumpkin_2.jpg"
+   ],
+   "dishes": [
+    "かぼちゃの煮物",
+    "天ぷら",
+    "かぼちゃサラダ",
+    "かぼちゃスープ"
+   ]
+  },
+  {
+   "base_id": "veg_eggplant",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "description": "皮にツヤとハリがある、とろりとした食感のなすです。焼きなすや麻婆なす、揚げびたしなど油と相性抜群。秋なすは身が締まって味わい深くなります。",
+   "images": [
+    "veg_eggplant_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "高知県産 なす 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 198,
+     "origin": "高知県産"
+    },
+    {
+     "title": "国産 長なす 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 米なす 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_eggplant_1.jpg",
+    "veg_eggplant_2.jpg"
+   ],
+   "dishes": [
+    "麻婆茄子",
+    "焼きなす",
+    "揚げびたし",
+    "なすの味噌炒め",
+    "天ぷら"
+   ]
+  },
+  {
+   "base_id": "veg_green_pepper",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "description": "肉厚でみずみずしいピーマンです。青椒肉絲や肉詰め、焼きびたしに。細切りにしてさっと炒めれば、シャキッとした食感が楽しめます。",
+   "images": [
+    "veg_green_pepper_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "茨城県産 ピーマン 5個入",
+     "brand": "",
+     "size": "5個",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "宮崎県産 ピーマン 袋 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 168,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 カラーピーマン（赤・黄）2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_green_pepper_1.jpg"
+   ],
+   "dishes": [
+    "青椒肉絲",
+    "ピーマンの肉詰め",
+    "野菜炒め",
+    "ナポリタン"
+   ]
+  },
+  {
+   "base_id": "veg_tomato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "description": "酸味と甘みのバランスがよい完熟トマトです。冷やしてそのままスライスはもちろん、サラダやトマト煮込み、卵炒めにも。食卓をぱっと明るくしてくれます。",
+   "images": [
+    "veg_tomato_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "熊本県産 トマト 3〜4個入",
+     "brand": "",
+     "size": "3〜4個",
+     "price_tax_excluded": 398,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "国産 トマト 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 高糖度トマト 4〜6個入",
+     "brand": "",
+     "size": "4〜6個",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_tomato_1.jpg",
+    "veg_tomato_2.jpg"
+   ],
+   "dishes": [
+    "トマトサラダ",
+    "冷やしトマト",
+    "トマトと卵の炒め物",
+    "ミネストローネ"
+   ]
+  },
+  {
+   "base_id": "veg_cherry_tomato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "description": "ひと口サイズで甘みたっぷりのミニトマトです。洗ってそのままお弁当やサラダに入れるだけで、彩りがぐんとよくなります。",
+   "images": [
+    "veg_cherry_tomato_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 ミニトマト 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "熊本県産 ミニトマト 1kg（箱）",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 998,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "国産 カラフルミニトマトミックス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ミニトマト 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_cherry_tomato_2.jpg",
+    "veg_cherry_tomato_1.jpg"
+   ],
+   "dishes": [
+    "サラダ",
+    "お弁当のおかず",
+    "マリネ",
+    "パスタ"
+   ]
+  },
+  {
+   "base_id": "veg_cucumber",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "description": "パリッとした歯切れとみずみずしさが魅力のきゅうりです。浅漬けや酢の物、ポテトサラダに。たたいて和えるだけの時短副菜にもぴったりです。",
+   "images": [
+    "veg_cucumber_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 きゅうり 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 きゅうり 5本入",
+     "brand": "",
+     "size": "5本",
+     "price_tax_excluded": 248,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 きゅうり 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 58,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_cucumber_1.jpg",
+    "veg_cucumber_3.jpg"
+   ],
+   "dishes": [
+    "酢の物",
+    "浅漬け",
+    "ポテトサラダ",
+    "冷やし中華",
+    "たたききゅうり"
+   ]
+  },
+  {
+   "base_id": "veg_lotus_root",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "シャキシャキとした歯ざわりが楽しい、旬を迎えたれんこんです。きんぴらや筑前煮、はさみ揚げに。すりおろして加えると、もっちりとした食感になります。",
+   "images": [
+    "veg_lotus_root_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "茨城県産 れんこん 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "徳島県産 れんこん 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "茨城県産 れんこん 水煮スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [
+    "veg_lotus_root_1.jpg",
+    "veg_lotus_root_2.jpg"
+   ],
+   "dishes": [
+    "筑前煮",
+    "れんこんのきんぴら",
+    "天ぷら",
+    "はさみ揚げ"
+   ]
+  },
+  {
+   "base_id": "veg_burdock",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "description": "土の香りと豊かな風味が楽しめる、秋から冬が旬のごぼうです。きんぴらや豚汁、炊き込みご飯に。ささがきにして鍋に入れるとうまみが広がります。",
+   "images": [
+    "veg_burdock_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "青森県産 ごぼう 1本",
+     "brand": "",
+     "size": "1本（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "青森県産"
+    },
+    {
+     "title": "国産 洗いごぼう 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ささがきごぼう 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_burdock_2.jpg"
+   ],
+   "dishes": [
+    "きんぴらごぼう",
+    "豚汁",
+    "筑前煮",
+    "炊き込みご飯",
+    "ごぼうサラダ"
+   ]
+  },
+  {
+   "base_id": "veg_taro",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "description": "ねっとりとなめらかな食感の、秋に旬を迎えるさといもです。煮っころがしや豚汁、けんちん汁に。皮付きのまま蒸してきぬかつぎにするのもおすすめです。",
+   "images": [
+    "veg_taro_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "埼玉県産 さといも 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 298,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "宮崎県産 さといも 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 498,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 皮むきさといも 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 えびいも 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_taro_1.jpg",
+    "veg_taro_2.jpg"
+   ],
+   "dishes": [
+    "さといもの煮っころがし",
+    "豚汁",
+    "筑前煮",
+    "芋煮"
+   ]
+  },
+  {
+   "base_id": "veg_ginger",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "香味野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "爽やかな辛みと香りが料理を引き立てるしょうがです。豚の生姜焼きや魚の煮付けの臭み消し、薬味に。新しょうがは甘酢漬けにも向いています。",
+   "images": [
+    "veg_ginger_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "高知県産 しょうが 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "高知県産"
+    },
+    {
+     "title": "高知県産 新しょうが 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "高知県産"
+    },
+    {
+     "title": "国産 しょうが バラ 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_ginger_1.jpg",
+    "veg_ginger_2.jpg"
+   ],
+   "dishes": [
+    "豚の生姜焼き",
+    "冷奴の薬味",
+    "さばの味噌煮",
+    "唐揚げ"
+   ]
+  },
+  {
+   "base_id": "veg_bean_sprouts",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "もやし・スプラウト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "シャキシャキ食感で、手軽に使えて家計にやさしいもやしです。野菜炒めやナムル、ラーメンのトッピングに。火の通りが早く、時短料理にも大活躍します。",
+   "images": [
+    "veg_bean_sprouts_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 緑豆もやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 29,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 大豆もやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 48,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス もやし 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 28,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 根切り緑豆もやし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 68,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_bean_sprouts_1.jpg"
+   ],
+   "dishes": [
+    "野菜炒め",
+    "もやしナムル",
+    "ラーメン",
+    "味噌汁"
+   ]
+  },
+  {
+   "base_id": "veg_lettuce",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "パリッとみずみずしいレタスです。手でちぎってサラダやサンドイッチに、さっと炒めたりスープに入れたりしてもおいしくいただけます。",
+   "images": [
+    "veg_lettuce_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 レタス 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 サニーレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 フリルレタス 1袋",
+     "brand": "",
+     "size": "1袋",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_lettuce_1.jpg",
+    "veg_lettuce_2.jpg"
+   ],
+   "dishes": [
+    "サラダ",
+    "レタスチャーハン",
+    "サンドイッチ",
+    "しゃぶしゃぶ"
+   ]
+  },
+  {
+   "base_id": "veg_cut_vegetables",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "洗わずにそのまま使える便利なカット野菜です。袋を開けてお皿に盛ればサラダが、フライパンに入れれば野菜炒めがすぐ完成。忙しい日の時短調理にぴったりです。",
+   "images": [
+    "veg_cut_vegetables_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス サラダミックス 130g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "130g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 千切りキャベツ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 彩り野菜のサラダ（レタス・紫キャベツ・にんじん）120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 野菜炒めセット（もやし入り）300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 肉野菜炒め用 カット野菜 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 7種の彩りサラダ 160g",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_cut_vegetables_1.jpg",
+    "veg_cut_vegetables_2.jpg"
+   ],
+   "dishes": [
+    "サラダ",
+    "付け合わせ",
+    "サンドイッチ"
+   ]
+  },
+  {
+   "base_id": "veg_nabe_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "カット野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "白菜、長ねぎ、にんじん、きのこなど、鍋に必要な野菜を食べやすくカットしたセットです。お好みの鍋つゆと肉や魚を加えるだけで、すぐに温かい鍋が楽しめます。",
+   "images": [
+    "veg_nabe_vegetable_set_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 鍋用野菜セット 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前（約500g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鍋用野菜セット 4人前",
+     "brand": "",
+     "size": "4人前（約800g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 寄せ鍋用 カット野菜 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ちゃんこ鍋用 カット野菜 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_nabe_vegetable_set_1.jpg"
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "水炊き",
+    "キムチ鍋",
+    "ちゃんこ鍋"
+   ]
+  },
+  {
+   "base_id": "veg_mushroom_mix",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "きのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "秋に味わいが深まる国産きのこです。しめじやまいたけ、えのきは炊き込みご飯や鍋、ホイル焼きに。うまみたっぷりで、どんな料理もぐっと風味豊かになります。",
+   "images": [
+    "veg_mushroom_mix_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 ぶなしめじ 1パック",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 まいたけ 1パック",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "長野県産 えのき茸 1袋",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 生しいたけ 1パック",
+     "brand": "",
+     "size": "4〜6枚",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 エリンギ 1パック",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "veg_mushroom_mix_1.jpg",
+    "veg_mushroom_mix_2.jpg"
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "味噌汁",
+    "きのこのバター炒め",
+    "寄せ鍋",
+    "パスタ"
+   ]
+  }
+ ]
+}

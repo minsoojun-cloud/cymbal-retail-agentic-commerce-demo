@@ -1,0 +1,2910 @@
+{
+ "category_key": "y_dessert_ice",
+ "items": [
+  {
+   "base_id": "y_dessert_ice_annin_tofu",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "杏仁豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "麻婆豆腐",
+    "餃子",
+    "酢豚"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかな口どけとやさしい杏仁の香りが楽しめる杏仁豆腐です。麻婆豆腐や餃子など中華の献立の後のデザートにぴったり。冷蔵庫で冷やしてそのままどうぞ。",
+   "image_brief": "Clear plastic dessert cups of white almond jelly with a peel-off lid printed '杏仁豆腐'.",
+   "variants": [
+    {
+     "title": "トップバリュ 杏仁豆腐 3個入",
+     "brand": "トップバリュ",
+     "size": "75g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 杏仁豆腐 大容量 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 杏仁豆腐 マンゴーソース付 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツ杏仁 みかん・パイン・ナタデココ入り 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 なめらか杏仁豆腐 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 杏仁豆腐 クコの実のせ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 杏仁豆腐 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "60g×6個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_annin_tofu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_coffee_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "コーヒーゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ハンバーグ",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "香り高いコーヒーをほろ苦く固めたゼリーに、まろやかなミルクソースを添えました。ハンバーグやパスタの日の食後にも、午後のひと休みにもおすすめです。",
+   "image_brief": "Clear cups of dark brown coffee jelly with a small milk sauce portion, lid printed 'コーヒーゼリー'.",
+   "variants": [
+    {
+     "title": "トップバリュ コーヒーゼリー ミルクソース付 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス コーヒーゼリー 大容量 ミルク付 320g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "320g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 深煎り珈琲ゼリー クリームのせ 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 微糖 コーヒーゼリー ミルクソース付 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カフェオレゼリー 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーヒーゼリー ホイップクリームのせ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス コーヒーゼリー 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_coffee_jelly_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_fruit_jelly_cup",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "フルーツゼリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当のデザート",
+    "食後のデザート",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "果肉がたっぷり入った、みずみずしいフルーツゼリーです。常温で保存でき、冷やすとよりおいしく召し上がれます。おやつや食後のデザートにどうぞ。",
+   "image_brief": "Large clear plastic cup of fruit jelly with visible fruit pieces, foil lid printed '果肉入り フルーツゼリー'.",
+   "variants": [
+    {
+     "title": "トップバリュ 果肉入り みかんゼリー 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果肉入り 白桃ゼリー 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果肉入り ぶどうゼリー 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果肉入り パインゼリー 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミックスフルーツゼリー ナタデココ入り 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニカップゼリー 4種アソート 12個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "12個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産白桃 ごろっと果肉ゼリー 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_fruit_jelly_cup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_konjac_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "こんにゃくゼリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おでかけ",
+    "スポーツの後",
+    "冷やしておやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとした弾力が楽しいこんにゃく入りのゼリーです。冷蔵庫で冷やしても、凍らせてシャーベット風にしても楽しめます。よく噛んでお召し上がりください。",
+   "image_brief": "Spouted pouch and mini cups of fruit-flavored konjac jelly, label printed 'こんにゃくゼリー'.",
+   "variants": [
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ ぶどう 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ もも 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ りんご 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ マスカット 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ アソート 150g×6袋",
+     "brand": "トップバリュ",
+     "size": "150g×6袋",
+     "price_tax_excluded": 528,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち こんにゃくゼリー 3種アソート 24個入",
+     "brand": "トップバリュ",
+     "size": "24個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち こんにゃくゼリー グレープ 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_konjac_jelly_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_tiramisu",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ティラミス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "パスタ",
+    "グラタン",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "マスカルポーネ入りのクリームとコーヒーをしみ込ませたスポンジを重ねたティラミスです。パスタやグラタンの日の食後にぴったり。ココアのほろ苦さがアクセントです。",
+   "image_brief": "Clear dessert cup showing layered cream and cocoa-dusted sponge, lid printed 'ティラミス'.",
+   "variants": [
+    {
+     "title": "トップバリュ ティラミス 1個",
+     "brand": "トップバリュ",
+     "size": "1個（95g）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ティラミス 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト マスカルポーネ使用 濃厚ティラミス 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ファミリーサイズ ティラミス 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶ティラミス 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 苺のティラミス 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_tiramisu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_cream_puff",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "シュークリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "子どものおやつ",
+    "ご褒美スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいシュー生地に、なめらかなカスタードクリームをたっぷり詰めました。子どものおやつや家族のご褒美スイーツにどうぞ。冷蔵庫で冷やしてお召し上がりください。",
+   "image_brief": "Individually wrapped golden cream puff in a clear bag with label 'シュークリーム'.",
+   "variants": [
+    {
+     "title": "トップバリュ カスタードシュークリーム 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニシュークリーム 8個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ダブルシュークリーム（カスタード&ホイップ）1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 カスタードシュー 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 濃厚 たまごシュークリーム 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶シュークリーム 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ジャンボシュークリーム 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_cream_puff_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_eclair",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "エクレア"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ご褒美スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "シュー生地にクリームを詰め、チョコレートをかけたエクレアです。ほどよい甘さで、午後のおやつやコーヒーのお供にぴったり。冷やしてお召し上がりください。",
+   "image_brief": "Individually wrapped chocolate-topped eclair in a clear bag with label 'エクレア'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコエクレア 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニエクレア 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホイップエクレア 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ベルギーチョコ使用 エクレア 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ストロベリーエクレア 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビッグエクレア カスタード&ホイップ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_eclair_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_roll_cake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ロールケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ホームパーティー",
+    "来客時"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりしっとりのスポンジで、口どけのよいクリームを巻いたロールケーキです。家族で切り分けて楽しめるサイズで、おやつや来客時にも重宝します。",
+   "image_brief": "Rolled sponge cake with white cream spiral in a clear plastic case, label 'ロールケーキ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 生クリームロールケーキ 1本（4〜5人分）",
+     "brand": "トップバリュ",
+     "size": "1本（4〜5人分）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロールケーキ カット 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごロールケーキ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶ロールケーキ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコロールケーキ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム ロールケーキ ハーフサイズ",
+     "brand": "トップバリュ セレクト",
+     "size": "ハーフ（約2〜3人分）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニロールケーキ 個包装 5個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_roll_cake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_baked_cheesecake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チーズケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ホームパーティー",
+    "ご褒美スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "クリームチーズのコクを生かして焼き上げた、しっとり濃厚なベイクドチーズケーキです。紅茶やコーヒーと一緒に、おやつや食後のデザートにどうぞ。",
+   "image_brief": "Slice of golden baked cheesecake in a clear dome pack, label 'ベイクドチーズケーキ'.",
+   "variants": [
+    {
+     "title": "トップバリュ ベイクドチーズケーキ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベイクドチーズケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スフレチーズケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産クリームチーズ使用 ベイクドチーズケーキ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バスク風チーズケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベイクドチーズケーキ ホール 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_baked_cheesecake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_rare_cheesecake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チーズケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "夏のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "さわやかな酸味とまろやかなクリームチーズの風味が広がるレアチーズケーキです。ひんやりなめらかな口当たりで、食後のデザートにもぴったりです。",
+   "image_brief": "Clear cup of white no-bake cheesecake topped with berry sauce, lid printed 'レアチーズケーキ'.",
+   "variants": [
+    {
+     "title": "トップバリュ レアチーズケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レアチーズケーキ ブルーベリーソース 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レアチーズケーキ 苺ソース 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト レモン香る レアチーズケーキ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ レアチーズ 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マンゴー レアチーズケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_rare_cheesecake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_panna_cotta",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "パンナコッタ・ムース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "パスタ",
+    "オムライス"
+   ],
+   "tax_rate": 8,
+   "description": "生クリームとミルクをなめらかに固めたイタリア風デザートです。甘酸っぱいソースとの相性がよく、パスタやオムライスの日の食後にもおすすめです。",
+   "image_brief": "Clear cups of white panna cotta topped with red berry sauce, lid printed 'パンナコッタ'.",
+   "variants": [
+    {
+     "title": "トップバリュ パンナコッタ ベリーソース 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パンナコッタ キャラメルソース 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パンナコッタ マンゴーソース 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 パンナコッタ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミルクパンナコッタ 3個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごミルク パンナコッタ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_panna_cotta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_mizu_yokan",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "水ようかん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "夏のおやつ",
+    "来客時"
+   ],
+   "tax_rate": 8,
+   "description": "小豆の風味をみずみずしく仕上げた、のどごしのよい水ようかんです。冷やして緑茶と一緒にお茶うけに。常温で保存できるので買い置きにも便利です。",
+   "image_brief": "Small cups of dark red bean jelly with a peel lid, multipack sleeve printed '水ようかん'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産小豆使用 水ようかん 83g×4個",
+     "brand": "トップバリュ",
+     "size": "83g×4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水ようかん 抹茶 83g×4個",
+     "brand": "トップバリュ",
+     "size": "83g×4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水ようかん 栗入り 83g×4個",
+     "brand": "トップバリュ",
+     "size": "83g×4個",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 水ようかん こしあん 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 十勝産小豆 水ようかん 3個入",
+     "brand": "トップバリュ セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水ようかん アソート（小豆・抹茶・栗）6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_mizu_yokan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_shiratama_zenzai",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "ぜんざい・おしるこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかな白玉と、ふっくら炊いた小豆を合わせた白玉ぜんざいです。冷たいままでも、温めてもおいしく召し上がれます。おやつやお茶うけにどうぞ。",
+   "image_brief": "Clear cup of sweet red bean soup with white rice-flour dumplings, lid printed '白玉ぜんざい'.",
+   "variants": [
+    {
+     "title": "トップバリュ 白玉ぜんざい 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白玉ぜんざい 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶白玉ぜんざい 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産小豆使用 白玉ぜんざい 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 栗入り 白玉ぜんざい 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷やしぜんざい 白玉入り 大容量 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白玉入り おしるこ（こしあん）1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_shiratama_zenzai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_warabimochi",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "わらび餅・くず餅"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "夏のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとやわらかなわらびもちに、香ばしいきなこと黒みつを添えました。ひんやり冷やして、家族のおやつやお茶うけにどうぞ。",
+   "image_brief": "Translucent warabimochi cubes in a tray with kinako and kuromitsu packets, label 'わらびもち'.",
+   "variants": [
+    {
+     "title": "トップバリュ わらびもち きなこ・黒みつ付 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち わらびもち カップ 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶わらびもち 黒みつ付 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本わらび粉入り わらびもち 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス わらびもち 大容量 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ くずもち 黒みつ・きなこ付 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_warabimochi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_anmitsu",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "あんみつ・みつ豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "寒天、赤えんどう豆、フルーツ、あんこを盛り合わせた和風デザートです。黒みつをかけてさっぱりと。食後や午後のおやつにどうぞ。",
+   "image_brief": "Clear cup with agar cubes, fruit and red bean paste with a black syrup packet, lid printed 'あんみつ'.",
+   "variants": [
+    {
+     "title": "トップバリュ あんみつ 黒みつ付 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白玉あんみつ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツみつ豆 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あんみつ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶あんみつ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産赤えんどう 豆かん 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_anmitsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_gateau_chocolat",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チョコレートケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "誕生日",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "チョコレートのコクをぎゅっと詰め込んだ、しっとり濃厚なガトーショコラです。おやつや食後のデザートに、ホイップを添えて楽しむのもおすすめです。",
+   "image_brief": "Dark chocolate cake slices dusted with powdered sugar in a clear case, label 'ガトーショコラ'.",
+   "variants": [
+    {
+     "title": "トップバリュ ガトーショコラ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガトーショコラ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生チョコケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 濃厚 ガトーショコラ ホール 4号（12cm）",
+     "brand": "トップバリュ セレクト",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フォンダンショコラ レンジ対応 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ ガトーショコラ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_gateau_chocolat_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_nama_dorayaki",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "どら焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり焼いた生地で、粒あんとミルク感のあるホイップクリームをはさんだ生どら焼きです。冷やして食べると口どけがよく、お茶うけにぴったりです。",
+   "image_brief": "Individually wrapped dorayaki with visible red bean and whipped cream filling, label '生どら焼き'.",
+   "variants": [
+    {
+     "title": "トップバリュ 生どら焼き（小豆&ホイップ）1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生どら焼き 抹茶 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生どら焼き カスタード 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生どら焼き 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生どら焼き いちご 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小豆 生どら焼き 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_nama_dorayaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_cream_daifuku",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "大福"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかなおもちで、あんこと生クリームを包んだ大福です。冷やすともっちりひんやりの食感が楽しめます。おやつやお茶うけにどうぞ。",
+   "image_brief": "Soft white daifuku in a clear tray showing cream and red bean inside, label '生クリーム大福'.",
+   "variants": [
+    {
+     "title": "トップバリュ 生クリーム大福 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生クリーム大福 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちご生クリーム大福 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶生クリーム大福 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カスタード生クリーム大福 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコ生クリーム大福 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_cream_daifuku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_mille_crepe",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ミルクレープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ご褒美スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "薄く焼いたクレープ生地とクリームを何層にも重ねたミルクレープです。しっとりやさしい甘さで、紅茶やコーヒーと一緒に楽しめます。",
+   "image_brief": "Wedge of many-layered crepe cake in a clear triangular pack, label 'ミルクレープ'.",
+   "variants": [
+    {
+     "title": "トップバリュ ミルクレープ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクレープ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶ミルクレープ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコミルクレープ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム ミルクレープ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクレープ ホール 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_mille_crepe_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_shortcake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ショートケーキ・タルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "誕生日",
+    "ホームパーティー",
+    "おやつ",
+    "記念日"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりスポンジと生クリーム、甘酸っぱいいちごを合わせた定番のケーキです。家族の誕生日や週末のご褒美に。冷蔵庫から出してすぐにお召し上がりください。",
+   "image_brief": "Strawberry shortcake slices in a clear plastic case with gold base, label 'いちごのショートケーキ'.",
+   "variants": [
+    {
+     "title": "トップバリュ いちごのショートケーキ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごのショートケーキ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコレートショートケーキ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツタルト 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニショートケーキ アソート 4個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム いちごショート ホール 4号（12cm）",
+     "brand": "トップバリュ セレクト",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_shortcake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_tofu_dessert",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "豆乳デザート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "中華の日のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳をなめらかに固めた、やさしい甘さのデザートです。台湾風の豆花やきなこ黒みつなど、さっぱりとした味わいで食後にもぴったりです。",
+   "image_brief": "Clear cups of soft white soy pudding with syrup on top, lid printed '豆花'.",
+   "variants": [
+    {
+     "title": "トップバリュ 豆花（トウファ）黒蜜しょうがシロップ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆花 タピオカ入り 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳デザート きなこ黒みつ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳デザート 抹茶 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳デザート マンゴー 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆使用 豆乳ぷるるん 黒みつ 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_tofu_dessert_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_milk_kanten",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "牛乳寒天・ミルクゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "食後のデザート",
+    "お弁当のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ミルクのやさしい甘さを生かした、昔ながらの牛乳寒天とミルクゼリーです。みかんやフルーツ入りで子どものおやつにもぴったり。冷やしてお召し上がりください。",
+   "image_brief": "Clear cups of white milk agar jelly with mandarin segments, lid printed '牛乳寒天'.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛乳寒天 みかん入り 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛乳かん フルーツミックス 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクゼリー 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごミルクゼリー 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 牛乳寒天 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミルクゼリー 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_milk_kanten_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_parfait",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "パフェ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ご褒美スイーツ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "クリーム、スポンジ、フルーツソースなどを重ねたカップ入りのパフェです。お店のような見た目で、週末のおやつやご褒美スイーツにどうぞ。",
+   "image_brief": "Tall clear cup parfait with layered cream, sponge and fruit sauce, lid printed 'いちごパフェ'.",
+   "variants": [
+    {
+     "title": "トップバリュ いちごパフェ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコバナナパフェ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶パフェ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マンゴーパフェ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニパフェ アソート 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 栗のモンブランパフェ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_parfait_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_mini_cup_ice_multipack",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "マルチパック"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お風呂上がり",
+    "子どものおやつ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "食べきりサイズのミニカップアイスを詰め合わせたマルチパックです。家族それぞれが好きなときに食べられて、お風呂上がりのおやつにもぴったり。",
+   "image_brief": "Multipack carton with small ice cream cups visible on the front, printed 'ミニカップアイス 6個入'.",
+   "variants": [
+    {
+     "title": "トップバリュ ミニカップアイス バニラ 6個入（90ml×6）",
+     "brand": "トップバリュ",
+     "size": "90ml×6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップアイス チョコ 6個入（90ml×6）",
+     "brand": "トップバリュ",
+     "size": "90ml×6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップアイス ストロベリー 6個入（90ml×6）",
+     "brand": "トップバリュ",
+     "size": "90ml×6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップアイス 3種アソート 8個入（80ml×8）",
+     "brand": "トップバリュ",
+     "size": "80ml×8個",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニカップアイス バニラ 10個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "75ml×10個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップアイス 抹茶 6個入（90ml×6）",
+     "brand": "トップバリュ",
+     "size": "90ml×6個",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップアイス チョコチップ 6個入（90ml×6）",
+     "brand": "トップバリュ",
+     "size": "90ml×6個",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_mini_cup_ice_multipack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_choco_coated_ice_bar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスバー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お風呂上がり",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "パリッとしたチョコレートでアイスをコーティングしたアイスバーです。個包装で取り出しやすく、家族のおやつやお風呂上がりの一本にどうぞ。",
+   "image_brief": "Multipack box of chocolate-coated ice bars with a bitten bar photo, printed 'チョコアイスバー'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョココーティング バニラアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコバー ミルクチョコ 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 濃厚チョコアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ストロベリーチョコ アイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ベルギー産チョコ使用 アイスバー 4本入",
+     "brand": "トップバリュ セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス チョコアイスバー 10本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ チョコアイスバー 12本入",
+     "brand": "トップバリュ",
+     "size": "12本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_choco_coated_ice_bar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_ice_candy",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスキャンディー・氷菓"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "夏のおやつ",
+    "子どものおやつ",
+    "外遊びの後"
+   ],
+   "tax_rate": 8,
+   "description": "シャリッと爽やかな口当たりのアイスキャンディーです。暑い日のおやつや外遊びの後にぴったり。たっぷり入ったマルチパックで買い置きにも便利です。",
+   "image_brief": "Multipack bag of colorful ice pops on sticks, printed 'アイスキャンディー 10本入'.",
+   "variants": [
+    {
+     "title": "トップバリュ ソーダ味 アイスキャンディー 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果汁入り アイスキャンディー 4種アソート 12本入",
+     "brand": "トップバリュ",
+     "size": "12本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぶどう味 アイスキャンディー 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ みかん果汁 アイスキャンディー 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニ アイスキャンディー 20本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "20本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーラ味 アイスキャンディー 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ラムネ味 アイスキャンディー 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_ice_candy_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_monaka_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "最中アイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしい最中の皮で、なめらかなアイスを包みました。バニラやあずきなど和の味わいも楽しめ、おやつや食後のひと口にぴったりです。",
+   "image_brief": "Wrapped rectangular monaka wafer ice cream with a cross-section photo, printed '最中アイス'.",
+   "variants": [
+    {
+     "title": "トップバリュ バニラ最中アイス 1個（150ml）",
+     "brand": "トップバリュ",
+     "size": "150ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あずき最中アイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バニラ最中アイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶最中アイス 1個（150ml）",
+     "brand": "トップバリュ",
+     "size": "150ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小豆 あずき最中アイス 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ 最中アイス バニラ&あずき 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_monaka_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_choco_wafer_monaka",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "モナカアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お風呂上がり",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのウエハースでバニラアイスと板チョコをはさんだモナカアイスです。パリッとしたチョコの食感がアクセントで、家族みんなのおやつにどうぞ。",
+   "image_brief": "Wrapped wafer monaka ice with a chocolate layer visible in the cut photo, printed 'チョコモナカ'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコ入り ウエハースモナカ バニラ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコ入り ウエハースモナカ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコモナカ 抹茶 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ チョコモナカ 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコモナカ ダブルチョコ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 チョコモナカ 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_choco_wafer_monaka_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_kakigori",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "かき氷"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "夏のおやつ",
+    "おやつ",
+    "外遊びの後",
+    "夏祭り気分"
+   ],
+   "tax_rate": 8,
+   "description": "シャリシャリの氷に甘いシロップをかけたカップ入りのかき氷です。少し溶かしてスプーンでどうぞ。暑い日のおやつや夏祭り気分を楽しみたいときに。",
+   "image_brief": "Paper cup of shaved ice with colored syrup and a wooden spoon, printed 'かき氷 いちご'.",
+   "variants": [
+    {
+     "title": "トップバリュ カップかき氷 いちご 1個（200ml）",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップかき氷 メロン 1個（200ml）",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップかき氷 ブルーハワイ 1個（200ml）",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップかき氷 レモン 1個（200ml）",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップかき氷 宇治金時 1個（200ml）",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップかき氷 4種アソート 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップかき氷 いちご・メロン 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_kakigori_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_frozen_yogurt",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "フローズンヨーグルト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "食後のデザート",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "ヨーグルトの爽やかな酸味をそのまま凍らせた、さっぱり味のフローズンデザートです。食後やおやつに、フルーツを添えて楽しむのもおすすめです。",
+   "image_brief": "Small paper cups of pale pink frozen yogurt with berries pictured, printed 'フローズンヨーグルト'.",
+   "variants": [
+    {
+     "title": "トップバリュ フローズンヨーグルト プレーン 120ml×4個",
+     "brand": "トップバリュ",
+     "size": "120ml×4個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フローズンヨーグルト ストロベリー 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フローズンヨーグルト ブルーベリー 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フローズンヨーグルトバー 3種アソート 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フローズンヨーグルト 大容量 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 生乳ヨーグルト使用 フローズンヨーグルト マンゴー 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_frozen_yogurt_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_premium_cup_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "食後のデザート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "素材にこだわった、濃厚でなめらかなプレミアムカップアイスです。抹茶や和栗など季節を感じる味わいもそろい、自分へのご褒美や食後のデザートにぴったりです。",
+   "image_brief": "Premium small ice cream cup with gold lid and flavor photo, printed 'トップバリュ セレクト 宇治抹茶'.",
+   "variants": [
+    {
+     "title": "トップバリュ セレクト 宇治抹茶アイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ラムレーズンアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道 濃厚ミルクアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ベルギーチョコレートアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 福岡県産いちご使用 ストロベリーアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 塩キャラメルアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 和栗アイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_premium_cup_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_sherbet",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "シャーベット・ソルベ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "夏のおやつ",
+    "焼肉の後"
+   ],
+   "tax_rate": 8,
+   "description": "果汁の爽やかな酸味が広がる、すっきりとしたシャーベットです。焼肉や揚げ物の後の口直しにもおすすめ。小分けカップで食べやすいサイズです。",
+   "image_brief": "Multipack box of small sherbet cups with citrus fruit pictured, printed 'シャーベット 6個入'.",
+   "variants": [
+    {
+     "title": "トップバリュ レモンシャーベット 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 温州みかんシャーベット 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぶどうシャーベット 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 3種のシャーベット アソート 9個入",
+     "brand": "トップバリュ",
+     "size": "9個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産ゆず果汁 シャーベット 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ピーチシャーベット 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大容量 オレンジシャーベット 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_sherbet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_azuki_ice_bar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスバー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "夏のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "小豆をじっくり炊き上げて固めた、素朴な味わいのあずきアイスバーです。しっかりとした食感で、緑茶と一緒におやつにどうぞ。",
+   "image_brief": "Box of reddish-brown azuki bean ice bars on sticks, printed 'あずきアイスバー'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産小豆使用 あずきアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あずきアイスバー 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス あずきアイスバー 10本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 十勝産小豆 あずきバー 4本入",
+     "brand": "トップバリュ セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ あずきアイスバー 12本入",
+     "brand": "トップバリュ",
+     "size": "12本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒糖あずきアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗入り あずきアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_azuki_ice_bar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_ice_sandwich",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスサンド"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "ウエハースやクッキーでバニラアイスをはさんだ、手軽に食べられるアイスサンドです。手が汚れにくく、子どものおやつにもぴったりです。",
+   "image_brief": "Wrapped wafer ice cream sandwich with a cut-section photo, printed 'ウエハースサンドアイス'.",
+   "variants": [
+    {
+     "title": "トップバリュ バニラ ウエハースサンドアイス 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バニラ ウエハースサンドアイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアクッキーサンド バニラアイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クッキーサンドアイス チョコチップ 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ クッキーサンドアイス 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶 ウエハースサンドアイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_ice_sandwich_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_cone_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "コーンアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのコーンにアイスをたっぷり詰め、チョコをトッピングしたコーンアイスです。最後までサクッと楽しめ、家族のおやつにぴったりです。",
+   "image_brief": "Box of wrapped ice cream cones with chocolate topping photo, printed 'コーンアイス 6本入'.",
+   "variants": [
+    {
+     "title": "トップバリュ バニラ コーンアイス チョコがけ 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バニラ コーンアイス 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニコーンアイス 3種アソート 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ストロベリー コーンアイス 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコ コーンアイス 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソフトクリーム風 ミルク コーンアイス 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_cone_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_frozen_fruit",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍フルーツ",
+    "カット冷凍フルーツ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スムージー",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "食べやすくカットして凍らせたフルーツです。凍ったままシャーベット感覚で食べたり、ヨーグルトのトッピングや朝ごはんのスムージーに使えて便利です。",
+   "image_brief": "Resealable stand-up frozen pouch with fruit pieces visible through a window, printed '冷凍 マンゴー'.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 マンゴー 一口カット 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ブルーベリー 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 いちご 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミックスベリー 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "チリ産・カナダ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 パインアップル 一口カット 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ラズベリー 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "セルビア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ブルーベリー 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 ブルーベリー 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_frozen_fruit_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_mochi_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "もちアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのおもちでなめらかなアイスを包んだ、ひと口サイズのもちアイスです。少し置いてやわらかくなったころが食べごろ。おやつや食後にどうぞ。",
+   "image_brief": "Tray of round white mochi ice balls with a pick, box printed 'もちアイス バニラ'.",
+   "variants": [
+    {
+     "title": "トップバリュ もちアイス バニラ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち もちアイス バニラ 9個入",
+     "brand": "トップバリュ",
+     "size": "9個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もちアイス 抹茶 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もちアイス いちご 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もちアイス 3種アソート 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もちアイス チョコ 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_mochi_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_bite_choco_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "ひとくちアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌後のデザート",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "チョコレートでコーティングした、ひとくちサイズの粒アイスです。つまんで食べられる手軽さで、食後に少しだけ甘いものが欲しいときにぴったりです。",
+   "image_brief": "Small box with bite-size chocolate-coated ice nuggets and picks, printed 'ひとくちチョコアイス'.",
+   "variants": [
+    {
+     "title": "トップバリュ ひとくち チョコアイス 12粒入",
+     "brand": "トップバリュ",
+     "size": "12粒入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち チョコアイス 3種アソート 18粒入",
+     "brand": "トップバリュ",
+     "size": "18粒入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち アイス ストロベリー 12粒入",
+     "brand": "トップバリュ",
+     "size": "12粒入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち チョコアイス ミント 12粒入",
+     "brand": "トップバリュ",
+     "size": "12粒入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ひとくち チョコアイス 24粒入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "24粒入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち 抹茶チョコアイス 12粒入",
+     "brand": "トップバリュ",
+     "size": "12粒入",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_bite_choco_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_milk_ice_bar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスバー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お風呂上がり",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "練乳のコクとミルクのやさしい甘さが広がるミルクアイスバーです。子どもから大人まで楽しめる味わいで、お風呂上がりのおやつに人気です。",
+   "image_brief": "Multipack box of white milk ice bars on sticks with a milk splash graphic, printed 'ミルクアイスバー'.",
+   "variants": [
+    {
+     "title": "トップバリュ 練乳 ミルクアイスバー 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道牛乳使用 ミルクアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちご練乳 ミルクアイスバー 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶ミルク アイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーヒーミルク アイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミルクアイスバー 10本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白くま風 練乳フルーツアイスバー 6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_milk_ice_bar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_dessert_ice_ice_cake",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスケーキ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "誕生日",
+    "ホームパーティー",
+    "記念日",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "スポンジとアイスを重ねた、切り分けて楽しむアイスケーキです。冷凍で保存できるので、家族の誕生日やホームパーティーに用意しておくと便利です。",
+   "image_brief": "Round ice cream cake in a clear-window gift box, printed 'アイスケーキ 5号'.",
+   "variants": [
+    {
+     "title": "トップバリュ アイスケーキ バニラ&チョコ 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アイスケーキ いちご 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アイスケーキ チョコレート 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 アイスケーキ 6号（18cm）",
+     "brand": "トップバリュ セレクト",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ アイスケーキ カップ 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロールアイスケーキ バニラ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_dessert_ice_ice_cake_p.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1301 @@
+{
+ "category_key": "meat",
+ "items": [
+  {
+   "base_id": "meat_pork_komagire",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "こま切れ・切り落とし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産豚のうま味がぎゅっと詰まった、使い勝手抜群のこま切れ肉です。炒め物や豚汁、カレー、肉じゃがなど毎日のおかずに大活躍。パックしてからお届けまでの鮮度管理にこだわった[鮮度+]シリーズです。",
+   "images": [
+    "meat_pork_komagire_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚こま切れ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 318,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚こま切れ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚こま切れ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚こま切れ お徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚こま切れ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 358,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [
+    "meat_pork_komagire_1.jpg"
+   ],
+   "dishes": [
+    "豚汁",
+    "肉じゃが",
+    "野菜炒め",
+    "豚丼",
+    "カレー"
+   ]
+  },
+  {
+   "base_id": "meat_pork_belly_sliced",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "赤身と脂身がバランスよく重なった、ジューシーな豚バラ薄切りです。野菜炒めや肉巻き、豚キムチ、鍋物にもぴったり。加熱すると脂の甘みが広がり、ごはんがすすむ一品に仕上がります。",
+   "images": [
+    "meat_pork_belly_sliced_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ薄切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 578,
+     "origin": "国産"
+    },
+    {
+     "title": "メキシコ産 豚バラ薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産 黒豚 バラ薄切り 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [
+    "meat_pork_belly_sliced_1.jpg",
+    "meat_pork_belly_sliced_2.jpg"
+   ],
+   "dishes": [
+    "豚の角煮風炒め",
+    "回鍋肉",
+    "白菜と豚バラの重ね蒸し",
+    "肉巻き",
+    "豚汁"
+   ]
+  },
+  {
+   "base_id": "meat_pork_loin",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "きめ細かくやわらかな肉質の豚ロースを、用途に合わせた厚みでカットしました。薄めの生姜焼き用はたれがよくからみ、厚切りのとんかつ用は揚げてもジューシーな仕上がりに。ポークソテーにもおすすめです。",
+   "images": [
+    "meat_pork_loin_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ロース 生姜焼き用 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 678,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ロース とんかつ用 2枚入（約240g）",
+     "brand": "",
+     "size": "約240g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ロース とんかつ用 3枚入（約330g）",
+     "brand": "",
+     "size": "約330g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [
+    "meat_pork_loin_1.jpg"
+   ],
+   "dishes": [
+    "豚の生姜焼き",
+    "とんかつ",
+    "ポークソテー",
+    "豚丼"
+   ]
+  },
+  {
+   "base_id": "meat_ground_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "豚ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "国産豚を使ったきめ細かな豚ひき肉です。麻婆豆腐やぎょうざ、肉そぼろ、ロールキャベツなど幅広い料理にお使いいただけます。小分けにして冷凍しておくと、忙しい日の時短料理にも便利です。",
+   "images": [
+    "meat_ground_pork_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 538,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ひき肉 お徳用 700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_ground_pork_2.jpg"
+   ],
+   "dishes": [
+    "麻婆豆腐",
+    "餃子",
+    "肉そぼろ",
+    "ロールキャベツ",
+    "肉団子"
+   ]
+  },
+  {
+   "base_id": "meat_pork_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "さっと火が通る極うす切りの、しゃぶしゃぶ用豚肉です。やわらかな口当たりで、ぽん酢やごまだれとの相性も抜群。寒くなるこれからの季節、野菜たっぷりの鍋や冷しゃぶサラダでお楽しみください。",
+   "images": [
+    "meat_pork_shabu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚バラ しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産 黒豚 しゃぶしゃぶ用 ロース 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [
+    "meat_pork_shabu_1.jpg",
+    "meat_pork_shabu_2.jpg"
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "冷しゃぶサラダ",
+    "豚しゃぶ鍋",
+    "肉巻き"
+   ]
+  },
+  {
+   "base_id": "meat_pork_curry_cubes",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "角切り・ブロック"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "ほどよく脂がのった豚肩ロースを、カレーやシチューに使いやすい角切りにしました。煮込むほどにやわらかくなり、ルウにうま味がしっかり溶け出します。豚の角煮や酢豚にもおすすめです。",
+   "images": [
+    "meat_pork_curry_cubes_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース カレー用角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース カレー用角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース カレー用角切り 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 478,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [
+    "meat_pork_curry_cubes_1.jpg"
+   ],
+   "dishes": [
+    "カレー",
+    "シチュー",
+    "豚の角煮",
+    "酢豚"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_thigh",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "ぷりっとした弾力とジューシーなうま味が魅力の国産若鶏もも肉です。から揚げや照り焼き、親子丼、チキンカレーなど、家族みんなが喜ぶおかずに。皮目をこんがり焼けば香ばしさも楽しめます。",
+   "images": [
+    "meat_chicken_thigh_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも肉 から揚げ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも肉 お徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 宮崎県産 銘柄鶏もも肉 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_thigh_1.jpg",
+    "meat_chicken_thigh_2.jpg"
+   ],
+   "dishes": [
+    "唐揚げ",
+    "照り焼きチキン",
+    "親子丼",
+    "筑前煮",
+    "チキン南蛮"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_breast",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "脂肪が少なくあっさりとした味わいの国産若鶏むね肉です。そぎ切りにして片栗粉をまぶせば、しっとりやわらかな仕上がりに。チキン南蛮や蒸し鶏、炒め物など、お財布にやさしい毎日の定番食材です。",
+   "images": [
+    "meat_chicken_breast_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 2枚入（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏むね肉 お徳用 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 若鶏むね肉 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_breast_1.jpg",
+    "meat_chicken_breast_2.jpg"
+   ],
+   "dishes": [
+    "鶏むね肉のチキンカツ",
+    "棒棒鶏",
+    "鶏ハム",
+    "親子丼",
+    "蒸し鶏サラダ"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_drumstick",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽元・手羽先"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "骨付きならではの濃いうま味が楽しめる国産若鶏の手羽元です。大根と一緒に甘辛く煮込んだり、さっぱり煮やカレーの具にしたりと、煮込み料理で本領を発揮します。オーブン焼きやから揚げにもおすすめです。",
+   "images": [
+    "meat_chicken_drumstick_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏手羽元 8本入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏手羽元 5本入（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽元 お徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_drumstick_1.jpg",
+    "meat_chicken_drumstick_2.jpg"
+   ],
+   "dishes": [
+    "手羽元のさっぱり煮",
+    "手羽元のカレー",
+    "ポトフ",
+    "唐揚げ"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_wings",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽元・手羽先"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "コラーゲンたっぷりの皮と骨まわりのうま味が魅力の手羽先です。甘辛だれをからめた名古屋風の手羽先揚げや、塩こしょうでシンプルに焼き上げるのもおすすめ。スープや鍋のだし取りにも使えます。",
+   "images": [
+    "meat_chicken_wings_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏手羽先 6本入（約350g）",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽先 お徳用 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽中 ハーフカット 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_wings_1.jpg"
+   ],
+   "dishes": [
+    "手羽先の唐揚げ",
+    "手羽先の甘辛焼き",
+    "水炊き",
+    "スープ"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_sasami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "ささみ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "やわらかく淡白な味わいで、どんな味付けにもなじむ国産若鶏のささみです。さっとゆでてサラダや和え物に、梅しそ巻きやフライにしてお弁当のおかずにも。筋を取ってから調理すると、より食べやすく仕上がります。",
+   "images": [
+    "meat_chicken_sasami_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏ささみ 4本入（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏ささみ 8本入（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ささみ 筋なし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_sasami_1.jpg"
+   ],
+   "dishes": [
+    "ささみフライ",
+    "ささみの梅しそ巻き",
+    "棒棒鶏",
+    "サラダ"
+   ]
+  },
+  {
+   "base_id": "meat_chicken_tsukune_nabe",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鍋用・味付け"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "国産鶏肉に玉ねぎとしょうがを練り込んだ、ふんわり食感の鍋用鶏つくねです。スプーンですくって鍋に落とすだけで、だしにうま味がしみ出します。寄せ鍋やみぞれ鍋、スープの具材にどうぞ。",
+   "images": [
+    "meat_chicken_tsukune_nabe_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏使用 鍋用 鶏つくね 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ 国産鶏使用 鍋用 鶏つくね 軟骨入り 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 328,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "国産 鍋用 鶏つくね しょうが風味 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ セレクト 鍋用 鶏つくね 大葉入り 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産（鶏肉）"
+    }
+   ],
+   "cc_images": [
+    "meat_chicken_tsukune_nabe_1.jpg"
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "ちゃんこ鍋",
+    "水炊き",
+    "つくねスープ"
+   ]
+  },
+  {
+   "base_id": "meat_beef_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "切り落とし・こま切れ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "description": "国内で大切に育てられた国産牛の、さまざまな部位を食べやすくカットした切り落としです。牛丼や肉じゃが、すき焼き風の煮物など、牛肉のコクを生かした和の献立にぴったり。ちょっと贅沢な日のおかずにどうぞ。",
+   "images": [
+    "meat_beef_kiriotoshi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 国産牛 切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産牛 切り落とし 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 黒毛和牛 切り落とし 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_beef_kiriotoshi_1.jpg",
+    "meat_beef_kiriotoshi_2.jpg"
+   ],
+   "dishes": [
+    "肉じゃが",
+    "牛丼",
+    "すき焼き風煮",
+    "しぐれ煮",
+    "カレー"
+   ]
+  },
+  {
+   "base_id": "meat_beef_koma",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "切り落とし・こま切れ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "description": "手ごろな価格で使いやすい、輸入牛のこま切れです。炒め物やカレー、ハヤシライス、肉じゃがなど、毎日のおかずに気軽に牛肉のうま味をプラスできます。赤身が多く、さっと火を通すのがおいしく仕上げるコツです。",
+   "images": [
+    "meat_beef_koma_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛こま切れ 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛こま切れ お徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 948,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "トップバリュ タスマニアビーフ 牛こま切れ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "オーストラリア産（タスマニア）"
+    },
+    {
+     "title": "アメリカ産 牛バラ こま切れ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [
+    "meat_beef_koma_1.jpg",
+    "meat_beef_koma_2.jpg"
+   ],
+   "dishes": [
+    "牛丼",
+    "肉じゃが",
+    "青椒肉絲",
+    "ハヤシライス",
+    "カレー"
+   ]
+  },
+  {
+   "base_id": "meat_beef_sukiyaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "すき焼き・しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "きれいなサシが入った、すき焼き用の牛肉です。割下でさっと煮て溶き卵にくぐらせれば、とろけるようなやわらかさと甘みが広がります。秋冬の家族の団らんや、ちょっとしたお祝いの食卓におすすめです。",
+   "images": [
+    "meat_beef_sukiyaki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産牛 肩ロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 黒毛和牛 肩ロース すき焼き用 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ タスマニアビーフ 肩ロース すき焼き用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産（タスマニア）"
+    },
+    {
+     "title": "国産牛 もも すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "meat_beef_sukiyaki_1.jpg",
+    "meat_beef_sukiyaki_2.jpg"
+   ],
+   "dishes": [
+    "すき焼き",
+    "牛丼",
+    "しゃぶしゃぶ",
+    "肉巻き"
+   ]
+  },
+  {
+   "base_id": "meat_ground_mix",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "牛肉と豚肉をバランスよく合わせた合いびき肉です。牛のコクと豚のジューシーさを兼ね備え、ハンバーグやミートソース、キーマカレー、ピーマンの肉詰めなどに最適。子どもに人気の洋食メニューに欠かせません。",
+   "images": [
+    "meat_ground_mix_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "[鮮度+] 牛豚合いびき肉 250g（牛6:豚4）",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "牛肉：オーストラリア産、豚肉：国産"
+    },
+    {
+     "title": "[鮮度+] 牛豚合いびき肉 500g（牛6:豚4）",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 758,
+     "origin": "牛肉：オーストラリア産、豚肉：国産"
+    },
+    {
+     "title": "国産 牛豚合いびき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "牛豚合いびき肉 お徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1180,
+     "origin": "牛肉：オーストラリア産、豚肉：カナダ産"
+    }
+   ],
+   "cc_images": [
+    "meat_ground_mix_1.jpg",
+    "meat_ground_mix_2.jpg"
+   ],
+   "dishes": [
+    "ハンバーグ",
+    "ミートソース",
+    "ロールキャベツ",
+    "メンチカツ",
+    "キーマカレー"
+   ]
+  },
+  {
+   "base_id": "meat_seasoned_ginger_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "豚肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "description": "国産豚ロースを、しょうががきいた特製だれにじっくり漬け込みました。フライパンで焼くだけで本格的な生姜焼きが完成するので、忙しい日の夕食にぴったり。千切りキャベツを添えて、ごはんと一緒にどうぞ。",
+   "images": [
+    "meat_seasoned_ginger_pork_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産豚ロース使用 豚の生姜焼き用 たれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "トップバリュ 豚こま 生姜焼き用 たれ漬け 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産（豚肉）"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 生姜焼き 味付 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 748,
+     "origin": "国産（豚肉）"
+    },
+    {
+     "title": "トップバリュ セレクト 黒豚ロース 生姜焼き用 たれ漬け 230g",
+     "brand": "トップバリュ セレクト",
+     "size": "230g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産（豚肉）"
+    }
+   ],
+   "cc_images": [
+    "meat_seasoned_ginger_pork_1.jpg",
+    "meat_seasoned_ginger_pork_2.jpg"
+   ],
+   "dishes": [
+    "豚の生姜焼き",
+    "生姜焼き丼",
+    "お弁当のおかず"
+   ]
+  },
+  {
+   "base_id": "meat_seasoned_bulgogi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "牛肉",
+    "ごま",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "description": "牛肉を甘辛いコチュジャン風味の特製だれに漬け込んだプルコギです。玉ねぎやにんじん、ピーマンと一緒に炒めるだけで、野菜もたっぷりとれる一皿に。韓国風の丼やレタス包みにしても楽しめます。",
+   "images": [
+    "meat_seasoned_bulgogi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 牛プルコギ 野菜と炒めるだけ 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産（牛肉）"
+    },
+    {
+     "title": "トップバリュ 牛プルコギ お徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 948,
+     "origin": "オーストラリア産（牛肉）"
+    },
+    {
+     "title": "トップバリュ 牛プルコギ 甘口 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産（牛肉）"
+    },
+    {
+     "title": "トップバリュ 豚プルコギ ピリ辛 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "カナダ産（豚肉）"
+    }
+   ],
+   "cc_images": [
+    "meat_seasoned_bulgogi_1.jpg",
+    "meat_seasoned_bulgogi_3.jpg"
+   ],
+   "dishes": [
+    "プルコギ",
+    "プルコギ丼",
+    "ビビンバ",
+    "夕食のおかず"
+   ]
+  },
+  {
+   "base_id": "meat_ham",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ソーセージ・ベーコン",
+    "ハム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "豚ロース肉をじっくり燻製し、しっとりやわらかく仕上げたハムです。朝食のハムエッグやサンドイッチ、サラダやお弁当の彩りにも重宝します。使いやすいスライスタイプや、食べ応えのある厚切りタイプをそろえました。",
+   "images": [
+    "meat_ham_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ロースハム 4パック（34g×4）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "136g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロースハム スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りロースハム 4枚入 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ボンレスハム スライス 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 熟成ロースハム ブロック 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "meat_ham_2.jpg"
+   ],
+   "dishes": [
+    "ハムサンド",
+    "ポテトサラダ",
+    "ハムエッグ",
+    "冷やし中華",
+    "チャーハン"
+   ]
+  },
+  {
+   "base_id": "meat_wiener",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ソーセージ・ベーコン",
+    "ウインナー・ソーセージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "パリッとした皮の食感と、噛むほどにあふれる肉汁が楽しめるあらびきウインナーです。ボイルや焼くだけで朝食やお弁当の一品に。ポトフや焼きそば、ナポリタンの具材にもぴったりです。",
+   "images": [
+    "meat_wiener_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス あらびきウインナー 2袋組（90g×2）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびきウインナー 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびきウインナー 減塩 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チーズ入りウインナー 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 天然腸詰 あらびきウインナー 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 皮なしウインナー お徳用 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "meat_wiener_1.jpg",
+    "meat_wiener_2.jpg"
+   ],
+   "dishes": [
+    "ウインナー炒め",
+    "ポトフ",
+    "ナポリタン",
+    "お弁当のおかず",
+    "ホットドッグ"
+   ]
+  },
+  {
+   "base_id": "meat_bacon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ソーセージ・ベーコン",
+    "ベーコン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "description": "豚ばら肉を香り高く燻製した、うま味たっぷりのベーコンです。カリッと焼いて朝食に、パスタやスープ、野菜炒めに加えればコクと香りがぐんとアップします。料理に合わせて選べるハーフ・ブロック・厚切りをご用意しました。",
+   "images": [
+    "meat_bacon_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ハーフベーコン 4パック（35g×4）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハーフベーコン 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 厚切りベーコン 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベーコン ブロック 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 熟成ベーコン スライス 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "meat_bacon_1.jpg"
+   ],
+   "dishes": [
+    "カルボナーラ",
+    "ベーコンエッグ",
+    "ポトフ",
+    "ほうれん草のベーコン炒め",
+    "ジャーマンポテト"
+   ]
+  },
+  {
+   "base_id": "meat_salad_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ソーセージ・ベーコン",
+    "サラダチキン・チキン加工品"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "description": "国産鶏むね肉をしっとりやわらかく蒸し上げた、トップバリュのサラダチキンです。袋から出してすぐに食べられるので、サラダや和え物、サンドイッチに手軽にたんぱく質をプラス。忙しい日のもう一品に便利です。",
+   "images": [
+    "meat_salad_chicken_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ サラダチキン プレーン 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ サラダチキン ハーブ 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ サラダチキン スモーク 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ サラダチキン ゆず胡椒 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 208,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ サラダチキン スライス プレーン 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 138,
+     "origin": "国産（鶏肉）"
+    },
+    {
+     "title": "トップバリュ ベストプライス サラダチキン プレーン 2個組（100g×2）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国産（鶏肉）"
+    }
+   ],
+   "cc_images": [
+    "meat_salad_chicken_1.jpg"
+   ],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "棒棒鶏",
+    "冷やし中華"
+   ]
+  }
+ ]
+}

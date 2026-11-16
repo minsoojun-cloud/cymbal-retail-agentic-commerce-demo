@@ -1,0 +1,3287 @@
+{
+ "category_key": "w_living",
+ "items": [
+  {
+   "base_id": "w_living_kokusan_hand_towel",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "ハンドタオル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手洗い後の手拭き",
+    "キッチン",
+    "持ち歩き",
+    "プチギフト"
+   ],
+   "tax_rate": 10,
+   "description": "国内の産地で織り上げた綿100%のハンドタオルです。パイルがふっくらと立ち上がり、手洗い後の水分をすばやく吸い取ります。洗面所やキッチンの手拭き用、バッグに入れる持ち歩き用にも便利なサイズ。洗うほどになじむやわらかさが魅力です。",
+   "image_brief": "A neat stack of three folded plush cotton hand towels in white, beige and soft blue, tied with a plain blank paper band, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 国産 綿100% ハンドタオル 34×35cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "34×35cm ホワイト",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 国産 綿100% ハンドタオル 34×35cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "34×35cm ベージュ",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 国産 綿100% ハンドタオル 3枚組 34×35cm アソート",
+     "brand": "Cymbal Home",
+     "size": "34×35cm アソート",
+     "price_tax_excluded": 1080,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ハンドタオル 5枚組 34×35cm ミックスカラー",
+     "brand": "Cymbal ベーシック",
+     "size": "34×35cm ミックスカラー",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム製"
+    },
+    {
+     "title": "Cymbal セレクト 国産 先晒し ハンドタオル 34×36cm ライトグレー",
+     "brand": "Cymbal セレクト",
+     "size": "34×36cm ライトグレー",
+     "price_tax_excluded": 680,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_kokusan_hand_towel_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_kokusan_slim_bath_towel",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "スリムバスタオル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "ジム・プール",
+    "一人暮らし",
+    "髪の毛を拭く"
+   ],
+   "tax_rate": 10,
+   "description": "バスタオルとフェイスタオルの中間サイズで、干す場所を取らないスリムバスタオルです。国内で織った綿100%のしっかりしたパイルで吸水性も十分。洗濯物がかさばりがちなご家庭や一人暮らし、ジム用にもおすすめです。",
+   "image_brief": "A rolled and a folded slim cotton bath towel in muted sage green and white, plain blank tag, soft studio lighting on white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 国産 スリムバスタオル 40×110cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "40×110cm ホワイト",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 国産 スリムバスタオル 40×110cm セージグリーン",
+     "brand": "Cymbal Home",
+     "size": "40×110cm セージグリーン",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 国産 スリムバスタオル 2枚組 40×110cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "40×110cm ホワイト",
+     "price_tax_excluded": 1780,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック スリムバスタオル 40×100cm ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "40×100cm ネイビー",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 国産 甘撚り スリムバスタオル 45×120cm アイボリー",
+     "brand": "Cymbal セレクト",
+     "size": "45×120cm アイボリー",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_kokusan_slim_bath_towel_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_gauze_face_towel",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "ガーゼタオル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗顔後",
+    "汗ふき",
+    "赤ちゃんのお風呂",
+    "首に巻く"
+   ],
+   "tax_rate": 10,
+   "description": "表はガーゼ、裏はパイルのリバーシブル仕立てのフェイスタオルです。ガーゼ面はさらりと軽く、肌あたりがやさしいので洗顔後やお子さまの汗ふきにも。乾きが早く、部屋干しが多い季節にも扱いやすい一枚です。",
+   "image_brief": "Two folded gauze-and-pile face towels in pale pink and natural cream showing the crinkled gauze texture, blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ガーゼ×パイル フェイスタオル 34×75cm ナチュラル",
+     "brand": "Cymbal Home",
+     "size": "34×75cm ナチュラル",
+     "price_tax_excluded": 598,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ガーゼ×パイル フェイスタオル 34×75cm ペールピンク",
+     "brand": "Cymbal Home",
+     "size": "34×75cm ペールピンク",
+     "price_tax_excluded": 598,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 6重ガーゼ フェイスタオル 34×80cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "34×80cm ホワイト",
+     "price_tax_excluded": 880,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ガーゼフェイスタオル 2枚組 33×80cm アイボリー",
+     "brand": "Cymbal ベーシック",
+     "size": "33×80cm アイボリー",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン ガーゼタオル 34×80cm 生成り",
+     "brand": "Cymbal オーガニック",
+     "size": "34×80cm 生成り",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_gauze_face_towel_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_hair_dry_towel",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "ヘアドライタオル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "ドライヤー時短",
+    "ヘアケア",
+    "プール"
+   ],
+   "tax_rate": 10,
+   "description": "マイクロファイバーで髪の水分をぐんぐん吸い取るヘアドライタオルです。頭に巻いてボタンで留めるキャップタイプと、長い髪をまとめやすいロングタイプをご用意。ドライヤーの時間を短くしたい方や、お子さまのお風呂上がりにも。",
+   "image_brief": "A coral-colored microfiber hair turban towel with a button loop shown flat next to a rolled grey one, plain blank card insert, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ふわりラボ 吸水速乾 ヘアドライキャップ フリーサイズ コーラル",
+     "brand": "ふわりラボ",
+     "size": "フリーサイズ コーラル",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ふわりラボ 吸水速乾 ヘアドライキャップ フリーサイズ グレー",
+     "brand": "ふわりラボ",
+     "size": "フリーサイズ グレー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "ふわりラボ 吸水速乾 ヘアドライキャップ キッズ 子ども用 ミント",
+     "brand": "ふわりラボ",
+     "size": "子ども用 ミント",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック マイクロファイバー ヘアタオル 30×75cm ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "30×75cm ホワイト",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Beauty ロングヘア用 ヘアドライタオル 40×100cm ベージュ",
+     "brand": "Cymbal Beauty",
+     "size": "40×100cm ベージュ",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_hair_dry_towel_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ポリエステル・ナイロン"
+   }
+  },
+  {
+   "base_id": "w_living_awase_blanket",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "合わせ毛布"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寝具",
+    "寝冷え対策",
+    "来客用",
+    "衣替え"
+   ],
+   "tax_rate": 10,
+   "description": "なめらかなマイクロファイバー生地を2枚重ねた合わせ毛布です。厚みがあって暖かさをしっかりキープし、自宅の洗濯機で丸洗いできるのでお手入れも簡単。冬本番の寝冷え対策に、掛け布団の内側や上に重ねてお使いください。",
+   "image_brief": "A thick two-ply microfiber blanket folded into a neat square in warm brown with a cream reverse side visible, clear zip bag with blank insert card, studio packshot.",
+   "labels": [
+    "洗濯機で洗える"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗える 2枚合わせ毛布 シングル 140×200cm ブラウン",
+     "brand": "Cymbal Home",
+     "size": "シングル 140×200cm ブラウン",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗える 2枚合わせ毛布 シングル 140×200cm グレー",
+     "brand": "Cymbal Home",
+     "size": "シングル 140×200cm グレー",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗える 2枚合わせ毛布 セミダブル 160×200cm ブラウン",
+     "brand": "Cymbal Home",
+     "size": "セミダブル 160×200cm ブラウン",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗える 2枚合わせ毛布 ダブル 180×200cm ネイビー",
+     "brand": "Cymbal Home",
+     "size": "ダブル 180×200cm ネイビー",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック マイクロファイバー毛布 1枚もの シングル 140×200cm ベージュ",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル 140×200cm ベージュ",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 蓄熱わた入り 3層毛布 シングル 140×200cm チャコール",
+     "brand": "Cymbal セレクト",
+     "size": "シングル 140×200cm チャコール",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_awase_blanket_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ポリエステル100%"
+   }
+  },
+  {
+   "base_id": "w_living_warm_shiki_pad",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "敷きパッド"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寝具",
+    "ベッドメイク",
+    "布団の冷え対策"
+   ],
+   "tax_rate": 10,
+   "description": "肌ざわりのよいフランネル生地の敷きパッドです。四隅のゴムでマットレスや敷き布団にしっかり固定でき、寝返りをしてもずれにくい仕様。ベッドに入った瞬間のひんやり感をやわらげ、冬の眠りを快適にします。丸洗いOK。",
+   "image_brief": "A folded plush flannel mattress pad in light grey with elastic corner bands visible, packed in a clear bag with blank card, studio packshot on white.",
+   "labels": [
+    "洗濯機で洗える"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home あったか フランネル敷きパッド シングル 100×205cm グレー",
+     "brand": "Cymbal Home",
+     "size": "シングル 100×205cm グレー",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home あったか フランネル敷きパッド セミダブル 120×205cm グレー",
+     "brand": "Cymbal Home",
+     "size": "セミダブル 120×205cm グレー",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home あったか フランネル敷きパッド ダブル 140×205cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "ダブル 140×205cm ベージュ",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 吸湿発熱 ボア敷きパッド シングル 100×205cm アイボリー",
+     "brand": "Cymbal セレクト",
+     "size": "シングル 100×205cm アイボリー",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック マイクロファイバー敷きパッド シングル 100×200cm ブラウン",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル 100×200cm ブラウン",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_warm_shiki_pad_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ポリエステル100%"
+   }
+  },
+  {
+   "base_id": "w_living_cotton_shiki_pad",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "敷きパッド"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ベッドメイク",
+    "寝汗対策",
+    "季節の変わり目"
+   ],
+   "tax_rate": 10,
+   "description": "表面に綿100%のパイル生地を使った、オールシーズン使いやすい敷きパッドです。汗をよく吸ってさらりとした寝心地が続き、ご家庭の洗濯機で洗えて乾きも早め。寝汗が気になる方や、季節の変わり目のシーツ代わりにもどうぞ。",
+   "image_brief": "A folded white cotton terry-surface bed pad with quilted stitch pattern and corner elastic, blank paper band, studio packshot.",
+   "labels": [
+    "洗濯機で洗える"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 綿100% パイル敷きパッド シングル 100×205cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "シングル 100×205cm ホワイト",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% パイル敷きパッド セミダブル 120×205cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "セミダブル 120×205cm ホワイト",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% パイル敷きパッド ダブル 140×205cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ダブル 140×205cm ホワイト",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン 敷きパッド シングル 100×205cm 生成り",
+     "brand": "Cymbal オーガニック",
+     "size": "シングル 100×205cm 生成り",
+     "price_tax_excluded": 3980,
+     "origin": "インド製"
+    },
+    {
+     "title": "Cymbal ベーシック 綿混 敷きパッド シングル 100×200cm ライトブルー",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル 100×200cm ライトブルー",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_cotton_shiki_pad_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "表地 綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_kakebuton_cover",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "掛け布団カバー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "寝具の衣替え",
+    "布団の汚れ防止",
+    "来客用"
+   ],
+   "tax_rate": 10,
+   "description": "ファスナーで出し入れしやすく、内側のひもで布団のずれを防ぐ掛け布団カバーです。綿100%のなめらかな平織りで、肌にふれても心地よい質感。落ち着いた無地カラーなので、どんなお部屋にも合わせやすく、まとめ買いの替え用にも最適です。",
+   "image_brief": "A neatly folded plain cotton duvet cover in dusty blue showing a side zipper and inner tie strings, packed with a blank cardboard insert, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 綿100% 掛け布団カバー シングル 150×210cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "シングル 150×210cm ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% 掛け布団カバー シングル 150×210cm ダスティブルー",
+     "brand": "Cymbal Home",
+     "size": "シングル 150×210cm ダスティブルー",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% 掛け布団カバー セミダブル 170×210cm グレー",
+     "brand": "Cymbal Home",
+     "size": "セミダブル 170×210cm グレー",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% 掛け布団カバー ダブル 190×210cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "ダブル 190×210cm ベージュ",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ポリエステル混 掛け布団カバー シングル 150×210cm ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル 150×210cm ネイビー",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ガーゼ 掛け布団カバー シングル 150×210cm ナチュラル",
+     "brand": "Cymbal セレクト",
+     "size": "シングル 150×210cm ナチュラル",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_kakebuton_cover_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_box_sheet",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "ボックスシーツ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ベッドメイク",
+    "マットレス保護",
+    "替えシーツ"
+   ],
+   "tax_rate": 10,
+   "description": "マットレスにすっぽりかぶせられる全周ゴムのボックスシーツです。綿100%のさらっとした生地で、洗濯後もシワになりにくい加工を施しています。マチの深さ30cmで厚めのマットレスにも対応し、ベッドメイクがぐっとラクになります。",
+   "image_brief": "A folded fitted cotton sheet in light grey with the elastic edge peeking out, plain blank paper band, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 綿100% ボックスシーツ シングル 100×200×30cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "シングル 100×200×30cm ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ボックスシーツ セミダブル 120×200×30cm ライトグレー",
+     "brand": "Cymbal Home",
+     "size": "セミダブル 120×200×30cm ライトグレー",
+     "price_tax_excluded": 2280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ボックスシーツ ダブル 140×200×30cm ライトグレー",
+     "brand": "Cymbal Home",
+     "size": "ダブル 140×200×30cm ライトグレー",
+     "price_tax_excluded": 2680,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ボックスシーツ クイーン 160×200×30cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "クイーン 160×200×30cm ベージュ",
+     "price_tax_excluded": 3280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ボックスシーツ シングル 100×200×25cm ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル 100×200×25cm ネイビー",
+     "price_tax_excluded": 1180,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_box_sheet_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_pipe_pillow",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "枕"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "快眠",
+    "寝具の買い替え",
+    "来客用"
+   ],
+   "tax_rate": 10,
+   "description": "中材のパイプを出し入れして高さを自分好みに調整できる枕です。通気性がよく蒸れにくいので、寝汗をかきやすい方にも。中材ごと丸洗いでき、清潔に保ちやすいのもうれしいポイント。仰向けでも横向きでも頭が安定する形状です。",
+   "image_brief": "A rectangular white pillow with a visible zipper side pocket and a small pile of soft pipe filling beside it, blank tag, studio packshot.",
+   "labels": [
+    "丸洗いOK"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 高さ調整 パイプまくら 43×63cm ふつう",
+     "brand": "Cymbal Home",
+     "size": "43×63cm ふつう",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 高さ調整 パイプまくら 43×63cm 高め",
+     "brand": "Cymbal Home",
+     "size": "43×63cm 高め",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 高さ調整 ソフトパイプまくら 35×50cm 低め",
+     "brand": "Cymbal Home",
+     "size": "35×50cm 低め",
+     "price_tax_excluded": 1680,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト ポケット式 高さ調整まくら 50×70cm",
+     "brand": "Cymbal セレクト",
+     "size": "50×70cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ポリエステルわた まくら 43×63cm",
+     "brand": "Cymbal ベーシック",
+     "size": "43×63cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_pipe_pillow_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_pillow_cover",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "枕カバー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "寝具の洗い替え",
+    "ベッドメイク",
+    "肌ケア"
+   ],
+   "tax_rate": 10,
+   "description": "封筒式で枕を入れやすい、綿100%の枕カバーです。毎日肌にふれる部分だからこそ、洗い替え用に複数枚あると安心。タオル地・ガーゼなど素材もお選びいただけます。主要な枕サイズ43×63cmに対応しています。",
+   "image_brief": "Two folded envelope-style pillowcases, one white terry and one beige gauze, stacked with a blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 綿100% 枕カバー 43×63cm用 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "43×63cm用 ホワイト",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% 枕カバー 43×63cm用 グレー",
+     "brand": "Cymbal Home",
+     "size": "43×63cm用 グレー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home タオル地 枕カバー 43×63cm用 ベージュ",
+     "brand": "Cymbal Home",
+     "size": "43×63cm用 ベージュ",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ガーゼ 枕カバー 43×63cm用 ナチュラル",
+     "brand": "Cymbal Home",
+     "size": "43×63cm用 ナチュラル",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 枕カバー 2枚組 43×63cm用 ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "43×63cm用 ネイビー",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% 枕カバー 50×70cm用 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "50×70cm用 ホワイト",
+     "price_tax_excluded": 880,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_pillow_cover_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_kotatsu_futon",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "こたつ布団"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "こたつ",
+    "冬の団らん",
+    "在宅ワーク",
+    "年末年始"
+   ],
+   "tax_rate": 10,
+   "description": "ふっくらとした中わたで熱を逃がしにくいこたつ布団です。表地はなめらかなフランネルで、足元までぬくもりに包まれます。正方形・長方形の主要サイズをご用意。洗濯機で丸洗いできるので、食べこぼしが気になるご家庭にも安心です。",
+   "image_brief": "A thick quilted kotatsu comforter in warm beige with subtle check pattern, folded and tied with a fabric band, plain blank tag, studio packshot.",
+   "labels": [
+    "洗濯機で洗える"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗える こたつ掛け布団 正方形 190×190cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "190×190cm ベージュ",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗える こたつ掛け布団 長方形 190×240cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "190×240cm ベージュ",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗える こたつ掛け布団 長方形 205×285cm ブラウン",
+     "brand": "Cymbal Home",
+     "size": "205×285cm ブラウン",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 薄掛け こたつ布団 正方形 185×185cm グレー",
+     "brand": "Cymbal ベーシック",
+     "size": "185×185cm グレー",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 省スペース 薄掛けこたつ布団 長方形 190×240cm ネイビー",
+     "brand": "Cymbal セレクト",
+     "size": "190×240cm ネイビー",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_kotatsu_futon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_kotatsu_rug",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "こたつ敷き布団・ラグ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "こたつ",
+    "床の冷え対策",
+    "リビング"
+   ],
+   "tax_rate": 10,
+   "description": "こたつの下に敷いて床からの冷えを防ぐ、厚手の敷きラグです。裏面はすべり止め加工でずれにくく、ホットカーペットとも併用できます。座ったときのクッション性もあり、冬のリビングでくつろぐ時間がより快適になります。",
+   "image_brief": "A thick rolled rectangular rug in heather grey with a non-slip dotted back visible at the edge, blank paper band, studio packshot.",
+   "labels": [
+    "ホットカーペット対応"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home こたつ敷きラグ 正方形 185×185cm グレー",
+     "brand": "Cymbal Home",
+     "size": "185×185cm グレー",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home こたつ敷きラグ 長方形 190×240cm グレー",
+     "brand": "Cymbal Home",
+     "size": "190×240cm グレー",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home こたつ敷きラグ 長方形 190×240cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "190×240cm ベージュ",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 極厚 ふかふか こたつ敷き布団 200×250cm ブラウン",
+     "brand": "Cymbal セレクト",
+     "size": "200×250cm ブラウン",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック フランネル ラグ 130×185cm ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "130×185cm ネイビー",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_kotatsu_rug_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_wearable_blanket",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "タオル・寝具",
+    "着る毛布"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "在宅ワーク",
+    "ソファでくつろぐ",
+    "冬の部屋着",
+    "ギフト"
+   ],
+   "tax_rate": 10,
+   "description": "袖と前ボタンが付いた、羽織るタイプの着る毛布です。肩から足元まですっぽり包み込み、ソファでの読書やテレワーク中もぬくぬく。両手が使えるので家事の合間にも便利です。寒がりなご家族へのギフトにも喜ばれます。",
+   "image_brief": "A soft fluffy wearable blanket with sleeves and front buttons in oatmeal color, displayed folded with one sleeve showing, blank tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ふわりラボ 着る毛布 ロング フリー 着丈110cm オートミール",
+     "brand": "ふわりラボ",
+     "size": "フリー 着丈110cm オートミール",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "ふわりラボ 着る毛布 ロング フリー 着丈110cm グレー",
+     "brand": "ふわりラボ",
+     "size": "フリー 着丈110cm グレー",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "ふわりラボ 着る毛布 ショート フリー 着丈85cm ピンク",
+     "brand": "ふわりラボ",
+     "size": "フリー 着丈85cm ピンク",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "ふわりラボ 着る毛布 キッズ 120cm ミント",
+     "brand": "ふわりラボ",
+     "size": "120cm ミント",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック フリース ポンチョブランケット フリー ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "フリー ネイビー",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_wearable_blanket_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_fleece_roomwear",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ルームウェア",
+    "ルームウェア上下"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "部屋着",
+    "パジャマ",
+    "在宅ワーク",
+    "冬のくつろぎ"
+   ],
+   "tax_rate": 10,
+   "description": "軽くてあたたかいマイクロフリースのルームウェア上下セットです。ゆったりしたシルエットで締めつけが少なく、くつろぎタイムにぴったり。静電気を抑える加工入りで、着脱時のパチパチも気になりにくい。ご家族おそろいでも楽しめます。",
+   "image_brief": "A folded two-piece fleece loungewear set, top and pants in soft heather grey, stacked with a plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home マイクロフリース ルームウェア上下 レディース M グレー",
+     "brand": "Cymbal Home",
+     "size": "M グレー",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home マイクロフリース ルームウェア上下 レディース L ピンクベージュ",
+     "brand": "Cymbal Home",
+     "size": "L ピンクベージュ",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home マイクロフリース ルームウェア上下 メンズ L チャコール",
+     "brand": "Cymbal Home",
+     "size": "L チャコール",
+     "price_tax_excluded": 3280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home マイクロフリース ルームウェア上下 メンズ LL ネイビー",
+     "brand": "Cymbal Home",
+     "size": "LL ネイビー",
+     "price_tax_excluded": 3280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home マイクロフリース ルームウェア上下 キッズ 130cm ミント",
+     "brand": "Cymbal Home",
+     "size": "130cm ミント",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_fleece_roomwear_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "ポリエステル100%"
+   }
+  },
+  {
+   "base_id": "w_living_cotton_pajama",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ルームウェア",
+    "パジャマ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パジャマ",
+    "快眠",
+    "入院準備",
+    "ギフト"
+   ],
+   "tax_rate": 10,
+   "description": "肌ざわりのやさしい綿100%のダブルガーゼパジャマです。空気を含むふんわり生地で、冬は暖かく季節の変わり目も心地よく着られます。前開きの長袖シャツとウエストゴムのパンツで、楽に着替えられるのも魅力。",
+   "image_brief": "A folded double-gauze cotton pajama set in navy with white piping, button-front shirt visible, tied with a plain fabric ribbon and blank tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 綿100% ダブルガーゼ パジャマ レディース M ネイビー",
+     "brand": "Cymbal Home",
+     "size": "M ネイビー",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ダブルガーゼ パジャマ レディース L ボルドー",
+     "brand": "Cymbal Home",
+     "size": "L ボルドー",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ダブルガーゼ パジャマ メンズ L グレー",
+     "brand": "Cymbal Home",
+     "size": "L グレー",
+     "price_tax_excluded": 4280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 綿100% ダブルガーゼ パジャマ メンズ LL ネイビー",
+     "brand": "Cymbal Home",
+     "size": "LL ネイビー",
+     "price_tax_excluded": 4280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 日本製 ガーゼパジャマ ユニセックス M ナチュラル",
+     "brand": "Cymbal セレクト",
+     "size": "M ナチュラル",
+     "price_tax_excluded": 6980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_cotton_pajama_p.jpg"
+   ],
+   "cc_images": [],
+   "attributes": {
+    "material": "綿100%"
+   }
+  },
+  {
+   "base_id": "w_living_toilet_slippers",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "日用雑貨",
+    "トイレスリッパ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレ",
+    "来客用",
+    "衛生対策"
+   ],
+   "tax_rate": 10,
+   "description": "水はね汚れを拭き取りやすいPVC素材のトイレスリッパです。軽くて足を入れやすく、つま先が上がった形状でつまずきにくいのも安心。お手持ちのトイレマットとコーディネートしやすいシンプルなカラーをそろえました。",
+   "image_brief": "A pair of glossy wipe-clean toilet slippers in pale grey with a slightly upturned toe, placed side by side, blank hang tag, studio packshot.",
+   "labels": [
+    "抗菌",
+    "水拭きOK"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 拭ける トイレスリッパ フリー(25cm) ライトグレー",
+     "brand": "Cymbal Home",
+     "size": "フリー(25cm) ライトグレー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 拭ける トイレスリッパ フリー(25cm) ベージュ",
+     "brand": "Cymbal Home",
+     "size": "フリー(25cm) ベージュ",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 拭ける トイレスリッパ フリー(25cm) ネイビー",
+     "brand": "Cymbal Home",
+     "size": "フリー(25cm) ネイビー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック トイレスリッパ フリー(24cm) ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "フリー(24cm) ホワイト",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 抗菌 トイレスリッパ フリー(26cm) ダークグレー",
+     "brand": "Cymbal セレクト",
+     "size": "フリー(26cm) ダークグレー",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_toilet_slippers_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_steam_humidifier",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "加湿器"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "乾燥対策",
+    "寝室",
+    "リビング",
+    "冬の暮らし"
+   ],
+   "tax_rate": 10,
+   "description": "水を沸騰させて加湿するスチーム式の加湿器です。湯気がしっかり立ちのぼり、乾燥しやすい冬の寝室やリビングをうるおします。タンクはフタが大きく開いて洗いやすく、お手入れも簡単。チャイルドロックや空だき防止機能付き。",
+   "image_brief": "A compact white steam humidifier with a pot-like rounded body and a wide lid, soft vapor rising from the top, standing beside its plain blank box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Aerolume スチーム式加湿器 2.2L 木造4畳/プレハブ7畳 ホワイト",
+     "brand": "Aerolume",
+     "size": "2.2L 木造4畳/プレハブ7畳 ホワイト",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Aerolume スチーム式加湿器 3.0L 木造6畳/プレハブ10畳 ホワイト",
+     "brand": "Aerolume",
+     "size": "3.0L 木造6畳/プレハブ10畳 ホワイト",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Aerolume スチーム式加湿器 3.0L 木造6畳/プレハブ10畳 ベージュ",
+     "brand": "Aerolume",
+     "size": "3.0L 木造6畳/プレハブ10畳 ベージュ",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ポット型 スチーム加湿器 4.0L 木造8畳/プレハブ13畳",
+     "brand": "Cymbal セレクト",
+     "size": "4.0L 木造8畳/プレハブ13畳",
+     "price_tax_excluded": 14800,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 卓上 スチーム加湿器 0.8L 卓上 ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "0.8L 卓上 ホワイト",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_steam_humidifier_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_usb_desk_humidifier",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "卓上加湿器"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "デスクワーク",
+    "ベッドサイド",
+    "車内",
+    "乾燥対策"
+   ],
+   "tax_rate": 10,
+   "description": "デスクやベッドサイドに置けるコンパクトなUSB給電の卓上加湿器です。ペットボトルを差して使うタイプと、小型タンク式をご用意。やわらかなミストと控えめなライト付きで、オフィスや車内の乾燥対策にも重宝します。",
+   "image_brief": "A small cylindrical USB desk humidifier in matte white emitting a fine mist, with a coiled USB cable beside a blank white box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Aerolume USB 卓上加湿器 300ml ホワイト",
+     "brand": "Aerolume",
+     "size": "300ml ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Aerolume USB 卓上加湿器 300ml ピンク",
+     "brand": "Aerolume",
+     "size": "300ml ピンク",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Aerolume USB 卓上加湿器 ライト付き 500ml ウッド調",
+     "brand": "Aerolume",
+     "size": "500ml ウッド調",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ペットボトル式 加湿器 ペットボトル用 ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "ペットボトル用 ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 充電式 コードレス卓上加湿器 250ml グレー",
+     "brand": "Cymbal Home",
+     "size": "250ml グレー",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_usb_desk_humidifier_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_electric_blanket",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "電気毛布"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寝具",
+    "足元の冷え",
+    "在宅ワーク",
+    "節電暖房"
+   ],
+   "tax_rate": 10,
+   "description": "スイッチひとつでじんわり暖まる電気毛布です。温度調節はダイヤル式でわかりやすく、ダニ対策モードも搭載。コントローラーを外せば洗濯機で洗えます。電気代を抑えて足元や布団の中を暖めたい方に人気の冬の定番です。",
+   "image_brief": "A folded fleece electric blanket in beige with a small wired dial controller placed on top, plain blank box behind, studio packshot.",
+   "labels": [
+    "丸洗いOK"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 電気敷き毛布 シングル 140×80cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "シングル 140×80cm ベージュ",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 電気掛け敷き毛布 シングル 188×130cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "シングル 188×130cm ベージュ",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 電気掛け敷き毛布 シングル 188×130cm グレー",
+     "brand": "Cymbal Home",
+     "size": "シングル 188×130cm グレー",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ふんわり フランネル電気掛け敷き毛布 セミダブル 188×160cm ブラウン",
+     "brand": "Cymbal セレクト",
+     "size": "セミダブル 188×160cm ブラウン",
+     "price_tax_excluded": 7980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 電気ひざ掛け毛布 80×55cm チェック",
+     "brand": "Cymbal ベーシック",
+     "size": "80×55cm チェック",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_electric_blanket_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_hot_carpet",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "ホットカーペット"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "リビング暖房",
+    "こたつ",
+    "床の冷え対策"
+   ],
+   "tax_rate": 10,
+   "description": "床に敷くだけでお部屋の足元を暖めるホットカーペット本体です。暖める面を全面・半面で切り替えられ、使う場所だけ効率よく暖房できます。お好みのラグやカバーを上に重ねて、こたつやソファまわりで使うのもおすすめです。",
+   "image_brief": "A folded electric heated carpet base in brown with a small rectangular controller box attached at the corner, blank cardboard box behind, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ホットカーペット本体 1畳 88×176cm",
+     "brand": "Cymbal Home",
+     "size": "88×176cm",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ホットカーペット本体 2畳 176×176cm",
+     "brand": "Cymbal Home",
+     "size": "176×176cm",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ホットカーペット本体 3畳 195×235cm",
+     "brand": "Cymbal Home",
+     "size": "195×235cm",
+     "price_tax_excluded": 8980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ホットマット ひとり用 60×100cm",
+     "brand": "Cymbal ベーシック",
+     "size": "60×100cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ダニ対策 ホットカーペット本体 3畳 195×235cm",
+     "brand": "Cymbal セレクト",
+     "size": "195×235cm",
+     "price_tax_excluded": 12800,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_hot_carpet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_yutanpo",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "湯たんぽ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寝具",
+    "足元の冷え",
+    "節電",
+    "防災"
+   ],
+   "tax_rate": 10,
+   "description": "お湯を入れるだけで電気を使わずに一晩じんわり暖かい湯たんぽです。専用カバー付きで、布団の足元に入れておくと寝つきやすいぬくもりに。電子レンジで温めるジェルタイプや、樹脂製の軽いタイプもご用意しました。",
+   "image_brief": "A ribbed plastic hot water bottle wrapped in a fluffy knit cover in cream, next to a plain blank box, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 湯たんぽ カバー付き 2.0L アイボリー",
+     "brand": "Cymbal Home",
+     "size": "2.0L アイボリー",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 湯たんぽ カバー付き 2.6L ブラウン",
+     "brand": "Cymbal Home",
+     "size": "2.6L ブラウン",
+     "price_tax_excluded": 1780,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home トタン 湯たんぽ 袋付き 2.5L シルバー",
+     "brand": "Cymbal Home",
+     "size": "2.5L シルバー",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "ふわりラボ レンジで温める ジェル湯たんぽ ミニ ピンク",
+     "brand": "ふわりラボ",
+     "size": "ミニ ピンク",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ソフト湯たんぽ ニットカバー付き 1.8L グレー",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L グレー",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_yutanpo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_rechargeable_hand_warmer",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節家電",
+    "充電式カイロ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "通勤・通学",
+    "スポーツ観戦",
+    "アウトドア",
+    "受験"
+   ],
+   "tax_rate": 10,
+   "description": "繰り返し使える充電式のハンドウォーマーです。温度は3段階で切り替えでき、ポケットに入るコンパクトサイズ。スマートフォンに給電できるモバイルバッテリー機能付きタイプもあり、通勤通学や冬のアウトドア観戦に重宝します。",
+   "image_brief": "A small pebble-shaped rechargeable hand warmer in matte white with a short USB-C cable coiled beside it and a blank white box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 充電式 ハンドウォーマー 5000mAh ホワイト",
+     "brand": "Cymbal Home",
+     "size": "5000mAh ホワイト",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 充電式 ハンドウォーマー 5000mAh ネイビー",
+     "brand": "Cymbal Home",
+     "size": "5000mAh ネイビー",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 充電式 ハンドウォーマー 2個セット 分割式 ベージュ",
+     "brand": "Cymbal Home",
+     "size": "分割式 ベージュ",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 充電式 ミニカイロ 3000mAh グレー",
+     "brand": "Cymbal ベーシック",
+     "size": "3000mAh グレー",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 充電式 ハンドウォーマー 大容量 10000mAh ブラック",
+     "brand": "Cymbal セレクト",
+     "size": "10000mAh ブラック",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_rechargeable_hand_warmer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_lid_trash_bin",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "日用雑貨",
+    "ゴミ箱"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "キッチン",
+    "リビング",
+    "分別ごみ",
+    "子ども部屋"
+   ],
+   "tax_rate": 10,
+   "description": "ふた付きでニオイや中身が見えにくいプッシュ式のゴミ箱です。軽く押すだけでふたが開き、片手でもさっと捨てられます。ごみ袋を挟んで固定できる構造で、袋が見えずにすっきり。キッチンからリビング、子ども部屋まで使えます。",
+   "image_brief": "A slim rectangular push-lid trash bin in matte white with a swinging top flap, plain blank sticker, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ふた付き プッシュ式ゴミ箱 20L ホワイト",
+     "brand": "Cymbal Home",
+     "size": "20L ホワイト",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ふた付き プッシュ式ゴミ箱 20L グレー",
+     "brand": "Cymbal Home",
+     "size": "20L グレー",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ふた付き プッシュ式ゴミ箱 45L ホワイト",
+     "brand": "Cymbal Home",
+     "size": "45L ホワイト",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ふた付き ゴミ箱 10L ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "10L ホワイト",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス ペダル式ゴミ箱 30L シルバー",
+     "brand": "Cymbal セレクト",
+     "size": "30L シルバー",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ペダル式 ゴミ箱 45L ブラック",
+     "brand": "Cymbal Home",
+     "size": "45L ブラック",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_lid_trash_bin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_slim_bunbetsu_bin",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "日用雑貨",
+    "分別ゴミ箱"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "キッチン",
+    "資源ごみ",
+    "ペットボトル分別"
+   ],
+   "tax_rate": 10,
+   "description": "幅が狭いすき間にも置けるスリム設計の分別ゴミ箱です。キャスター付きで掃除の際も動かしやすく、上下2段や横並びタイプで缶・ビン・ペットボトルの分別がスムーズに。資源ごみの日まで、キッチンをすっきり保てます。",
+   "image_brief": "A tall slim two-tier sorting trash bin in white with two pull-out compartments and small casters, blank plain label area, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home スリム 分別ゴミ箱 2段 幅20cm 計30L ホワイト",
+     "brand": "Cymbal Home",
+     "size": "幅20cm 計30L ホワイト",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home スリム 分別ゴミ箱 2段 幅20cm 計30L グレー",
+     "brand": "Cymbal Home",
+     "size": "幅20cm 計30L グレー",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 横型 分別ゴミ箱 2分別 幅40cm 計40L ホワイト",
+     "brand": "Cymbal Home",
+     "size": "幅40cm 計40L ホワイト",
+     "price_tax_excluded": 4980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 分別ダストボックス 15L×2個 ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "15L×2個 ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト キャスター付き 3分別ゴミ箱 計60L ダークグレー",
+     "brand": "Cymbal セレクト",
+     "size": "計60L ダークグレー",
+     "price_tax_excluded": 7980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_slim_bunbetsu_bin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_lid_container_box",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "収納・整理",
+    "ふた付き収納ボックス"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "衣替え",
+    "押入れ収納",
+    "防災用品の保管",
+    "おもちゃ収納"
+   ],
+   "tax_rate": 10,
+   "description": "積み重ねて使えるふた付きのプラスチック収納ボックスです。中身が見える半透明タイプで、季節ものの衣類やおもちゃ、防災用品の保管にも便利。押入れ・クローゼットの奥行きに合わせた規格サイズで、すき間なく収まります。",
+   "image_brief": "Two stacked translucent plastic storage boxes with snap-on white lids, folded sweaters faintly visible inside, plain blank label slot, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ふた付き 収納ボックス 半透明 幅39×奥行54×高さ31cm",
+     "brand": "Cymbal Home",
+     "size": "幅39×奥行54×高さ31cm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ふた付き 収納ボックス 半透明 押入れ用 幅39×奥行74×高さ31cm",
+     "brand": "Cymbal Home",
+     "size": "幅39×奥行74×高さ31cm",
+     "price_tax_excluded": 1680,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home ふた付き 収納ボックス 浅型 幅39×奥行54×高さ18cm",
+     "brand": "Cymbal Home",
+     "size": "幅39×奥行54×高さ18cm",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ふた付き コンテナボックス 幅33×奥行45×高さ25cm グレー",
+     "brand": "Cymbal ベーシック",
+     "size": "幅33×奥行45×高さ25cm グレー",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 頑丈 ふた付きコンテナ 50L カーキ",
+     "brand": "Cymbal セレクト",
+     "size": "50L カーキ",
+     "price_tax_excluded": 2980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_lid_container_box_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_futon_storage_bag",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "収納・整理",
+    "布団収納袋"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    3,
+    4
+   ],
+   "dishes": [
+    "衣替え",
+    "来客用布団の保管",
+    "押入れ整理"
+   ],
+   "tax_rate": 10,
+   "description": "かさばる布団や毛布をまとめて保管できる収納袋です。不織布タイプは通気性がよく、窓付きで中身をひと目で確認できます。圧縮タイプは掃除機で空気を抜いて体積をぐっと小さくでき、来客用布団や衣替えの収納に活躍します。",
+   "image_brief": "A large rectangular non-woven storage bag in light grey with a clear window panel and zip, a folded duvet visible inside, blank tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 不織布 布団収納袋 窓付き シングル掛け布団用",
+     "brand": "Cymbal Home",
+     "size": "シングル掛け布団用",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 不織布 布団収納袋 窓付き 敷き布団用",
+     "brand": "Cymbal Home",
+     "size": "敷き布団用",
+     "price_tax_excluded": 1180,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ふとん圧縮袋 2枚組 100×110cm",
+     "brand": "Cymbal Home",
+     "size": "100×110cm",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 布団圧縮袋 バルブ式 100×110cm 1枚",
+     "brand": "Cymbal ベーシック",
+     "size": "100×110cm 1枚",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 撥水 マチ付き布団収納袋 羽毛布団用 ベージュ",
+     "brand": "Cymbal セレクト",
+     "size": "羽毛布団用 ベージュ",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_futon_storage_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_pinch_hanger",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ランドリー用品",
+    "ピンチハンガー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗濯",
+    "部屋干し",
+    "靴下・下着干し"
+   ],
+   "tax_rate": 10,
+   "description": "靴下や下着、タオルなど小物をまとめて干せる角型のピンチハンガーです。ピンチは外れにくいロック付きで、強風時も安心。折りたたんでコンパクトに収納でき、屋外・室内どちらでも使える定番の洗濯用品です。",
+   "image_brief": "A square plastic pinch hanger with rows of clothespins in white and light grey, hook at the top, plain blank card attached, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 角型 ピンチハンガー ピンチ32個 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ピンチ32個 ホワイト",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 角型 ピンチハンガー ピンチ52個 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "ピンチ52個 ホワイト",
+     "price_tax_excluded": 1680,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス ピンチハンガー ピンチ40個",
+     "brand": "Cymbal セレクト",
+     "size": "ピンチ40個",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 丸型 ピンチハンガー ピンチ20個 ブルー",
+     "brand": "Cymbal ベーシック",
+     "size": "ピンチ20個 ブルー",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 折りたたみ ピンチハンガー ピンチ24個 グレー",
+     "brand": "Cymbal Home",
+     "size": "ピンチ24個 グレー",
+     "price_tax_excluded": 798,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_pinch_hanger_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_laundry_net",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ランドリー用品",
+    "洗濯ネット"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗濯",
+    "おしゃれ着洗い",
+    "毛布の洗濯"
+   ],
+   "tax_rate": 10,
+   "description": "おしゃれ着やデリケートな衣類を型崩れや摩擦から守る洗濯ネットです。目の細かいタイプはレース下着やニットに、粗めのタイプはシャツやタオルの絡み防止に。ファスナーカバー付きで、洗濯中にネットが開きにくい仕様です。",
+   "image_brief": "A set of white mesh laundry bags in assorted sizes, flat and cylindrical, with zippers, fanned out on white with a blank card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗濯ネット 細目 40×50cm 1枚",
+     "brand": "Cymbal Home",
+     "size": "40×50cm 1枚",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗濯ネット 粗目 60×60cm 1枚",
+     "brand": "Cymbal Home",
+     "size": "60×60cm 1枚",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 洗濯ネット 筒型 直径30×40cm",
+     "brand": "Cymbal Home",
+     "size": "直径30×40cm",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ブラジャー用 洗濯ネット ダブル 1個",
+     "brand": "Cymbal Home",
+     "size": "ダブル 1個",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 洗濯ネット 3サイズセット S・M・L 各1枚",
+     "brand": "Cymbal ベーシック",
+     "size": "S・M・L 各1枚",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 大物用 洗濯ネット 90×110cm 毛布用",
+     "brand": "Cymbal セレクト",
+     "size": "90×110cm 毛布用",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_laundry_net_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_indoor_drying_stand",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ランドリー用品",
+    "室内物干し"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "部屋干し",
+    "雨の日の洗濯",
+    "花粉対策"
+   ],
+   "tax_rate": 10,
+   "description": "部屋干しに便利な折りたたみ式の室内物干しスタンドです。ハンガーやピンチハンガーを掛けられるバーが付いて、雨の日や花粉の季節も洗濯物をしっかり干せます。使わないときは薄くたためて、すき間に収納できます。",
+   "image_brief": "A folding white steel indoor clothes drying rack with extendable bars and a few hangers hanging, plain background, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 折りたたみ 室内物干しスタンド X型 幅85cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "幅85cm ホワイト",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 伸縮 室内物干しスタンド 幅最大150cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "幅最大150cm ホワイト",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ウイング型 室内物干し 幅最大140cm ステンレス",
+     "brand": "Cymbal Home",
+     "size": "幅最大140cm ステンレス",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック コンパクト 物干しスタンド 幅60cm ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "幅60cm ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 窓枠つっぱり 室内物干し 幅90〜150cm シルバー",
+     "brand": "Cymbal セレクト",
+     "size": "幅90〜150cm シルバー",
+     "price_tax_excluded": 5980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_indoor_drying_stand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_clothespins",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "ランドリー用品",
+    "洗濯ばさみ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "洗濯物干し",
+    "布団干し",
+    "袋の口留め"
+   ],
+   "tax_rate": 10,
+   "description": "洗濯物をしっかり挟める洗濯ばさみです。紫外線で劣化しにくい素材や、ステンレス製で長持ちするタイプなど用途に合わせて選べます。布団ばさみも揃えて、天気のいい日の布団干しにもどうぞ。",
+   "image_brief": "A pile of plastic clothespins in white and pastel blue next to two large stainless futon clips, blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 洗濯ばさみ 20個入 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "20個入 ホワイト",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home ステンレス 洗濯ばさみ 20個入",
+     "brand": "Cymbal Home",
+     "size": "20個入",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 布団ばさみ 2個入 ブルー",
+     "brand": "Cymbal Home",
+     "size": "2個入 ブルー",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 洗濯ばさみ 大容量 40個入 パステル",
+     "brand": "Cymbal ベーシック",
+     "size": "40個入 パステル",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ステンレス 布団ばさみ 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_clothespins_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_quick_dry_bath_mat",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "バス用品",
+    "布バスマット"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "洗面所",
+    "梅雨の部屋干し"
+   ],
+   "tax_rate": 10,
+   "description": "ふかふかの足ざわりで、足裏の水分をしっかり受け止める布製バスマットです。速乾性のあるマイクロファイバー糸を使い、裏はすべり止め付き。洗濯機で丸洗いできるので、清潔に使い続けられます。浴室の色に合わせやすい無地です。",
+   "image_brief": "A plush rectangular microfiber bath mat in sage green, folded at one corner to show the non-slip back, plain blank tag, studio packshot.",
+   "labels": [
+    "洗濯機で洗える"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 吸水速乾 バスマット 45×65cm セージグリーン",
+     "brand": "Cymbal Home",
+     "size": "45×65cm セージグリーン",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 吸水速乾 バスマット 45×65cm グレー",
+     "brand": "Cymbal Home",
+     "size": "45×65cm グレー",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 吸水速乾 バスマット 大判 50×80cm ベージュ",
+     "brand": "Cymbal Home",
+     "size": "50×80cm ベージュ",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック バスマット 40×60cm ネイビー",
+     "brand": "Cymbal ベーシック",
+     "size": "40×60cm ネイビー",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 綿100% タオル地バスマット 45×70cm ホワイト",
+     "brand": "Cymbal セレクト",
+     "size": "45×70cm ホワイト",
+     "price_tax_excluded": 1680,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_quick_dry_bath_mat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_bath_chair",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "バス用品",
+    "バスチェア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂",
+    "シャワー",
+    "子どものお風呂"
+   ],
+   "tax_rate": 10,
+   "description": "座面が広く安定感のあるバスチェアです。ぬめりにくい抗菌加工で、水はけのよい形状なのでお手入れもラク。立ち座りしやすい高めのタイプや、お子さまに合う低めのタイプなど、ご家族に合わせて選べます。",
+   "image_brief": "A sturdy plastic bath stool in matte white with a wide contoured seat and a center hand slot, studio packshot on white.",
+   "labels": [
+    "抗菌"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 抗菌 バスチェア 高さ30cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "高さ30cm ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 抗菌 バスチェア 高さ30cm グレー",
+     "brand": "Cymbal Home",
+     "size": "高さ30cm グレー",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 抗菌 バスチェア 高め 高さ40cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "高さ40cm ホワイト",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック バスチェア 高さ25cm ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "高さ25cm ホワイト",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ひのき 風呂いす 高さ25cm",
+     "brand": "Cymbal セレクト",
+     "size": "高さ25cm",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_bath_chair_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_wash_basin",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "バス用品",
+    "洗面器・湯おけ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂",
+    "手洗い洗濯",
+    "つけ置き"
+   ],
+   "tax_rate": 10,
+   "description": "手になじむ持ちやすい形の洗面器です。軽くて丈夫な樹脂製はぬめりにくい抗菌タイプで、毎日のバスタイムに。木の香りが楽しめる湯おけもご用意しました。バスチェアと色をそろえると、浴室がすっきり見えます。",
+   "image_brief": "A round plastic wash basin in soft white beside a small natural wooden bath pail, studio packshot on white.",
+   "labels": [
+    "抗菌"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 抗菌 洗面器 直径28cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "直径28cm ホワイト",
+     "price_tax_excluded": 698,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 抗菌 洗面器 直径28cm グレー",
+     "brand": "Cymbal Home",
+     "size": "直径28cm グレー",
+     "price_tax_excluded": 698,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Home 抗菌 手おけ 持ち手付き 直径24cm ホワイト",
+     "brand": "Cymbal Home",
+     "size": "直径24cm ホワイト",
+     "price_tax_excluded": 798,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 洗面器 直径26cm ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "直径26cm ホワイト",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト ひのき 湯おけ 直径24cm",
+     "brand": "Cymbal セレクト",
+     "size": "直径24cm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_wash_basin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_vinyl_umbrella",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "日用雑貨",
+    "ビニール傘"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "雨の日",
+    "通勤・通学",
+    "急な雨"
+   ],
+   "tax_rate": 10,
+   "description": "前が見やすい透明ビニールの長傘です。急な雨にもさっと使えて、グラスファイバー骨で風にも強い仕様。手元はすべりにくい形状です。お子さまの通学用に、反射材付きで見通し窓のある子ども用もご用意しました。",
+   "image_brief": "A closed clear vinyl long umbrella with a white plastic J-handle and a folded open one beside it, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Skyfold 透明 ビニール傘 グラスファイバー骨 60cm",
+     "brand": "Skyfold",
+     "size": "60cm",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Skyfold 透明 ビニール傘 グラスファイバー骨 65cm",
+     "brand": "Skyfold",
+     "size": "65cm",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Skyfold 透明 ビニール傘 ジャンプ式 70cm 大きめ",
+     "brand": "Skyfold",
+     "size": "70cm 大きめ",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Skyfold キッズ 透明窓付き傘 反射材付き 50cm イエロー",
+     "brand": "Skyfold",
+     "size": "50cm イエロー",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Skyfold キッズ 透明窓付き傘 反射材付き 55cm ネイビー",
+     "brand": "Skyfold",
+     "size": "55cm ネイビー",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ビニール傘 60cm",
+     "brand": "Cymbal ベーシック",
+     "size": "60cm",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_vinyl_umbrella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_cooler_eco_bag",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "日用雑貨",
+    "保冷エコバッグ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "まとめ買い",
+    "冷凍食品の持ち帰り",
+    "車での買い物",
+    "レジャー"
+   ],
+   "tax_rate": 10,
+   "description": "レジかごにそのまま掛けて袋詰めできる、保冷機能付きのレジかごバッグです。内側のアルミ層で冷凍食品や生鮮品の温度をキープし、口はファスナーでしっかり閉じられます。まとめ買いの日や、車での買い物にぴったりです。",
+   "image_brief": "A large rectangular insulated shopping basket bag in charcoal with a silver-lined interior and drawstring top, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 保冷 レジかごバッグ 大容量 約35L チャコール",
+     "brand": "Cymbal",
+     "size": "大容量 約35L チャコール",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 保冷 レジかごバッグ 大容量 約35L ネイビー",
+     "brand": "Cymbal",
+     "size": "大容量 約35L ネイビー",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 保冷 エコバッグ ショルダー 約15L ベージュ",
+     "brand": "Cymbal",
+     "size": "約15L ベージュ",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 保冷 エコバッグ 約10L グレー",
+     "brand": "Cymbal ベーシック",
+     "size": "約10L グレー",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 厚手 保冷 レジかごバッグ 保冷剤ポケット付き 約40L ブラック",
+     "brand": "Cymbal セレクト",
+     "size": "約40L ブラック",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_cooler_eco_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_notebook",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "文具",
+    "ノート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "勉強",
+    "仕事のメモ",
+    "家計簿",
+    "新学期"
+   ],
+   "tax_rate": 10,
+   "description": "書きやすいなめらかな紙を使った、毎日使いのノートです。ドット入り罫線で文字や図をきれいにそろえやすく、勉強にも仕事のメモにも。お得な5冊パックや、方眼ノート、持ち歩きやすいB6サイズなども揃えました。",
+   "image_brief": "A neat stack of five plain-colored notebooks in pastel blue, pink, green, yellow and grey with completely blank covers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ドット入り罫線ノート B5 A罫 30枚",
+     "brand": "Cymbal",
+     "size": "B5 A罫 30枚",
+     "price_tax_excluded": 128,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ドット入り罫線ノート 5冊パック B5 B罫 30枚×5冊",
+     "brand": "Cymbal",
+     "size": "B5 B罫 30枚×5冊",
+     "price_tax_excluded": 498,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 方眼ノート A5 5mm方眼 40枚",
+     "brand": "Cymbal",
+     "size": "A5 5mm方眼 40枚",
+     "price_tax_excluded": 198,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal リングノート B6 横罫 70枚",
+     "brand": "Cymbal",
+     "size": "B6 横罫 70枚",
+     "price_tax_excluded": 298,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 大学ノート 10冊パック B5 A罫 30枚×10冊",
+     "brand": "Cymbal ベーシック",
+     "size": "B5 A罫 30枚×10冊",
+     "price_tax_excluded": 698,
+     "origin": "インドネシア製"
+    },
+    {
+     "title": "Cymbal セレクト ハードカバー ノート A5 横罫 96枚 ネイビー",
+     "brand": "Cymbal セレクト",
+     "size": "A5 横罫 96枚 ネイビー",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_notebook_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_ballpoint_pen",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "文具",
+    "ボールペン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "勉強",
+    "仕事",
+    "宛名書き",
+    "家計簿"
+   ],
+   "tax_rate": 10,
+   "description": "軽い書き心地のなめらかな油性ボールペンです。インクのかすれが少なく、細かい文字もくっきり。ノック式で片手でも扱いやすく、家族で使える多色パックや、黒・赤・青の3色ペン、替芯もご用意しました。",
+   "image_brief": "A fan of plain plastic click ballpoint pens in black, red and blue with clear barrels and no printing, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal なめらか油性ボールペン 0.7mm 黒 1本",
+     "brand": "Cymbal",
+     "size": "0.7mm 黒 1本",
+     "price_tax_excluded": 98,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal なめらか油性ボールペン 3本パック 0.5mm 黒",
+     "brand": "Cymbal",
+     "size": "0.5mm 黒",
+     "price_tax_excluded": 248,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal なめらか油性ボールペン 3色パック 0.7mm 黒・赤・青",
+     "brand": "Cymbal",
+     "size": "0.7mm 黒・赤・青",
+     "price_tax_excluded": 248,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 3色ボールペン 0.5mm 黒・赤・青",
+     "brand": "Cymbal",
+     "size": "0.5mm 黒・赤・青",
+     "price_tax_excluded": 198,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック ボールペン 10本パック 0.7mm 黒",
+     "brand": "Cymbal ベーシック",
+     "size": "0.7mm 黒",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal なめらか油性ボールペン 替芯 2本 0.7mm 黒",
+     "brand": "Cymbal",
+     "size": "0.7mm 黒",
+     "price_tax_excluded": 148,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_ballpoint_pen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_stick_glue",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "文具",
+    "のり"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "工作",
+    "書類整理",
+    "宿題",
+    "年賀状づくり"
+   ],
+   "tax_rate": 10,
+   "description": "手を汚さずにきれいに塗れるスティックのりです。紙がしわになりにくく、塗った場所がわかる色つきタイプはお子さまの工作にもおすすめ。液体のりやテープのりも揃え、用途に合わせて選べます。",
+   "image_brief": "A plain white stick glue tube with a clear cap beside a small plain tape glue dispenser, both without printing, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スティックのり M 10g",
+     "brand": "Cymbal",
+     "size": "M 10g",
+     "price_tax_excluded": 98,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal スティックのり 色が消えるタイプ M 10g",
+     "brand": "Cymbal",
+     "size": "M 10g",
+     "price_tax_excluded": 128,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal スティックのり 3本パック S 8g×3本",
+     "brand": "Cymbal",
+     "size": "S 8g×3本",
+     "price_tax_excluded": 198,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 液体のり 50ml",
+     "brand": "Cymbal",
+     "size": "50ml",
+     "price_tax_excluded": 128,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal テープのり 8.4mm×10m",
+     "brand": "Cymbal",
+     "size": "8.4mm×10m",
+     "price_tax_excluded": 248,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_stick_glue_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_cellophane_tape",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "文具",
+    "テープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "荷造り",
+    "工作",
+    "書類整理",
+    "引っ越し"
+   ],
+   "tax_rate": 10,
+   "description": "家庭で使いやすいテープ類をそろえました。透明なセロハンテープは手で切りやすく、カッター付きのものも。荷造り用の布テープやOPPテープ、マスキングテープまで、文具からお引越しまで幅広く活躍します。",
+   "image_brief": "A clear cellophane tape roll on a small plain grey dispenser next to a roll of brown packing tape and a roll of plain masking tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セロハンテープ 18mm×35m 1巻",
+     "brand": "Cymbal",
+     "size": "18mm×35m 1巻",
+     "price_tax_excluded": 148,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セロハンテープ カッター付き 15mm×10m",
+     "brand": "Cymbal",
+     "size": "15mm×10m",
+     "price_tax_excluded": 198,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal OPP梱包テープ 48mm×50m 透明",
+     "brand": "Cymbal",
+     "size": "48mm×50m 透明",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 布粘着テープ 50mm×25m ベージュ",
+     "brand": "Cymbal",
+     "size": "50mm×25m ベージュ",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal マスキングテープ 3巻パック 15mm×7m 無地アソート",
+     "brand": "Cymbal",
+     "size": "15mm×7m 無地アソート",
+     "price_tax_excluded": 248,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_cellophane_tape_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_oil_marker",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "文具",
+    "マーカー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "名前書き",
+    "段ボール表示",
+    "勉強",
+    "冷凍保存の日付書き"
+   ],
+   "tax_rate": 10,
+   "description": "紙・プラスチック・金属など、いろいろな素材に書ける油性マーカーです。速乾性インクでにじみにくく、名前書きや段ボールの表示に便利。太字・細字のツインタイプで、場面に合わせて使い分けできます。",
+   "image_brief": "Three plain twin-tip permanent markers in black, red and blue with blank barrels, caps off showing fine and broad tips, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 油性マーカー ツイン 太字・細字 黒 1本",
+     "brand": "Cymbal",
+     "size": "太字・細字 黒 1本",
+     "price_tax_excluded": 128,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 油性マーカー ツイン 3色パック 黒・赤・青",
+     "brand": "Cymbal",
+     "size": "黒・赤・青",
+     "price_tax_excluded": 348,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 油性マーカー 極細 黒 2本",
+     "brand": "Cymbal",
+     "size": "黒 2本",
+     "price_tax_excluded": 198,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 油性マーカー 5本パック 黒",
+     "brand": "Cymbal ベーシック",
+     "size": "黒",
+     "price_tax_excluded": 298,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 蛍光ペン 5色パック 黄・桃・青・緑・橙",
+     "brand": "Cymbal",
+     "size": "黄・桃・青・緑・橙",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "w_living_oil_marker_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_alkaline_battery",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "電池・電球・電気小物",
+    "乾電池"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11,
+    12
+   ],
+   "dishes": [
+    "リモコン",
+    "時計",
+    "おもちゃ",
+    "防災備蓄"
+   ],
+   "tax_rate": 10,
+   "description": "リモコンや時計、おもちゃ、懐中電灯など家中で使えるアルカリ乾電池です。液もれ防止設計で、使用推奨期限も長く防災用の備蓄にも向いています。まとめ買いしやすいパックサイズを揃えました。",
+   "image_brief": "A blister-free paper card pack of plain silver cylindrical AA batteries lined up next to a few AAA batteries, all with blank unprinted wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アルカリ乾電池 単3形 4本パック",
+     "brand": "Cymbal",
+     "size": "4本パック",
+     "price_tax_excluded": 298,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal アルカリ乾電池 単3形 12本パック",
+     "brand": "Cymbal",
+     "size": "12本パック",
+     "price_tax_excluded": 798,
+     "origin": "インドネシア製"
+    },
+    {
+     "title": "Cymbal アルカリ乾電池 単4形 4本パック",
+     "brand": "Cymbal",
+     "size": "4本パック",
+     "price_tax_excluded": 298,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal アルカリ乾電池 単4形 12本パック",
+     "brand": "Cymbal",
+     "size": "12本パック",
+     "price_tax_excluded": 798,
+     "origin": "インドネシア製"
+    },
+    {
+     "title": "Cymbal アルカリ乾電池 単1形 2本パック",
+     "brand": "Cymbal",
+     "size": "2本パック",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal アルカリ乾電池 9V形 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック マンガン乾電池 単3形 8本パック",
+     "brand": "Cymbal ベーシック",
+     "size": "8本パック",
+     "price_tax_excluded": 248,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_alkaline_battery_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_rechargeable_battery",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "電池・電球・電気小物",
+    "充電池"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ゲーム機",
+    "おもちゃ",
+    "ワイヤレスマウス",
+    "エコ"
+   ],
+   "tax_rate": 10,
+   "description": "くり返し充電して使えるニッケル水素充電池です。ゲームのコントローラーやワイヤレスマウス、子どものおもちゃなど電池をよく使う機器に。充電器とのセットもご用意し、使い捨てごみを減らしたい方におすすめです。",
+   "image_brief": "Four plain white rechargeable AA batteries standing beside a compact grey charger unit with no printing, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ニッケル水素充電池 単3形 4本パック",
+     "brand": "Cymbal",
+     "size": "4本パック",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ニッケル水素充電池 単4形 4本パック",
+     "brand": "Cymbal",
+     "size": "4本パック",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ニッケル水素充電池 単3形 大容量 2本パック",
+     "brand": "Cymbal",
+     "size": "2本パック",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 充電器セット 単3形充電池4本付き USB充電器",
+     "brand": "Cymbal",
+     "size": "USB充電器",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ニッケル水素充電池 単3形 2本パック",
+     "brand": "Cymbal ベーシック",
+     "size": "2本パック",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_rechargeable_battery_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_led_bulb",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "電池・電球・電気小物",
+    "LED電球"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "照明の交換",
+    "節電",
+    "トイレ・廊下",
+    "玄関"
+   ],
+   "tax_rate": 10,
+   "description": "一般電球からの交換に使いやすいE26口金のLED電球です。長寿命で交換の手間が減り、電気代の節約にも。お部屋を明るく見せる昼光色、白さと温かみの中間の昼白色、くつろぎの電球色から選べます。E17の小形タイプもご用意。",
+   "image_brief": "A plain white LED light bulb with a frosted dome and silver E26 screw base standing beside a blank white box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home LED電球 E26 40W形相当 電球色",
+     "brand": "Cymbal Home",
+     "size": "電球色",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home LED電球 E26 40W形相当 昼白色",
+     "brand": "Cymbal Home",
+     "size": "昼白色",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home LED電球 E26 60W形相当 昼光色",
+     "brand": "Cymbal Home",
+     "size": "昼光色",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home LED電球 E26 60W形相当 2個パック 電球色",
+     "brand": "Cymbal Home",
+     "size": "電球色",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home LED電球 E26 100W形相当 昼白色",
+     "brand": "Cymbal Home",
+     "size": "昼白色",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home LED電球 E17 小形電球 40W形相当 電球色",
+     "brand": "Cymbal Home",
+     "size": "電球色",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_led_bulb_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_extension_cord",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "電池・電球・電気小物",
+    "延長コード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "リビング",
+    "デスクまわり",
+    "スマホ充電",
+    "季節家電の使用"
+   ],
+   "tax_rate": 10,
+   "description": "コンセントが足りない場所で活躍する延長コードです。ほこりによるトラッキングを防ぐシャッター付きで、個別スイッチ付きタイプなら待機電力の節約にも。USBポート付きは、スマートフォンの充電にも便利です。",
+   "image_brief": "A white power strip with four outlets, individual switches and a coiled white cable, placed next to a plain blank box, studio packshot.",
+   "labels": [
+    "雷ガード",
+    "ほこり防止シャッター"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Home 延長コード 3個口 1m ホワイト",
+     "brand": "Cymbal Home",
+     "size": "1m ホワイト",
+     "price_tax_excluded": 598,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 延長コード 3個口 2m ホワイト",
+     "brand": "Cymbal Home",
+     "size": "2m ホワイト",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 個別スイッチ付き 延長コード 4個口 2m ホワイト",
+     "brand": "Cymbal Home",
+     "size": "2m ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home 個別スイッチ付き 延長コード 6個口 3m ホワイト",
+     "brand": "Cymbal Home",
+     "size": "3m ホワイト",
+     "price_tax_excluded": 1680,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Home USBポート付き 延長コード 3個口 1.5m USB-A・C",
+     "brand": "Cymbal Home",
+     "size": "1.5m USB-A・C",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック 延長コード 2個口 1m ホワイト",
+     "brand": "Cymbal ベーシック",
+     "size": "1m ホワイト",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_extension_cord_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_led_flashlight",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "防災用品",
+    "懐中電灯"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11
+   ],
+   "dishes": [
+    "停電",
+    "防災備蓄",
+    "キャンプ",
+    "夜道の散歩"
+   ],
+   "tax_rate": 10,
+   "description": "停電時や夜間の外出に頼れるLED懐中電灯です。明るさは強・弱・点滅の切り替え式で、防滴仕様なので雨の日も安心。乾電池式のほか、USB充電式やヘッドライトもご用意し、家族の人数分そろえておくと心強いです。",
+   "image_brief": "A compact black aluminum LED flashlight beside a white headlamp with elastic strap, both unbranded, on a plain white background, studio packshot.",
+   "labels": [
+    "防滴"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal LED懐中電灯 単3形電池式 200ルーメン ブラック",
+     "brand": "Cymbal",
+     "size": "200ルーメン ブラック",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal LED懐中電灯 単1形電池式 300ルーメン シルバー",
+     "brand": "Cymbal",
+     "size": "300ルーメン シルバー",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal USB充電式 LED懐中電灯 500ルーメン ブラック",
+     "brand": "Cymbal",
+     "size": "500ルーメン ブラック",
+     "price_tax_excluded": 1980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal LEDヘッドライト 単4形電池式 150ルーメン ホワイト",
+     "brand": "Cymbal",
+     "size": "150ルーメン ホワイト",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ミニLEDライト 単4形電池式 ブルー",
+     "brand": "Cymbal ベーシック",
+     "size": "単4形電池式 ブルー",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_led_flashlight_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_led_lantern",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "防災用品",
+    "LEDランタン"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11
+   ],
+   "dishes": [
+    "停電",
+    "キャンプ",
+    "防災備蓄",
+    "ベランダ"
+   ],
+   "tax_rate": 10,
+   "description": "部屋全体をやわらかく照らす吊り下げ可能なLEDランタンです。乾電池でもUSB充電でも使える2WAY電源で、停電時の備えにもキャンプにも。手回し充電やソーラー充電に対応したタイプは、長期の停電でも安心です。",
+   "image_brief": "A cylindrical white LED camping lantern with a fold-down hanging handle glowing warmly, beside a plain blank box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal LEDランタン 2WAY電源 400ルーメン ホワイト",
+     "brand": "Cymbal",
+     "size": "400ルーメン ホワイト",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal LEDランタン 2WAY電源 400ルーメン カーキ",
+     "brand": "Cymbal",
+     "size": "400ルーメン カーキ",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 手回し・ソーラー充電 LEDランタン 150ルーメン",
+     "brand": "Cymbal",
+     "size": "150ルーメン",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック LEDランタン 単3形電池式 200ルーメン",
+     "brand": "Cymbal ベーシック",
+     "size": "200ルーメン",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 大光量 LEDランタン 充電式 1000ルーメン",
+     "brand": "Cymbal セレクト",
+     "size": "1000ルーメン",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_led_lantern_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_emergency_toilet",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "防災用品",
+    "非常用トイレ"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11
+   ],
+   "dishes": [
+    "断水",
+    "防災備蓄",
+    "車中泊",
+    "渋滞対策"
+   ],
+   "tax_rate": 10,
+   "description": "断水時に家庭の便器や段ボールトイレにかぶせて使える非常用トイレです。凝固剤が水分をすばやく固め、においを抑える処理袋付き。1人あたり1日5回程度を目安に、家族の人数と日数分を備えておくと安心です。",
+   "image_brief": "A plain grey resealable bag kit of emergency toilet bags with small sachets of coagulant powder laid beside it, all unbranded, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 非常用トイレ 凝固剤・処理袋付き 5回分",
+     "brand": "Cymbal",
+     "size": "5回分",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 非常用トイレ 凝固剤・処理袋付き 15回分",
+     "brand": "Cymbal",
+     "size": "15回分",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 非常用トイレ 凝固剤・処理袋付き 50回分",
+     "brand": "Cymbal",
+     "size": "50回分",
+     "price_tax_excluded": 6980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal 組み立て式 簡易トイレ 便座付き 本体＋10回分",
+     "brand": "Cymbal",
+     "size": "本体＋10回分",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 携帯トイレ 3回分",
+     "brand": "Cymbal ベーシック",
+     "size": "3回分",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_emergency_toilet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_emergency_radio",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "防災用品",
+    "防災ラジオ"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11
+   ],
+   "dishes": [
+    "停電",
+    "災害時の情報収集",
+    "防災リュック",
+    "アウトドア"
+   ],
+   "tax_rate": 10,
+   "description": "電池が切れても手回しで充電できる防災ラジオです。AM・FMの受信に加え、LEDライトとスマートフォンへの給電機能付き。ソーラー充電にも対応し、停電が長引いたときの情報収集に役立ちます。防災リュックに入るコンパクトさです。",
+   "image_brief": "A compact orange-and-grey hand-crank emergency radio with an extendable antenna, built-in flashlight and a small solar panel on top, unbranded, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 手回し充電 防災ラジオ AM/FM ライト付き オレンジ",
+     "brand": "Cymbal",
+     "size": "ライト付き オレンジ",
+     "price_tax_excluded": 2980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 手回し・ソーラー充電 防災ラジオ スマホ給電 2000mAh グレー",
+     "brand": "Cymbal",
+     "size": "スマホ給電 2000mAh グレー",
+     "price_tax_excluded": 3980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 手回し・ソーラー充電 防災ラジオ スマホ給電 5000mAh ブラック",
+     "brand": "Cymbal",
+     "size": "スマホ給電 5000mAh ブラック",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ポケットラジオ AM/FM 単4形電池式",
+     "brand": "Cymbal ベーシック",
+     "size": "単4形電池式",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal セレクト 防災ラジオ サイレン・ランタン付き 大型 カーキ",
+     "brand": "Cymbal セレクト",
+     "size": "大型 カーキ",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_emergency_radio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_living_emergency_kit",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "防災用品",
+    "防災セット"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    11
+   ],
+   "dishes": [
+    "防災備蓄",
+    "非常持ち出し",
+    "避難訓練",
+    "車載用"
+   ],
+   "tax_rate": 10,
+   "description": "いざという時にすぐ持ち出せるよう、必要な用品をリュックにまとめた防災セットです。アルミブランケット・軍手・ホイッスル・簡易トイレ・ライトなどを収納。食品や飲料は含まないので、お好みの備蓄を追加してご用意ください。",
+   "image_brief": "A navy blue backpack with reflective strip partially open revealing a silver foil blanket, work gloves, whistle and flashlight arranged beside it, unbranded, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 防災リュック 1人用 20点セット ネイビー",
+     "brand": "Cymbal",
+     "size": "20点セット ネイビー",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 防災リュック 2人用 32点セット ネイビー",
+     "brand": "Cymbal",
+     "size": "32点セット ネイビー",
+     "price_tax_excluded": 11800,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 防災リュック 1人用 20点セット レッド",
+     "brand": "Cymbal",
+     "size": "20点セット レッド",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック アルミ保温ブランケット 2枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal 防災ずきん 子ども用 収納袋付き ネイビー",
+     "brand": "Cymbal",
+     "size": "収納袋付き ネイビー",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal ベーシック 防災 ホイッスル＆軍手セット 1人分",
+     "brand": "Cymbal ベーシック",
+     "size": "1人分",
+     "price_tax_excluded": 498,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "w_living_emergency_kit_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

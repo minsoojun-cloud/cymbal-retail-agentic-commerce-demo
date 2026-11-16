@@ -1,0 +1,4371 @@
+{
+ "category_key": "w_frozen_ingredients_ice",
+ "items": [
+  {
+   "base_id": "w_frozen_ingredients_ice_cauliflower",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "カリフラワー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "温野菜サラダ",
+    "グラタン",
+    "ポタージュ",
+    "ピクルス"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口大の小房に分けて下ゆでしたカリフラワーを急速凍結しました。くせのないやさしい甘みで、温野菜サラダやグラタン、スープの具に凍ったまま使えます。必要な分だけ取り出せるバラ凍結で、お弁当の彩りにも便利です。",
+   "image_brief": "A clear resealable freezer bag filled with frosted white cauliflower florets, plain blank label panel, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 カリフラワー 小房 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 カリフラワー 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 カリフラワー 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 冷凍 カリフラワー 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "Cymbal 冷凍 カリフラワー 業務用 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_cauliflower_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_asparagus",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "アスパラガス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ベーコン巻き",
+    "バターソテー",
+    "パスタ",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "穂先までやわらかいグリーンアスパラガスを食べやすい長さにカットして下ゆで後に凍結。解凍の手間なくフライパンへ入れるだけで、ベーコン巻きやバターソテー、パスタの具が手軽に作れます。鮮やかな緑がおかずを華やかに見せます。",
+   "image_brief": "A slim clear freezer bag of bright green cut asparagus spears with visible frost, blank white label strip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 グリーンアスパラガス カット 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 アスパラガス カット 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 グリーンアスパラ ホール 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "Cymbal 冷凍 細身アスパラガス お弁当用 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 258,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 アスパラガス カット 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_asparagus_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_nanohana",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "葉物野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "からし和え",
+    "おひたし",
+    "パスタ",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "ほろ苦さと甘みのバランスがよい菜の花を、つぼみと茎をそろえてカットし塩ゆで後に凍結しました。季節を問わず春らしい一品が楽しめ、からし和えやおひたし、パスタの彩りにさっと使えます。少量パックで使い切りやすいのも魅力です。",
+   "image_brief": "A clear freezer pouch with vivid green cut rapeseed blossoms with small yellow-green buds, plain blank label, studio shot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 菜の花 カット 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 菜の花 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal 冷凍 菜の花 小分け 40g×4袋",
+     "brand": "Cymbal",
+     "size": "40g×4袋",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 菜の花 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_nanohana_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_brussels_sprouts",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "洋野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ポトフ",
+    "ロースト",
+    "シチュー",
+    "ベーコンソテー"
+   ],
+   "tax_rate": 8,
+   "description": "ころんと丸い芽キャベツを下ゆでして一粒ずつ凍結しました。加熱するとほっくりとした甘みが増し、ポトフやシチュー、オーブンローストにぴったり。寒い季節の煮込み料理や、クリスマスの付け合わせにも映える冷凍野菜です。",
+   "image_brief": "A clear freezer bag of small round frosty green brussels sprouts, blank white label band, packshot on white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 芽キャベツ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 芽キャベツ 小粒 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "オランダ産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 芽キャベツ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "ポーランド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 冷凍 芽キャベツ 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_brussels_sprouts_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_molokheiya",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "オクラ・ねばねば"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "おひたし",
+    "スープ",
+    "冷奴のせ",
+    "納豆和え"
+   ],
+   "tax_rate": 8,
+   "description": "栄養豊富な葉物として人気のモロヘイヤを刻んで凍結しました。解凍するとほどよいとろみが出て、おひたしやスープ、冷奴や納豆に混ぜるだけで手軽な一品に。下ごしらえ不要なので、忙しい日の副菜づくりに重宝します。",
+   "image_brief": "A flat clear freezer pouch of finely chopped dark green molokheiya leaves frozen in a sheet, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 刻みモロヘイヤ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 刻みモロヘイヤ 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "Cymbal 冷凍 モロヘイヤ キューブ 12個入（180g）",
+     "brand": "Cymbal",
+     "size": "12個入（180g）",
+     "price_tax_excluded": 258,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 刻みモロヘイヤ 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_molokheiya_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_chamame",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "枝豆"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "おつまみ",
+    "ずんだ",
+    "お弁当",
+    "混ぜご飯"
+   ],
+   "tax_rate": 8,
+   "description": "香りと甘みが濃い茶豆系の枝豆を、さやごと塩ゆでして急速凍結。流水解凍するだけでゆでたてのような食感と風味が楽しめます。晩酌のおつまみにはもちろん、さやから出してずんだや混ぜご飯にも。香ばしい風味が自慢の枝豆です。",
+   "image_brief": "A clear freezer bag of plump salted green-brown soybean pods (chamame edamame) with frost, plain blank label panel, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 塩ゆで 茶豆 枝豆 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 塩ゆで 茶豆 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "Cymbal 塩ゆで 茶豆 小分け 100g×3袋",
+     "brand": "Cymbal",
+     "size": "100g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal 塩ゆで 黒枝豆 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 塩ゆで 黒枝豆 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_chamame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_muki_edamame",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "豆類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "混ぜご飯",
+    "スープ",
+    "かき揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "さやから出した枝豆の粒だけを集めたむき枝豆です。殻をむく手間がなく、サラダや混ぜご飯、スープ、かき揚げに凍ったまま加えられます。ほどよい塩味と鮮やかな緑色で、お弁当の彩りやこどものおかずにも使いやすい便利な一袋。",
+   "image_brief": "A clear freezer pouch filled with bright green shelled edamame beans, frosty texture, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 むき枝豆 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 むき枝豆 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 むき枝豆 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 冷凍 むき枝豆 無塩 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 冷凍 むき枝豆 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 378,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_muki_edamame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_snap_peas",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "豆類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5
+   ],
+   "dishes": [
+    "サラダ",
+    "炒め物",
+    "ごま和え",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "さやごと食べられるスナップえんどうを、筋取り済みで下ゆでして凍結しました。ぷりっとした歯ごたえと甘みがあり、サラダやごま和え、炒め物に手間なく使えます。鮮やかなグリーンはお弁当のすき間うめにも最適です。",
+   "image_brief": "A clear freezer bag of crisp-looking green snap pea pods lightly frosted, blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 スナップえんどう 筋取り済み 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 スナップえんどう 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 スナップえんどう 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "グアテマラ産"
+    },
+    {
+     "title": "Cymbal 冷凍 スナップえんどう お弁当用 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_snap_peas_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_warm_veg_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "野菜ミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "温野菜",
+    "シチュー",
+    "グラタン",
+    "ポトフ",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "ブロッコリー、カリフラワー、にんじん、いんげんを彩りよく合わせた洋風の温野菜ミックス。電子レンジで加熱するだけでステーキやハンバーグの付け合わせが完成します。シチューやグラタンの具にもそのまま使える万能タイプです。",
+   "image_brief": "A clear freezer bag showing a colorful mix of broccoli, cauliflower, carrot slices and green beans, blank label panel, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 洋風温野菜ミックス 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal ベーシック 洋風野菜ミックス 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 448,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜の 洋風温野菜ミックス 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal レンジで 温野菜ミックス 小分け 100g×4袋",
+     "brand": "Cymbal",
+     "size": "100g×4袋",
+     "price_tax_excluded": 348,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 洋風野菜ミックス 300g",
+     "brand": "Cymbal オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "ベルギー産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_warm_veg_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_grilled_veg_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "野菜ミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ラタトゥイユ",
+    "パスタ",
+    "カレー",
+    "マリネ",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "ズッキーニ、なす、赤・黄パプリカ、たまねぎを香ばしくグリルしてから凍結しました。焼き目の風味がそのまま楽しめ、ラタトゥイユやパスタ、夏野菜カレーが手早く作れます。オリーブオイルをかけて温めるだけでおしゃれな前菜に。",
+   "image_brief": "A clear freezer bag of grill-marked zucchini, eggplant, red and yellow pepper pieces, blank label, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal グリル野菜ミックス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き風 グリル野菜ミックス 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal ベーシック グリル野菜ミックス 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal グリル野菜ミックス ラタトゥイユ用 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "スペイン産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_grilled_veg_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_yaki_nasu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "揚げなす"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "焼きなす",
+    "お浸し",
+    "麻婆なす",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "なすを直火で焼いてから皮をむき、とろりとした食感に仕上げた焼きなすです。解凍してしょうがとかつお節をのせれば、手間のかかる焼きなすがすぐに一品に。味噌汁や煮びたし、麻婆なすにも使えます。",
+   "image_brief": "A clear freezer tray pack of peeled smoky grilled eggplant halves, soft golden-brown flesh, blank label sleeve, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 皮むき 焼きなす 4本入（200g）",
+     "brand": "Cymbal",
+     "size": "4本入（200g）",
+     "price_tax_excluded": 278,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 焼きなす 皮むき 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal 焼きなす カット 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ベーシック 焼きなす 8本入（400g）",
+     "brand": "Cymbal ベーシック",
+     "size": "8本入（400g）",
+     "price_tax_excluded": 448,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_yaki_nasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kabocha_paste",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "かぼちゃ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ポタージュ",
+    "コロッケ",
+    "パンプキンパイ",
+    "離乳食",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "ホクホクのかぼちゃを裏ごしして凍結したペーストです。皮むきや裏ごしの手間がなく、ポタージュやかぼちゃサラダ、パンプキンパイ、離乳食にも使えます。素材の甘みだけを生かした砂糖不使用で、ハロウィンや冬至の料理にも重宝。",
+   "image_brief": "A flat clear freezer pouch of bright orange mashed pumpkin paste in portion sections, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かぼちゃペースト 裏ごし 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal かぼちゃペースト 小分けキューブ 15g×16個",
+     "brand": "Cymbal",
+     "size": "15g×16個",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 栗かぼちゃの 裏ごしペースト 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック かぼちゃペースト 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 かぼちゃペースト 200g",
+     "brand": "Cymbal オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kabocha_paste_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_renkon_slice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "根菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "きんぴら",
+    "筑前煮",
+    "天ぷら",
+    "酢ばす",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "シャキシャキ食感のれんこんを薄めのいちょう・輪切りにスライスして下ゆで後に凍結しました。皮むきやアク抜き済みなので、きんぴらや筑前煮、天ぷら、炒め物にそのまま使えます。根菜がおいしい季節の作り置きにも便利です。",
+   "image_brief": "A clear freezer bag of white lotus root slices with their distinctive hole pattern, light frost, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 れんこん スライス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 れんこん 乱切り 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 れんこん スライス 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 冷凍 れんこん 輪切り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_renkon_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_tonjiru_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "野菜ミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豚汁",
+    "けんちん汁",
+    "煮物",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "大根、にんじん、ごぼう、里芋、こんにゃくなど豚汁に欠かせない具材を食べやすくカットしたミックスです。下ごしらえ済みで、鍋に入れて煮るだけで具だくさんの豚汁やけんちん汁が完成。寒い季節の温かい汁物づくりに頼れる一袋です。",
+   "image_brief": "A clear freezer bag of diced daikon, carrot, burdock, taro and konjac pieces for miso soup, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚汁用 根菜ミックス 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜の 豚汁用ミックス 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚汁・けんちん汁用 根菜ミックス 700g",
+     "brand": "Cymbal ベーシック",
+     "size": "700g",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 豚汁用 根菜ミックス 小分け 150g×3袋",
+     "brand": "Cymbal",
+     "size": "150g×3袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_tonjiru_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kinoko_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "きのこ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "きのこパスタ",
+    "鍋",
+    "ホイル焼き",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "しめじ、まいたけ、エリンギ、しいたけを合わせたきのこミックス。冷凍すると旨み成分が引き出されやすく、炊き込みご飯やパスタ、鍋物に香り豊かな味わいをプラスします。石づき処理済みで、凍ったまま調理できる手軽さが魅力です。",
+   "image_brief": "A clear freezer bag filled with mixed shimeji, maitake, king oyster and shiitake mushroom pieces, frosty, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 きのこミックス 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック きのこミックス 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 4種のきのこミックス 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal きのこミックス 小分け 80g×4袋",
+     "brand": "Cymbal",
+     "size": "80g×4袋",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 しいたけ・まいたけミックス 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kinoko_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_wedge_potato",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "ポテト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "付け合わせ",
+    "おつまみ",
+    "パーティー",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "皮付きのじゃがいもをくし形にカットし、ハーブと塩で下味をつけたグリルポテト。オーブンやトースター、ノンフライヤーで焼くだけで外はカリッ、中はホクホクに仕上がります。ステーキの付け合わせやおつまみ、パーティーの一皿にどうぞ。",
+   "image_brief": "A stand-up freezer bag with a clear window showing golden skin-on potato wedges dusted with herbs, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 皮付き グリルポテト ハーブ塩 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ベーシック 皮付き ポテトウェッジ 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 皮付き グリルポテト 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 皮付き グリルポテト ガーリック 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal トースターで ハーブポテト 小分け 100g×4袋",
+     "brand": "Cymbal",
+     "size": "100g×4袋",
+     "price_tax_excluded": 348,
+     "origin": "ベルギー産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_wedge_potato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_shoestring_fries",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "ポテト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ハンバーガーの付け合わせ",
+    "おつまみ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "細めにカットしたシューストリングタイプのフライドポテト。短時間で揚がり、カリッと軽い食感が楽しめます。ノンフライヤーやトースター調理にも対応し、ハンバーガーのお供やおやつ、パーティーのおつまみにぴったりです。",
+   "image_brief": "A large freezer bag with a clear window revealing thin pale golden shoestring french fries, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シューストリング 細切りポテト 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ベーシック 細切りフライドポテト 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal セレクト 皮付き シューストリングポテト 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal 細切りポテト 塩味付き トースター用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal クリンクルカット ポテト 700g",
+     "brand": "Cymbal",
+     "size": "700g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_shoestring_fries_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_diced_potato",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "ポテト"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "シチュー",
+    "ポテトサラダ",
+    "スパニッシュオムレツ"
+   ],
+   "tax_rate": 8,
+   "description": "じゃがいもを1.5cm角のダイスにカットして下ゆでした素材タイプの冷凍ポテト。皮むきや面取りの手間が省け、カレーやシチュー、ポテトサラダ、スパニッシュオムレツに凍ったまま使えます。煮崩れしにくく形がきれいに残ります。",
+   "image_brief": "A clear freezer bag of evenly cut pale yellow diced potato cubes, light frost, blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ダイスカット じゃがいも 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック ダイスカットポテト 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal 乱切り じゃがいも 煮物用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト メークイン ダイスカット 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_diced_potato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_satsumaimo_stick",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "根菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "大学いも",
+    "天ぷら",
+    "スイートポテトフライ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとり甘いさつまいもを皮付きのままスティック状にカットして凍結しました。揚げるか焼くだけで、おやつにうれしいさつまいもスティックや大学いも、天ぷらが手軽に作れます。秋冬の甘いおやつづくりに活躍します。",
+   "image_brief": "A clear freezer bag of skin-on purple-red sweet potato sticks with golden flesh, blank label panel, packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さつまいも スティック 皮付き 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal セレクト 紅はるか スティック 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "Cymbal ベーシック さつまいも スティック 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal さつまいも 角切り 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_satsumaimo_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_cauliflower_rice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "野菜ミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "リゾット",
+    "カレーライス",
+    "ドリア"
+   ],
+   "tax_rate": 8,
+   "description": "カリフラワーをお米ほどの粒状に刻んだカリフラワーライス。ごはんの代わりやかさ増しに使え、チャーハンやリゾット、カレーのお供に軽やかな食感が楽しめます。凍ったままフライパンやレンジで加熱でき、食事のバランスを整えたい方に。",
+   "image_brief": "A clear freezer pouch of finely riced white cauliflower grains, frosty, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カリフラワーライス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ブロッコリーライス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 カリフラワーライス 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal カリフラワーライス 小分け 150g×3袋",
+     "brand": "Cymbal",
+     "size": "150g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ベーシック カリフラワーライス 600g",
+     "brand": "Cymbal ベーシック",
+     "size": "600g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_cauliflower_rice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_muki_kuri",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "和風素材"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "栗ご飯",
+    "甘露煮",
+    "栗きんとん",
+    "おこわ"
+   ],
+   "tax_rate": 8,
+   "description": "渋皮まできれいにむいた生栗を凍結しました。面倒な皮むき作業なしで、季節の栗ご飯やおこわ、甘露煮が手軽に作れます。ほっくりとした食感とやさしい甘みで、秋の食卓やおせちの準備にも重宝する便利な素材です。",
+   "image_brief": "A clear freezer bag of peeled pale yellow raw chestnuts, frosty surface, blank label panel, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 むき栗 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 むき栗 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 むき栗 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 冷凍 むき栗 栗ご飯用 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_muki_kuri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_tomato_dice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "洋野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トマトソース",
+    "ミネストローネ",
+    "カレー",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトを皮むき済みでダイスカットにして凍結しました。生のトマトよりも旨みが凝縮し、ミネストローネやトマトソース、カレーの隠し味に凍ったまま加えられます。缶詰よりもフレッシュな風味を楽しみたい方におすすめです。",
+   "image_brief": "A clear freezer bag of bright red diced peeled tomato cubes with frost, blank label strip, packshot on white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 完熟トマト ダイスカット 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 トマト ダイス 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "Cymbal 冷凍 ミニトマト ホール 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 トマト ダイスカット 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_tomato_dice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_paprika_strip",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "洋野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チンジャオロース",
+    "マリネ",
+    "パスタ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "赤・黄・緑の3色パプリカを細切りにしてミックスしました。種取り・カット済みで、チンジャオロースや炒め物、マリネ、パスタに凍ったまま使え、料理がぐっと華やかに。少しだけ使いたいときも無駄が出ません。",
+   "image_brief": "A clear freezer bag of red, yellow and green bell pepper strips mixed together, frosty, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 3色パプリカ 細切り 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal ベーシック 3色ピーマン 細切り 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 赤パプリカ 角切り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 パプリカ 細切り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_paprika_strip_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kizami_yuzu",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "薬味・カット野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "鍋の薬味",
+    "吸い物",
+    "茶碗蒸し",
+    "ゆず大根",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "香り高いゆずの皮を細く刻んで凍結した冷凍薬味。使いたい分だけ取り出して、お吸い物や鍋、茶碗蒸しにぱらりとのせれば上品な香りが広がります。冬の鍋料理や年末年始のおせち、ゆず大根づくりに便利です。",
+   "image_brief": "A small clear zip pouch holding finely shredded bright yellow yuzu peel, frosty, blank label, macro studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 刻みゆず皮 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 刻みゆず皮 小分け 5g×8袋",
+     "brand": "Cymbal セレクト",
+     "size": "5g×8袋",
+     "price_tax_excluded": 398,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "Cymbal 国産 ゆず皮 千切り 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 448,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 ゆず果汁キューブ 8個入",
+     "brand": "Cymbal セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "高知県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kizami_yuzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_oroshi_ginger_garlic",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 野菜",
+    "薬味・カット野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "生姜焼き",
+    "冷奴",
+    "炒め物",
+    "餃子",
+    "焼き魚"
+   ],
+   "tax_rate": 8,
+   "description": "すりおろした生姜やにんにく、大根おろしを小さなキューブ状に凍結した冷凍薬味。一回分ずつ取り出せて香りが長持ちし、生姜焼きや炒め物、焼き魚の大根おろしにすぐ使えます。毎日の料理の下ごしらえ時間を短縮できます。",
+   "image_brief": "A clear freezer tray pack of small frozen cubes of grated ginger and garlic in portion cells, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 おろし生姜 キューブ 5g×20個",
+     "brand": "Cymbal",
+     "size": "5g×20個",
+     "price_tax_excluded": 248,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal 国産 おろしにんにく キューブ 5g×20個",
+     "brand": "Cymbal",
+     "size": "5g×20個",
+     "price_tax_excluded": 278,
+     "origin": "青森県産"
+    },
+    {
+     "title": "Cymbal 国産 大根おろし 小分け 40g×6個",
+     "brand": "Cymbal",
+     "size": "40g×6個",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 刻み大葉 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal ベーシック おろし生姜 キューブ 5g×40個",
+     "brand": "Cymbal ベーシック",
+     "size": "5g×40個",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_oroshi_ginger_garlic_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_raspberry",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "ラズベリー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スムージー",
+    "ヨーグルト",
+    "ジャム",
+    "ケーキ",
+    "ソース"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱく鮮やかな赤色のラズベリーをホールのまま凍結しました。ヨーグルトやスムージーに加えるほか、ジャムやケーキのソース、焼き菓子のトッピングにも。凍ったまま食べればシャリっとした食感が楽しめるひんやりおやつにもなります。",
+   "image_brief": "A clear stand-up freezer pouch of whole frosted red raspberries, blank white label panel, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 冷凍 ラズベリー 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 冷凍 ラズベリー 150g",
+     "brand": "Cymbal オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "セルビア産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 ラズベリー ホール 粒ぞろい 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "セルビア産"
+    },
+    {
+     "title": "Cymbal 冷凍 ラズベリー＆ブラックベリー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "チリ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_raspberry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_acai",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "スムージー用"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "アサイーボウル",
+    "スムージー",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "ブラジル産アサイーのピューレを使いやすい100g単位で冷凍しました。バナナやグラノーラをトッピングすれば、おうちで手軽にアサイーボウルが楽しめます。スムージーに混ぜるだけで深い紫色と濃厚な味わいに。加糖タイプと無糖タイプを揃えました。",
+   "image_brief": "A box of individually wrapped deep purple frozen acai puree packets, plain blank carton, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 アサイーピューレ 加糖 100g×4個",
+     "brand": "Cymbal",
+     "size": "100g×4個",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal 冷凍 アサイーピューレ 無糖 100g×4個",
+     "brand": "Cymbal",
+     "size": "100g×4個",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 冷凍 アサイーピューレ 無糖 100g×4個",
+     "brand": "Cymbal オーガニック",
+     "size": "100g×4個",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 アサイーボウル用 ピューレ 大容量 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_acai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_white_peach",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "もも・洋なし"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [
+    7,
+    8
+   ],
+   "dishes": [
+    "パフェ",
+    "スムージー",
+    "コンポート",
+    "かき氷"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく甘い白桃をひと口サイズにカットして凍結しました。半解凍でシャーベットのような口どけが楽しめ、パフェやスムージー、かき氷のトッピングに。旬の時期でなくても桃のみずみずしい香りを味わえる人気のフルーツです。",
+   "image_brief": "A clear freezer bag of pale pink-white peach chunks with frosty glaze, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 白桃 ダイスカット 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 冷凍 白桃 カット 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "Cymbal 冷凍 黄桃 ダイスカット 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "ギリシャ産"
+    },
+    {
+     "title": "Cymbal 冷凍 白桃・洋なしミックス カット 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_white_peach_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_lychee",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "トロピカルフルーツ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "デザート",
+    "杏仁豆腐",
+    "カクテル",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "上品な甘さと華やかな香りのライチを、殻付きのまま急速凍結しました。半解凍で殻をむけば、シャーベットのようなひんやり食感を楽しめます。杏仁豆腐のトッピングやカクテル、来客時のデザートにもおすすめです。",
+   "image_brief": "A clear mesh-window freezer bag of round red-brown frozen lychees in shell with frost, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 ライチ 殻付き 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 ライチ 大粒 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal 冷凍 むきライチ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 ライチ 殻付き 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_lychee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_smoothie_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "スムージー用"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スムージー",
+    "ヨーグルトボウル",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "バナナやベリー、マンゴー、ほうれん草などを1回分ずつ組み合わせたスムージー用ミックス。牛乳や豆乳と一緒にミキサーにかけるだけで、朝食にぴったりのスムージーが完成します。カット済みなので忙しい朝でも手軽に作れます。",
+   "image_brief": "A colorful stand-up freezer pouch with a clear window showing banana slices, berries and mango cubes, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スムージーミックス ベリー＆バナナ 150g×4袋",
+     "brand": "Cymbal",
+     "size": "150g×4袋",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム産他"
+    },
+    {
+     "title": "Cymbal スムージーミックス グリーン 150g×4袋",
+     "brand": "Cymbal",
+     "size": "150g×4袋",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム産他"
+    },
+    {
+     "title": "Cymbal スムージーミックス トロピカル 150g×4袋",
+     "brand": "Cymbal",
+     "size": "150g×4袋",
+     "price_tax_excluded": 498,
+     "origin": "タイ産他"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 スムージーミックス 120g×4袋",
+     "brand": "Cymbal オーガニック",
+     "size": "120g×4袋",
+     "price_tax_excluded": 698,
+     "origin": "ペルー産他"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 カットバナナ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "フィリピン産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_smoothie_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_frozen_mikan",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "柑橘"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冷凍みかん",
+    "おやつ",
+    "お弁当デザート"
+   ],
+   "tax_rate": 8,
+   "description": "甘みの乗った温州みかんを丸ごと凍らせた昔ながらの冷凍みかん。少し解凍してシャリシャリのうちに食べるのがおすすめです。皮をむいたタイプはお弁当の保冷剤代わりやこどものおやつにも便利。旬の甘さをいつでも楽しめます。",
+   "image_brief": "A red mesh net bag of whole frosted satsuma mandarins with a thin ice glaze, blank white tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍みかん 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "冷凍みかん 大袋 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "Cymbal 冷凍 むきみかん 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 むきみかん 小分け 60g×5袋",
+     "brand": "Cymbal セレクト",
+     "size": "60g×5袋",
+     "price_tax_excluded": 398,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_frozen_mikan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_whole_grape",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "ぶどう"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "おやつ",
+    "ヨーグルト",
+    "スパークリングドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "皮ごと食べられる種なしぶどうを一粒ずつ凍結しました。凍ったまま口に入れると、シャーベットのような食感と濃厚な甘さが広がります。炭酸水やワインに浮かべれば氷代わりに。おやつにもおもてなしにも使える冷凍フルーツです。",
+   "image_brief": "A clear freezer bag of frosty whole seedless green and red grapes, blank label panel, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 皮ごと ぶどう 種なし 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 シャインマスカット 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "Cymbal 冷凍 皮ごと 赤ぶどう 種なし 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 種なしぶどう 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "チリ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_whole_grape_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kiwi_slice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 フルーツ",
+    "トロピカルフルーツ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "キウイフルーツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スムージー",
+    "ヨーグルト",
+    "フルーツポンチ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいキウイフルーツを皮をむいて輪切りにし凍結しました。そのまま食べればひんやりシャリッとした食感が楽しめ、ヨーグルトやスムージー、フルーツポンチにも。グリーンとゴールドの2タイプを揃えました。",
+   "image_brief": "A clear freezer bag of round green kiwifruit slices with black seeds, lightly frosted, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 キウイ スライス グリーン 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 キウイ スライス ゴールド 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 448,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 キウイ スライス 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal 冷凍 キウイ 角切り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kiwi_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_muki_ebi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "えび"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "えびチリ",
+    "炒め物",
+    "チャーハン",
+    "グラタン",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "背わた処理済みのむきえびをバラ凍結しました。ぷりっとした食感で、えびチリやチャーハン、炒め物、グラタンに解凍してそのまま使えます。使う分だけ取り出せて、下処理の手間がかからないので普段のおかずにも活躍します。",
+   "image_brief": "A clear freezer bag of glazed pinkish-grey peeled raw shrimp, frost crystals visible, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal むきえび バナメイ 中サイズ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal ベーシック むきえび 小 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal セレクト むきえび 大粒 背わた取り 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "Cymbal むきえび 業務用 800g",
+     "brand": "Cymbal",
+     "size": "800g",
+     "price_tax_excluded": 1980,
+     "origin": "タイ産"
+    },
+    {
+     "title": "Cymbal セレクト 天然 むきえび 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "インド産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_muki_ebi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kara_ebi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "えび"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "塩焼き",
+    "えびフライ",
+    "鍋",
+    "パエリア",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "殻付きの大きなえびを急速凍結しました。頭付き・無頭の両タイプを揃え、塩焼きやバーベキュー、パエリア、鍋に豪快に使えます。殻から出る旨みでだしがよく出るのも魅力。年末年始のごちそうやパーティーにもおすすめです。",
+   "image_brief": "A black plastic tray of large frozen shell-on prawns neatly lined up under clear film, blank label sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラックタイガー 殻付き 無頭 大 10尾（300g）",
+     "brand": "",
+     "size": "10尾（300g）",
+     "price_tax_excluded": 1280,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "有頭 赤えび 10尾（400g）",
+     "brand": "",
+     "size": "10尾（400g）",
+     "price_tax_excluded": 1480,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "有頭 天然 車えび 8尾（250g）",
+     "brand": "",
+     "size": "8尾（250g）",
+     "price_tax_excluded": 1680,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "バナメイえび 殻付き 無頭 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "インド産"
+    },
+    {
+     "title": "天然 有頭えび 大 6尾（360g）",
+     "brand": "",
+     "size": "6尾（360g）",
+     "price_tax_excluded": 1980,
+     "origin": "インドネシア産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kara_ebi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_ika_ring",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "いか"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "いかリングフライ",
+    "炒め物",
+    "パスタ",
+    "アヒージョ",
+    "シーフードカレー"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかいいかを食べやすい輪切りや短冊にカットして凍結しました。下処理済みで、いかリングフライやアヒージョ、炒め物、パスタにすぐ使えます。加熱しても固くなりにくく、ぷりっとした歯ごたえが楽しめます。",
+   "image_brief": "A clear freezer bag of white squid rings and tentacle pieces with icy glaze, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いかリング 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "Cymbal いか 短冊カット 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 するめいか 胴切り 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "青森県産"
+    },
+    {
+     "title": "Cymbal ベーシック いかリング 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "Cymbal やりいか 下処理済み 3杯（300g）",
+     "brand": "Cymbal",
+     "size": "3杯（300g）",
+     "price_tax_excluded": 698,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_ika_ring_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_asari",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "貝類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    11,
+    12
+   ],
+   "dishes": [
+    "酒蒸し",
+    "ボンゴレ",
+    "味噌汁",
+    "クラムチャウダー",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "砂抜き済みの殻付きあさりを急速凍結しました。凍ったまま鍋やフライパンに入れれば口が開き、酒蒸しやボンゴレ、味噌汁、クラムチャウダーが手軽に作れます。旨みたっぷりのだしが出て、鍋物にもぴったりです。",
+   "image_brief": "A clear freezer bag of frosty shell-on grey-brown clams, blank white label panel, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 殻付き あさり 砂抜き済み 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 殻付き あさり 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "Cymbal ベーシック 殻付き あさり 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal むき身 あさり ボイル 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 殻付き はまぐり 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_asari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_hotate",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "貝類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お刺身",
+    "バター焼き",
+    "カルパッチョ",
+    "フライ",
+    "寿司"
+   ],
+   "tax_rate": 8,
+   "description": "北海道で水揚げされたほたての貝柱を、鮮度を保ったまま急速凍結しました。お刺身用は冷蔵庫でゆっくり解凍するだけで甘みのある貝柱が楽しめます。バター焼きやフライ、カルパッチョにも。年末年始のごちそうにもおすすめです。",
+   "image_brief": "A sleek black tray of plump creamy-white raw scallop adductors under clear film, blank gold-edged label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "お刺身用 ほたて貝柱 Mサイズ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "お刺身用 ほたて貝柱 大粒 Lサイズ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2380,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ほたて貝柱 割れ・欠け 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ボイルほたて 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "Cymbal ベーシック ボイルベビーほたて 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_hotate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kaki",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "貝類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "カキフライ",
+    "鍋",
+    "牡蠣ご飯",
+    "グラタン",
+    "バター焼き"
+   ],
+   "tax_rate": 8,
+   "description": "ぷっくりと身の詰まった加熱用のむき牡蠣を一粒ずつ凍結しました。冷蔵庫で解凍してカキフライや鍋、牡蠣ご飯、グラタンに。濃厚な旨みとクリーミーな味わいで、寒い季節にぴったりの冷凍シーフードです。",
+   "image_brief": "A clear freezer bag of glazed plump grey-cream shucked oysters, frost crystals, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "加熱用 むき牡蠣 大粒 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "広島県産"
+    },
+    {
+     "title": "加熱用 むき牡蠣 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1380,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "加熱用 むき牡蠣 Mサイズ 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "韓国産"
+    },
+    {
+     "title": "Cymbal 加熱用 むき牡蠣 バラ凍結 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "広島県産"
+    },
+    {
+     "title": "Cymbal セレクト 加熱用 むき牡蠣 特大 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 1680,
+     "origin": "広島県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_zuwaigani",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "かに"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "かに"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "かにしゃぶ",
+    "かに鍋",
+    "焼きがに",
+    "雑炊",
+    "年末年始"
+   ],
+   "tax_rate": 8,
+   "description": "身がぎっしり詰まったボイルずわいがにの脚を急速凍結しました。冷蔵庫でゆっくり解凍すればそのまま食べられ、かに鍋や焼きがに、雑炊にも。殻に切り込みが入ったカットタイプもあり、年末年始の食卓をにぎやかに彩ります。",
+   "image_brief": "A gift-style black box with clear lid holding bright orange-red boiled snow crab legs on ice, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボイル ずわいがに 脚 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 3980,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ボイル ずわいがに 脚 大 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 7480,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "カット済み 生ずわいがに しゃぶしゃぶ用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 4980,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ボイル ずわいがに 肩肉 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 2980,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "ボイル 紅ずわいがに 脚 ハーフカット 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_zuwaigani_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_tako",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "たこ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "唐揚げ",
+    "カルパッチョ",
+    "マリネ",
+    "酢の物"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかくボイルしたたこを、使いやすいぶつ切りやスライスにして凍結しました。解凍してそのままマリネや酢の物に、たこ焼きや唐揚げの材料にもぴったり。プリプリとした食感とほどよい弾力が楽しめます。",
+   "image_brief": "A clear freezer bag of boiled reddish-purple octopus pieces with white flesh, frosty, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ボイル たこ ぶつ切り 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "モーリタニア産"
+    },
+    {
+     "title": "Cymbal ボイル たこ たこ焼き用 小切り 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 ボイル 真だこ スライス 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック ボイル たこ ぶつ切り 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_tako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_shijimi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "貝類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "しじみ汁",
+    "味噌汁",
+    "酒蒸し",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "砂抜き済みのしじみを殻付きのまま凍結しました。凍ったまま熱湯に入れるだけで濃い旨みが出て、しじみの味噌汁やお吸い物が手軽に作れます。1回分の小分けタイプは朝食の一杯にも便利です。",
+   "image_brief": "A clear freezer bag of small dark shell-on freshwater clams with frost, blank white label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 砂抜き済み しじみ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 大和しじみ 砂抜き済み 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "島根県産"
+    },
+    {
+     "title": "Cymbal しじみ 小分け 50g×5袋",
+     "brand": "Cymbal",
+     "size": "50g×5袋",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 しじみ 大粒 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_shijimi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_mussel",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "貝類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ワイン蒸し",
+    "パエリア",
+    "ブイヤベース",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "ボイル済みのムール貝を殻付きで凍結しました。白ワインで蒸すだけで本格的なワイン蒸しに、パエリアやブイヤベース、パスタにも華やかな一品として使えます。ホームパーティーや週末の洋風料理におすすめです。",
+   "image_brief": "A clear freezer bag of glossy black shell-on mussels with orange meat visible, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ボイル ムール貝 殻付き 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal セレクト ボイル ムール貝 ハーフシェル 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal ムール貝 むき身 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "Cymbal ムール貝 白ワイン蒸し用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_mussel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_seafood_premium_mix",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 魚介",
+    "シーフードミックス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび",
+    "いか"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パエリア",
+    "アヒージョ",
+    "ブイヤベース",
+    "シーフード鍋"
+   ],
+   "tax_rate": 8,
+   "description": "大ぶりのえび、ほたて、いか、ムール貝を贅沢に組み合わせたごちそう向けシーフードミックス。パエリアやアヒージョ、ブイヤベースなど、具材の存在感が主役になる料理にぴったり。週末やクリスマスの特別メニューに。",
+   "image_brief": "A clear freezer bag of large shrimp, scallops, squid pieces and black mussels mixed together, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ごちそう シーフードミックス 大粒 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "タイ産他"
+    },
+    {
+     "title": "Cymbal セレクト パエリア用 シーフードミックス 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 898,
+     "origin": "チリ産他"
+    },
+    {
+     "title": "Cymbal セレクト アヒージョ用 シーフードミックス 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "ベトナム産他"
+    },
+    {
+     "title": "Cymbal セレクト ほたて入り シーフードミックス 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 1280,
+     "origin": "中国産他"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_seafood_premium_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_torimomo",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "から揚げ",
+    "照り焼き",
+    "親子丼",
+    "チキンソテー",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "ジューシーな鶏もも肉を、から揚げ用のひと口大カットや1枚ものでバラ凍結しました。必要な分だけ取り出せて解凍もしやすく、から揚げや照り焼き、親子丼、鍋物まで幅広く活躍。まとめ買いで食費を抑えたいご家庭にも便利です。",
+   "image_brief": "A clear freezer bag of individually frozen bite-size raw chicken thigh pieces, pink with frost, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 国産若鶏もも肉 から揚げ用カット 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 若鶏もも肉 バラ凍結 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "冷凍 国産若鶏もも肉 1枚もの 4枚入（1kg）",
+     "brand": "",
+     "size": "4枚入（1kg）",
+     "price_tax_excluded": 1280,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal 冷凍 若鶏もも肉 小分け 250g×4袋",
+     "brand": "Cymbal",
+     "size": "250g×4袋",
+     "price_tax_excluded": 1180,
+     "origin": "タイ産"
+    },
+    {
+     "title": "冷凍 銘柄鶏もも肉 から揚げ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_torimomo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_torimune",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダチキン",
+    "棒棒鶏",
+    "チキン南蛮",
+    "鶏ハム",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "高たんぱくでヘルシーな鶏むね肉を、皮なしで使いやすくカットして凍結しました。そぎ切りやひと口大の形で届くので、炒め物やチキン南蛮、自家製サラダチキンにすぐ使えます。体づくりを意識する方の作り置きにもおすすめです。",
+   "image_brief": "A clear freezer bag of pale pink skinless chicken breast fillets individually frozen, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 国産若鶏むね肉 皮なし 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 若鶏むね肉 バラ凍結 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "冷凍 国産若鶏むね肉 そぎ切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "Cymbal 冷凍 若鶏むね肉 ひと口カット 小分け 250g×4袋",
+     "brand": "Cymbal",
+     "size": "250g×4袋",
+     "price_tax_excluded": 898,
+     "origin": "タイ産"
+    },
+    {
+     "title": "冷凍 国産若鶏ささみ 筋なし 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_torimune_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_tebamoto",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "水炊き",
+    "ポトフ",
+    "煮物",
+    "唐揚げ",
+    "サムゲタン風スープ"
+   ],
+   "tax_rate": 8,
+   "description": "骨付きで旨みたっぷりの手羽元をバラ凍結しました。煮込むほどに骨からよいだしが出て、水炊きやポトフ、甘辛煮にぴったり。オーブン焼きや唐揚げにも使え、寒い季節の鍋やスープの主役になります。",
+   "image_brief": "A clear freezer bag of raw chicken drumettes individually frozen, pinkish with frost, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 国産若鶏手羽元 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 若鶏手羽元 バラ凍結 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "冷凍 国産若鶏手羽中ハーフ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 冷凍 若鶏手羽元 小分け 500g×2袋",
+     "brand": "Cymbal",
+     "size": "500g×2袋",
+     "price_tax_excluded": 898,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_tebamoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_hikiniku",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "ひき肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "豚肉",
+    "牛肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "麻婆豆腐",
+    "そぼろ",
+    "餃子",
+    "ミートソース"
+   ],
+   "tax_rate": 8,
+   "description": "パラパラにバラ凍結したひき肉なので、必要な量だけスプーンですくって凍ったままフライパンへ入れられます。麻婆豆腐やそぼろ、ミートソースなど毎日のおかずに。合いびき・豚・鶏の3種類を揃えました。",
+   "image_brief": "A clear freezer bag of loose crumbly frozen ground meat, pink-red granules, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 パラパラ 国産豚ひき肉 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 パラパラ 合いびき肉 牛6：豚4 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "オーストラリア産・国産"
+    },
+    {
+     "title": "冷凍 パラパラ 国産鶏ひき肉 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 冷凍 パラパラ 合いびき肉 小分け 200g×3袋",
+     "brand": "Cymbal",
+     "size": "200g×3袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "冷凍 パラパラ 豚ひき肉 業務用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 998,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_hikiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_buta_slice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "豚肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "豚汁",
+    "生姜焼き",
+    "冷しゃぶ",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "しゃぶしゃぶや炒め物に使いやすい薄切りの豚ロース・豚バラを、1枚ずつはがしやすい状態で凍結しました。鍋や豚汁、生姜焼きなど幅広く使え、使う分だけ取り出せて便利。冬の鍋シーズンの常備肉としておすすめです。",
+   "image_brief": "A flat clear freezer tray of thinly sliced pink pork loin layered in rolls, blank label sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 国産豚ロース しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 国産豚バラ うす切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 豚肩ロース しょうが焼き用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal 冷凍 豚バラ うす切り 小分け 150g×4袋",
+     "brand": "Cymbal",
+     "size": "150g×4袋",
+     "price_tax_excluded": 1180,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "冷凍 銘柄豚ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 998,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_buta_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_gyu_kiriotoshi",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "牛肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "牛丼",
+    "肉じゃが",
+    "すき焼き",
+    "炒め物",
+    "ビーフシチュー"
+   ],
+   "tax_rate": 8,
+   "description": "肉じゃがや牛丼、炒め物に使いやすい牛肉の切り落としを、ほぐれやすく凍結しました。国産牛から使い勝手のよい輸入牛まで揃え、ビーフシチュー用の角切りや下ゆで済みの牛すじもご用意。冷凍庫にあると献立の幅が広がります。",
+   "image_brief": "A clear flat freezer pack of thinly sliced red beef trimmings with marbling, blank label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "冷凍 牛肉 切り落とし 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "冷凍 国産牛 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "冷凍 牛肉 シチュー用角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 998,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal 冷凍 牛肉 切り落とし 小分け 150g×4袋",
+     "brand": "Cymbal",
+     "size": "150g×4袋",
+     "price_tax_excluded": 1380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "冷凍 国産牛すじ 下ゆで済み 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_gyu_kiriotoshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_soft_cream_cup",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "ソフトクリーム風アイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産の生乳を使い、口どけなめらかに仕上げたソフトクリーム風のカップアイス。ふんわりとした渦巻きの形で、濃厚なミルクのコクとすっきりした後味が楽しめます。おうちで気軽にソフトクリーム気分を味わえるデザートです。",
+   "image_brief": "A clear-lidded paper cup showing a white swirl of soft-serve style ice cream, blank pastel label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 北海道ミルク ソフトクリーム風カップ 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道ミルク ソフトクリーム風カップ チョコミックス 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道ミルク ソフトクリーム風カップ 抹茶ミックス 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ソフトクリーム風 ミルクアイス 4個入（120ml×4）",
+     "brand": "Cymbal",
+     "size": "4個入（120ml×4）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミルクヴェール 牧場ソフトクリーム風 コーン 6本入",
+     "brand": "ミルクヴェール",
+     "size": "6本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_soft_cream_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_strawberry_cup",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟いちごの果肉とピューレをたっぷり練り込んだストロベリーアイス。甘酸っぱい果実感とミルクのまろやかさがよく合います。ストロベリー＆練乳やチーズケーキ風など、いちご好きにうれしいフレーバーを揃えました。",
+   "image_brief": "A round pink paper ice cream cup with a clear lid revealing pink ice cream studded with strawberry pieces, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 果肉入り ストロベリーアイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ストロベリーアイス 2000ml",
+     "brand": "Cymbal",
+     "size": "2000ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ストロベリー＆練乳 アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ストロベリーチーズケーキ アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グラシエ堂 苺ミルクアイス 大人のごほうび 110ml",
+     "brand": "グラシエ堂",
+     "size": "110ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_strawberry_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_choco_cup",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "食後のごほうび"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの香り豊かなチョコレートを贅沢に使ったカップアイス。濃厚なショコラやチョコチップ入り、ビターなハイカカオまで、チョコ好きに楽しんでほしい味わいを揃えました。寒い季節のこたつアイスにもおすすめです。",
+   "image_brief": "A dark brown round ice cream cup with clear lid showing rich chocolate ice cream with chocolate chips, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ベルギーチョコ使用 濃厚ショコラアイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコチップ アイス 2000ml",
+     "brand": "Cymbal",
+     "size": "2000ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハイカカオ ビターチョコアイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコミント アイス 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グラシエ堂 生チョコ仕立て ショコラアイス 110ml",
+     "brand": "グラシエ堂",
+     "size": "110ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_choco_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_cookies_cream",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ココアクッキーを砕いてバニラアイスにたっぷり混ぜ込みました。ザクザクのクッキー食感となめらかなアイスのコントラストが楽しい人気フレーバー。こどもから大人まで喜ばれる、家族で取り分けやすい大容量タイプもあります。",
+   "image_brief": "A white ice cream tub with a clear lid showing vanilla ice cream speckled with dark cookie crumbs, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クッキー＆クリーム アイス 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クッキー＆クリーム アイス 2000ml",
+     "brand": "Cymbal",
+     "size": "2000ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ザクザククッキー＆クリーム アイス 470ml",
+     "brand": "Cymbal セレクト",
+     "size": "470ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クッキー＆クリーム ミニカップ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_cookies_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_rum_raisin",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "食後のデザート",
+    "大人のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "洋酒に漬け込んだ大粒のレーズンを濃厚なミルクアイスに合わせた、大人向けのラムレーズンアイス。芳醇な香りとレーズンのジューシーな甘みが広がります。寒い季節の食後や、ゆっくり過ごす夜のごほうびデザートにどうぞ。",
+   "image_brief": "A small premium burgundy paper cup with clear lid showing cream ice cream with plump dark raisins, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 大人のラムレーズンアイス 110ml",
+     "brand": "Cymbal セレクト",
+     "size": "110ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大人のラムレーズンアイス 3個入（110ml×3）",
+     "brand": "Cymbal セレクト",
+     "size": "3個入（110ml×3）",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グラシエ堂 洋酒香る ラムレーズン 120ml",
+     "brand": "グラシエ堂",
+     "size": "120ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラムレーズン アイス 470ml",
+     "brand": "Cymbal",
+     "size": "470ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_rum_raisin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_gelato",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "ジェラート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "イタリアの製法を参考に、空気を含ませすぎず密度高く仕上げたジェラート。ピスタチオや塩キャラメル、ミルクなど素材の味が濃く感じられるフレーバーを揃えました。食後のデザートやおもてなしにどうぞ。",
+   "image_brief": "A slim clear-lidded gelato cup showing smooth pale green pistachio gelato, minimalist blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ピスタチオ ジェラート 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 塩キャラメル ジェラート 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ミルク ジェラート 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ドルチェルナ ジェラート アソート 6個入（100ml×6）",
+     "brand": "ドルチェルナ",
+     "size": "6個入（100ml×6）",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ドルチェルナ ピスタチオ ジェラート 家族用 500ml",
+     "brand": "ドルチェルナ",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_gelato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_matcha_azuki_monaka",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "モナカアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "和のデザート",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしい最中の皮で、宇治抹茶アイスと北海道産小豆のつぶあんをはさんだ和風モナカ。ほろ苦い抹茶と上品な甘さの小豆が絶妙に調和します。ほうじ茶や黒蜜きなこなど、和のフレーバーを揃えました。",
+   "image_brief": "A rectangular wafer monaka ice sandwich showing a green matcha layer and red bean paste, in a plain blank wrapper, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 抹茶あずき モナカアイス 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶 つぶあん最中 アイス 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほうじ茶 モナカアイス 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒蜜きなこ モナカアイス 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 和風モナカアイス アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_matcha_azuki_monaka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_fruit_bar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスキャンディー・氷菓"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "おやつ",
+    "暑い日のリフレッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "果汁と果肉をたっぷり使ったフルーツアイスバー。白桃やマンゴー、ぶどう、すいかなど果物そのもののようなみずみずしさで、暑い日のリフレッシュにぴったりです。乳成分不使用で、すっきりした後味が楽しめます。",
+   "image_brief": "A box of individually wrapped fruit ice bars visible through a cut-out window, colorful pastel ice pops, blank carton, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 果肉入り 白桃バー 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果肉入り マンゴーバー 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果汁たっぷり ぶどうバー 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト まるごと果実バー すいか 6本入",
+     "brand": "Cymbal セレクト",
+     "size": "6本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツバー アソート 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_fruit_bar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_twin_tube",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "チューブアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "シェア",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかいシャーベット状のアイスがつまった2本つながりのチューブアイス。半分に分けて友達や家族とシェアでき、少し溶かすと吸いやすくなります。コーヒー、ホワイトサワー、チョコの3つの味を揃えました。",
+   "image_brief": "A pair of connected soft plastic tube ice pops in plain pastel packaging, blank label, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ツインチューブアイス コーヒー 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ツインチューブアイス ホワイトサワー 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ツインチューブアイス チョコ 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニチューブアイス アソート 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_twin_tube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_assort_minibar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "マルチパック"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "パーティー",
+    "家族のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "バニラ、チョコ、ストロベリー、抹茶のミニアイスバーを詰め合わせたマルチパック。小ぶりなサイズで食べきりやすく、家族それぞれ好きな味を選べます。チョココーティングタイプやパーティー向け大容量も揃えました。",
+   "image_brief": "A family-size cardboard multipack box with a window showing assorted mini ice cream bars in four colors, blank carton, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニアイスバー 4種アソート 12本入",
+     "brand": "Cymbal",
+     "size": "12本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコがけ ミニバー アソート 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニアイスバー バニラ＆チョコ 20本入",
+     "brand": "Cymbal ベーシック",
+     "size": "20本入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚ミニバー 抹茶＆ほうじ茶 8本入",
+     "brand": "Cymbal セレクト",
+     "size": "8本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_assort_minibar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_yakiimo_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "和風アイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おやつ",
+    "冬のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとり甘い焼き芋のペーストを練り込んだ、秋冬限定のアイス。香ばしい焼き芋の風味とミルクのコクがよく合い、温かい部屋で味わうのにぴったりです。カップ、モナカ、バーの3タイプで楽しめます。",
+   "image_brief": "A warm golden-yellow ice cream cup with clear lid showing sweet potato ice cream with a caramelized swirl, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 秋冬限定 焼き芋アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 秋冬限定 紅はるか焼き芋モナカ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼き芋アイスバー 5本入",
+     "brand": "Cymbal",
+     "size": "5本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 栗と焼き芋のアイス 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_yakiimo_ice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_kakigori_cup",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "かき氷"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "おやつ",
+    "暑い日のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ふわっと軽い口当たりの氷に、練乳やシロップをかけたカップかき氷。宇治金時やマンゴーミルク、ブルーハワイ風など、夏祭り気分を味わえる味をそろえました。スプーンで崩しながら食べやすいやわらかさです。",
+   "image_brief": "A clear plastic dome cup of shaved ice topped with condensed milk and green tea syrup with red beans, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 練乳がけ 宇治金時 かき氷 1個（230ml）",
+     "brand": "Cymbal",
+     "size": "1個（230ml）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マンゴーミルク かき氷 1個（230ml）",
+     "brand": "Cymbal",
+     "size": "1個（230ml）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーハワイ風 ソーダかき氷 1個（230ml）",
+     "brand": "Cymbal",
+     "size": "1個（230ml）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ふわふわ 台湾風ミルクかき氷 1個（200ml）",
+     "brand": "Cymbal セレクト",
+     "size": "1個（200ml）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニカップかき氷 アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_kakigori_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_sherbet_assort",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "シャーベット・ソルベ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "食後のデザート",
+    "口直し",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "果汁感たっぷりのシャーベットとソルベ。ゆず、グレープフルーツ、ラ・フランス、カシスなど、すっきりとした酸味と香りが楽しめる味をそろえました。脂肪分控えめで、食後の口直しにもぴったりです。",
+   "image_brief": "A row of small frosted pastel sorbet cups with clear lids, yellow, pink and purple colors, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆずシャーベット 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グレープフルーツ シャーベット 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラ・フランス ソルベ 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カシス ソルベ 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シャーベット 4種アソート 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_sherbet_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_cream_cheese_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "クリームチーズのコクとほどよい酸味をいかした濃厚なチーズアイス。ベイクドチーズケーキのような味わいで、ブルーベリーソースやはちみつのフレーバーも揃えました。紅茶やコーヒーとあわせて、ちょっと贅沢なひとときに。",
+   "image_brief": "A cream-colored paper ice cream cup with clear lid showing ivory cheese ice cream with a blueberry swirl, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 濃厚クリームチーズ アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クリームチーズ＆ブルーベリー アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト はちみつクリームチーズ アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズケーキ風 アイス 470ml",
+     "brand": "Cymbal",
+     "size": "470ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_cream_cheese_ice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_pudding_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "カスタードプリンの風味をアイスに閉じ込め、香ばしいカラメルソースを重ねたプリンアイス。卵のコクとほろ苦いカラメルの組み合わせが懐かしいおいしさです。焼きプリン風やクレームブリュレ風も揃えました。",
+   "image_brief": "A clear-lidded round cup showing yellow custard ice cream topped with a dark caramel sauce layer, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カスタードプリン アイス 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きプリン風 アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クレームブリュレ風 アイス 110ml",
+     "brand": "Cymbal セレクト",
+     "size": "110ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリンアイス ミニカップ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_pudding_ice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_hojicha_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お茶うけ",
+    "和のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "深煎りのほうじ茶を使った香ばしいアイス。すっきりした苦みとミルクのまろやかさが調和し、甘さ控えめで大人にも人気です。黒蜜がけやきなこ入り、和三盆仕立てなど、和の素材にこだわった味わいを揃えました。",
+   "image_brief": "A light brown paper ice cream cup with clear lid showing tan roasted tea ice cream, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 深煎りほうじ茶 アイス 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ほうじ茶ラテ アイス 黒蜜がけ 120ml",
+     "brand": "Cymbal セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きなこ黒みつ アイス 120ml",
+     "brand": "Cymbal",
+     "size": "120ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 和三盆仕立て ミルクアイス 110ml",
+     "brand": "Cymbal セレクト",
+     "size": "110ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_hojicha_ice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_ice_crepe",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスデザート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりとしたクレープ生地でバニラアイスとホイップを包んだアイスクレープ。いちごやチョコバナナなど、クレープ屋さんのような味わいが冷凍庫から気軽に楽しめます。半解凍でもちもち食感がより引き立ちます。",
+   "image_brief": "A folded crepe filled with vanilla ice cream and strawberry sauce in a clear plastic sleeve with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごアイスクレープ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコバナナ アイスクレープ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カスタードアイスクレープ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニアイスクレープ アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_ice_crepe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_ice_choux",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスデザート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "パーティー",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズのシュー生地にバニラアイスを詰めたアイスシュー。サクッとした皮となめらかなアイスの組み合わせで、ついもうひとつと手が伸びます。チョコがけや抹茶など、パーティーやおもてなしにも便利です。",
+   "image_brief": "An open tray of bite-size cream puffs filled with ice cream, some chocolate-coated, in a plain blank box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひと口アイスシュー バニラ 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひと口アイスシュー チョコがけ 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ひと口アイスシュー 宇治抹茶 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ひと口アイスシュー バニラ 大容量 24個入",
+     "brand": "Cymbal ベーシック",
+     "size": "24個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_ice_choux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_vanilla_premium",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "アフォガート",
+    "パンケーキのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "マダガスカル産バニラビーンズと北海道産生クリームを使い、卵黄でコクを出した濃厚なプレミアムバニラ。バニラビーンズの黒い粒が見える本格的な味わいで、そのままはもちろんアフォガートやパンケーキのトッピングにも。",
+   "image_brief": "A small elegant ivory ice cream cup with clear lid showing creamy vanilla ice cream flecked with vanilla seeds, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト マダガスカルバニラ プレミアムアイス 110ml",
+     "brand": "Cymbal セレクト",
+     "size": "110ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マダガスカルバニラ プレミアムアイス 4個入（110ml×4）",
+     "brand": "Cymbal セレクト",
+     "size": "4個入（110ml×4）",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グラシエ堂 濃厚卵黄 カスタードバニラ 120ml",
+     "brand": "グラシエ堂",
+     "size": "120ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マダガスカルバニラ プレミアムアイス 家族用 470ml",
+     "brand": "Cymbal セレクト",
+     "size": "470ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_vanilla_premium_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_cheesecake_bar",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "アイスバー"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "クリームチーズアイスに砕いたビスケットをまぶしたチーズケーキ風アイスバー。濃厚なチーズのコクとサクサク食感が手軽に楽しめます。ブルーベリーやレモンなど、さわやかな酸味を添えたフレーバーもあります。",
+   "image_brief": "A box of individually wrapped ice bars with an ivory cheese core and crumbly biscuit coating, blank carton, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズケーキ風 アイスバー 5本入",
+     "brand": "Cymbal",
+     "size": "5本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーベリーチーズケーキ アイスバー 5本入",
+     "brand": "Cymbal",
+     "size": "5本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト レモンレアチーズ アイスバー 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚チーズケーキ アイスバー 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_cheesecake_bar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_frozen_ingredients_ice_mango_lassi_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "フローズンデザート"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "おやつ",
+    "エスニック料理の後に"
+   ],
+   "tax_rate": 8,
+   "description": "マンゴーとヨーグルトを合わせたラッシー風のフローズンデザート。とろけるような甘さとさわやかな酸味で、カレーなどエスニック料理の後にもぴったりです。マンゴーのほか、いちごのラッシー風も揃えました。",
+   "image_brief": "A tall clear cup of orange mango yogurt frozen dessert with a domed lid, blank label wrap, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マンゴーラッシー風 アイス 140ml",
+     "brand": "Cymbal",
+     "size": "140ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごラッシー風 アイス 140ml",
+     "brand": "Cymbal",
+     "size": "140ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マンゴーラッシー風 アイス 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アルフォンソマンゴー ラッシーアイス 130ml",
+     "brand": "Cymbal セレクト",
+     "size": "130ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_frozen_ingredients_ice_mango_lassi_ice_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

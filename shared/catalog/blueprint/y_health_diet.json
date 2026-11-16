@@ -1,0 +1,2958 @@
+{
+ "category_key": "y_health_diet",
+ "items": [
+  {
+   "base_id": "y_health_diet_tofu_noodles",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆腐麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷やし中華",
+    "ラーメン",
+    "パスタ",
+    "サラダ",
+    "鍋の〆"
+   ],
+   "tax_rate": 8,
+   "description": "豆腐を主原料にした、ゆでずに水を切るだけで使える麺です。冷やし中華風やサラダ麺、温かいスープに入れてラーメン風にもアレンジできます。麺類を軽めに楽しみたい日の昼ごはんにどうぞ。",
+   "image_brief": "A clear plastic tray of pale cream tofu noodles with a green-and-white paper sleeve labeled 「豆腐でつくった麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豆腐でつくった麺 丸麺 1食 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆腐でつくった麺 平麺 1食 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆腐でつくった麺 細麺 そうめん風 1食 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆腐でつくった麺 丸麺 3食パック 450g",
+     "brand": "トップバリュ",
+     "size": "450g（150g×3）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆腐でつくった麺 冷やし中華 ごまだれ付 1食",
+     "brand": "トップバリュ",
+     "size": "麺150g・たれ30g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆腐でつくった麺 担々風スープ付 1食",
+     "brand": "トップバリュ",
+     "size": "麺150g・スープ35g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大豆使用 豆腐麺 丸麺 1食 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_tofu_noodles_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_konjac_noodles",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "こんにゃく麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "焼きそば",
+    "パスタ",
+    "冷やし中華",
+    "鍋の〆"
+   ],
+   "tax_rate": 8,
+   "description": "こんにゃく粉を使った、下ゆで不要で水洗いするだけの麺です。焼きそばやナポリタン、鍋の〆など、いつもの麺料理の代わりに使えます。常温で保存できるのでストックにも便利です。",
+   "image_brief": "A stand-up clear pouch of translucent grey konjac noodles in water, with a white label reading 「こんにゃく麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ こんにゃく麺 中華麺タイプ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく麺 パスタタイプ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく麺 うどんタイプ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく麺 そば風タイプ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく麺 中華麺タイプ 3食パック 540g",
+     "brand": "トップバリュ",
+     "size": "540g（180g×3）",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくラーメン しょうゆスープ付 1食",
+     "brand": "トップバリュ",
+     "size": "麺180g・スープ付",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく冷やし中華 スープ付 1食",
+     "brand": "トップバリュ",
+     "size": "麺180g・スープ付",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 群馬県産こんにゃく芋使用 こんにゃく麺 丸麺 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 148,
+     "origin": "群馬県産こんにゃく芋使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_konjac_noodles_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_chuka_men",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "糖質オフ麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "焼きそば",
+    "冷やし中華",
+    "つけ麺"
+   ],
+   "tax_rate": 8,
+   "description": "小麦ふすまや大豆粉を配合し、通常の生中華麺より糖質を抑えた麺です。もちもちした食感で、ラーメンや焼きそば、冷やし中華にいつも通り使えます。家族と同じメニューにしたいときにも便利です。",
+   "image_brief": "A rectangular plastic tray pack with two portions of yellowish fresh ramen noodles and a red label reading 「糖質30%オフ 生中華麺」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質30%オフ 生中華麺 しょうゆスープ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺120g×2）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 生中華麺 みそスープ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺120g×2）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 生中華麺 スープなし 3玉入",
+     "brand": "トップバリュ",
+     "size": "360g（120g×3）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質50%オフ 生中華麺 しょうゆスープ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺110g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 蒸し焼きそば ソース付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺130g×2）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 冷し中華 しょうゆだれ 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺120g×2）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 冷し中華 ごまだれ 2食入",
+     "brand": "トップバリュ",
+     "size": "2食（麺120g×2）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_chuka_men_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_pasta",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタ",
+    "糖質オフパスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "ナポリタン",
+    "ミートソース",
+    "グラタン",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "大豆粉を配合し、一般的なスパゲッティより糖質を抑えた乾燥パスタです。ミートソースやナポリタン、和風パスタなどいつものレシピで調理できます。ショートタイプはグラタンやサラダにもおすすめです。",
+   "image_brief": "A slim cardboard box with a window showing light-brown dried spaghetti, labeled 「糖質50%オフ スパゲッティ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質50%オフ スパゲッティ 1.4mm 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質50%オフ スパゲッティ 1.6mm 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ 早ゆでスパゲッティ 1.6mm 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質50%オフ ペンネ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質50%オフ マカロニ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆粉配合 フェットチーネ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_pasta_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_konnyaku_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "こんにゃく米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "カレー",
+    "親子丼",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "お米に混ぜて一緒に炊くだけの乾燥粒こんにゃくです。いつものごはんとほとんど変わらない見た目で、カレーや丼もの、お弁当のごはんにも使えます。1合分ずつの小袋で計量の手間がかかりません。",
+   "image_brief": "A white stand-up pouch with small individually packed sachets of dried rice-shaped konjac grains, labeled 「乾燥こんにゃく米」.",
+   "variants": [
+    {
+     "title": "トップバリュ 乾燥こんにゃく米 60g×5袋",
+     "brand": "トップバリュ",
+     "size": "300g（60g×5）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 乾燥こんにゃく米 60g×10袋",
+     "brand": "トップバリュ",
+     "size": "600g（60g×10）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 乾燥こんにゃく米 1合用 25g×7袋",
+     "brand": "トップバリュ",
+     "size": "175g（25g×7）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 乾燥こんにゃく米 徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機こんにゃく米 60g×5袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g（60g×5）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_konnyaku_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_konjac_rice_pack",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯",
+    "こんにゃく入りごはん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "カレー",
+    "丼もの",
+    "おにぎり",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産米に粒こんにゃくを合わせて炊き上げた、電子レンジで温めるだけのパックごはんです。カレーや丼もの、おにぎりにもそのまま使えます。忙しい日の昼ごはんや一人分のごはんに便利です。",
+   "image_brief": "A transparent-lid plastic rice tray with a printed film showing steamed white rice, labeled 「こんにゃく入りごはん」, in a 3-pack sleeve.",
+   "variants": [
+    {
+     "title": "トップバリュ こんにゃく入りごはん 国産米使用 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g（150g×3）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく入りごはん 国産米使用 150g×6食",
+     "brand": "トップバリュ",
+     "size": "900g（150g×6）",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃく入りごはん 国産米使用 160g 1食",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もち麦こんにゃくごはん 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g（150g×3）",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玄米こんにゃくごはん 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g（150g×3）",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 雑穀こんにゃくごはん 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g（150g×3）",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_konjac_rice_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_bran_rolls",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "低糖質パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "サンドイッチ",
+    "お弁当",
+    "シチュー"
+   ],
+   "tax_rate": 8,
+   "description": "小麦ふすまを使い、糖質を抑えて焼き上げた小ぶりのロールパンです。トーストしてバターを塗ったり、ハムや卵をはさんでサンドイッチにしたりと朝ごはんに使いやすいサイズです。シチューやスープのおともにもどうぞ。",
+   "image_brief": "A clear plastic bag with four brown round bran rolls, a twist tie and a label reading 「糖質を抑えた ブランロール」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質を抑えた ブランロール 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた ブランロール 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた ブランロール ごま 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた ブランロール チーズ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り ロールパン 5個入",
+     "brand": "トップバリュ",
+     "size": "5個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ふすま入り イングリッシュマフィン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた ブランドッグパン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_bran_rolls_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "低糖質食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "サンドイッチ",
+    "トースト",
+    "フレンチトースト"
+   ],
+   "tax_rate": 8,
+   "description": "小麦ふすまと大豆粉を配合し、糖質を抑えた食パンです。トーストやサンドイッチなど、普段の食パンと同じように使えます。朝ごはんのトーストにチーズや目玉焼きをのせるのもおすすめです。",
+   "image_brief": "A clear plastic bread bag holding a loaf of light-brown sliced bread, with a blue label reading 「糖質を抑えた 食パン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質を抑えた 食パン 4枚切",
+     "brand": "トップバリュ",
+     "size": "4枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた 食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた 食パン 8枚切 サンドイッチ用",
+     "brand": "トップバリュ",
+     "size": "8枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り 食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆粉入り 山型食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質を抑えた ブラン食パン ハーフサイズ 3枚切",
+     "brand": "トップバリュ",
+     "size": "3枚",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_shokupan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_protein_bar",
+   "category_path": [
+    "お菓子・製菓",
+    "ヘルシーおやつ",
+    "プロテインバー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お出かけ",
+    "部活の補食"
+   ],
+   "tax_rate": 8,
+   "description": "1本でたんぱく質15gがとれる、チョコレートコーティングのバーです。小腹がすいたときのおやつや、忙しい朝の一品として手軽に食べられます。個包装なのでバッグに入れて持ち歩けます。",
+   "image_brief": "A single foil-wrapped protein bar package with a dark brown design and a cut-open bar visible, labeled 「たんぱく質15g プロテインバー」.",
+   "variants": [
+    {
+     "title": "トップバリュ たんぱく質15g プロテインバー チョコレート 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約40g）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g プロテインバー ビターチョコ 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約40g）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g プロテインバー ベイクドチーズ味 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約40g）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g プロテインバー ストロベリー味 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約40g）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g プロテインバー チョコレート 5本入",
+     "brand": "トップバリュ",
+     "size": "5本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質10g プロテインウエハース ココア 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚（約30g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質10g プロテインウエハース バニラ 5枚入",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_protein_bar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_protein_drink",
+   "category_path": [
+    "飲料・水",
+    "栄養・機能性飲料",
+    "プロテイン飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "部活の後",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "1本でたんぱく質15gがとれる、ストロー付き紙パックのミルクプロテイン飲料です。冷やしてそのまま飲めるので、朝ごはんにもう一品ほしいときや運動のあとに便利です。常温で保存できるので買い置きにも向いています。",
+   "image_brief": "A 240ml aseptic paper carton with straw, brown cocoa-themed design, labeled 「たんぱく質15g ミルクプロテイン」.",
+   "variants": [
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン ココア味 240ml",
+     "brand": "トップバリュ",
+     "size": "240ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン バニラ味 240ml",
+     "brand": "トップバリュ",
+     "size": "240ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン コーヒー味 240ml",
+     "brand": "トップバリュ",
+     "size": "240ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン ストロベリー味 240ml",
+     "brand": "トップバリュ",
+     "size": "240ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン バナナ味 240ml",
+     "brand": "トップバリュ",
+     "size": "240ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たんぱく質15g ミルクプロテイン ココア味 240ml×6本",
+     "brand": "トップバリュ",
+     "size": "1440ml（240ml×6）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_protein_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_whey_protein_powder",
+   "category_path": [
+    "飲料・水",
+    "栄養・機能性飲料",
+    "プロテインパウダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "部活の後",
+    "スムージー",
+    "ヨーグルトに混ぜて"
+   ],
+   "tax_rate": 8,
+   "description": "牛乳や水に溶かして飲むホエイプロテインのパウダーです。シェイカーでさっと混ざり、スムージーやヨーグルトに混ぜても使えます。家族で使いやすい定番の味をそろえました。",
+   "image_brief": "A resealable stand-up foil pouch with a measuring scoop graphic, labeled 「ホエイプロテイン ココア味」.",
+   "variants": [
+    {
+     "title": "トップバリュ ホエイプロテイン ココア味 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホエイプロテイン バニラ味 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホエイプロテイン ミルクティー味 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホエイプロテイン プレーン 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホエイプロテイン ココア味 徳用 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 4280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホエイプロテイン ココア味 スティック 30g×7包",
+     "brand": "トップバリュ",
+     "size": "210g（30g×7）",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_whey_protein_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_soy_protein_powder",
+   "category_path": [
+    "飲料・水",
+    "栄養・機能性飲料",
+    "ソイプロテイン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "スムージー",
+    "豆乳割り",
+    "ヨーグルトに混ぜて"
+   ],
+   "tax_rate": 8,
+   "description": "大豆たんぱくを使ったプロテインパウダーです。水や牛乳、豆乳に溶かして飲むほか、スムージーやヨーグルトに混ぜても楽しめます。きなこや抹茶など和風の味もそろえています。",
+   "image_brief": "A resealable stand-up kraft-style pouch with green accents, labeled 「ソイプロテイン 抹茶味」.",
+   "variants": [
+    {
+     "title": "トップバリュ ソイプロテイン 抹茶味 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソイプロテイン ココア味 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソイプロテイン 黒糖きなこ味 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソイプロテイン プレーン 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソイプロテイン ココア味 徳用 900g",
+     "brand": "トップバリュ",
+     "size": "900g",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソイプロテイン 抹茶味 スティック 25g×7包",
+     "brand": "トップバリュ",
+     "size": "175g（25g×7）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_soy_protein_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_high_protein_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "高たんぱくヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "フルーツヨーグルト",
+    "グラノーラ"
+   ],
+   "tax_rate": 8,
+   "description": "脂肪0で、1個でたんぱく質10gがとれる食べきりサイズの濃密ヨーグルトです。そのままはもちろん、フルーツやグラノーラをのせて朝ごはんにもどうぞ。のむタイプは忙しい朝にさっと飲めます。",
+   "image_brief": "A single 113g white plastic yogurt cup with a foil lid, blue design, labeled 「高たんぱく 脂肪0 ヨーグルト」.",
+   "variants": [
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 ヨーグルト プレーン 113g",
+     "brand": "トップバリュ",
+     "size": "113g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 ヨーグルト 加糖 113g",
+     "brand": "トップバリュ",
+     "size": "113g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 ヨーグルト ブルーベリー 113g",
+     "brand": "トップバリュ",
+     "size": "113g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 ヨーグルト ストロベリー 113g",
+     "brand": "トップバリュ",
+     "size": "113g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 ヨーグルト プレーン 113g×4個",
+     "brand": "トップバリュ",
+     "size": "452g（113g×4）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 のむヨーグルト プレーン 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高たんぱく 脂肪0 のむヨーグルト ミックスベリー 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_high_protein_yogurt_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_oshimugi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "雑穀・米",
+    "押麦・大麦"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麦ごはん",
+    "とろろごはん",
+    "スープ",
+    "サラダ",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "白米に混ぜて炊くだけで、ぷちぷちした食感の麦ごはんが楽しめる大麦です。とろろごはんやカレーのごはん、ゆでてサラダやスープの具にも使えます。小分けタイプは1合分ずつ使えて便利です。",
+   "image_brief": "A clear plastic bag of flattened pearl barley grains with a yellow label reading 「押麦」.",
+   "variants": [
+    {
+     "title": "トップバリュ 押麦 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産 押麦 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 押麦 小分け 50g×12袋",
+     "brand": "トップバリュ",
+     "size": "600g（50g×12）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 胚芽押麦 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 米粒麦 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産 大麦 丸麦 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_oshimugi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_ancient_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "雑穀・米",
+    "黒米・赤米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "雑穀ごはん",
+    "おにぎり",
+    "お赤飯風ごはん",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "白米に少量混ぜて炊くと、もちもちとした食感と色合いが楽しめる古代米です。黒米は紫色、赤米はほんのり赤いごはんに炊き上がり、おにぎりやお弁当が華やかになります。",
+   "image_brief": "A small clear stand-up bag showing glossy black rice grains with a label reading 「国産 黒米」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 黒米 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 黒米 徳用 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 赤米 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 緑米 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 古代米ミックス（黒米・赤米・緑米）30g×8袋",
+     "brand": "トップバリュ",
+     "size": "240g（30g×8）",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 岡山県産 朝紫 黒米 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "岡山県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_ancient_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_hatsuga_genmai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "発芽玄米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "発芽玄米ごはん",
+    "おにぎり",
+    "お弁当",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "玄米をわずかに発芽させた、白米と一緒に炊飯器で炊ける発芽玄米です。白米に2〜3割混ぜて炊くとやわらかく食べやすい仕上がりになります。おにぎりや炊き込みご飯にもどうぞ。",
+   "image_brief": "A vacuum-sealed brown rice bag with a beige-and-green design and a label reading 「国産 発芽玄米」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産 発芽玄米 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 発芽玄米 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 発芽玄米 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 発芽玄米 1kg",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 発芽玄米ごはん パック 160g×3食",
+     "brand": "トップバリュ",
+     "size": "480g（160g×3）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_hatsuga_genmai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_quinoa_millet",
+   "category_path": [
+    "お米・麺・インスタント",
+    "雑穀・米",
+    "キヌア・あわ・きび"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "雑穀ごはん",
+    "サラダ",
+    "スープ",
+    "ハンバーグ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ごはんに混ぜて炊いたり、ゆでてサラダやスープに加えたりできる単品の雑穀です。キヌアはぷちぷち、もちきびやもちあわはもっちりとした食感が楽しめます。ハンバーグのつなぎに使うのもおすすめです。",
+   "image_brief": "A small clear zip pouch filled with tiny tri-color quinoa seeds, labeled 「三色キヌア」.",
+   "variants": [
+    {
+     "title": "トップバリュ 白キヌア 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "ボリビア産"
+    },
+    {
+     "title": "トップバリュ 三色キヌア 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 648,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ 国産 もちあわ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 もちきび 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 ひえ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ アマランサス 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "トップバリュ 国産 五穀ブレンド 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_quinoa_millet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_mixed_nuts_packs",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "素焼きミックスナッツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "サラダ",
+    "お出かけ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "油も塩も使わずにローストした素焼きのミックスナッツです。食べきりの小袋はおやつや持ち歩きに、大袋はサラダのトッピングや料理にも使えます。",
+   "image_brief": "A stand-up zip pouch with small individually wrapped nut packets visible through a window, showing almonds, walnuts and cashews, labeled 「素焼き ミックスナッツ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼き ミックスナッツ 3種 25g×10袋",
+     "brand": "トップバリュ",
+     "size": "250g（25g×10）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 素焼き ミックスナッツ 3種 25g×20袋",
+     "brand": "トップバリュ",
+     "size": "500g（25g×20）",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 素焼き ミックスナッツ 4種 22g×7袋",
+     "brand": "トップバリュ",
+     "size": "154g（22g×7）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 食塩不使用 ミックスナッツ 3種 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 食塩不使用 ミックスナッツ 3種 徳用 700g",
+     "brand": "トップバリュ",
+     "size": "700g",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 素焼き ミックスナッツ＆ドライフルーツ 25g×7袋",
+     "brand": "トップバリュ",
+     "size": "175g（25g×7）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_mixed_nuts_packs_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_unsalted_almonds",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "素焼きアーモンド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "サラダ",
+    "ヨーグルトのトッピング",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "食塩・油を使わずにローストした香ばしいアーモンドです。そのままおやつにしたり、刻んでサラダやヨーグルトのトッピングにしたりと幅広く使えます。",
+   "image_brief": "A resealable stand-up pouch with a window showing whole roasted almonds, labeled 「素焼きアーモンド 食塩不使用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼きアーモンド 食塩不使用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きアーモンド 食塩不使用 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 1080,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きアーモンド 食塩不使用 徳用 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 2480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きアーモンド 食塩不使用 25g×10袋",
+     "brand": "トップバリュ",
+     "size": "250g（25g×10）",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 素焼きアーモンド 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "スペイン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_unsalted_almonds_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_unsalted_walnuts",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "素焼きくるみ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "サラダ",
+    "くるみ和え",
+    "パン作り"
+   ],
+   "tax_rate": 8,
+   "description": "食塩不使用で素焼きにしたくるみです。そのまま食べるほか、ほうれん草のくるみ和えやサラダ、手作りパンやお菓子にも使えます。",
+   "image_brief": "A resealable stand-up pouch with a window showing halved roasted walnuts, labeled 「素焼きくるみ 食塩不使用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼きくるみ 食塩不使用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きくるみ 食塩不使用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 1080,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きくるみ 食塩不使用 15g×10袋",
+     "brand": "トップバリュ",
+     "size": "150g（15g×10）",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 素焼きくるみ 食塩不使用 チリ産 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 648,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 くるみ 100g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_unsalted_walnuts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_kozakana_almond",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "小魚アーモンド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当",
+    "お出かけ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "小魚とアーモンドを組み合わせた、カリッと香ばしい小袋おやつです。子どものおやつやお弁当のすき間、ちょっとした晩酌のおともにもどうぞ。",
+   "image_brief": "A large plastic bag containing many small individually wrapped packets with a fish-and-almond illustration, labeled 「小魚アーモンド」.",
+   "variants": [
+    {
+     "title": "トップバリュ 小魚アーモンド 6g×20袋",
+     "brand": "トップバリュ",
+     "size": "120g（6g×20）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小魚アーモンド 6g×40袋",
+     "brand": "トップバリュ",
+     "size": "240g（6g×40）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産小魚使用 小魚アーモンド 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 瀬戸内産かたくちいわし使用 小魚アーモンド 5g×30袋",
+     "brand": "トップバリュ",
+     "size": "150g（5g×30）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小魚と大豆 いりこ大豆 6g×20袋",
+     "brand": "トップバリュ",
+     "size": "120g（6g×20）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_kozakana_almond_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_no_sugar_dried_fruit",
+   "category_path": [
+    "お菓子・製菓",
+    "ドライフルーツ",
+    "砂糖不使用ドライフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ヨーグルトのトッピング",
+    "朝ごはん",
+    "パン作り"
+   ],
+   "tax_rate": 8,
+   "description": "砂糖を加えずに果実をそのまま乾燥させたドライフルーツです。ヨーグルトやシリアルに加えたり、子どものおやつにしたりと手軽に使えます。",
+   "image_brief": "A resealable stand-up pouch with a clear window showing dark pitted prunes, labeled 「種抜きプルーン 砂糖不使用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 種抜きプルーン 砂糖不使用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ オイルコートなし レーズン 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ ドライいちじく 砂糖不使用 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ドライマンゴー 砂糖不使用 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ 種抜きデーツ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "アラブ首長国連邦産"
+    },
+    {
+     "title": "トップバリュ 砂糖不使用 ミックスドライフルーツ 20g×7袋",
+     "brand": "トップバリュ",
+     "size": "140g（20g×7）",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_no_sugar_dried_fruit_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_salad_fish",
+   "category_path": [
+    "お魚・水産加工品",
+    "魚加工品",
+    "サラダフィッシュ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "お弁当",
+    "おつまみ",
+    "朝ごはん",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "白身魚やサーモンを蒸してやわらかく仕上げた、袋を開けてすぐ食べられる魚の加工品です。ほぐしてサラダやサンドイッチに、お弁当のおかずにも使えます。",
+   "image_brief": "A small vacuum-sealed clear pouch with a white fish fillet inside and a light-blue label reading 「サラダフィッシュ 真だら」.",
+   "variants": [
+    {
+     "title": "トップバリュ サラダフィッシュ 真だら プレーン 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ サラダフィッシュ 真だら ゆず胡椒 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ サラダフィッシュ 真だら バジル 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ サラダフィッシュ 真だら プレーン 80g×3パック",
+     "brand": "トップバリュ",
+     "size": "240g（80g×3）",
+     "price_tax_excluded": 548,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ サラダサーモン プレーン 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダフィッシュ ほっけ スモーク 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 218,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "トップバリュ サラダフィッシュ さば 塩味 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_salad_fish_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_chicken_breast_stick",
+   "category_path": [
+    "お肉・お肉加工品",
+    "サラダチキン・チキン加工品",
+    "鶏むねスティック"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おやつ",
+    "サラダ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏むね肉を使い、片手で食べやすいスティック状に仕上げたチキンバーです。そのまま食べられるので、小腹がすいたときやお弁当のおかずにぴったりです。",
+   "image_brief": "A slim clear plastic stick-shaped pouch showing a grilled chicken bar, labeled 「国産鶏むね チキンスティック」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック プレーン 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック ハーブ 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック スモーク 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック ブラックペッパー 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック 柚子こしょう 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね肉使用 チキンスティック プレーン 60g×4本",
+     "brand": "トップバリュ",
+     "size": "240g（60g×4）",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_chicken_breast_stick_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_tofu_bar",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "豆腐バー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当",
+    "おつまみ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆の豆腐を固めに仕上げ、味付けしてスティック状にした豆腐バーです。袋を開けてそのまま食べられ、切ってサラダやお弁当にも使えます。",
+   "image_brief": "A slim clear vacuum pack showing a firm beige tofu bar, with a green label reading 「国産大豆 豆腐バー」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー 和風だし 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約70g）",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー 旨塩こんぶ 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約70g）",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー ごま 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約70g）",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー 柚子こしょう 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約70g）",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー スモーク 1本",
+     "brand": "トップバリュ",
+     "size": "1本（約70g）",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 国産大豆 豆腐バー 和風だし 3本パック",
+     "brand": "トップバリュ",
+     "size": "3本（約210g）",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_tofu_bar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_black_vinegar_drink",
+   "category_path": [
+    "飲料・水",
+    "酢飲料",
+    "黒酢ドリンク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "食事のおとも",
+    "炭酸割り",
+    "牛乳割り"
+   ],
+   "tax_rate": 8,
+   "description": "国産玄米黒酢を使い、りんごやはちみつでまろやかに仕上げた飲む酢です。ストレートタイプはそのまま、濃縮タイプは水や炭酸、牛乳で割って楽しめます。",
+   "image_brief": "A dark amber 1000ml PET bottle with a black-and-gold label reading 「飲む黒酢 はちみつりんご」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産玄米黒酢使用 飲む黒酢 りんご 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "375ml（125ml×3）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米黒酢使用 飲む黒酢 ざくろ 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "375ml（125ml×3）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米黒酢使用 飲む黒酢 ゆず 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "375ml（125ml×3）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 飲む黒酢 はちみつりんご ストレート 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 飲む黒酢 ブルーベリー ストレート 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 飲む黒酢 はちみつりんご 3倍濃縮 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産 壺造り黒酢使用 飲む黒酢 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_black_vinegar_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_aojiru_powder",
+   "category_path": [
+    "飲料・水",
+    "健康茶・青汁",
+    "青汁（粉末）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "牛乳割り",
+    "豆乳割り",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "国産の大麦若葉やケールを粉末にした、水や牛乳に溶かして飲む青汁です。抹茶入りは飲みやすい味わいで、豆乳やヨーグルトに混ぜるのもおすすめです。",
+   "image_brief": "A green cardboard box with individually wrapped stick sachets, labeled 「国産大麦若葉100% 青汁」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産大麦若葉100% 青汁 3g×30包",
+     "brand": "トップバリュ",
+     "size": "90g（3g×30）",
+     "price_tax_excluded": 1280,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 国産大麦若葉100% 青汁 3g×60包",
+     "brand": "トップバリュ",
+     "size": "180g（3g×60）",
+     "price_tax_excluded": 2280,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 抹茶入り 国産大麦若葉 青汁 3g×30包",
+     "brand": "トップバリュ",
+     "size": "90g（3g×30）",
+     "price_tax_excluded": 1380,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 国産ケール 青汁 3g×30包",
+     "brand": "トップバリュ",
+     "size": "90g（3g×30）",
+     "price_tax_excluded": 1480,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 国産大麦若葉 青汁 徳用 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大麦若葉 青汁 3g×20包",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "60g（3g×20）",
+     "price_tax_excluded": 1280,
+     "origin": "国産原料"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_aojiru_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_rice_koji_amazake",
+   "category_path": [
+    "飲料・水",
+    "甘酒",
+    "米麹甘酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "スムージー",
+    "料理の甘み付け"
+   ],
+   "tax_rate": 8,
+   "description": "国産米と米麹だけでつくった、砂糖不使用・ノンアルコールの甘酒です。冷やしても温めてもおいしく、牛乳やバナナと合わせてスムージーにもできます。料理の甘み付けにも使えます。",
+   "image_brief": "A white 1000ml paper carton with a pale rice-grain design, labeled 「米麹 甘酒 砂糖不使用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米 米麹甘酒 砂糖不使用 125ml",
+     "brand": "トップバリュ",
+     "size": "125ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米 米麹甘酒 砂糖不使用 125ml×6本",
+     "brand": "トップバリュ",
+     "size": "750ml（125ml×6）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米 米麹甘酒 砂糖不使用 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米 米麹甘酒 2倍濃縮 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米 米麹甘酒 しょうが入り 190g",
+     "brand": "トップバリュ",
+     "size": "190g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米 玄米甘酒 砂糖不使用 125ml",
+     "brand": "トップバリュ",
+     "size": "125ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_rice_koji_amazake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_non_caffeine_tea_bags",
+   "category_path": [
+    "飲料・水",
+    "お茶・ティーバッグ",
+    "ノンカフェイン茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事のおとも",
+    "水出し",
+    "朝ごはん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "カフェインを含まない素材でつくったティーバッグのお茶です。煮出しても水出しでも作れ、家族みんなで毎日の食事のおともに飲めます。",
+   "image_brief": "A stand-up zip pouch with tea bag illustrations and a red-brown design, labeled 「ルイボスティー ティーバッグ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ルイボスティー ティーバッグ 2g×40袋",
+     "brand": "トップバリュ",
+     "size": "80g（2g×40）",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "トップバリュ ルイボスティー ティーバッグ 2g×80袋",
+     "brand": "トップバリュ",
+     "size": "160g（2g×80）",
+     "price_tax_excluded": 698,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "トップバリュ 国産黒大豆 黒豆茶 ティーバッグ 5g×20袋",
+     "brand": "トップバリュ",
+     "size": "100g（5g×20）",
+     "price_tax_excluded": 498,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 国産 ごぼう茶 ティーバッグ 1.5g×20袋",
+     "brand": "トップバリュ",
+     "size": "30g（1.5g×20）",
+     "price_tax_excluded": 498,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ 国産 はとむぎ茶 ティーバッグ 5g×30袋",
+     "brand": "トップバリュ",
+     "size": "150g（5g×30）",
+     "price_tax_excluded": 398,
+     "origin": "国産原料"
+    },
+    {
+     "title": "トップバリュ とうもろこし茶 ティーバッグ 5g×30袋",
+     "brand": "トップバリュ",
+     "size": "150g（5g×30）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_non_caffeine_tea_bags_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_non_caffeine_tea_bottle",
+   "category_path": [
+    "飲料・水",
+    "お茶",
+    "ノンカフェイン茶（ペットボトル）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食事のおとも",
+    "お弁当",
+    "お出かけ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "カフェインを含まない、すっきりした味わいのペットボトル茶です。食事のおともや外出時の水分補給に、子どもから大人まで家族で飲めます。",
+   "image_brief": "A 2L PET bottle with a reddish-brown tea color and a simple label reading 「ルイボスティー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ルイボスティー 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ルイボスティー 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ルイボスティー 2L×6本",
+     "brand": "トップバリュ",
+     "size": "12L（2L×6）",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産黒大豆使用 黒豆茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産黒大豆使用 黒豆茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産ごぼう使用 ごぼう茶 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ はとむぎブレンド茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_non_caffeine_tea_bottle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_zero_kcal_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ゼリー",
+    "カロリーゼロゼリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "お弁当のデザート",
+    "食後"
+   ],
+   "tax_rate": 8,
+   "description": "甘味料を使い、カロリーゼロに仕上げたフルーツ味のゼリーです。冷やしておくと食後のデザートやおやつにさっぱりと楽しめます。",
+   "image_brief": "A clear plastic cup of purple grape jelly with a printed foil lid reading 「カロリーゼロ ゼリー ぶどう」.",
+   "variants": [
+    {
+     "title": "トップバリュ カロリーゼロ ゼリー ぶどう 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ ゼリー マスカット 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ ゼリー グレープフルーツ 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ ゼリー もも 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ ゼリー 3種アソート 65g×3個",
+     "brand": "トップバリュ",
+     "size": "195g（65g×3）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 寒天ゼリー みかん 210g",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_zero_kcal_jelly_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_konjac_jelly_pouch",
+   "category_path": [
+    "お菓子・製菓",
+    "ゼリー菓子",
+    "こんにゃくゼリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お出かけ",
+    "部活の後",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "こんにゃく粉を使った、ぷるんとした食感の飲むタイプのゼリーです。冷やすとよりおいしく、外出先でも飲みやすいパウチ入りです。",
+   "image_brief": "A spouted stand-up pouch with a purple grape design, labeled 「こんにゃくゼリー パウチ ぶどう」.",
+   "variants": [
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ ぶどう 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ りんご 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ ピーチ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ マスカット 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こんにゃくゼリー パウチ ぶどう 150g×6個",
+     "brand": "トップバリュ",
+     "size": "900g（150g×6）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリー控えめ 一口こんにゃくゼリー アソート 16個入",
+     "brand": "トップバリュ",
+     "size": "16個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_konjac_jelly_pouch_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_flavored_soy_milk_drink",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "お弁当",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "飲みやすい味に仕上げた、ストロー付き200mlの豆乳飲料です。朝ごはんやおやつ、お弁当と一緒に持たせるのにもちょうどよいサイズです。",
+   "image_brief": "A 200ml paper carton with straw attached and a light-brown malt design, labeled 「豆乳飲料 麦芽」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豆乳飲料 麦芽 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 紅茶 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 抹茶 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 バナナ 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 ココア 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 黒ごま 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳飲料 麦芽 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "1200ml（200ml×6）",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_flavored_soy_milk_drink_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_dried_soy_meat",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "大豆ミート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "麻婆豆腐",
+    "唐揚げ",
+    "そぼろ",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "大豆を加工して肉のような食感に仕上げた大豆ミートです。ミンチタイプはそぼろや麻婆豆腐、ハンバーグに、ブロックタイプは唐揚げや酢豚風に使えます。湯戻し不要タイプはそのまま炒め物に加えられます。",
+   "image_brief": "A stand-up zip pouch with a window showing dried granular soy mince, labeled 「大豆ミート ミンチタイプ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 大豆ミート ミンチタイプ 乾燥 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミート ミンチタイプ 乾燥 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミート ブロックタイプ 乾燥 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミート フィレタイプ 乾燥 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 大豆ミート ミンチタイプ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 湯戻し不要 大豆ミート ミンチタイプ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_dried_soy_meat_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_frozen_soy_meat_dishes",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 おかず",
+    "大豆ミートのおかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "唐揚げ",
+    "ハンバーグ",
+    "晩ごはんのおかず"
+   ],
+   "tax_rate": 8,
+   "description": "大豆ミートを使って、から揚げやハンバーグなどおなじみのおかずに仕上げた冷凍食品です。電子レンジやフライパンで温めるだけで、お弁当や晩ごはんの一品になります。",
+   "image_brief": "A rectangular frozen food bag with a photo of golden fried soy-meat nuggets on a plate, labeled 「大豆ミートのから揚げ風」.",
+   "variants": [
+    {
+     "title": "トップバリュ 大豆ミートのから揚げ風 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミートの竜田揚げ風 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミートのハンバーグ 2個入（200g）",
+     "brand": "トップバリュ",
+     "size": "200g（2個）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミートの甘酢ミートボール 12個入（240g）",
+     "brand": "トップバリュ",
+     "size": "240g（12個）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミートのメンチカツ 4個入（280g）",
+     "brand": "トップバリュ",
+     "size": "280g（4個）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆ミートのそぼろ 甘辛味 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_frozen_soy_meat_dishes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_zero_kcal_sweetener",
+   "category_path": [
+    "調味料",
+    "砂糖・甘味料",
+    "カロリーゼロ甘味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "卵焼き",
+    "煮物",
+    "コーヒー・紅茶",
+    "お菓子作り",
+    "すき焼き"
+   ],
+   "tax_rate": 8,
+   "description": "エリスリトールを使った、砂糖と同じ感覚で使えるカロリーゼロの甘味料です。卵焼きや煮物、すき焼きの味付けのほか、コーヒーや紅茶、お菓子作りにも使えます。",
+   "image_brief": "A white stand-up zip pouch of granulated sweetener with a pale blue design, labeled 「カロリーゼロ 甘味料 顆粒」.",
+   "variants": [
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 顆粒 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 顆粒 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 顆粒 徳用 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 黒糖風味 顆粒 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 液体 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カロリーゼロ 甘味料 スティック 3g×30本",
+     "brand": "トップバリュ",
+     "size": "90g（3g×30）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_zero_kcal_sweetener_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_flour_mix",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "糖質オフミックス粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホットケーキ",
+    "お好み焼き",
+    "とんかつ",
+    "天ぷら",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "大豆粉やおからを配合し、糖質を抑えたミックス粉です。ホットケーキやお好み焼き、揚げ物の衣など、いつもの粉ものメニューに置き換えて使えます。",
+   "image_brief": "A cardboard box with a photo of fluffy stacked pancakes, labeled 「糖質オフ ホットケーキミックス」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質オフ ホットケーキミックス 大豆粉入り 200g×2袋",
+     "brand": "トップバリュ",
+     "size": "400g（200g×2）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ ホットケーキミックス 大豆粉入り 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質30%オフ お好み焼粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ 天ぷら粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ おから入りパン粉 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 大豆粉 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_flour_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_low_carb_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "糖質オフアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "食後",
+    "お風呂上がり"
+   ],
+   "tax_rate": 8,
+   "description": "甘味料を使い、糖質を抑えて仕上げたアイスクリームです。なめらかな口どけで、食後のデザートやおやつにどうぞ。バータイプは家族で分けやすいマルチパックです。",
+   "image_brief": "A round paper ice cream cup with a white lid and vanilla flower illustration, labeled 「糖質オフ アイス バニラ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 糖質オフ アイス バニラ 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ アイス チョコレート 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ アイス 抹茶 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ アイス ストロベリー 120ml",
+     "brand": "トップバリュ",
+     "size": "120ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ アイスバー バニラ 6本入",
+     "brand": "トップバリュ",
+     "size": "270ml（45ml×6）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糖質オフ アイスバー チョコ 6本入",
+     "brand": "トップバリュ",
+     "size": "270ml（45ml×6）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_low_carb_ice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_genen_instant_miso_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタント",
+    "減塩みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "味噌汁",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "通常品より塩分を25%抑えた、お湯を注ぐだけのみそ汁です。生みそタイプは毎朝の味噌汁に、フリーズドライは具が大きく食べごたえがあります。",
+   "image_brief": "A rectangular plastic bag of individually wrapped miso and topping sachets, with a bowl of wakame miso soup photo, labeled 「減塩 みそ汁 わかめ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 わかめ 10食",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 とうふ 10食",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 長ねぎ 10食",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 あおさ 8食",
+     "brand": "トップバリュ",
+     "size": "8食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 6種アソート 20食",
+     "brand": "トップバリュ",
+     "size": "20食",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 フリーズドライ みそ汁 ほうれん草 5食",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 フリーズドライ みそ汁 なす 5食",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_genen_instant_miso_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_genen_furikake",
+   "category_path": [
+    "お米・麺・インスタント",
+    "ふりかけ・お茶漬け",
+    "減塩ふりかけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おにぎり",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "通常品より塩分を控えめに仕上げたふりかけです。ごはんにかけるだけでなく、おにぎりやお弁当のごはんにも使いやすい味をそろえました。",
+   "image_brief": "A small stand-up zip pouch with a bowl of rice sprinkled with furikake on the front, labeled 「減塩 ふりかけ のりかつお」.",
+   "variants": [
+    {
+     "title": "トップバリュ 減塩 ふりかけ のりかつお 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 ふりかけ 鮭 28g",
+     "brand": "トップバリュ",
+     "size": "28g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 ふりかけ わかめ 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 ふりかけ 梅しそ 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 ふりかけ 5種アソート 2.5g×20袋",
+     "brand": "トップバリュ",
+     "size": "50g（2.5g×20）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 お茶漬け のり 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_genen_furikake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_non_oil_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "ノンオイルドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "冷しゃぶ",
+    "冷奴",
+    "カルパッチョ",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "油を使わずに仕上げた、さっぱり味のドレッシングです。野菜サラダはもちろん、冷しゃぶや冷奴、蒸し鶏や和え物のたれとしても使えます。",
+   "image_brief": "A tall clear PET dressing bottle with visible shiso flecks and a green label reading 「ノンオイル 青じそ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ノンオイルドレッシング 青じそ 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンオイルドレッシング 和風たまねぎ 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンオイルドレッシング 中華 380ml",
+     "brand": "トップバリュ",
+     "size": "380ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンオイルドレッシング 梅 280ml",
+     "brand": "トップバリュ",
+     "size": "280ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンオイルドレッシング ゆずしょうゆ 280ml",
+     "brand": "トップバリュ",
+     "size": "280ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_non_oil_dressing_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_health_diet_chia_flax_seeds",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "乾物",
+    "チアシード・あまに"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルトのトッピング",
+    "スムージー",
+    "サラダ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ヨーグルトやスムージー、サラダにそのまま加えて使えるシード類です。チアシードは水分を含むとぷるぷるの食感に、ローストあまには香ばしい風味が楽しめます。",
+   "image_brief": "A small resealable stand-up pouch with a window showing tiny black-and-grey chia seeds, labeled 「チアシード」.",
+   "variants": [
+    {
+     "title": "トップバリュ チアシード 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ チアシード 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 998,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ チアシード 小分け 10g×10袋",
+     "brand": "トップバリュ",
+     "size": "100g（10g×10）",
+     "price_tax_excluded": 498,
+     "origin": "パラグアイ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 チアシード 120g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "ボリビア産"
+    },
+    {
+     "title": "トップバリュ ローストあまに 粒 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ ローストあまに パウダー 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_health_diet_chia_flax_seeds_p.jpg"
+   ]
+  }
+ ]
+}

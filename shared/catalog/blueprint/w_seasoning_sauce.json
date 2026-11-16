@@ -1,0 +1,4196 @@
+{
+ "category_key": "w_seasoning_sauce",
+ "items": [
+  {
+   "base_id": "w_seasoning_sauce_jukusei_worcester",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "ウスターソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "コロッケ",
+    "アジフライ",
+    "野菜炒め",
+    "隠し味"
+   ],
+   "tax_rate": 8,
+   "description": "野菜と果実、スパイスを木樽でじっくり熟成させた本格ウスターソース。さらりとした口当たりにキリッとした酸味とスパイスの香りが立ち、揚げ物にかけるだけで味が締まります。カレーやシチューの隠し味にもおすすめです。",
+   "image_brief": "A tall slim glass bottle of dark brown thin sauce with a plain cream paper label and a black screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 木樽熟成 ウスターソース 瓶 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 木樽熟成 ウスターソース 瓶 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 三年熟成 ウスターソース 360ml",
+     "brand": "クロガネソース",
+     "size": "360ml",
+     "price_tax_excluded": 480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 三年熟成 ウスターソース 900ml",
+     "brand": "クロガネソース",
+     "size": "900ml",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜使用 ウスターソース 250ml",
+     "brand": "Cymbal オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_jukusei_worcester_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_tokuno_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "濃厚ソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "メンチカツ",
+    "串カツ",
+    "ハムカツ"
+   ],
+   "tax_rate": 8,
+   "description": "果実とトマトをたっぷり使い、ぽってり濃厚に仕上げた特濃ソース。とろみが強く衣にしっかり絡むので、とんかつやメンチカツがご飯の進むおかずに。甘みとコクが強めで、お子さまにも人気の味わいです。",
+   "image_brief": "A squat plastic squeeze bottle of very thick glossy dark brown sauce with a plain orange blank label and a red flip cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal とろ〜り特濃ソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal とろ〜り特濃ソース 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 特濃ソース 1L",
+     "brand": "Cymbal ベーシック",
+     "size": "1L",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 果実たっぷり 極濃ソース 360ml",
+     "brand": "クロガネソース",
+     "size": "360ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 特濃ソース ミニボトル 160ml×2本",
+     "brand": "Cymbal",
+     "size": "160ml×2本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_tokuno_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_karakuchi_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "辛口ソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "キャベツ炒め",
+    "焼きそば",
+    "フライ",
+    "ソースカツ丼"
+   ],
+   "tax_rate": 8,
+   "description": "唐辛子と黒こしょうを効かせたピリッと辛口のソース。後味がすっきりしていて、フライや焼きそばを大人向けの味わいに仕上げます。辛さのレベル別にそろえたので、好みに合わせて選べます。",
+   "image_brief": "A plastic squeeze bottle of dark reddish-brown sauce with a plain red blank label and a black cap, a few dried red chilies beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 辛口ソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 辛口ソース 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 激辛ソース 唐辛子3倍 200ml",
+     "brand": "クロガネソース",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 黒胡椒ソース 300ml",
+     "brand": "クロガネソース",
+     "size": "300ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハバネロ入り ホットウスター 150ml",
+     "brand": "Cymbal セレクト",
+     "size": "150ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_karakuchi_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_genen_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "減塩ソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "コロッケ",
+    "とんかつ",
+    "お好み焼き",
+    "目玉焼き"
+   ],
+   "tax_rate": 8,
+   "description": "食塩分を控えながら、野菜と果実のうまみでしっかりした味わいに仕上げたソースです。中濃・ウスター・とんかつの3タイプから選べ、塩分が気になる方の毎日の食卓に取り入れやすい定番シリーズ。",
+   "image_brief": "Three slim plastic sauce bottles with dark brown sauce and plain pale green blank labels lined up, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩分30%カット 中濃ソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩分30%カット ウスターソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩分30%カット とんかつソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩分30%カット 中濃ソース 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 やさしい塩味 減塩ソース 200ml",
+     "brand": "ハルカゼ食品",
+     "size": "200ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_genen_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_takoyaki_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "たこ焼きソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "明石焼き風",
+    "たこパ",
+    "ベビーカステラ風おかず焼き"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしを加えた、甘みとコクのある濃厚たこ焼きソース。とろみがあり生地にほどよく絡みます。たこパの必需品として、使いやすいボトルから大容量まで揃えました。",
+   "image_brief": "A plastic squeeze bottle with a fine nozzle filled with thick glossy brown sauce and a plain blank label, beside a boat tray of takoyaki, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たこ焼きソース 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たこ焼きソース 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 大阪風 だし香る たこ焼きソース 300g",
+     "brand": "みなと屋",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック たこ焼きソース 業務用 1.2kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.2kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たこ焼きソース 細口ボトル 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_takoyaki_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_kushikatsu_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "串カツソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "串カツ",
+    "串揚げ",
+    "天ぷら",
+    "キャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "さらりとした口当たりで、たっぷりくぐらせて楽しむ串カツ専用ソース。だしと醤油のうまみを効かせた甘辛い味わいで、揚げたての衣にじゅわっと染み込みます。おうちで串揚げパーティーをしたい日に。",
+   "image_brief": "A rectangular stainless dipping tray holding thin dark brown sauce next to a plain bottle with blank label, with skewered fried cutlets, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 串カツソース 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 串カツソース 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 なにわ 二度づけ禁止 串カツソース 500ml",
+     "brand": "みなと屋",
+     "size": "500ml",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 串揚げソース 1L",
+     "brand": "Cymbal ベーシック",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_kushikatsu_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_hiroshima_okonomi",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "お好み焼きソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "広島風お好み焼き",
+    "焼きそば",
+    "鉄板焼き",
+    "たこ焼き"
+   ],
+   "tax_rate": 8,
+   "description": "デーツと野菜をたっぷり使い、自然な甘みととろみを出した広島風お好みソース。重ね焼きのお好み焼きに映えるまろやかな味わいで、焼きそばやたこ焼きにもよく合います。鉄板料理の仕上げにどうぞ。",
+   "image_brief": "A plump plastic squeeze bottle of thick glossy brown sauce with a plain mustard-yellow blank label, beside a layered okonomiyaki, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "瀬戸うみ屋 デーツ仕込み 広島風お好みソース 300g",
+     "brand": "瀬戸うみ屋",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "瀬戸うみ屋 デーツ仕込み 広島風お好みソース 500g",
+     "brand": "瀬戸うみ屋",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "瀬戸うみ屋 広島風お好みソース 辛口 300g",
+     "brand": "瀬戸うみ屋",
+     "size": "300g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 広島風 お好みソース 果実仕立て 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "瀬戸うみ屋 広島風お好みソース 業務用 2.1kg",
+     "brand": "瀬戸うみ屋",
+     "size": "2.1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_hiroshima_okonomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_steak_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "ステーキソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ハンバーグ",
+    "ローストビーフ",
+    "ポークソテー"
+   ],
+   "tax_rate": 8,
+   "description": "すりおろし玉ねぎとにんにくを効かせた、肉料理に合うステーキソース。焼いた肉にかけるだけで洋食店のような一皿に。和風おろし、ガーリック、赤ワインなど味の違いを楽しめるシリーズです。",
+   "image_brief": "A short wide glass jar of brown onion-based steak sauce with a plain dark brown blank label and a gold lid, beside a sliced steak on a plate, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ステーキソース 和風おろし 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ステーキソース ガーリック 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 赤ワイン仕立て ステーキソース 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi グリルドオニオン ステーキソース 280g",
+     "brand": "Bistro Lumi",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ステーキソース ペッパー 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_steak_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_hamburg_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "ハンバーグソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "オムライス",
+    "煮込みハンバーグ",
+    "ロールキャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトと玉ねぎを煮込み、デミグラスのコクを加えたハンバーグソース。焼き上がったハンバーグのフライパンに入れて煮絡めるだけで、洋食屋さん風のつやつやの仕上がりになります。オムライスにもおすすめ。",
+   "image_brief": "A stand-up pouch of glossy dark brown demi-glace hamburger sauce with a plain blank label, next to a plated hamburg steak, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 煮込みハンバーグソース デミグラス 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハンバーグソース トマト 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハンバーグソース 和風おろし 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi 洋食屋の ハンバーグソース 瓶 300g",
+     "brand": "Bistro Lumi",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ハンバーグソース 1人前×4袋",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_hamburg_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_bbq_sauce",
+   "category_path": [
+    "調味料",
+    "洋風ソース",
+    "バーベキューソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スペアリブ",
+    "BBQ",
+    "チキングリル",
+    "ポークビーンズ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトと黒糖、スモーク香をきかせたアメリカンスタイルのバーベキューソース。スペアリブや手羽先に塗って焼けば、香ばしくてつややかな仕上がりに。ハンバーガーやディップにも使えます。",
+   "image_brief": "A clear plastic squeeze bottle of glossy reddish-brown barbecue sauce with a plain black blank label and a red cap, beside glazed ribs, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バーベキューソース スモーク 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バーベキューソース ハニー 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sunfield Kitchen テキサス風 BBQソース 510g",
+     "brand": "Sunfield Kitchen",
+     "size": "510g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Sunfield Kitchen ホット BBQソース 510g",
+     "brand": "Sunfield Kitchen",
+     "size": "510g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ベーシック BBQソース 業務用 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_bbq_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_chili_pepper_sauce",
+   "category_path": [
+    "調味料",
+    "洋風ソース",
+    "ホットソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "パスタ",
+    "タコス",
+    "オムレツ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟唐辛子と酢で仕上げた、ピリッとシャープな辛さのホットソース。ピザやパスタに数滴たらすだけで味が引き締まります。赤・グリーン・ハバネロの3種類で、料理に合わせた辛さの使い分けができます。",
+   "image_brief": "Small slender glass dropper bottles of red and green hot sauce with plain blank labels and narrow neck caps, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Sunfield Kitchen レッドペッパーソース 60ml",
+     "brand": "Sunfield Kitchen",
+     "size": "60ml",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Sunfield Kitchen グリーンペッパーソース 60ml",
+     "brand": "Sunfield Kitchen",
+     "size": "60ml",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Sunfield Kitchen ハバネロソース 60ml",
+     "brand": "Sunfield Kitchen",
+     "size": "60ml",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Sunfield Kitchen レッドペッパーソース 徳用 150ml",
+     "brand": "Sunfield Kitchen",
+     "size": "150ml",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ホットチリソース 100ml",
+     "brand": "Cymbal",
+     "size": "100ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_chili_pepper_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_honey_mustard",
+   "category_path": [
+    "調味料",
+    "洋風ソース",
+    "ハニーマスタード"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンナゲット",
+    "サンドイッチ",
+    "ソーセージ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "はちみつのやさしい甘さと粒マスタードの酸味が合わさった、まろやかなハニーマスタードソース。ナゲットやフライドポテトのディップ、サンドイッチやホットドッグのソースとして手軽に使えます。",
+   "image_brief": "An upside-down squeeze bottle of creamy pale yellow honey mustard sauce with visible mustard seeds and a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハニーマスタードソース 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーマスタードソース 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi 粒入り ハニーディジョンソース 瓶 180g",
+     "brand": "Bistro Lumi",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハニーマスタードディップ 25g×6個",
+     "brand": "Cymbal",
+     "size": "25g×6個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_honey_mustard_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_rankou_mayo",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "マヨネーズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ポテトサラダ",
+    "たまごサンド",
+    "お好み焼き",
+    "野菜スティック"
+   ],
+   "tax_rate": 8,
+   "description": "卵黄だけを使い、こっくりと濃厚に仕上げた卵黄タイプのマヨネーズ。酸味はまろやかで、卵のコクが際立ちます。ポテトサラダやたまごサンドがぐっとおいしくなる、こだわり派のための一本です。",
+   "image_brief": "A soft squeezable clear plastic tube of rich pale yellow mayonnaise with a star-shaped nozzle and a plain red blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 卵黄だけの 濃厚マヨネーズ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 卵黄だけの 濃厚マヨネーズ 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 平飼い卵の マヨネーズ 瓶 230g",
+     "brand": "ハルカゼ食品",
+     "size": "230g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機マヨネーズ 卵黄タイプ 260g",
+     "brand": "Cymbal オーガニック",
+     "size": "260g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卵黄マヨネーズ 小分け 15g×10袋",
+     "brand": "Cymbal",
+     "size": "15g×10袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_rankou_mayo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_eggfree_mayo",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "マヨネーズタイプ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "ポテトサラダ",
+    "ディップ"
+   ],
+   "tax_rate": 8,
+   "description": "卵を使わず、豆乳をベースに仕上げたマヨネーズタイプの調味料。まろやかなコクとほどよい酸味で、卵を控えたい方やプラントベースの食生活を楽しみたい方にもおすすめです。使い方は普通のマヨネーズと同じ。",
+   "image_brief": "A squeezable plastic tube of creamy off-white plant-based mayo with a plain pale green blank label and a green cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 卵不使用 豆乳マヨ風 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卵不使用 豆乳マヨ風 カロリーハーフ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび食品 プラントベース ソイマヨ 280g",
+     "brand": "こもれび食品",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機豆乳の マヨネーズ風 250g",
+     "brand": "Cymbal オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_eggfree_mayo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_flavor_mayo",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "風味マヨネーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "焼き魚",
+    "トースト",
+    "揚げ物"
+   ],
+   "tax_rate": 8,
+   "description": "わさび・からし・明太子・ガーリックなど、マヨネーズに風味をプラスした便利なシリーズ。かけるだけで味が決まり、トーストや焼き魚、揚げ物のアクセントにぴったり。開封後は冷蔵で保存してください。",
+   "image_brief": "Four small squeezable plastic tubes of tinted mayonnaise in pale green, pale yellow, pink and cream with plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal わさびマヨネーズ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal からしマヨネーズ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太子マヨネーズ 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ガーリックマヨネーズ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず胡椒マヨネーズ 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 辛子明太マヨ 小分け 10g×8袋",
+     "brand": "Cymbal",
+     "size": "10g×8袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_flavor_mayo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_aurora_sauce",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "オーロラソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "えびフライ",
+    "サラダ",
+    "ハンバーガー",
+    "ロールキャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "マヨネーズとケチャップを黄金比でブレンドした、ほんのり甘いオーロラソース。混ぜる手間がなく、えびフライやサラダ、ハンバーガーにそのまま使えます。サウザン風のピクルス入りも揃えました。",
+   "image_brief": "A squeezable plastic bottle of smooth salmon-pink sauce with a plain blank label and a white cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーロラソース 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーロラソース 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピクルス入り オーロラソース 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi えびフライのための オーロラソース 180g",
+     "brand": "Bistro Lumi",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_aurora_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_organic_ketchup",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "ケチャップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オムライス",
+    "ナポリタン",
+    "フライドポテト",
+    "ハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "有機栽培の完熟トマトを使ったケチャップ。トマト本来の甘みと酸味がしっかり感じられ、すっきりとした後味に仕上げました。オムライスやナポリタンなど、毎日の料理を素材から選びたい方に。",
+   "image_brief": "A red squeezable plastic bottle of ketchup with a plain kraft-colored blank label and a white flip cap, beside a ripe tomato, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機トマトケチャップ 500g",
+     "brand": "Cymbal オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 438,
+     "origin": "イタリア産トマト使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産完熟トマトの ケチャップ 瓶 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国産トマト使用"
+    },
+    {
+     "title": "こもれび食品 砂糖不使用 トマトケチャップ 290g",
+     "brand": "こもれび食品",
+     "size": "290g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産完熟トマトの ケチャップ 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 548,
+     "origin": "国産トマト使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_organic_ketchup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_light_ketchup",
+   "category_path": [
+    "調味料",
+    "マヨネーズ・ケチャップ",
+    "減塩・糖質オフケチャップ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オムライス",
+    "チキンライス",
+    "ミートボール",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "食塩と糖質を控えめにしたケチャップです。トマトのうまみをしっかり残しているので、物足りなさを感じにくい味わい。チューブタイプで使いやすく、健康を気づかう家庭の毎日に向いています。",
+   "image_brief": "A slim red plastic squeeze tube of ketchup with a plain light green blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 減塩トマトケチャップ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質50%オフ ケチャップ 280g",
+     "brand": "Cymbal",
+     "size": "280g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 減塩トマトケチャップ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 塩分ひかえめ ケチャップ ミニ 150g×2本",
+     "brand": "ハルカゼ食品",
+     "size": "150g×2本",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_light_ketchup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_chicken_nanban_tartar",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "タルタルソース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキン南蛮",
+    "えびフライ",
+    "サーモンフライ",
+    "フィッシュバーガー"
+   ],
+   "tax_rate": 8,
+   "description": "ゆで卵をごろっと大きめに刻み入れた、具だくさんのタルタルソース。玉ねぎとピクルスのシャキッとした食感も楽しめます。チキン南蛮やえびフライに、たっぷりのせて食べたい方におすすめ。要冷蔵です。",
+   "image_brief": "A clear plastic cup of chunky tartar sauce with visible chopped egg and pickles under a sealed film lid with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たまごごろごろ タルタルソース 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキン南蛮用 タルタルソース 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト らっきょう入り タルタル 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal タルタルソース 小分け 20g×6個",
+     "brand": "Cymbal",
+     "size": "20g×6個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 宮崎風 甘酢タルタル 200g",
+     "brand": "みなと屋",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_chicken_nanban_tartar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_yuzu_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "湯豆腐",
+    "しゃぶしゃぶ",
+    "焼き魚",
+    "餃子"
+   ],
+   "tax_rate": 8,
+   "description": "国産ゆずの果汁をたっぷり搾り入れた、香り高いゆずぽん酢。爽やかな酸味と醤油のうまみが鍋料理を一段とおいしくします。鍋の季節の水炊きや湯豆腐はもちろん、焼き魚やサラダにも重宝します。",
+   "image_brief": "A glass bottle of amber ponzu with a plain yellow blank label and a green cap, beside a halved yuzu citrus, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆずぽん酢 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産ゆず 生搾りぽん酢 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "高知県産ゆず使用"
+    },
+    {
+     "title": "柑橘工房みかげ ゆず村の ぽん酢しょうゆ 500ml",
+     "brand": "柑橘工房みかげ",
+     "size": "500ml",
+     "price_tax_excluded": 598,
+     "origin": "高知県産ゆず使用"
+    },
+    {
+     "title": "Cymbal ベーシック ゆず風味 ぽん酢 1L",
+     "brand": "Cymbal ベーシック",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_yuzu_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_sudachi_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "焼き秋刀魚",
+    "鍋",
+    "冷しゃぶ",
+    "焼き松茸"
+   ],
+   "tax_rate": 8,
+   "description": "すだち果汁を使った、キリッと爽やかな酸味のぽん酢。青い香りが焼き魚や鍋の脂をすっきりさせます。秋刀魚や戻りがつおなど秋の味覚にもぴったりで、冷しゃぶにも合う万能の一本です。",
+   "image_brief": "A slim glass bottle of pale amber ponzu with a plain light green blank label, beside small green sudachi limes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal すだちぽん酢 600ml",
+     "brand": "Cymbal",
+     "size": "600ml",
+     "price_tax_excluded": 398,
+     "origin": "徳島県産すだち使用"
+    },
+    {
+     "title": "柑橘工房みかげ すだち搾り ぽん酢 300ml",
+     "brand": "柑橘工房みかげ",
+     "size": "300ml",
+     "price_tax_excluded": 458,
+     "origin": "徳島県産すだち使用"
+    },
+    {
+     "title": "Cymbal セレクト すだち果汁20% ぽん酢 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 398,
+     "origin": "徳島県産すだち使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_sudachi_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_kabosu_daidai_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ふぐ鍋",
+    "てっちり",
+    "水炊き",
+    "白身魚の刺身"
+   ],
+   "tax_rate": 8,
+   "description": "かぼすやだいだいなど、地域の柑橘を生搾りした贅沢なぽん酢。まろやかで奥行きのある酸味が特徴で、ふぐ鍋やてっちり、白身魚のお刺身を上品に引き立てます。年末年始のごちそうにもおすすめ。",
+   "image_brief": "Two elegant tall glass bottles of ponzu with plain washi-paper blank labels, beside orange daidai and green kabosu citrus, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "柑橘工房みかげ 大分県産かぼす 生搾りぽん酢 300ml",
+     "brand": "柑橘工房みかげ",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "大分県産かぼす使用"
+    },
+    {
+     "title": "柑橘工房みかげ だいだい 生搾りぽん酢 300ml",
+     "brand": "柑橘工房みかげ",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国産だいだい使用"
+    },
+    {
+     "title": "Cymbal セレクト かぼすぽん酢 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 548,
+     "origin": "大分県産かぼす使用"
+    },
+    {
+     "title": "Cymbal セレクト だいだい酢 ぽん酢 ふぐ鍋用 360ml",
+     "brand": "Cymbal セレクト",
+     "size": "360ml",
+     "price_tax_excluded": 598,
+     "origin": "国産だいだい使用"
+    },
+    {
+     "title": "柑橘工房みかげ 柑橘三種 生搾りぽん酢 ギフト 300ml×3本",
+     "brand": "柑橘工房みかげ",
+     "size": "300ml×3本",
+     "price_tax_excluded": 1980,
+     "origin": "国産柑橘使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_kabosu_daidai_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_genen_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "減塩ぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "冷奴",
+    "焼き魚",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "食塩分をおさえつつ、だしと柑橘の風味でしっかりとおいしく仕上げた減塩ぽん酢。鍋料理でたっぷり使っても塩分が気になりにくいのがうれしいポイント。冷奴やサラダなど普段使いにも向いています。",
+   "image_brief": "A plastic PET bottle of ponzu with a plain teal blank label and a white cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩分50%カット ぽん酢 360ml",
+     "brand": "Cymbal",
+     "size": "360ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩分50%カット ぽん酢 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 減塩 ゆずぽん酢 360ml",
+     "brand": "Cymbal",
+     "size": "360ml",
+     "price_tax_excluded": 268,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "ハルカゼ食品 かつおだし 減塩ぽん酢 500ml",
+     "brand": "ハルカゼ食品",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_genen_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_jure_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ジュレぽん酢"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "カルパッチョ",
+    "冷しゃぶ",
+    "トマトサラダ",
+    "牡蠣"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるんとしたジュレ状のぽん酢で、料理の上にのせても流れにくく見た目も華やか。冷奴やカルパッチョ、生牡蠣にのせるだけでおもてなしの一品に。ゆず、梅、だしの3種類から選べます。",
+   "image_brief": "A clear plastic squeeze bottle containing glistening amber jelly ponzu with a plain blank label, beside a cube of chilled tofu topped with jelly, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジュレぽん酢 ゆず 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジュレぽん酢 梅 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジュレぽん酢 だし 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "柑橘工房みかげ すだちジュレ ぽん酢 180g",
+     "brand": "柑橘工房みかげ",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_jure_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_goma_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "ごまぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "鍋",
+    "棒棒鶏",
+    "冷やしうどん"
+   ],
+   "tax_rate": 8,
+   "description": "すりごまのコクとぽん酢の爽やかさをひとつにした、ごまぽん酢。しゃぶしゃぶでごまだれとぽん酢を迷ったときにぴったりの味わいです。鍋のつけだれだけでなく、和え物やサラダのドレッシングにも。",
+   "image_brief": "A PET bottle of creamy light brown sesame ponzu with visible sesame flecks, a plain beige blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごまぽん酢 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごまぽん酢 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒ごまぽん酢 280ml",
+     "brand": "Cymbal セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 練りごま仕立て ごまぽん 360ml",
+     "brand": "ハルカゼ食品",
+     "size": "360ml",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_goma_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_oroshi_ponzu",
+   "category_path": [
+    "調味料",
+    "醤油・つゆ・ぽん酢",
+    "おろしぽん酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "和風ハンバーグ",
+    "唐揚げ",
+    "焼き肉",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "大根おろしをたっぷり加えたおろしぽん酢。そのままかけるだけで、さっぱりとしたおろしソースの完成です。和風ハンバーグや唐揚げ、焼いた肉や魚にぴったりで、鍋の味変にもおすすめ。",
+   "image_brief": "A PET bottle of ponzu with visible grated white daikon sediment and a plain white blank label with a blue cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 大根おろし入り ぽん酢 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大根おろし入り ぽん酢 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おろし生姜ぽん酢 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 おろし玉ねぎぽん酢 350ml",
+     "brand": "ハルカゼ食品",
+     "size": "350ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大根 おろしぽん酢 280ml",
+     "brand": "Cymbal セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 398,
+     "origin": "国産大根使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_oroshi_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_mentsuyu_2bai",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "めんつゆ（2倍濃縮）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ざるそば",
+    "かけうどん",
+    "親子丼",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "かつお節と昆布のだしを効かせた2倍濃縮のめんつゆ。薄める割合が少なく味が決まりやすいので、麺つゆとしてはもちろん、煮物や丼もの、炒め物の味付けにも気軽に使えます。",
+   "image_brief": "A large PET bottle of dark brown noodle soup base with a plain navy blank label and a red cap, beside a bowl of chilled soba, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal めんつゆ 2倍濃縮 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal めんつゆ 2倍濃縮 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック めんつゆ 2倍濃縮 1.8L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本枯れ節 めんつゆ 2倍濃縮 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 減塩 めんつゆ 2倍濃縮 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_mentsuyu_2bai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_mentsuyu_4bai",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "めんつゆ（4倍濃縮）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そうめん",
+    "天丼",
+    "肉じゃが",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "かつお・さば節・昆布の合わせだしを凝縮した4倍濃縮のめんつゆ。少量で味が決まりコスパも良好。大家族や料理によく使うご家庭向けに、大容量ボトルもご用意しています。",
+   "image_brief": "A tall 1.8-liter PET bottle of very dark concentrated noodle soup base with a plain brown blank label and a handle grip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal めんつゆ 4倍濃縮 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal めんつゆ 4倍濃縮 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック めんつゆ 4倍濃縮 業務用 1.8L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 宗田節入り 4倍濃縮つゆ 500ml",
+     "brand": "やまぶき醸造",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_mentsuyu_4bai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_ago_mentsuyu",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "あごだしつゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "うどん",
+    "ちゃんぽん",
+    "茶碗蒸し",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "焼きあご（とびうお）のだしを使った、上品で香ばしい味わいのつゆ。すっきりした甘みとうまみが特徴で、九州風のうどんや茶碗蒸し、炊き込みご飯の味付けにも使えます。濃縮とストレートを選べます。",
+   "image_brief": "A glass bottle of golden-brown noodle soup base with a plain blue blank label, beside a grilled dried flying fish, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "瀬戸うみ屋 焼きあご入り めんつゆ 3倍濃縮 500ml",
+     "brand": "瀬戸うみ屋",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "瀬戸うみ屋 焼きあご入り めんつゆ ストレート 1L",
+     "brand": "瀬戸うみ屋",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長崎県産焼きあご つゆ 2倍濃縮 400ml",
+     "brand": "Cymbal セレクト",
+     "size": "400ml",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産あご使用"
+    },
+    {
+     "title": "瀬戸うみ屋 焼きあご入り めんつゆ 3倍濃縮 1L",
+     "brand": "瀬戸うみ屋",
+     "size": "1L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_ago_mentsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_soba_tsuyu",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "そばつゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "年越しそば",
+    "鴨南蛮"
+   ],
+   "tax_rate": 8,
+   "description": "本がえしとかつお節の濃いだしで仕立てた、そば専用のつゆ。辛口でキリッとした味わいが、そばの香りを引き立てます。ストレートで使えるざる用と、温かいかけ用をそろえ、年越しそばにも最適。",
+   "image_brief": "A dark glass bottle of strong soba dipping sauce with a plain washi blank label, beside a bamboo tray of soba noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ざるそばつゆ ストレート 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かけそばつゆ ストレート 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 江戸前 辛口そばつゆ 3倍濃縮 360ml",
+     "brand": "やまぶき醸造",
+     "size": "360ml",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 年越しそばつゆ 3倍濃縮 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal そばつゆ 小袋 30ml×6袋",
+     "brand": "Cymbal",
+     "size": "30ml×6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_soba_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_tentsuyu",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "天つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天ぷら",
+    "かき揚げ",
+    "揚げ出し豆腐",
+    "天丼"
+   ],
+   "tax_rate": 8,
+   "description": "揚げたての天ぷらがおいしく食べられる、だし香る天つゆ。甘さ控えめでさらりとした口当たり、大根おろしとの相性も抜群です。揚げ出し豆腐やかき揚げそばのつゆとしても使えます。",
+   "image_brief": "A PET bottle of light brown tempura dipping sauce with a plain amber blank label, beside a small dish of tempura, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 天つゆ ストレート 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天つゆ ストレート 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 料亭仕立て 天つゆ 3倍濃縮 300ml",
+     "brand": "やまぶき醸造",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天つゆ 小袋 30ml×5袋",
+     "brand": "Cymbal",
+     "size": "30ml×5袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_tentsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_bukkake_tsuyu",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "うどんつゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ぶっかけうどん",
+    "釜玉うどん",
+    "冷やしうどん",
+    "きつねうどん"
+   ],
+   "tax_rate": 8,
+   "description": "いりこと昆布のだしを効かせた、讃岐風のうどんつゆ。冷やしでも温かいかけでも楽しめ、ぶっかけうどんや釜玉にもよく合います。さっぱりとした甘みで、どんぶり料理の割下にも使えます。",
+   "image_brief": "A PET bottle of light brown udon soup base with a plain sky-blue blank label, beside a bowl of thick udon noodles, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 讃岐風 ぶっかけうどんつゆ ストレート 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かけうどんつゆ 4倍濃縮 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "瀬戸うみ屋 いりこだし うどんつゆ 2倍濃縮 500ml",
+     "brand": "瀬戸うみ屋",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 関西風 うどんスープ 粉末 8g×8袋",
+     "brand": "Cymbal",
+     "size": "8g×8袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_bukkake_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_ago_shirodashi",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "白だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "茶碗蒸し",
+    "だし巻き卵",
+    "お吸い物",
+    "浅漬け",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "うすくち醤油ベースに、焼きあごや真昆布のだしを合わせた色の淡い白だし。素材の色を生かしながら上品なうまみを加えます。茶碗蒸しやだし巻き卵、お吸い物など、見た目も大切な料理におすすめ。",
+   "image_brief": "A clear glass bottle of pale golden white dashi with a plain white blank label and a gold cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "瀬戸うみ屋 焼きあご 白だし 500ml",
+     "brand": "瀬戸うみ屋",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 真昆布と本枯れ節の 白だし 360ml",
+     "brand": "Cymbal セレクト",
+     "size": "360ml",
+     "price_tax_excluded": 498,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 減塩 白だし 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 料亭の白だし 1L",
+     "brand": "やまぶき醸造",
+     "size": "1L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白だし ミニ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_ago_shirodashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_kansai_warishita",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "すき焼きのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "すき焼き",
+    "牛丼",
+    "肉豆腐",
+    "年末のごちそう"
+   ],
+   "tax_rate": 8,
+   "description": "関西風のすき焼きに合わせた、甘さ控えめで醤油の香りが立つ割下。牛肉を焼いてから割下を少しずつ加える食べ方にぴったりです。肉豆腐や牛丼の味付けにも使え、年末年始のごちそうに重宝します。",
+   "image_brief": "A glass bottle of dark sukiyaki sauce with a plain deep-red blank label, beside a cast-iron pan with marbled beef slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関西風 すき焼き割下 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛のための すき焼き割下 360ml",
+     "brand": "Cymbal セレクト",
+     "size": "360ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 濃口仕立て すき焼き割下 500ml",
+     "brand": "やまぶき醸造",
+     "size": "500ml",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal すき焼き割下 濃縮 小袋 50ml×4袋",
+     "brand": "Cymbal",
+     "size": "50ml×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_kansai_warishita_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_yakiniku_shiodare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼肉のたれ（塩）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛タン",
+    "鶏もも焼き",
+    "豚トロ",
+    "ねぎ塩キャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "ごま油の香りと刻みねぎ、にんにくを合わせた焼肉用の塩だれ。牛タンや豚トロ、鶏肉の焼肉をさっぱりと楽しめます。キャベツや冷奴にかけても美味しい、使い道の多い一本です。",
+   "image_brief": "A clear plastic squeeze bottle of glossy translucent sauce full of chopped green onions with a plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ねぎ塩だれ 焼肉用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねぎ塩だれ 焼肉用 380g",
+     "brand": "Cymbal",
+     "size": "380g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 藻塩仕立て ねぎ塩だれ 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 にんにく塩だれ 250g",
+     "brand": "ハルカゼ食品",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごま油香る 塩だれ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_yakiniku_shiodare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_lemon_shiodare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼肉のたれ（レモン）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛タン",
+    "ホルモン",
+    "焼き鳥",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "国産レモン果汁と塩、黒こしょうで仕立てた爽やかなレモンだれ。脂の多いホルモンや牛タンもすっきり食べられます。唐揚げや焼き鳥にかけたり、サラダのドレッシングとして使うのもおすすめ。",
+   "image_brief": "A slim glass bottle of cloudy pale yellow lemon sauce with a plain lemon-yellow blank label, beside lemon wedges, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レモン塩だれ 焼肉用 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 258,
+     "origin": "国産レモン使用"
+    },
+    {
+     "title": "Cymbal レモン塩だれ 焼肉用 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 378,
+     "origin": "国産レモン使用"
+    },
+    {
+     "title": "瀬戸うみ屋 瀬戸内レモンの 焼肉だれ 300ml",
+     "brand": "瀬戸うみ屋",
+     "size": "300ml",
+     "price_tax_excluded": 428,
+     "origin": "瀬戸内産レモン使用"
+    },
+    {
+     "title": "Cymbal セレクト 広島県産レモン 牛タンだれ 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 448,
+     "origin": "広島県産レモン使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_lemon_shiodare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_fruity_yakiniku",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼肉のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ビビンバ",
+    "野菜炒め",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "りんご・梨・桃などの果実をたっぷりすりおろした、甘みとコクのある焼肉のたれ。肉にかけるのはもちろん、炒め物や焼きそばの味付けにも重宝します。辛さを選べる中辛・辛口も揃えました。",
+   "image_brief": "A tall glass bottle of thick reddish-brown yakiniku sauce with a plain gold blank label, beside grilled beef slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 果実たっぷり 焼肉のたれ 中辛 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果実たっぷり 焼肉のたれ 辛口 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果実たっぷり 焼肉のたれ 甘口 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 黄金果実 焼肉だれ 中辛 600g",
+     "brand": "ハルカゼ食品",
+     "size": "600g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼肉のたれ 中辛 業務用 1.15kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.15kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_fruity_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_gekikara_yakiniku",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼肉のたれ（激辛）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ホルモン焼き",
+    "豚キムチ",
+    "辛口炒め",
+    "チゲ"
+   ],
+   "tax_rate": 8,
+   "description": "コチュジャンと唐辛子、にんにくを効かせた激辛タイプの焼肉のたれ。甘みの後に強い辛さがやってくる、辛いもの好きのための味わいです。ホルモン焼きや豚キムチ炒めにもよく合います。",
+   "image_brief": "A plastic squeeze bottle of deep red spicy sauce with chili flakes, a plain black blank label and red cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 激辛 焼肉のたれ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 激辛 焼肉のたれ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "クロガネソース 地獄辛 焼肉だれ 250g",
+     "brand": "クロガネソース",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コチュジャン入り 甘辛焼肉のたれ 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_gekikara_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_momidare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "もみだれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "プルコギ",
+    "スタミナ焼き",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "焼く前の肉にもみ込んで味をしみ込ませるタイプのもみだれ。にんにくと生姜、果実が肉をやわらかく仕上げ、冷めてもおいしいのでお弁当にも。バーベキューの下ごしらえにも便利です。",
+   "image_brief": "A stand-up pouch with spout of brown marinade sauce with a plain blank label, beside raw beef slices in a bowl, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼肉もみだれ にんにく醤油 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼肉もみだれ 塩レモン 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プルコギもみだれ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 スタミナもみだれ 500g",
+     "brand": "ハルカゼ食品",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もみだれ 小分け 80g×3袋",
+     "brand": "Cymbal",
+     "size": "80g×3袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_momidare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_miso_yakiniku",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "みそだれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ホルモン",
+    "回鍋肉",
+    "焼きおにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "米みそと豆みそをブレンドした、コク深い焼肉用のみそだれ。香ばしい焼き目とみその甘みが食欲をそそります。ホルモンや豚肉の焼肉はもちろん、野菜炒めや焼きおにぎりにも使えます。",
+   "image_brief": "A plastic squeeze bottle of thick reddish-brown miso sauce with a plain cream blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal みそだれ 焼肉用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal みそだれ 焼肉用 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 名古屋風 赤みそだれ 280g",
+     "brand": "みなと屋",
+     "size": "280g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピリ辛みそだれ ホルモン用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_miso_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_jingisukan_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "ジンギスカンのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ジンギスカン",
+    "ラム肉焼き",
+    "野菜炒め",
+    "焼きうどん"
+   ],
+   "tax_rate": 8,
+   "description": "りんごと玉ねぎをベースに、醤油と生姜で仕上げた北海道風のジンギスカンのたれ。ラム肉のくせを抑えて、野菜までおいしく食べられます。漬け込みにもつけだれにも使えます。",
+   "image_brief": "A glass bottle of dark brown sauce with a plain sky-blue blank label, beside a domed grill pan with lamb and vegetables, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジンギスカンのたれ 360ml",
+     "brand": "Cymbal",
+     "size": "360ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジンギスカンのたれ 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ほくせい食品 北海道風 ジンギスカンだれ 400ml",
+     "brand": "ほくせい食品",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "ほくせい食品 ジンギスカンだれ 辛口 400ml",
+     "brand": "ほくせい食品",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_jingisukan_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_yakitori_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼き鳥のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "つくね",
+    "照り焼き",
+    "焼きおにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "醤油とみりん、ざらめでじっくり煮詰めた、甘辛く照りのある焼き鳥のたれ。ねぎまやつくねに塗りながら焼けば、香ばしい専門店風の仕上がりに。鶏の照り焼きや焼きおにぎりにも使えます。",
+   "image_brief": "A glass bottle of thick glossy dark yakitori glaze with a plain brown blank label, beside skewers of grilled chicken, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼き鳥のたれ 240g",
+     "brand": "Cymbal",
+     "size": "240g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼き鳥のたれ 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 継ぎ足し風 焼き鳥だれ 300g",
+     "brand": "やまぶき醸造",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼き鳥のたれ 業務用 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_yakitori_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_unagi_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "蒲焼のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    6,
+    7
+   ],
+   "dishes": [
+    "うな丼",
+    "さんまの蒲焼き",
+    "いわしの蒲焼き",
+    "ひつまぶし"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと濃厚な甘辛の蒲焼のたれ。市販のうなぎを温め直すときや、さんま・いわしの蒲焼き作りに便利です。ご飯にかけてもおいしく、うな丼の追いだれとしても活躍します。",
+   "image_brief": "A small glass bottle of thick shiny black-brown eel glaze with a plain gold blank label, beside a bowl of grilled eel over rice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal うなぎの蒲焼のたれ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 蒲焼のたれ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 老舗風 うなぎのたれ 山椒付 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 蒲焼のたれ 小袋 10ml×10袋",
+     "brand": "Cymbal",
+     "size": "10ml×10袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_unagi_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_buri_teriyaki_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "照り焼きのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ぶりの照り焼き",
+    "さわらの照り焼き",
+    "鮭の照り焼き",
+    "鶏の照り焼き"
+   ],
+   "tax_rate": 8,
+   "description": "魚の照り焼き専用に、生姜をほんのり効かせて仕上げたたれ。旬のぶりやさわらをフライパンで焼いて絡めるだけで、くさみなくつややかな照り焼きになります。冬の魚料理を手軽に楽しみたい方に。",
+   "image_brief": "A glass bottle of glossy dark teriyaki glaze with a plain navy blank label, beside a glazed yellowtail fillet on a plate, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 魚の照り焼きのたれ 生姜風味 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ぶり照り焼きのたれ 小袋 2切用×3袋",
+     "brand": "Cymbal",
+     "size": "2切用×3袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 旬魚の 照り焼きだれ 300ml",
+     "brand": "みなと屋",
+     "size": "300ml",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 柚子香る 照り焼きのたれ 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_buri_teriyaki_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_bonbonji_gomadare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "ごまだれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "棒棒鶏",
+    "冷やし中華",
+    "担々麺",
+    "蒸し野菜"
+   ],
+   "tax_rate": 8,
+   "description": "練りごまをたっぷり使い、ラー油と花椒をほんのり効かせた中華風ごまだれ。棒棒鶏や冷やし中華、蒸し野菜にかけるだけで本格的な味わいに。辛みの少ないまろやかタイプもあります。",
+   "image_brief": "A glass jar of creamy tan sesame sauce with a red chili oil swirl on top, plain blank label and red lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 棒棒鶏のたれ ごま風味 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 担々ごまだれ ピリ辛 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 練りごま40% 濃厚ごまだれ 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハルカゼ食品 まろやか ごまだれ 300ml",
+     "brand": "ハルカゼ食品",
+     "size": "300ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白ごまだれ 小袋 30g×5袋",
+     "brand": "Cymbal",
+     "size": "30g×5袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_bonbonji_gomadare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_hiyashi_chuka_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "冷やし中華のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "冷やし中華",
+    "冷やしうどん",
+    "中華風サラダ",
+    "海藻サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "醤油と酢、ごま油でさっぱり仕上げた冷やし中華のたれ。中華麺を茹でて具をのせるだけで、お店のような一皿に。サラダや冷やしうどんのたれとしても便利な、夏の定番調味料です。",
+   "image_brief": "A PET bottle of clear brown soy-vinegar sauce with sesame oil droplets, a plain yellow blank label, beside a plate of cold ramen with toppings, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷やし中華のたれ 醤油味 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷やし中華のたれ ごま味 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷やし中華のたれ 小袋 40ml×5袋",
+     "brand": "Cymbal",
+     "size": "40ml×5袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 黒酢仕立て 冷やし中華のたれ 250ml",
+     "brand": "みなと屋",
+     "size": "250ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_hiyashi_chuka_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_sumiso_dengaku",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "酢みそ・田楽みそ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "ふろふき大根",
+    "田楽",
+    "ぬた",
+    "こんにゃく"
+   ],
+   "tax_rate": 8,
+   "description": "甘めの白みそを練り上げた田楽みそと、さっぱりした辛子酢みその定番シリーズ。おでんやふろふき大根、こんにゃく田楽に添えれば冬の食卓が豊かに。ぬたやわけぎの和え物にも使えます。",
+   "image_brief": "Small squeezable plastic tubes and a jar of light beige and brown miso paste with plain blank labels, beside a dish of simmered daikon topped with miso, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 田楽みそ 白 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 田楽みそ 赤 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal からし酢みそ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 おでん用 甘練りみそ 180g",
+     "brand": "みなと屋",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず田楽みそ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国産ゆず使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_sumiso_dengaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_negi_banno_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "万能だれ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "蒸し鶏",
+    "餃子",
+    "炒飯",
+    "揚げ物"
+   ],
+   "tax_rate": 8,
+   "description": "刻みねぎと生姜、にんにくを醤油ベースのたれにたっぷり漬け込んだ万能ねぎだれ。蒸し鶏や冷奴、餃子にかけるだけでおかずがぐっと格上げされます。炒め物の味付けにもそのまま使えます。",
+   "image_brief": "A wide glass jar of soy-based sauce packed with chopped green onion and ginger, plain blank label and a green lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 万能ねぎだれ 醤油 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 油淋鶏のたれ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 九条ねぎの 香味だれ 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 448,
+     "origin": "京都府産九条ねぎ使用"
+    },
+    {
+     "title": "ハルカゼ食品 生姜たっぷり 香味だれ 230g",
+     "brand": "ハルカゼ食品",
+     "size": "230g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_negi_banno_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_oyster_premium",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "オイスターソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "チンジャオロース",
+    "牡蠣と青梗菜の炒め",
+    "焼きそば",
+    "炒飯"
+   ],
+   "tax_rate": 8,
+   "description": "国産の牡蠣エキスをぜいたくに使った、うまみの濃いオイスターソース。少量でコクと深みが加わり、炒め物や中華丼が本格的な味に。チューブ入り、化学調味料無添加、大容量など揃えました。",
+   "image_brief": "A dark brown glass bottle of thick oyster sauce with a plain dark blue blank label, beside fresh oysters on ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 広島県産牡蠣 オイスターソース 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "広島県産牡蠣使用"
+    },
+    {
+     "title": "Cymbal セレクト 広島県産牡蠣 オイスターソース 260g",
+     "brand": "Cymbal セレクト",
+     "size": "260g",
+     "price_tax_excluded": 598,
+     "origin": "広島県産牡蠣使用"
+    },
+    {
+     "title": "Cymbal オイスターソース チューブ 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ロンファ食品 香港風 オイスターソース 510g",
+     "brand": "ロンファ食品",
+     "size": "510g",
+     "price_tax_excluded": 548,
+     "origin": "香港製造"
+    },
+    {
+     "title": "Cymbal オーガニック 化学調味料無添加 オイスターソース 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_oyster_premium_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_creamy_french",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "フレンチ・イタリアンドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グリーンサラダ",
+    "コールスロー",
+    "温野菜",
+    "マカロニサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "酢と油をクリーミーに乳化させた白いフレンチドレッシング。まろやかな酸味でどんな野菜にも合わせやすく、コールスローやマカロニサラダの味付けにも使えます。洋食屋さんのサラダの味わいを家庭で。",
+   "image_brief": "A clear PET bottle of opaque creamy white dressing with a plain light blue blank label and a white cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリーミー 白フレンチドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリーミー 白フレンチドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi 洋食屋の フレンチドレッシング 300ml",
+     "brand": "Bistro Lumi",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ディジョンマスタード フレンチ 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_creamy_french_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_basil_italian",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "フレンチ・イタリアンドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カプレーゼ",
+    "パスタサラダ",
+    "グリルチキン",
+    "カルパッチョ"
+   ],
+   "tax_rate": 8,
+   "description": "オリーブオイルにバジルとパルメザンチーズ、にんにくを合わせたイタリアンドレッシング。ハーブの香りが豊かで、カプレーゼやパスタサラダ、グリルチキンのソースとしても使えます。",
+   "image_brief": "A clear glass bottle of golden olive oil dressing with visible green herb flecks and a plain olive-green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バジル＆チーズ イタリアンドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バジル＆チーズ イタリアンドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi エクストラバージン イタリアンドレッシング 280ml",
+     "brand": "Bistro Lumi",
+     "size": "280ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンオイル イタリアン ハーブ 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ジェノバ風 バジルドレッシング 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_basil_italian_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_carrot_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "野菜ドレッシング"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "グリーンサラダ",
+    "カルパッチョ",
+    "豆腐サラダ",
+    "蒸し鶏"
+   ],
+   "tax_rate": 8,
+   "description": "すりおろしにんじんをたっぷり使った、鮮やかなオレンジ色のドレッシング。にんじんの甘みとりんご酢の爽やかさで、野菜が苦手なお子さまにも食べやすい味わいです。要冷蔵のフレッシュタイプ。",
+   "image_brief": "A clear PET bottle of bright orange grated carrot dressing with a plain white blank label, beside a carrot, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal すりおろし人参ドレッシング 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "国産人参使用"
+    },
+    {
+     "title": "Cymbal すりおろし人参ドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 428,
+     "origin": "国産人参使用"
+    },
+    {
+     "title": "こもれび食品 北海道人参の ドレッシング 250ml",
+     "brand": "こもれび食品",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道産人参使用"
+    },
+    {
+     "title": "Cymbal すりおろしトマトドレッシング 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_carrot_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_ume_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "ノンオイルドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "大根サラダ",
+    "冷しゃぶ",
+    "海藻サラダ",
+    "冷やしうどん"
+   ],
+   "tax_rate": 8,
+   "description": "紀州産の梅肉を使ったノンオイルの梅ドレッシング。梅のさっぱりした酸味とかつおだしのうまみが、大根サラダや冷しゃぶを爽やかに仕上げます。脂っこい料理と合わせても後味がすっきりです。",
+   "image_brief": "A PET bottle of pinkish-red plum dressing with visible plum pulp and a plain pink blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ノンオイル 紀州梅ドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 248,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal ノンオイル 紀州梅ドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 168,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 南高梅 しそドレッシング 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "ハルカゼ食品 はちみつ梅 ドレッシング 300ml",
+     "brand": "ハルカゼ食品",
+     "size": "300ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_ume_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_yuzukosho_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "和風ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "水菜サラダ",
+    "鶏ハム",
+    "カルパッチョ",
+    "湯豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "ゆずの香りと青唐辛子のピリッとした辛みが広がる、ゆず胡椒ドレッシング。水菜や大根のサラダ、鶏ハムやカルパッチョが大人の味わいに。鍋の味変やつけだれにも使える便利な一本です。",
+   "image_brief": "A slim glass bottle of pale yellow-green citrus dressing with a plain lime-colored blank label, beside a yuzu fruit, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆず胡椒ドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "柑橘工房みかげ 九州ゆず胡椒 ドレッシング 250ml",
+     "brand": "柑橘工房みかげ",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンオイル ゆず胡椒ドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ゆず果汁たっぷり ゆずドレッシング 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 428,
+     "origin": "国産ゆず使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_yuzukosho_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_wasabi_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "和風ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ローストビーフ",
+    "刺身サラダ",
+    "アボカドサラダ",
+    "豆腐サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "本わさびのツンとした辛みを醤油ベースに効かせたわさびドレッシング。アボカドやまぐろの刺身サラダ、ローストビーフと好相性です。すっきりとしたノンオイルタイプもあります。",
+   "image_brief": "A PET bottle of light brown soy dressing with fine green wasabi flecks and a plain pale green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal わさびドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンオイル わさびドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 静岡県産本わさび ドレッシング 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産わさび使用"
+    },
+    {
+     "title": "ハルカゼ食品 わさびマヨ ドレッシング 280ml",
+     "brand": "ハルカゼ食品",
+     "size": "280ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_wasabi_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_cobb_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "コブサラダドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "コブサラダ",
+    "チョップドサラダ",
+    "ポテトサラダ",
+    "温野菜"
+   ],
+   "tax_rate": 8,
+   "description": "ブルーチーズとマヨネーズのコクにこしょうを効かせた、アメリカンスタイルのコブサラダドレッシング。角切り野菜やチキン、卵を合わせたボリュームサラダにぴったりで、ディップソースとしても使えます。",
+   "image_brief": "A PET bottle of thick creamy white dressing with blue cheese crumbles and a plain dark green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コブサラダドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コブサラダドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sunfield Kitchen ブルーチーズドレッシング 355ml",
+     "brand": "Sunfield Kitchen",
+     "size": "355ml",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Sunfield Kitchen ランチドレッシング 355ml",
+     "brand": "Sunfield Kitchen",
+     "size": "355ml",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_cobb_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_thousand_island",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "サウザンアイランドドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シーフードサラダ",
+    "サンドイッチ",
+    "ハンバーガー",
+    "えびサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトとマヨネーズのまろやかさに、刻みピクルスの食感を加えたサウザンアイランドドレッシング。シーフードサラダやサンドイッチ、ハンバーガーのソースとしても大活躍します。",
+   "image_brief": "A clear PET bottle of pale orange-pink dressing with tiny pickle bits and a plain coral blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal サウザンアイランドドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サウザンアイランドドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Sunfield Kitchen サウザンアイランド 355ml",
+     "brand": "Sunfield Kitchen",
+     "size": "355ml",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal カロリーハーフ サウザンアイランド 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_thousand_island_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_choregi_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "韓国風ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チョレギサラダ",
+    "韓国のり和え",
+    "ナムル",
+    "冷やし豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "ごま油とにんにく、白ごまを効かせた韓国風のチョレギドレッシング。レタスや韓国のりと合わせるだけで焼肉店の定番サラダが完成します。もやしのナムルや冷奴にかけてもおいしいです。",
+   "image_brief": "A PET bottle of brown sesame-oil dressing with floating white sesame seeds and a plain red blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョレギドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョレギドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソウルキッチン ピリ辛 チョレギドレッシング 300ml",
+     "brand": "ソウルキッチン",
+     "size": "300ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンオイル チョレギ風 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_choregi_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_kurogoma_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "ごま・和風ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しゃぶしゃぶサラダ",
+    "ほうれん草のおひたし",
+    "棒棒鶏",
+    "温野菜"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焙煎した黒ごまをたっぷり使った、香り高い黒ごまドレッシング。深みのあるコクとまろやかな甘さで、温野菜やほうれん草、豚しゃぶサラダにぴったりです。和え物のたれにもおすすめ。",
+   "image_brief": "A PET bottle of creamy dark grey black-sesame dressing with a plain charcoal blank label and a gold cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焙煎黒ごまドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焙煎黒ごまドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 金ごまドレッシング 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カロリーハーフ 黒ごまドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_kurogoma_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_tomato_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "野菜ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トマトサラダ",
+    "冷製パスタ",
+    "カルパッチョ",
+    "グリル野菜"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトの果肉感を残した、甘酸っぱいトマトドレッシング。オリーブオイルとバジルが香り、冷製パスタやカルパッチョのソースとしても使えます。彩りがよく食卓が華やかになります。",
+   "image_brief": "A clear PET bottle of bright red chunky tomato dressing with a plain white blank label, beside cherry tomatoes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 完熟トマトドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンオイル 完熟トマトドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi トマト＆バジル ドレッシング 250ml",
+     "brand": "Bistro Lumi",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産トマト 果肉ドレッシング 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 398,
+     "origin": "国産トマト使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_tomato_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_lemon_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "ノンオイルドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "グリーンサラダ",
+    "マリネ",
+    "シーフードサラダ",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "国産レモン果汁を使った、すっきり爽やかなノンオイルレモンドレッシング。塩とはちみつで味を整え、グリーンサラダやマリネ、シーフードにぴったり。揚げ物にかけてもさっぱりいただけます。",
+   "image_brief": "A slim clear PET bottle of pale yellow translucent lemon dressing with a plain white blank label and a yellow cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ノンオイル 塩レモンドレッシング 380ml",
+     "brand": "Cymbal",
+     "size": "380ml",
+     "price_tax_excluded": 248,
+     "origin": "国産レモン使用"
+    },
+    {
+     "title": "Cymbal ノンオイル 塩レモンドレッシング 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 168,
+     "origin": "国産レモン使用"
+    },
+    {
+     "title": "瀬戸うみ屋 瀬戸内レモン ドレッシング 250ml",
+     "brand": "瀬戸うみ屋",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "瀬戸内産レモン使用"
+    },
+    {
+     "title": "Cymbal はちみつレモン ドレッシング 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_lemon_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_organic_dressing",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "オーガニックドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グリーンサラダ",
+    "温野菜",
+    "豆腐サラダ",
+    "海藻サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "有機JAS認証の醤油や酢、オイルを使ったオーガニックドレッシング。素材の味を生かしたやさしい味わいで、毎日のサラダに安心して使えます。和風・ごま・玉ねぎの3つの味から選べます。",
+   "image_brief": "Three slim clear glass bottles of dressing in brown, beige and golden tones with plain kraft blank labels and wooden-look caps, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機 和風しょうゆドレッシング 250ml",
+     "brand": "Cymbal オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ごまドレッシング 250ml",
+     "brand": "Cymbal オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 玉ねぎドレッシング 250ml",
+     "brand": "Cymbal オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こもれび食品 有機えごま油 ドレッシング 200ml",
+     "brand": "こもれび食品",
+     "size": "200ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_organic_dressing_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_dressing_portion",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "小袋ドレッシング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "サラダ",
+    "持ち寄りパーティー",
+    "一人暮らし"
+   ],
+   "tax_rate": 8,
+   "description": "使い切りの小袋に入ったドレッシングのアソートセット。お弁当のサラダやひとり分の食事に便利で、開封後の保存を気にせず色々な味を試せます。ごま・和風・シーザー・青じそなどを詰め合わせました。",
+   "image_brief": "A clear plastic bag holding many small rectangular single-serve sachets of dressing in various colors with blank surfaces, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 小袋ドレッシング 4種アソート 15ml×12袋",
+     "brand": "Cymbal",
+     "size": "15ml×12袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 小袋 焙煎ごまドレッシング 15ml×10袋",
+     "brand": "Cymbal",
+     "size": "15ml×10袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 小袋 ノンオイル和風 15ml×10袋",
+     "brand": "Cymbal",
+     "size": "15ml×10袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 小袋ドレッシング 業務用 20ml×40袋",
+     "brand": "Cymbal ベーシック",
+     "size": "20ml×40袋",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_dressing_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_onion_dressing_rich",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "玉ねぎドレッシング"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グリーンサラダ",
+    "ステーキ",
+    "カルパッチョ",
+    "冷しゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "淡路島産玉ねぎを粗くすりおろし、食感を残した生タイプの玉ねぎドレッシング。玉ねぎの甘みとシャキッとした食感が楽しめ、サラダはもちろんステーキソースとしても好評です。要冷蔵。",
+   "image_brief": "A clear PET bottle filled with chunky grated onion dressing in light amber with a plain white blank label, beside a whole onion, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 淡路島産玉ねぎ 生ドレッシング 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 448,
+     "origin": "淡路島産玉ねぎ使用"
+    },
+    {
+     "title": "Cymbal セレクト 淡路島産玉ねぎ 生ドレッシング 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 648,
+     "origin": "淡路島産玉ねぎ使用"
+    },
+    {
+     "title": "ほくせい食品 北海道産玉ねぎの 生ドレッシング 280ml",
+     "brand": "ほくせい食品",
+     "size": "280ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道産玉ねぎ使用"
+    },
+    {
+     "title": "Cymbal セレクト 淡路島産玉ねぎ 生ドレッシング 減塩 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 448,
+     "origin": "淡路島産玉ねぎ使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_onion_dressing_rich_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_caesar_anchovy",
+   "category_path": [
+    "調味料",
+    "ドレッシング",
+    "シーザードレッシング"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シーザーサラダ",
+    "グリルチキン",
+    "ベイクドポテト",
+    "クルトンサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "パルメザンチーズをたっぷり使い、アンチョビとにんにくで深みを出した濃厚な生シーザードレッシング。ロメインレタスに絡めるだけで、レストランのようなシーザーサラダが完成します。要冷蔵です。",
+   "image_brief": "A wide glass jar of thick creamy off-white Caesar dressing with visible black pepper and grated cheese, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Bistro Lumi アンチョビ香る 生シーザードレッシング 200ml",
+     "brand": "Bistro Lumi",
+     "size": "200ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bistro Lumi アンチョビ香る 生シーザードレッシング 350ml",
+     "brand": "Bistro Lumi",
+     "size": "350ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト パルミジャーノ 濃厚シーザー 250ml",
+     "brand": "Cymbal セレクト",
+     "size": "250ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト トリュフ香る シーザードレッシング 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_caesar_anchovy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_kakiage_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "丼のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天丼",
+    "かつ丼",
+    "かき揚げ丼",
+    "親子丼"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛くとろみのある丼専用のたれ。揚げたての天ぷらやかつをさっとくぐらせてご飯にのせれば、お店のような天丼やかつ丼に。卵とじの割下としても使える、忙しい日の頼れる味方です。",
+   "image_brief": "A plastic squeeze bottle of thick glossy dark brown rice bowl sauce with a plain orange blank label, beside a tempura rice bowl, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 天丼のたれ 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつ丼のたれ 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "やまぶき醸造 老舗の味 天丼だれ 300g",
+     "brand": "やまぶき醸造",
+     "size": "300g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天丼のたれ 小袋 15g×10袋",
+     "brand": "Cymbal",
+     "size": "15g×10袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_kakiage_tare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_sweet_vinegar_ankake",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "甘酢・あんかけのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "南蛮漬け",
+    "甘酢あんかけ",
+    "チキン南蛮",
+    "肉団子"
+   ],
+   "tax_rate": 8,
+   "description": "黒酢とりんご酢をブレンドした、甘酸っぱい万能甘酢だれ。揚げた魚や鶏に絡めるだけで南蛮漬けやチキン南蛮が手軽に作れます。とろみタイプは肉団子や甘酢あんかけにそのまま使えます。",
+   "image_brief": "A PET bottle of translucent amber sweet vinegar sauce with a plain light orange blank label, beside sweet-and-sour meatballs, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 南蛮漬けのたれ 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒酢あんのたれ 280g",
+     "brand": "Cymbal",
+     "size": "280g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキン南蛮の甘酢 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "みなと屋 とろみ甘酢あん 300g",
+     "brand": "みなと屋",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_sweet_vinegar_ankake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_sauce_gyoza_dipping_variety",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "餃子のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き餃子",
+    "水餃子",
+    "小籠包",
+    "春巻き"
+   ],
+   "tax_rate": 8,
+   "description": "定番の醤油・酢・ラー油タイプとは違う、ひと工夫ある餃子のたれ。黒酢やゆず、にんにく味噌など、いつもの餃子を変化させたいときにぴったり。水餃子や小籠包のつけだれにもおすすめです。",
+   "image_brief": "Three small glass bottles of dark dipping sauces with plain blank labels in black, yellow and red, beside pan-fried dumplings, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒酢餃子のたれ 150ml",
+     "brand": "Cymbal",
+     "size": "150ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず餃子のたれ 150ml",
+     "brand": "Cymbal",
+     "size": "150ml",
+     "price_tax_excluded": 198,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "みなと屋 浜松風 餃子の酢醤油 200ml",
+     "brand": "みなと屋",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ロンファ食品 黒酢小籠包のたれ 150ml",
+     "brand": "ロンファ食品",
+     "size": "150ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal にんにく味噌 餃子のたれ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_sauce_gyoza_dipping_variety_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

@@ -1,0 +1,1361 @@
+{
+ "category_key": "dairy",
+ "items": [
+  {
+   "base_id": "dairy_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "鶏卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "description": "毎日の食卓に欠かせない、国内の契約農場で産まれた新鮮な鶏卵です。黄身にほどよいコクがあり、卵焼きや目玉焼き、親子丼など和洋どんな料理にも使いやすいのが魅力。サイズ違いや赤玉もそろえているので、ご家庭の使い方に合わせてお選びください。",
+   "images": [
+    "dairy_eggs_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 白玉子 Mサイズ 10個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10個",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 白玉子 Lサイズ 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 白玉子 MSサイズ 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 白玉子 Mサイズ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 赤玉子 Mサイズ 10個入",
+     "brand": "トップバリュ",
+     "size": "10個",
+     "price_tax_excluded": 318,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 平飼いの赤玉子 Mサイズ 6個入",
+     "brand": "トップバリュ セレクト",
+     "size": "6個",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "dairy_eggs_1.jpg",
+    "dairy_eggs_2.jpg"
+   ],
+   "dishes": [
+    "卵焼き",
+    "親子丼",
+    "茶碗蒸し",
+    "オムライス",
+    "卵かけご飯",
+    "ゆで卵"
+   ]
+  },
+  {
+   "base_id": "dairy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "生乳100％でつくった、すっきりとした後味の牛乳です。朝食のお供やシチュー・グラタンなどの料理、カフェオレにもたっぷり使えます。さっぱり飲みたい方には低脂肪タイプもご用意しました。",
+   "images": [
+    "dairy_milk_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 北海道牛乳 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛乳 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 218,
+     "origin": "国産（生乳）"
+    },
+    {
+     "title": "トップバリュ 低脂肪牛乳 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国産（生乳）"
+    },
+    {
+     "title": "トップバリュ 牛乳 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 148,
+     "origin": "国産（生乳）"
+    },
+    {
+     "title": "トップバリュ セレクト 特選 北海道3.6牛乳 1000ml",
+     "brand": "トップバリュ セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機牛乳 900ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道産（生乳）"
+    }
+   ],
+   "cc_images": [
+    "dairy_milk_1.jpg",
+    "dairy_milk_2.jpg"
+   ],
+   "dishes": [
+    "シチュー",
+    "グラタン",
+    "プリン",
+    "ホットミルク",
+    "パンケーキ"
+   ]
+  },
+  {
+   "base_id": "dairy_soy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "遺伝子組換えでない大豆を丁寧にしぼった、まろやかな味わいの豆乳です。そのまま飲むのはもちろん、豆乳鍋やスープ、ホットドリンクにも活躍します。常温で保存できるので、まとめ買いにも便利です。",
+   "images": [
+    "dairy_soy_milk_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 無調整豆乳 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 調製豆乳 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 無調整豆乳 200ml×3本",
+     "brand": "トップバリュ",
+     "size": "200ml×3本",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 調製豆乳 200ml×3本",
+     "brand": "トップバリュ",
+     "size": "200ml×3本",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機無調整豆乳 1000ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_soy_milk_1.jpg",
+    "dairy_soy_milk_2.jpg"
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "豆乳スープ",
+    "豆乳プリン",
+    "スムージー"
+   ]
+  },
+  {
+   "base_id": "dairy_plain_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "プレーンヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "なめらかな口当たりと、やさしい酸味のプレーンヨーグルトです。フルーツやはちみつを添えて朝食に、カレーのかくし味やタンドリーチキンの下味にもおすすめ。大容量なので家族みんなで楽しめます。",
+   "images": [
+    "dairy_plain_yogurt_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ プレーンヨーグルト 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス プレーンヨーグルト 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道生乳100% プレーンヨーグルト 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 低脂肪 プレーンヨーグルト 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ギリシャヨーグルト プレーン 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機プレーンヨーグルト 400g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_plain_yogurt_1.jpg",
+    "dairy_plain_yogurt_2.jpg"
+   ],
+   "dishes": [
+    "フルーツヨーグルト",
+    "タンドリーチキン",
+    "ヨーグルトドレッシング",
+    "ラッシー"
+   ]
+  },
+  {
+   "base_id": "dairy_sweetened_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "ほんのり甘く、そのままスプーンですぐ食べられる加糖ヨーグルトです。食べきりサイズの4個パックは、お子さまのおやつやお弁当後のデザートにぴったり。ブルーベリーやいちごなど、人気のフルーツ味もそろえました。",
+   "images": [
+    "dairy_sweetened_yogurt_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ヨーグルト 加糖 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 加糖ヨーグルト 70g×4個",
+     "brand": "トップバリュ",
+     "size": "70g×4個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブルーベリーヨーグルト 70g×4個",
+     "brand": "トップバリュ",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごヨーグルト 70g×4個",
+     "brand": "トップバリュ",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アロエヨーグルト 70g×4個",
+     "brand": "トップバリュ",
+     "size": "70g×4個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト はちみつ仕立てのギリシャヨーグルト 100g×2個",
+     "brand": "トップバリュ セレクト",
+     "size": "100g×2個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_sweetened_yogurt_1.jpg",
+    "dairy_sweetened_yogurt_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "フルーツヨーグルト",
+    "デザート"
+   ]
+  },
+  {
+   "base_id": "dairy_sliced_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "スライスチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "1枚ずつ取り出しやすい、まろやかな味わいのスライスチーズです。トーストやサンドイッチ、ハンバーグのトッピングなど忙しい朝の時短メニューに大活躍。加熱するととろりと溶けるタイプもあります。",
+   "images": [
+    "dairy_sliced_cheese_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ スライスチーズ 7枚入",
+     "brand": "トップバリュ",
+     "size": "7枚（112g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス スライスチーズ 7枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "7枚（112g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とろけるスライスチーズ 7枚入",
+     "brand": "トップバリュ",
+     "size": "7枚（126g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チェダースライスチーズ 7枚入",
+     "brand": "トップバリュ",
+     "size": "7枚（112g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とろけるスライスチーズ 徳用18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚（324g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ゴーダスライスチーズ 6枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "6枚（90g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_sliced_cheese_1.jpg",
+    "dairy_sliced_cheese_2.jpg"
+   ],
+   "dishes": [
+    "チーズトースト",
+    "チーズハンバーグ",
+    "ハムチーズサンド",
+    "オムレツ"
+   ]
+  },
+  {
+   "base_id": "dairy_pizza_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "シュレッドチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "よく溶けてよく伸びる、ピザやグラタンにぴったりのシュレッドチーズです。トーストやドリア、カレーのトッピングにもさっとかけるだけで、ボリュームのある一皿に仕上がります。使いやすいチャック付き袋入りです。",
+   "images": [
+    "dairy_pizza_cheese_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ピザ用チーズ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス シュレッドチーズ 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ モッツァレラ入り ピザ用チーズ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産ナチュラルチーズ使用 ピザ用チーズ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ ピザ用チーズ 徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_pizza_cheese_1.jpg",
+    "dairy_pizza_cheese_2.jpg"
+   ],
+   "dishes": [
+    "グラタン",
+    "ピザトースト",
+    "ドリア",
+    "チーズタッカルビ",
+    "ラザニア"
+   ]
+  },
+  {
+   "base_id": "dairy_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "バター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "北海道産の生乳からつくった、豊かな風味のバターです。トーストにのせるのはもちろん、ムニエルやバター醤油炒め、お菓子づくりにも。あらかじめカットされたタイプは計量いらずで便利です。",
+   "images": [
+    "dairy_butter_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 北海道バター 有塩 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 北海道バター 食塩不使用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 568,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 北海道バター 有塩 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 北海道バター カットタイプ 有塩 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ セレクト 発酵バター 食塩不使用 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産（生乳）"
+    }
+   ],
+   "cc_images": [
+    "dairy_butter_2.jpg",
+    "dairy_butter_1.jpg"
+   ],
+   "dishes": [
+    "バタートースト",
+    "ムニエル",
+    "バター醤油炒め",
+    "じゃがバター",
+    "クッキー"
+   ]
+  },
+  {
+   "base_id": "dairy_fresh_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "生クリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "北海道産生乳を使った、コクがありながら後味の軽い生クリームです。ホイップしてケーキやフルーツサンドに、パスタやスープに加えれば濃厚なクリーム仕立てに。用途に合わせて乳脂肪分や容量をお選びいただけます。",
+   "images": [
+    "dairy_fresh_cream_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 北海道 純生クリーム 乳脂肪分42% 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 北海道 純生クリーム 乳脂肪分35% 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 368,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ 北海道 純生クリーム 乳脂肪分42% 100ml",
+     "brand": "トップバリュ",
+     "size": "100ml",
+     "price_tax_excluded": 228,
+     "origin": "北海道産（生乳）"
+    },
+    {
+     "title": "トップバリュ ホイップ 植物性脂肪 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_fresh_cream_1.jpg",
+    "dairy_fresh_cream_2.jpg"
+   ],
+   "dishes": [
+    "クリームシチュー",
+    "カルボナーラ",
+    "グラタン",
+    "ケーキ",
+    "クリームパスタ"
+   ]
+  },
+  {
+   "base_id": "dairy_pudding",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "卵と牛乳のやさしい甘さに、ほろ苦いカラメルソースがよく合うプリンです。なめらかな口どけで、お子さまのおやつや食後のデザートにぴったり。香ばしい焼きプリンや、秋らしいかぼちゃのプリンもご用意しました。",
+   "images": [
+    "dairy_pudding_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ カスタードプリン 70g×3個",
+     "brand": "トップバリュ",
+     "size": "70g×3個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きプリン 70g×3個",
+     "brand": "トップバリュ",
+     "size": "70g×3個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛乳プリン 70g×3個",
+     "brand": "トップバリュ",
+     "size": "70g×3個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たっぷりカスタードプリン 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道生クリームのなめらかプリン 110g",
+     "brand": "トップバリュ セレクト",
+     "size": "110g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産かぼちゃのプリン 85g×2個",
+     "brand": "トップバリュ",
+     "size": "85g×2個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_pudding_1.jpg",
+    "dairy_pudding_2.jpg"
+   ],
+   "dishes": [
+    "デザート",
+    "おやつ",
+    "プリンアラモード"
+   ]
+  },
+  {
+   "base_id": "dairy_silken_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "絹豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "きめ細かく、つるんとなめらかな口当たりの絹豆腐です。冷奴やお味噌汁、湯豆腐、麻婆豆腐まで幅広く使え、毎日の献立づくりに重宝します。使い切りやすい小分けパックもあります。",
+   "images": [
+    "dairy_silken_tofu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産大豆 絹豆腐 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 118,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 絹豆腐 350g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 絹豆腐 150g×3個",
+     "brand": "トップバリュ",
+     "size": "150g×3個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大豆 絹豆腐 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_silken_tofu_1.jpg",
+    "dairy_silken_tofu_2.jpg"
+   ],
+   "dishes": [
+    "冷奴",
+    "味噌汁",
+    "麻婆豆腐",
+    "湯豆腐",
+    "揚げ出し豆腐"
+   ]
+  },
+  {
+   "base_id": "dairy_firm_tofu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "豆腐",
+    "木綿豆腐"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "大豆の風味がしっかり感じられる、しっかりとした食感の木綿豆腐です。煮崩れしにくいので、すき焼きや肉豆腐、炒め物、揚げだし豆腐にもおすすめ。水切りしやすく、時短調理にも向いています。",
+   "images": [
+    "dairy_firm_tofu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産大豆 木綿豆腐 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 118,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 木綿豆腐 350g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 木綿豆腐 150g×3個",
+     "brand": "トップバリュ",
+     "size": "150g×3個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大豆 木綿豆腐 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_firm_tofu_1.jpg",
+    "dairy_firm_tofu_2.jpg"
+   ],
+   "dishes": [
+    "麻婆豆腐",
+    "肉豆腐",
+    "豆腐チャンプルー",
+    "白和え",
+    "すき焼き"
+   ]
+  },
+  {
+   "base_id": "dairy_natto",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "納豆",
+    "納豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "よく混ぜるほどに粘りとうま味が増す、たれ・からし付きの納豆です。ごはんにのせるだけで一品になり、忙しい朝の強い味方。食べやすい小粒、ごはんによくからむひきわり、食べごたえのある大粒をそろえました。",
+   "images": [
+    "dairy_natto_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 小粒納豆 45g×3個",
+     "brand": "トップバリュ",
+     "size": "45g×3個",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 小粒納豆 40g×4個",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g×4個",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひきわり納豆 40g×3個",
+     "brand": "トップバリュ",
+     "size": "40g×3個",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 極小粒納豆 40g×3個",
+     "brand": "トップバリュ",
+     "size": "40g×3個",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大粒納豆 45g×3個",
+     "brand": "トップバリュ",
+     "size": "45g×3個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 小粒納豆 40g×3個",
+     "brand": "トップバリュ",
+     "size": "40g×3個",
+     "price_tax_excluded": 128,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機大豆 納豆 40g×3個",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "40g×3個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_natto_1.jpg",
+    "dairy_natto_2.jpg"
+   ],
+   "dishes": [
+    "納豆ご飯",
+    "納豆巻き",
+    "納豆オムレツ",
+    "納豆パスタ"
+   ]
+  },
+  {
+   "base_id": "dairy_aburaage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "油揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "ふっくらと揚げた、香ばしい油揚げです。お味噌汁やきつねうどん、炊き込みごはん、煮物に加えるだけでコクとうま味がアップ。刻みタイプなら包丁いらずで、さっと使えて時短になります。",
+   "images": [
+    "dairy_aburaage_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 油揚げ 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 油揚げ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 128,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 刻み油揚げ 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 油揚げ 徳用5枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5枚",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_aburaage_1.jpg",
+    "dairy_aburaage_2.jpg"
+   ],
+   "dishes": [
+    "味噌汁",
+    "いなり寿司",
+    "きつねうどん",
+    "小松菜と油揚げの煮びたし",
+    "炊き込みご飯"
+   ]
+  },
+  {
+   "base_id": "dairy_atsuage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "油揚げ・厚揚げ",
+    "厚揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "外はこんがり香ばしく、中はふんわりやわらかな厚揚げです。焼いて生姜醤油で、煮物やおでん、野菜炒めにも合い、ボリュームのあるおかずが手早く作れます。ひと口サイズは味がしみやすく、お弁当にも便利です。",
+   "images": [
+    "dairy_atsuage_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 厚揚げ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆 厚揚げ 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚",
+     "price_tax_excluded": 148,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ 絹厚揚げ 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひと口厚揚げ 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_atsuage_1.jpg",
+    "dairy_atsuage_2.jpg"
+   ],
+   "dishes": [
+    "厚揚げの煮物",
+    "おでん",
+    "厚揚げの焼き物",
+    "麻婆厚揚げ"
+   ]
+  },
+  {
+   "base_id": "dairy_konnyaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "こんにゃく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "ぷりっとした弾力と歯ごたえが楽しい板こんにゃくです。豚汁や筑前煮、おでん、ピリ辛炒めなど、和のおかずに欠かせない名脇役。アク抜き済みなので、下ごしらえの手間も少なく使えます。",
+   "images": [
+    "dairy_konnyaku_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 板こんにゃく 黒 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 板こんにゃく 白 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 群馬県産こんにゃく芋使用 板こんにゃく 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 128,
+     "origin": "群馬県産こんにゃく芋使用"
+    },
+    {
+     "title": "トップバリュ 玉こんにゃく 20個入",
+     "brand": "トップバリュ",
+     "size": "20個（300g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちぎりこんにゃく 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_konnyaku_1.jpg",
+    "dairy_konnyaku_2.jpg"
+   ],
+   "dishes": [
+    "おでん",
+    "筑前煮",
+    "豚汁",
+    "こんにゃくのピリ辛炒め",
+    "田楽"
+   ]
+  },
+  {
+   "base_id": "dairy_shirataki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "こんにゃく・しらたき",
+    "しらたき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "つるっとしたのどごしのしらたきです。すき焼きや肉じゃが、鍋物はもちろん、たらこ和えやチャプチェ風にも使えます。アク抜き不要タイプは、袋から出して水を切るだけですぐ調理できます。",
+   "images": [
+    "dairy_shirataki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ しらたき 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 糸こんにゃく 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 群馬県産こんにゃく芋使用 しらたき 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "群馬県産こんにゃく芋使用"
+    },
+    {
+     "title": "トップバリュ アク抜き不要 しらたき 180g×2個",
+     "brand": "トップバリュ",
+     "size": "180g×2個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_shirataki_1.jpg"
+   ],
+   "dishes": [
+    "すき焼き",
+    "肉じゃが",
+    "しらたきのたらこ炒め",
+    "寄せ鍋"
+   ]
+  },
+  {
+   "base_id": "dairy_chikuwa",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "ちくわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "description": "魚のすり身をこんがり焼き上げた、香ばしく弾力のあるちくわです。そのままおつまみに、磯辺揚げやきんぴら、おでんの具にも使えて、あと一品ほしいときに重宝します。お弁当に便利なミニサイズもあります。",
+   "images": [
+    "dairy_chikuwa_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 焼ちくわ 4本入",
+     "brand": "トップバリュ",
+     "size": "4本（140g）",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ちくわ 5本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5本（125g）",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大きな焼ちくわ 2本入",
+     "brand": "トップバリュ",
+     "size": "2本（160g）",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニちくわ 8本入",
+     "brand": "トップバリュ",
+     "size": "8本（120g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_chikuwa_1.jpg",
+    "dairy_chikuwa_2.jpg"
+   ],
+   "dishes": [
+    "ちくわの磯辺揚げ",
+    "おでん",
+    "ちくわきゅうり",
+    "筑前煮",
+    "お弁当のおかず"
+   ]
+  },
+  {
+   "base_id": "dairy_hanpen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "はんぺん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "白身魚のすり身に山芋を合わせ、ふんわり軽い口当たりに仕上げたはんぺんです。おでんに入れればつゆをたっぷり含み、バター焼きやチーズはさみ焼きにしてもおいしくいただけます。肌寒くなるこれからの季節におすすめです。",
+   "images": [
+    "dairy_hanpen_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ はんぺん 1枚入",
+     "brand": "トップバリュ",
+     "size": "1枚（110g）",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大判はんぺん 1枚入",
+     "brand": "トップバリュ",
+     "size": "1枚（140g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小判はんぺん 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚（160g）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニはんぺん 6枚入",
+     "brand": "トップバリュ",
+     "size": "6枚（120g）",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_hanpen_1.jpg"
+   ],
+   "dishes": [
+    "おでん",
+    "はんぺんのバター焼き",
+    "はんぺんチーズフライ",
+    "お吸い物"
+   ]
+  },
+  {
+   "base_id": "dairy_kamaboko",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "かまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "description": "魚のすり身を蒸し上げた、ぷりっと弾力のある板かまぼこです。わさび醤油で手軽な一品に、うどんや茶わん蒸し、お弁当の彩りにも活躍します。紅白そろえておけば、ちょっとしたお祝いの食卓も華やかになります。",
+   "images": [
+    "dairy_kamaboko_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 蒸しかまぼこ 紅 1本入",
+     "brand": "トップバリュ",
+     "size": "1本（140g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 蒸しかまぼこ 白 1本入",
+     "brand": "トップバリュ",
+     "size": "1本（140g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス かまぼこ 紅 1本入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1本（90g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 特撰 板かまぼこ 白 1本入",
+     "brand": "トップバリュ セレクト",
+     "size": "1本（180g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_kamaboko_1.jpg",
+    "dairy_kamaboko_2.jpg"
+   ],
+   "dishes": [
+    "おせち料理",
+    "かまぼこ板わさ",
+    "うどん",
+    "茶碗蒸し"
+   ]
+  },
+  {
+   "base_id": "dairy_oden_set",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "おでん種"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "ちくわやさつま揚げ、ごぼう巻き、こんにゃくなど人気の具材を詰め合わせたおでん種セットです。付属のつゆと大根を合わせて煮込むだけで、本格的なおでんが手軽に完成します。肌寒くなってきた季節の晩ごはんにどうぞ。",
+   "images": [
+    "dairy_oden_set_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ おでん種セット 7種13品 つゆ付",
+     "brand": "トップバリュ",
+     "size": "7種13品（つゆ付）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス おでん種 5種8品",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5種8品",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでんセット 5種10品 つゆ付",
+     "brand": "トップバリュ",
+     "size": "5種10品（つゆ付）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 関西風だし おでん種セット 6種12品 つゆ付",
+     "brand": "トップバリュ",
+     "size": "6種12品（つゆ付）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 具だくさん おでん種 9種16品 つゆ付",
+     "brand": "トップバリュ セレクト",
+     "size": "9種16品（つゆ付）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "dairy_oden_set_1.jpg",
+    "dairy_oden_set_2.jpg"
+   ],
+   "dishes": [
+    "おでん",
+    "夕食のおかず",
+    "おでん定食"
+   ]
+  }
+ ]
+}

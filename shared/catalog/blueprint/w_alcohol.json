@@ -1,0 +1,3927 @@
+{
+ "category_key": "w_alcohol",
+ "items": [
+  {
+   "base_id": "w_alcohol_premium_malt_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "プレミアムビール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "ローストビーフ",
+    "ステーキ",
+    "お歳暮"
+   ],
+   "tax_rate": 10,
+   "description": "厳選した麦芽と香り高いアロマホップを贅沢に使ったプレミアムビール。きめ細かな泡と、ふくよかなコク、華やかな香りが特長です。週末のごほうびや、ちょっと良いおかずと合わせて楽しみたい一本です。",
+   "image_brief": "A tall gold-and-deep-navy aluminum beer can with a blank premium-looking label, condensation droplets, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り 350ml",
+     "brand": "Cymbal セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り 350ml×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り 500ml×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "500ml×6缶",
+     "price_tax_excluded": 1748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り ケース 350ml×24缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×24缶",
+     "price_tax_excluded": 5180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアム生ビール 華やかな香り ケース 500ml×24缶",
+     "brand": "Cymbal セレクト",
+     "size": "500ml×24缶",
+     "price_tax_excluded": 6880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_premium_malt_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_bottle_lager",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "瓶ビール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "居酒屋気分",
+    "焼き鳥",
+    "餃子",
+    "宴会"
+   ],
+   "tax_rate": 10,
+   "description": "昔ながらの熱処理ラガーを瓶に詰めました。しっかりした苦みと重厚なコクで、グラスに注ぐたびに広がる香りも格別。宴会や来客時、お店のような雰囲気で楽しみたいときにおすすめです。",
+   "image_brief": "A brown glass beer bottle with a blank cream-colored label and gold crown cap next to a small empty beer glass, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クラシックラガー 瓶 334ml(小瓶)",
+     "brand": "Cymbal",
+     "size": "334ml(小瓶)",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クラシックラガー 瓶 500ml(中瓶)",
+     "brand": "Cymbal",
+     "size": "500ml(中瓶)",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クラシックラガー 瓶 633ml(大瓶)",
+     "brand": "Cymbal",
+     "size": "633ml(大瓶)",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クラシックラガー 大瓶 P箱 633ml×20本",
+     "brand": "Cymbal",
+     "size": "633ml×20本",
+     "price_tax_excluded": 6780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クラシックラガー 中瓶 500ml×6本",
+     "brand": "Cymbal",
+     "size": "500ml×6本",
+     "price_tax_excluded": 1698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_bottle_lager_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_weizen_white_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "白ビール・ヴァイツェン"
+   ],
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "白身魚のムニエル",
+    "ソーセージ",
+    "サラダ",
+    "ピザ"
+   ],
+   "tax_rate": 10,
+   "description": "小麦麦芽を使い、バナナのようなフルーティーな香りとやわらかな口当たりに仕上げた白ビール。苦みが穏やかで、ビールが苦手な方にも飲みやすい一品です。白濁したやさしい色合いもお楽しみください。",
+   "image_brief": "A white and pale-yellow aluminum can of cloudy wheat beer beside a tall curvy glass filled with hazy golden beer, blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 白ビール ヴァイツェン 350ml",
+     "brand": "Cymbal セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白ビール ヴァイツェン 350ml×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1440,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白ビール ヴァイツェン 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ベルジャンホワイト オレンジピール香る 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ヴァイスベルク ドイツ産 ヘーフェヴァイツェン 瓶 500ml",
+     "brand": "ヴァイスベルク",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ産"
+    }
+   ],
+   "images": [
+    "w_alcohol_weizen_white_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_stout_black_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "黒ビール・スタウト"
+   ],
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "チョコレート",
+    "ローストポーク",
+    "牡蠣"
+   ],
+   "tax_rate": 10,
+   "description": "ローストした麦芽を使い、コーヒーやカカオを思わせる香ばしさとまろやかなコクを引き出した黒ビール。煮込み料理や濃厚な肉料理、チョコレートとの相性も抜群です。寒い季節にゆっくり味わいたい一杯です。",
+   "image_brief": "A matte black aluminum can with a blank label next to a pint glass of dark stout with a thick creamy tan head, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 黒ビール ロースト麦芽 350ml",
+     "brand": "Cymbal セレクト",
+     "size": "350ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒ビール ロースト麦芽 350ml×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ミルクスタウト 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing インペリアルスタウト 9% 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーフ&ハーフ 黒と金 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_stout_black_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_pale_amber_ale",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "クラフトビール・地ビール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "フィッシュ&チップス",
+    "ハンバーガー",
+    "フライドポテト",
+    "BBQ"
+   ],
+   "tax_rate": 10,
+   "description": "柑橘やカラメルを思わせる香りが広がる、エールタイプのクラフトビール風シリーズ。軽快なペールエールから、香ばしいアンバーエール、華やかなセッションIPAまで、飲み比べが楽しいラインナップです。",
+   "image_brief": "Three colorful 350ml craft beer cans in amber, teal and orange with blank illustrated-style labels standing in a row, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Harbor Mist Brewing ペールエール 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing アンバーエール 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing セッションIPA 4.5% 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ヘイジーIPA 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing クラフトエール 飲み比べ 350ml×4缶",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml×4缶",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ペールエール 350ml×6缶",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_pale_amber_ale_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_fruit_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "フルーツビール"
+   ],
+   "allergens": [
+    "小麦",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "チーズ",
+    "女子会",
+    "パーティー"
+   ],
+   "tax_rate": 10,
+   "description": "ベルギーの伝統的なスタイルにならい、果実を漬け込んで造ったフルーツビール。甘酸っぱい果実の香りとほのかな苦みのバランスがよく、ワイン感覚で楽しめます。パーティーの乾杯にも華やかです。",
+   "image_brief": "A small dark glass bottle with a blank pink foil-wrapped neck beside a tulip glass of ruby-red fruit beer, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Abbaye Florin ベルギー産 チェリービール 瓶 250ml",
+     "brand": "Abbaye Florin",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Abbaye Florin ベルギー産 フランボワーズビール 瓶 250ml",
+     "brand": "Abbaye Florin",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Abbaye Florin ベルギー産 ピーチビール 瓶 250ml",
+     "brand": "Abbaye Florin",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Abbaye Florin ベルギー産 カシスビール 瓶 250ml",
+     "brand": "Abbaye Florin",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Abbaye Florin ベルギー産 フルーツビール 4種アソート 250ml×4本",
+     "brand": "Abbaye Florin",
+     "size": "250ml×4本",
+     "price_tax_excluded": 1580,
+     "origin": "ベルギー産"
+    }
+   ],
+   "images": [
+    "w_alcohol_fruit_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_autumn_limited_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "季節限定ビール"
+   ],
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋の味覚",
+    "さんま",
+    "きのこ料理",
+    "鍋"
+   ],
+   "tax_rate": 10,
+   "description": "秋だけの限定醸造。通常より麦芽を多めに使い、深いコクと豊かな麦の香りを感じる味わいに仕上げました。秋の味覚や鍋料理との相性も◎。紅葉をイメージした季節デザインで手土産にも喜ばれます。",
+   "image_brief": "A deep crimson and amber aluminum beer can decorated with blank autumn-leaf patterns, a few maple leaves beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 【秋季限定】秋の麦芽仕込み 生 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【秋季限定】秋の麦芽仕込み 生 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【秋季限定】秋の麦芽仕込み 生 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【秋季限定】秋の麦芽仕込み 生 500ml×6缶",
+     "brand": "Cymbal",
+     "size": "500ml×6缶",
+     "price_tax_excluded": 1598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【秋季限定】秋の麦芽仕込み 生 ケース 350ml×24缶",
+     "brand": "Cymbal",
+     "size": "350ml×24缶",
+     "price_tax_excluded": 4680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_autumn_limited_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_purine_zero_new_genre",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "プリン体ゼロ・機能系"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "枝豆",
+    "冷奴",
+    "焼き魚"
+   ],
+   "tax_rate": 10,
+   "description": "プリン体ゼロ・糖質ゼロを目指して仕立てた新ジャンル。軽やかでキレのある飲み口ながら、麦のうまみもしっかり感じられます。毎日の晩酌で、すっきりと楽しみたい方におすすめです。",
+   "image_brief": "A white and light-green aluminum can with a blank minimalist label, a six-pack carton beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal プリン体ゼロ 糖質ゼロ 新ジャンル 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリン体ゼロ 糖質ゼロ 新ジャンル 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリン体ゼロ 糖質ゼロ 新ジャンル 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 738,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリン体ゼロ 糖質ゼロ 新ジャンル 500ml×6缶",
+     "brand": "Cymbal",
+     "size": "500ml×6缶",
+     "price_tax_excluded": 1028,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリン体ゼロ 糖質ゼロ 新ジャンル ケース 350ml×24缶",
+     "brand": "Cymbal",
+     "size": "350ml×24缶",
+     "price_tax_excluded": 2880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_purine_zero_new_genre_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_rich_new_genre",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "新ジャンル（第3のビール）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "焼肉",
+    "餃子",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "麦芽の配合を工夫し、ビールに近い濃厚なコクと飲みごたえを追求した新ジャンル。アルコール6%で満足感があり、こってりした料理にも負けません。家計にやさしいケース買いもできます。",
+   "image_brief": "A rich gold and black aluminum can with a blank bold label, stacked six-pack beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 688,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% 500ml×6缶",
+     "brand": "Cymbal",
+     "size": "500ml×6缶",
+     "price_tax_excluded": 978,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% ケース 350ml×24缶",
+     "brand": "Cymbal",
+     "size": "350ml×24缶",
+     "price_tax_excluded": 2680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 新ジャンル 濃いコク ゴールド 6% ケース 500ml×24缶",
+     "brand": "Cymbal",
+     "size": "500ml×24缶",
+     "price_tax_excluded": 3780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_rich_new_genre_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_beer_gift_set",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "ビールギフト"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "手土産",
+    "年末年始",
+    "ホームパーティー"
+   ],
+   "tax_rate": 10,
+   "description": "人気のビールを詰め合わせたギフトセット。のし対応の化粧箱入りで、お歳暮や年末年始のごあいさつにぴったりです。プレミアムビールと季節のクラフトビールの飲み比べセットもご用意しました。",
+   "image_brief": "An open white gift box with a blank paper sleeve holding neatly arranged gold and navy beer cans in rows, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト プレミアムビール ギフトセット 350ml×10缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×10缶",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアムビール ギフトセット 350ml×14缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×14缶",
+     "price_tax_excluded": 4180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアムビール ギフトセット 350ml×20缶",
+     "brand": "Cymbal セレクト",
+     "size": "350ml×20缶",
+     "price_tax_excluded": 5880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing クラフトビール 飲み比べギフト 350ml×6缶",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト プレミアムビール 瓶ギフト 334ml×12本",
+     "brand": "Cymbal セレクト",
+     "size": "334ml×12本",
+     "price_tax_excluded": 4480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_beer_gift_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_low_alc_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ビール・発泡酒",
+    "微アルコールビール"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "平日の夜",
+    "お風呂上がり",
+    "サラダ"
+   ],
+   "tax_rate": 10,
+   "description": "アルコール0.5%の微アルコールビールテイスト。ビールをつくってからアルコールを抜く製法で、本物に近い麦のうまみと香りを残しました。お酒を控えたい日や、軽く楽しみたいときにぴったりです。",
+   "image_brief": "A pale-gold and white aluminum can with a blank minimal label and a small glass of light beer, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 微アルコール ビールテイスト 0.5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 微アルコール ビールテイスト 0.5% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 858,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 微アルコール ビールテイスト 0.5% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 微アルコール ビールテイスト 0.5% ケース 350ml×24缶",
+     "brand": "Cymbal",
+     "size": "350ml×24缶",
+     "price_tax_excluded": 3380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_low_alc_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_sugar_free_dry_sour",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "無糖チューハイ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "刺身",
+    "天ぷら",
+    "おでん"
+   ],
+   "tax_rate": 10,
+   "description": "糖類ゼロ・甘味料不使用でキリッとドライに仕上げた無糖チューハイ。果実の皮ごとの香りがふわりと広がり、食事の味を邪魔しません。和食から揚げ物まで、食中酒として幅広く合わせられます。",
+   "image_brief": "A silver aluminum can with a blank white label and a subtle lime-green stripe, beside a glass of clear sparkling drink with ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 無糖ドライサワー レモン 7% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無糖ドライサワー レモン 7% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無糖ドライサワー グレープフルーツ 7% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無糖ドライサワー シークヮーサー 7% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無糖ドライサワー レモン 7% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 678,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無糖ドライサワー 3種アソート 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 678,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_sugar_free_dry_sour_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_winter_citrus_chuhai",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "季節限定チューハイ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "こたつ",
+    "おでん",
+    "年末年始"
+   ],
+   "tax_rate": 10,
+   "description": "冬の旬の国産柑橘を使った季節限定チューハイ。温州みかんのやさしい甘さ、ゆずやきんかんの爽やかな香りで、鍋料理のあとにも口の中をすっきりさせてくれます。冬だけのお楽しみです。",
+   "image_brief": "Three aluminum cans in tangerine orange, yuzu yellow and kumquat gold with blank citrus-illustrated labels, a mandarin orange beside them.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 【冬季限定】温州みかんチューハイ 4% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "国産みかん果汁使用"
+    },
+    {
+     "title": "Cymbal 【冬季限定】ゆずチューハイ 5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "国産ゆず果汁使用"
+    },
+    {
+     "title": "Cymbal 【冬季限定】きんかんチューハイ 4% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 138,
+     "origin": "宮崎県産きんかん果汁使用"
+    },
+    {
+     "title": "Cymbal 【冬季限定】温州みかんチューハイ 4% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 748,
+     "origin": "国産みかん果汁使用"
+    },
+    {
+     "title": "Cymbal 【冬季限定】ゆずチューハイ 5% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国産ゆず果汁使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_winter_citrus_chuhai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_shio_lemon_sour",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "塩レモン・ジンジャーサワー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ホルモン",
+    "塩焼きそば",
+    "唐揚げ"
+   ],
+   "tax_rate": 10,
+   "description": "瀬戸内産レモンに沖縄の海塩をひとつまみ。塩味が甘みを引き締め、レモンの酸味をいっそう引き立てます。ピリッと辛口のジンジャーサワーも揃え、焼肉や揚げ物のお供にぴったりです。",
+   "image_brief": "A pale-blue and white aluminum can with a blank label showing a lemon slice motif, a small pile of sea salt beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 瀬戸内レモン 塩レモンサワー 5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "広島県産レモン果汁使用"
+    },
+    {
+     "title": "Cymbal 瀬戸内レモン 塩レモンサワー 5% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "広島県産レモン果汁使用"
+    },
+    {
+     "title": "Cymbal 瀬戸内レモン 塩レモンサワー 5% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 748,
+     "origin": "広島県産レモン果汁使用"
+    },
+    {
+     "title": "Cymbal 辛口ジンジャーサワー 5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 128,
+     "origin": "高知県産しょうが使用"
+    },
+    {
+     "title": "Cymbal 辛口ジンジャーサワー 5% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 748,
+     "origin": "高知県産しょうが使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_shio_lemon_sour_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_cocktail_can",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "カクテル缶"
+   ],
+   "allergens": [
+    "オレンジ",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "スナック",
+    "女子会",
+    "映画鑑賞"
+   ],
+   "tax_rate": 10,
+   "description": "定番カクテルを手軽に楽しめる缶入りシリーズ。果汁感たっぷりで甘すぎず、アルコール3%の飲みやすさが魅力です。グラスに氷を入れて注げば、おうちがバー気分に。パーティーの彩りにもどうぞ。",
+   "image_brief": "A row of four slim aluminum cans in orange, peach, purple and red with blank cocktail-glass graphics, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カクテル カシスオレンジ 3% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カクテル ファジーネーブル 3% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カクテル モスコミュール 4% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カクテル スクリュードライバー 4% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カクテル ピーチウーロン 3% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カクテル 4種アソート 350ml×8缶",
+     "brand": "Cymbal",
+     "size": "350ml×8缶",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_cocktail_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_low_alcohol_fruit_sour",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "低アルコール・ほろよい系"
+   ],
+   "allergens": [
+    "もも",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "デザート",
+    "おつまみ",
+    "リラックスタイム"
+   ],
+   "tax_rate": 10,
+   "description": "アルコール3%未満で、ジュース感覚で楽しめるやさしい味わいのサワー。白ぶどうやりんご、ももなど果実の甘い香りがふんわり。お酒に強くない方や、ちょっとだけ飲みたい夜にぴったりです。",
+   "image_brief": "Small pastel-colored 350ml aluminum cans in light green, pink and pale yellow with blank fruit-motif labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal やわらかサワー 白ぶどう 2% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらかサワー もも 2% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらかサワー りんご 2% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらかサワー アイスティー 2% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらかサワー 4種アソート 350ml×8缶",
+     "brand": "Cymbal",
+     "size": "350ml×8缶",
+     "price_tax_excluded": 828,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_low_alcohol_fruit_sour_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_sakaba_sour",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "チューハイ・サワー",
+    "居酒屋風サワー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "もつ煮",
+    "焼き鳥",
+    "串カツ",
+    "やきとん"
+   ],
+   "tax_rate": 10,
+   "description": "大衆酒場で愛される味わいを缶で再現したサワーシリーズ。甲類焼酎ベースのキレのある後味で、赤しそや梅干し、ビアテイスト割りなど、下町の酒場メニューを気軽に楽しめます。",
+   "image_brief": "A retro-style aluminum can in red, white and dark green with blank vintage label patterns, beside a mug glass with ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 酒場の下町サワー 赤しそ 6% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 酒場の下町サワー 梅干し 6% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 138,
+     "origin": "和歌山県産梅干し使用"
+    },
+    {
+     "title": "Cymbal 酒場の下町サワー 生搾りグレフル風 6% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 酒場の焼酎ビアテイスト割り 5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 酒場の下町サワー 赤しそ 6% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_sakaba_sour_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_strong_highball",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "ハイボール缶"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "ジャーキー",
+    "ナッツ",
+    "ハンバーグ"
+   ],
+   "tax_rate": 10,
+   "description": "ウイスキーをしっかり効かせた濃いめのハイボール缶。樽由来の香ばしい香りと強炭酸の刺激で、ガツンとした飲みごたえ。レモンを効かせたタイプや、ジンジャー割りもラインナップしました。",
+   "image_brief": "A dark amber and black aluminum can with a blank label and bubble graphics, beside a tall highball glass with ice and lemon peel.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃いめハイボール 9% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃いめハイボール 9% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 978,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモンハイボール 7% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジンジャーハイボール 7% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモンハイボール 7% 500ml×6缶",
+     "brand": "Cymbal",
+     "size": "500ml×6缶",
+     "price_tax_excluded": 1298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_strong_highball_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_gin_soda_can",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "ジンソーダ・ジントニック缶"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "フィッシュフライ",
+    "カルパッチョ",
+    "生ハム",
+    "ピクルス"
+   ],
+   "tax_rate": 10,
+   "description": "ボタニカルの爽やかな香りを生かしたジンベースの缶カクテル。ジュニパーベリーと国産柑橘の香りが軽やかに広がるジンソーダ、ほろ苦いジントニックの2タイプ。食前酒にもぴったりです。",
+   "image_brief": "A slim frosted-white aluminum can with a blank label showing botanical leaf silhouettes, beside a glass with ice and cucumber slice.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Kazanari Distillery ジンソーダ 和柑橘 7% 350ml",
+     "brand": "Kazanari Distillery",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ジンソーダ 和柑橘 7% 500ml",
+     "brand": "Kazanari Distillery",
+     "size": "500ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ジントニック 5% 350ml",
+     "brand": "Kazanari Distillery",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ジンソーダ 和柑橘 7% 350ml×6缶",
+     "brand": "Kazanari Distillery",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1028,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ジンソーダ 無糖 9% 350ml",
+     "brand": "Kazanari Distillery",
+     "size": "350ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_gin_soda_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_bourbon_whiskey",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "バーボン・アメリカンウイスキー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハイボール",
+    "BBQ",
+    "スペアリブ",
+    "ナッツ"
+   ],
+   "tax_rate": 10,
+   "description": "内側を焦がしたオーク新樽で熟成した、トウモロコシ主体のバーボンウイスキー。バニラやキャラメルを思わせる甘い香りと、力強い味わいが特長です。ロックやハイボールでどうぞ。",
+   "image_brief": "A squat square glass bottle of amber bourbon with a blank parchment label and black wax-style cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Ridgeline ケンタッキー ストレートバーボン 40% 700ml",
+     "brand": "Ridgeline",
+     "size": "700ml",
+     "price_tax_excluded": 1880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Ridgeline ケンタッキー ストレートバーボン 40% 1000ml",
+     "brand": "Ridgeline",
+     "size": "1000ml",
+     "price_tax_excluded": 2580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Ridgeline ケンタッキー ストレートバーボン 40% 200ml",
+     "brand": "Ridgeline",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Ridgeline スモールバッチ バーボン 45% 750ml",
+     "brand": "Ridgeline",
+     "size": "750ml",
+     "price_tax_excluded": 3280,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Ridgeline テネシーウイスキー 40% 700ml",
+     "brand": "Ridgeline",
+     "size": "700ml",
+     "price_tax_excluded": 2280,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_alcohol_bourbon_whiskey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_scotch_whisky",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "スコッチウイスキー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ストレート",
+    "ハイボール",
+    "スモークサーモン",
+    "チーズ"
+   ],
+   "tax_rate": 10,
+   "description": "スコットランドで3年以上熟成させたスコッチウイスキー。なめらかで飲みやすいブレンデッドから、潮の香りとスモーキーさが際立つアイラ風シングルモルトまで、好みに合わせて選べます。",
+   "image_brief": "A tall clear glass bottle of golden scotch whisky with a blank tartan-patterned label and dark stopper cork, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Moorcroft ブレンデッドスコッチ 40% 700ml",
+     "brand": "Moorcroft",
+     "size": "700ml",
+     "price_tax_excluded": 1680,
+     "origin": "イギリス産(スコットランド)"
+    },
+    {
+     "title": "Moorcroft ブレンデッドスコッチ 12年 40% 700ml",
+     "brand": "Moorcroft",
+     "size": "700ml",
+     "price_tax_excluded": 3980,
+     "origin": "イギリス産(スコットランド)"
+    },
+    {
+     "title": "Moorcroft シングルモルト スペイサイド 40% 700ml",
+     "brand": "Moorcroft",
+     "size": "700ml",
+     "price_tax_excluded": 4580,
+     "origin": "イギリス産(スコットランド)"
+    },
+    {
+     "title": "Moorcroft シングルモルト アイラ スモーキー 43% 700ml",
+     "brand": "Moorcroft",
+     "size": "700ml",
+     "price_tax_excluded": 5480,
+     "origin": "イギリス産(スコットランド)"
+    },
+    {
+     "title": "Moorcroft ブレンデッドスコッチ 40% 1000ml",
+     "brand": "Moorcroft",
+     "size": "1000ml",
+     "price_tax_excluded": 2280,
+     "origin": "イギリス産(スコットランド)"
+    }
+   ],
+   "images": [
+    "w_alcohol_scotch_whisky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_japanese_malt_whisky",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "国産ウイスキー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "水割り",
+    "ハイボール",
+    "お湯割り",
+    "和食"
+   ],
+   "tax_rate": 10,
+   "description": "国内の蒸溜所でつくられたモルト原酒をブレンドしたウイスキー。華やかな香りとやわらかな甘みで、水割りやハイボールにすると和食にもよく合います。贈り物にも選ばれる、落ち着いた味わいです。",
+   "image_brief": "A heavy rounded glass bottle of amber whisky with a blank washi-paper style label and wooden-top stopper, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Kazanari Distillery ピュアモルト 43% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 4280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ピュアモルト 43% 180ml",
+     "brand": "Kazanari Distillery",
+     "size": "180ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ブレンデッド 和の香り 40% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ピュアモルト ミズナラ樽仕上げ 43% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 6980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ピュアモルト 化粧箱入り 43% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 4580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_japanese_malt_whisky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_big_bottle_whisky",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "大容量ウイスキー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハイボール",
+    "パーティー",
+    "宅飲み",
+    "唐揚げ"
+   ],
+   "tax_rate": 10,
+   "description": "ハイボール好きにうれしい大容量ペットボトルのウイスキー。クセが少なくすっきりした味わいで、炭酸で割ると軽快な飲み口に。たくさん飲むご家庭やホームパーティーにコスパの良い一本です。",
+   "image_brief": "A large clear plastic PET jug of amber whisky with a built-in handle and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ウイスキー 37% ペット 1.92L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.92L",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ウイスキー 37% ペット 2.7L",
+     "brand": "Cymbal ベーシック",
+     "size": "2.7L",
+     "price_tax_excluded": 3280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ウイスキー 37% ペット 4L",
+     "brand": "Cymbal ベーシック",
+     "size": "4L",
+     "price_tax_excluded": 4780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ウイスキー 37% ペット 640ml",
+     "brand": "Cymbal ベーシック",
+     "size": "640ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_big_bottle_whisky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_pocket_whisky",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ハイボール・ウイスキー",
+    "ポケット瓶・ミニボトル"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "アウトドア",
+    "キャンプ",
+    "旅行",
+    "お試し"
+   ],
+   "tax_rate": 10,
+   "description": "持ち運びに便利なポケットサイズのウイスキー。キャンプや旅行先、お試しにちょうどいい容量で、平たいフラスコ型ボトルはバッグにもすっきり収まります。飲みきりサイズのミニボトルもご用意しました。",
+   "image_brief": "A small flat flask-shaped glass bottle of amber whisky with a blank label and silver screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ウイスキー ポケット瓶 40% 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ウイスキー ポケット瓶 40% 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ウイスキー ミニボトル 40% 50ml×3本",
+     "brand": "Cymbal",
+     "size": "50ml×3本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Moorcroft ブレンデッドスコッチ ポケット瓶 40% 200ml",
+     "brand": "Moorcroft",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "イギリス産(スコットランド)"
+    }
+   ],
+   "images": [
+    "w_alcohol_pocket_whisky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_dry_gin",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "ジン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ジントニック",
+    "マティーニ",
+    "ジンソーダ",
+    "カクテル"
+   ],
+   "tax_rate": 10,
+   "description": "ジュニパーベリーをはじめとするボタニカルを蒸溜したドライジン。シャープで爽やかな香りは、トニックウォーターで割るだけで本格的な一杯に。和柑橘や緑茶を使ったクラフトジンも揃えました。",
+   "image_brief": "A clear tall glass bottle of gin with a blank pale-blue label and silver cap, a sprig of juniper beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Kazanari Distillery ロンドンドライジン 40% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery クラフトジン 和柑橘 45% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery クラフトジン 緑茶ボタニカル 45% 700ml",
+     "brand": "Kazanari Distillery",
+     "size": "700ml",
+     "price_tax_excluded": 3680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery クラフトジン 和柑橘 45% 200ml",
+     "brand": "Kazanari Distillery",
+     "size": "200ml",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Kazanari Distillery ロンドンドライジン 40% 1000ml",
+     "brand": "Kazanari Distillery",
+     "size": "1000ml",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_dry_gin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_rum",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "ラム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "モヒート",
+    "ラムコーク",
+    "お菓子作り",
+    "ホットラム"
+   ],
+   "tax_rate": 10,
+   "description": "サトウキビから造られるラム。軽快なホワイトラムはモヒートなどカクテル向き、樽熟成のダークラムは香ばしく濃厚で、お菓子作りの香りづけにも活躍します。用途に合わせて選べるシリーズです。",
+   "image_brief": "Two glass bottles of rum, one clear and one dark brown, with blank tropical-style labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Isla Brava ホワイトラム 40% 700ml",
+     "brand": "Isla Brava",
+     "size": "700ml",
+     "price_tax_excluded": 1280,
+     "origin": "キューバ産"
+    },
+    {
+     "title": "Isla Brava ゴールドラム 40% 700ml",
+     "brand": "Isla Brava",
+     "size": "700ml",
+     "price_tax_excluded": 1480,
+     "origin": "ジャマイカ産"
+    },
+    {
+     "title": "Isla Brava ダークラム 40% 700ml",
+     "brand": "Isla Brava",
+     "size": "700ml",
+     "price_tax_excluded": 1580,
+     "origin": "ジャマイカ産"
+    },
+    {
+     "title": "Isla Brava スパイスドラム 35% 700ml",
+     "brand": "Isla Brava",
+     "size": "700ml",
+     "price_tax_excluded": 1680,
+     "origin": "プエルトリコ産"
+    },
+    {
+     "title": "Isla Brava ダークラム 製菓用 40% 200ml",
+     "brand": "Isla Brava",
+     "size": "200ml",
+     "price_tax_excluded": 598,
+     "origin": "ジャマイカ産"
+    }
+   ],
+   "images": [
+    "w_alcohol_rum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_vodka",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "ウォッカ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カクテル",
+    "モスコミュール",
+    "ソルティドッグ",
+    "ブラッディメアリー"
+   ],
+   "tax_rate": 10,
+   "description": "白樺炭でろ過した、クセのないクリアな味わいのウォッカ。ジュースや炭酸で割るとすっきり飲みやすく、さまざまなカクテルのベースとして重宝します。冷凍庫でキンキンに冷やしてストレートでも。",
+   "image_brief": "A frosted clear glass bottle of vodka with a blank white label and red cap, with frost on the glass, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Severa ウォッカ 40% 700ml",
+     "brand": "Severa",
+     "size": "700ml",
+     "price_tax_excluded": 998,
+     "origin": "ポーランド産"
+    },
+    {
+     "title": "Severa ウォッカ 40% 1000ml",
+     "brand": "Severa",
+     "size": "1000ml",
+     "price_tax_excluded": 1380,
+     "origin": "ポーランド産"
+    },
+    {
+     "title": "Severa プレミアムウォッカ 40% 700ml",
+     "brand": "Severa",
+     "size": "700ml",
+     "price_tax_excluded": 1980,
+     "origin": "ポーランド産"
+    },
+    {
+     "title": "Cymbal ベーシック ウォッカ 37% 1.8L ペット",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L ペット",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Severa ウォッカ ポケット瓶 40% 200ml",
+     "brand": "Severa",
+     "size": "200ml",
+     "price_tax_excluded": 398,
+     "origin": "ポーランド産"
+    }
+   ],
+   "images": [
+    "w_alcohol_vodka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_tequila",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "テキーラ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "マルガリータ",
+    "テキーラショット",
+    "タコス",
+    "パーティー"
+   ],
+   "tax_rate": 10,
+   "description": "メキシコ産アガベを原料にしたテキーラ。クリアなシルバーはライムと塩でショットに、樽熟成のレポサドはまろやかな甘みでロックにも向きます。メキシコ料理のパーティーを盛り上げる一本です。",
+   "image_brief": "A tall glass bottle of tequila with a blank sunset-orange label and a lime wedge beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Sol Agavero テキーラ シルバー 40% 750ml",
+     "brand": "Sol Agavero",
+     "size": "750ml",
+     "price_tax_excluded": 1780,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Sol Agavero テキーラ ゴールド 40% 750ml",
+     "brand": "Sol Agavero",
+     "size": "750ml",
+     "price_tax_excluded": 1880,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Sol Agavero テキーラ レポサド 100%アガベ 40% 750ml",
+     "brand": "Sol Agavero",
+     "size": "750ml",
+     "price_tax_excluded": 3480,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Sol Agavero テキーラ シルバー 40% 200ml",
+     "brand": "Sol Agavero",
+     "size": "200ml",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_alcohol_tequila_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_brandy",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "ブランデー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "食後酒",
+    "ケーキ作り",
+    "紅茶",
+    "フランベ"
+   ],
+   "tax_rate": 10,
+   "description": "ぶどうを蒸溜し、樽でじっくり熟成させたブランデー。芳醇な香りとまろやかな口当たりで、食後酒やナイトキャップに。紅茶やフルーツケーキの香りづけにも使えます。贈り物向けのXOもご用意しました。",
+   "image_brief": "A rounded decanter-style glass bottle of deep amber brandy with a blank gold-trimmed label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Maison Delorme フレンチブランデー VSOP 40% 700ml",
+     "brand": "Maison Delorme",
+     "size": "700ml",
+     "price_tax_excluded": 2480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Maison Delorme フレンチブランデー XO 40% 700ml",
+     "brand": "Maison Delorme",
+     "size": "700ml",
+     "price_tax_excluded": 6980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Maison Delorme フレンチブランデー VS 40% 700ml",
+     "brand": "Maison Delorme",
+     "size": "700ml",
+     "price_tax_excluded": 1580,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal ベーシック ブランデー 37% 640ml",
+     "brand": "Cymbal ベーシック",
+     "size": "640ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Maison Delorme フレンチブランデー VSOP 40% 200ml",
+     "brand": "Maison Delorme",
+     "size": "200ml",
+     "price_tax_excluded": 880,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_alcohol_brandy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_cocktail_liqueur",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "洋酒・スピリッツ",
+    "カクテルリキュール"
+   ],
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カシスオレンジ",
+    "カフェオレ割り",
+    "ピーチウーロン",
+    "お菓子作り"
+   ],
+   "tax_rate": 10,
+   "description": "おうちカクテルの必需品、定番リキュールシリーズ。カシス、ピーチ、コーヒー、ライチなど、ジュースや牛乳で割るだけで手軽にカクテルが作れます。製菓の香りづけにも便利です。",
+   "image_brief": "Four glass liqueur bottles in deep purple, peach, dark brown and pale pink with blank labels lined up, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カシスリキュール 20% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーチリキュール 20% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒーリキュール 20% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ライチリキュール 20% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーキュラソー 24% 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カシスリキュール 20% 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_cocktail_liqueur_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_daiginjo",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "大吟醸・純米大吟醸"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "刺身",
+    "白身魚のカルパッチョ",
+    "お祝い",
+    "お歳暮"
+   ],
+   "tax_rate": 10,
+   "description": "精米歩合40%まで磨いた酒米を低温でじっくり発酵させた大吟醸。りんごやメロンを思わせる華やかな吟醸香と、透明感のある上品な甘みが広がります。冷やしてワイングラスで楽しむのもおすすめです。",
+   "image_brief": "A slim frosted dark-blue glass sake bottle with a blank white washi-paper label and silver cap in a simple paper box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 純米大吟醸 山田錦 精米歩合40% 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 2980,
+     "origin": "兵庫県産山田錦使用"
+    },
+    {
+     "title": "月環酒造 純米大吟醸 山田錦 精米歩合40% 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 5480,
+     "origin": "兵庫県産山田錦使用"
+    },
+    {
+     "title": "月環酒造 大吟醸 雪の華 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1980,
+     "origin": "新潟県産五百万石使用"
+    },
+    {
+     "title": "月環酒造 大吟醸 雪の華 300ml",
+     "brand": "月環酒造",
+     "size": "300ml",
+     "price_tax_excluded": 898,
+     "origin": "新潟県産五百万石使用"
+    },
+    {
+     "title": "月環酒造 純米大吟醸 斗瓶取り 化粧箱入り 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 4980,
+     "origin": "兵庫県産山田錦使用"
+    },
+    {
+     "title": "Cymbal セレクト 純米大吟醸 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1680,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_daiginjo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_ginjo_honjozo_bottle",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "吟醸・本醸造（瓶）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "煮物",
+    "おでん",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "すっきりした飲み口の吟醸酒と、キレのある辛口本醸造の一升瓶・四合瓶シリーズ。冷やでも燗でもおいしく、毎日の食卓に寄り添う定番の地酒です。家族の集まりにも頼れる一本です。",
+   "image_brief": "A large green glass 1.8L sake bottle with a blank cream washi label and a smaller 720ml bottle beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 吟醸 辛口 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 吟醸 辛口 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2180,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 本醸造 超辛口 +10 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 980,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 本醸造 超辛口 +10 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 1880,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 特別本醸造 淡麗 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2080,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_ginjo_honjozo_bottle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_kanzake_sake_pack",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "燗酒向け・大容量パック"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "熱燗",
+    "おでん",
+    "湯豆腐",
+    "鍋"
+   ],
+   "tax_rate": 10,
+   "description": "燗にするとふくらみが増すよう設計した、熱燗向けの清酒。まろやかな旨みとほどよい辛さで、おでんや鍋料理と好相性です。たっぷり使える2L・3Lパックは、寒い季節の晩酌や料理用にも重宝します。",
+   "image_brief": "A large white carton sake pack with a blank label and plastic screw spout, next to a small ceramic tokkuri flask and ochoko cup.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 燗酒 まろやか旨口 2L パック",
+     "brand": "Cymbal",
+     "size": "2L パック",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 燗酒 まろやか旨口 3L パック",
+     "brand": "Cymbal",
+     "size": "3L パック",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 清酒 辛口 2L パック",
+     "brand": "Cymbal ベーシック",
+     "size": "2L パック",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 清酒 辛口 3L パック",
+     "brand": "Cymbal ベーシック",
+     "size": "3L パック",
+     "price_tax_excluded": 1298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 燗酒 まろやか旨口 レンジ燗カップ 180ml×6本",
+     "brand": "Cymbal",
+     "size": "180ml×6本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_kanzake_sake_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_nigori_sake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "にごり酒"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "鍋",
+    "辛い料理",
+    "デザート",
+    "冬の晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "粗めの布で搾り、もろみの旨みをそのまま残したにごり酒。とろりとした口当たりに、お米の甘みとほのかな酸味が広がります。よく振ってから、冷やしてもぬる燗でもお楽しみください。",
+   "image_brief": "A clear glass sake bottle filled with milky-white cloudy sake, blank white paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 純米にごり酒 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 純米にごり酒 300ml",
+     "brand": "月環酒造",
+     "size": "300ml",
+     "price_tax_excluded": 548,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 活性にごり 発泡 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal にごり酒 甘口 900ml パック",
+     "brand": "Cymbal",
+     "size": "900ml パック",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "月環酒造 純米にごり酒 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2380,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_nigori_sake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_shiboritate_shinshu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "新酒・しぼりたて生酒"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "刺身",
+    "寒ぶり",
+    "年末年始",
+    "かに鍋"
+   ],
+   "tax_rate": 10,
+   "description": "その年の新米で仕込んだ、搾りたての新酒。火入れをしない生酒ならではのフレッシュな香りとピチピチとした若々しい味わいは、この季節だけのお楽しみ。要冷蔵でお届けします。",
+   "image_brief": "A clear glass sake bottle with a blank green-and-white label and a small decorative cedar sprig tied at the neck, beads of condensation.",
+   "labels": [
+    "要冷蔵"
+   ],
+   "variants": [
+    {
+     "title": "月環酒造 【新酒】しぼりたて 純米生原酒 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1580,
+     "origin": "国産新米使用"
+    },
+    {
+     "title": "月環酒造 【新酒】しぼりたて 純米生原酒 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2980,
+     "origin": "国産新米使用"
+    },
+    {
+     "title": "月環酒造 【新酒】しぼりたて 本醸造生酒 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "国産新米使用"
+    },
+    {
+     "title": "月環酒造 【新酒】しぼりたて 純米吟醸 生 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1780,
+     "origin": "国産新米使用"
+    },
+    {
+     "title": "月環酒造 【新酒】しぼりたて 生酒 300ml",
+     "brand": "月環酒造",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "国産新米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_shiboritate_shinshu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_namachozo_sake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "生貯蔵酒・生酒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷奴",
+    "枝豆",
+    "夏の晩酌",
+    "天ぷら"
+   ],
+   "tax_rate": 10,
+   "description": "低温で貯蔵し、出荷前に一度だけ火入れした生貯蔵酒。すっきり軽快で、冷やして飲むとみずみずしい香りが楽しめます。小瓶から一升瓶まで、飲むシーンに合わせて選べます。",
+   "image_brief": "A frosted pale-green glass sake bottle with a blank sky-blue label and silver cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生貯蔵酒 爽やか 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生貯蔵酒 爽やか 720ml",
+     "brand": "Cymbal",
+     "size": "720ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生貯蔵酒 爽やか 1800ml",
+     "brand": "Cymbal",
+     "size": "1800ml",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生貯蔵酒 爽やか 300ml×3本",
+     "brand": "Cymbal",
+     "size": "300ml×3本",
+     "price_tax_excluded": 1148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_namachozo_sake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_yamahai_kimoto",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "山廃・生酛・原酒"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "燗酒",
+    "ぶり大根",
+    "チーズ",
+    "肉じゃが"
+   ],
+   "tax_rate": 10,
+   "description": "伝統的な生酛・山廃仕込みで、自然の乳酸菌の力を生かして醸した純米酒。しっかりした酸と深いコクがあり、燗にすると旨みがふくらみます。こってりした煮物やチーズとも相性抜群です。",
+   "image_brief": "A dark brown glass sake bottle with a blank rustic handmade-paper label tied with twine, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 山廃仕込 純米 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1380,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 山廃仕込 純米 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2580,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 生酛造り 特別純米 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1580,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 純米原酒 19度 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 熟成古酒 3年 500ml",
+     "brand": "月環酒造",
+     "size": "500ml",
+     "price_tax_excluded": 1980,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_yamahai_kimoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_taruzake",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "樽酒・祝い酒"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "お祝い",
+    "鏡開き",
+    "おせち"
+   ],
+   "tax_rate": 10,
+   "description": "吉野杉の樽で香りづけした樽酒。杉のすがすがしい香りと、すっきりした辛口の味わいが特長です。お正月や祝い事にぴったりの縁起の良いお酒で、金箔入りの祝い酒もご用意しました。",
+   "image_brief": "A small wooden cedar sake barrel wrapped in a blank woven straw komodaru covering, beside a green glass bottle with blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 吉野杉 樽酒 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 吉野杉 樽酒 1800ml",
+     "brand": "月環酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2780,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 ミニ菰樽 樽酒 300ml",
+     "brand": "月環酒造",
+     "size": "300ml",
+     "price_tax_excluded": 1280,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 金箔入り 祝い酒 純米 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1680,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 菰樽 樽酒 鏡開き用 1.8L(一升樽)",
+     "brand": "月環酒造",
+     "size": "1.8L(一升樽)",
+     "price_tax_excluded": 6980,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_taruzake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_sake_tasting_set",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "日本酒",
+    "日本酒ギフト・飲み比べ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "父の日",
+    "手土産",
+    "晩酌"
+   ],
+   "tax_rate": 10,
+   "description": "全国各地の蔵の味わいを少しずつ楽しめる、日本酒の飲み比べセット。大吟醸から辛口純米、にごりまで個性豊かな味わいが揃い、化粧箱入りで贈り物にも最適です。",
+   "image_brief": "A rectangular gift box with blank washi-paper lid opened to show five small 300ml glass sake bottles with blank labels in a row.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 日本酒 飲み比べセット 300ml×3本",
+     "brand": "月環酒造",
+     "size": "300ml×3本",
+     "price_tax_excluded": 2480,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 日本酒 飲み比べセット 300ml×5本",
+     "brand": "月環酒造",
+     "size": "300ml×5本",
+     "price_tax_excluded": 3980,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "月環酒造 純米大吟醸 2本ギフト 720ml×2本",
+     "brand": "月環酒造",
+     "size": "720ml×2本",
+     "price_tax_excluded": 5980,
+     "origin": "兵庫県産山田錦使用"
+    },
+    {
+     "title": "Cymbal セレクト 全国地酒 飲み比べ 180ml×6本",
+     "brand": "Cymbal セレクト",
+     "size": "180ml×6本",
+     "price_tax_excluded": 2980,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_sake_tasting_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_soba_kuri_goma_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "そば・栗・ごま焼酎"
+   ],
+   "allergens": [
+    "そば",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そば湯割り",
+    "天ぷら",
+    "焼き鳥",
+    "お湯割り"
+   ],
+   "tax_rate": 10,
+   "description": "そばや栗、ごまなど個性豊かな原料で造った本格焼酎シリーズ。そば焼酎は香ばしくすっきり、栗焼酎はほっくりした甘い香り、ごま焼酎は芳ばしいコクが楽しめます。お湯割りでどうぞ。",
+   "image_brief": "Three glass shochu bottles in clear, amber and dark brown with blank paper labels lined up, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "風鳴蒸留所 本格そば焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 本格そば焼酎 25度 1800ml",
+     "brand": "風鳴蒸留所",
+     "size": "1800ml",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 本格栗焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 本格ごま焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 本格そば焼酎 25度 900ml パック",
+     "brand": "風鳴蒸留所",
+     "size": "900ml パック",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_soba_kuri_goma_shochu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_awamori",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "泡盛"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ゴーヤチャンプルー",
+    "ラフテー",
+    "島らっきょう",
+    "水割り"
+   ],
+   "tax_rate": 10,
+   "description": "タイ米と黒麹で仕込む沖縄の蒸留酒、泡盛。独特のコクと香りがあり、水割りやロックでゆっくり味わいたい一杯です。長期熟成させた古酒(クース)は、まろやかで甘い香りが格別です。",
+   "image_brief": "A traditional brown ceramic bottle and a clear glass bottle of awamori with blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ニライ酒造 琉球泡盛 30度 720ml",
+     "brand": "ニライ酒造",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "ニライ酒造 琉球泡盛 30度 1800ml",
+     "brand": "ニライ酒造",
+     "size": "1800ml",
+     "price_tax_excluded": 2180,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "ニライ酒造 琉球泡盛 古酒 3年 43度 720ml",
+     "brand": "ニライ酒造",
+     "size": "720ml",
+     "price_tax_excluded": 2480,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "ニライ酒造 琉球泡盛 25度 1800ml パック",
+     "brand": "ニライ酒造",
+     "size": "1800ml パック",
+     "price_tax_excluded": 1680,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "ニライ酒造 琉球泡盛 古酒 陶器ボトル 500ml",
+     "brand": "ニライ酒造",
+     "size": "500ml",
+     "price_tax_excluded": 3280,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_alcohol_awamori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_shin_imo_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "新焼酎・限定焼酎"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "お湯割り",
+    "さつま揚げ",
+    "黒豚しゃぶしゃぶ",
+    "鍋"
+   ],
+   "tax_rate": 10,
+   "description": "その年に収穫したさつまいもで仕込み、早出ししたこの季節限定の新焼酎。荒々しくもフレッシュな芋の香りと甘みが楽しめます。紫芋仕込みは華やかで、ワインのような香りが特長です。",
+   "image_brief": "A dark green glass shochu bottle with a blank purple-accented label and a fresh sweet potato placed beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "風鳴蒸留所 【限定】新焼酎 芋 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1380,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "風鳴蒸留所 【限定】新焼酎 芋 25度 1800ml",
+     "brand": "風鳴蒸留所",
+     "size": "1800ml",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "風鳴蒸留所 紫芋仕込み 本格芋焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1480,
+     "origin": "宮崎県産紫芋使用"
+    },
+    {
+     "title": "風鳴蒸留所 黒麹仕込み 本格芋焼酎 25度 1800ml",
+     "brand": "風鳴蒸留所",
+     "size": "1800ml",
+     "price_tax_excluded": 2180,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "風鳴蒸留所 かめ壺仕込み 本格芋焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1680,
+     "origin": "鹿児島県産さつまいも使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_shin_imo_shochu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_aged_mugi_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "長期熟成焼酎"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ロック",
+    "ステーキ",
+    "チーズ",
+    "食後酒"
+   ],
+   "tax_rate": 10,
+   "description": "樫樽で長期貯蔵し、琥珀色に色づいた麦焼酎。バニラのような甘い香りとまろやかなコクで、ウイスキー感覚でロックやソーダ割りが楽しめます。贈答用の化粧箱入りもございます。",
+   "image_brief": "A tall clear glass bottle of amber-colored aged barley shochu with a blank black label and wooden stopper, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "風鳴蒸留所 樫樽貯蔵 麦焼酎 25度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 樫樽貯蔵 麦焼酎 25度 1800ml",
+     "brand": "風鳴蒸留所",
+     "size": "1800ml",
+     "price_tax_excluded": 2880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 長期熟成 麦焼酎 5年 40度 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "風鳴蒸留所 長期熟成 麦焼酎 5年 化粧箱入り 720ml",
+     "brand": "風鳴蒸留所",
+     "size": "720ml",
+     "price_tax_excluded": 3780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_aged_mugi_shochu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_big_pet_shochu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "焼酎",
+    "大容量焼酎（ペット）"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チューハイ",
+    "梅干し割り",
+    "お茶割り",
+    "宴会"
+   ],
+   "tax_rate": 10,
+   "description": "割って楽しむ方にうれしい大容量ペットボトルの焼酎。クセのない甲類と、香りのある乙類をブレンドした混和焼酎で、お茶割りやサワーのベースにぴったりです。持ちやすい取っ手付き。",
+   "image_brief": "A large clear PET jug of colorless shochu with an integrated handle and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 焼酎 甲乙混和 25度 ペット 2.7L",
+     "brand": "Cymbal ベーシック",
+     "size": "2.7L",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼酎 甲乙混和 25度 ペット 4L",
+     "brand": "Cymbal ベーシック",
+     "size": "4L",
+     "price_tax_excluded": 2680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼酎 甲類 20度 ペット 2.7L",
+     "brand": "Cymbal ベーシック",
+     "size": "2.7L",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼酎 甲類 20度 ペット 4L",
+     "brand": "Cymbal ベーシック",
+     "size": "4L",
+     "price_tax_excluded": 2280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼酎 甲類 35度 果実酒用 ペット 1.8L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_big_pet_shochu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_premium_umeshu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "梅酒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食前酒",
+    "ロック",
+    "ソーダ割り",
+    "お湯割り"
+   ],
+   "tax_rate": 10,
+   "description": "梅酒のベースにブランデーや日本酒、黒糖を使った、こだわりの梅酒シリーズ。ブランデー仕込みは芳醇でまろやか、日本酒仕込みはすっきり上品な甘さ。梅の実入りのにごり梅酒も揃えました。",
+   "image_brief": "A squat glass bottle of amber plum wine with a few whole green-gold ume plums visible inside, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ブランデー仕込み 梅酒 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 日本酒仕込み 梅酒 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 黒糖梅酒 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1180,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal セレクト にごり梅酒 果肉入り 720ml",
+     "brand": "Cymbal セレクト",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal 梅の実入り 梅酒 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 1080,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal ベーシック 梅酒 2L パック",
+     "brand": "Cymbal ベーシック",
+     "size": "2L パック",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_premium_umeshu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_umeshu_soda_can",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "梅酒ソーダ・梅酒ロック缶"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "冷しゃぶ",
+    "天ぷら",
+    "BBQ"
+   ],
+   "tax_rate": 10,
+   "description": "本格梅酒をそのまま缶に詰めた梅酒ロックと、炭酸で軽やかに割った梅酒ソーダ。開けてすぐに梅の甘酸っぱい香りが楽しめ、冷やしてそのままでも、氷を入れたグラスでもおいしくいただけます。",
+   "image_brief": "A slim gold and green aluminum can with blank plum-blossom pattern label, beside a glass of amber drink with ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 梅酒ソーダ 5% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 138,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal 梅酒ロック 10% 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 158,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal 梅酒ロック 10% 200ml×6缶",
+     "brand": "Cymbal",
+     "size": "200ml×6缶",
+     "price_tax_excluded": 898,
+     "origin": "国産梅使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_umeshu_soda_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_domestic_fruit_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "国産果実のお酒"
+   ],
+   "allergens": [
+    "もも",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食前酒",
+    "ヨーグルト",
+    "デザート",
+    "ソーダ割り"
+   ],
+   "tax_rate": 10,
+   "description": "国産の果実をたっぷり使ったリキュールシリーズ。完熟もものとろりとした甘さ、すだちのキリッとした酸味、和なしのみずみずしさなど、産地ならではの果実感が魅力です。ソーダ割りやロックでどうぞ。",
+   "image_brief": "Three slender glass bottles in peach pink, lime green and pale gold with blank fruit-illustrated labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 山梨県産 白桃のお酒 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 1080,
+     "origin": "山梨県産もも使用"
+    },
+    {
+     "title": "Cymbal セレクト 徳島県産 すだちのお酒 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "徳島県産すだち使用"
+    },
+    {
+     "title": "Cymbal セレクト 鳥取県産 和なしのお酒 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 1080,
+     "origin": "鳥取県産なし使用"
+    },
+    {
+     "title": "Cymbal セレクト 青森県産 りんごのお酒 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "青森県産りんご使用"
+    },
+    {
+     "title": "Cymbal セレクト 愛媛県産 みかんのお酒 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 980,
+     "origin": "愛媛県産みかん使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_domestic_fruit_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_kajitsushu_home_kit",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "梅酒・果実酒",
+    "果実酒づくり用品"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "梅酒づくり",
+    "レモン酒",
+    "果実酒",
+    "季節の手仕事"
+   ],
+   "tax_rate": 10,
+   "description": "ご家庭での果実酒づくりにぴったりのホワイトリカーと氷砂糖のセット。冬の柑橘でつくるレモン酒やゆず酒、かりん酒など、季節の手仕事を気軽に楽しめます。保存瓶付きのセットもございます。",
+   "image_brief": "A large clear glass preserving jar with a blank label, beside a carton of white liquor and a bag of rock sugar crystals, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 果実酒づくりセット ホワイトリカー35度1.8L+氷砂糖1kg 1セット",
+     "brand": "Cymbal",
+     "size": "1セット",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果実酒づくりセット 保存瓶4L付き 1セット",
+     "brand": "Cymbal",
+     "size": "1セット",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_kajitsushu_home_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_nouveau_style_new_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "新酒ワイン（ヌーヴォー）"
+   ],
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ローストチキン",
+    "パテ",
+    "チーズ",
+    "ホームパーティー"
+   ],
+   "tax_rate": 10,
+   "description": "その年に収穫したぶどうを短期間で醸した、11月だけの新酒の赤ワイン。いちごやさくらんぼを思わせるフレッシュな香りと、軽やかな飲み口が特長です。解禁日を待って、みんなで乾杯しませんか。",
+   "image_brief": "A glass bottle of vibrant purple-red young wine with a blank colorful festive label, a bunch of dark grapes beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Villa Solenne フランス産 新酒 赤 ヌーヴォー 750ml",
+     "brand": "Villa Solenne",
+     "size": "750ml",
+     "price_tax_excluded": 2480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Villa Solenne フランス産 新酒 赤 ヌーヴォー ペットボトル 750ml",
+     "brand": "Villa Solenne",
+     "size": "750ml",
+     "price_tax_excluded": 1680,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Villa Solenne フランス産 新酒 赤 ヌーヴォー ヴィラージュ 750ml",
+     "brand": "Villa Solenne",
+     "size": "750ml",
+     "price_tax_excluded": 3480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Villa Solenne フランス産 新酒 ロゼ ヌーヴォー 750ml",
+     "brand": "Villa Solenne",
+     "size": "750ml",
+     "price_tax_excluded": 2480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal 山梨県産 新酒 マスカット・ベーリーA 赤 720ml",
+     "brand": "Cymbal",
+     "size": "720ml",
+     "price_tax_excluded": 1680,
+     "origin": "山梨県産ぶどう使用"
+    },
+    {
+     "title": "Villa Solenne フランス産 新酒 赤 ヌーヴォー ハーフ 375ml",
+     "brand": "Villa Solenne",
+     "size": "375ml",
+     "price_tax_excluded": 1380,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_alcohol_nouveau_style_new_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_italian_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "イタリアワイン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "ピザ",
+    "生ハム",
+    "ラザニア"
+   ],
+   "tax_rate": 10,
+   "description": "イタリア各地の土着品種を中心にしたワインシリーズ。トスカーナのサンジョヴェーゼは酸味と果実味のバランスがよく、トマト料理と好相性。軽快な白はシーフードパスタにぴったりです。",
+   "image_brief": "A dark glass wine bottle wrapped halfway in a straw basket fiasco style with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Casa Vellini イタリア産 トスカーナ サンジョヴェーゼ 赤 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1280,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 モンテプルチアーノ 赤 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 898,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 ピノ・グリージョ 白 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1080,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 ネロ・ダーヴォラ 赤 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1180,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 アパッシメント 赤 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1680,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 ソアーヴェ 白 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1080,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_alcohol_italian_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_spain_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "スペインワイン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パエリア",
+    "アヒージョ",
+    "生ハム",
+    "タパス"
+   ],
+   "tax_rate": 10,
+   "description": "太陽の恵みをたっぷり受けたスペインのワイン。テンプラニーリョの赤は熟した果実と樽の香りがまろやかで、パエリアやタパスにぴったり。手頃な価格で毎日楽しめるのも魅力です。",
+   "image_brief": "A tall dark glass wine bottle with a blank red-and-gold mesh-wrapped body, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Bodega Alameda スペイン産 テンプラニーリョ 赤 750ml",
+     "brand": "Bodega Alameda",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 リオハ クリアンサ 赤 750ml",
+     "brand": "Bodega Alameda",
+     "size": "750ml",
+     "price_tax_excluded": 1480,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 ガルナッチャ 赤 750ml",
+     "brand": "Bodega Alameda",
+     "size": "750ml",
+     "price_tax_excluded": 898,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 ベルデホ 白 750ml",
+     "brand": "Bodega Alameda",
+     "size": "750ml",
+     "price_tax_excluded": 898,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 テンプラニーリョ 赤 マグナム 1500ml",
+     "brand": "Bodega Alameda",
+     "size": "1500ml",
+     "price_tax_excluded": 1580,
+     "origin": "スペイン産"
+    }
+   ],
+   "images": [
+    "w_alcohol_spain_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_new_world_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "ニューワールドワイン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "BBQ",
+    "ラム肉",
+    "サーモン"
+   ],
+   "tax_rate": 10,
+   "description": "オーストラリア、ニュージーランド、アルゼンチン、南アフリカなど新世界のワイン。果実味あふれるシラーズやマルベック、ハーブの香りが爽やかなソーヴィニヨン・ブランなど、個性豊かな味わいが揃います。",
+   "image_brief": "A row of four modern screw-cap wine bottles, two red and two white, with blank minimalist labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Southern Arc オーストラリア産 シラーズ 赤 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Southern Arc ニュージーランド産 ソーヴィニヨン・ブラン 白 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 1580,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Southern Arc アルゼンチン産 マルベック 赤 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 1180,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "Southern Arc 南アフリカ産 シュナン・ブラン 白 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 980,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "Southern Arc アメリカ産 カリフォルニア ジンファンデル 赤 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 1480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Southern Arc ニュージーランド産 ピノ・ノワール 赤 750ml",
+     "brand": "Southern Arc",
+     "size": "750ml",
+     "price_tax_excluded": 2280,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_alcohol_new_world_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_dry_rose_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "辛口ロゼワイン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "生ハムメロン",
+    "サーモンのマリネ",
+    "エスニック料理",
+    "ピクニック"
+   ],
+   "tax_rate": 10,
+   "description": "南フランス・プロヴァンスのスタイルにならった淡いサーモンピンクの辛口ロゼ。いちごや柑橘のチャーミングな香りと、すっきりドライな後味で、和洋中どんな料理にも合わせやすい万能ワインです。",
+   "image_brief": "A clear glass wine bottle of pale salmon-pink rosé with a blank elegant label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Villa Solenne フランス産 プロヴァンス 辛口ロゼ 750ml",
+     "brand": "Villa Solenne",
+     "size": "750ml",
+     "price_tax_excluded": 1480,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Villa Solenne フランス産 辛口ロゼ ハーフ 375ml",
+     "brand": "Villa Solenne",
+     "size": "375ml",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 辛口ロゼ 750ml",
+     "brand": "Bodega Alameda",
+     "size": "750ml",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal 山梨県産 辛口ロゼ 720ml",
+     "brand": "Cymbal",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "山梨県産ぶどう使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_dry_rose_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_champagne_prosecco",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "シャンパン・プロセッコ"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "お祝い",
+    "年末年始",
+    "前菜"
+   ],
+   "tax_rate": 10,
+   "description": "特別な日の乾杯に、瓶内二次発酵の本格スパークリングワイン。シャンパーニュ地方産のきめ細かな泡と複雑な香り、イタリア産プロセッコのフルーティーで軽やかな味わいを、シーンに合わせてどうぞ。",
+   "image_brief": "A dark green champagne-style bottle with gold foil wrapped neck and a blank cream label, two coupe glasses beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Maison Delorme フランス産 シャンパーニュ ブリュット 750ml",
+     "brand": "Maison Delorme",
+     "size": "750ml",
+     "price_tax_excluded": 4980,
+     "origin": "フランス産(シャンパーニュ地方)"
+    },
+    {
+     "title": "Maison Delorme フランス産 シャンパーニュ ロゼ 750ml",
+     "brand": "Maison Delorme",
+     "size": "750ml",
+     "price_tax_excluded": 6480,
+     "origin": "フランス産(シャンパーニュ地方)"
+    },
+    {
+     "title": "Maison Delorme フランス産 クレマン ブリュット 750ml",
+     "brand": "Maison Delorme",
+     "size": "750ml",
+     "price_tax_excluded": 1980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 プロセッコ エクストラドライ 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1480,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Casa Vellini イタリア産 モスカート 甘口スパークリング 750ml",
+     "brand": "Casa Vellini",
+     "size": "750ml",
+     "price_tax_excluded": 1280,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Maison Delorme フランス産 シャンパーニュ ブリュット ハーフ 375ml",
+     "brand": "Maison Delorme",
+     "size": "375ml",
+     "price_tax_excluded": 2780,
+     "origin": "フランス産(シャンパーニュ地方)"
+    }
+   ],
+   "images": [
+    "w_alcohol_champagne_prosecco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_mulled_wine_sangria",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "ホットワイン・サングリア"
+   ],
+   "allergens": [
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "クリスマス",
+    "チーズフォンデュ",
+    "ホームパーティー",
+    "温まりたい夜"
+   ],
+   "tax_rate": 10,
+   "description": "シナモンやクローブなどのスパイスとオレンジピールを効かせたホットワイン用のワイン。鍋や電子レンジで温めるだけで、体の芯から温まる一杯に。果実たっぷりのサングリアもご用意しました。",
+   "image_brief": "A glass bottle of deep red spiced wine with a blank label, a mug of steaming wine with cinnamon stick and orange slice beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スパイス香る ホットワイン用 赤 720ml",
+     "brand": "Cymbal",
+     "size": "720ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイス香る ホットワイン用 白 720ml",
+     "brand": "Cymbal",
+     "size": "720ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 サングリア 赤 1000ml",
+     "brand": "Bodega Alameda",
+     "size": "1000ml",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Bodega Alameda スペイン産 サングリア 白 1000ml",
+     "brand": "Bodega Alameda",
+     "size": "1000ml",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "Cymbal スパイス香る ホットワイン用 赤 1.8L パック",
+     "brand": "Cymbal",
+     "size": "1.8L パック",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_mulled_wine_sangria_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_can_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "缶ワイン・小容量ワイン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ピクニック",
+    "キャンプ",
+    "一人飲み",
+    "お花見"
+   ],
+   "tax_rate": 10,
+   "description": "グラス約2杯分の飲みきりサイズの缶ワインとミニボトル。開けたらその日のうちに飲みきれるので、ひとり飲みやアウトドアに便利です。スパークリングタイプは冷やしてそのままどうぞ。",
+   "image_brief": "Small slim aluminum wine cans in burgundy, pale gold and pink with blank labels, beside a 187ml mini wine bottle.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 缶ワイン 赤 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 缶ワイン 白 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 缶ワイン スパークリング ロゼ 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 缶ワイン 3種アソート 250ml×6缶",
+     "brand": "Cymbal",
+     "size": "250ml×6缶",
+     "price_tax_excluded": 1440,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Southern Arc オーストラリア産 ミニボトル 赤 187ml",
+     "brand": "Southern Arc",
+     "size": "187ml",
+     "price_tax_excluded": 298,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Southern Arc オーストラリア産 ミニボトル 白 187ml",
+     "brand": "Southern Arc",
+     "size": "187ml",
+     "price_tax_excluded": 298,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_alcohol_can_wine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_wine_gift_set",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "ワインギフト"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "クリスマスギフト",
+    "手土産",
+    "ホームパーティー"
+   ],
+   "tax_rate": 10,
+   "description": "ソムリエが選んだ赤・白ワインを詰め合わせたギフトセット。産地や品種の異なるワインを飲み比べられる構成で、化粧箱入り・のし対応。年末のごあいさつやクリスマスの贈り物におすすめです。",
+   "image_brief": "An elegant black gift box with a blank lid, opened to show two wine bottles, one red and one white, nestled in tissue, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト フランス産 赤白2本 ワインギフト 750ml×2本",
+     "brand": "Cymbal セレクト",
+     "size": "750ml×2本",
+     "price_tax_excluded": 3980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 世界のワイン 飲み比べ 赤白3本ギフト 750ml×3本",
+     "brand": "Cymbal セレクト",
+     "size": "750ml×3本",
+     "price_tax_excluded": 4980,
+     "origin": "フランス・イタリア・チリ産"
+    },
+    {
+     "title": "Cymbal セレクト スパークリング&赤 2本ギフト 750ml×2本",
+     "brand": "Cymbal セレクト",
+     "size": "750ml×2本",
+     "price_tax_excluded": 3480,
+     "origin": "スペイン・フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 日本ワイン 赤白2本ギフト 720ml×2本",
+     "brand": "Cymbal セレクト",
+     "size": "720ml×2本",
+     "price_tax_excluded": 4480,
+     "origin": "国産ぶどう使用"
+    }
+   ],
+   "images": [
+    "w_alcohol_wine_gift_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_chinese_fruit_liqueur",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "中国酒・アジアのお酒",
+    "杏酒・ライチ酒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "中華料理",
+    "食後酒",
+    "ソーダ割り",
+    "杏仁豆腐"
+   ],
+   "tax_rate": 10,
+   "description": "中国の伝統的な果実酒にならった、あんずやライチのリキュール。あんずはとろりと甘酸っぱく、ライチは華やかでトロピカルな香り。ロックやソーダ割りで、中華料理の食後にぴったりです。",
+   "image_brief": "A round glass bottle of golden apricot liqueur with a blank red-and-gold Chinese-style label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "龍華酒坊 中国産 杏酒 14% 500ml",
+     "brand": "龍華酒坊",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "中国産"
+    },
+    {
+     "title": "龍華酒坊 中国産 杏酒 14% 1000ml",
+     "brand": "龍華酒坊",
+     "size": "1000ml",
+     "price_tax_excluded": 1580,
+     "origin": "中国産"
+    },
+    {
+     "title": "龍華酒坊 中国産 ライチ酒 14% 500ml",
+     "brand": "龍華酒坊",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "中国産"
+    },
+    {
+     "title": "龍華酒坊 中国産 桂花陳酒 15% 500ml",
+     "brand": "龍華酒坊",
+     "size": "500ml",
+     "price_tax_excluded": 998,
+     "origin": "中国産"
+    },
+    {
+     "title": "龍華酒坊 中国産 ライチ酒 14% 1000ml",
+     "brand": "龍華酒坊",
+     "size": "1000ml",
+     "price_tax_excluded": 1580,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_alcohol_chinese_fruit_liqueur_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_soju_baijiu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "中国酒・アジアのお酒",
+    "韓国焼酎・白酒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サムギョプサル",
+    "チヂミ",
+    "キムチ鍋",
+    "中華料理"
+   ],
+   "tax_rate": 10,
+   "description": "韓国で親しまれるすっきり軽やかなソジュ(韓国焼酎)と、香り高い中国の白酒(パイチュウ)。ソジュはフルーツフレーバーも揃い、焼肉やキムチ鍋と一緒に。白酒は少量をストレートで味わう本格派です。",
+   "image_brief": "A row of small green glass soju bottles with blank labels, and a white porcelain baijiu bottle with a red cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハヌル酒造 韓国産 ソジュ 16.9% 360ml",
+     "brand": "ハヌル酒造",
+     "size": "360ml",
+     "price_tax_excluded": 298,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 ソジュ グレープフルーツ 13% 360ml",
+     "brand": "ハヌル酒造",
+     "size": "360ml",
+     "price_tax_excluded": 298,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 ソジュ マスカット 13% 360ml",
+     "brand": "ハヌル酒造",
+     "size": "360ml",
+     "price_tax_excluded": 298,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 ソジュ 16.9% 360ml×6本",
+     "brand": "ハヌル酒造",
+     "size": "360ml×6本",
+     "price_tax_excluded": 1680,
+     "origin": "韓国産"
+    },
+    {
+     "title": "龍華酒坊 中国産 白酒 52% 500ml",
+     "brand": "龍華酒坊",
+     "size": "500ml",
+     "price_tax_excluded": 2480,
+     "origin": "中国産"
+    }
+   ],
+   "images": [
+    "w_alcohol_soju_baijiu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_flavored_makgeolli",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "中国酒・アジアのお酒",
+    "フレーバーマッコリ"
+   ],
+   "allergens": [
+    "もも",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チヂミ",
+    "キムチ",
+    "トッポギ",
+    "デザート"
+   ],
+   "tax_rate": 10,
+   "description": "伝統的なマッコリに果実のフレーバーを加えた、甘酸っぱくて飲みやすいシリーズ。ももやバナナ、ゆずなど、微発泡のやさしい口当たりで、お酒が苦手な方にも人気です。よく冷やしてどうぞ。",
+   "image_brief": "Small plastic bottles of milky makgeolli in pastel pink, yellow and pale green with blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ハヌル酒造 韓国産 マッコリ もも 4% 750ml",
+     "brand": "ハヌル酒造",
+     "size": "750ml",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 マッコリ バナナ 4% 750ml",
+     "brand": "ハヌル酒造",
+     "size": "750ml",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 マッコリ ゆず 4% 750ml",
+     "brand": "ハヌル酒造",
+     "size": "750ml",
+     "price_tax_excluded": 498,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 マッコリ缶 ピーチ 4% 350ml",
+     "brand": "ハヌル酒造",
+     "size": "350ml",
+     "price_tax_excluded": 248,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ハヌル酒造 韓国産 マッコリ缶 3種アソート 350ml×6缶",
+     "brand": "ハヌル酒造",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 1398,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_alcohol_flavored_makgeolli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_nonalc_craft_beer",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコールクラフトビール"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "運転前",
+    "ハンバーガー",
+    "平日の夜"
+   ],
+   "tax_rate": 8,
+   "description": "アルコール0.00%ながら、ホップの華やかな香りとしっかりした苦みを楽しめるクラフトスタイルのノンアルコールビールテイスト。IPAタイプや黒ビールタイプなど、休肝日にも満足感のある一本です。",
+   "image_brief": "Three slim aluminum cans in teal, black and amber with blank craft-style labels beside a glass of golden foamy drink, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Harbor Mist Brewing ノンアルコール IPAテイスト 0.00% 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ノンアルコール 黒ビールテイスト 0.00% 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ノンアルコール 白ビールテイスト 0.00% 350ml",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ノンアルコール IPAテイスト 0.00% 350ml×6缶",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 968,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Harbor Mist Brewing ノンアルコール クラフト 3種アソート 350ml×6缶",
+     "brand": "Harbor Mist Brewing",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 968,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_nonalc_craft_beer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_nonalc_highball_umeshu",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコールハイボール・梅酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "晩酌気分",
+    "唐揚げ",
+    "運転前",
+    "休肝日"
+   ],
+   "tax_rate": 8,
+   "description": "ハイボールや梅酒の味わいをアルコール0.00%で再現したノンアルコール飲料。樽の香ばしい香りと強炭酸のハイボールテイスト、梅の甘酸っぱさが広がる梅酒テイストで、飲めない日も晩酌気分に。",
+   "image_brief": "An amber-and-black aluminum can and a gold-and-green can with blank labels beside a highball glass with ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ノンアルコール ハイボールテイスト 0.00% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンアルコール 梅酒テイスト 0.00% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 678,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal ノンアルコール ジントニックテイスト 0.00% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_nonalc_highball_umeshu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_alcohol_nonalc_sake_taste",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ノンアルコール",
+    "ノンアルコール日本酒・焼酎テイスト"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "和食",
+    "刺身",
+    "お正月",
+    "休肝日"
+   ],
+   "tax_rate": 8,
+   "description": "日本酒の吟醸香や、焼酎のすっきりした風味をアルコール0.00%で楽しめるノンアルコール飲料。冷やして和食と合わせれば、お酒を控えている日でも食卓の雰囲気はそのままに楽しめます。",
+   "image_brief": "A slim clear glass bottle with a blank white washi-style label and a small ceramic sake cup beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "月環酒造 ノンアルコール 日本酒テイスト 0.00% 720ml",
+     "brand": "月環酒造",
+     "size": "720ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "月環酒造 ノンアルコール 日本酒テイスト 0.00% 300ml",
+     "brand": "月環酒造",
+     "size": "300ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンアルコール 焼酎テイスト ソーダ割り 0.00% 350ml",
+     "brand": "Cymbal",
+     "size": "350ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンアルコール 焼酎テイスト ソーダ割り 0.00% 350ml×6缶",
+     "brand": "Cymbal",
+     "size": "350ml×6缶",
+     "price_tax_excluded": 678,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_alcohol_nonalc_sake_taste_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

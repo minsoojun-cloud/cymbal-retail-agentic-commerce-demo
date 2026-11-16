@@ -1,0 +1,1641 @@
+{
+ "category_key": "z_pet",
+ "items": [
+  {
+   "base_id": "z_pet_adult_dog_food_chicken",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "チャック付き"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "成犬の体重管理",
+    "まとめ買い"
+   ],
+   "description": "チキンを主原料に、玄米と野菜をバランスよく配合した成犬用の総合栄養食です。香ばしい小粒タイプで食べやすく、毎日の健康維持をサポートします。保存に便利なチャック付き袋入り。",
+   "image_brief": "A pile of small round brown dry dog kibble next to a plain resealable matte bag, studio packshot on white background.",
+   "attributes": {
+    "material": "チキン、玄米、大麦、乾燥野菜",
+    "capacity": "1kg〜6kg"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード チキン&玄米 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード チキン&玄米 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード チキン&玄米 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 3180,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード チキン&玄米 6kg",
+     "brand": "Cymbal Pet",
+     "size": "6kg",
+     "price_tax_excluded": 5980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_adult_dog_food_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_small_dog_food",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "小粒"
+   ],
+   "season_months": [],
+   "dishes": [
+    "小型犬の毎日のごはん",
+    "食が細い子に",
+    "室内飼いの健康管理"
+   ],
+   "description": "小型犬の小さなお口に合わせた超小粒サイズ。チキンとサーモンを主原料に、皮膚・被毛の健康に配慮したオメガ脂肪酸を配合しました。食いつきにこだわった香ばしい風味です。",
+   "image_brief": "Tiny bite-sized light brown dry dog kibble scattered in a small white bowl, studio packshot on white background.",
+   "attributes": {
+    "material": "チキン、サーモン、米、ビートパルプ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 小型犬用ドッグフード 超小粒 チキン&サーモン 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 小型犬用ドッグフード 超小粒 チキン&サーモン 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 小型犬用ドッグフード 超小粒 チキン&サーモン 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 3480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 小型犬用ドッグフード 超小粒 チキン&サーモン 6kg",
+     "brand": "Cymbal Pet",
+     "size": "6kg",
+     "price_tax_excluded": 6280,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_small_dog_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_senior_dog_food",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "7歳以上"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シニア犬の毎日のごはん",
+    "関節ケア",
+    "体重管理"
+   ],
+   "description": "7歳以上のシニア犬向けに、消化しやすいチキンと白身魚を主原料にしたドライフード。グルコサミン・コンドロイチンを配合し、元気な足腰をサポートします。脂質を控えめにした低カロリー設計です。",
+   "image_brief": "Soft-looking small brown dry dog kibble in a shallow ceramic dish, studio packshot on white background.",
+   "attributes": {
+    "material": "チキン、白身魚、米、大麦"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet シニア犬用ドッグフード 7歳以上 チキン&白身魚 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet シニア犬用ドッグフード 7歳以上 チキン&白身魚 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2680,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet シニア犬用ドッグフード 7歳以上 チキン&白身魚 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 3780,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_senior_dog_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_puppy_dog_food",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "子犬用"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子犬の成長期のごはん",
+    "お迎え準備",
+    "ふやかしてあげる離乳期"
+   ],
+   "description": "成長期の子犬に必要なたんぱく質とカルシウムをしっかり配合。チキンと卵黄を主原料に、DHAも加えて健やかな発育を応援します。お湯でふやかしやすい小粒タイプです。",
+   "image_brief": "Small round golden-brown puppy kibble in a little white bowl beside a measuring scoop, studio packshot on white background.",
+   "attributes": {
+    "material": "チキン、卵黄、米、魚油"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 子犬用ドッグフード パピー チキン&卵黄 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 子犬用ドッグフード パピー チキン&卵黄 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2880,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 子犬用ドッグフード パピー チキン&卵黄 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 3980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_puppy_dog_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_domestic_additive_free_dog_food",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産",
+    "無添加"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "アレルギーが気になる子に",
+    "ギフト"
+   ],
+   "description": "国産の鶏肉と鹿肉を主原料に、合成保存料・着色料・香料を使わずに仕上げた無添加ドッグフード。国内工場で少量ずつ丁寧に焼き上げ、素材本来の香りで食いつき抜群です。全年齢対応。",
+   "image_brief": "Rustic irregular baked dog kibble pieces with a sprig of dried vegetables on a wooden board, studio packshot on white background.",
+   "attributes": {
+    "material": "国産鶏肉、鹿肉、玄米、さつまいも"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 国産無添加ドッグフード チキン&鹿肉 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 2480,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 国産無添加ドッグフード チキン&鹿肉 2kg",
+     "brand": "Cymbal セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 4580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 国産無添加ドッグフード チキン&鹿肉 3kg",
+     "brand": "Cymbal セレクト",
+     "size": "3kg",
+     "price_tax_excluded": 6480,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_domestic_additive_free_dog_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_wet_food_can",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ウェットフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "まとめ買い"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ドライフードのトッピング",
+    "食欲がない日に",
+    "水分補給"
+   ],
+   "description": "やわらかく煮込んだお肉の旨みたっぷりの缶詰ドッグフード。ドライフードにトッピングすれば食いつきがアップし、水分補給にも役立ちます。使い切りやすい85g缶の12缶セットです。",
+   "image_brief": "Twelve small plain silver pull-tab cans stacked neatly with one open can showing chunky meat loaf, studio packshot on white background.",
+   "attributes": {
+    "material": "スチール缶"
+   },
+   "variants": [
+    {
+     "title": "パウリア 犬用ウェットフード缶 チキン 85g×12缶",
+     "brand": "パウリア",
+     "size": "85g×12缶",
+     "price_tax_excluded": 1680,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "チキン、野菜"
+     }
+    },
+    {
+     "title": "パウリア 犬用ウェットフード缶 ビーフ 85g×12缶",
+     "brand": "パウリア",
+     "size": "85g×12缶",
+     "price_tax_excluded": 1780,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "ビーフ、野菜"
+     }
+    },
+    {
+     "title": "パウリア 犬用ウェットフード缶 ささみ&緑黄色野菜 85g×12缶",
+     "brand": "パウリア",
+     "size": "85g×12缶",
+     "price_tax_excluded": 1680,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "鶏ささみ、にんじん、かぼちゃ"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_dog_wet_food_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_dry_food",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "チャック付き"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "成猫の健康維持",
+    "まとめ買い"
+   ],
+   "description": "まぐろ・かつおなどの魚介やチキンを主原料にした成猫用の総合栄養食です。下部尿路の健康に配慮したミネラルバランスで、毎日安心して与えられます。カリッと食感の小粒タイプ。",
+   "image_brief": "Small fish-shaped and round brown dry cat kibble in a shallow white bowl, studio packshot on white background.",
+   "attributes": {},
+   "variants": [
+    {
+     "title": "Cymbal Pet 成猫用キャットフード まぐろ味 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "日本製",
+     "attributes": {
+      "material": "まぐろ、かつお、米、チキンミール"
+     }
+    },
+    {
+     "title": "Cymbal Pet 成猫用キャットフード まぐろ味 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2080,
+     "origin": "日本製",
+     "attributes": {
+      "material": "まぐろ、かつお、米、チキンミール"
+     }
+    },
+    {
+     "title": "Cymbal Pet 成猫用キャットフード チキン味 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "日本製",
+     "attributes": {
+      "material": "チキン、米、とうもろこし"
+     }
+    },
+    {
+     "title": "Cymbal Pet 成猫用キャットフード チキン味 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 2080,
+     "origin": "日本製",
+     "attributes": {
+      "material": "チキン、米、とうもろこし"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_dry_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_indoor_cat_dry_food",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "室内猫用",
+    "グレインフリー"
+   ],
+   "season_months": [],
+   "dishes": [
+    "室内飼い猫のごはん",
+    "毛玉ケア",
+    "体重管理"
+   ],
+   "description": "室内で暮らす猫のために、サーモンとターキーを主原料にしたグレインフリーのドライフード。食物繊維で毛玉の排出をサポートし、カロリーも控えめに調整しています。小分け袋で鮮度長持ち。",
+   "image_brief": "Small triangle-shaped premium cat kibble spilling from a plain foil sachet beside a small bowl, studio packshot on white background.",
+   "attributes": {
+    "material": "サーモン、ターキー、えんどう豆、セルロース"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 室内猫用キャットフード グレインフリー サーモン 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 室内猫用キャットフード グレインフリー サーモン 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg（250g×4袋）",
+     "price_tax_excluded": 1780,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 室内猫用キャットフード グレインフリー サーモン 2kg",
+     "brand": "Cymbal セレクト",
+     "size": "2kg（250g×8袋）",
+     "price_tax_excluded": 3280,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_indoor_cat_dry_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_wet_pouch",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "パウチ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "ドライフードのトッピング",
+    "水分補給"
+   ],
+   "description": "とろみのあるスープに具材をたっぷり詰めたパウチタイプのウェットフード。まぐろやかつおを主原料に、水分もしっかり摂れるので水をあまり飲まない猫にもおすすめです。1食使い切りの40g。",
+   "image_brief": "A row of small plain matte pouches with one open pouch pouring flaked fish in jelly into a small dish, studio packshot on white background.",
+   "attributes": {
+    "capacity": "40g×12袋"
+   },
+   "variants": [
+    {
+     "title": "モフリエ 猫用パウチ まぐろ 40g×12袋",
+     "brand": "モフリエ",
+     "size": "40g×12袋",
+     "price_tax_excluded": 880,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "まぐろ、増粘多糖類"
+     }
+    },
+    {
+     "title": "モフリエ 猫用パウチ かつお 40g×12袋",
+     "brand": "モフリエ",
+     "size": "40g×12袋",
+     "price_tax_excluded": 880,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "かつお、増粘多糖類"
+     }
+    },
+    {
+     "title": "モフリエ 猫用パウチ まぐろ&ささみ 40g×12袋",
+     "brand": "モフリエ",
+     "size": "40g×12袋",
+     "price_tax_excluded": 880,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "まぐろ、鶏ささみ"
+     }
+    },
+    {
+     "title": "モフリエ 猫用パウチ まぐろ しらす入り 40g×12袋",
+     "brand": "モフリエ",
+     "size": "40g×12袋",
+     "price_tax_excluded": 980,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "まぐろ、しらす"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_wet_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_jerky",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しつけのごほうび",
+    "お散歩のあと",
+    "おるすばんのおやつ"
+   ],
+   "description": "国産鶏のささみをじっくり乾燥させた、無着色のジャーキーです。手で簡単にちぎれるので、小型犬のしつけ用ごほうびにも使いやすいサイズ。高たんぱく・低脂肪で毎日のおやつに最適です。",
+   "image_brief": "Strips of light brown dried chicken breast jerky arranged on a small wooden plate, studio packshot on white background.",
+   "attributes": {
+    "material": "国産鶏ささみ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 国産ささみジャーキー 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 国産ささみジャーキー 200g",
+     "brand": "Cymbal Pet",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal Pet 国産ささみジャーキー 400g",
+     "brand": "Cymbal Pet",
+     "size": "400g",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_dog_jerky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_dental_gum",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "デンタルケア"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の歯みがき習慣",
+    "食後のおやつ",
+    "噛む欲求の解消"
+   ],
+   "description": "ねじり形状のデンタルガムで、しっかり噛むことで歯垢を落とし口臭ケアをサポート。米粉と鶏肉を主原料にした、噛みごたえのある食感です。愛犬の体格に合わせて選べる3サイズ。",
+   "image_brief": "Several pale green twisted star-shaped dental chew sticks arranged in a fan, studio packshot on white background.",
+   "attributes": {
+    "material": "米粉、鶏肉、セルロース",
+    "color": "グリーン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 犬用デンタルガム Sサイズ 20本入",
+     "brand": "Cymbal ベーシック",
+     "size": "S（超小型〜小型犬）20本",
+     "price_tax_excluded": 680,
+     "origin": "ベトナム製"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用デンタルガム Mサイズ 15本入",
+     "brand": "Cymbal ベーシック",
+     "size": "M（小型〜中型犬）15本",
+     "price_tax_excluded": 680,
+     "origin": "ベトナム製"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用デンタルガム Lサイズ 10本入",
+     "brand": "Cymbal ベーシック",
+     "size": "L（中型〜大型犬）10本",
+     "price_tax_excluded": 680,
+     "origin": "ベトナム製"
+    }
+   ],
+   "images": [
+    "z_pet_dog_dental_gum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_lickable_treat",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "液状"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スキンシップのおやつ",
+    "投薬のサポート",
+    "水分補給"
+   ],
+   "description": "スティック袋から直接なめさせられる、なめらかなペースト状の猫用おやつ。まぐろや鶏ささみを主原料にしたやさしい味わいで、コミュニケーションや投薬時のごほうびにもぴったりです。",
+   "image_brief": "A bundle of slim plain stick pouches with one torn open squeezing out smooth creamy paste, studio packshot on white background.",
+   "attributes": {},
+   "variants": [
+    {
+     "title": "モフリエ 猫用液状おやつ まぐろ 14g×20本",
+     "brand": "モフリエ",
+     "size": "14g×20本",
+     "price_tax_excluded": 698,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "まぐろ"
+     }
+    },
+    {
+     "title": "モフリエ 猫用液状おやつ とりささみ 14g×20本",
+     "brand": "モフリエ",
+     "size": "14g×20本",
+     "price_tax_excluded": 698,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "鶏ささみ"
+     }
+    },
+    {
+     "title": "モフリエ 猫用液状おやつ かつお 14g×20本",
+     "brand": "モフリエ",
+     "size": "14g×20本",
+     "price_tax_excluded": 698,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "かつお"
+     }
+    },
+    {
+     "title": "モフリエ 猫用液状おやつ まぐろ 14g×50本 大容量",
+     "brand": "モフリエ",
+     "size": "14g×50本",
+     "price_tax_excluded": 1580,
+     "origin": "タイ製",
+     "attributes": {
+      "material": "まぐろ"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_lickable_treat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_freeze_dried_treat",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "国産",
+    "無添加"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ごほうびおやつ",
+    "フードのトッピング",
+    "ギフト"
+   ],
+   "description": "国産鶏ささみを素材そのままフリーズドライにした無添加おやつ。サクッと軽い食感で、細かくほぐしてフードにかければ食いつきアップにも役立ちます。保存しやすいチャック付き袋入り。",
+   "image_brief": "Light, airy cubes of freeze-dried white chicken breast in a small ceramic dish, studio packshot on white background.",
+   "attributes": {
+    "material": "国産鶏ささみ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 猫用フリーズドライ 国産ささみ 20g",
+     "brand": "Cymbal セレクト",
+     "size": "20g",
+     "price_tax_excluded": 580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 猫用フリーズドライ 国産ささみ 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 猫用フリーズドライ 国産ささみ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 2380,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_cat_freeze_dried_treat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_pet_sheets",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "ペットシーツ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "まとめ買い"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のトイレ",
+    "トイレトレーニング",
+    "おでかけ・旅行時"
+   ],
+   "description": "吸収ポリマーがおしっこをすばやく吸収し、逆戻りしにくいペットシーツです。裏面の防水シートで床への漏れを防ぎ、消臭効果でにおいも気になりにくい設計。トイレトレイに合わせて選べます。",
+   "image_brief": "A stack of folded white pet training pads with one unfolded pad showing a quilted absorbent surface, studio packshot on white background.",
+   "attributes": {
+    "material": "不織布、綿状パルプ、高分子吸水材",
+    "color": "ホワイト"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ペットシーツ 薄型 レギュラー 100枚",
+     "brand": "Cymbal ベーシック",
+     "size": "レギュラー 33×45cm 100枚",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ペットシーツ 薄型 ワイド 50枚",
+     "brand": "Cymbal ベーシック",
+     "size": "ワイド 45×60cm 50枚",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ペットシーツ 薄型 スーパーワイド 25枚",
+     "brand": "Cymbal ベーシック",
+     "size": "スーパーワイド 60×90cm 25枚",
+     "price_tax_excluded": 1080,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet ペットシーツ 厚型 消臭 レギュラー 80枚",
+     "brand": "Cymbal Pet",
+     "size": "レギュラー 33×45cm 80枚",
+     "price_tax_excluded": 1480,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_pet_sheets_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_litter",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "猫砂"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "固まるタイプ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の猫トイレ",
+    "多頭飼い",
+    "においが気になるお部屋に"
+   ],
+   "description": "おしっこをしっかり固めて、取り替えが簡単な猫砂です。素材ごとに消臭力や重さ、捨てやすさが異なるので、愛猫の好みやお住まいの環境に合わせて選べます。ほこりが立ちにくい粒形状。",
+   "image_brief": "Small heaps of different cat litter granules (beige pellets, grey clay, pale wood) in shallow glass dishes, studio packshot on white background.",
+   "attributes": {},
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫砂 おから 流せるタイプ 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 798,
+     "origin": "日本製",
+     "attributes": {
+      "material": "おから",
+      "color": "ベージュ"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫砂 紙 燃やせるタイプ 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 698,
+     "origin": "日本製",
+     "attributes": {
+      "material": "再生パルプ",
+      "color": "ホワイト"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫砂 ベントナイト 強力固まる 10L",
+     "brand": "Cymbal Pet",
+     "size": "10L",
+     "price_tax_excluded": 898,
+     "origin": "中国製",
+     "attributes": {
+      "material": "ベントナイト",
+      "color": "グレー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫砂 ひのき 消臭タイプ 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 980,
+     "origin": "日本製",
+     "attributes": {
+      "material": "ひのき木粉",
+      "color": "ナチュラル"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_litter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_system_toilet",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "猫用トイレ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "飛び散り防止"
+   ],
+   "season_months": [],
+   "dishes": [
+    "新しい猫のお迎え準備",
+    "毎日のトイレ掃除",
+    "におい対策"
+   ],
+   "description": "上段の専用チップと下段のシートでおしっこを分離する、2層式のシステムトイレです。シートの交換は週1回程度でお手入れ簡単。カバー付きで砂の飛び散りやにおいを抑えます。",
+   "image_brief": "A modern two-tier plastic cat litter box with a curved hood and a pull-out drawer, studio packshot on white background.",
+   "attributes": {
+    "material": "ポリプロピレン"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用システムトイレ ハーフカバー アイボリー",
+     "brand": "Cymbal Pet",
+     "size": "幅40×奥行52×高さ32cm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製",
+     "attributes": {
+      "color": "アイボリー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫用システムトイレ ハーフカバー グレー",
+     "brand": "Cymbal Pet",
+     "size": "幅40×奥行52×高さ32cm",
+     "price_tax_excluded": 3480,
+     "origin": "日本製",
+     "attributes": {
+      "color": "グレー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫用システムトイレ フルカバー アイボリー",
+     "brand": "Cymbal Pet",
+     "size": "幅42×奥行54×高さ42cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製",
+     "attributes": {
+      "color": "アイボリー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 猫用システムトイレ フルカバー グレー",
+     "brand": "Cymbal Pet",
+     "size": "幅42×奥行54×高さ42cm",
+     "price_tax_excluded": 4980,
+     "origin": "日本製",
+     "attributes": {
+      "color": "グレー"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_system_toilet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_collar",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "反射材付き"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のお散歩",
+    "夜のお散歩",
+    "迷子札の取り付け"
+   ],
+   "description": "軽くて丈夫なナイロン製の首輪。反射テープ付きで、夕方や夜のお散歩も安心です。ワンタッチバックルで着脱が簡単、サイズ調整もスムーズに行えます。迷子札用のDカン付き。",
+   "image_brief": "A colorful nylon dog collar with a plastic quick-release buckle, metal D-ring and a thin reflective stripe, coiled neatly, studio packshot on white background.",
+   "attributes": {
+    "material": "ナイロン、ポリアセタール"
+   },
+   "variants": [
+    {
+     "title": "パウリア リフレクター首輪 SS レッド",
+     "brand": "パウリア",
+     "size": "SS 首回り18〜26cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "レッド"
+     }
+    },
+    {
+     "title": "パウリア リフレクター首輪 S ネイビー",
+     "brand": "パウリア",
+     "size": "S 首回り24〜34cm",
+     "price_tax_excluded": 1180,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ネイビー"
+     }
+    },
+    {
+     "title": "パウリア リフレクター首輪 M オレンジ",
+     "brand": "パウリア",
+     "size": "M 首回り32〜44cm",
+     "price_tax_excluded": 1380,
+     "origin": "中国製",
+     "attributes": {
+      "color": "オレンジ"
+     }
+    },
+    {
+     "title": "パウリア リフレクター首輪 L ブラック",
+     "brand": "パウリア",
+     "size": "L 首回り40〜56cm",
+     "price_tax_excluded": 1580,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ブラック"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_dog_collar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_leash",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "反射材付き"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のお散歩",
+    "ドッグランへのお出かけ",
+    "しつけトレーニング"
+   ],
+   "description": "手になじむクッション入りハンドルで、引っ張りの強い子でも手が痛くなりにくいリードです。反射ステッチ入りで夜間の視認性も確保。回転式ナスカンで絡まりにくく快適にお散歩できます。",
+   "image_brief": "A navy nylon dog leash with a padded loop handle and swivel metal clip, laid in a loose loop, studio packshot on white background.",
+   "attributes": {
+    "material": "ナイロン、亜鉛合金",
+    "color": "ネイビー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet クッションハンドル リード 120cm S（小型犬）",
+     "brand": "Cymbal Pet",
+     "size": "S 幅1.5cm×120cm",
+     "price_tax_excluded": 1280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet クッションハンドル リード 120cm M（中型犬）",
+     "brand": "Cymbal Pet",
+     "size": "M 幅2.0cm×120cm",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet クッションハンドル リード 120cm L（大型犬）",
+     "brand": "Cymbal Pet",
+     "size": "L 幅2.5cm×120cm",
+     "price_tax_excluded": 1780,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "z_pet_dog_leash_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_soft_carrier_bag",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "キャリーバッグ"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "折りたたみ可"
+   ],
+   "season_months": [],
+   "dishes": [
+    "動物病院への通院",
+    "電車でのお出かけ",
+    "旅行・帰省"
+   ],
+   "description": "メッシュ窓で通気性がよく、中の様子も確認できるソフトキャリーバッグ。ショルダーベルト付きで両手が空き、使わないときは折りたたんでコンパクトに収納できます。底板は取り外して洗えます。",
+   "image_brief": "A structured fabric pet carrier bag with mesh side windows, top zipper opening and a shoulder strap, studio packshot on white background.",
+   "attributes": {
+    "material": "ポリエステル、メッシュ",
+    "color": "グレー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 折りたたみソフトキャリー S（〜4kg）",
+     "brand": "Cymbal Pet",
+     "size": "S 幅38×奥行24×高さ26cm",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet 折りたたみソフトキャリー M（〜6kg）",
+     "brand": "Cymbal Pet",
+     "size": "M 幅44×奥行28×高さ30cm",
+     "price_tax_excluded": 5980,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet 折りたたみソフトキャリー L（〜9kg）",
+     "brand": "Cymbal Pet",
+     "size": "L 幅50×奥行32×高さ34cm",
+     "price_tax_excluded": 6980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "z_pet_soft_carrier_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_round_bed",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "ペットベッド"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "洗える"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のお昼寝",
+    "リビングのくつろぎスペース",
+    "シニアペットの寝床"
+   ],
+   "description": "ふちが高めのドーナツ型で、包み込まれるような安心感のあるラウンドベッドです。ふわふわのボア生地でやさしい寝心地。洗濯機で丸洗いできるので、いつでも清潔に保てます。",
+   "image_brief": "A plush round donut-shaped pet bed with raised fluffy edges in soft beige faux fur, studio packshot on white background.",
+   "attributes": {
+    "material": "ポリエステル（ボア）",
+    "color": "ベージュ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet ふわふわラウンドベッド S 直径50cm",
+     "brand": "Cymbal Pet",
+     "size": "S 直径50cm",
+     "price_tax_excluded": 2480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet ふわふわラウンドベッド M 直径60cm",
+     "brand": "Cymbal Pet",
+     "size": "M 直径60cm",
+     "price_tax_excluded": 3480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal Pet ふわふわラウンドベッド L 直径80cm",
+     "brand": "Cymbal Pet",
+     "size": "L 直径80cm",
+     "price_tax_excluded": 4980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "z_pet_round_bed_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_fleece_dome_house",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "ペットベッド"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "あったか",
+    "洗える"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寒さ対策",
+    "猫や小型犬の隠れ家",
+    "ギフト"
+   ],
+   "description": "暖かいフリース素材で、すっぽり入れるドーム型のペットハウス。寒い季節も体温を逃がさず、ぬくぬく過ごせます。中のクッションは取り外し可能で、ひっくり返せばオープンベッドとしても使えます。",
+   "image_brief": "A soft dome-shaped fleece pet house with a round entrance and a removable cushion inside, studio packshot on white background.",
+   "attributes": {
+    "material": "ポリエステル（フリース）"
+   },
+   "variants": [
+    {
+     "title": "ホッコリーナ 2WAYフリースドームハウス M ベージュ",
+     "brand": "ホッコリーナ",
+     "size": "M 幅45×奥行45×高さ40cm",
+     "price_tax_excluded": 3980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ベージュ"
+     }
+    },
+    {
+     "title": "ホッコリーナ 2WAYフリースドームハウス M グレー",
+     "brand": "ホッコリーナ",
+     "size": "M 幅45×奥行45×高さ40cm",
+     "price_tax_excluded": 3980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "グレー"
+     }
+    },
+    {
+     "title": "ホッコリーナ 2WAYフリースドームハウス L ブラウン",
+     "brand": "ホッコリーナ",
+     "size": "L 幅55×奥行55×高さ48cm",
+     "price_tax_excluded": 4980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ブラウン"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_fleece_dome_house_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_ceramic_food_bowl",
+   "category_path": [
+    "ペット用品",
+    "食器・給水器",
+    "フードボウル"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "食洗機対応",
+    "電子レンジ対応",
+    "国産"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "お水入れ",
+    "プレゼント"
+   ],
+   "description": "重みのある陶器製で、食事中にずれたりひっくり返ったりしにくいフードボウルです。内側のゆるやかなカーブで最後のひと粒まですくいやすい形状。食洗機・電子レンジに対応しお手入れも簡単です。",
+   "image_brief": "A heavy glazed ceramic pet food bowl in matte white with a slightly tapered base and smooth curved interior, studio packshot on white background.",
+   "attributes": {
+    "material": "陶器",
+    "color": "ホワイト"
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 陶器フードボウル S 直径12cm",
+     "brand": "Cymbal セレクト",
+     "size": "S 直径12cm 容量200ml",
+     "price_tax_excluded": 1280,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 陶器フードボウル M 直径15cm",
+     "brand": "Cymbal セレクト",
+     "size": "M 直径15cm 容量350ml",
+     "price_tax_excluded": 1580,
+     "origin": "日本製"
+    },
+    {
+     "title": "Cymbal セレクト 陶器フードボウル L 直径18cm",
+     "brand": "Cymbal セレクト",
+     "size": "L 直径18cm 容量600ml",
+     "price_tax_excluded": 1980,
+     "origin": "日本製"
+    }
+   ],
+   "images": [
+    "z_pet_ceramic_food_bowl_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_stainless_bowl_stand",
+   "category_path": [
+    "ペット用品",
+    "食器・給水器",
+    "フードボウル"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "食洗機対応"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "シニアペットの食事姿勢ケア",
+    "早食い防止"
+   ],
+   "description": "高さのあるスタンドで首や足腰への負担を軽減し、楽な姿勢で食事ができます。ボウルはさびにくいステンレス製で、取り外して食洗機で洗えます。底面の滑り止めで食事中も安定します。",
+   "image_brief": "An elevated wooden-look pet feeding stand holding stainless steel bowls, studio packshot on white background.",
+   "attributes": {
+    "material": "ステンレス、天然木",
+    "color": "ナチュラル"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ステンレスボウル スタンド付き シングル S",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル S 高さ8cm",
+     "price_tax_excluded": 1480,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレスボウル スタンド付き シングル M",
+     "brand": "Cymbal ベーシック",
+     "size": "シングル M 高さ12cm",
+     "price_tax_excluded": 1780,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレスボウル スタンド付き ダブル S",
+     "brand": "Cymbal ベーシック",
+     "size": "ダブル S 高さ8cm",
+     "price_tax_excluded": 2280,
+     "origin": "中国製"
+    },
+    {
+     "title": "Cymbal ベーシック ステンレスボウル スタンド付き ダブル M",
+     "brand": "Cymbal ベーシック",
+     "size": "ダブル M 高さ12cm",
+     "price_tax_excluded": 2680,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "z_pet_stainless_bowl_stand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_water_fountain",
+   "category_path": [
+    "ペット用品",
+    "食器・給水器",
+    "給水器"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "静音設計"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の水分補給",
+    "おるすばん中の給水",
+    "水をあまり飲まない猫に"
+   ],
+   "description": "循環する流れる水で、ペットの飲水意欲を引き出す自動給水器です。活性炭フィルターがゴミや毛を除去し、いつでも新鮮な水をキープ。静音ポンプなので寝室に置いても気になりません。",
+   "image_brief": "A rounded plastic automatic pet water fountain with a gentle flowing water top and transparent reservoir, studio packshot on white background.",
+   "attributes": {
+    "material": "ABS樹脂、PP"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 自動給水器 1.5L ホワイト",
+     "brand": "Cymbal Pet",
+     "size": "1.5L",
+     "price_tax_excluded": 3980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ホワイト",
+      "capacity": "1.5L"
+     }
+    },
+    {
+     "title": "Cymbal Pet 自動給水器 1.5L グレー",
+     "brand": "Cymbal Pet",
+     "size": "1.5L",
+     "price_tax_excluded": 3980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "グレー",
+      "capacity": "1.5L"
+     }
+    },
+    {
+     "title": "Cymbal Pet 自動給水器 2.5L ホワイト",
+     "brand": "Cymbal Pet",
+     "size": "2.5L",
+     "price_tax_excluded": 4980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ホワイト",
+      "capacity": "2.5L"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_water_fountain_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_rope_toy",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "犬用おもちゃ"
+   ],
+   "tax_rate": 10,
+   "labels": [],
+   "season_months": [],
+   "dishes": [
+    "引っ張りっこ遊び",
+    "おるすばん中の暇つぶし",
+    "ストレス発散"
+   ],
+   "description": "丈夫なコットンロープを編み込んだ、引っ張りっこ遊びにぴったりのおもちゃ。噛むことで歯の汚れ落としにも役立ちます。洗濯ネットに入れて洗えるので、いつでも清潔に遊べます。",
+   "image_brief": "A knotted multicolor cotton rope dog toy with thick knots at each end, studio packshot on white background.",
+   "attributes": {
+    "material": "コットン",
+    "color": "マルチカラー"
+   },
+   "variants": [
+    {
+     "title": "パウリア コットンロープトイ S 20cm",
+     "brand": "パウリア",
+     "size": "S 20cm",
+     "price_tax_excluded": 580,
+     "origin": "中国製"
+    },
+    {
+     "title": "パウリア コットンロープトイ M 30cm",
+     "brand": "パウリア",
+     "size": "M 30cm",
+     "price_tax_excluded": 780,
+     "origin": "中国製"
+    },
+    {
+     "title": "パウリア コットンロープトイ L 45cm",
+     "brand": "パウリア",
+     "size": "L 45cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "z_pet_dog_rope_toy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_cat_teaser_toy",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "猫用おもちゃ"
+   ],
+   "tax_rate": 10,
+   "labels": [],
+   "season_months": [],
+   "dishes": [
+    "猫との遊び時間",
+    "運動不足の解消",
+    "子猫の遊び"
+   ],
+   "description": "しなやかなスティックで本物の獲物のような動きを再現できる猫じゃらしです。羽根やポンポンが揺れるたびに狩猟本能を刺激し、室内猫の運動不足解消に役立ちます。先端パーツは付け替え可能。",
+   "image_brief": "A flexible wand cat teaser toy with colorful feathers dangling from a string, studio packshot on white background.",
+   "attributes": {
+    "material": "ABS樹脂、羽根、ポリエステル"
+   },
+   "variants": [
+    {
+     "title": "モフリエ 猫じゃらし フェザースティック",
+     "brand": "モフリエ",
+     "size": "全長約80cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製",
+     "attributes": {
+      "color": "マルチカラー"
+     }
+    },
+    {
+     "title": "モフリエ 猫じゃらし ポンポンスティック",
+     "brand": "モフリエ",
+     "size": "全長約80cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ピンク"
+     }
+    },
+    {
+     "title": "モフリエ 猫じゃらし 付け替え用 羽根3個セット",
+     "brand": "モフリエ",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "中国製",
+     "attributes": {
+      "color": "マルチカラー"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_cat_teaser_toy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_fleece_hoodie",
+   "category_path": [
+    "ペット用品",
+    "ペット用ウェア",
+    "犬用ウェア"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "あったか",
+    "洗える"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬のお散歩",
+    "室内の防寒",
+    "おそろいコーデ"
+   ],
+   "description": "やわらかく軽いフリース素材で、冬のお散歩も暖かく過ごせる犬用パーカーです。伸縮性のある生地で着せやすく、リード穴付きでハーネスとの併用も可能。ご家庭の洗濯機で洗えます。",
+   "image_brief": "A small cozy fleece dog hoodie with a hood and leash opening on the back, laid flat, studio packshot on white background.",
+   "attributes": {
+    "material": "ポリエステル（フリース）"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用フリースパーカー S アイボリー",
+     "brand": "Cymbal Pet",
+     "size": "S 着丈25cm",
+     "price_tax_excluded": 1980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "アイボリー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 犬用フリースパーカー M ネイビー",
+     "brand": "Cymbal Pet",
+     "size": "M 着丈30cm",
+     "price_tax_excluded": 2280,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ネイビー"
+     }
+    },
+    {
+     "title": "Cymbal Pet 犬用フリースパーカー L レッド",
+     "brand": "Cymbal Pet",
+     "size": "L 着丈35cm",
+     "price_tax_excluded": 2580,
+     "origin": "中国製",
+     "attributes": {
+      "color": "レッド"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_dog_fleece_hoodie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "z_pet_dog_padded_vest",
+   "category_path": [
+    "ペット用品",
+    "ペット用ウェア",
+    "犬用ウェア"
+   ],
+   "tax_rate": 10,
+   "labels": [
+    "あったか",
+    "撥水"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬のお散歩",
+    "雪の日のお出かけ",
+    "シニア犬の冷え対策"
+   ],
+   "description": "ふっくら中綿入りで保温性に優れた犬用ベストです。表地は撥水加工なので、小雨や雪の日のお散歩にも活躍。背中のマジックテープで着脱が簡単、前足を通すだけで着せられます。",
+   "image_brief": "A puffy quilted padded dog vest with a hook-and-loop closure on the back, laid flat, studio packshot on white background.",
+   "attributes": {
+    "material": "ナイロン、ポリエステル中綿"
+   },
+   "variants": [
+    {
+     "title": "ホッコリーナ 犬用中綿ベスト S カーキ",
+     "brand": "ホッコリーナ",
+     "size": "S 胴回り32〜38cm",
+     "price_tax_excluded": 2980,
+     "origin": "中国製",
+     "attributes": {
+      "color": "カーキ"
+     }
+    },
+    {
+     "title": "ホッコリーナ 犬用中綿ベスト M カーキ",
+     "brand": "ホッコリーナ",
+     "size": "M 胴回り38〜44cm",
+     "price_tax_excluded": 3280,
+     "origin": "中国製",
+     "attributes": {
+      "color": "カーキ"
+     }
+    },
+    {
+     "title": "ホッコリーナ 犬用中綿ベスト M ピンク",
+     "brand": "ホッコリーナ",
+     "size": "M 胴回り38〜44cm",
+     "price_tax_excluded": 3280,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ピンク"
+     }
+    },
+    {
+     "title": "ホッコリーナ 犬用中綿ベスト L ブラック",
+     "brand": "ホッコリーナ",
+     "size": "L 胴回り44〜52cm",
+     "price_tax_excluded": 3580,
+     "origin": "中国製",
+     "attributes": {
+      "color": "ブラック"
+     }
+    }
+   ],
+   "images": [
+    "z_pet_dog_padded_vest_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

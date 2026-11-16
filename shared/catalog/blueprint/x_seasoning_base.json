@@ -1,0 +1,2649 @@
+{
+ "category_key": "x_seasoning_base",
+ "items": [
+  {
+   "base_id": "x_seasoning_base_usukuchi_soy_sauce",
+   "category_path": [
+    "調味料",
+    "醤油",
+    "うすくちしょうゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "茶碗蒸し",
+    "煮物",
+    "うどん",
+    "炊き込みご飯"
+   ],
+   "description": "色が淡く、素材の色や香りを生かしたいお料理に向くうすくちしょうゆです。筑前煮や茶碗蒸し、うどんのおつゆ、炊き込みご飯の味付けに重宝します。",
+   "image_brief": "A clear PET bottle of light-amber usukuchi soy sauce with a red cap and a white label reading 「うすくちしょうゆ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス うすくちしょうゆ 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ うすくちしょうゆ 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ うすくちしょうゆ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ うすくちしょうゆ 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 密封ボトル うすくちしょうゆ 450ml",
+     "brand": "トップバリュ",
+     "size": "450ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 丸大豆 うすくちしょうゆ 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック うすくちしょうゆ 500ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_usukuchi_soy_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_genen_soy_sauce",
+   "category_path": [
+    "調味料",
+    "醤油",
+    "減塩しょうゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き魚",
+    "冷奴",
+    "卵焼き",
+    "肉じゃが",
+    "野菜炒め"
+   ],
+   "description": "塩分を控えめに仕上げた、まろやかな味わいの減塩しょうゆです。焼き魚や冷奴へのかけしょうゆはもちろん、肉じゃがや野菜炒めなど毎日のおかずの味付けにも使えます。",
+   "image_brief": "A squeezable double-layer bottle of dark soy sauce with a green cap and a label reading 「減塩しょうゆ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 減塩しょうゆ 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩しょうゆ 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩しょうゆ 密封ボトル 450ml",
+     "brand": "トップバリュ",
+     "size": "450ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩しょうゆ 密封ボトル 200ml",
+     "brand": "トップバリュ",
+     "size": "200ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 減塩しょうゆ 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 丸大豆 減塩しょうゆ 密封ボトル 450ml",
+     "brand": "トップバリュ セレクト",
+     "size": "450ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_genen_soy_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_dashi_soy_sauce",
+   "category_path": [
+    "調味料",
+    "醤油",
+    "だししょうゆ・卵かけしょうゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵焼き",
+    "冷奴",
+    "親子丼",
+    "おひたし",
+    "朝ごはん"
+   ],
+   "description": "かつお節と昆布のうまみを合わせた、香り豊かなだししょうゆです。卵かけごはんや冷奴にかけるだけで味が決まり、卵焼きや親子丼の味付けにも便利です。",
+   "image_brief": "A slim PET bottle of amber dashi soy sauce with a gold cap and a label showing bonito flakes and kelp with the text 「だししょうゆ」.",
+   "variants": [
+    {
+     "title": "トップバリュ かつお昆布 だししょうゆ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かつお昆布 だししょうゆ 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 密封ボトル だししょうゆ 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 だししょうゆ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 卵かけごはん用 だししょうゆ 150ml",
+     "brand": "トップバリュ",
+     "size": "150ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼あご入り だししょうゆ 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_dashi_soy_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_shiro_dashi",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "白だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "茶碗蒸し",
+    "卵焼き",
+    "うどん",
+    "おでん",
+    "炊き込みご飯",
+    "お吸い物"
+   ],
+   "description": "かつおと昆布のだしに白しょうゆを合わせた、色の淡い白だしです。薄めるだけで茶碗蒸しやだし巻き卵、うどんのつゆ、おでんの味がすっきり決まります。",
+   "image_brief": "A clear PET bottle of pale golden shiro-dashi with a white cap and a label reading 「白だし」 with a dilution chart.",
+   "variants": [
+    {
+     "title": "トップバリュ 白だし 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白だし 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白だし 密封ボトル 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白だし 減塩 400ml",
+     "brand": "トップバリュ",
+     "size": "400ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 白だし 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼あご入り 白だし 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 白だし 360ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "360ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_shiro_dashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_mentsuyu_concentrated",
+   "category_path": [
+    "調味料",
+    "めんつゆ・白だし",
+    "めんつゆ（濃縮）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "肉じゃが",
+    "牛丼",
+    "天ぷら",
+    "そば",
+    "うどん"
+   ],
+   "description": "かつお節の風味をきかせた濃縮タイプのめんつゆです。薄めてそばやうどん、天つゆに使うほか、親子丼や肉じゃが、牛丼など煮物・丼ものの味付けにも活躍します。",
+   "image_brief": "A tall PET bottle of dark concentrated noodle soup base with an orange cap and a label reading 「めんつゆ 3倍濃縮」 with a soba illustration.",
+   "variants": [
+    {
+     "title": "トップバリュ めんつゆ 3倍濃縮 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ めんつゆ 3倍濃縮 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ めんつゆ 3倍濃縮 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス めんつゆ 3倍濃縮 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス めんつゆ 2倍濃縮 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本枯節使用 めんつゆ 4倍濃縮 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック めんつゆ 3倍濃縮 300ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_mentsuyu_concentrated_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_grain_vinegar",
+   "category_path": [
+    "調味料",
+    "酢",
+    "穀物酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "酢の物",
+    "鶏のさっぱり煮",
+    "南蛮漬け",
+    "ポテトサラダ"
+   ],
+   "description": "クセが少なくすっきりとした酸味の穀物酢です。酢の物や南蛮漬け、酢豚のほか、鶏のさっぱり煮やポテトサラダの下味にも幅広く使えます。",
+   "image_brief": "A clear PET bottle of transparent grain vinegar with a yellow cap and a simple label reading 「穀物酢」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 穀物酢 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 穀物酢 900ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "900ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 穀物酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 穀物酢 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 穀物酢 密封ボトル 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ まろやか 穀物酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_grain_vinegar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_rice_vinegar",
+   "category_path": [
+    "調味料",
+    "酢",
+    "米酢・黒酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "酢の物",
+    "ちらし寿司",
+    "鶏のさっぱり煮",
+    "酢豚",
+    "なます"
+   ],
+   "description": "お米を原料にした、まろやかでコクのある米酢です。酢の物やなます、ちらし寿司のすし飯づくり、鶏のさっぱり煮などに向いています。",
+   "image_brief": "A glass-look PET bottle of pale golden rice vinegar with a navy cap and a label showing rice ears and the text 「米酢」.",
+   "variants": [
+    {
+     "title": "トップバリュ 米酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 米酢 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 米酢 1.8L",
+     "brand": "トップバリュ",
+     "size": "1.8L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産米100% 純米酢 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 純米酢 500ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玄米黒酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_rice_vinegar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_sushi_vinegar",
+   "category_path": [
+    "調味料",
+    "酢",
+    "すし酢・合わせ酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ちらし寿司",
+    "手巻き寿司",
+    "いなり寿司",
+    "酢の物",
+    "なます"
+   ],
+   "description": "砂糖と塩をバランスよく合わせた、炊きたてごはんに混ぜるだけのすし酢です。ちらし寿司や手巻き寿司、いなり寿司のほか、酢の物やなますにもそのまま使えます。",
+   "image_brief": "A PET bottle of light amber sushi vinegar with a red cap and a label showing chirashi-zushi and the text 「すし酢」.",
+   "variants": [
+    {
+     "title": "トップバリュ すし酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すし酢 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス すし酢 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 昆布だし入り すし酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かんたん酢 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かんたん酢 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 甘酢 らっきょう・ピクルス用 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_sushi_vinegar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_aka_miso",
+   "category_path": [
+    "調味料",
+    "みそ",
+    "赤みそ・豆みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "さばの味噌煮",
+    "味噌カツ",
+    "どて煮"
+   ],
+   "description": "じっくり熟成させた、色が濃くコクのある赤みそです。赤だしの味噌汁や豚汁、さばの味噌煮、どて煮など濃厚な味わいにしたい料理に向いています。",
+   "image_brief": "A rectangular plastic tub of dark reddish-brown miso with a clear lid and a label reading 「赤みそ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 赤みそ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 赤みそ 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 赤だしみそ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 赤だしみそ カップ 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 仙台風 辛口赤みそ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "宮城県製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産大豆 豆みそ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "愛知県製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_aka_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_kome_miso",
+   "category_path": [
+    "調味料",
+    "みそ",
+    "米みそ・信州みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "回鍋肉",
+    "肉みそ",
+    "鍋"
+   ],
+   "description": "米こうじをたっぷり使った、香りのよい信州タイプの米みそです。毎日の味噌汁や豚汁はもちろん、回鍋肉や肉みそ、みそ鍋の味付けにも使いやすい味わいです。",
+   "image_brief": "A plastic tub of light-brown rice miso with a clear lid and a label showing mountains and the text 「信州 米こしみそ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 信州 米こしみそ カップ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "トップバリュ 信州 米こしみそ 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 328,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "トップバリュ 信州 米こしみそ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 398,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "トップバリュ 信州 米粒みそ 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 348,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 米みそ 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産米・国産大豆 天然醸造 米みそ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 米みそ 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_kome_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_genen_miso",
+   "category_path": [
+    "調味料",
+    "みそ",
+    "減塩みそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "さばの味噌煮",
+    "野菜炒め"
+   ],
+   "description": "塩分を控えめにしながら、みそ本来のうまみを残した減塩タイプのみそです。毎日の味噌汁や豚汁、さばの味噌煮などにいつものみそと同じように使えます。",
+   "image_brief": "A plastic tub of medium-brown miso with a green lid and a label reading 「減塩みそ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 減塩みそ 375g",
+     "brand": "トップバリュ",
+     "size": "375g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩みそ 650g",
+     "brand": "トップバリュ",
+     "size": "650g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 だし入りみそ 650g",
+     "brand": "トップバリュ",
+     "size": "650g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 合わせみそ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 赤だしみそ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 減塩 国産米こしみそ 500g",
+     "brand": "トップバリュ セレクト",
+     "size": "500g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_genen_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_dashi_iri_miso",
+   "category_path": [
+    "調味料",
+    "みそ",
+    "だし入りみそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "豚汁",
+    "鍋",
+    "朝ごはん"
+   ],
+   "description": "かつおと昆布のだしをあらかじめ合わせた、お湯に溶くだけで味噌汁ができるだし入りみそです。忙しい朝ごはんの味噌汁や具だくさんの豚汁、みそ仕立ての鍋に便利です。",
+   "image_brief": "A plastic tub of light-brown miso with a yellow lid and a label showing a bowl of miso soup and the text 「だし入り みそ」.",
+   "variants": [
+    {
+     "title": "トップバリュ かつお昆布だし入り みそ 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かつお昆布だし入り みそ 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス だし入り みそ 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いりこだし入り 麦合わせみそ 650g",
+     "brand": "トップバリュ",
+     "size": "650g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ だし入り 液みそ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ だし入り 液みそ 減塩 430g",
+     "brand": "トップバリュ",
+     "size": "430g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼あごだし入り みそ 650g",
+     "brand": "トップバリュ セレクト",
+     "size": "650g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_dashi_iri_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_salad_oil",
+   "category_path": [
+    "調味料",
+    "油",
+    "サラダ油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "天ぷら",
+    "とんかつ",
+    "野菜炒め",
+    "チャーハン"
+   ],
+   "description": "クセがなく軽い口当たりで、炒め物から揚げ物まで使える定番のサラダ油です。唐揚げやとんかつ、天ぷらの揚げ油や、野菜炒め・チャーハンに毎日使えます。",
+   "image_brief": "A large clear plastic bottle of pale yellow cooking oil with a yellow cap and a label reading 「サラダ油」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス サラダ油 1000g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス サラダ油 1500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダ油 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダ油 1000g",
+     "brand": "トップバリュ",
+     "size": "1000g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダ油 1300g",
+     "brand": "トップバリュ",
+     "size": "1300g",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大豆油 1000g",
+     "brand": "トップバリュ",
+     "size": "1000g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_salad_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_canola_oil",
+   "category_path": [
+    "調味料",
+    "油",
+    "キャノーラ油・なたね油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "天ぷら",
+    "とんかつ",
+    "野菜炒め",
+    "お好み焼き"
+   ],
+   "description": "さらりとして油っぽさが残りにくいキャノーラ油です。揚げ物のからっとした仕上がりに向き、炒め物やお好み焼きを焼くときにも使いやすい油です。",
+   "image_brief": "A clear plastic bottle of light golden canola oil with a green cap and a label showing yellow rapeseed flowers and the text 「キャノーラ油」.",
+   "variants": [
+    {
+     "title": "トップバリュ キャノーラ油 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キャノーラ油 1000g",
+     "brand": "トップバリュ",
+     "size": "1000g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キャノーラ油 1300g",
+     "brand": "トップバリュ",
+     "size": "1300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キャノーラ油 1500g",
+     "brand": "トップバリュ",
+     "size": "1500g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス キャノーラ油 1000g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 密封ボトル キャノーラ油 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック なたね油 450g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "450g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_canola_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_sesame_oil",
+   "category_path": [
+    "調味料",
+    "油",
+    "ごま油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "餃子",
+    "麻婆豆腐",
+    "青椒肉絲",
+    "ナムル",
+    "野菜炒め"
+   ],
+   "description": "焙煎したごまを搾った、香ばしい香りのごま油です。チャーハンや野菜炒め、麻婆豆腐の仕上げにひとたらしするほか、餃子を焼くときやナムルの和え油にも使えます。",
+   "image_brief": "An amber glass-look bottle of dark golden sesame oil with a red cap and a label showing sesame seeds and the text 「純正ごま油」.",
+   "variants": [
+    {
+     "title": "トップバリュ 純正ごま油 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純正ごま油 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純正ごま油 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純正ごま油 密封ボトル 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ごま油 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 太白 白ごま油 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焙煎 金ごま油 160g",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_sesame_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_olive_oil",
+   "category_path": [
+    "調味料",
+    "油",
+    "オリーブオイル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "鮭のムニエル",
+    "グラタン",
+    "ポテトサラダ",
+    "カルパッチョ"
+   ],
+   "description": "フルーティーな香りのオリーブオイルです。パスタやカルパッチョにはエキストラバージン、鮭のムニエルや炒め物にはピュアタイプと使い分けができます。",
+   "image_brief": "A dark green glass bottle of olive oil with a black cap and a label showing olives and the text 「エキストラバージン オリーブオイル」.",
+   "variants": [
+    {
+     "title": "トップバリュ エキストラバージン オリーブオイル 密封ボトル 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ エキストラバージン オリーブオイル 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 898,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ エキストラバージン オリーブオイル 900g",
+     "brand": "トップバリュ",
+     "size": "900g",
+     "price_tax_excluded": 1580,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ ピュア オリーブオイル 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ピュア オリーブオイル 1000g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000g",
+     "price_tax_excluded": 1180,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ セレクト イタリア産 エキストラバージン オリーブオイル 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック エキストラバージン オリーブオイル 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 980,
+     "origin": "スペイン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_olive_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_rice_bran_oil",
+   "category_path": [
+    "調味料",
+    "油",
+    "米油・こめ油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "天ぷら",
+    "とんかつ",
+    "卵焼き",
+    "野菜炒め"
+   ],
+   "description": "米ぬかから搾った、軽くクセの少ないこめ油です。唐揚げや天ぷら、とんかつをからっと揚げたいときや、卵焼き・野菜炒めなど毎日の調理に向いています。",
+   "image_brief": "A clear plastic bottle of light golden rice bran oil with a white cap and a label showing rice grains and the text 「こめ油」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産こめ油 密封ボトル 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産こめ油 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産こめ油 1000g",
+     "brand": "トップバリュ",
+     "size": "1000g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こめ油 1350g",
+     "brand": "トップバリュ",
+     "size": "1350g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス こめ油 1000g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産米ぬか100% こめ油 450g",
+     "brand": "トップバリュ セレクト",
+     "size": "450g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_rice_bran_oil_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_butter_flavor_spread",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "マーガリン・ファットスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "オムライス",
+    "鮭のムニエル",
+    "チャーハン",
+    "ホットケーキ",
+    "朝ごはん"
+   ],
+   "description": "冷蔵庫から出してすぐ塗りやすい、バター風味のソフトタイプです。朝ごはんのトーストはもちろん、オムライスや鮭のムニエル、バター醤油の炒め物にも気軽に使えます。",
+   "image_brief": "A yellow plastic tub of soft spread with a clear lid and a label showing toast and the text 「バター風味 ソフト」.",
+   "variants": [
+    {
+     "title": "トップバリュ バター風味 ソフト ファットスプレッド 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バター風味 ソフト ファットスプレッド 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ソフトマーガリン バター風味 320g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "320g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 発酵バター入り マーガリン 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 有塩バター入り ファットスプレッド 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 炒め物用 バター風味 マーガリン 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_butter_flavor_spread_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_salt_pepper",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "塩こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "チャーハン",
+    "ハンバーグ",
+    "オムライス",
+    "焼きそば",
+    "ステーキ"
+   ],
+   "description": "塩とこしょうをちょうどよく合わせた、ひと振りで味が決まる塩こしょうです。野菜炒めやチャーハン、焼きそば、ハンバーグの下味など毎日の料理に欠かせません。",
+   "image_brief": "A cylindrical shaker bottle with a red flip cap and a label showing black pepper and salt with the text 「味付 塩こしょう」.",
+   "variants": [
+    {
+     "title": "トップバリュ 味付 塩こしょう 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 味付 塩こしょう 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩こしょう 詰め替え用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびき 塩こしょう 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガーリック 塩こしょう 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 塩こしょう 225g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "225g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 岩塩 ブラックペッパー ミル付 60g",
+     "brand": "トップバリュ セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_salt_pepper_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_pepper",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "パスタ",
+    "シチュー",
+    "グラタン",
+    "ポテトサラダ"
+   ],
+   "description": "挽きたての香りが楽しめるこしょうです。ハンバーグやパスタの仕上げにはあらびきブラック、シチューやグラタン、ポテトサラダにはホワイトがよく合います。",
+   "image_brief": "A small glass shaker jar of coarse ground black pepper with a black cap and a label reading 「あらびき ブラックペッパー」.",
+   "variants": [
+    {
+     "title": "トップバリュ あらびき ブラックペッパー 22g",
+     "brand": "トップバリュ",
+     "size": "22g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびき ブラックペッパー 袋入 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ブラックペッパー ミル付 32g",
+     "brand": "トップバリュ",
+     "size": "32g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ テーブルコショー ホワイト 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホワイトペッパー 袋入 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス こしょう 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ブラックペッパー 30g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_pepper_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_shichimi",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "七味・一味・山椒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うどん",
+    "そば",
+    "豚汁",
+    "牛丼",
+    "焼き鳥"
+   ],
+   "description": "唐辛子に山椒や陳皮、ごまなどを合わせた、香り豊かな七味唐辛子です。うどんやそば、豚汁、牛丼にひと振りすると風味が引き立ちます。",
+   "image_brief": "A small round shaker container with a red cap and a label showing chili peppers and the text 「七味唐辛子」.",
+   "variants": [
+    {
+     "title": "トップバリュ 七味唐辛子 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 七味唐辛子 詰め替え用 18g",
+     "brand": "トップバリュ",
+     "size": "18g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 七味唐辛子 袋入 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 七味唐辛子 大袋 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒七味 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産原料 七味唐辛子 12g",
+     "brand": "トップバリュ セレクト",
+     "size": "12g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_shichimi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_ichimi",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "七味・一味・山椒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "麻婆豆腐",
+    "きんぴら",
+    "うどん",
+    "鍋",
+    "牛丼"
+   ],
+   "description": "唐辛子だけを使った、すっきりとした辛さの一味唐辛子です。麻婆豆腐やきんぴらに辛みを足したいときや、うどん・鍋の薬味として使えます。",
+   "image_brief": "A small round shaker container with a red cap and a deep red label showing a single chili and the text 「一味唐辛子」.",
+   "variants": [
+    {
+     "title": "トップバリュ 一味唐辛子 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 一味唐辛子 袋入 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 一味唐辛子 大袋 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 輪切り唐辛子 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鷹の爪 ホール 12g",
+     "brand": "トップバリュ",
+     "size": "12g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 一味唐辛子 10g",
+     "brand": "トップバリュ セレクト",
+     "size": "10g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_ichimi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_curry_powder",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "カレー粉・スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "ドライカレー",
+    "カレーうどん",
+    "唐揚げ",
+    "カレー炒め"
+   ],
+   "description": "数種類のスパイスをブレンドした香り高いカレー粉です。カレーやドライカレーの香りづけに加えるほか、唐揚げの衣や野菜のカレー炒め、カレーうどんにも使えます。",
+   "image_brief": "A small square tin of yellow curry powder with a red lid and a label showing spices and the text 「純カレー粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 純カレー粉 缶 37g",
+     "brand": "トップバリュ",
+     "size": "37g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純カレー粉 缶 84g",
+     "brand": "トップバリュ",
+     "size": "84g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 純カレー粉 袋入 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーパウダー 瓶 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガラムマサラ 瓶 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 30種のスパイス カレー粉 60g",
+     "brand": "トップバリュ セレクト",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_curry_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_garlic_powder",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "ハーブ・スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "パスタ",
+    "チャーハン",
+    "ステーキ",
+    "ガーリックトースト"
+   ],
+   "description": "にんにくを乾燥させて粉末にした、手軽に風味をつけられるガーリックパウダーです。唐揚げの下味やパスタ、チャーハン、ステーキの焼き前のひと振りに便利です。",
+   "image_brief": "A small glass shaker jar of off-white garlic powder with a green cap and a label showing garlic bulbs and the text 「ガーリックパウダー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ガーリックパウダー 瓶 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガーリックパウダー 詰め替え用 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ガーリックパウダー 袋入 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あらびき ガーリック 瓶 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フライドガーリック 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産にんにく使用 ガーリックパウダー 15g",
+     "brand": "トップバリュ セレクト",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_garlic_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_ginger_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "しょうが・にんにくチューブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の生姜焼き",
+    "唐揚げ",
+    "煮魚",
+    "餃子",
+    "肉じゃが"
+   ],
+   "description": "すりおろす手間なく使える、チューブ入りのおろし生しょうがです。豚の生姜焼きや唐揚げの下味、煮魚の臭み消し、餃子のあんなどに必要な分だけ絞って使えます。",
+   "image_brief": "A yellow squeeze tube in a small carton box with a label showing grated ginger and the text 「おろし生しょうが」.",
+   "variants": [
+    {
+     "title": "トップバリュ おろし生しょうが 43g",
+     "brand": "トップバリュ",
+     "size": "43g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おろし生しょうが 2本組（43g×2）",
+     "brand": "トップバリュ",
+     "size": "86g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おろし生しょうが 徳用 175g",
+     "brand": "トップバリュ",
+     "size": "175g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きざみしょうが 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス おろししょうが 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 高知県産しょうが使用 おろし生しょうが 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_ginger_tube_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_garlic_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "しょうが・にんにくチューブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "唐揚げ",
+    "パスタ",
+    "麻婆豆腐",
+    "回鍋肉",
+    "チャーハン"
+   ],
+   "description": "皮むきやすりおろしが不要な、チューブ入りのおろし生にんにくです。餃子のあんや唐揚げの下味、麻婆豆腐や回鍋肉、パスタの香りづけに手軽に使えます。",
+   "image_brief": "A white squeeze tube in a small carton box with a label showing garlic cloves and the text 「おろし生にんにく」.",
+   "variants": [
+    {
+     "title": "トップバリュ おろし生にんにく 43g",
+     "brand": "トップバリュ",
+     "size": "43g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おろし生にんにく 2本組（43g×2）",
+     "brand": "トップバリュ",
+     "size": "86g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おろし生にんにく 徳用 175g",
+     "brand": "トップバリュ",
+     "size": "175g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きざみにんにく 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス おろしにんにく 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 青森県産にんにく使用 おろし生にんにく 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_garlic_tube_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_wasabi_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "わさび"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "刺身",
+    "にぎり寿司",
+    "手巻き寿司",
+    "そば",
+    "ステーキ"
+   ],
+   "description": "本わさびを使った、ツンとした辛みと香りのねりわさびです。刺身や手巻き寿司、ざるそばの薬味に、ステーキにわさび醤油で合わせるのもおすすめです。",
+   "image_brief": "A green squeeze tube in a small carton box with a label showing a fresh wasabi root and the text 「ねりわさび」.",
+   "variants": [
+    {
+     "title": "トップバリュ 本わさび入り ねりわさび 43g",
+     "brand": "トップバリュ",
+     "size": "43g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ねりわさび 2本組（43g×2）",
+     "brand": "トップバリュ",
+     "size": "86g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 本わさび入り ねりわさび 徳用 175g",
+     "brand": "トップバリュ",
+     "size": "175g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きざみわさび 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ねりわさび 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本わさび使用 生おろしわさび 40g",
+     "brand": "トップバリュ セレクト",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_wasabi_tube_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_karashi_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "からし・マスタード"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おでん",
+    "とんかつ",
+    "納豆",
+    "焼売",
+    "豚の角煮"
+   ],
+   "description": "鼻に抜ける辛みが特徴のねりからしです。おでんやとんかつ、焼売に添えるほか、納豆や豚の角煮の薬味、からし和えにも使えます。",
+   "image_brief": "A yellow squeeze tube in a small carton box with a label showing mustard paste and the text 「ねりからし」.",
+   "variants": [
+    {
+     "title": "トップバリュ ねりからし 43g",
+     "brand": "トップバリュ",
+     "size": "43g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ねりからし 2本組（43g×2）",
+     "brand": "トップバリュ",
+     "size": "86g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ねりからし 徳用 175g",
+     "brand": "トップバリュ",
+     "size": "175g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ねりからし 40g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "40g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 粉からし 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 粒マスタード 瓶 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_karashi_tube_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_consomme",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "コンソメ・ブイヨン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シチュー",
+    "ポトフ",
+    "オムライス",
+    "ロールキャベツ",
+    "ピラフ",
+    "コンソメスープ"
+   ],
+   "description": "ビーフと野菜のうまみを凝縮した洋風だしの素です。コンソメスープやポトフ、ロールキャベツの煮込みのほか、オムライスのチキンライスやピラフの味付けにも使えます。",
+   "image_brief": "A resealable stand-up pouch of golden consomme granules with a label showing a bowl of vegetable soup and the text 「顆粒コンソメ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 顆粒コンソメ 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 顆粒コンソメ 減塩 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 顆粒コンソメ 袋入 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 顆粒コンソメ 袋入 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 固形コンソメ 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 固形コンソメ 21個入",
+     "brand": "トップバリュ",
+     "size": "21個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 野菜とビーフの 顆粒ブイヨン 60g",
+     "brand": "トップバリュ セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_consomme_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_chicken_stock",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "鶏ガラスープ・中華だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "野菜炒め",
+    "中華スープ",
+    "餃子",
+    "麻婆豆腐",
+    "鍋"
+   ],
+   "description": "鶏ガラをじっくり煮出したうまみを顆粒にした鶏ガラスープの素です。中華スープや野菜炒め、チャーハンの味付け、麻婆豆腐や鍋のスープのベースに使えます。",
+   "image_brief": "A clear plastic jar of pale yellow chicken stock granules with a red lid and a label showing a whole chicken and the text 「鶏ガラスープの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 鶏ガラスープの素 顆粒 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏ガラスープの素 ボトル 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏ガラスープの素 袋入 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏ガラスープの素 スティック 8本入",
+     "brand": "トップバリュ",
+     "size": "8本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 鶏ガラスープの素 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 鶏ガラスープの素 袋入 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産丸鶏使用 鶏ガラスープ 60g",
+     "brand": "トップバリュ セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_chicken_stock_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_chuka_dashi_paste",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "鶏ガラスープ・中華だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "野菜炒め",
+    "焼きそば",
+    "餃子",
+    "八宝菜",
+    "中華スープ"
+   ],
+   "description": "豚骨と鶏ガラのうまみに香味野菜を合わせた、練りタイプの中華だしです。少量でコクが出るので、チャーハンや野菜炒め、八宝菜、中華スープの味付けに便利です。",
+   "image_brief": "A red cylindrical can of paste-type Chinese soup base with a gold lid and a label showing a bowl of fried rice and the text 「中華だし 練りタイプ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 中華だし ペースト チューブ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華だし 練りタイプ 缶 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華だし 練りタイプ 缶 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華だし 顆粒 袋入 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 中華だし 練りタイプ 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 豚骨鶏ガラ 中華だし ペースト 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_chuka_dashi_paste_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_kombu_dashi",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "昆布だし・だしパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "湯豆腐",
+    "鍋",
+    "茶碗蒸し",
+    "煮物",
+    "炊き込みご飯",
+    "味噌汁"
+   ],
+   "description": "北海道産の昆布を使った、やさしいうまみの昆布だしです。湯豆腐や寄せ鍋、茶碗蒸しのだしに、煮物や炊き込みご飯のベースとしても使えます。",
+   "image_brief": "A resealable kraft pouch with a window showing tea-bag style kelp dashi packs and a label reading 「昆布だしパック」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産昆布使用 昆布だしパック 8g×10袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 昆布だしパック 8g×20袋",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 昆布だし 顆粒 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 昆布だし 濃縮 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産真昆布 だしパック 10g×10袋",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 日高昆布 だし用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_kombu_dashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_iriko_dashi",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "いりこ・煮干しだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "うどん",
+    "豚汁",
+    "煮物",
+    "肉じゃが"
+   ],
+   "description": "瀬戸内産のいりこを使った、コクのある香ばしいだしです。味噌汁やうどんのつゆ、豚汁、肉じゃがなどの煮物に、家庭の味をしっかり出してくれます。",
+   "image_brief": "A resealable kraft pouch with a window showing dried sardine dashi packs and a label reading 「いりこだしパック」.",
+   "variants": [
+    {
+     "title": "トップバリュ 瀬戸内産いりこ使用 いりこだしパック 8g×10袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いりこだしパック 8g×20袋",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いりこだし 顆粒 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 瀬戸内産 いりこ・焼あご だしパック 8g×15袋",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "香川県産 だし用 いりこ 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "香川県産"
+    },
+    {
+     "title": "長崎県産 だし用 煮干し 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_iriko_dashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_katsuo_kombu_dashi_pack",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "昆布だし・だしパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "肉じゃが",
+    "筑前煮",
+    "茶碗蒸し",
+    "親子丼",
+    "おでん"
+   ],
+   "description": "かつお節と昆布を合わせた、煮出すだけで本格的な合わせだしがとれるだしパックです。味噌汁や肉じゃが、筑前煮、茶碗蒸し、おでんなど和食全般に使えます。",
+   "image_brief": "A resealable stand-up pouch with a window showing white tea-bag dashi packs and a label with bonito flakes and kelp reading 「かつお昆布だしパック」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産原料 かつお昆布だしパック 8g×10袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かつお昆布だしパック 8g×30袋",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 食塩無添加 かつお昆布だしパック 8g×10袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼あご入り 和風だしパック 8g×10袋",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 和風だしパック 8g×20袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本枯節 かつお昆布だしパック 8g×15袋",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック かつお昆布だしパック 7g×8袋",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "56g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_katsuo_kombu_dashi_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_rayu",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "ラー油・食べるラー油"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "麻婆豆腐",
+    "担々麺",
+    "冷奴",
+    "ラーメン"
+   ],
+   "description": "唐辛子の辛みとごま油の香りをきかせたラー油です。餃子のたれに加えたり、麻婆豆腐や担々麺の仕上げに回しかけたりと中華料理に欠かせません。",
+   "image_brief": "A small glass bottle of red chili oil with a red cap and a label showing red chili peppers and the text 「ラー油」.",
+   "variants": [
+    {
+     "title": "トップバリュ ラー油 31g",
+     "brand": "トップバリュ",
+     "size": "31g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ラー油 徳用 115g",
+     "brand": "トップバリュ",
+     "size": "115g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ラー油 33g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "33g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 花椒入り 麻辣ラー油 31g",
+     "brand": "トップバリュ",
+     "size": "31g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 食べるラー油 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産唐辛子使用 ラー油 60g",
+     "brand": "トップバリュ セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_rayu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_nutmeg",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "ハーブ・スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ロールキャベツ",
+    "グラタン",
+    "ミートソース",
+    "コロッケ"
+   ],
+   "description": "甘くエキゾチックな香りのナツメグです。ハンバーグやロールキャベツ、コロッケのひき肉だねに少量加えると肉の臭みがやわらぎ、グラタンのホワイトソースにもよく合います。",
+   "image_brief": "A small glass shaker jar of brown nutmeg powder with a brown cap and a label showing a whole nutmeg and the text 「ナツメグ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ナツメグ パウダー 瓶 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ナツメグ パウダー 袋入 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ナツメグ ホール 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハンバーグ用 ミックススパイス 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オールスパイス パウダー 瓶 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ナツメグ パウダー 15g",
+     "brand": "トップバリュ セレクト",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_nutmeg_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_base_bay_leaf",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "ハーブ・スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "シチュー",
+    "ポトフ",
+    "ミートソース",
+    "ロールキャベツ"
+   ],
+   "description": "煮込み料理にさわやかな香りを添えるローリエ（月桂樹の葉）です。カレーやシチュー、ポトフ、ミートソースを煮込むときに1〜2枚入れるだけで風味が増します。",
+   "image_brief": "A small clear bag with a header card showing dried green bay leaves and the text 「ローリエ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ローリエ ホール 3g",
+     "brand": "トップバリュ",
+     "size": "3g",
+     "price_tax_excluded": 178,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ローリエ 袋入 10g",
+     "brand": "トップバリュ",
+     "size": "10g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ローリエ パウダー 瓶 12g",
+     "brand": "トップバリュ",
+     "size": "12g",
+     "price_tax_excluded": 228,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ブーケガルニ 5袋入",
+     "brand": "トップバリュ",
+     "size": "5袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト トルコ産 ローリエ 4g",
+     "brand": "トップバリュ セレクト",
+     "size": "4g",
+     "price_tax_excluded": 298,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ローリエ 3g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "3g",
+     "price_tax_excluded": 298,
+     "origin": "トルコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_base_bay_leaf_p.jpg"
+   ]
+  }
+ ]
+}

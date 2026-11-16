@@ -1,0 +1,3230 @@
+{
+ "category_key": "y_fresh_premium",
+ "items": [
+  {
+   "base_id": "y_fresh_premium_organic_vegetable_set",
+   "category_path": [
+    "野菜・果物",
+    "有機・特別栽培野菜",
+    "有機野菜セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜炒め",
+    "味噌汁",
+    "カレー",
+    "豚汁",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "有機JAS認証の農家さんから届く旬の野菜を詰め合わせたセットです。カレーや豚汁、野菜炒めなど毎日のおかず作りに使いやすい品目を中心にそろえました。",
+   "image_brief": "A cardboard produce box filled with assorted organic carrots, onions, potatoes and leafy greens, with a green label reading 「有機野菜セット」.",
+   "variants": [
+    {
+     "title": "国産 有機野菜おまかせセット 5品目",
+     "brand": "",
+     "size": "5品目",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 有機野菜おまかせセット 8品目",
+     "brand": "",
+     "size": "8品目",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 有機野菜おまかせセット 12品目",
+     "brand": "",
+     "size": "12品目",
+     "price_tax_excluded": 2780,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 有機 根菜セット（にんじん・たまねぎ・じゃがいも）",
+     "brand": "",
+     "size": "3品目",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 有機 葉物野菜セット 3品目",
+     "brand": "",
+     "size": "3品目",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機 カレー用野菜セット（にんじん・たまねぎ・じゃがいも）",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "約1.2kg",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 特別栽培 秋の味覚野菜セット 6品目",
+     "brand": "",
+     "size": "6品目",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_organic_vegetable_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kujo_negi",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "京野菜・伝統野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "すき焼き",
+    "親子丼",
+    "うどん",
+    "味噌汁",
+    "ねぎ焼き"
+   ],
+   "tax_rate": 8,
+   "description": "京都の伝統野菜・九条ねぎは、青い部分までやわらかく甘みがあるのが特長です。すき焼きや鍋、親子丼の仕上げ、うどんの薬味にたっぷりお使いください。",
+   "image_brief": "A bundle of slender green Kujo negi wrapped in a clear film sleeve with a label reading 「京都府産 九条ねぎ」.",
+   "variants": [
+    {
+     "title": "京都府産 九条ねぎ 1束（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 258,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 九条ねぎ 2束",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 九条ねぎ 大束（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 カット九条ねぎ（斜め切り）80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 刻み九条ねぎ（小口切り）50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 178,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 特別栽培 九条ねぎ 1束（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 九条ねぎ 鍋用 太ねぎ 1束（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kujo_negi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_specialty_eggplant",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "京野菜・伝統野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "なす田楽",
+    "揚げびたし",
+    "麻婆なす",
+    "焼きなす",
+    "浅漬け"
+   ],
+   "tax_rate": 8,
+   "description": "賀茂なすや水なすなど、産地ならではの個性豊かななすを集めました。肉厚な賀茂なすは田楽や揚げびたしに、みずみずしい水なすは浅漬けやサラダにおすすめです。",
+   "image_brief": "Glossy round deep-purple Kamo eggplants on a white tray wrapped in film with a label reading 「賀茂なす」.",
+   "variants": [
+    {
+     "title": "京都府産 賀茂なす 1個（約300g）",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 賀茂なす 2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 558,
+     "origin": "京都府産"
+    },
+    {
+     "title": "大阪府産 泉州水なす 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 398,
+     "origin": "大阪府産"
+    },
+    {
+     "title": "大阪府産 泉州水なす 浅漬け用 4本入",
+     "brand": "",
+     "size": "4本",
+     "price_tax_excluded": 698,
+     "origin": "大阪府産"
+    },
+    {
+     "title": "熊本県産 長なす 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 298,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "国産 米なす 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 白なす 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "京都府産 山科なす 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_specialty_eggplant_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_manganji_pepper",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "京野菜・伝統野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "焼きびたし",
+    "じゃこ炒め",
+    "天ぷら",
+    "お弁当",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "辛みが少なく肉厚で甘みのある、とうがらしの仲間です。じゃこと甘辛く炒めたり、焼いてかつお節としょうゆでいただく焼きびたしが手軽でおすすめです。",
+   "image_brief": "A clear plastic bag of long, glossy green Manganji peppers with a label reading 「万願寺とうがらし」.",
+   "variants": [
+    {
+     "title": "京都府産 万願寺とうがらし 1袋（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 万願寺とうがらし 大袋（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 伏見甘長とうがらし 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 248,
+     "origin": "京都府産"
+    },
+    {
+     "title": "奈良県産 ひもとうがらし 1パック（約80g）",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 228,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "京都府産 万願寺とうがらし（赤）1袋（約120g）",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 348,
+     "origin": "京都府産"
+    },
+    {
+     "title": "和歌山県産 甘長とうがらし 1袋（約120g）",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 228,
+     "origin": "和歌山県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_manganji_pepper_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_highland_lettuce_varieties",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "レタス・サラダ菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "レタスチャーハン",
+    "焼肉",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "標高の高い冷涼な産地で育った、シャキッとした歯ざわりのレタス類です。サラダやサンドイッチはもちろん、焼肉を包んだりチャーハンの仕上げに加えたりと幅広く使えます。",
+   "image_brief": "A crisp head of pale green highland lettuce in a perforated film bag with a label reading 「高原レタス」.",
+   "variants": [
+    {
+     "title": "長野県産 高原レタス 1玉（大）",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 238,
+     "origin": "長野県産"
+    },
+    {
+     "title": "群馬県産 高原レタス 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "長野県産 高原レタス 2玉入",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 ロメインレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 228,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 フリルレタス 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 サラダ菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 158,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 グリーンリーフ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 178,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 水耕栽培 リーフレタス（根付き）1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 168,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_highland_lettuce_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_high_sugar_tomato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "高糖度トマト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "サラダ",
+    "カプレーゼ",
+    "冷やしトマト",
+    "お弁当",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "水分を控えて育てた、甘みとうまみがぎゅっと詰まったトマトです。そのまま冷やしトマトやカプレーゼにすると、素材の味をしっかり楽しめます。",
+   "image_brief": "A clear plastic pack of small deep-red high-sugar tomatoes with a gold label reading 「フルーツトマト」.",
+   "variants": [
+    {
+     "title": "高知県産 フルーツトマト 4〜6個入（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "高知県産"
+    },
+    {
+     "title": "高知県産 フルーツトマト 化粧箱 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 2480,
+     "origin": "高知県産"
+    },
+    {
+     "title": "静岡県産 高糖度トマト 1パック（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 698,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "熊本県産 塩トマト 1パック（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "愛知県産 ミディトマト 1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "国産 カラフルミニトマト ミックス 1パック（約180g）",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 高糖度ミニトマト 1パック（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_high_sugar_tomato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_sweet_potato_varieties",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "大学いも",
+    "焼き芋",
+    "天ぷら",
+    "豚汁",
+    "スイートポテト",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとり甘い安納芋やなめらかなシルクスイートなど、品種ごとの味わいを楽しめるさつまいもです。焼き芋や大学いも、さつまいもご飯など秋の食卓に大活躍します。",
+   "image_brief": "Several reddish-purple sweet potatoes in a brown paper bag with a label reading 「安納芋」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 安納芋 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 種子島 安納芋 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "茨城県産 シルクスイート 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "茨城県産 シルクスイート 約1kg 箱入",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 698,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "徳島県産 金時さつまいも 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 448,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "千葉県産 さつまいも（紅あずま）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 348,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "鹿児島県産 紫いも 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 448,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_sweet_potato_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_baked_sweet_potato",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "焼き芋"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当",
+    "スイートポテト",
+    "焼き芋"
+   ],
+   "tax_rate": 8,
+   "description": "店内でじっくり時間をかけて焼き上げた、蜜たっぷりの焼き芋です。温め直してそのままおやつに、冷やして朝ごはんやお弁当のデザートにもどうぞ。",
+   "image_brief": "A golden-brown baked sweet potato split open to show glossy yellow flesh in a paper bag with a label reading 「焼き芋」.",
+   "variants": [
+    {
+     "title": "[店内焼き上げ] 鹿児島県産 安納芋の焼き芋 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内焼き上げ] 鹿児島県産 安納芋の焼き芋 3本入",
+     "brand": "",
+     "size": "3本",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内焼き上げ] 茨城県産 紅はるかの焼き芋 1本（大）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 258,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "[店内焼き上げ] 茨城県産 紅はるかの焼き芋 ミニ 5本入",
+     "brand": "",
+     "size": "5本",
+     "price_tax_excluded": 498,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "[店内焼き上げ] 茨城県産 シルクスイートの焼き芋 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 278,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "[店内焼き上げ] 鹿児島県産 紫いもの焼き芋 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 278,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産 紅はるか 焼き芋 皮付き 個包装 2本入",
+     "brand": "トップバリュ",
+     "size": "2本",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_baked_sweet_potato_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_matsutake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "松茸"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "松茸ご飯",
+    "土瓶蒸し",
+    "焼き松茸",
+    "茶碗蒸し",
+    "すき焼き",
+    "お吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "秋の味覚の王様・松茸を、国産から手頃な輸入品までそろえました。松茸ご飯や土瓶蒸し、シンプルな焼き松茸で豊かな香りをお楽しみください。",
+   "image_brief": "Plump brown matsutake mushrooms nestled on green fern leaves in a shallow tray with a label reading 「松茸」.",
+   "variants": [
+    {
+     "title": "岩手県産 松茸 1本（約50g）",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 3980,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "長野県産 松茸 2本入（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 9800,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 松茸 化粧箱入 3本（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 14800,
+     "origin": "国産"
+    },
+    {
+     "title": "中国産 松茸 つぼみ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 1980,
+     "origin": "中国産"
+    },
+    {
+     "title": "中国産 松茸 開き 1パック（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1780,
+     "origin": "中国産"
+    },
+    {
+     "title": "カナダ産 松茸 1パック（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 2480,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "アメリカ産 松茸 1パック（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 2280,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_matsutake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_rare_mushrooms",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "珍しいきのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "バター醤油炒め",
+    "鍋",
+    "天ぷら",
+    "パスタ",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "本しめじやはなびらたけなど、いつもと少し違うきのこを集めました。炊き込みご飯や鍋、バター醤油炒めにすると、歯ごたえと香りの違いを楽しめます。",
+   "image_brief": "A clear tray of chunky light-brown hon-shimeji mushroom clusters wrapped in film with a label reading 「本しめじ」.",
+   "variants": [
+    {
+     "title": "長野県産 本しめじ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 本しめじ 大パック（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 はなびらたけ 1パック（約80g）",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 たもぎたけ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 298,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "国産 ひらたけ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 黒あわびたけ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 柳まつたけ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_rare_mushrooms_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kyo_yasai_root_vegetables",
+   "category_path": [
+    "野菜・果物",
+    "野菜",
+    "京野菜・伝統野菜"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ふろふき大根",
+    "千枚漬け",
+    "煮物",
+    "おでん",
+    "お雑煮",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "聖護院だいこんやえびいもなど、京料理でおなじみの伝統的な根菜です。煮崩れしにくく味がしみやすいので、ふろふき大根や炊き合わせ、お正月の煮しめにぴったりです。",
+   "image_brief": "A large round white Shogoin daikon radish with leaves trimmed, wrapped in film with a label reading 「聖護院だいこん」.",
+   "variants": [
+    {
+     "title": "京都府産 聖護院だいこん 1個（約1kg）",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 聖護院だいこん 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 228,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 聖護院かぶ 1個（約1kg）",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    },
+    {
+     "title": "静岡県産 えびいも 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "京都府産 えびいも 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 堀川ごぼう 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "京都府産"
+    },
+    {
+     "title": "京都府産 くわい 1パック（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 498,
+     "origin": "京都府産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kyo_yasai_root_vegetables_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_apple_early_fuji",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おやつ",
+    "サラダ",
+    "コンポート"
+   ],
+   "tax_rate": 8,
+   "description": "秋いちばんに出回る早生ふじは、さわやかな甘さとシャキッとした食感が魅力です。朝ごはんやお弁当のデザート、サラダのアクセントにどうぞ。",
+   "image_brief": "Two shiny red-striped apples in a clear plastic bag with a label reading 「早生ふじ」.",
+   "variants": [
+    {
+     "title": "青森県産 りんご（早生ふじ）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（早生ふじ）4〜5玉 袋入（約1.5kg）",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（早生ふじ）訳あり 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 998,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（早生ふじ）化粧箱 約3kg（8〜10玉）",
+     "brand": "",
+     "size": "約3kg",
+     "price_tax_excluded": 2980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長野県産 りんご（早生ふじ）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（早生ふじ）大玉 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 248,
+     "origin": "長野県産"
+    },
+    {
+     "title": "岩手県産 りんご（早生ふじ）3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 548,
+     "origin": "岩手県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_apple_early_fuji_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_apple_kogyoku",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "アップルパイ",
+    "焼きりんご",
+    "ジャム",
+    "コンポート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱさがはっきりした紅玉は、加熱しても煮崩れしにくくお菓子作りに最適です。アップルパイや焼きりんご、手作りジャムにおすすめです。",
+   "image_brief": "Small deep-crimson apples in a clear bag with a label reading 「紅玉」.",
+   "variants": [
+    {
+     "title": "長野県産 りんご（紅玉）1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 178,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（紅玉）3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 498,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（紅玉）お菓子作り用 訳あり 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 1180,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 りんご（紅玉）4玉 袋入",
+     "brand": "",
+     "size": "4玉",
+     "price_tax_excluded": 598,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（紅玉）約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "秋田県産 りんご（紅玉）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 348,
+     "origin": "秋田県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_apple_kogyoku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_apple_autumn_varieties",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おやつ",
+    "サラダ",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "シナノゴールドや王林、ぐんま名月など、秋に旬を迎える品種のりんごです。黄色系の上品な甘さや赤系の果汁感など、食べ比べも楽しめます。",
+   "image_brief": "A pair of golden-yellow apples in a clear plastic bag with a label reading 「シナノゴールド」.",
+   "variants": [
+    {
+     "title": "長野県産 りんご（シナノゴールド）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 448,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（シナノゴールド）4玉 袋入",
+     "brand": "",
+     "size": "4玉",
+     "price_tax_excluded": 798,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（秋映）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 りんご（王林）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（トキ）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 448,
+     "origin": "青森県産"
+    },
+    {
+     "title": "群馬県産 りんご（ぐんま名月）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 498,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "青森県産 りんご 赤・黄 食べ比べセット 4玉",
+     "brand": "",
+     "size": "4玉",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_apple_autumn_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_western_pear_varieties",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "洋梨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "コンポート",
+    "タルト",
+    "サラダ",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "とろけるような食感と芳醇な香りが楽しめる洋梨を品種別にご用意しました。追熟させて香りが強くなったら食べごろで、そのままでもコンポートやタルトにも合います。",
+   "image_brief": "A single golden-yellow pear wrapped in a foam net sleeve inside a gift box with a label reading 「ル レクチエ」.",
+   "variants": [
+    {
+     "title": "新潟県産 洋梨（ル レクチエ）1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "新潟県産 洋梨（ル レクチエ）2個 化粧箱",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 1580,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "山形県産 洋梨（オーロラ）2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 598,
+     "origin": "山形県産"
+    },
+    {
+     "title": "長野県産 洋梨（オーロラ）1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "山形県産 洋梨（シルバーベル）2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 548,
+     "origin": "山形県産"
+    },
+    {
+     "title": "山形県産 洋梨（バートレット）3個",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 598,
+     "origin": "山形県産"
+    },
+    {
+     "title": "青森県産 洋梨（ゼネラル・レクラーク）1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_western_pear_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_nashi_autumn_varieties",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "梨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "大玉で日持ちのよい新高や、甘みの強いあきづきなど、秋の梨を品種ごとにそろえました。冷やしてそのまま、またはお弁当のデザートにどうぞ。",
+   "image_brief": "Two large round russet-brown Japanese pears in foam net sleeves with a label reading 「新高」.",
+   "variants": [
+    {
+     "title": "新潟県産 梨（新高）1玉（大）",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 398,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "千葉県産 梨（新高）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 698,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "茨城県産 梨（あきづき）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 598,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "長野県産 梨（南水）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 648,
+     "origin": "長野県産"
+    },
+    {
+     "title": "鳥取県産 梨（二十世紀）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 548,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "鳥取県産 梨（二十世紀）5〜6玉 箱入（約2kg）",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 1980,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "栃木県産 梨（にっこり）1玉（大）",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 598,
+     "origin": "栃木県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_nashi_autumn_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kaki_varieties",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "柿の白和え",
+    "サラダ",
+    "なます",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "次郎柿や太秋柿、たねなし柿など、富有柿以外の秋の柿を集めました。そのまま食べるほか、白和えやサラダ、なますに加えると彩りと甘みが楽しめます。",
+   "image_brief": "Four squarish bright-orange persimmons in a clear bag with a label reading 「次郎柿」.",
+   "variants": [
+    {
+     "title": "静岡県産 次郎柿 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 298,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 次郎柿 4個 袋入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 548,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "福岡県産 太秋柿 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 498,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "和歌山県産 たねなし柿（刀根早生）4個 袋入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "山形県産 庄内柿 たねなし 6個 袋入",
+     "brand": "",
+     "size": "6個",
+     "price_tax_excluded": 598,
+     "origin": "山形県産"
+    },
+    {
+     "title": "奈良県産 たねなし柿 1.5kg 箱入",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 1280,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "国産 甘柿 詰め合わせ（富有・次郎・太秋）化粧箱 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kaki_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_grape_premium_varieties",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "おやつ",
+    "フルーツサンド",
+    "ヨーグルト",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "皮ごと食べられる品種や大粒の赤ぶどうなど、個性豊かなぶどうをそろえました。冷やしてそのままはもちろん、フルーツサンドやヨーグルトのトッピングにもおすすめです。",
+   "image_brief": "A large bunch of dark purple seedless grapes in a clear clamshell pack with a label reading 「ナガノパープル」.",
+   "variants": [
+    {
+     "title": "長野県産 ナガノパープル 1房（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1480,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 クイーンルージュ 1房（約450g）",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 1780,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 ぶどう 食べ比べ 3種セット（約1.2kg）",
+     "brand": "",
+     "size": "約1.2kg",
+     "price_tax_excluded": 3980,
+     "origin": "長野県産"
+    },
+    {
+     "title": "山梨県産 甲斐路 1房（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1280,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "山梨県産 ロザリオビアンコ 1房（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "岡山県産 瀬戸ジャイアンツ 1房（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1980,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "山形県産 デラウェア 2房入（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "山形県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_grape_premium_varieties_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_melon",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "メロン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "生ハムメロン",
+    "フルーツポンチ"
+   ],
+   "tax_rate": 8,
+   "description": "上品な香りのアールスメロンから、手頃な青肉・赤肉メロンまでそろえました。お尻がやわらかくなり香りが立ってきたら食べごろで、冷やしてデザートにどうぞ。",
+   "image_brief": "A round netted green melon with a T-shaped stem resting in a foam cradle inside a box with a label reading 「アールスメロン」.",
+   "variants": [
+    {
+     "title": "静岡県産 アールスメロン 1玉（約1.3kg）",
+     "brand": "",
+     "size": "約1.3kg",
+     "price_tax_excluded": 2980,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 アールスメロン 化粧箱 1玉（約1.5kg）",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 3980,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "高知県産 マスクメロン 1玉 化粧箱",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 4980,
+     "origin": "高知県産"
+    },
+    {
+     "title": "熊本県産 青肉メロン 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 798,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "茨城県産 青肉メロン 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 1580,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "茨城県産 赤肉メロン 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 898,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "北海道産 赤肉メロン 1玉（約1.5kg）",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_melon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_pineapple",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "dishes": [
+    "おやつ",
+    "酢豚",
+    "フルーツサラダ",
+    "ヨーグルト",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "甘みと酸味のバランスがよいパイナップルです。そのままデザートにするほか、酢豚やフルーツサラダ、ヨーグルトのトッピングにも使えます。",
+   "image_brief": "A whole golden pineapple with a green crown standing upright with a price tag label reading 「パイナップル」.",
+   "variants": [
+    {
+     "title": "フィリピン産 パイナップル 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "フィリピン産 高地栽培 パイナップル 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 598,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "コスタリカ産 ゴールデンパイン 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 498,
+     "origin": "コスタリカ産"
+    },
+    {
+     "title": "台湾産 パイナップル（金鑚）1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 698,
+     "origin": "台湾産"
+    },
+    {
+     "title": "沖縄県産 スナックパイン 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 1280,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 パイナップル（ゴールドバレル）1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 1980,
+     "origin": "沖縄県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_pineapple_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_orange",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "オレンジ・輸入柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "おやつ",
+    "フルーツサラダ",
+    "ゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "果汁たっぷりのバレンシアオレンジや、甘みの強いネーブルオレンジです。朝ごはんやお弁当のデザートに、手作りゼリーやフルーツサラダにもどうぞ。",
+   "image_brief": "Four bright orange oranges in a red mesh bag with a label reading 「オレンジ」.",
+   "variants": [
+    {
+     "title": "アメリカ産 バレンシアオレンジ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 バレンシアオレンジ 4個 袋入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 バレンシアオレンジ 箱入 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 1280,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "南アフリカ産 バレンシアオレンジ 3個",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "オーストラリア産 ネーブルオレンジ 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 358,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "アメリカ産 ネーブルオレンジ 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "南アフリカ産 ブラッドオレンジ 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "南アフリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_orange_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_fig",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちじく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "おやつ",
+    "生ハム添え",
+    "コンポート",
+    "サラダ",
+    "甘露煮"
+   ],
+   "tax_rate": 8,
+   "description": "やさしい甘さととろりとした食感が魅力の、旬のいちじくです。皮ごとそのまま、または生ハムやサラダと合わせて、コンポートや甘露煮にもおすすめです。",
+   "image_brief": "Four plump reddish-purple figs nestled in a clear plastic tray with a label reading 「いちじく」.",
+   "variants": [
+    {
+     "title": "愛知県産 いちじく 4個入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 498,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "愛知県産 いちじく 訳あり ジャム用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 598,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "福岡県産 いちじく（とよみつひめ）4個入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 698,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "和歌山県産 いちじく 6個入",
+     "brand": "",
+     "size": "6個",
+     "price_tax_excluded": 698,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "大阪府産 いちじく 2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 298,
+     "origin": "大阪府産"
+    },
+    {
+     "title": "兵庫県産 黒いちじく（ビオレソリエス）2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 598,
+     "origin": "兵庫県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_fig_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kurobuta_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "銘柄豚・黒豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "とんかつ",
+    "豚の生姜焼き",
+    "豚汁",
+    "角煮",
+    "野菜炒め"
+   ],
+   "tax_rate": 8,
+   "description": "きめ細かな肉質と甘みのある脂が特長の鹿児島県産黒豚です。しゃぶしゃぶやとんかつ、生姜焼きなど、いつもの豚肉料理をワンランク上の味わいに仕上げます。",
+   "image_brief": "Neatly layered thin slices of pink pork loin with white fat on a black tray wrapped in film with a label reading 「鹿児島県産 黒豚」.",
+   "variants": [
+    {
+     "title": "鹿児島県産 黒豚 ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 バラ 薄切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 バラ ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1280,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 肩ロース とんかつ用 2枚（約240g）",
+     "brand": "",
+     "size": "約240g",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 こま切れ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kurobuta_pork_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_iberico_pork",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "輸入ブランド豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ポークソテー",
+    "焼肉",
+    "しゃぶしゃぶ",
+    "とんかつ",
+    "ステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "スペイン産のイベリコ豚は、霜降りの入ったジューシーな肉質と香りのよい脂が魅力です。塩こしょうでシンプルに焼くだけでごちそうになり、焼肉やしゃぶしゃぶにもおすすめです。",
+   "image_brief": "Marbled rosy Iberico pork steaks on a black tray wrapped in film with a label reading 「スペイン産 イベリコ豚」.",
+   "variants": [
+    {
+     "title": "スペイン産 イベリコ豚 肩ロース 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "スペイン産 イベリコ豚 ロース ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "スペイン産 イベリコ豚 ベジョータ 肩ロース ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 1280,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "スペイン産 イベリコ豚 バラ しゃぶしゃぶ用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "スペイン産 イベリコ豚 セクレト 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 998,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "スペイン産 イベリコ豚 こま切れ 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_iberico_pork_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_tasmanian_beef",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（タスマニア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "焼肉",
+    "すき焼き",
+    "牛丼",
+    "肉じゃが",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "豊かな自然の中で育てられた、赤身のうまみがしっかりしたタスマニア産の牛肉です。ステーキや焼肉はもちろん、すき焼きや牛丼など家族のごはんにも使いやすい部位をそろえました。",
+   "image_brief": "A thick red beef steak with a thin rim of fat on a black tray wrapped in film with a label reading 「タスマニア産 牛肉」.",
+   "variants": [
+    {
+     "title": "タスマニア産 牛肩ロース ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 898,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛肩ロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛サーロイン ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1280,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛リブロース ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1380,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛ヒレ ステーキ用 1枚（約130g）",
+     "brand": "",
+     "size": "約130g",
+     "price_tax_excluded": 1480,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛もも 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "タスマニア産"
+    },
+    {
+     "title": "タスマニア産 牛切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "タスマニア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_tasmanian_beef_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kuroge_wagyu_premium",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "しゃぶしゃぶ",
+    "ステーキ",
+    "焼肉",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "きめ細かな霜降りととろけるような口どけが楽しめる黒毛和牛です。特別な日のすき焼きやしゃぶしゃぶ、ステーキにおすすめです。",
+   "image_brief": "Beautifully marbled thin wagyu slices fanned out on a gold-trimmed tray wrapped in film with a label reading 「黒毛和牛」.",
+   "variants": [
+    {
+     "title": "宮崎県産 黒毛和牛 肩ロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2980,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 もも しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1680,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "岩手県産 黒毛和牛 肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 サーロイン ステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 3480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 ヒレ ステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 3980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 カルビ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "国産 黒毛和牛 もも 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kuroge_wagyu_premium_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_jidori_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "炭火焼",
+    "親子丼",
+    "水炊き",
+    "唐揚げ",
+    "照り焼き"
+   ],
+   "tax_rate": 8,
+   "description": "しっかりとした歯ごたえと濃いうまみが特長の地鶏です。炭火焼や照り焼きはもちろん、水炊きや親子丼にすると鶏本来の味わいが引き立ちます。",
+   "image_brief": "A whole skin-on chicken thigh with golden skin on a tray wrapped in film with a label reading 「地鶏 もも肉」.",
+   "variants": [
+    {
+     "title": "宮崎県産 地鶏 もも肉 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 898,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "宮崎県産 地鶏 むね肉 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "秋田県産 地鶏 もも 鍋用 ぶつ切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "徳島県産 地鶏 手羽元 6本入（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 798,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "愛知県産 地鶏 ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "岩手県産 銘柄鶏 もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "国産 地鶏 水炊き用 骨付きぶつ切り 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_jidori_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_whole_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "丸鶏・鶏ガラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストチキン",
+    "参鶏湯",
+    "水炊き",
+    "鶏ガラスープ",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "クリスマスのローストチキンや参鶏湯に使える丸鶏と、スープ作りに便利な鶏ガラです。じっくり煮出せば、ラーメンや鍋のおいしいスープがとれます。",
+   "image_brief": "A whole plucked chicken trussed on a large tray wrapped in film with a label reading 「丸鶏 中抜き」.",
+   "variants": [
+    {
+     "title": "国産 若鶏 丸鶏 中抜き 1羽（約1.2kg）",
+     "brand": "",
+     "size": "約1.2kg",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 丸鶏 中抜き 1羽（約1.8kg）",
+     "brand": "",
+     "size": "約1.8kg",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 丸鶏 半身 骨付き（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ひな鶏 丸鶏 中抜き 1羽（約800g）",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 地鶏 丸鶏 中抜き 1羽（約1.5kg）",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 3480,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏ガラ 2羽分（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏もみじ（足）500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_whole_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_lamb",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "ラム肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ジンギスカン",
+    "ラムチョップのグリル",
+    "焼肉",
+    "カレー",
+    "香草焼き"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかくくせの少ないラム肉です。ジンギスカンや焼肉はもちろん、骨付きのラムチョップは塩こしょうとハーブで焼くだけで華やかな一品になります。",
+   "image_brief": "Frenched lamb chops with pink meat and white bones arranged on a black tray wrapped in film with a label reading 「ラムチョップ」.",
+   "variants": [
+    {
+     "title": "オーストラリア産 ラムチョップ 4本入（約280g）",
+     "brand": "",
+     "size": "約280g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ニュージーランド産 ラムチョップ 6本入（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1580,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "オーストラリア産 ラム肩ロース 薄切り ジンギスカン用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 ラムもも ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 ラム角切り カレー用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ニュージーランド産 ラム肩ロース 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "北海道産 ラム肩ロース 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_lamb_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_fresh_aigamo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ラム・その他の肉",
+    "合鴨・鴨肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鴨鍋",
+    "鴨南蛮そば",
+    "鴨ロースト",
+    "年越しそば",
+    "鴨ねぎ"
+   ],
+   "tax_rate": 8,
+   "description": "うまみの濃い脂が魅力の合鴨肉です。皮目をこんがり焼いた鴨ロースや、鴨南蛮そば、ねぎと合わせた鴨鍋で冬のごちそうに。",
+   "image_brief": "A whole duck breast with a thick layer of white skin on a tray wrapped in film with a label reading 「合鴨ロース」.",
+   "variants": [
+    {
+     "title": "国産 合鴨ロース 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 合鴨ロース 鴨鍋用 スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 合鴨もも 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 合鴨 つくね 鍋用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "タイ産 合鴨ロース 1枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 798,
+     "origin": "タイ産"
+    },
+    {
+     "title": "タイ産 合鴨ロース 鴨南蛮用 スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "タイ産"
+    },
+    {
+     "title": "フランス産 鴨むね肉（マグレ）1枚（約350g）",
+     "brand": "",
+     "size": "約350g",
+     "price_tax_excluded": 1980,
+     "origin": "フランス産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_fresh_aigamo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_sashimi_assortment",
+   "category_path": [
+    "お魚・水産加工品",
+    "お刺身",
+    "刺身盛り合わせ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "夕ごはん",
+    "お祝い",
+    "手巻き寿司",
+    "海鮮丼"
+   ],
+   "tax_rate": 8,
+   "description": "その日仕入れた鮮魚を店内で切りつけた、甘えび入りの刺身盛り合わせです。夕ごはんのもう一品や晩酌、家族のお祝いの食卓にどうぞ。",
+   "image_brief": "A black plastic sashimi platter with slices of red tuna, orange salmon, yellowtail and sweet shrimp garnished with shiso and daikon, label reading 「刺身盛り合わせ」.",
+   "variants": [
+    {
+     "title": "[店内加工] 刺身盛り合わせ 2点盛（サーモン・甘えび）1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 刺身盛り合わせ 3点盛（まぐろ・サーモン・甘えび）1〜2人前",
+     "brand": "",
+     "size": "1〜2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 刺身盛り合わせ 5点盛（まぐろ・サーモン・ぶり・甘えび・いか）2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1780,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 刺身盛り合わせ 7点盛 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2780,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 本まぐろ入り 刺身盛り合わせ 5点盛 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 地魚入り 刺身盛り合わせ 4点盛（ぼたんえび入り）2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] お祝い 舟盛り 刺身盛り合わせ 9点盛 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 4980,
+     "origin": "国内加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_sashimi_assortment_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_kaisendon_set",
+   "category_path": [
+    "お魚・水産加工品",
+    "お刺身",
+    "海鮮丼・手巻き寿司用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "海鮮丼",
+    "手巻き寿司",
+    "ちらし寿司",
+    "晩酌",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "温かいご飯や酢飯にのせるだけで海鮮丼が楽しめる、えび・かに不使用の刺身セットです。手巻き寿司パーティーやちらし寿司にも便利です。",
+   "image_brief": "A clear-lidded tray with diced tuna, salmon cubes and glistening salmon roe arranged in sections, label reading 「海鮮丼の具」.",
+   "variants": [
+    {
+     "title": "[店内加工] 海鮮丼の具（まぐろ・サーモン・いくら）1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 海鮮丼の具（まぐろ・サーモン・ぶり・ほたて）2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1580,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 手巻き寿司セット（まぐろ・サーモン・ねぎとろ・いか）3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] まぐろ・サーモン 二色丼の具 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 漬けまぐろ丼の具 たれ付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] サーモンいくら親子丼の具 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内加工] 刺身切り落とし 海鮮ちらし用 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "国内加工"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_kaisendon_set_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_tachiuo",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚・切り身",
+    "太刀魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "塩焼き",
+    "ムニエル",
+    "煮付け",
+    "天ぷら",
+    "蒲焼き"
+   ],
+   "tax_rate": 8,
+   "description": "銀色に輝く皮と、ふっくらやわらかな白身が特長の太刀魚です。塩焼きやムニエル、甘辛い煮付けや蒲焼きにすると、ご飯がすすむおかずになります。",
+   "image_brief": "Shiny silver ribbonfish fillets laid on a white tray wrapped in film with a label reading 「太刀魚 切り身」.",
+   "variants": [
+    {
+     "title": "和歌山県産 生太刀魚 切り身 2切（約160g）",
+     "brand": "",
+     "size": "約160g",
+     "price_tax_excluded": 698,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "和歌山県産 太刀魚 開き 一夜干し 2枚",
+     "brand": "",
+     "size": "2枚",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "和歌山県産 生太刀魚 刺身用 さく 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "大分県産 生太刀魚 切り身 3切（約240g）",
+     "brand": "",
+     "size": "約240g",
+     "price_tax_excluded": 898,
+     "origin": "大分県産"
+    },
+    {
+     "title": "愛媛県産 生太刀魚 1尾（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "長崎県産 生太刀魚 筒切り 煮付け用 4切（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 898,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_tachiuo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_saba_nitsuke_cut",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚・切り身",
+    "さば（煮付け用・丸）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "さばの生姜煮",
+    "さばの味噌煮",
+    "竜田揚げ",
+    "塩焼き",
+    "煮付け"
+   ],
+   "tax_rate": 8,
+   "description": "脂がのった旬の真さばを、生姜煮や味噌煮にしやすい筒切りなどにカットしました。骨付きのまま煮ると身がふっくら仕上がり、竜田揚げ用の骨取りカットはお弁当にも便利です。",
+   "image_brief": "Thick bone-in mackerel steaks with blue-silver skin on a tray wrapped in film with a label reading 「さば 生姜煮用」.",
+   "variants": [
+    {
+     "title": "長崎県産 生真さば 生姜煮用 筒切り 4切（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 生ごまさば 煮付け用 筒切り 4切（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "千葉県産 生真さば 煮付け用 骨付き 4切（約320g）",
+     "brand": "",
+     "size": "約320g",
+     "price_tax_excluded": 548,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 生真さば 竜田揚げ用 骨取り 一口カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "宮城県産 生真さば 1尾（約450g）",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生真さば 特大 1尾（約700g）",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 798,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生真さば 半身 三枚おろし 2枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 698,
+     "origin": "宮城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_saba_nitsuke_cut_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_nodoguro",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚・切り身",
+    "のどぐろ・高級魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "塩焼き",
+    "煮付け",
+    "炙り刺身",
+    "一夜干し",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "白身のトロとも呼ばれる、上品な脂がのったのどぐろ（あかむつ）です。シンプルな塩焼きや煮付けで、特別な日の食卓を彩ります。",
+   "image_brief": "A whole bright-red rosy seabass with large eyes on a white tray wrapped in film with a label reading 「のどぐろ」.",
+   "variants": [
+    {
+     "title": "島根県産 のどぐろ（あかむつ）1尾（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1980,
+     "origin": "島根県産"
+    },
+    {
+     "title": "島根県産 のどぐろ 切り身 2切（約120g）",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 1580,
+     "origin": "島根県産"
+    },
+    {
+     "title": "島根県産 のどぐろ 炙り刺身用 半身 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 1780,
+     "origin": "島根県産"
+    },
+    {
+     "title": "石川県産 のどぐろ 1尾（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 2980,
+     "origin": "石川県産"
+    },
+    {
+     "title": "長崎県産 のどぐろ 開き 一夜干し 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 のどぐろ 小ぶり 2尾（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 1980,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_nodoguro_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_modori_katsuo_sashimi",
+   "category_path": [
+    "お魚・水産加工品",
+    "お刺身",
+    "かつお"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "かつおの刺身",
+    "漬け丼",
+    "カルパッチョ",
+    "晩酌",
+    "竜田揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "秋に南下してくる戻りがつおは、脂がのってもっちりとした食感が魅力です。しょうがやにんにくを添えた刺身や、漬け丼、カルパッチョでお楽しみください。",
+   "image_brief": "A deep-red skinless bonito loin block on a white tray with shiso leaves wrapped in film, label reading 「戻りがつお 刺身用」.",
+   "variants": [
+    {
+     "title": "宮城県産 戻りがつお 刺身用 さく 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 798,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 戻りがつお 刺身用 さく 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1180,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 戻りがつお 刺身 切り落とし 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 598,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 戻りがつお 刺身 薬味付き 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 生かつお 1/4身（背）約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1280,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "千葉県産 戻りがつお 刺身用 皮付き さく 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 798,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "三重県産 戻りがつお 刺身用 さく 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 798,
+     "origin": "三重県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_modori_katsuo_sashimi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_white_fish_sashimi",
+   "category_path": [
+    "お魚・水産加工品",
+    "お刺身",
+    "白身魚・ひかりもの刺身"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "刺身",
+    "カルパッチョ",
+    "昆布締め",
+    "手巻き寿司",
+    "海鮮丼"
+   ],
+   "tax_rate": 8,
+   "description": "ひらめやかんぱち、真鯛など、さっぱりと食べやすい白身魚とひかりものの刺身用さくです。お好みの厚さに切ってお刺身に、カルパッチョや昆布締めにもおすすめです。",
+   "image_brief": "A translucent white fish sashimi block on a white tray with a shiso leaf wrapped in film, label reading 「ひらめ 刺身用」.",
+   "variants": [
+    {
+     "title": "青森県産 ひらめ 刺身用 さく 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 798,
+     "origin": "青森県産"
+    },
+    {
+     "title": "大分県産 養殖ひらめ 刺身 薄造り 約80g",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 698,
+     "origin": "大分県産"
+    },
+    {
+     "title": "鹿児島県産 養殖かんぱち 刺身用 さく 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 刺身用 さく 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 養殖真鯛 刺身 切り落とし 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 498,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "長崎県産 養殖しまあじ 刺身用 さく 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 898,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 真あじ 刺身用 たたき 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 498,
+     "origin": "長崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_white_fish_sashimi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_gindara_fillet",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚・切り身",
+    "銀だら"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "煮付け",
+    "照り焼き",
+    "塩焼き",
+    "ムニエル",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "脂がのってとろけるようにやわらかい銀だらの切り身です。甘辛い煮付けや照り焼きにすると、子どもから大人まで喜ばれるおかずになります。",
+   "image_brief": "Thick white black-cod fillets with dark skin on a tray wrapped in film with a label reading 「銀だら 切り身」.",
+   "variants": [
+    {
+     "title": "アラスカ産 銀だら 切り身 2切（約160g）",
+     "brand": "",
+     "size": "約160g",
+     "price_tax_excluded": 998,
+     "origin": "アラスカ産"
+    },
+    {
+     "title": "アラスカ産 銀だら 切り身 3切（約240g）",
+     "brand": "",
+     "size": "約240g",
+     "price_tax_excluded": 1480,
+     "origin": "アラスカ産"
+    },
+    {
+     "title": "アラスカ産 銀だら 煮付け用 4切（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1580,
+     "origin": "アラスカ産"
+    },
+    {
+     "title": "アラスカ産 銀だら かま 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "アラスカ産"
+    },
+    {
+     "title": "カナダ産 銀だら 切り身 大切り 2切（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1180,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "カナダ産 銀だら 甘塩 切り身 2切（約160g）",
+     "brand": "",
+     "size": "約160g",
+     "price_tax_excluded": 1080,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_gindara_fillet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_hon_maguro_toro",
+   "category_path": [
+    "お魚・水産加工品",
+    "お刺身",
+    "本まぐろ・とろ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "刺身",
+    "鉄火丼",
+    "手巻き寿司",
+    "お祝い",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "とろける口どけの中とろや大とろなど、本まぐろ・みなみまぐろの刺身用さくです。お祝いの手巻き寿司や鉄火丼、晩酌のお刺身に贅沢な一品をどうぞ。",
+   "image_brief": "A pale-pink marbled tuna belly sashimi block on a black tray with a shiso leaf wrapped in film, label reading 「本まぐろ 中とろ」.",
+   "variants": [
+    {
+     "title": "長崎県産 養殖本まぐろ 中とろ 刺身用 さく 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 1580,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 養殖本まぐろ 大とろ 刺身用 さく 約80g",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 2280,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 養殖本まぐろ 赤身 刺身用 さく 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 1180,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 養殖本まぐろ 中とろ すき身 約80g",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 980,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "和歌山県産 養殖本まぐろ 中とろ・赤身 刺身盛り 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 1980,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "青森県産 天然本まぐろ 中とろ 刺身用 さく 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 3480,
+     "origin": "青森県産"
+    },
+    {
+     "title": "インド洋産 みなみまぐろ 中とろ 刺身用 さく 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 1480,
+     "origin": "インド洋産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_hon_maguro_toro_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_raw_oyster_shell",
+   "category_path": [
+    "お魚・水産加工品",
+    "貝類",
+    "かき（生食用・殻付き）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "生がき",
+    "焼きがき",
+    "かきフライ",
+    "かき鍋",
+    "かきご飯"
+   ],
+   "tax_rate": 8,
+   "description": "生でも食べられる生食用むき身や、焼きがきが楽しめる殻付きのかきです。レモンやぽん酢で生がきに、殻付きはグリルやレンジで手軽に焼きがきにどうぞ。",
+   "image_brief": "Rough-shelled whole oysters lined up in a foam tray wrapped in film with a label reading 「殻付きかき 生食用」.",
+   "variants": [
+    {
+     "title": "宮城県産 生かき むき身 生食用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 798,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "宮城県産 殻付きかき 生食用 3個入",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 898,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "岩手県産 生かき むき身 生食用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "岩手県産 殻付きかき 生食用 大粒 2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 798,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "北海道産 殻付きかき 生食用 5個入",
+     "brand": "",
+     "size": "5個",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "広島県産 殻付きかき 加熱用 5個入",
+     "brand": "",
+     "size": "5個",
+     "price_tax_excluded": 898,
+     "origin": "広島県産"
+    },
+    {
+     "title": "三重県産 殻付きかき 加熱用 10個入",
+     "brand": "",
+     "size": "10個",
+     "price_tax_excluded": 1580,
+     "origin": "三重県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_raw_oyster_shell_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_fresh_premium_hairy_crab",
+   "category_path": [
+    "お魚・水産加工品",
+    "えび・かに",
+    "毛がに・たらばがに"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "かに"
+   ],
+   "season_months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "かに鍋",
+    "かに雑炊",
+    "晩酌",
+    "年末年始",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "濃厚なかにみそが楽しめる毛がにと、食べごたえのあるたらばがにです。解凍してそのまま、またはかに鍋や雑炊にして年末年始のごちそうにどうぞ。",
+   "image_brief": "A whole boiled red hairy crab in a clear vacuum bag on a black tray with a label reading 「ボイル毛がに」.",
+   "variants": [
+    {
+     "title": "北海道産 ボイル毛がに 1尾（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 3980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 ボイル毛がに 1尾（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 5980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 ボイル毛がに 2尾セット（約800g）",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 7980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 毛がに むき身 ほぐし 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ロシア産 ボイルたらばがに 脚 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 8980,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 ボイルたらばがに カット済み 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 5980,
+     "origin": "ロシア産"
+    },
+    {
+     "title": "ロシア産 たらばがに しゃぶしゃぶ用 生 ポーション 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 4980,
+     "origin": "ロシア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_fresh_premium_hairy_crab_p.jpg"
+   ]
+  }
+ ]
+}

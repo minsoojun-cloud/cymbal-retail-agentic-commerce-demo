@@ -1,0 +1,1249 @@
+{
+ "category_key": "staple",
+ "items": [
+  {
+   "base_id": "staple_niigata_koshihikari",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "新米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "今年収穫したばかりの新潟県産コシヒカリの新米です。炊き上がりのつやと甘み、もちもちとした粘りが際立ち、焼き魚やお味噌汁など毎日の和食をぐっと引き立てます。ご家族で食べやすい2kgと、たっぷり使える5kgをご用意しました。",
+   "images": [
+    "staple_niigata_koshihikari_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "【新米】令和8年産 新潟県産 コシヒカリ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4280,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "【新米】令和8年産 新潟県産 コシヒカリ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1880,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "【新米】トップバリュ セレクト 新潟県魚沼産 コシヒカリ 2kg",
+     "brand": "トップバリュ セレクト",
+     "size": "2kg",
+     "price_tax_excluded": 2680,
+     "origin": "新潟県魚沼産"
+    },
+    {
+     "title": "【新米】令和8年産 新潟県佐渡産 コシヒカリ 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 4580,
+     "origin": "新潟県佐渡産"
+    }
+   ],
+   "cc_images": [
+    "staple_niigata_koshihikari_1.jpg",
+    "staple_niigata_koshihikari_2.jpg"
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "炊き込みご飯",
+    "丼もの",
+    "お寿司"
+   ]
+  },
+  {
+   "base_id": "staple_akita_komachi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "新米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "秋田県産あきたこまちの新米は、粒立ちがよくあっさりとした上品な甘みが特長です。冷めてもおいしいので、お弁当やおにぎりにもぴったり。毎日のごはんに使いやすい定番銘柄です。",
+   "images": [
+    "staple_akita_komachi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "【新米】令和8年産 秋田県産 あきたこまち 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3980,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "【新米】令和8年産 秋田県産 あきたこまち 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1780,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "【新米】トップバリュ 秋田県産 あきたこまち 10kg",
+     "brand": "トップバリュ",
+     "size": "10kg",
+     "price_tax_excluded": 7680,
+     "origin": "秋田県産"
+    }
+   ],
+   "cc_images": [
+    "staple_akita_komachi_1.jpg",
+    "staple_akita_komachi_2.jpg"
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "お弁当",
+    "カレーライス",
+    "炊き込みご飯"
+   ]
+  },
+  {
+   "base_id": "staple_hokkaido_nanatsuboshi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "新米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "北海道の澄んだ空気と寒暖差の中で育ったななつぼしの新米です。ほどよい粘りとさっぱりした後味で、カレーや丼ものなどおかずを選ばず楽しめます。お求めやすさも魅力の人気銘柄です。",
+   "images": [
+    "staple_hokkaido_nanatsuboshi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "【新米】令和8年産 北海道産 ななつぼし 5kg",
+     "brand": "",
+     "size": "5kg",
+     "price_tax_excluded": 3880,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】令和8年産 北海道産 ななつぼし 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】トップバリュ 北海道産 ななつぼし 5kg",
+     "brand": "トップバリュ",
+     "size": "5kg",
+     "price_tax_excluded": 3780,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [
+    "staple_hokkaido_nanatsuboshi_1.jpg"
+   ],
+   "dishes": [
+    "白ごはん",
+    "おにぎり",
+    "丼もの",
+    "お寿司",
+    "チャーハン"
+   ]
+  },
+  {
+   "base_id": "staple_musenmai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "無洗米"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "研がずにそのまま水を加えて炊ける無洗米です。忙しい朝や仕事帰りでもすぐに炊飯でき、とぎ汁も出ないので時短にもうれしいお米です。ふっくらとした炊き上がりで毎日のごはんにおすすめです。",
+   "images": [
+    "staple_musenmai_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 無洗米 国産 ブレンド米 5kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5kg",
+     "price_tax_excluded": 3480,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 無洗米 青森県産 まっしぐら 5kg",
+     "brand": "トップバリュ",
+     "size": "5kg",
+     "price_tax_excluded": 3680,
+     "origin": "青森県産"
+    },
+    {
+     "title": "トップバリュ 無洗米 北海道産 ゆめぴりか 2kg",
+     "brand": "トップバリュ",
+     "size": "2kg",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【新米】無洗米 秋田県産 あきたこまち 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1880,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機栽培米 無洗米 2kg",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "2kg",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "staple_musenmai_1.jpg"
+   ],
+   "dishes": [
+    "白ごはん",
+    "カレーライス",
+    "お弁当",
+    "炊き込みご飯",
+    "チャーハン"
+   ]
+  },
+  {
+   "base_id": "staple_pack_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お米",
+    "パックご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "電子レンジで温めるだけで、炊きたてのようなふっくらごはんが味わえるパックご飯です。国産米100%使用で、忙しい日のお夕飯やお弁当、ストック用にも便利。ご家族の人数に合わせて選べるサイズをそろえました。",
+   "images": [
+    "staple_pack_rice_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ごはん 国産米100% 200g×3食",
+     "brand": "トップバリュ",
+     "size": "200g×3",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ごはん 国産米100% 200g×10食",
+     "brand": "トップバリュ",
+     "size": "200g×10",
+     "price_tax_excluded": 958,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス ごはん 180g×5食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g×5",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 大盛ごはん 300g×3食",
+     "brand": "トップバリュ",
+     "size": "300g×3",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産コシヒカリごはん 180g×3食",
+     "brand": "トップバリュ セレクト",
+     "size": "180g×3",
+     "price_tax_excluded": 398,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "トップバリュ 発芽玄米入りごはん 160g×3食",
+     "brand": "トップバリュ",
+     "size": "160g×3",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "staple_pack_rice_1.jpg",
+    "staple_pack_rice_2.jpg"
+   ],
+   "dishes": [
+    "白ごはん",
+    "お茶漬け",
+    "雑炊",
+    "チャーハン",
+    "丼もの"
+   ]
+  },
+  {
+   "base_id": "staple_chilled_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "もちもちとしたコシが楽しめる冷蔵ゆでうどんです。温めるだけですぐに食べられるので、かけうどんや焼きうどん、鍋の〆にも大活躍。忙しい日の時短ごはんにおすすめです。",
+   "images": [
+    "staple_chilled_udon_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ゆでうどん 180g×3食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g×3",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 讃岐うどん 200g×3食",
+     "brand": "トップバリュ",
+     "size": "200g×3",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産小麦使用 ゆでうどん 200g×3食",
+     "brand": "トップバリュ",
+     "size": "200g×3",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋焼きうどん用 太うどん 200g×2食",
+     "brand": "トップバリュ",
+     "size": "200g×2",
+     "price_tax_excluded": 138,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ かけうどん つゆ付 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 198,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_chilled_udon_1.jpg",
+    "staple_chilled_udon_2.jpg"
+   ],
+   "dishes": [
+    "かけうどん",
+    "きつねうどん",
+    "焼きうどん",
+    "カレーうどん",
+    "鍋のシメ"
+   ]
+  },
+  {
+   "base_id": "staple_dried_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "そば",
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "そば粉の豊かな香りとのどごしのよさが楽しめる乾麺そばです。ざるそばはもちろん、温かいかけそばや天ぷらそばにもよく合います。常温で長く保存できるのでストックにも便利です。",
+   "images": [
+    "staple_dried_soba_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 信州そば 乾麺 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス そば 乾麺 360g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "360g",
+     "price_tax_excluded": 128,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 十割そば 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 二八そば 乾麺 270g",
+     "brand": "トップバリュ",
+     "size": "270g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 新そば 北海道産そば粉使用 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 258,
+     "origin": "北海道産そば粉使用"
+    }
+   ],
+   "cc_images": [
+    "staple_dried_soba_1.jpg",
+    "staple_dried_soba_2.jpg"
+   ],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "天ぷらそば",
+    "年越しそば",
+    "とろろそば"
+   ]
+  },
+  {
+   "base_id": "staple_spaghetti",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "パスタ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "デュラム小麦のセモリナを100%使用したスパゲッティです。アルデンテに茹で上げれば、ソースとよく絡むもっちりとした食感に。ミートソースから和風パスタまで、毎日のメニューに使いやすい定番品です。",
+   "images": [
+    "staple_spaghetti_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス スパゲッティ 1.6mm 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 258,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スパゲッティ 1.6mm 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スパゲッティ 1.4mm 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 早ゆでスパゲッティ 3分 1.6mm 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ スパゲッティ 1.8mm 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 168,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック スパゲッティ 1.6mm 500g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    }
+   ],
+   "cc_images": [
+    "staple_spaghetti_1.jpg",
+    "staple_spaghetti_2.jpg"
+   ],
+   "dishes": [
+    "ナポリタン",
+    "ミートソース",
+    "カルボナーラ",
+    "和風パスタ",
+    "たらこパスタ"
+   ]
+  },
+  {
+   "base_id": "staple_bag_ramen",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタント食品",
+    "袋麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "お鍋ひとつで手早く作れる袋入りラーメンです。しょうゆ、みそ、しお、とんこつの定番の味をそろえました。野菜やたまごを加えれば、ボリュームのある一杯に仕上がります。",
+   "images": [
+    "staple_bag_ramen_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス しょうゆラーメン 5食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5食",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス みそラーメン 5食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5食",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス しおラーメン 5食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5食",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ とんこつラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 札幌風 みそラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 328,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 醤油らーめん 生麺仕立て 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "3食",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_bag_ramen_1.jpg",
+    "staple_bag_ramen_2.jpg"
+   ],
+   "dishes": [
+    "しょうゆラーメン",
+    "野菜ラーメン",
+    "卵とじラーメン",
+    "鍋のシメ"
+   ]
+  },
+  {
+   "base_id": "staple_yakisoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "麺類",
+    "焼きそば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "香ばしいソースがよく絡む蒸し焼きそば麺の3食パックです。豚肉とキャベツを炒め合わせるだけで、手早くボリュームのある一品に。休日のお昼ごはんや夕食のもう一品にぴったりです。",
+   "images": [
+    "staple_yakisoba_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 蒸し焼きそば ソース付 3食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g×3",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 太麺 焼きそば ソース付 3食入",
+     "brand": "トップバリュ",
+     "size": "170g×3",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 塩焼きそば 3食入",
+     "brand": "トップバリュ",
+     "size": "150g×3",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 焼きそば麺 ソースなし 3食入",
+     "brand": "トップバリュ",
+     "size": "150g×3",
+     "price_tax_excluded": 128,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_yakisoba_1.jpg",
+    "staple_yakisoba_2.jpg"
+   ],
+   "dishes": [
+    "ソース焼きそば",
+    "塩焼きそば",
+    "オムそば",
+    "焼きそばパン"
+   ]
+  },
+  {
+   "base_id": "staple_kirimochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お餅",
+    "切り餅"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "国産水稲もち米を100%使用した切り餅です。焼けばぷっくりとふくらみ、のびのよいもちもち食感が楽しめます。磯辺焼きやお雑煮、ぜんざいなどに使いやすい個包装タイプです。",
+   "images": [
+    "staple_kirimochi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産水稲もち米100% 切り餅 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産水稲もち米100% 切り餅 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産こがねもち 切り餅 700g",
+     "brand": "トップバリュ セレクト",
+     "size": "700g",
+     "price_tax_excluded": 898,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 切り餅 個包装 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_kirimochi_1.jpg",
+    "staple_kirimochi_2.jpg"
+   ],
+   "dishes": [
+    "お雑煮",
+    "磯辺焼き",
+    "きなこもち",
+    "おしるこ",
+    "力うどん"
+   ]
+  },
+  {
+   "base_id": "staple_dried_wakame",
+   "category_path": [
+    "お米・麺・インスタント",
+    "乾物・ごはんのお供",
+    "乾燥わかめ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "水で戻すだけで使える乾燥わかめです。お味噌汁やスープ、酢の物、サラダに少し加えるだけで彩りと磯の香りがプラスされます。常備しておくと毎日の和食づくりに重宝します。",
+   "images": [
+    "staple_dried_wakame_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 三陸産 カットわかめ 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "三陸産"
+    },
+    {
+     "title": "トップバリュ 国産 カットわかめ 15g",
+     "brand": "トップバリュ",
+     "size": "15g",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス カットわかめ 50g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 鳴門産 湯通し塩蔵わかめ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "徳島県産"
+    }
+   ],
+   "cc_images": [
+    "staple_dried_wakame_1.jpg",
+    "staple_dried_wakame_2.jpg"
+   ],
+   "dishes": [
+    "わかめの味噌汁",
+    "酢の物",
+    "わかめスープ",
+    "わかめご飯",
+    "サラダ"
+   ]
+  },
+  {
+   "base_id": "staple_katsuobushi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "乾物・ごはんのお供",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "香り高いかつお節の削り節です。冷奴やおひたしにふわっとのせたり、お出汁をとったりと和食に欠かせない名脇役。使い切りやすい小分けパックもご用意しました。",
+   "images": [
+    "staple_katsuobushi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ かつおパック 2.5g×10袋",
+     "brand": "トップバリュ",
+     "size": "2.5g×10",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス かつおパック 2g×20袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2g×20",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県枕崎産 本枯節 削りぶし 30g",
+     "brand": "トップバリュ セレクト",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県枕崎産"
+    },
+    {
+     "title": "トップバリュ 花かつお 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ だし用 厚削り 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "staple_katsuobushi_2.jpg",
+    "staple_katsuobushi_1.jpg"
+   ],
+   "dishes": [
+    "おひたし",
+    "冷奴",
+    "お好み焼き",
+    "おかかおにぎり",
+    "だし"
+   ]
+  },
+  {
+   "base_id": "staple_yakinori",
+   "category_path": [
+    "お米・麺・インスタント",
+    "乾物・ごはんのお供",
+    "焼きのり"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "パリッとした歯ざわりと豊かな磯の香りが楽しめる焼きのりです。手巻き寿司やおにぎり、お弁当のごはんにも大活躍。新物の季節ならではの風味をお楽しみください。",
+   "images": [
+    "staple_yakinori_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 有明海産 焼のり 全形10枚",
+     "brand": "トップバリュ",
+     "size": "全形10枚",
+     "price_tax_excluded": 498,
+     "origin": "有明海産"
+    },
+    {
+     "title": "トップバリュ セレクト 有明海産 一番摘み 焼のり 全形5枚",
+     "brand": "トップバリュ セレクト",
+     "size": "全形5枚",
+     "price_tax_excluded": 498,
+     "origin": "有明海産"
+    },
+    {
+     "title": "トップバリュ 国産 おにぎり用 焼のり 3切30枚",
+     "brand": "トップバリュ",
+     "size": "3切30枚",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産 味付のり 8切48枚",
+     "brand": "トップバリュ",
+     "size": "8切48枚",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼のり 全形10枚",
+     "brand": "トップバリュ ベストプライス",
+     "size": "全形10枚",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_yakinori_1.jpg"
+   ],
+   "dishes": [
+    "おにぎり",
+    "手巻き寿司",
+    "巻き寿司",
+    "磯辺焼き",
+    "海苔弁当"
+   ]
+  },
+  {
+   "base_id": "staple_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "ふんわりしっとりとした口どけの食パンです。トーストすれば外はサクッと、中はもっちり。朝食のトーストからお弁当のサンドイッチまで、ご家族の毎日に寄り添う定番パンです。",
+   "images": [
+    "staple_shokupan_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 食パン 6枚切",
+     "brand": "トップバリュ ベストプライス",
+     "size": "6枚",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 食パン 8枚切",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8枚",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もっちり食パン 5枚切",
+     "brand": "トップバリュ",
+     "size": "5枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ もっちり食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦100% 食パン 4枚切",
+     "brand": "トップバリュ セレクト",
+     "size": "4枚",
+     "price_tax_excluded": 238,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ 全粒粉入り 食パン 6枚切",
+     "brand": "トップバリュ",
+     "size": "6枚",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "staple_shokupan_1.jpg",
+    "staple_shokupan_2.jpg"
+   ],
+   "dishes": [
+    "トースト",
+    "サンドイッチ",
+    "フレンチトースト",
+    "ピザトースト"
+   ]
+  },
+  {
+   "base_id": "staple_butter_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "バターの風味豊かな、ふんわりやわらかいロールパンです。そのままはもちろん、軽く温めると香りが一段と引き立ちます。ハムやたまごを挟んで、朝食やお子さまのおやつにもどうぞ。",
+   "images": [
+    "staple_butter_roll_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ バターロール 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス バターロール 8個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 発酵バター香るロール 6個入",
+     "brand": "トップバリュ セレクト",
+     "size": "6個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レーズンロール 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "staple_butter_roll_1.jpg",
+    "staple_butter_roll_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "ロールサンド",
+    "ホットドッグ",
+    "シチューのお供"
+   ]
+  },
+  {
+   "base_id": "staple_croissant",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "幾層にも重なった生地がサクッと香ばしいクロワッサンです。トースターで軽く温めると、バターの香りが広がり焼きたてのような味わいに。休日のゆったりした朝ごはんにおすすめです。",
+   "images": [
+    "staple_croissant_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ クロワッサン 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニクロワッサン 8個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 発酵バター使用 クロワッサン 4個入",
+     "brand": "トップバリュ セレクト",
+     "size": "4個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコクロワッサン 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "staple_croissant_1.jpg",
+    "staple_croissant_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "クロワッサンサンド",
+    "ブランチ"
+   ]
+  },
+  {
+   "base_id": "staple_cereal",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "シリアル",
+    "コーンフレーク・グラノーラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "牛乳やヨーグルトをかけるだけで手軽に楽しめるシリアルです。サクサクのコーンフレークから、果実たっぷりのグラノーラまで、ご家族の好みに合わせて選べます。忙しい朝の時短朝食にぴったりです。",
+   "images": [
+    "staple_cereal_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス コーンフレーク プレーン 220g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "220g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フルーツグラノーラ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ フルーツグラノーラ 糖質オフ 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ チョコフレーク 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 玄米フレーク 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック オートミール 300g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_cereal_1.jpg",
+    "staple_cereal_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "コーンフレーク＆牛乳",
+    "ヨーグルトのトッピング"
+   ]
+  },
+  {
+   "base_id": "staple_jam",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "ジャム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "果実の粒感を残して仕上げた、甘さ控えめのジャムです。トーストやヨーグルト、クラッカーに添えれば、いつもの朝食がちょっと華やかに。開けやすく使いやすいサイズをそろえました。",
+   "images": [
+    "staple_jam_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ いちごジャム 果実感たっぷり 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ブルーベリージャム 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ マーマレード 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産 あまおう苺ジャム 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "福岡県産あまおう使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス いちごジャム 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "staple_jam_1.jpg",
+    "staple_jam_2.jpg"
+   ],
+   "dishes": [
+    "ジャムトースト",
+    "ヨーグルトのトッピング",
+    "ロシアンティー",
+    "パンケーキ"
+   ]
+  },
+  {
+   "base_id": "staple_honey",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ジャム・スプレッド",
+    "はちみつ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "花の香りとやさしいコクのある純粋はちみつです。トーストやパンケーキにかけたり、紅茶やヨーグルトの甘みづけにも。液だれしにくいボトルで毎日使いやすい一品です。※1歳未満の乳児には与えないでください。",
+   "images": [
+    "staple_honey_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 純粋はちみつ 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "アルゼンチン産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 純粋はちみつ 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産 アカシアはちみつ 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック はちみつ 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    }
+   ],
+   "cc_images": [
+    "staple_honey_1.jpg",
+    "staple_honey_2.jpg"
+   ],
+   "dishes": [
+    "はちみつトースト",
+    "ハニーヨーグルト",
+    "照り焼きの隠し味",
+    "はちみつレモン",
+    "パンケーキ"
+   ]
+  }
+ ]
+}

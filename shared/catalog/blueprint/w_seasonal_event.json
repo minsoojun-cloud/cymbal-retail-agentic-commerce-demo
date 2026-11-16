@@ -1,0 +1,3208 @@
+{
+ "category_key": "w_seasonal_event",
+ "items": [
+  {
+   "base_id": "w_seasonal_event_osechi_yoyaku_danju",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "予約おせち"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "いくら",
+    "さけ",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "おせち",
+    "祝い膳",
+    "親族の集まり"
+   ],
+   "description": "年末にお届け・店頭受け取りできるご予約制のおせちです。伝統の祝い肴から焼物、洋風の一品まで彩りよく段重に詰め合わせました。家族の人数や好みに合わせて和風・和洋折衷・洋風から選べ、新年の食卓を手間なく華やかに演出します。",
+   "image_brief": "A lacquered black three-tier jubako box with gold rims, top lid removed showing colorful osechi dishes neatly arranged in compartments, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 【予約】和風おせち 三段重 4〜5人前 45品目",
+     "brand": "Cymbal セレクト",
+     "size": "45品目",
+     "price_tax_excluded": 32400,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】和洋折衷おせち 二段重 3〜4人前 33品目",
+     "brand": "Cymbal",
+     "size": "33品目",
+     "price_tax_excluded": 21800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】和風おせち 一段重 2〜3人前 24品目",
+     "brand": "Cymbal",
+     "size": "24品目",
+     "price_tax_excluded": 14800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】洋風オードブルおせち 二段重 3〜4人前 30品目",
+     "brand": "Cymbal",
+     "size": "30品目",
+     "price_tax_excluded": 19800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "華宴楼 【予約】中華おせち 一段重 2〜3人前 20品目",
+     "brand": "華宴楼",
+     "size": "20品目",
+     "price_tax_excluded": 15800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "割烹みやび 【予約】料亭仕立て おせち 三段重 5〜6人前 52品目",
+     "brand": "割烹みやび",
+     "size": "52品目",
+     "price_tax_excluded": 43200,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_osechi_yoyaku_danju_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kosyoku_osechi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "個食おせち・祝い膳"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "大豆",
+    "さけ",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "ひとり正月",
+    "祝い膳",
+    "帰省"
+   ],
+   "description": "一人分ずつ仕切られた個食タイプのおせちです。少人数のご家庭やおひとり様のお正月、取り分けの手間を省きたい集まりに便利。小さな器に黒豆や伊達巻、焼物などの定番をひと通り盛り込み、見た目も華やかに仕上げました。",
+   "image_brief": "A square single-serving osechi box with a red inner tray divided into nine small compartments of colorful New Year dishes, clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひとり用 祝い膳おせち 1人前 15品目",
+     "brand": "Cymbal",
+     "size": "15品目",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとり用 祝い膳おせち 2個セット 15品目×2",
+     "brand": "Cymbal",
+     "size": "15品目×2",
+     "price_tax_excluded": 7580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 個食おせち 洋風 1人前 12品目",
+     "brand": "Cymbal",
+     "size": "12品目",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 個食おせち 小鉢9品 1人前 9品",
+     "brand": "Cymbal セレクト",
+     "size": "9品",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニおせち 詰め合わせ 1〜2人前 10品目",
+     "brand": "Cymbal ベーシック",
+     "size": "10品目",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kosyoku_osechi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_onishime",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "煮しめ"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "祝い膳",
+    "おもてなし"
+   ],
+   "description": "里芋、れんこん、ごぼう、人参、こんにゃく、しいたけを一品ずつ丁寧に炊き上げたお煮しめです。かつおと昆布のだしがしみたやさしい味わいで、重箱にそのまま詰められる飾り切り入り。おせちの一段を手軽に整えたい方に。",
+   "image_brief": "A clear plastic tray of assorted simmered root vegetables including flower-cut carrots, lotus root and taro, glossy brown broth, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] お煮しめ 約300g 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] お煮しめ 約500g 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お煮しめ 飾り切り 7種詰め合わせ 400g 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜のお煮しめ 300g 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏入り 筑前風お煮しめ 250g 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_onishime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_nishiki_tamago",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "錦玉子・玉子料理"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "口取り",
+    "お正月",
+    "祝い膳"
+   ],
+   "description": "黄身と白身を二層に重ねて蒸し上げた錦玉子です。金と銀に見立てた縁起物で、ほろりとほどける食感とやさしい甘さが特長。切るだけで重箱の彩りが映え、お子さまのおせちにも喜ばれます。",
+   "image_brief": "A rectangular block of two-layer steamed egg, yellow on top and white below, in a clear vacuum pack with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 錦玉子 1本 200g 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 錦玉子 ハーフ 100g 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産卵使用 錦玉子 1本 220g 220g",
+     "brand": "Cymbal セレクト",
+     "size": "220g",
+     "price_tax_excluded": 698,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal 錦玉子 カット済 8切 8切",
+     "brand": "Cymbal",
+     "size": "8切",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 錦玉子 1本 180g 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_nishiki_tamago_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_buri_teriyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "祝い焼物"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "焼物",
+    "お正月",
+    "祝い膳"
+   ],
+   "description": "出世魚のぶりを甘辛い照り焼きだれでふっくら焼き上げた、おせちの焼物です。脂ののった冬のぶりにつやのあるたれが絡み、冷めてもおいしい味付け。一切れずつ食べやすいサイズで、重箱詰めにも便利です。",
+   "image_brief": "Glossy teriyaki yellowtail fillet pieces lined up on a black tray with a clear lid, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産ぶり照り焼き 4切 4切",
+     "brand": "",
+     "size": "4切",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 天然ぶり照り焼き 3切 3切",
+     "brand": "",
+     "size": "3切",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal おせち用 ぶり照り焼き 6切 6切（約180g）",
+     "brand": "Cymbal",
+     "size": "6切（約180g）",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おせち用 ぶり照り焼き 小切 10切 10切",
+     "brand": "Cymbal",
+     "size": "10切",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 寒ぶり 柚庵焼き 4切 4切",
+     "brand": "Cymbal セレクト",
+     "size": "4切",
+     "price_tax_excluded": 1480,
+     "origin": "富山県産"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_buri_teriyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_yawata_maki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "八幡巻き"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "お弁当",
+    "酒の肴"
+   ],
+   "description": "下ゆでしたごぼうを牛肉で巻き、甘辛く焼き上げた八幡巻きです。ごぼうのように根を張り家が栄えるよう願う縁起物。牛肉の旨みとごぼうの香りがよく合い、切り口の断面も美しく、おせちの焼物やおつまみに重宝します。",
+   "image_brief": "Sliced beef rolls wrapped around burdock root showing round cross-sections, glossy sauce, arranged on a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛肉の八幡巻き 150g 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 八幡巻き 120g 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 1280,
+     "origin": "国産牛使用"
+    },
+    {
+     "title": "Cymbal 牛肉の八幡巻き カット済 10切 10切",
+     "brand": "Cymbal",
+     "size": "10切",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 牛ごぼう八幡巻き 約200g 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏肉の八幡巻き 150g 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_yawata_maki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_matsukaze_yaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "松風焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "卵",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "口取り",
+    "お弁当",
+    "お正月"
+   ],
+   "description": "鶏ひき肉に白味噌を合わせて焼き上げ、表面にけしの実やごまを散らした松風焼きです。裏に何もないことから「隠し事のない正直な生き方」を願う縁起物。しっとり甘めの味付けでお子さまにも食べやすい一品です。",
+   "image_brief": "A rectangular slab of baked minced chicken loaf sprinkled with sesame seeds, cut into fan-shaped pieces on a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏の松風焼き 1枚 200g 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏の松風焼き 扇形カット 8切 8切",
+     "brand": "Cymbal",
+     "size": "8切",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏 松風焼き けしの実仕上げ 180g 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 880,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "[店内調理] 鶏の松風焼き 約250g 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 松風焼き 120g 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_matsukaze_yaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_su_renkon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "酢の物"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "酢の物",
+    "お正月",
+    "箸休め"
+   ],
+   "description": "花形に切ったれんこんをさっぱりとした甘酢に漬けた酢れんこんです。穴から先を見通せる縁起物として、おせちに欠かせない一品。しゃきっとした歯ざわりと程よい酸味で、濃い味の料理の合間の箸休めにぴったりです。",
+   "image_brief": "White flower-cut lotus root slices stacked in a clear plastic tub with sweet vinegar, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 花れんこん 甘酢漬け 120g 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産れんこん 酢れんこん 150g 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産れんこん使用"
+    },
+    {
+     "title": "Cymbal 紅白酢れんこん 100g 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 酢れんこん 約150g 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 酢れんこん 徳用 250g 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "中国産れんこん使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_su_renkon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_tataki_gobo",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "たたきごぼう"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "ごま",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "祝い肴",
+    "箸休め",
+    "お正月"
+   ],
+   "description": "ごぼうを叩いて味をしみ込ませ、香ばしいごま酢で和えたたたきごぼう。関西の祝い肴三種のひとつで、豊作と家の繁栄を願う縁起物です。ごまのコクとごぼうの香りが広がり、酒の肴や箸休めにも向いています。",
+   "image_brief": "Short sticks of burdock root coated in ground sesame dressing in a clear tub, beige and brown tones, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たたきごぼう ごま酢和え 120g 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産ごぼう たたきごぼう 150g 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "国産ごぼう使用"
+    },
+    {
+     "title": "[店内調理] たたきごぼう 約120g 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック たたきごぼう 80g 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たたきごぼう 黒ごま仕立て 120g 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_tataki_gobo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kikka_kabu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "酢の物"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "口取り",
+    "酢の物",
+    "お正月"
+   ],
+   "description": "かぶに細かな切り込みを入れて甘酢に漬け、菊の花のように開かせた菊花かぶです。中央に赤唐辛子や紅色を添えて華やかに。みずみずしいかぶの食感とまろやかな酸味で、重箱のすき間を彩るのにぴったりです。",
+   "image_brief": "Chrysanthemum-shaped pickled white turnips with tiny red chili centers arranged in a clear tray, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 菊花かぶ 6個入 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 菊花かぶ 紅白 8個入 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産かぶ 菊花かぶ 5個入 5個入",
+     "brand": "Cymbal セレクト",
+     "size": "5個入",
+     "price_tax_excluded": 548,
+     "origin": "国産かぶ使用"
+    },
+    {
+     "title": "[店内調理] 菊花かぶ 4個入 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 菊花かぶ 業務用 20個入 20個入",
+     "brand": "Cymbal ベーシック",
+     "size": "20個入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kikka_kabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_iwai_tai",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "祝い鯛"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "お祝い",
+    "お食い初め",
+    "祝い膳"
+   ],
+   "description": "尾頭付きの真鯛を姿のまま塩焼きにした祝い鯛です。お正月の膳や家族のお祝いの席を一気に華やかにする主役の一品。ふっくらした白身に程よい塩気がのり、焼き立ての香ばしさが楽しめます。予約受付もしています。",
+   "image_brief": "A whole salt-grilled red sea bream with head and tail curved on a white oval plate with a green leaf garnish, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼き] 尾頭付き 真鯛の塩焼き 1尾 約300g 1尾 約300g",
+     "brand": "",
+     "size": "1尾 約300g",
+     "price_tax_excluded": 1980,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "[店内焼き] 尾頭付き 真鯛の塩焼き 1尾 約500g 1尾 約500g",
+     "brand": "",
+     "size": "1尾 約500g",
+     "price_tax_excluded": 2980,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "[店内焼き] 尾頭付き 天然真鯛の塩焼き 1尾 約600g 1尾 約600g",
+     "brand": "",
+     "size": "1尾 約600g",
+     "price_tax_excluded": 4980,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[店内焼き] 小鯛の塩焼き 2尾入 2尾入",
+     "brand": "",
+     "size": "2尾入",
+     "price_tax_excluded": 1580,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "【予約】祝い鯛 姿焼き 大 1尾 約1kg 1尾 約1kg",
+     "brand": "",
+     "size": "1尾 約1kg",
+     "price_tax_excluded": 7980,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_iwai_tai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kuwai_fukumeni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "含め煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "煮物",
+    "お正月",
+    "祝い膳"
+   ],
+   "description": "大きな芽が出ることから「めでたい」に通じる、くわいの含め煮です。ほっくりとした食感とほのかなほろ苦さを、上品なだしでやさしく炊き上げました。芽を残した姿のまま詰めればおせちの縁起物として映えます。",
+   "image_brief": "Pale blue-gray arrowhead tubers with curled sprouts simmered in light broth, arranged in a clear tray, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal くわいの含め煮 6個入 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 広島県産くわい 含め煮 5個入 5個入",
+     "brand": "Cymbal セレクト",
+     "size": "5個入",
+     "price_tax_excluded": 880,
+     "origin": "広島県産くわい使用"
+    },
+    {
+     "title": "[店内調理] くわいの含め煮 4個入 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal くわいの含め煮 小粒 10個入 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kuwai_fukumeni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_ozoni_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "お雑煮キット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "元旦の朝ごはん",
+    "お正月"
+   ],
+   "description": "鶏肉、小松菜、人参、かまぼこ、つゆがひとつになったお雑煮キットです。お餅を焼いて加えるだけで本格的なお雑煮が完成。地域の味に合わせて関東風のすまし仕立てと関西風の白味噌仕立てをご用意しました。",
+   "image_brief": "A clear meal-kit tray with separate compartments of sliced chicken, greens, carrot flowers, pink kamaboko and a small broth pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 関東風 すまし雑煮 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 関東風 すまし雑煮 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 関西風 白味噌雑煮 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 関西風 白味噌雑煮 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 博多風 ぶり雑煮 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 鶏ごぼう雑煮 2人前 丸もち付 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_ozoni_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kinkan_kanroni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "甘露煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "口取り",
+    "お茶請け",
+    "お正月"
+   ],
+   "description": "金柑を丸ごとじっくり蜜で煮含めた甘露煮です。金色の実は「金冠」に通じ、富を招く縁起物として親しまれています。皮ごと食べられるほろ苦さとさわやかな甘みが特長で、おせちの彩りやお茶請けにもどうぞ。",
+   "image_brief": "Glossy golden whole kumquats in clear syrup in a small plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 金柑甘露煮 8粒入 8粒入",
+     "brand": "Cymbal",
+     "size": "8粒入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産金柑 甘露煮 10粒入 10粒入",
+     "brand": "Cymbal セレクト",
+     "size": "10粒入",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産金柑使用"
+    },
+    {
+     "title": "Cymbal 金柑甘露煮 瓶 固形量150g 固形量150g",
+     "brand": "Cymbal",
+     "size": "固形量150g",
+     "price_tax_excluded": 580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鹿児島県産金柑 甘露煮 6粒入 6粒入",
+     "brand": "Cymbal",
+     "size": "6粒入",
+     "price_tax_excluded": 448,
+     "origin": "鹿児島県産金柑使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kinkan_kanroni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_toshikoshi_ebiten_soba",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ごはん・麺惣菜",
+    "年越しそば"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "そば",
+    "小麦",
+    "えび",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "年越しそば",
+    "大晦日",
+    "夜食"
+   ],
+   "description": "大晦日に温めるだけで楽しめる、店内で揚げた海老天をのせた年越しそば。そばとつゆ、具材が別々に入っているので、食べる直前にあたためれば海老天の衣もおいしく味わえます。ご家族分まとめてのご予約も承ります。",
+   "image_brief": "A clear deli bowl with cooked soba noodles, a large shrimp tempura on top and a separate broth cup, green onion garnish, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 年越し えび天そば 1人前 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 年越し 大えび天そば 2尾のせ 1人前 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 年越し えび天そば 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 年越し 天ぷらそば 野菜かき揚げ入り 1人前 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "【予約】年越し えび天そば 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_toshikoshi_ebiten_soba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_toshikoshi_ebi_tempura",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "年越し用天ぷら"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "年越しそば",
+    "天ぷらうどん",
+    "天丼"
+   ],
+   "description": "年越しそばの主役になる大きな海老天を、大晦日に合わせて店内で揚げています。まっすぐ伸びた海老にさくっと軽い衣をまとわせ、そばやうどんにのせても存在感十分。トースターで軽く温めると香ばしさがよみがえります。",
+   "image_brief": "Two long straight shrimp tempura with golden crispy batter on a paper-lined clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 年越し用 大えび天ぷら 2尾入 2尾入",
+     "brand": "",
+     "size": "2尾入",
+     "price_tax_excluded": 598,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "[店内調理] 年越し用 大えび天ぷら 4尾入 4尾入",
+     "brand": "",
+     "size": "4尾入",
+     "price_tax_excluded": 1080,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "[店内調理] 年越し用 特大えび天ぷら 1尾 1尾",
+     "brand": "",
+     "size": "1尾",
+     "price_tax_excluded": 398,
+     "origin": "インドネシア産えび使用"
+    },
+    {
+     "title": "[店内調理] 年越し用 天ぷら盛り えび・かき揚げ・ちくわ 3品",
+     "brand": "",
+     "size": "3品",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 年越し用 えび天ぷら 10尾入 10尾入",
+     "brand": "",
+     "size": "10尾入",
+     "price_tax_excluded": 2480,
+     "origin": "ベトナム産えび使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_toshikoshi_ebi_tempura_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_party_fried_chicken",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "フライドチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "パーティー",
+    "持ち寄り",
+    "おつまみ"
+   ],
+   "description": "スパイスを効かせた衣でじっくり揚げた骨付きフライドチキンを、パーティー向けにたっぷり詰め合わせました。外はカリッと、中はジューシー。クリスマスの食卓や持ち寄り会に、取り分けやすいバーレル型でご用意しています。",
+   "image_brief": "A red-and-white paper bucket filled with golden crispy bone-in fried chicken pieces, plain unprinted surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] パーティーフライドチキン 骨付き 6ピース 6ピース",
+     "brand": "",
+     "size": "6ピース",
+     "price_tax_excluded": 1280,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[店内調理] パーティーフライドチキン 骨付き 10ピース 10ピース",
+     "brand": "",
+     "size": "10ピース",
+     "price_tax_excluded": 1980,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[店内調理] パーティーフライドチキン バーレル 15ピース 15ピース",
+     "brand": "",
+     "size": "15ピース",
+     "price_tax_excluded": 2780,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[店内調理] スパイシーフライドチキン 骨付き 6ピース 6ピース",
+     "brand": "",
+     "size": "6ピース",
+     "price_tax_excluded": 1380,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[店内調理] 手羽先フライドチキン 12本入 12本入",
+     "brand": "",
+     "size": "12本入",
+     "price_tax_excluded": 980,
+     "origin": "国産若鶏使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_party_fried_chicken_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_christmas_terrine",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "テリーヌ・パテ"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "前菜",
+    "ワインのお供",
+    "ホームパーティー"
+   ],
+   "description": "肉の旨みと野菜の彩りを閉じ込めた、パーティー前菜にぴったりのテリーヌ。切り分けるだけで断面が美しく、クラッカーやバゲットに添えればワインによく合う一皿に。カンパーニュ風からサーモン、野菜まで選べます。",
+   "image_brief": "A rectangular slice-ready meat terrine showing a mosaic cross-section with pistachios and vegetables on a white plate, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト パテ・ド・カンパーニュ 200g 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏レバーのムースパテ 100g 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 彩り野菜とチキンのテリーヌ 180g 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト サーモンとほうれん草のテリーヌ 160g 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal テリーヌ 3種アソート スライス 9切 9切",
+     "brand": "Cymbal",
+     "size": "9切",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_christmas_terrine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_chicken_pot_pie",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "ポットパイ・グラタン"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "冬のごちそう",
+    "ディナー"
+   ],
+   "description": "クリーミーなチキンシチューをサクサクのパイ生地でふたをしたポットパイ。オーブントースターで温めるだけで、焼き立ての香ばしさと湯気が立ちのぼります。寒い季節のディナーやクリスマスの一品に。",
+   "image_brief": "A white ceramic-look ramekin topped with a golden domed puff pastry lid, set on a plain board, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チキンクリームポットパイ 1個 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンクリームポットパイ 2個入 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ビーフシチューポットパイ 1個 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] きのこクリームポットパイ 1個 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 450,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニポットパイ 4個入 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_chicken_pot_pie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_wreath_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "パーティーサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "卵",
+    "乳",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "パーティー",
+    "前菜",
+    "おもてなし"
+   ],
+   "description": "ブロッコリーやミニトマト、ポテトサラダをリースの形に盛り付けたクリスマス仕様のサラダです。テーブルに置くだけで華やかな雰囲気に。スモークサーモンやチーズをあしらったタイプもあり、取り分けやすい大皿で用意しました。",
+   "image_brief": "A round wreath-shaped salad of broccoli, cherry tomatoes, potato salad and smoked salmon roses on a large clear platter with dome lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] クリスマスリースサラダ 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] クリスマスリースサラダ 4〜5人前 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] スモークサーモンのリースサラダ 3〜4人前 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ローストチキンのシーザーサラダ 3〜4人前 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 生ハムとモッツァレラのカプレーゼ 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_wreath_salad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_party_sushi_oke",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "お寿司",
+    "パーティー寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "えび",
+    "いか",
+    "いくら",
+    "さけ",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "年末年始",
+    "クリスマス",
+    "帰省のおもてなし",
+    "パーティー"
+   ],
+   "description": "年末年始やクリスマスの集まりに、まぐろ・サーモン・えび・いくらなどを大きな寿司桶に盛り込んだパーティー寿司です。人数に合わせてサイズを選べ、大晦日やお正月の食卓の主役に。ご予約で受け取り日時を指定できます。",
+   "image_brief": "A large round black sushi tub filled with assorted nigiri and rolls including tuna, salmon, shrimp and salmon roe, clear lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内仕上げ] パーティー寿司桶 3〜4人前 32貫 32貫",
+     "brand": "",
+     "size": "32貫",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] パーティー寿司桶 5〜6人前 48貫 48貫",
+     "brand": "",
+     "size": "48貫",
+     "price_tax_excluded": 5980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 特上パーティー寿司桶 4〜5人前 40貫 40貫",
+     "brand": "",
+     "size": "40貫",
+     "price_tax_excluded": 6980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 手巻き寿司セット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] お子さま向け パーティー寿司 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "【予約】年末 大桶パーティー寿司 7〜8人前 64貫 64貫",
+     "brand": "",
+     "size": "64貫",
+     "price_tax_excluded": 8980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_party_sushi_oke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_beef_stew_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "クリスマスディナー",
+    "冬のごちそう"
+   ],
+   "description": "下ごしらえ済みの牛肉と野菜、デミグラスソースがセットになったビーフシチューのミールキットです。鍋で煮込むだけで、手間をかけたような濃厚な味わいに。クリスマスや週末のごちそう作りを手軽にしたい方に。",
+   "image_brief": "A meal-kit tray with chunks of beef, cut carrots, potatoes, onions and a pouch of brown sauce, clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 牛すね肉のビーフシチュー 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産牛使用"
+    },
+    {
+     "title": "[ミールキット] 牛すね肉のビーフシチュー 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 2380,
+     "origin": "オーストラリア産牛使用"
+    },
+    {
+     "title": "[ミールキット] 国産牛のビーフシチュー 赤ワイン仕立て 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産牛使用"
+    },
+    {
+     "title": "[ミールキット] 牛ほほ肉の赤ワイン煮込み 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 鶏ときのこのクリームシチュー 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 898,
+     "origin": "国産若鶏使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_beef_stew_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_herb_roast_chicken_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ローストチキン",
+    "クリスマス",
+    "オーブン料理"
+   ],
+   "description": "ハーブとガーリックで下味をつけた骨付き鶏もも肉に、付け合わせの野菜をセットにしたオーブン焼きキット。天板に並べて焼くだけで、自宅で焼き立てのローストチキンが楽しめます。皮はパリッと、身はしっとり仕上がります。",
+   "image_brief": "Raw herb-marinated bone-in chicken legs with potatoes, carrots and rosemary in an oven-ready foil tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] ハーブローストチキン 骨付きもも 2本 2本",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 1180,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[ミールキット] ハーブローストチキン 骨付きもも 4本 4本",
+     "brand": "",
+     "size": "4本",
+     "price_tax_excluded": 2180,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[ミールキット] 照り焼きローストチキン 骨付きもも 2本 2本",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 1180,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[ミールキット] 丸鶏ハーブロースト 野菜付 1羽 1羽（約1.2kg）",
+     "brand": "",
+     "size": "1羽（約1.2kg）",
+     "price_tax_excluded": 2980,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[ミールキット] 手羽元のガーリックロースト 8本 8本",
+     "brand": "",
+     "size": "8本",
+     "price_tax_excluded": 880,
+     "origin": "国産若鶏使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_herb_roast_chicken_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_paella_kit",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "ミールキット",
+    "洋食のミールキット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "えび",
+    "いか",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パエリア",
+    "クリスマス",
+    "ホームパーティー"
+   ],
+   "description": "有頭えびやあさり、いか、鶏肉とサフラン風味のスープをセットにしたパエリアキット。お米と一緒にフライパンで炊くだけで、鮮やかな黄色のパエリアがテーブルに登場します。パーティーの主役になる華やかな一品です。",
+   "image_brief": "A meal-kit tray with head-on shrimp, clams, squid rings, chicken pieces, red pepper strips and a yellow saffron broth pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[ミールキット] 魚介のパエリア 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 魚介のパエリア 4〜5人前 4〜5人前",
+     "brand": "",
+     "size": "4〜5人前",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] 鶏肉と野菜のパエリア 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[ミールキット] いか墨パエリア 2〜3人前 2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_paella_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_chanko_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "ちゃんこ鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ちゃんこ鍋",
+    "鍋パーティー",
+    "雑炊"
+   ],
+   "description": "鶏つくね、鶏もも、えび、白菜、きのこなどを鶏がらベースのスープと一緒にセットしたちゃんこ鍋です。具だくさんでボリューム満点、大人数の鍋パーティーにもぴったり。〆は雑炊やうどんでどうぞ。",
+   "image_brief": "A large clear tray packed with chicken meatballs, chicken thigh, shrimp, napa cabbage, mushrooms and leeks with a soup pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 鶏つくねのちゃんこ鍋セット しょうゆ味 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 鶏つくねのちゃんこ鍋セット しょうゆ味 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 塩ちゃんこ鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 味噌ちゃんこ鍋セット 3〜4人前 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 鍋パーティー 大盛りちゃんこ 5〜6人前 5〜6人前",
+     "brand": "",
+     "size": "5〜6人前",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_chanko_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_mizutaki_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "水炊きセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "鍋",
+    "雑炊",
+    "ちゃんぽん麺"
+   ],
+   "description": "骨付き鶏ぶつ切りと白濁した鶏白湯スープ、キャベツやねぎなどの野菜をセットにした博多風の水炊きです。鶏の旨みが溶け出したスープはまずそのまま味わい、ぽん酢でさっぱりと。〆の雑炊まで楽しめます。",
+   "image_brief": "A clear tray of bone-in chicken pieces, cabbage, leeks, tofu and mushrooms beside a pouch of milky white chicken broth and a small ponzu cup, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 博多風 鶏の水炊きセット ぽん酢付 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] 博多風 鶏の水炊きセット ぽん酢付 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 2780,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] 地鶏の水炊きセット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2280,
+     "origin": "国産地鶏使用"
+    },
+    {
+     "title": "[鍋セット] 鶏白湯 水炊きセット 雑炊の素付 3人前 3人前",
+     "brand": "",
+     "size": "3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] 手羽元の水炊きセット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産若鶏使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_mizutaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_tonyu_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "豆乳鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "大豆",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "鍋",
+    "リゾット風雑炊"
+   ],
+   "description": "まろやかな豆乳スープに豚バラ肉、白菜、豆腐、きのこを合わせた豆乳鍋セット。クリーミーでやさしい味わいはお子さまにも人気です。〆にご飯とチーズを入れれば、リゾット風の雑炊も楽しめます。",
+   "image_brief": "A clear tray with thinly sliced pork belly, napa cabbage, tofu, mushrooms and spinach alongside a white soy milk soup pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 国産豚バラの豆乳鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国産豚使用"
+    },
+    {
+     "title": "[鍋セット] 国産豚バラの豆乳鍋セット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 2380,
+     "origin": "国産豚使用"
+    },
+    {
+     "title": "[鍋セット] ごま豆乳鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 鶏団子の豆乳鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 豆乳担々鍋セット ピリ辛 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_tonyu_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kani_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "かに鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "かに",
+    "えび",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かにすき",
+    "かに鍋",
+    "年末のごちそう",
+    "雑炊"
+   ],
+   "description": "殻に切れ目を入れたずわいがにと、白菜・春菊・豆腐などの野菜をセットにしたかに鍋です。かにの旨みがたっぷり溶け出しただしは格別で、〆の雑炊まで余さず楽しめます。年末年始の特別な鍋に。",
+   "image_brief": "A large clear tray with red snow crab legs, napa cabbage, shungiku greens, tofu and shiitake, plus a broth pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] ずわいがにのかにすきセット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 3980,
+     "origin": "ロシア産ずわいがに使用"
+    },
+    {
+     "title": "[鍋セット] ずわいがにのかにすきセット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 7480,
+     "origin": "ロシア産ずわいがに使用"
+    },
+    {
+     "title": "[鍋セット] 紅ずわいがに 寄せ鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "国産紅ずわいがに使用"
+    },
+    {
+     "title": "[鍋セット] たらばがに入り 海鮮かに鍋セット 3人前 3人前",
+     "brand": "",
+     "size": "3人前",
+     "price_tax_excluded": 5980,
+     "origin": "ロシア産たらばがに使用"
+    },
+    {
+     "title": "[鍋セット] かに鍋 雑炊セット付 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 4280,
+     "origin": "ロシア産ずわいがに使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kani_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kaki_dotenabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "牡蠣鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "土手鍋",
+    "牡蠣鍋",
+    "味噌煮込み",
+    "雑炊"
+   ],
+   "description": "ぷっくりとした加熱用牡蠣に、鍋の縁に塗る甘めの味噌と焼き豆腐・ねぎ・春菊を添えた土手鍋セット。味噌を溶かしながら煮ることで牡蠣の旨みが引き立ちます。冬ならではの濃厚な鍋をご家庭でどうぞ。",
+   "image_brief": "A clear tray of plump shucked oysters, grilled tofu, leeks and shungiku with a small tub of brown miso paste, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 広島県産牡蠣の土手鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "広島県産牡蠣使用"
+    },
+    {
+     "title": "[鍋セット] 広島県産牡蠣の土手鍋セット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 3680,
+     "origin": "広島県産牡蠣使用"
+    },
+    {
+     "title": "[鍋セット] 宮城県産牡蠣の塩鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1880,
+     "origin": "宮城県産牡蠣使用"
+    },
+    {
+     "title": "[鍋セット] 牡蠣とたらの味噌鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 大粒牡蠣のキムチ鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "岡山県産牡蠣使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kaki_dotenabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_kamo_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "鴨鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鴨鍋",
+    "鴨南蛮",
+    "鍋",
+    "そば"
+   ],
+   "description": "合鴨ロースの薄切りに、たっぷりの九条ねぎ、せり、きのこを合わせた鴨鍋セットです。鴨の脂の甘みがしょうゆベースのだしに溶け込み、ねぎとの相性は抜群。〆にそばを入れれば鴨南蛮風に楽しめます。",
+   "image_brief": "Thin slices of pink duck breast fanned on a clear tray with green leeks, Japanese parsley and mushrooms plus a broth pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 合鴨ロースの鴨鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1980,
+     "origin": "タイ産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 国産合鴨の鴨鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2680,
+     "origin": "国産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 合鴨ロースの鴨鍋セット 〆そば付 3人前 3人前",
+     "brand": "",
+     "size": "3人前",
+     "price_tax_excluded": 3280,
+     "origin": "タイ産合鴨使用"
+    },
+    {
+     "title": "[鍋セット] 鴨つくねとせりの鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_kamo_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_anko_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "あんこう鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "あんこう鍋",
+    "どぶ汁",
+    "雑炊"
+   ],
+   "description": "冬の味覚あんこうの身、皮、肝などを食べやすく切り分け、野菜と濃厚なあん肝入りの味噌スープを添えたあんこう鍋セット。ぷるぷるのゼラチン質と淡白な白身が絶品です。寒い夜の贅沢鍋にどうぞ。",
+   "image_brief": "A clear tray with chunks of white monkfish meat, skin and liver, napa cabbage, leeks and tofu, with a miso soup pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] あんこう鍋セット 味噌仕立て 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "茨城県産あんこう使用"
+    },
+    {
+     "title": "[鍋セット] あんこう鍋セット しょうゆ仕立て 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "青森県産あんこう使用"
+    },
+    {
+     "title": "[鍋セット] あん肝たっぷり どぶ汁風 あんこう鍋セット 3人前 3人前",
+     "brand": "",
+     "size": "3人前",
+     "price_tax_excluded": 3980,
+     "origin": "茨城県産あんこう使用"
+    },
+    {
+     "title": "[鍋セット] あんこう鍋セット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 4580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_anko_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_tsukune_nabe_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "鶏団子鍋セット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "鶏肉",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏団子鍋",
+    "鍋",
+    "うどん"
+   ],
+   "description": "しょうが香るふわふわの鶏団子と、白菜・にんじん・しめじなどの野菜を和風だしでいただく鶏団子鍋セットです。やさしい味わいで小さなお子さまのいるご家庭にも。団子は手作り風の大きめサイズです。",
+   "image_brief": "A clear tray with round chicken meatballs, napa cabbage, carrot rounds, shimeji and green onions beside a clear broth pouch, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] しょうが香る鶏団子鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 980,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] しょうが香る鶏団子鍋セット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 1780,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] 軟骨入り 鶏団子の塩鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国産若鶏使用"
+    },
+    {
+     "title": "[鍋セット] 鶏団子と白菜のミルフィーユ鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[鍋セット] 鶏団子のトマト鍋セット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_tsukune_nabe_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_fugu_chiri_set",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "鍋セット",
+    "ふぐちりセット"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ふぐちり",
+    "てっちり",
+    "雑炊",
+    "年末のごちそう"
+   ],
+   "description": "身欠きされたとらふぐのぶつ切りに、白菜・春菊・豆腐とだし昆布を添えたふぐちりセット。上品な白身から出るだしは澄んだ旨みで、〆の雑炊は格別です。ぽん酢でさっぱりと、冬のごちそう鍋をご家庭で。",
+   "image_brief": "A clear tray of bone-in white pufferfish pieces with napa cabbage, shungiku greens, tofu and a strip of kelp, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[鍋セット] 養殖とらふぐ ふぐちりセット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 3980,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[鍋セット] 養殖とらふぐ ふぐちりセット 4人前 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 7480,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "[鍋セット] まふぐのふぐちりセット 2人前 2人前",
+     "brand": "",
+     "size": "2人前",
+     "price_tax_excluded": 2480,
+     "origin": "山口県加工"
+    },
+    {
+     "title": "[鍋セット] とらふぐ てっちり 雑炊セット付 3人前 3人前",
+     "brand": "",
+     "size": "3人前",
+     "price_tax_excluded": 5980,
+     "origin": "熊本県産"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_fugu_chiri_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_christmas_cake_yoyaku",
+   "category_path": [
+    "お菓子・製菓",
+    "洋菓子・ケーキ",
+    "クリスマスケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "tax_rate": 8,
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "パーティー",
+    "デザート"
+   ],
+   "description": "クリスマスに向けてご予約受付中のデコレーションケーキです。ふんわりスポンジにミルク感のある生クリームといちごを重ねた定番から、濃厚な生チョコ、ベイクドチーズまで。人数に合わせて号数を選べ、店頭で受け取れます。",
+   "image_brief": "A round white cream decoration cake topped with whole strawberries and a small plain chocolate plaque in an open white cake box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 【予約】いちごの生クリームデコレーションケーキ 4号 4号（12cm）",
+     "brand": "Cymbal",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 2780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】いちごの生クリームデコレーションケーキ 5号 5号（15cm）",
+     "brand": "Cymbal",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 3780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】いちごの生クリームデコレーションケーキ 6号 6号（18cm）",
+     "brand": "Cymbal",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 4780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【予約】生チョコデコレーションケーキ 5号 5号（15cm）",
+     "brand": "Cymbal",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 【予約】北海道産生クリーム ショートケーキ 5号 5号（15cm）",
+     "brand": "Cymbal セレクト",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 4980,
+     "origin": "北海道産生クリーム使用"
+    },
+    {
+     "title": "Cymbal セレクト 【予約】ブッシュドノエル チョコ 約17cm 約17cm",
+     "brand": "Cymbal セレクト",
+     "size": "約17cm",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_christmas_cake_yoyaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_christmas_okashi_boots",
+   "category_path": [
+    "お菓子・製菓",
+    "詰め合わせ・アソート",
+    "クリスマスお菓子ブーツ"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "子ども会",
+    "プレゼント"
+   ],
+   "description": "赤いブーツ型の容器に、チョコレートやビスケット、ラムネなど個包装のお菓子をたっぷり詰めたクリスマスブーツです。食べ終わった後も飾りとして楽しめ、子ども会のプレゼントや靴下代わりのサンタさんの贈り物にぴったり。",
+   "image_brief": "A shiny red Christmas boot-shaped container with white fluffy trim, filled with colorful individually wrapped sweets with plain wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリスマスお菓子ブーツ S S（約8点入）",
+     "brand": "Cymbal",
+     "size": "S（約8点入）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリスマスお菓子ブーツ M M（約15点入）",
+     "brand": "Cymbal",
+     "size": "M（約15点入）",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリスマスお菓子ブーツ L L（約25点入）",
+     "brand": "Cymbal",
+     "size": "L（約25点入）",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリスマスお菓子ブーツ ジャンボ ジャンボ（約50点入）",
+     "brand": "Cymbal",
+     "size": "ジャンボ（約50点入）",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハピネスキャンディ クリスマス 光るお菓子ブーツ M M（約12点入）",
+     "brand": "ハピネスキャンディ",
+     "size": "M（約12点入）",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クリスマスお菓子ブーツ ミニ 3個セット ミニ×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "ミニ×3個",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_christmas_okashi_boots_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_christmas_cookie",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "クリスマスクッキー"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "お茶の時間",
+    "プチギフト",
+    "ツリー飾り"
+   ],
+   "description": "ジンジャーマンや星、ツリーの形に焼き上げたクリスマスのクッキーです。シナモンとしょうがの香るスパイスタイプや、アイシングで描いたカラフルなものまでご用意。缶入りは配りやすく、ちょっとした贈り物にも。",
+   "image_brief": "Assorted gingerbread man, star and tree shaped cookies with white icing arranged in an open round tin with a plain lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジンジャーマンクッキー 8枚入 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アイシングクッキー クリスマス 5枚入 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クリスマスクッキー缶 アソート 24枚 24枚",
+     "brand": "Cymbal セレクト",
+     "size": "24枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイスクッキー スペキュロス風 150g 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー製造"
+    },
+    {
+     "title": "スイートノエル ジンジャーブレッドハウス 組み立てキット 1セット",
+     "brand": "スイートノエル",
+     "size": "1セット",
+     "price_tax_excluded": 1480,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal 北欧風 シナモンクッキー 12枚入 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_christmas_cookie_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_chitose_ame",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子・飴",
+    "千歳飴"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "七五三",
+    "お祝い",
+    "お参り"
+   ],
+   "description": "七五三のお祝いに欠かせない紅白の千歳飴です。長く伸びた形に、子どもの健やかな成長と長寿への願いを込めました。鶴亀や松竹梅を描いた飴袋入りで、お参りの記念撮影にも映えます。やさしいミルク風味です。",
+   "image_brief": "Long red and white candy sticks inside a tall paper bag decorated with crane and turtle illustrations without text, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 千歳飴 紅白 2本入 袋付 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 千歳飴 紅白 2本入 化粧箱入 2本入",
+     "brand": "Cymbal セレクト",
+     "size": "2本入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミルク千歳飴 ショート 6本入 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 千歳飴 ミニ 個包装 10本入 10本入",
+     "brand": "Cymbal ベーシック",
+     "size": "10本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "飴乃屋 千歳飴 いちごミルク・ミルク 2本入 袋付 2本入",
+     "brand": "飴乃屋",
+     "size": "2本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_chitose_ame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_toso_san",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "屠蘇散"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "お屠蘇",
+    "元旦",
+    "お正月"
+   ],
+   "description": "山椒や桂皮、桔梗などを配合した、お屠蘇づくりのための屠蘇散です。大晦日の夜に本みりんや日本酒にひたしておけば、元旦に香り高いお屠蘇が楽しめます。一年の邪気を払い、家族の健康を願う新年の習わしにどうぞ。",
+   "image_brief": "A small paper tea-bag style sachet of dried herbs beside a red-and-gold blank envelope, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 屠蘇散 1包 1包",
+     "brand": "Cymbal",
+     "size": "1包",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 屠蘇散 2包 2包",
+     "brand": "Cymbal",
+     "size": "2包",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 屠蘇散 祝い袋入 1包 1包",
+     "brand": "Cymbal セレクト",
+     "size": "1包",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 国産生薬使用 屠蘇散 1包 1包",
+     "brand": "Cymbal オーガニック",
+     "size": "1包",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 屠蘇散 業務用 10包 10包",
+     "brand": "Cymbal ベーシック",
+     "size": "10包",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_toso_san_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_shimenawa",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "季節飾り",
+    "しめ縄・正月飾り"
+   ],
+   "tax_rate": 10,
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月飾り",
+    "玄関飾り",
+    "年末の準備"
+   ],
+   "description": "稲わらを編み込んだしめ縄に、水引や松、稲穂、扇をあしらった正月飾りです。玄関や車、神棚など飾る場所に合わせてサイズと形を選べます。28日までに飾るのが習わし。モダンなリース型もご用意しました。",
+   "image_brief": "A woven straw shimenawa New Year wreath decorated with red and white mizuhiki cords, pine sprig and golden rice ears, on a plain white background, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "稲わら・水引",
+    "color": "ナチュラル・紅白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home しめ縄飾り 玄関用 大 約35cm 約35cm",
+     "brand": "Cymbal Home",
+     "size": "約35cm",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home しめ縄飾り 玄関用 中 約25cm 約25cm",
+     "brand": "Cymbal Home",
+     "size": "約25cm",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home しめ縄リース モダン 約20cm 約20cm",
+     "brand": "Cymbal Home",
+     "size": "約20cm",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ごぼう締め 神棚用 約60cm 約60cm",
+     "brand": "Cymbal Home",
+     "size": "約60cm",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 車用 正月飾り 小 約15cm",
+     "brand": "Cymbal Home",
+     "size": "約15cm",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "わらの匠 本わら 迎春しめ飾り 特大 約45cm 約45cm",
+     "brand": "わらの匠",
+     "size": "約45cm",
+     "price_tax_excluded": 3980,
+     "origin": "国産稲わら使用"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_shimenawa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_iwai_bashi",
+   "category_path": [
+    "日用品・キッチン消耗品",
+    "割り箸・つまようじ",
+    "祝い箸"
+   ],
+   "tax_rate": 10,
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "お正月",
+    "おせち",
+    "お祝いの席",
+    "お食い初め"
+   ],
+   "description": "両端が細く削られた柳の祝い箸です。片方を人が、もう片方を神様が使うとされる「両口箸」で、お正月三が日やお祝いの席に用います。家族の名前を書き込める紅白の箸袋付き。来客用にまとめ買いできる徳用も。",
+   "image_brief": "A bundle of pale willow chopsticks tapered at both ends inside red and white paper sleeves with blank fronts, studio packshot.",
+   "labels": [
+    "使い捨て"
+   ],
+   "attributes": {
+    "material": "柳"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 柳 祝い箸 5膳入 5膳入",
+     "brand": "Cymbal Home",
+     "size": "5膳入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 柳 祝い箸 10膳入 10膳入",
+     "brand": "Cymbal Home",
+     "size": "10膳入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 祝い箸 寿袋入 5膳 5膳入",
+     "brand": "Cymbal Home",
+     "size": "5膳入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 祝い箸 金銀水引付 5膳 5膳入",
+     "brand": "Cymbal セレクト",
+     "size": "5膳入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 祝い箸 徳用 30膳入 30膳入",
+     "brand": "Cymbal ベーシック",
+     "size": "30膳入",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_iwai_bashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_jubako",
+   "category_path": [
+    "キッチン・調理器具",
+    "弁当箱・重箱",
+    "重箱"
+   ],
+   "tax_rate": 10,
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "運動会",
+    "花見弁当"
+   ],
+   "description": "おせちを詰めるための重箱です。漆塗り風の黒と朱の定番から、食洗機で洗えるモダンなタイプまでご用意。仕切りや中子付きで盛り付けが簡単です。お正月以外にも運動会や行楽のお弁当箱として長く使えます。",
+   "image_brief": "A glossy black lacquer-style square two-tier jubako box with vermilion interior and a plain lid, studio packshot.",
+   "labels": [
+    "食洗機対応（一部）"
+   ],
+   "attributes": {
+    "material": "ABS樹脂（ウレタン塗装）",
+    "color": "黒内朱"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 重箱 二段 6.5寸 黒内朱 6.5寸（約19.5cm）",
+     "brand": "Cymbal Home",
+     "size": "6.5寸（約19.5cm）",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 重箱 三段 6.5寸 黒内朱 6.5寸（約19.5cm）",
+     "brand": "Cymbal Home",
+     "size": "6.5寸（約19.5cm）",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 重箱 一段 5寸 朱 5寸（約15cm）",
+     "brand": "Cymbal Home",
+     "size": "5寸（約15cm）",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 重箱 二段 6寸 白 仕切り付 6寸（約18cm）",
+     "brand": "Cymbal Home",
+     "size": "6寸（約18cm）",
+     "price_tax_excluded": 2480,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 山中塗風 重箱 三段 7寸 金彩 7寸（約21cm）",
+     "brand": "Cymbal セレクト",
+     "size": "7寸（約21cm）",
+     "price_tax_excluded": 7980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 使い捨て おせち重 二段 6寸 仕切り付 6寸（約18cm）",
+     "brand": "Cymbal ベーシック",
+     "size": "6寸（約18cm）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_jubako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_christmas_party_goods",
+   "category_path": [
+    "生活雑貨・インテリア",
+    "パーティー用品",
+    "クリスマス装飾"
+   ],
+   "tax_rate": 10,
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "ホームパーティー",
+    "子ども会"
+   ],
+   "description": "クリスマスパーティーを盛り上げる装飾グッズです。卓上ミニツリーやLEDガーランド、オーナメントセット、テーブルランナーなど、手軽に飾れるアイテムを揃えました。収納しやすく、毎年繰り返し使えます。",
+   "image_brief": "A small tabletop green Christmas tree with red and gold ball ornaments and a warm white LED string garland, plain white background, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "PVC・ポリエステル",
+    "color": "グリーン・レッド・ゴールド"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 卓上クリスマスツリー 45cm LEDライト付 45cm",
+     "brand": "Cymbal Home",
+     "size": "45cm",
+     "price_tax_excluded": 1980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Home クリスマスツリー 120cm オーナメント付 120cm",
+     "brand": "Cymbal Home",
+     "size": "120cm",
+     "price_tax_excluded": 4980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Home クリスマスオーナメント ボール 24個セット 赤・金 24個入",
+     "brand": "Cymbal Home",
+     "size": "24個入",
+     "price_tax_excluded": 798,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Home LEDガーランドライト 電池式 3m ウォームホワイト 3m",
+     "brand": "Cymbal Home",
+     "size": "3m",
+     "price_tax_excluded": 980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Home クリスマス テーブルランナー 180cm 180cm",
+     "brand": "Cymbal Home",
+     "size": "180cm",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Home クリスマス パーティークラッカー 10個入 10個入",
+     "brand": "Cymbal Home",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_christmas_party_goods_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_seibo_beef_gift",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ギフト",
+    "牛肉ギフト"
+   ],
+   "storage_type": "冷凍食品",
+   "tax_rate": 8,
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "すき焼き",
+    "しゃぶしゃぶ",
+    "年末年始のごちそう"
+   ],
+   "description": "お歳暮や年末年始のごちそうに選びたい、黒毛和牛の贈答用ギフトです。きめ細かなさしが入った肩ロースやもも肉を、すき焼き・しゃぶしゃぶ・焼肉用にカット。化粧箱入り・のし対応で、冷凍便にて大切な方へお届けします。",
+   "image_brief": "Marbled thin-sliced wagyu beef neatly arranged in a black gift box with a clear lid, wrapped with a plain white noshi paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "【お歳暮】黒毛和牛 肩ロース すき焼き用 400g 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 5980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "【お歳暮】黒毛和牛 肩ロース すき焼き用 600g 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 8980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "【お歳暮】黒毛和牛 もも しゃぶしゃぶ用 500g 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 6480,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "【お歳暮】黒毛和牛 焼肉セット 3種 600g 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 7980,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "【お歳暮】黒毛和牛 サーロインステーキ 180g×2枚 180g×2枚",
+     "brand": "",
+     "size": "180g×2枚",
+     "price_tax_excluded": 9800,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_seibo_beef_gift_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_seibo_sweets_gift",
+   "category_path": [
+    "お菓子・製菓",
+    "ギフト",
+    "焼き菓子ギフト"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "アーモンド"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "年賀・手土産",
+    "帰省みやげ",
+    "お茶の時間"
+   ],
+   "description": "フィナンシェやマドレーヌ、クッキーなど人気の焼き菓子を詰め合わせた贈答用ギフト。日持ちがして個包装なので、お歳暮や年始のご挨拶、帰省の手土産にぴったりです。のし・包装を承ります。",
+   "image_brief": "An elegant navy gift box with assorted individually wrapped financiers, madeleines and cookies in neat rows, plain unprinted wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 【お歳暮】焼き菓子詰め合わせ 16個入 16個入",
+     "brand": "Cymbal セレクト",
+     "size": "16個入",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 【お歳暮】焼き菓子詰め合わせ 26個入 26個入",
+     "brand": "Cymbal セレクト",
+     "size": "26個入",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 【お歳暮】焼き菓子詰め合わせ 40個入 40個入",
+     "brand": "Cymbal セレクト",
+     "size": "40個入",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "パティスリー・ルミエ 【お歳暮】バタークッキー缶 36枚 36枚",
+     "brand": "パティスリー・ルミエ",
+     "size": "36枚",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "パティスリー・ルミエ 【お歳暮】フィナンシェ&マドレーヌ 12個入 12個入",
+     "brand": "パティスリー・ルミエ",
+     "size": "12個入",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_seibo_sweets_gift_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_seibo_dashi_gift",
+   "category_path": [
+    "調味料",
+    "ギフト",
+    "だし・醤油ギフト"
+   ],
+   "storage_type": "常温食品",
+   "tax_rate": 8,
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "年始のご挨拶",
+    "おせち作り",
+    "お雑煮"
+   ],
+   "description": "かつお節や昆布の本格だしパックに、だししょうゆやつゆを組み合わせた調味料ギフト。毎日の料理に使えて喜ばれる実用的な贈り物で、年末のおせちやお雑煮作りにも活躍します。化粧箱入り・のし対応です。",
+   "image_brief": "A wooden-look gift box holding small blank-labeled bottles of soy sauce and dashi pouches arranged side by side, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 【お歳暮】本格だしパック詰め合わせ 3種 3種セット",
+     "brand": "Cymbal セレクト",
+     "size": "3種セット",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 【お歳暮】だし&しょうゆ ギフトセット 5点 5点セット",
+     "brand": "Cymbal セレクト",
+     "size": "5点セット",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "醸蔵ひより 【お歳暮】国産丸大豆しょうゆ 詰め合わせ 300ml×3本 300ml×3本",
+     "brand": "醸蔵ひより",
+     "size": "300ml×3本",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 【お歳暮】料亭のだし・つゆ・ぽん酢 ギフト 4点 4点セット",
+     "brand": "Cymbal セレクト",
+     "size": "4点セット",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 【お歳暮】焼きあごだし パック 8g×30袋 ギフト箱 8g×30袋",
+     "brand": "Cymbal",
+     "size": "8g×30袋",
+     "price_tax_excluded": 1980,
+     "origin": "長崎県加工"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_seibo_dashi_gift_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasonal_event_aramaki_zake",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮭・塩干",
+    "新巻鮭"
+   ],
+   "storage_type": "冷凍食品",
+   "tax_rate": 8,
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "焼き鮭",
+    "年取り魚",
+    "鮭茶漬け"
+   ],
+   "description": "北海道の秋鮭を伝統の製法で塩漬けにした新巻鮭です。年末の贈り物や年取り魚として親しまれ、ほどよい塩気と脂ののりが魅力。食べやすい切り身タイプや半身もあり、焼き鮭やお茶漬けなど家族みんなで楽しめます。",
+   "image_brief": "A whole salted silver salmon with head wrapped in straw rope on a woven straw mat, beside a plain white gift box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "新巻鮭 姿 1尾 約2kg 1尾 約2kg",
+     "brand": "",
+     "size": "1尾 約2kg",
+     "price_tax_excluded": 4980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "新巻鮭 姿 1尾 約2.5kg 1尾 約2.5kg",
+     "brand": "",
+     "size": "1尾 約2.5kg",
+     "price_tax_excluded": 5980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "新巻鮭 姿切り 一切ずつ真空 約1.8kg 約1.8kg",
+     "brand": "",
+     "size": "約1.8kg",
+     "price_tax_excluded": 6480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "新巻鮭 半身 切り身 約800g 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 2980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "【お歳暮】新巻鮭 姿切り ギフト箱 約2kg 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 7980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "新巻鮭 甘塩 切り身 4切 4切",
+     "brand": "",
+     "size": "4切",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_seasonal_event_aramaki_zake_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

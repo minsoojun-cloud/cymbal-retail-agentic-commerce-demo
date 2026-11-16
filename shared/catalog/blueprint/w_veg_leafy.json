@@ -1,0 +1,3795 @@
+{
+ "category_key": "w_veg_leafy",
+ "items": [
+  {
+   "base_id": "w_veg_leafy_chijimi_horenso",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "ほうれん草"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おひたし",
+    "ソテー",
+    "ごま和え",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "冬の寒さにあてて育てた、葉が縮れた寒締めほうれん草です。肉厚の葉は甘みが強く、えぐみが少ないのが特長。さっと茹でたおひたしやバターソテーで、冬ならではの濃い味わいをお楽しみください。",
+   "image_brief": "A bunch of dark green crinkled winter spinach leaves spreading flat like a rosette with pinkish roots, tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "群馬県産 寒締め ちぢみほうれん草 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "宮城県産 寒締め ちぢみほうれん草 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 228,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "岩手県産 寒締め ちぢみほうれん草 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 248,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "栃木県産 ちぢみほうれん草 大袋 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 368,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培 ちぢみほうれん草 1袋（約200g）",
+     "brand": "Cymbal セレクト",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 278,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ちぢみほうれん草 1袋（約150g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_chijimi_horenso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_salad_horenso",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "ほうれん草"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "スムージー",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "アクが少なく生でも食べやすいサラダ用ほうれん草です。やわらかな若い葉で、洗ってそのままサラダやサンドイッチに使えます。ベーコンやナッツと合わせたホットサラダもおすすめです。",
+   "image_brief": "Tender small green spinach leaves with thin stems in a clear plastic bag with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "茨城県産 サラダほうれん草 1袋（約80g）",
+     "brand": "",
+     "size": "1袋（約80g）",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 サラダほうれん草 1袋（約80g）",
+     "brand": "",
+     "size": "1袋（約80g）",
+     "price_tax_excluded": 168,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "福岡県産 サラダほうれん草 徳用 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 268,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "Cymbal 洗わずそのまま サラダほうれん草 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 サラダほうれん草 70g",
+     "brand": "Cymbal オーガニック",
+     "size": "70g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_salad_horenso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_akajiku_horenso",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "ほうれん草"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "サラダ",
+    "おひたし",
+    "ナムル",
+    "彩り添え"
+   ],
+   "tax_rate": 8,
+   "description": "茎や根元が鮮やかな赤色になる赤軸ほうれん草です。甘みがあってアクが控えめなので、生のままサラダに加えると彩りもきれい。さっと茹でておひたしやナムルにしても色が映えます。",
+   "image_brief": "A small bunch of green spinach with vivid red stems and roots in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "群馬県産 赤軸ほうれん草 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "埼玉県産 赤軸ほうれん草 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 218,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "千葉県産 赤軸ほうれん草 ミニ 1袋（約60g）",
+     "brand": "",
+     "size": "1袋（約60g）",
+     "price_tax_excluded": 148,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培 赤軸ほうれん草 1袋（約100g）",
+     "brand": "Cymbal セレクト",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 258,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_akajiku_horenso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_chijimina",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "ちぢみ菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "炒め物",
+    "おひたし",
+    "鍋",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "ターサイと小松菜を掛け合わせた冬の葉物、ちぢみ菜です。縮れた濃い緑の葉は寒さで甘みを増し、加熱しても煮くずれしにくいのが特長。炒め物やおひたし、鍋の具材に便利です。",
+   "image_brief": "A flat rosette of deep green wrinkled leafy greens with short pale stems in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "茨城県産 ちぢみ菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 178,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "千葉県産 ちぢみ菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 188,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "埼玉県産 ちぢみ菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "群馬県産 ちぢみ菜 大袋 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 328,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ちぢみ菜 1袋（約150g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_chijimina_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_tatsoi",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "ターサイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "中華炒め",
+    "スープ",
+    "クリーム煮",
+    "おひたし"
+   ],
+   "tax_rate": 8,
+   "description": "地面に張り付くように広がる、濃緑色の葉が美しい中国野菜ターサイです。肉厚でクセが少なく、加熱すると甘みととろみが出ます。中華炒めやスープ、クリーム煮など幅広く使えます。",
+   "image_brief": "A whole flat rosette of dark glossy round-leaved tatsoi greens laid in a clear film wrap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 ターサイ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 168,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "茨城県産 ターサイ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 178,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "愛知県産 ターサイ 2株入",
+     "brand": "",
+     "size": "2株入",
+     "price_tax_excluded": 298,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 ミニターサイ 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 158,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_tatsoi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_wasabina",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "わさび菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "サラダ",
+    "おひたし",
+    "しゃぶしゃぶ",
+    "浅漬け"
+   ],
+   "tax_rate": 8,
+   "description": "フリルのような切れ込みのある葉と、わさびに似たピリッとした辛みが特長のわさび菜です。生のままサラダに加えると爽やかなアクセントに。しゃぶしゃぶや浅漬けにもよく合います。",
+   "image_brief": "Frilly bright green mustard leaves with deep serrated edges in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福岡県産 わさび菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 158,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "茨城県産 わさび菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 168,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 わさび菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "佐賀県産 わさび菜 大袋 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "Cymbal サラダ用 わさび菜 カット 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_wasabina_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_karashina",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "からし菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "漬物",
+    "おひたし",
+    "炒め物",
+    "菜飯"
+   ],
+   "tax_rate": 8,
+   "description": "ほろ苦さとツンとした辛みがクセになるからし菜です。塩もみして浅漬けにすると辛みが引き立ち、ご飯のおともにぴったり。ごま油でさっと炒めたり、刻んで菜飯にしてもおいしくいただけます。",
+   "image_brief": "A bunch of large green mustard greens with slightly wavy leaves and pale stems tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福岡県産 からし菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 158,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "熊本県産 からし菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 168,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "千葉県産 からし菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 178,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "福岡県産 赤からし菜 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "福岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_karashina_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_osaka_shirona",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "大阪しろな"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "煮びたし",
+    "味噌汁",
+    "炒め物",
+    "おひたし"
+   ],
+   "tax_rate": 8,
+   "description": "大阪で昔から親しまれてきた伝統野菜、しろなです。白く平たい軸とやわらかな葉はクセがなく、さっと火が通ります。油揚げとの煮びたしや味噌汁の具など、毎日のおかずに使いやすい青菜です。",
+   "image_brief": "A bunch of leafy greens with smooth wide white stalks and light green spoon-shaped leaves tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "大阪府産 大阪しろな 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 158,
+     "origin": "大阪府産"
+    },
+    {
+     "title": "奈良県産 大阪しろな 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 168,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "兵庫県産 大阪しろな 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 148,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "大阪府産 大阪しろな 徳用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 278,
+     "origin": "大阪府産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_osaka_shirona_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_santosai",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "山東菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "漬物",
+    "鍋",
+    "炒め物",
+    "煮びたし"
+   ],
+   "tax_rate": 8,
+   "description": "結球しない白菜の仲間、山東菜です。やわらかな葉と甘みのある白い軸が特長で、関東では漬け菜として古くから親しまれています。浅漬けや鍋物、炒め物などにたっぷりお使いください。",
+   "image_brief": "A large loose head of pale green non-heading Chinese cabbage leaves with broad white ribs wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "埼玉県産 山東菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "茨城県産 山東菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 208,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "埼玉県産 山東菜 1/2カット 1/2株",
+     "brand": "",
+     "size": "1/2株",
+     "price_tax_excluded": 118,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "千葉県産 山東菜 1株（大）",
+     "brand": "",
+     "size": "1株（大）",
+     "price_tax_excluded": 258,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_santosai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_nozawana",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "野沢菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "野沢菜漬け",
+    "炒め物",
+    "おやき",
+    "菜飯"
+   ],
+   "tax_rate": 8,
+   "description": "信州の冬の味覚、漬物用の生の野沢菜です。長く伸びた茎はシャキッとした歯ごたえで、塩漬けにすると風味が増します。ご家庭での漬け込みはもちろん、刻んで炒め物やおやきの具にも。",
+   "image_brief": "A long bundle of fresh nozawana mustard greens with tall pale green stems and leaves tied with plain straw string, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 生 野沢菜 1束（約1kg）",
+     "brand": "",
+     "size": "1束（約1kg）",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 生 野沢菜 1束（約2kg）",
+     "brand": "",
+     "size": "1束（約2kg）",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    },
+    {
+     "title": "群馬県産 生 野沢菜 1束（約1kg）",
+     "brand": "",
+     "size": "1束（約1kg）",
+     "price_tax_excluded": 378,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "長野県産 生 野沢菜 カット 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 228,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_nozawana_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_mibuna",
+   "category_path": [
+    "野菜・果物",
+    "京野菜・伝統野菜",
+    "壬生菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "はりはり鍋",
+    "漬物",
+    "サラダ",
+    "おひたし"
+   ],
+   "tax_rate": 8,
+   "description": "京都の伝統野菜、壬生菜です。へら状の細長い葉はほのかなからし風味があり、シャキシャキとした食感が特長。水菜の仲間で、はりはり鍋や浅漬け、サラダなど幅広く楽しめます。",
+   "image_brief": "A bunch of slender strap-shaped green leaves with white stems, tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京都府産 壬生菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "京都府産"
+    },
+    {
+     "title": "滋賀県産 壬生菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 188,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "京都府産 壬生菜 1袋（約300g）",
+     "brand": "",
+     "size": "1袋（約300g）",
+     "price_tax_excluded": 348,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培 壬生菜 1袋（約150g）",
+     "brand": "Cymbal セレクト",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 238,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_mibuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_norabona",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "のらぼう菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "おひたし",
+    "ごま和え",
+    "パスタ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "関東の西部で古くから作られてきた、春を告げるアブラナ科の伝統野菜です。とう立ちしたやわらかな茎は甘みがあり、苦みが少ないのが特長。おひたしやごま和え、パスタの具に。",
+   "image_brief": "A bunch of tender green flowering stems with small leaves and a few yellow buds tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "東京都産 のらぼう菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "東京都産"
+    },
+    {
+     "title": "神奈川県産 のらぼう菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 198,
+     "origin": "神奈川県産"
+    },
+    {
+     "title": "埼玉県産 のらぼう菜 1束（約200g）",
+     "brand": "",
+     "size": "1束（約200g）",
+     "price_tax_excluded": 188,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "東京都産 のらぼう菜 徳用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 358,
+     "origin": "東京都産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_norabona_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kakina",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "かき菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "おひたし",
+    "からし和え",
+    "炒め物",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "伸びてきた若い茎を手で摘み取る、北関東の春の味覚かき菜です。やわらかくほんのり甘い茎と葉は、さっと茹でてからし和えやおひたしに。苦みが少なく、菜の花が苦手な方にもおすすめです。",
+   "image_brief": "A bundle of tender young green stems and leaves with a few unopened buds tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "栃木県産 かき菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 178,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "群馬県産 かき菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 178,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "埼玉県産 かき菜 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 168,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "栃木県産 かき菜 大袋 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 318,
+     "origin": "栃木県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kakina_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kousaitai",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "紅菜苔"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "炒め物",
+    "おひたし",
+    "パスタ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "紫色の茎と黄色い花が美しい中国野菜、紅菜苔（こうさいたい）です。茹でると茎が鮮やかな緑に変わり、甘くとろりとした食感に。中華炒めやおひたし、パスタなど食卓が華やぎます。",
+   "image_brief": "A bunch of purple-stemmed flowering greens with small yellow flowers and green leaves tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 紅菜苔 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "千葉県産 紅菜苔 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 208,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "徳島県産 紅菜苔 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "長野県産 紅菜苔 徳用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 358,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kousaitai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_ice_plant",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "アイスプラント"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "天ぷら",
+    "サンドイッチ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "葉や茎の表面に水滴のような粒があり、ほんのり塩味を感じる不思議な野菜です。プチプチとした食感が楽しく、ドレッシングなしでもおいしいのが魅力。サラダや天ぷら、おつまみにどうぞ。",
+   "image_brief": "Thick succulent pale green sprigs covered with glistening crystal-like water droplets in a clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "佐賀県産 アイスプラント 1パック（約50g）",
+     "brand": "",
+     "size": "1パック（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "静岡県産 アイスプラント 1パック（約50g）",
+     "brand": "",
+     "size": "1パック（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "徳島県産 アイスプラント 1パック（約50g）",
+     "brand": "",
+     "size": "1パック（約50g）",
+     "price_tax_excluded": 218,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "佐賀県産 アイスプラント 大容量 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 358,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "Cymbal セレクト ぷちぷち アイスプラント 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_ice_plant_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kushinsai",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "空芯菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "にんにく炒め",
+    "炒め物",
+    "スープ",
+    "おひたし"
+   ],
+   "tax_rate": 8,
+   "description": "茎の中が空洞になっている夏の葉物、空芯菜です。シャキシャキした茎とやわらかな葉は、にんにくと強火でさっと炒めるのが定番。アジアの屋台風の一皿が手軽に楽しめます。",
+   "image_brief": "A bunch of long hollow green stems with arrow-shaped leaves of water spinach tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "沖縄県産 空芯菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "高知県産 空芯菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 178,
+     "origin": "高知県産"
+    },
+    {
+     "title": "熊本県産 空芯菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 168,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "茨城県産 空芯菜 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 188,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "沖縄県産 空芯菜 大袋 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 328,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kushinsai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_tsurumurasaki",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "つるむらさき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "おひたし",
+    "炒め物",
+    "和え物",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚の葉と独特のぬめりが特長の夏野菜、つるむらさきです。茹でるとつるりとした食感になり、おひたしやごま和え、炒め物におすすめ。土の香りのある素朴な味わいが楽しめます。",
+   "image_brief": "A bunch of thick glossy heart-shaped green leaves on reddish-purple stems in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福島県産 つるむらさき 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 158,
+     "origin": "福島県産"
+    },
+    {
+     "title": "山形県産 つるむらさき 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 168,
+     "origin": "山形県産"
+    },
+    {
+     "title": "群馬県産 つるむらさき 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 158,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "高知県産 緑茎 つるむらさき 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 168,
+     "origin": "高知県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_tsurumurasaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kinjiso",
+   "category_path": [
+    "野菜・果物",
+    "京野菜・伝統野菜",
+    "金時草"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "dishes": [
+    "酢の物",
+    "天ぷら",
+    "おひたし",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "葉の表は緑、裏は鮮やかな紫色をした加賀野菜の金時草です。茹でると独特のぬめりが出て、紫色の煮汁もきれい。酢の物やおひたし、天ぷらで、見た目にも楽しい一品になります。",
+   "image_brief": "A bunch of leaves green on top and vivid purple underneath, shown slightly turned, in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "石川県産 金時草 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "石川県産"
+    },
+    {
+     "title": "沖縄県産 金時草 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "熊本県産 金時草 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 188,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "石川県産 金時草 徳用 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "石川県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kinjiso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kale",
+   "category_path": [
+    "野菜・果物",
+    "洋野菜",
+    "ケール"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スムージー",
+    "ケールチップス",
+    "サラダ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "濃い緑色の葉がしっかりした栄養野菜、ケールです。縮れたカーリーケールは食感がよく、スムージーやオーブンで焼くケールチップスに最適。細かく刻めばサラダやスープにも使えます。",
+   "image_brief": "A bunch of deeply curly dark green kale leaves on thick stems tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 カーリーケール 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 カーリーケール 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 208,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "静岡県産 サラダケール 1袋（約60g）",
+     "brand": "",
+     "size": "1袋（約60g）",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "長野県産 ケール 大袋 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ケール 1袋（約100g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal スムージー用 ケール カット 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kale_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_cavolo_nero",
+   "category_path": [
+    "野菜・果物",
+    "洋野菜",
+    "黒キャベツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "リボリータ",
+    "パスタ",
+    "ソテー",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "トスカーナ地方の伝統野菜、黒キャベツ（カーボロ・ネロ）です。細長く縮れた濃紺色の葉は煮込むほどに甘みが出て、ミネストローネやパスタ、オリーブオイルでのソテーにぴったりです。",
+   "image_brief": "A bundle of long narrow blistered very dark blue-green Tuscan kale leaves tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 カーボロネロ 黒キャベツ 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 カーボロネロ 黒キャベツ 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 298,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "長野県産 カーボロネロ 黒キャベツ 1束（約300g）",
+     "brand": "",
+     "size": "1束（約300g）",
+     "price_tax_excluded": 528,
+     "origin": "長野県産"
+    },
+    {
+     "title": "北海道産 カーボロネロ 黒キャベツ 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 278,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_cavolo_nero_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_swiss_chard",
+   "category_path": [
+    "野菜・果物",
+    "洋野菜",
+    "スイスチャード"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ソテー",
+    "スープ",
+    "サラダ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "赤や黄色、ピンクなどカラフルな茎が目をひくスイスチャード（ふだん草）です。ほうれん草に似たやさしい味わいで、バターソテーやスープに。若い葉はサラダにしても彩りよく仕上がります。",
+   "image_brief": "A bunch of leafy greens with brightly colored red, yellow and pink stems and glossy green leaves tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 スイスチャード カラフルミックス 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 248,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 スイスチャード カラフルミックス 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 238,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "茨城県産 スイスチャード 赤茎 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 228,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "千葉県産 ミニスイスチャード サラダ用 1袋（約50g）",
+     "brand": "",
+     "size": "1袋（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_swiss_chard_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_puchi_vert",
+   "category_path": [
+    "野菜・果物",
+    "洋野菜",
+    "プチヴェール"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "ソテー",
+    "シチュー",
+    "天ぷら",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "ケールと芽キャベツを掛け合わせて生まれた冬の野菜、プチヴェールです。小さなバラの花のような形がかわいらしく、加熱すると甘みが増します。肉料理の付け合わせやシチューの彩りに。",
+   "image_brief": "Small rose-shaped frilly green sprouts with purple-tinged edges heaped in a clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 プチヴェール 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 248,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "福岡県産 プチヴェール 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 258,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "鹿児島県産 プチヴェール 1パック（約100g）",
+     "brand": "",
+     "size": "1パック（約100g）",
+     "price_tax_excluded": 238,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "静岡県産 プチヴェール 徳用 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_puchi_vert_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_mini_hakusai",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "白菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "浅漬け",
+    "クリーム煮",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "手のひらサイズで使い切りやすいミニ白菜です。葉がやわらかく甘みがあり、少人数の鍋やサラダにも使いやすいのが魅力。中が鮮やかなオレンジ色の品種もそろえ、食卓が華やぎます。",
+   "image_brief": "A small whole compact napa cabbage head with crisp pale yellow-green leaves, plus one cut half showing the interior, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 ミニ白菜 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 158,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 ミニ白菜 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 168,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 ミニ白菜 2玉入",
+     "brand": "",
+     "size": "2玉入",
+     "price_tax_excluded": 298,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "茨城県産 オレンジ白菜 ミニ 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 198,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "長野県産 紫白菜 ミニ 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 248,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_mini_hakusai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_hadaikon",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "葉だいこん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "菜飯",
+    "炒め物",
+    "味噌汁",
+    "浅漬け"
+   ],
+   "tax_rate": 8,
+   "description": "葉を食べるために育てたやわらかな葉だいこんです。細い根の部分ごと使え、ほのかな辛みとシャキシャキ食感が特長。ごま油で炒めてふりかけにしたり、菜飯や味噌汁の具に重宝します。",
+   "image_brief": "A bunch of young radish greens with slender white roots attached tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "埼玉県産 葉だいこん 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 128,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "茨城県産 葉だいこん 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 138,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "千葉県産 葉だいこん 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 128,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "群馬県産 葉だいこん 徳用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 238,
+     "origin": "群馬県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_hadaikon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_aka_mizuna",
+   "category_path": [
+    "野菜・果物",
+    "葉物野菜",
+    "水菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "サラダ",
+    "はりはり鍋",
+    "浅漬け",
+    "彩り添え"
+   ],
+   "tax_rate": 8,
+   "description": "茎が赤紫色に色づく、彩り豊かな赤水菜です。シャキシャキした食感とクセのない味わいは普通の水菜と同様で、サラダに加えると一気に華やかに。鍋やお吸い物の彩りにもおすすめです。",
+   "image_brief": "A bunch of slender red-purple stems with feathery green leaves of red mizuna in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "茨城県産 赤水菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "京都府産 赤水菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 188,
+     "origin": "京都府産"
+    },
+    {
+     "title": "福岡県産 赤水菜 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 168,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "Cymbal サラダ用 ミックス水菜（赤・緑） 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_aka_mizuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_romaine",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "ロメインレタス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "シーザーサラダ",
+    "サンドイッチ",
+    "グリル",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "縦長の形が特長のロメインレタスです。シャキッとした歯ごたえとほのかな苦みがあり、シーザーサラダの定番野菜。半分に切って焼くグリルや、スープの具にしてもおいしくいただけます。",
+   "image_brief": "A whole elongated head of crisp romaine lettuce with upright green leaves, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "群馬県産 ロメインレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "茨城県産 ロメインレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "静岡県産 ロメインレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 218,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "アメリカ産 ロメインハート 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "長野県産 ミニロメインレタス 2株入",
+     "brand": "",
+     "size": "2株入",
+     "price_tax_excluded": 258,
+     "origin": "長野県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ロメインレタス 1株",
+     "brand": "Cymbal オーガニック",
+     "size": "1株",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_romaine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_frill_lettuce",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "フリルレタス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "手巻き寿司",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "葉先がフリル状に細かく波打つフリルレタスです。シャキシャキと歯切れがよく、ドレッシングがよく絡みます。ボリュームがあってお皿が華やかになるので、サンドイッチや付け合わせにも最適です。",
+   "image_brief": "A loose head of bright green lettuce with heavily frilled ruffled leaf edges, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 フリルレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 フリルレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 188,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 フリルレタス 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "Cymbal セレクト 水耕栽培 フリルレタス 1株（根付き）",
+     "brand": "Cymbal セレクト",
+     "size": "1株（根付き）",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal フリルレタス カット 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_frill_lettuce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_green_leaf",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "グリーンリーフ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "焼肉",
+    "サンドイッチ",
+    "生春巻き"
+   ],
+   "tax_rate": 8,
+   "description": "葉先が波打つやわらかなグリーンリーフレタスです。結球しないので葉を1枚ずつはがしやすく、焼肉を包んだり生春巻きの具にしたりと使い道いろいろ。みずみずしい甘みがあります。",
+   "image_brief": "A loose head of soft wavy-edged light green leaf lettuce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岩手県産 グリーンリーフ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 168,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "茨城県産 グリーンリーフ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 168,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 グリーンリーフ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 178,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "香川県産 グリーンリーフ 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 158,
+     "origin": "香川県産"
+    },
+    {
+     "title": "Cymbal 植物工場育ち グリーンリーフ 1株（根付き）",
+     "brand": "Cymbal",
+     "size": "1株（根付き）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_green_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_saladana",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "サラダ菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "付け合わせ",
+    "手巻き寿司"
+   ],
+   "tax_rate": 8,
+   "description": "丸くやわらかな葉が特長のサラダ菜です。バターのようななめらかな口当たりで、クセがなく子どもにも食べやすい味。料理の下敷きや付け合わせ、サンドイッチの具として重宝します。",
+   "image_brief": "A small round loose head of tender smooth light green butter lettuce with roots wrapped in a clear sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 サラダ菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 128,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "福岡県産 サラダ菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 138,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "愛知県産 サラダ菜 1株",
+     "brand": "",
+     "size": "1株",
+     "price_tax_excluded": 128,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal 水耕栽培 サラダ菜 1株（根付き）",
+     "brand": "Cymbal",
+     "size": "1株（根付き）",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "静岡県産 サラダ菜 2株入",
+     "brand": "",
+     "size": "2株入",
+     "price_tax_excluded": 238,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_saladana_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_sanchu",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "サンチュ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "サムギョプサル",
+    "サラダ",
+    "手巻き"
+   ],
+   "tax_rate": 8,
+   "description": "焼肉を包んで食べるのにぴったりのサンチュ（包み菜）です。やわらかくクセのない葉は、焼いたお肉とキムチ、味噌をのせて包むと絶品。1枚ずつ使えて無駄がなく、サラダにもどうぞ。",
+   "image_brief": "A neat stack of flat oval green lettuce leaves with slightly reddish edges in a clear plastic bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "茨城県産 サンチュ 1袋（約10枚）",
+     "brand": "",
+     "size": "1袋（約10枚）",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "長野県産 サンチュ 1袋（約10枚）",
+     "brand": "",
+     "size": "1袋（約10枚）",
+     "price_tax_excluded": 158,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 サンチュ 1袋（約20枚）",
+     "brand": "",
+     "size": "1袋（約20枚）",
+     "price_tax_excluded": 278,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "群馬県産 赤サンチュ 1袋（約10枚）",
+     "brand": "",
+     "size": "1袋（約10枚）",
+     "price_tax_excluded": 168,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "Cymbal 焼肉用 サンチュ 1袋（約30枚）",
+     "brand": "Cymbal",
+     "size": "1袋（約30枚）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_sanchu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_treviso",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "トレビス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "リゾット",
+    "グリル",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "赤紫色の葉に白い葉脈が美しいイタリア野菜、トレビス（ラディッキオ）です。ほろ苦さとシャキッとした食感が特長で、サラダに少し加えるだけで彩りと味のアクセントに。リゾットやグリルにも。",
+   "image_brief": "A round compact head of deep burgundy-red radicchio with white veins, one half cut open, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 トレビス 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "茨城県産 トレビス 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "イタリア産 トレビス 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 348,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "長野県産 トレビス 1/2カット 1/2個",
+     "brand": "",
+     "size": "1/2個",
+     "price_tax_excluded": 168,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_treviso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_endive",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "チコリ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "カナッペ",
+    "サラダ",
+    "グラタン",
+    "ソテー"
+   ],
+   "tax_rate": 8,
+   "description": "白菜の芽のような形をしたチコリ（アンディーブ）です。シャキッとした歯ごたえと上品なほろ苦さがあり、葉を1枚ずつはがして具をのせればおしゃれなカナッペに。グラタンやソテーにも向きます。",
+   "image_brief": "Two pale ivory-white tight spear-shaped Belgian endive heads with yellow-green tips on a plain tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 チコリ（白） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ベルギー産 チコリ（白） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 328,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "北海道産 チコリ（赤） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 358,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 チコリ（白） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_endive_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_rucola",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "ルッコラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "ピザ",
+    "パスタ",
+    "カルパッチョ"
+   ],
+   "tax_rate": 8,
+   "description": "ごまのような香ばしい風味とピリッとした辛みが特長のルッコラです。生ハムやチーズとの相性が抜群で、焼き上げたピザにのせたり、カルパッチョやサラダに添えたりとイタリアンに欠かせません。",
+   "image_brief": "A small bunch of lobed dark green arugula leaves in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 ルッコラ 1袋（約50g）",
+     "brand": "",
+     "size": "1袋（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "茨城県産 ルッコラ 1袋（約50g）",
+     "brand": "",
+     "size": "1袋（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "長野県産 ルッコラ 1袋（約50g）",
+     "brand": "",
+     "size": "1袋（約50g）",
+     "price_tax_excluded": 168,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 ルッコラ 大袋 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 278,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ルッコラ 1袋（約40g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1袋（約40g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 洗わずそのまま ルッコラ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_rucola_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_selvatica",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "セルバチコ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "ピザ",
+    "パスタ",
+    "肉料理の付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "野生種のルッコラ、セルバチコです。細く切れ込みの深い葉は、一般的なルッコラより香りと辛みが強く、大人好みの味わい。ステーキの付け合わせやピザのトッピングにおすすめです。",
+   "image_brief": "A loose pile of narrow deeply serrated dark green wild arugula leaves in a clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 セルバチコ 1パック（約30g）",
+     "brand": "",
+     "size": "1パック（約30g）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "長野県産 セルバチコ 1パック（約30g）",
+     "brand": "",
+     "size": "1パック（約30g）",
+     "price_tax_excluded": 198,
+     "origin": "長野県産"
+    },
+    {
+     "title": "千葉県産 セルバチコ 1パック（約30g）",
+     "brand": "",
+     "size": "1パック（約30g）",
+     "price_tax_excluded": 218,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "静岡県産 セルバチコ 業務用 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_selvatica_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_micro_leaf",
+   "category_path": [
+    "野菜・果物",
+    "レタス・サラダ菜",
+    "マイクロリーフ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "カルパッチョ",
+    "トッピング",
+    "オードブル"
+   ],
+   "tax_rate": 8,
+   "description": "発芽したばかりの小さな葉を摘み取ったマイクロリーフです。数種類の野菜の若芽をミックスし、色や香りの違いが楽しめます。カルパッチョやスープ、オードブルの仕上げに散らすだけで華やかな一皿に。",
+   "image_brief": "A small clear plastic clamshell filled with tiny colorful microgreen sprouts in green and purple, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト マイクロリーフ ミックス 1パック（約20g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト マイクロリーフ 紫系ミックス 1パック（約20g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト マイクロハーブ ミックス 1パック（約15g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "静岡県産 マイクロリーフ ミックス 1パック（約20g）",
+     "brand": "",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "福岡県産 マイクロリーフ ミックス 1パック（約20g）",
+     "brand": "",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 208,
+     "origin": "福岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_micro_leaf_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_kureson",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "クレソン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "ステーキの付け合わせ",
+    "サラダ",
+    "鍋",
+    "おひたし"
+   ],
+   "tax_rate": 8,
+   "description": "爽やかな辛みと香りが魅力のクレソンです。ステーキなど肉料理の付け合わせの定番ですが、たっぷり使う鍋やサラダもおすすめ。茎ごと食べられ、シャキッとした食感を楽しめます。",
+   "image_brief": "A bunch of small round dark green watercress leaves on thin stems tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山梨県産 クレソン 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "栃木県産 クレソン 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "大分県産 クレソン 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 168,
+     "origin": "大分県産"
+    },
+    {
+     "title": "山梨県産 クレソン 鍋用 1袋（約150g）",
+     "brand": "",
+     "size": "1袋（約150g）",
+     "price_tax_excluded": 398,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 クレソン 1束（約40g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1束（約40g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_kureson_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_seri",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "せり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "せり鍋",
+    "おひたし",
+    "七草がゆ",
+    "きりたんぽ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "シャキシャキとした歯ごたえと清々しい香りが特長のせりです。根まで食べられる根付きせりは、鍋に入れると香りが一段と引き立ちます。おひたしや胡麻和え、きりたんぽ鍋の名脇役にどうぞ。",
+   "image_brief": "A bunch of slender green Japanese parsley stalks with small leaves and white hairy roots tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮城県産 根付き せり 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "秋田県産 根付き せり 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 218,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "茨城県産 せり 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "島根県産 せり 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 178,
+     "origin": "島根県産"
+    },
+    {
+     "title": "宮城県産 鍋用 根付き せり 1袋（約250g）",
+     "brand": "",
+     "size": "1袋（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_seri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_ne_mitsuba",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "三つ葉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "お雑煮",
+    "茶碗蒸し",
+    "おひたし",
+    "かき揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "根の付いたまま出荷される香り高い根三つ葉です。茎が太くしっかりしており、シャキッとした歯ごたえと濃い香りが特長。お雑煮や茶碗蒸し、かき揚げなど、年末年始の料理にも重宝します。",
+   "image_brief": "A bunch of tall white-stemmed mitsuba trefoil with three-lobed green leaves and earthy roots tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "茨城県産 根三つ葉 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "埼玉県産 根三つ葉 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 218,
+     "origin": "埼玉県産"
+    },
+    {
+     "title": "千葉県産 根三つ葉 1束（約150g）",
+     "brand": "",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 198,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "茨城県産 根三つ葉 大束 1束（約300g）",
+     "brand": "",
+     "size": "1束（約300g）",
+     "price_tax_excluded": 368,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "Cymbal セレクト 特別栽培 根三つ葉 1束（約150g）",
+     "brand": "Cymbal セレクト",
+     "size": "1束（約150g）",
+     "price_tax_excluded": 248,
+     "origin": "茨城県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_ne_mitsuba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_pakuchi",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "パクチー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "フォー",
+    "生春巻き",
+    "エスニックサラダ",
+    "トムヤムクン"
+   ],
+   "tax_rate": 8,
+   "description": "独特の爽やかな香りがエスニック料理に欠かせないパクチー（香菜）です。フォーや生春巻き、エスニックサラダに。根の部分も香りが強く、刻んでスープやタレに使うと本格的な味わいになります。",
+   "image_brief": "A bunch of fresh cilantro with delicate lacy green leaves and white roots in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 パクチー 1袋（約30g）",
+     "brand": "",
+     "size": "1袋（約30g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "茨城県産 パクチー 1袋（約30g）",
+     "brand": "",
+     "size": "1袋（約30g）",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "岡山県産 パクチー 1袋（約30g）",
+     "brand": "",
+     "size": "1袋（約30g）",
+     "price_tax_excluded": 168,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "静岡県産 根付き パクチー 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "茨城県産 パクチー 大袋 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 パクチー 1袋（約25g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1袋（約25g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_pakuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_menegi",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "芽ねぎ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "寿司",
+    "冷奴",
+    "吸い物",
+    "カルパッチョ"
+   ],
+   "tax_rate": 8,
+   "description": "ねぎの若芽を細く長く育てた芽ねぎです。上品な香りとシャキッとした食感で、お寿司や冷奴、吸い物のあしらいに。料理の仕上げに添えるだけで、見た目も味わいもぐっと引き締まります。",
+   "image_brief": "A tight bundle of very thin long pale green onion sprouts in a small clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 芽ねぎ 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 128,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "高知県産 芽ねぎ 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 128,
+     "origin": "高知県産"
+    },
+    {
+     "title": "福岡県産 芽ねぎ 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 138,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "静岡県産 芽ねぎ 3パック入",
+     "brand": "",
+     "size": "3パック入",
+     "price_tax_excluded": 348,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_menegi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_hojiso",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "穂じそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "刺身のつま",
+    "天ぷら",
+    "冷奴",
+    "吸い物"
+   ],
+   "tax_rate": 8,
+   "description": "しその花穂を摘み取った、お刺身のつまでおなじみの穂じそです。小さな花をしごいて醤油に散らすと、さわやかな香りがふわっと広がります。天ぷらや冷奴、和え物のあしらいにもどうぞ。",
+   "image_brief": "A small clear pack holding slender green perilla flower spikes with tiny buds neatly lined up, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛知県産 花穂じそ 1パック（10本入）",
+     "brand": "",
+     "size": "1パック（10本入）",
+     "price_tax_excluded": 128,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "静岡県産 花穂じそ 1パック（10本入）",
+     "brand": "",
+     "size": "1パック（10本入）",
+     "price_tax_excluded": 128,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 赤穂じそ 1パック（10本入）",
+     "brand": "",
+     "size": "1パック（10本入）",
+     "price_tax_excluded": 148,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "愛知県産 花穂じそ 業務用 1パック（50本入）",
+     "brand": "",
+     "size": "1パック（50本入）",
+     "price_tax_excluded": 498,
+     "origin": "愛知県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_hojiso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_akajiso",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "赤じそ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7
+   ],
+   "dishes": [
+    "梅干し",
+    "しそジュース",
+    "ゆかり",
+    "柴漬け"
+   ],
+   "tax_rate": 8,
+   "description": "梅干し漬けやしそジュース作りに欠かせない、香り高い赤じその葉です。鮮やかな赤紫色で、梅酢と合わせると美しく発色します。季節の手仕事に使いやすい葉付きの枝のまま、たっぷりお届けします。",
+   "image_brief": "A large bunch of dark reddish-purple crinkled perilla leaves on branches in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "和歌山県産 赤じそ 枝付き 1袋（約300g）",
+     "brand": "",
+     "size": "1袋（約300g）",
+     "price_tax_excluded": 298,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "群馬県産 赤じそ 枝付き 1袋（約300g）",
+     "brand": "",
+     "size": "1袋（約300g）",
+     "price_tax_excluded": 298,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "和歌山県産 赤じそ 葉のみ 1袋（約200g）",
+     "brand": "",
+     "size": "1袋（約200g）",
+     "price_tax_excluded": 348,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "和歌山県産 赤じそ 枝付き 大袋 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "北海道産 ちりめん赤じそ 枝付き 1袋（約300g）",
+     "brand": "",
+     "size": "1袋（約300g）",
+     "price_tax_excluded": 328,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_akajiso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_egoma_ha",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "えごまの葉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "醤油漬け",
+    "焼肉",
+    "サムギョプサル",
+    "キンパ"
+   ],
+   "tax_rate": 8,
+   "description": "韓国料理でおなじみのえごまの葉です。しその仲間で、独特の香りとしっかりした葉が特長。焼肉を包んだり、醤油ダレに漬け込んでご飯のおともにしたりと、本格的な味わいが楽しめます。",
+   "image_brief": "A neat stack of large flat heart-shaped green perilla leaves with serrated edges in a small clear pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福島県産 えごまの葉 1パック（10枚入）",
+     "brand": "",
+     "size": "1パック（10枚入）",
+     "price_tax_excluded": 128,
+     "origin": "福島県産"
+    },
+    {
+     "title": "宮城県産 えごまの葉 1パック（10枚入）",
+     "brand": "",
+     "size": "1パック（10枚入）",
+     "price_tax_excluded": 128,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "福島県産 えごまの葉 1パック（30枚入）",
+     "brand": "",
+     "size": "1パック（30枚入）",
+     "price_tax_excluded": 328,
+     "origin": "福島県産"
+    },
+    {
+     "title": "韓国産 えごまの葉 1パック（10枚入）",
+     "brand": "",
+     "size": "1パック（10枚入）",
+     "price_tax_excluded": 118,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_egoma_ha_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_wakegi",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "わけぎ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "ぬた",
+    "薬味",
+    "チヂミ",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "ねぎとたまねぎの仲間のわけぎです。小ねぎよりやわらかく、甘みとぬめりがあるのが特長。茹でて酢味噌で和える「ぬた」は春先の定番です。薬味やチヂミの具にもたっぷりお使いください。",
+   "image_brief": "A bundle of tender green onion stalks with slightly bulbous white bases tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "広島県産 わけぎ 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 158,
+     "origin": "広島県産"
+    },
+    {
+     "title": "福岡県産 わけぎ 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 158,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "徳島県産 わけぎ 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 168,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "広島県産 わけぎ 徳用 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 328,
+     "origin": "広島県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_wakegi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_asatsuki",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "あさつき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "薬味",
+    "酢味噌和え",
+    "納豆",
+    "うどん"
+   ],
+   "tax_rate": 8,
+   "description": "細く繊細な葉と、ピリッとした辛みと香りが特長のあさつきです。小口切りにしてうどんや納豆、冷奴の薬味に。さっと茹でて酢味噌和えにすれば、季節を感じる小鉢になります。",
+   "image_brief": "A bundle of very thin dark green chive-like onion stalks with small white bulbs tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山形県産 あさつき 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "山形県産"
+    },
+    {
+     "title": "秋田県産 あさつき 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 158,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "福岡県産 あさつき 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 148,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "山形県産 あさつき 1袋（約100g）",
+     "brand": "",
+     "size": "1袋（約100g）",
+     "price_tax_excluded": 278,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_asatsuki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_ha_ninniku",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "葉にんにく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "回鍋肉",
+    "炒め物",
+    "ぬた",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "にんにくの若い葉と茎を食べる葉にんにくです。にんにくの香りがありながら、ねぎのような甘みとやわらかさがあります。豚肉との炒め物や回鍋肉、ぬたに使うとぐっと本格的な味わいに。",
+   "image_brief": "A bundle of flat green garlic leaves with white stalks and small bulbs tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "高知県産 葉にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "高知県産"
+    },
+    {
+     "title": "宮崎県産 葉にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 198,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "愛知県産 葉にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 188,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "高知県産 葉にんにく 徳用 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "高知県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_ha_ninniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_ha_shoga",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "葉しょうが"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "味噌づけ",
+    "甘酢漬け",
+    "焼き魚のはじかみ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "茎付きで出荷される、みずみずしく辛みのやさしい葉しょうがです。そのまま味噌をつけてかじれば夏のおつまみに。甘酢漬けにすれば、焼き魚に添えるはじかみとしても楽しめます。",
+   "image_brief": "A bundle of young ginger rhizomes with pink bases and long green stalks tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 葉しょうが 1束（約5本）",
+     "brand": "",
+     "size": "1束（約5本）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "千葉県産 葉しょうが 1束（約5本）",
+     "brand": "",
+     "size": "1束（約5本）",
+     "price_tax_excluded": 198,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "高知県産 葉しょうが 1束（約5本）",
+     "brand": "",
+     "size": "1束（約5本）",
+     "price_tax_excluded": 188,
+     "origin": "高知県産"
+    },
+    {
+     "title": "静岡県産 谷中しょうが 1束（約8本）",
+     "brand": "",
+     "size": "1束（約8本）",
+     "price_tax_excluded": 298,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_ha_shoga_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_myogatake",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "みょうがたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    4,
+    5,
+    6
+   ],
+   "dishes": [
+    "吸い物",
+    "甘酢漬け",
+    "薬味",
+    "天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "みょうがの若い茎を光を当てずに育てた、春の香味野菜みょうがたけです。淡い紅色と白の美しい茎は、すがすがしい香りとシャキッとした食感。吸い物の吸い口や甘酢漬け、薬味にどうぞ。",
+   "image_brief": "A bundle of slender pale white stalks with soft pink blushes at the base tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮城県産 みょうがたけ 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "宮城県産"
+    },
+    {
+     "title": "群馬県産 みょうがたけ 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 218,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "高知県産 みょうがたけ 1束（約50g）",
+     "brand": "",
+     "size": "1束（約50g）",
+     "price_tax_excluded": 198,
+     "origin": "高知県産"
+    },
+    {
+     "title": "宮城県産 みょうがたけ 3束入",
+     "brand": "",
+     "size": "3束入",
+     "price_tax_excluded": 548,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_myogatake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_gyoja_ninniku",
+   "category_path": [
+    "野菜・果物",
+    "香味野菜",
+    "行者にんにく"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    3,
+    4,
+    5
+   ],
+   "dishes": [
+    "醤油漬け",
+    "ジンギスカン",
+    "炒め物",
+    "餃子"
+   ],
+   "tax_rate": 8,
+   "description": "山菜として人気の行者にんにくです。にんにくのような力強い香りと、やわらかな葉の食感が特長。醤油漬けにすればご飯がすすむ一品に。ジンギスカンや卵とじ、餃子の具にもおすすめです。",
+   "image_brief": "A bundle of broad flat green leaves with reddish-purple stems of wild garlic tied with plain tape, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北海道産 行者にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "山形県産 行者にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 378,
+     "origin": "山形県産"
+    },
+    {
+     "title": "長野県産 行者にんにく 1束（約100g）",
+     "brand": "",
+     "size": "1束（約100g）",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "北海道産 行者にんにく 大袋 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 898,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_gyoja_ninniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_sweet_basil",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "バジル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "カプレーゼ",
+    "ジェノベーゼ",
+    "ピザ",
+    "ガパオライス"
+   ],
+   "tax_rate": 8,
+   "description": "甘く爽やかな香りが広がるスイートバジルです。トマトとモッツァレラのカプレーゼや、自家製ジェノベーゼソースに。ガパオライスやパスタの仕上げにちぎってのせるだけで、香り豊かな一皿になります。",
+   "image_brief": "Bright green glossy sweet basil leaves on stems in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 スイートバジル 1パック（約15g）",
+     "brand": "",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 スイートバジル 1パック（約15g）",
+     "brand": "",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "沖縄県産 スイートバジル 1パック（約15g）",
+     "brand": "",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 168,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "静岡県産 スイートバジル 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 398,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "Cymbal 根付き スイートバジル 1株",
+     "brand": "Cymbal",
+     "size": "1株",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "沖縄県産 ホーリーバジル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 198,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_sweet_basil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_mint",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "ミント"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "モヒート",
+    "ミントティー",
+    "デザート",
+    "エスニックサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "すっきりとした清涼感あふれるフレッシュミントです。ドリンクのモヒートやミントティー、デザートの飾りに。エスニックサラダや生春巻きに加えると爽やかなアクセントになります。",
+   "image_brief": "Small sprigs of fresh bright green mint leaves in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 スペアミント 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 スペアミント 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "静岡県産 ペパーミント 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 スペアミント 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 アップルミント 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "愛知県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_mint_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_rosemary",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "ローズマリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストチキン",
+    "ポテトのロースト",
+    "フォカッチャ",
+    "ハーブオイル"
+   ],
+   "tax_rate": 8,
+   "description": "松葉のような細い葉から力強い香りが立つローズマリーです。鶏肉や豚肉のロースト、じゃがいもの焼き料理と相性抜群。フォカッチャに散らしたり、オリーブオイルに漬けてハーブオイルにも。",
+   "image_brief": "A few woody sprigs of needle-like dark green rosemary in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 ローズマリー 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 ローズマリー 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 ローズマリー 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 148,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "静岡県産 ローズマリー 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_rosemary_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_dill",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "ディル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サーモンマリネ",
+    "ピクルス",
+    "タルタルソース",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "細い糸状の葉が特長で、魚料理との相性がよいディルです。サーモンのマリネやカルパッチョ、ピクルスに加えると爽やかな香りがふわり。刻んでタルタルソースやポテトサラダに混ぜてもおいしいです。",
+   "image_brief": "Feathery thread-like bright green dill sprigs in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 ディル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 ディル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "長野県産 ディル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 ディル 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_dill_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_thyme",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "タイム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "煮込み料理",
+    "ロースト",
+    "ブーケガルニ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "小さな葉から清々しい香りが立つタイムです。長時間煮込んでも香りが飛びにくく、ポトフやトマト煮込み、ローストチキンに最適。ローリエやパセリと束ねて、ブーケガルニにもお使いください。",
+   "image_brief": "Thin woody sprigs with tiny gray-green thyme leaves in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 タイム 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 タイム 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "静岡県産 レモンタイム 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 タイム 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 448,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_thyme_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_italian_parsley",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "イタリアンパセリ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "カルパッチョ",
+    "サラダ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "平たい葉が特長で、縮れたパセリよりも香りがやさしく食べやすいイタリアンパセリです。刻んでパスタやカルパッチョに散らすと彩りと風味がアップ。サラダに葉ごとたっぷり加えるのもおすすめです。",
+   "image_brief": "A bunch of flat-leaf Italian parsley with bright green lobed leaves in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 イタリアンパセリ 1パック（約20g）",
+     "brand": "",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "千葉県産 イタリアンパセリ 1パック（約20g）",
+     "brand": "",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 158,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "愛知県産 イタリアンパセリ 1パック（約20g）",
+     "brand": "",
+     "size": "1パック（約20g）",
+     "price_tax_excluded": 168,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 イタリアンパセリ 大袋 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 イタリアンパセリ 1パック（約15g）",
+     "brand": "Cymbal オーガニック",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_italian_parsley_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_sage",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "セージ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サルティンボッカ",
+    "ソーセージ",
+    "バターソース",
+    "ハーブティー"
+   ],
+   "tax_rate": 8,
+   "description": "ややほろ苦く、すっきりとした香りのセージです。豚肉やレバーなど脂のある肉料理の臭みを和らげ、イタリア料理のサルティンボッカでもおなじみ。焦がしバターと合わせたパスタソースにも好相性です。",
+   "image_brief": "A few soft velvety gray-green oval sage leaves on stems in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 セージ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 セージ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 セージ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "静岡県産 セージ 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 478,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_sage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_oregano",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "オレガノ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "トマト料理",
+    "グリル",
+    "マリネ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトやチーズと相性のよい、ほろ苦く爽やかな香りのフレッシュオレガノです。ピザやトマトソースのパスタ、肉や魚のグリルに。乾燥品とは違うフレッシュならではのやわらかな香りが楽しめます。",
+   "image_brief": "Small sprigs of round soft green oregano leaves in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 オレガノ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 オレガノ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 168,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "長野県産 オレガノ 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 オレガノ 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 478,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_oregano_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_lemongrass",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "レモングラス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "dishes": [
+    "トムヤムクン",
+    "グリーンカレー",
+    "ハーブティー",
+    "マリネ"
+   ],
+   "tax_rate": 8,
+   "description": "レモンのような爽やかな香りを持つ、タイ料理に欠かせないレモングラスです。茎の根元をたたいてトムヤムクンやグリーンカレーに入れると本格的な香りに。葉の部分はハーブティーにも使えます。",
+   "image_brief": "Several long pale green lemongrass stalks with bulbous bases bundled in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "沖縄県産 レモングラス 1パック（3本入）",
+     "brand": "",
+     "size": "1パック（3本入）",
+     "price_tax_excluded": 198,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "静岡県産 レモングラス 1パック（3本入）",
+     "brand": "",
+     "size": "1パック（3本入）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "タイ産 レモングラス 1パック（3本入）",
+     "brand": "",
+     "size": "1パック（3本入）",
+     "price_tax_excluded": 178,
+     "origin": "タイ産"
+    },
+    {
+     "title": "沖縄県産 レモングラス 1パック（10本入）",
+     "brand": "",
+     "size": "1パック（10本入）",
+     "price_tax_excluded": 548,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_lemongrass_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_chervil",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "チャービル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オムレツ",
+    "サラダ",
+    "スープ",
+    "デザートの飾り"
+   ],
+   "tax_rate": 8,
+   "description": "繊細な葉とやさしい甘い香りが特長のチャービルです。「美食家のパセリ」とも呼ばれ、オムレツやサラダ、スープの仕上げに散らすと上品に仕上がります。デザートの飾りにも重宝します。",
+   "image_brief": "Delicate lacy light green chervil sprigs in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 チャービル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 チャービル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 178,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "長野県産 チャービル 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 188,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 チャービル 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_chervil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_laurel_fresh",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "ローリエ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "シチュー",
+    "ポトフ",
+    "ピクルス"
+   ],
+   "tax_rate": 8,
+   "description": "月桂樹の生の葉、フレッシュローリエです。乾燥品よりも香りがやわらかく、煮込み料理に入れると奥行きのある風味に。カレーやシチュー、ポトフ、ピクルス液など幅広くお使いいただけます。",
+   "image_brief": "A small sprig of glossy dark green bay laurel leaves in a clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 フレッシュローリエ 1パック（約5g）",
+     "brand": "",
+     "size": "1パック（約5g）",
+     "price_tax_excluded": 158,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 フレッシュローリエ 1パック（約5g）",
+     "brand": "",
+     "size": "1パック（約5g）",
+     "price_tax_excluded": 158,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "千葉県産 フレッシュローリエ 1パック（約5g）",
+     "brand": "",
+     "size": "1パック（約5g）",
+     "price_tax_excluded": 168,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "静岡県産 フレッシュローリエ 大袋 約30g",
+     "brand": "",
+     "size": "約30g",
+     "price_tax_excluded": 398,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_laurel_fresh_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_herb_mix",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "ハーブミックス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ロースト料理",
+    "煮込み料理",
+    "ハーブオイル",
+    "魚のグリル"
+   ],
+   "tax_rate": 8,
+   "description": "料理によく使う数種類のフレッシュハーブをひとまとめにしたセットです。ロースト用や煮込み用など用途別に組み合わせているので、少しずついろいろなハーブを使いたい方に便利。お試しにもおすすめです。",
+   "image_brief": "An assortment of fresh herb sprigs including rosemary, thyme, sage and parsley arranged in a clear plastic clamshell with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ロースト用 フレッシュハーブミックス 1パック（約15g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 煮込み用 ブーケガルニ フレッシュハーブセット 1パック（約15g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 魚料理用 フレッシュハーブミックス 1パック（約15g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal イタリアン フレッシュハーブミックス 1パック（約15g）",
+     "brand": "Cymbal",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト ハーブティー用 フレッシュハーブミックス 1パック（約15g）",
+     "brand": "Cymbal セレクト",
+     "size": "1パック（約15g）",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_herb_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_veg_leafy_tarragon",
+   "category_path": [
+    "野菜・果物",
+    "フレッシュハーブ",
+    "エストラゴン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ベアルネーズソース",
+    "鶏肉料理",
+    "ドレッシング",
+    "ハーブビネガー"
+   ],
+   "tax_rate": 8,
+   "description": "フランス料理でよく使われる、ほのかな甘みとアニスに似た香りのエストラゴン（タラゴン）です。鶏肉や卵料理と相性がよく、ベアルネーズソースやドレッシングに。酢に漬けてハーブビネガーにも。",
+   "image_brief": "Slender sprigs of narrow long glossy green tarragon leaves in a small clear plastic pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 エストラゴン 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 198,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "愛知県産 エストラゴン 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 198,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "長野県産 エストラゴン 1パック（約10g）",
+     "brand": "",
+     "size": "1パック（約10g）",
+     "price_tax_excluded": 218,
+     "origin": "長野県産"
+    },
+    {
+     "title": "静岡県産 エストラゴン 大袋 約50g",
+     "brand": "",
+     "size": "約50g",
+     "price_tax_excluded": 548,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_veg_leafy_tarragon_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

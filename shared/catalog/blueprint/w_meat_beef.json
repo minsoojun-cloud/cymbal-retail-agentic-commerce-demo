@@ -1,0 +1,3573 @@
+{
+ "category_key": "w_meat_beef",
+ "items": [
+  {
+   "base_id": "w_meat_beef_kuroge_sirloin_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ステーキ",
+    "サイコロステーキ",
+    "記念日ディナー",
+    "ステーキ丼"
+   ],
+   "tax_rate": 8,
+   "description": "きめ細かなサシが美しい黒毛和牛のサーロインを、ステーキ用の厚みでカットしました。焼くととろけるような脂の甘みと香りが広がります。記念日やごほうびディナーにおすすめです。",
+   "image_brief": "Two thick marbled wagyu sirloin steaks with fine white fat streaks on a black tray with a sprig of green garnish, sealed with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 サーロインステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 2780,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 サーロインステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 2780,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 サーロインステーキ用 2枚（約360g）",
+     "brand": "",
+     "size": "2枚（約360g）",
+     "price_tax_excluded": 5980,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "岩手県産 黒毛和牛 サーロインステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 2280,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "北海道産 黒毛和牛 サーロインステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 3180,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト A5等級 黒毛和牛 サーロインステーキ用 2枚（約400g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 8180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_sirloin_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_ribloin_sukiyaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "肉豆腐",
+    "牛丼",
+    "年末年始のごちそう"
+   ],
+   "tax_rate": 8,
+   "description": "霜降りが豊かな黒毛和牛のリブロースを、すき焼きに合う薄さにスライスしました。割下でさっと煮ると口の中でほどけるようなやわらかさ。年末年始やおもてなしの鍋の主役になります。",
+   "image_brief": "Thin slices of richly marbled wagyu rib loin arranged in overlapping fan rows on a black lacquer-style tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 リブロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 4080,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 リブロース すき焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2780,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 リブロース すき焼き用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 5780,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "滋賀県産 黒毛和牛 リブロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 4780,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 リブロース すき焼き用 500g 化粧箱入",
+     "brand": "Cymbal セレクト",
+     "size": "500g 化粧箱入",
+     "price_tax_excluded": 8280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_ribloin_sukiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_hire_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ヒレステーキ",
+    "ビーフカツ",
+    "記念日ディナー",
+    "シャトーブリアン"
+   ],
+   "tax_rate": 8,
+   "description": "1頭からわずかしかとれない黒毛和牛のヒレを、厚切りステーキにしました。脂が少なく上品な赤身で、驚くほどやわらか。シンプルに塩こしょうで焼いて素材の味をお楽しみください。",
+   "image_brief": "Two round thick-cut wagyu tenderloin steaks with deep red lean meat and light marbling on a black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 ヒレステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "1枚（約120g）",
+     "price_tax_excluded": 2380,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 ヒレステーキ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 4780,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "熊本県産 黒毛和牛 ヒレステーキ用 1枚（約100g）",
+     "brand": "",
+     "size": "1枚（約100g）",
+     "price_tax_excluded": 1880,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 シャトーブリアン ヒレステーキ用 1枚（約150g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 4180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_hire_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_momo_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "冷しゃぶサラダ",
+    "肉巻き",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛のももを、しゃぶしゃぶ向けにごく薄くスライスしました。赤身のうま味と和牛ならではのほのかな甘みがあり、さっぱりいただけます。ポン酢やごまだれでどうぞ。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Paper-thin slices of rosy wagyu round beef rolled and arranged in neat rows on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 もも しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 もも しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2880,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "岩手県産 黒毛和牛 もも しゃぶしゃぶ用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1480,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "山形県産 黒毛和牛 もも しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 2580,
+     "origin": "山形県産"
+    },
+    {
+     "title": "黒毛和牛 経産牛 もも しゃぶしゃぶ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 3080,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_momo_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_karubi_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "カルビ丼",
+    "ビビンバ",
+    "クッパ"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛のバラ肉を焼肉用にカットしたカルビです。じゅわっとあふれる脂の甘みとコクがたまらない、ごはんがすすむ一品。ホットプレート焼肉やビビンバにもおすすめです。",
+   "image_brief": "Marbled wagyu short plate slices cut for yakiniku arranged in a fan on a black tray with shredded cabbage garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 カルビ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1780,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 カルビ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2380,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 黒毛和牛 カルビ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 3380,
+     "origin": "国産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 上カルビ カルビ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2980,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "北海道産 黒毛和牛 カルビ 焼肉用 400g 徳用",
+     "brand": "",
+     "size": "400g 徳用",
+     "price_tax_excluded": 4180,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_karubi_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_misuji_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "炙り焼き",
+    "ステーキ",
+    "ローストビーフ"
+   ],
+   "tax_rate": 8,
+   "description": "肩甲骨の内側からとれる希少部位ミスジを、焼肉用に切り分けました。細かなサシが入り、やわらかさと濃いうま味を兼ね備えています。さっと炙ってわさび醤油でどうぞ。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Glossy marbled wagyu misuji (top blade) slices with a distinctive center sinew line arranged on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 ミスジ 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 ミスジ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 2180,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 黒毛和牛 ミスジ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2780,
+     "origin": "国産"
+    },
+    {
+     "title": "黒毛和牛 ミスジ ステーキ用 ミスジ 焼肉用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 2280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_misuji_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_zabuton_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "焼きしゃぶ",
+    "すき焼き",
+    "炙り寿司"
+   ],
+   "tax_rate": 8,
+   "description": "肩ロースの中でも特にサシが多い希少部位ザブトン（肩ロース芯）を焼肉用にカットしました。とろける食感と上品な脂の甘みが楽しめます。焼きしゃぶにもおすすめです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Large square slices of heavily marbled wagyu chuck flap (zabuton) laid flat on a black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 ザブトン 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 ザブトン 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 2380,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 黒毛和牛 ザブトン 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2980,
+     "origin": "国産"
+    },
+    {
+     "title": "黒毛和牛 ザブトン 焼きしゃぶ用 ザブトン 焼肉用 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_zabuton_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_rump_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "ローストビーフ",
+    "タリアータ"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛のランプ（もも上部）を使った赤身ステーキです。きめ細かくやわらかな肉質で、赤身本来のうま味がしっかり。脂が控えめなので、さっぱりと和牛を楽しみたい方に。",
+   "image_brief": "Two lean wagyu rump steaks with fine light marbling on a black tray with a rosemary sprig, sealed in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 ランプステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 ランプステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 3180,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "熊本県産 黒毛和牛 ランプステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "1枚（約120g）",
+     "price_tax_excluded": 1280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "北海道産 黒毛和牛 ランプステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 2080,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_rump_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_sankakubara",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "炙りカルビ",
+    "カルビ丼",
+    "ステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "バラ肉の中でも肩に近い三角形の部位、三角バラ（特上カルビ）を焼肉用にカットしました。きめ細かなサシと濃厚な味わいで、焼肉の特別な一皿になります。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Thick rectangular slices of intensely marbled wagyu brisket point arranged diagonally on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 三角バラ 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1380,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 三角バラ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 2080,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 三角バラ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2880,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "国産 黒毛和牛 三角バラ 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 3280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_sankakubara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_roastbeef_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ローストビーフ",
+    "ローストビーフ丼",
+    "クリスマス料理",
+    "たたき"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛のもも肉を、ローストビーフ用のブロックにしました。オーブンや低温調理でしっとりと仕上げれば、和牛の上品な甘みとやわらかさが際立ちます。クリスマスやお正月のごちそうに。",
+   "image_brief": "A neat rectangular block of deep red wagyu round beef with a thin fat cap on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 もも ローストビーフ用ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 2580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 もも ローストビーフ用ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 3480,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 黒毛和牛 もも ローストビーフ用ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 4180,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 ランプ もも ローストビーフ用ブロック 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "約400g",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_roastbeef_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_sukiyaki_moriawase",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "すき焼き",
+    "年末年始のごちそう",
+    "おもてなし",
+    "牛鍋"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛の肩ロースともも、2つの部位をすき焼き用に盛り合わせました。霜降りのコクと赤身のうま味を食べ比べできる、家族や来客の集まりにぴったりのセットです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Two rows of thin sukiyaki wagyu slices, one marbled chuck and one lean round, side by side on a large black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 黒毛和牛 すき焼き用 肩ロース・もも 食べ比べ 400g（2〜3人前）",
+     "brand": "Cymbal セレクト",
+     "size": "400g（2〜3人前）",
+     "price_tax_excluded": 4680,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 すき焼き用 肩ロース・もも 食べ比べ 600g（3〜4人前）",
+     "brand": "Cymbal セレクト",
+     "size": "600g（3〜4人前）",
+     "price_tax_excluded": 7080,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 すき焼き用 肩ロース・もも 食べ比べ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 3480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 すき焼き用 肩ロース・もも 食べ比べ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 5880,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 化粧箱入 すき焼き用 肩ロース・もも 食べ比べ 800g",
+     "brand": "Cymbal セレクト",
+     "size": "800g",
+     "price_tax_excluded": 10380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_sukiyaki_moriawase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kuroge_kainomi_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "塩焼き",
+    "ステーキ",
+    "鉄板焼き"
+   ],
+   "tax_rate": 8,
+   "description": "ヒレに近いバラ肉の希少部位カイノミを焼肉用に切り分けました。赤身のしっかりした味わいと適度なサシのバランスがよく、やわらかでジューシー。塩焼きがおすすめです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Rectangular wagyu flap meat (kainomi) slices with even marbling fanned on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 カイノミ 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1280,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 カイノミ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1880,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 黒毛和牛 カイノミ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2380,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 黒毛和牛 カイノミ 焼肉用 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kuroge_kainomi_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_f1_katarosu_sukiyaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "交雑種（F1）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "肉豆腐",
+    "牛丼",
+    "肉じゃが"
+   ],
+   "tax_rate": 8,
+   "description": "黒毛和牛とホルスタインの交雑種、肩ロースをすき焼き用にスライスしました。ほどよいサシとやわらかさがありながら、手に取りやすい価格が魅力。家族のすき焼きにたっぷり使えます。",
+   "image_brief": "Thin marbled crossbred beef chuck slices folded in rows on a gold-rimmed black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 交雑種牛 肩ロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2080,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 交雑種牛 肩ロース すき焼き用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1680,
+     "origin": "北海道産"
+    },
+    {
+     "title": "栃木県産 交雑種牛 肩ロース すき焼き用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 2780,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "群馬県産 交雑種牛 肩ロース すき焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1380,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "国産 交雑種牛 肩ロース すき焼き用 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 3180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_f1_katarosu_sukiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_f1_ribrosu_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "交雑種（F1）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "ガーリックライス",
+    "鉄板焼き"
+   ],
+   "tax_rate": 8,
+   "description": "交雑種牛のリブロースをステーキ用にカットしました。和牛ゆずりの適度なサシと、ジューシーな肉汁が楽しめます。週末のおうちステーキに、お値打ち価格でご用意しました。",
+   "image_brief": "Two marbled crossbred beef rib-eye steaks with a fat ring on a black tray with a garlic clove garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 交雑種牛 リブロースステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 交雑種牛 リブロースステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 3180,
+     "origin": "北海道産"
+    },
+    {
+     "title": "栃木県産 交雑種牛 リブロースステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 1380,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "国産 交雑種牛 厚切り リブロースステーキ用 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 2380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_f1_ribrosu_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_f1_nakaochi_karubi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "交雑種（F1）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "カルビ丼",
+    "クッパ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "あばら骨の間からとれる中落ちカルビを焼肉用にしました。赤身と脂のバランスがよく、噛むほどにうま味があふれます。焼肉のたれとの相性も抜群で、お子さまにも人気です。",
+   "image_brief": "Short irregular strips of crossbred beef rib finger meat piled on a black tray with lettuce garnish under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 交雑種牛 中落ちカルビ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 交雑種牛 中落ちカルビ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 交雑種牛 中落ちカルビ 焼肉用 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 2680,
+     "origin": "国産"
+    },
+    {
+     "title": "岩手県産 交雑種牛 中落ちカルビ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 938,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_f1_nakaochi_karubi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_f1_rosu_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "交雑種（F1）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "鍋",
+    "冷しゃぶ",
+    "肉巻き"
+   ],
+   "tax_rate": 8,
+   "description": "交雑種牛のロースを、しゃぶしゃぶ用に薄くスライスしました。ほどよい霜降りでやわらかく、さっとくぐらせるだけで甘みのある脂が広がります。冬の鍋パーティーにどうぞ。",
+   "image_brief": "Thin round sheets of marbled crossbred beef loin arranged in overlapping circles on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 交雑種牛 ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 交雑種牛 ロース しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2380,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 交雑種牛 ロース しゃぶしゃぶ用 400g（3〜4人前）",
+     "brand": "",
+     "size": "400g（3〜4人前）",
+     "price_tax_excluded": 3080,
+     "origin": "国産"
+    },
+    {
+     "title": "宮城県産 交雑種牛 ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 2080,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_f1_rosu_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_f1_bara_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "交雑種（F1）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉じゃが",
+    "炒め物",
+    "ハヤシライス"
+   ],
+   "tax_rate": 8,
+   "description": "交雑種牛のバラ肉を使いやすい大きさに切り落としました。脂のコクがあり、肉じゃがや牛丼、炒め物に入れるだけでぐっと味が深まります。まとめ買いしやすい容量も揃えました。",
+   "image_brief": "Loose pile of thinly sliced crossbred beef belly offcuts with white fat ribbons on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 交雑種牛 ばら切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 交雑種牛 ばら切り落とし 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 交雑種牛 ばら切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 998,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産 交雑種牛 ばら切り落とし 600g 大容量",
+     "brand": "",
+     "size": "600g 大容量",
+     "price_tax_excluded": 2080,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 交雑種牛 ばら切り落とし 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_f1_bara_kiriotoshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_hire_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレステーキ",
+    "ビーフカツ",
+    "ステーキ丼",
+    "記念日ディナー"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のヒレを厚切りステーキ用にカットしました。きめが細かく、ナイフがすっと入るやわらかさ。脂が少なくあっさりとしているので、年配の方やお子さまにも食べやすい赤身です。",
+   "image_brief": "Two round thick tenderloin steaks with fine grain and minimal fat on a black tray, sealed in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 ヒレステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "1枚（約120g）",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 ヒレステーキ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 2580,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 ヒレステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 1580,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 ヒレ ブロック ヒレステーキ用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 4080,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_hire_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_ribrosu_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ガーリックステーキ",
+    "ステーキ丼",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のリブロースをステーキ用にカットしました。赤身と脂身のバランスがよく、焼き上がりはジューシーで香ばしい。ボリュームがあり、食べごたえ十分のステーキです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "A large rib-eye steak with marbling and a fat eye in the center on a black tray with peppercorns garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 リブロースステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 リブロースステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 3080,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 リブロースステーキ用 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 1980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 厚切り リブロースステーキ用 1枚（約350g）",
+     "brand": "",
+     "size": "1枚（約350g）",
+     "price_tax_excluded": 2780,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 ホルスタイン リブロースステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_ribrosu_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_ribrosu_sukiyaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "すき焼き・しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き",
+    "牛鍋",
+    "肉豆腐",
+    "牛丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のリブロースを、すき焼き用に薄く大判にスライスしました。ほどよいサシが入り、割下をからめると甘みが広がります。卵にくぐらせて、とろけるやわらかさをお楽しみください。",
+   "image_brief": "Large thin marbled rib loin sheets folded in neat waves on a black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 リブロース すき焼き用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 リブロース すき焼き用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 3080,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 リブロース すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2380,
+     "origin": "北海道産"
+    },
+    {
+     "title": "岩手県産 国産牛 リブロース すき焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_ribrosu_sukiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_sirloin_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ステーキ",
+    "ローストビーフ",
+    "BBQ",
+    "クリスマス料理"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のサーロインをブロックのままご用意しました。お好みの厚さに切ってステーキに、塊のまま焼いてローストビーフにと、自由に楽しめます。パーティーやBBQの主役に。",
+   "image_brief": "A long rectangular sirloin block with a white fat cap on top resting on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 サーロイン ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 サーロイン ブロック 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 6180,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 サーロイン ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 4780,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 サーロイン ブロック 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 7580,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_sirloin_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_ude_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "すき焼き・しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "鍋",
+    "冷しゃぶ",
+    "牛肉の野菜巻き"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のうで（肩）を、しゃぶしゃぶ用に薄くスライスしました。赤身中心で味が濃く、すっきりとした後味。お手頃価格なので、たっぷり食べたいご家庭の鍋に最適です。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Thin lean beef shoulder slices folded in rows on a white tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 うで しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 うで しゃぶしゃぶ用 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 うで しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1180,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 うで しゃぶしゃぶ用 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 2280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_ude_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_momo_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "焼肉丼",
+    "炒め物",
+    "ビーフサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のももを、焼肉用に厚めにカットしました。脂が少なくヘルシーで、噛むほどに赤身の深いうま味を感じられます。塩とわさびでさっぱりと、たれ焼きでもおいしくいただけます。",
+   "image_brief": "Thick lean red round beef slices arranged in a fan on a black tray with a lemon wedge garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 赤身もも 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 赤身もも 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 赤身もも 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1480,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 ランプ 赤身もも 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_momo_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_bara_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "牛バラ大根",
+    "ビーフシチュー",
+    "煮込み",
+    "カルビチム"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のバラ肉をブロックでご用意しました。じっくり煮込むと脂がとろけ、ほろほろのやわらかさに。牛バラ大根やビーフシチュー、韓国風煮込みなど、冬の煮込み料理におすすめです。",
+   "image_brief": "A thick layered beef belly block with alternating red meat and white fat on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 バラ ブロック 煮込み用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 バラ ブロック 煮込み用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1880,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 バラ ブロック 煮込み用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1580,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 バラ ブロック 煮込み用 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 2880,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_bara_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_bara_kakugiri",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ビーフカレー",
+    "ビーフシチュー",
+    "ボルシチ",
+    "ハヤシライス"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛のバラ肉をカレーやシチューに使いやすい角切りにしました。脂のコクがルウに溶け込み、煮込むほどにうま味が深まります。ボルシチやハヤシライスにもどうぞ。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Cubed beef belly chunks with visible fat layers piled on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 バラ カレー・シチュー用角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 バラ カレー・シチュー用角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 国産牛 バラ カレー・シチュー用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "北海道産"
+    },
+    {
+     "title": "国産牛 バラ カレー・シチュー用角切り 600g 大容量",
+     "brand": "",
+     "size": "600g 大容量",
+     "price_tax_excluded": 2180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_bara_kakugiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_hoho_nikomi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "赤ワイン煮込み",
+    "ビーフシチュー",
+    "デミグラス煮込み",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "よく動かす部位なので筋繊維がしっかりした牛ほほ肉。時間をかけて煮込むとゼラチン質がとろけ、驚くほどやわらかくなります。赤ワイン煮やデミグラス煮込みで本格的な味わいに。",
+   "image_brief": "Two dark red beef cheek pieces trimmed and placed side by side on a white tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 ほほ肉 煮込み用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 ほほ肉 煮込み用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 2380,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛 ほほ肉 煮込み用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "黒毛和牛 ほほ肉 煮込み用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 2180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_hoho_nikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_atsugiri_tan",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛タン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "牛タン焼き",
+    "ねぎ塩タン",
+    "牛タン定食"
+   ],
+   "tax_rate": 8,
+   "description": "牛タンの中でも特にやわらかい根元に近い部分を、厚切りにしました。サクッとした歯ざわりとあふれる肉汁が魅力。塩こしょうとレモンで、焼肉屋さん気分をご家庭で味わえます。",
+   "image_brief": "Thick-cut beef tongue slices with scored surfaces arranged on a black tray with a lemon wedge and green onion, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 厚切り 牛タン 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 厚切り 牛タン 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 厚切り 牛タン 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 厚切り 牛タン 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 タン元 厚切り 牛タン 焼肉用 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 1080,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_atsugiri_tan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_tan_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛タン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タンシチュー",
+    "牛タン焼き",
+    "牛タンの煮込み",
+    "タンカレー"
+   ],
+   "tax_rate": 8,
+   "description": "下処理の手間がかかる皮をむいた状態の牛タンブロックです。好みの厚さで焼肉にしたり、塊のまま煮込んでタンシチューにしたりと、アレンジの幅が広がります。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "A whole peeled pink beef tongue block lying on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛タン ブロック 皮むき 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 2680,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 牛タン ブロック 皮むき 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 3080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産 牛タン ブロック 皮むき 約700g",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 6080,
+     "origin": "国産"
+    },
+    {
+     "title": "米国産 タン元のみ 牛タン ブロック 皮むき 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ニュージーランド産 牛タン ブロック 皮むき 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 2480,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_tan_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_kokusan_harami_atsugiri",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ハラミステーキ",
+    "焼肉丼",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "横隔膜の筋肉であるハラミを、食べごたえのある厚切りにしました。やわらかく、脂は控えめなのに肉汁たっぷり。下味をつけずに素材の味を楽しめる、焼肉の人気部位です。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Thick strips of glossy dark red skirt steak arranged in a row on a black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛ハラミ 厚切り 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛ハラミ 厚切り 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 2180,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛ハラミ 厚切り 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛ハラミ 厚切り 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛ハラミ 厚切り 焼肉用 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 2380,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_kokusan_harami_atsugiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_sagari_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "炒め物",
+    "ステーキ",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "ハラミと同じ横隔膜の、肋骨側からとれるサガリを焼肉用にしました。ハラミよりさっぱりとしていて、赤身らしい力強い味わいが特徴。たれ焼き、塩焼きどちらにも合います。",
+   "image_brief": "Long lean red hanging tender strips sliced on the bias on a black tray with sesame garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛サガリ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 牛サガリ 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産 牛サガリ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "米国産 牛サガリ 焼肉用 400g 徳用",
+     "brand": "",
+     "size": "400g 徳用",
+     "price_tax_excluded": 1780,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_sagari_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_marucho",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "ホルモン焼き",
+    "焼肉",
+    "もつ煮"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとした脂がたっぷりの牛小腸、マルチョウです。下処理済みで、焼くと外は香ばしく中はとろり。焼肉はもちろん、もつ鍋の具材としても欠かせない人気のホルモンです。",
+   "image_brief": "Plump round tubes of cleaned beef small intestine with creamy white fat piled on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛小腸（マルチョウ） 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛小腸（マルチョウ） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 968,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ボイル 牛小腸（マルチョウ） 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 838,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛小腸（マルチョウ） 400g もつ鍋用",
+     "brand": "",
+     "size": "400g もつ鍋用",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛小腸（マルチョウ） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 838,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_marucho_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_shimacho",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "ホルモン焼き",
+    "ホルモン炒め",
+    "もつ煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "縞模様が特徴の牛大腸、シマチョウ（テッチャン）です。弾力のある食感と脂のうま味があり、甘辛いみそだれとの相性がよい部位。もつ鍋やホルモン炒めにどうぞ。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Striped beef large intestine pieces with white fat layer shown on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛シマチョウ（テッチャン） 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛シマチョウ（テッチャン） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ボイル 牛シマチョウ（テッチャン） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 908,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛シマチョウ（テッチャン） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 728,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_shimacho_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_mino",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ホルモン焼き",
+    "ミノのポン酢和え",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "牛の第一胃、ミノを焼肉用にスライスしました。コリコリとした独特の歯ざわりと淡白な味わいが特徴。さっと焼いて、塩やごま油、ポン酢でさっぱりいただくのがおすすめです。",
+   "image_brief": "White sliced beef rumen pieces with scored surface on a black tray with green onion garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛ミノ 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 上ミノ 牛ミノ 焼肉用 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 558,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛ミノ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 418,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "ニュージーランド産 牛ミノ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 518,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_mino_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_hatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ハツの塩焼き",
+    "炒め物",
+    "串焼き"
+   ],
+   "tax_rate": 8,
+   "description": "牛の心臓、ハツを焼肉用にスライスしました。クセが少なく、サクッとした歯切れのよさが特徴の内臓肉です。脂が少なく鉄分を含む食材としても注目されています。塩焼きでどうぞ。",
+   "image_brief": "Dark red beef heart slices neatly lined on a black tray with a lemon wedge, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛ハツ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛ハツ 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 718,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛ハツ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 418,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛ハツ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 628,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_hatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_liver",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "レバニラ炒め",
+    "焼肉",
+    "レバーの甘辛煮",
+    "レバーカツ"
+   ],
+   "tax_rate": 8,
+   "description": "新鮮な牛レバーを加熱調理用にスライスしました。濃厚な味わいでとろりとした食感。生食はできませんので、中心部まで十分に加熱してレバニラ炒めや焼肉でお召し上がりください。",
+   "image_brief": "Glossy deep reddish-brown beef liver slices arranged in a row on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛レバー 加熱用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛レバー 加熱用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ブロック 牛レバー 加熱用 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 908,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛レバー 加熱用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 368,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_liver_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_senmai_boil",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "センマイ刺し風",
+    "酢みそ和え",
+    "ナムル",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "牛の第三胃、センマイを下ゆでしてカットしました。ひだが重なる独特の見た目と、シャキシャキ・コリコリした食感が魅力。酢みそ和えやごま油と塩の和え物で手軽に一品になります。",
+   "image_brief": "Gray-white frilly boiled beef omasum strips piled in a small clear plastic container with a lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 ボイル センマイ 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 ボイル センマイ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 578,
+     "origin": "国産"
+    },
+    {
+     "title": "ニュージーランド産 ボイル センマイ 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 308,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "オーストラリア産 ボイル センマイ 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 518,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_senmai_boil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_horumon_mix",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "もつ煮込み",
+    "ホルモン焼き",
+    "ホルモン炒め"
+   ],
+   "tax_rate": 8,
+   "description": "小腸・大腸・ハツなど数種類の牛ホルモンを盛り合わせました。いろいろな食感が一度に楽しめ、もつ鍋や煮込みに入れるだけで濃厚なうま味が出ます。寒い季節の鍋におすすめです。",
+   "image_brief": "A mixed assortment of cleaned beef offal pieces, intestines and heart slices, on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛ホルモン ミックス もつ鍋用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 888,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛ホルモン ミックス もつ鍋用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛ホルモン ミックス もつ鍋用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 828,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産 ボイル 牛ホルモン ミックス もつ鍋用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 778,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 牛ホルモン ミックス もつ鍋用 1kg 冷凍 業務用",
+     "brand": "",
+     "size": "1kg 冷凍 業務用",
+     "price_tax_excluded": 2380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_horumon_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_tail_nikomi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "テールスープ",
+    "テールシチュー",
+    "コムタン",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "骨付きの牛テールを煮込み用にぶつ切りにしました。じっくり煮込むとコラーゲンたっぷりのスープがとれ、身はほろりとやわらかく。テールスープやテールシチューに最適です。",
+   "image_brief": "Round cross-cut beef oxtail pieces with central bones and red meat arranged on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛テール 煮込み用 ぶつ切り 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1780,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛テール 煮込み用 ぶつ切り 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 2780,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛テール 煮込み用 ぶつ切り 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 2380,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産 牛テール 煮込み用 ぶつ切り 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 3180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_tail_nikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_sirloin_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "BBQ",
+    "ガーリックライス"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛のサーロインをステーキ用にカットしました。脂身の甘みと赤身のうま味がバランスよく、お手頃価格でボリュームたっぷり。家族みんなのステーキディナーに。",
+   "image_brief": "Two sirloin steaks with a fat strip on one edge on a black tray with rosemary sprig, sealed in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 グレインフェッド サーロインステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グレインフェッド サーロインステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グラスフェッド サーロインステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 658,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グレインフェッド 厚切り サーロインステーキ用 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal セレクト オーストラリア産 長期穀物肥育 サーロインステーキ用 1枚（約250g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_sirloin_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_hire_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレステーキ",
+    "ビーフカツ",
+    "サイコロステーキ",
+    "ステーキサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛のヒレをステーキ用に切り分けました。脂肪が少なくやわらかな赤身で、手頃な価格でヒレステーキが楽しめます。ビーフカツやサイコロステーキにもどうぞ。",
+   "image_brief": "Three round lean beef tenderloin medallions on a black tray with clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛ヒレステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "1枚（約120g）",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛ヒレステーキ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛ヒレステーキ用 3枚（約360g）",
+     "brand": "",
+     "size": "3枚（約360g）",
+     "price_tax_excluded": 1680,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グラスフェッド 牛ヒレステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 708,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_hire_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_rump_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "タリアータ",
+    "ステーキ丼",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛のランプを赤身ステーキ用にカットしました。適度な歯ごたえと肉らしい味わいがあり、脂身が苦手な方にも食べやすい一枚。焼きすぎず、ミディアムがおすすめです。",
+   "image_brief": "A lean red rump steak with a narrow fat edge on a black tray with black pepper garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 ランプステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 ランプステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グラスフェッド ランプステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 508,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "タスマニア産 ランプステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 688,
+     "origin": "オーストラリア産（タスマニア）"
+    },
+    {
+     "title": "Cymbal ベーシック オーストラリア産 ランプステーキ用 3枚（約450g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3枚（約450g）",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_rump_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_ribeye_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "BBQ",
+    "スキレットステーキ",
+    "ステーキサンド"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛のリブアイロールをステーキ用に厚切りしました。中心のサシと周囲の赤身が一枚で楽しめる人気部位。BBQやスキレット焼きでワイルドに味わえます。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "A thick ribeye steak with visible central fat eye on a black tray with a garlic clove and herbs, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 リブアイロールステーキ用 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 998,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 リブアイロールステーキ用 2枚（約500g）",
+     "brand": "",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 1880,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グレインフェッド リブアイロールステーキ用 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 厚切り リブアイロールステーキ用 1枚（約400g）",
+     "brand": "",
+     "size": "1枚（約400g）",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_ribeye_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_katarosu_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "鍋",
+    "すき焼き",
+    "冷しゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛の肩ロースを、しゃぶしゃぶ用に薄切りにしました。適度な脂でやわらかく、たっぷり食べてもお財布にやさしい。食べ盛りのご家庭の鍋にぴったりです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Thin chuck roll beef slices with light marbling folded neatly in rows on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース しゃぶしゃぶ用 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース しゃぶしゃぶ用 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 1380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "タスマニア産 牛肩ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 828,
+     "origin": "オーストラリア産（タスマニア）"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_katarosu_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_momo_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "BBQ",
+    "炒め物",
+    "チンジャオロース"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛のももを焼肉用にカットしました。脂身が少なくヘルシーで、赤身のしっかりとした味わい。お手頃価格なので、大人数の焼肉やBBQにたっぷり使えます。",
+   "image_brief": "Lean red beef round slices for yakiniku arranged in a fan on a black tray with lettuce garnish, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛もも 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも 焼肉用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 918,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも 焼肉用 600g 大容量",
+     "brand": "",
+     "size": "600g 大容量",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グラスフェッド 牛もも 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 748,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_momo_yakiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_shoulder_stew",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "ビーフカレー",
+    "ポトフ",
+    "グーラッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "オーストラリア産牛の肩肉をシチューやカレー用の角切りにしました。煮込むほどにやわらかくなり、ルウにうま味が溶け出します。大きめカットで食べごたえのある煮込み料理に。",
+   "image_brief": "Large cubes of lean red beef shoulder piled on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛肩 シチュー用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 678,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩 シチュー用角切り 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩 シチュー用角切り 800g 大容量",
+     "brand": "",
+     "size": "800g 大容量",
+     "price_tax_excluded": 1680,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 グラスフェッド 牛肩 シチュー用角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 958,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_shoulder_stew_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_au_ichibo_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（オーストラリア産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "シュラスコ",
+    "ローストビーフ",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "お尻の先端部分にあたるイチボをステーキ用にカットしました。赤身のうま味と表面の脂の香ばしさを一度に味わえる、近ごろ人気の部位。ブロックでローストにするのもおすすめです。",
+   "image_brief": "A triangular picanha steak with a thick white fat cap on one side on a black tray with coarse salt, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 イチボステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 イチボステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 1380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 イチボ ブロック イチボステーキ用 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1880,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛 イチボステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_au_ichibo_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_chuckeye_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "BBQ",
+    "ステーキ丼",
+    "ガーリックステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛の肩ロース芯、チャックアイロールをステーキ用にカットしました。穀物肥育らしいほどよいサシと甘みのある脂で、お手頃ながらジューシーな味わいが楽しめます。",
+   "image_brief": "Two chuck eye steaks with moderate marbling on a black tray with a rosemary sprig, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 チャックアイロール ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 658,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 チャックアイロール ステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 1280,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 厚切り チャックアイロール ステーキ用 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 978,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 プライム チャックアイロール ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 888,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ベーシック 米国産 チャックアイロール ステーキ用 3枚（約600g）",
+     "brand": "Cymbal ベーシック",
+     "size": "3枚（約600g）",
+     "price_tax_excluded": 1680,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_chuckeye_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_ribeye_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "BBQ",
+    "ステーキハウス風ディナー",
+    "ステーキサンド"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛のリブアイを、肉厚な厚切りステーキにしました。豊かな肉汁と香ばしい焼き目がたまらない、アメリカンスタイルの一枚。スキレットやグリルで豪快に焼き上げてください。",
+   "image_brief": "An extra-thick marbled ribeye steak standing out on a black tray with peppercorns and thyme, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 リブアイステーキ 厚切り 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 リブアイステーキ 厚切り 1枚（約450g）",
+     "brand": "",
+     "size": "1枚（約450g）",
+     "price_tax_excluded": 2180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 プライム リブアイステーキ 厚切り 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "カナダ産 リブアイステーキ 厚切り 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1480,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 米国産 熟成 リブアイステーキ 厚切り 1枚（約350g）",
+     "brand": "Cymbal セレクト",
+     "size": "1枚（約350g）",
+     "price_tax_excluded": 2380,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_ribeye_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_sirloin_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "ビーフサラダ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛のトップサーロインをステーキ用にカットしました。赤身中心であっさりとしながらも、牛肉らしいうま味がしっかり。毎日のおかずにも使いやすい手頃な価格です。",
+   "image_brief": "Two lean top sirloin steaks on a black tray with a sprig of parsley, sealed in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 トップサーロイン ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "1枚（約200g）",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 トップサーロイン ステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "2枚（約400g）",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 トップサーロイン ステーキ用 3枚（約600g）",
+     "brand": "",
+     "size": "3枚（約600g）",
+     "price_tax_excluded": 1680,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 プライム トップサーロイン ステーキ用 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 968,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_sirloin_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_short_rib",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "BBQ",
+    "カルビチム",
+    "ショートリブの煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "骨のまわりのうま味たっぷりなショートリブを骨付きのままカットしました。焼肉やBBQで豪快に焼いても、じっくり煮込んでカルビチムにしてもおいしい、食べごたえ抜群の一品です。",
+   "image_brief": "Bone-in beef short ribs with flat bones and thick marbled meat arranged on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 骨付きカルビ（ショートリブ） 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 骨付きカルビ（ショートリブ） 約700g",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 2680,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 LAカルビ 薄切り 骨付きカルビ（ショートリブ） 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 骨付きカルビ（ショートリブ） 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1880,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_short_rib_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_tenderloin",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレステーキ",
+    "ペッパーステーキ",
+    "ビーフカツ",
+    "ビーフストロガノフ"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛のテンダーロイン（ヒレ）をステーキ用にカットしました。きめが細かく、口の中でほどけるやわらかさ。ベーコン巻きやペッパーステーキでレストラン気分を味わえます。",
+   "image_brief": "Thick round beef tenderloin filets with fine texture on a black tray with crushed pepper, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 テンダーロイン（ヒレ）ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 818,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 テンダーロイン（ヒレ）ステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 テンダーロイン ブロック テンダーロイン（ヒレ）ステーキ用 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 2580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 プライム テンダーロイン（ヒレ）ステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "1枚（約180g）",
+     "price_tax_excluded": 1280,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_tenderloin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_plate_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "牛丼",
+    "牛バラ煮込み",
+    "焼肉",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛のバラ（プレート）をブロックでご用意しました。脂のうま味がたっぷりで、薄く切って牛丼や焼肉に、塊で煮込んで牛バラの角煮やチャーシュー風にも使えます。",
+   "image_brief": "A flat thick block of beef plate with layered fat and meat on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛バラ（プレート）ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛バラ（プレート）ブロック 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1780,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛バラ（プレート）ブロック 約1.2kg 業務用",
+     "brand": "",
+     "size": "約1.2kg 業務用",
+     "price_tax_excluded": 2580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 牛バラ（プレート）ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_plate_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_katarosu_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "プルコギ",
+    "炒め物",
+    "肉じゃが",
+    "ハヤシライス"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛の肩ロースを切り落としにしました。やわらかでほどよい脂があり、炒め物、牛丼、プルコギなど幅広い料理に大活躍。たっぷり使える大容量パックもご用意しています。",
+   "image_brief": "Loosely piled thin-sliced beef chuck offcuts with light marbling on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛肩ロース 切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 618,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛肩ロース 切り落とし 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 958,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛肩ロース 切り落とし 700g 大容量",
+     "brand": "",
+     "size": "700g 大容量",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "カナダ産 牛肩ロース 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 738,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal ベーシック 米国産 牛肩ロース 切り落とし 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 2080,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_katarosu_kiriotoshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_us_brisket_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "輸入牛（アメリカ産）"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スモークBBQ",
+    "ポトフ",
+    "牛肉の煮込み",
+    "ブリスケットサンド"
+   ],
+   "tax_rate": 8,
+   "description": "アメリカ産牛の肩バラ、ブリスケットのブロックです。低温でじっくり焼き上げるスモークBBQや、コンビーフ風・ポトフなど長時間調理でやわらかく仕上がり、深いうま味を楽しめます。",
+   "image_brief": "A large flat brisket block with a white fat cap on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛ブリスケット ブロック 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 2180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛ブリスケット ブロック 約1.5kg",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 3780,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 牛ブリスケット ブロック 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 2580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛 牛ブリスケット ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 2680,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_us_brisket_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_yakiniku_moriawase",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ホームパーティー",
+    "BBQ",
+    "焼肉丼"
+   ],
+   "tax_rate": 8,
+   "description": "人気のカルビ・ロース・ハラミを一皿に盛り合わせた焼肉セットです。部位ごとの味わいの違いを楽しめ、切り分ける手間もなし。家族の焼肉やホームパーティーにすぐ使えます。",
+   "image_brief": "A large black tray with three sections of beef yakiniku cuts, marbled short rib, chuck loin and skirt, garnished with lettuce, clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "米国産 牛焼肉 盛り合わせ（カルビ・ロース・ハラミ） 400g（2〜3人前）",
+     "brand": "",
+     "size": "400g（2〜3人前）",
+     "price_tax_excluded": 1980,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "米国産 牛焼肉 盛り合わせ（カルビ・ロース・ハラミ） 600g（3〜4人前）",
+     "brand": "",
+     "size": "600g（3〜4人前）",
+     "price_tax_excluded": 2880,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産牛 牛焼肉 盛り合わせ（カルビ・ロース・ハラミ） 400g（2〜3人前）",
+     "brand": "",
+     "size": "400g（2〜3人前）",
+     "price_tax_excluded": 3580,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛焼肉 盛り合わせ（カルビ・ロース・ハラミ） 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 2380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 牛焼肉 盛り合わせ（カルビ・ロース・ハラミ） 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 6380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_yakiniku_moriawase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_hitokuchi_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サイコロステーキ",
+    "お弁当",
+    "ガーリックステーキ",
+    "ステーキ丼"
+   ],
+   "tax_rate": 8,
+   "description": "ステーキ肉をひとくち大のサイコロ状にカットしました。焼き時間が短く、お子さまやお弁当にも食べやすいサイズ。にんにく醤油やバター醤油で手軽にごちそうメニューになります。",
+   "image_brief": "Bite-size cubed beef steak pieces piled on a black tray with a sprig of parsley, sealed in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 ひとくちステーキ（サイコロカット） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 868,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 ひとくちステーキ（サイコロカット） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産牛 ひとくちステーキ（サイコロカット） 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 ひとくちステーキ（サイコロカット） 500g 徳用",
+     "brand": "",
+     "size": "500g 徳用",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "黒毛和牛 ひとくちステーキ（サイコロカット） 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_hitokuchi_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_rosu_yakiniku_usugiri",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "焼きすき",
+    "焼肉丼",
+    "サンチュ巻き"
+   ],
+   "tax_rate": 8,
+   "description": "牛ロースを焼肉用にやや薄めにスライスしました。さっと焼けてやわらかく、たれをからめてごはんに巻けば絶品。焼きすき風に溶き卵でいただくのもおすすめです。お買い上げ後は冷蔵庫で保存し、お早めにお召し上がりください。",
+   "image_brief": "Thin wide slices of marbled beef loin for yakiniku laid in an overlapping fan on a black tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 牛ロース 焼肉用 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 牛ロース 焼肉用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 2080,
+     "origin": "国産"
+    },
+    {
+     "title": "交雑種牛 牛ロース 焼肉用 薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1880,
+     "origin": "国産"
+    },
+    {
+     "title": "米国産 牛ロース 焼肉用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 牛ロース 焼肉用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_rosu_yakiniku_usugiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_beef_sune_honetsuki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "オッソブーコ風煮込み",
+    "コムタン",
+    "ポトフ",
+    "ビーフシチュー"
+   ],
+   "tax_rate": 8,
+   "description": "骨の髄ごと煮込める骨付きの牛すね輪切りです。骨から出るうま味と、とろけるすじがスープに深いコクを与えます。オッソブーコ風の煮込みやコムタン、ポトフにおすすめです。",
+   "image_brief": "Round cross-cut beef shank slices with a marrow bone in the center arranged on a white tray under clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛すね 骨付き輪切り（煮込み用） 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛すね 骨付き輪切り（煮込み用） 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1880,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛すね 骨付き輪切り（煮込み用） 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1480,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産牛 牛すね 骨付き輪切り（煮込み用） 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 2080,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_beef_sune_honetsuki_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

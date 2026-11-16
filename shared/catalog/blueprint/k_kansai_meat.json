@@ -1,0 +1,517 @@
+{
+ "category_key": "k_kansai_meat",
+ "items": [
+  {
+   "base_id": "k_kansai_mt_hyogo_wagyu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "関西の黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "焼肉",
+    "ステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "兵庫県の生産者が育てた黒毛和牛です。きめ細かなサシと上品な甘みのある脂が特長。すき焼き、焼肉、ステーキなど用途別にご用意しています。",
+   "image_brief": "Marbled Japanese black wagyu beef slices fanned on a black tray with a sprig of green garnish, rich white marbling. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 兵庫県産 黒毛和牛 肩ロース すき焼き用 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 2980,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal セレクト 兵庫県産 黒毛和牛 カルビ 焼肉用 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal セレクト 兵庫県産 黒毛和牛 サーロイン ステーキ用 1枚（約180g）",
+     "brand": "Cymbal セレクト",
+     "size": "約180g",
+     "price_tax_excluded": 3480,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal セレクト 兵庫県産 黒毛和牛 切り落とし 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1580,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_hyogo_wagyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_shiga_wagyu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "関西の黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "しゃぶしゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "滋賀県の豊かな自然の中で育った黒毛和牛。とろけるような口どけと、まろやかな脂の甘みをすき焼きやしゃぶしゃぶでお楽しみください。",
+   "image_brief": "Thin slices of marbled wagyu beef for sukiyaki laid out neatly in a black tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 滋賀県産 黒毛和牛 ロース すき焼き用 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 2980,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "Cymbal セレクト 滋賀県産 黒毛和牛 もも しゃぶしゃぶ用 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1780,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "Cymbal セレクト 滋賀県産 黒毛和牛 切り落とし 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "滋賀県産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_shiga_wagyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_kyoto_wagyu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "関西の黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "肉じゃが",
+    "牛丼"
+   ],
+   "tax_rate": 8,
+   "description": "京都府の生産者が育てた黒毛和牛。赤身のうま味と脂のバランスがよく、焼肉はもちろん、肉じゃがや牛丼などふだんのおかずにも。",
+   "image_brief": "Cubes and slices of marbled wagyu beef for yakiniku on a black tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 京都府産 黒毛和牛 焼肉用 盛合せ 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 2780,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal セレクト 京都府産 黒毛和牛 小間切れ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_kyoto_wagyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_gyusuji",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "どて焼",
+    "関東煮",
+    "カレー"
+   ],
+   "tax_rate": 8,
+   "description": "関西の家庭料理に欠かせない牛すじ。下ゆでしてから、どて焼や関東煮、カレー、ぼっかけに。",
+   "image_brief": "Raw beef tendon pieces in a clear tray, pale pink meat with white connective tissue. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 牛すじ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 牛すじ 下ゆで済 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 牛ホルモン（小腸） 焼肉用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_gyusuji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_gyuminchi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ミンチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "コロッケ",
+    "そぼろ"
+   ],
+   "tax_rate": 8,
+   "description": "関西で「ミンチ」と呼ばれる、牛肉・豚肉のひき肉です。牛の割合が多い合挽ミンチは、ハンバーグやコロッケにうま味が出ます。",
+   "image_brief": "Fresh ground beef mince in a clear tray, red with white fat flecks. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 牛ミンチ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 合挽ミンチ 牛7:豚3 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_gyuminchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_niku_sukiyaki_set",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "関西の黒毛和牛"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "関西風すき焼き（割下を使わず、砂糖としょうゆで焼きながら味付け）に合う、和牛ロースと牛脂のセットです。",
+   "image_brief": "Marbled wagyu sukiyaki slices with a white cube of beef suet in a black tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 関西風すき焼き用 黒毛和牛ロース 牛脂付 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 3980,
+     "origin": "兵庫県産・滋賀県産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_niku_sukiyaki_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_pork_hyogo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "関西の銘柄豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "生姜焼き",
+    "豚汁"
+   ],
+   "tax_rate": 8,
+   "description": "兵庫県の契約農場で育てたきめ細かい肉質の豚肉です。甘みのある脂とやわらかな赤身で、とんかつや生姜焼きに。",
+   "image_brief": "Raw pork loin cutlets with white fat edges and thin sliced pork belly on a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 兵庫県産 豚ロース とんかつ用 2枚（約240g）",
+     "brand": "Cymbal",
+     "size": "約240g",
+     "price_tax_excluded": 598,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 兵庫県産 豚バラ うす切り 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 458,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 兵庫県産 豚こま切れ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 兵庫県産 豚肩ロース 生姜焼き用 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_pork_hyogo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_pork_kyoto",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "関西の銘柄豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "豚汁",
+    "角煮"
+   ],
+   "tax_rate": 8,
+   "description": "京都府の丹波地域で育った豚肉。くせのないすっきりした脂で、しゃぶしゃぶや角煮におすすめです。",
+   "image_brief": "Thin pork shabu shabu slices and a block of pork belly on a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 京都府丹波産 豚ロース しゃぶしゃぶ用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal 京都府丹波産 豚バラ ブロック 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_pork_kyoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_chicken_tamba",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "関西の地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "から揚げ",
+    "水炊き",
+    "照り焼き"
+   ],
+   "tax_rate": 8,
+   "description": "丹波の山あいで、のびのび育てた若鶏です。ほどよい歯ごたえとうま味があり、から揚げや水炊き、照り焼きに。",
+   "image_brief": "Raw chicken thighs with skin and chicken breast fillets on a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 京都府丹波産 若鶏もも 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal 京都府丹波産 若鶏むね 350g",
+     "brand": "Cymbal",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal 京都府丹波産 手羽元 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_chicken_tamba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_kushikatsu_kit",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "串カツ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "串カツ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ご家庭で揚げるだけの串カツ用串セットです。牛・豚・玉ねぎなどを串に刺してあります。バッター液とパン粉をつけて揚げてください。",
+   "image_brief": "Raw skewers of beef, pork and onion pieces ready for kushikatsu laid in a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 串カツ用 串セット 12本",
+     "brand": "Cymbal",
+     "size": "12本",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 牛串 串カツ用 6本",
+     "brand": "Cymbal",
+     "size": "6本",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_kushikatsu_kit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_mt_horumon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "ホルモン・焼肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉",
+    "大豆",
+    "小麦",
+    "ごま",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "鉄板焼き",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "関西の焼肉店でおなじみの味噌だれに漬け込んだホルモンです。フライパンで焼くだけ。キャベツと一緒にどうぞ。",
+   "image_brief": "Glossy miso-marinated offal pieces in a clear tray with a few cabbage leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 味付けホルモン 味噌だれ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 国産 味付け豚ホルモン 塩だれ 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "k_kansai_mt_horumon_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

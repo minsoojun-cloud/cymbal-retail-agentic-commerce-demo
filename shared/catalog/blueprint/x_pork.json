@@ -1,0 +1,2445 @@
+{
+ "category_key": "x_pork",
+ "items": [
+  {
+   "base_id": "x_pork_shoulder_loin_sliced",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "肩ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の生姜焼き",
+    "肉じゃが",
+    "野菜炒め",
+    "豚丼",
+    "カレー"
+   ],
+   "description": "赤身と脂身のバランスがよい豚肩ロースの薄切りです。コクがあり、加熱してもやわらかく仕上がるので生姜焼きや肉じゃが、野菜炒めなど毎日のおかずに幅広く使えます。",
+   "image_brief": "Plastic tray of thinly sliced pink pork shoulder loin with marbling, neatly overlapped, with a label reading 「豚肩ロース薄切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース薄切り 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 豚肩ロース薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 538,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 428,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚肩ロース薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "米国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 肩ロース薄切り 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 肩ロース薄切り 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_shoulder_loin_sliced_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_shoulder_loin_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "肩ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼豚",
+    "煮豚",
+    "カレー",
+    "シチュー",
+    "チャーハン"
+   ],
+   "description": "ほどよく脂がのった豚肩ロースのかたまり肉です。煮豚や手作り焼豚にすると、しっとりジューシーに仕上がります。角切りにしてカレーやシチューに使うのもおすすめです。",
+   "image_brief": "Plastic tray holding a single thick block of pork shoulder loin with visible fat marbling, labeled 「豚肩ロース ブロック」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 878,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース ブロック 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1298,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース ブロック 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚肩ロース ブロック 約700g",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 998,
+     "origin": "米国産"
+    },
+    {
+     "title": "宮崎県産 豚肩ロース ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 958,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 肩ロース ブロック 350g",
+     "brand": "トップバリュ セレクト",
+     "size": "350g",
+     "price_tax_excluded": 1280,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_shoulder_loin_block_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_shoulder_loin_ginger",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "肩ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の生姜焼き",
+    "ポークチャップ",
+    "お弁当のおかず",
+    "豚の味噌焼き"
+   ],
+   "description": "生姜焼きにちょうどよい厚さにスライスした豚肩ロースです。脂の甘みがあり、たれがよく絡んでご飯がすすみます。お弁当のおかずやポークチャップにも使えます。",
+   "image_brief": "Plastic tray of medium-thick pork shoulder loin slices arranged in a fan, with a label reading 「豚肩ロース 生姜焼き用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 生姜焼き用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 928,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース 生姜焼き用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 438,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚肩ロース 生姜焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "北海道産 豚肩ロース 生姜焼き用 220g",
+     "brand": "",
+     "size": "220g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産豚 肩ロース 生姜焼き用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_shoulder_loin_ginger_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_shoulder_loin_tonkatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "カツ丼",
+    "ポークソテー",
+    "カツカレー"
+   ],
+   "description": "とんかつ用に厚めにカットした豚肩ロースです。ロースよりも濃いうま味があり、揚げてもやわらかく仕上がります。カツ丼やポークソテーにもどうぞ。",
+   "image_brief": "Plastic tray with thick-cut pork shoulder loin cutlets side by side, labeled 「豚肩ロース とんかつ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース とんかつ用 2枚（約220g）",
+     "brand": "",
+     "size": "2枚（約220g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース とんかつ用 4枚（約440g）",
+     "brand": "",
+     "size": "4枚（約440g）",
+     "price_tax_excluded": 958,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース とんかつ用 3枚（約330g）",
+     "brand": "",
+     "size": "3枚（約330g）",
+     "price_tax_excluded": 548,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚肩ロース とんかつ・ソテー用 3枚（約360g）",
+     "brand": "",
+     "size": "3枚（約360g）",
+     "price_tax_excluded": 538,
+     "origin": "米国産"
+    },
+    {
+     "title": "千葉県産 豚肩ロース とんかつ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 578,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 肩ロース とんかつ用 2枚（約200g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚（約200g）",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_shoulder_loin_tonkatsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_loin_tonkatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "カツ丼",
+    "カツカレー",
+    "ポークソテー",
+    "トンテキ"
+   ],
+   "description": "筋切りがしやすい厚さにそろえた豚ロースのとんかつ用です。きめが細かく、外側の脂身が揚げると香ばしく仕上がります。カツ丼やカツカレーなど家族が喜ぶ定番料理に。",
+   "image_brief": "Plastic tray with two to four thick pork loin chops with a white fat rim, labeled 「豚ロース とんかつ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ロース とんかつ用 2枚（約220g）",
+     "brand": "",
+     "size": "2枚（約220g）",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ロース とんかつ用 4枚（約440g）",
+     "brand": "",
+     "size": "4枚（約440g）",
+     "price_tax_excluded": 1018,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ロース とんかつ用 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 538,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚ロース とんかつ用 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 518,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "鹿児島県産 豚ロース とんかつ用 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 638,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 ロース とんかつ用 3枚（約330g）",
+     "brand": "トップバリュ",
+     "size": "3枚（約330g）",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 ロース とんかつ用 2枚（約220g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚（約220g）",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_loin_tonkatsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_loin_thick_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トンテキ",
+    "ポークソテー",
+    "ポークチャップ",
+    "豚の味噌漬け焼き"
+   ],
+   "description": "食べごたえのある厚切りの豚ロースです。にんにく醤油で焼くトンテキや、ケチャップで仕上げるポークチャップにぴったり。焼く前に筋切りをすると反り返りにくくなります。",
+   "image_brief": "Plastic tray with very thick-cut pork loin steaks with a fat rim, labeled 「豚ロース 厚切り ステーキ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ロース 厚切り ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "1枚（約150g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ロース 厚切り ステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 778,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ロース 厚切り ステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "2枚（約300g）",
+     "price_tax_excluded": 568,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚ロース 厚切り ステーキ用 3枚（約450g）",
+     "brand": "",
+     "size": "3枚（約450g）",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "宮崎県産 豚ロース 厚切り ステーキ用 2枚（約280g）",
+     "brand": "",
+     "size": "2枚（約280g）",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 ロース 厚切り 2枚（約260g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚（約260g）",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_loin_thick_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_fillet_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ヒレ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ヒレカツ",
+    "ポークソテー",
+    "酢豚",
+    "ピカタ",
+    "ローストポーク"
+   ],
+   "description": "脂身が少なくきめ細かな豚ヒレのブロックです。好みの厚さに切ってヒレカツやピカタに、一口大にして酢豚にもおすすめです。やわらかく、お子さまにも食べやすいお肉です。",
+   "image_brief": "Plastic tray holding a long cylindrical lean pork tenderloin block, labeled 「豚ヒレ ブロック」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ヒレ ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ヒレ ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1298,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ヒレ ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 798,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚ヒレ ブロック 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 818,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 豚ヒレ ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 ヒレ ブロック 約250g",
+     "brand": "トップバリュ セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 1180,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_fillet_block_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_fillet_hitokuchi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ヒレ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ヒレカツ",
+    "一口カツ",
+    "お弁当のおかず",
+    "酢豚",
+    "ピカタ"
+   ],
+   "description": "豚ヒレを一口大の厚切りにカットしました。衣をつけて揚げるだけで、やわらかな一口ヒレカツが手軽に作れます。お弁当のおかずや酢豚にも便利です。",
+   "image_brief": "Plastic tray of round bite-sized pork tenderloin medallions arranged in rows, labeled 「豚ヒレ 一口かつ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ヒレ 一口かつ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ヒレ 一口かつ用 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 1018,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ヒレ 一口かつ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 528,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚ヒレ 一口かつ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "米国産"
+    },
+    {
+     "title": "宮崎県産 豚ヒレ 一口かつ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 658,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 ヒレ 一口かつ用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 878,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_fillet_hitokuchi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_momo_sliced",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "もも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "豚汁",
+    "野菜炒め",
+    "冷しゃぶ",
+    "肉巻き"
+   ],
+   "description": "赤身中心であっさりとした豚もも薄切りです。肉じゃがや豚汁、野菜炒めなど和洋中どんな料理にも合わせやすく、野菜を巻いた肉巻きにもぴったりです。",
+   "image_brief": "Plastic tray of lean, light-pink thinly sliced pork leg neatly folded, labeled 「豚もも薄切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もも薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも薄切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 738,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚もも薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 378,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "千葉県産 豚もも薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 428,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 もも薄切り 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚もも薄切り 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_momo_sliced_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_momo_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "もも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストポーク",
+    "煮豚",
+    "酢豚",
+    "カレー",
+    "ポトフ"
+   ],
+   "description": "脂身が少なく、うま味のある豚もものかたまり肉です。ローストポークや煮豚にすると、しっとりとした食感が楽しめます。角切りにしてカレーやポトフにも使えます。",
+   "image_brief": "Plastic tray with a compact lean pork leg block tied with no string, labeled 「豚もも ブロック」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もも ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも ブロック 700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 1198,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも ブロック 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 648,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚もも ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 718,
+     "origin": "米国産"
+    },
+    {
+     "title": "北海道産 豚もも ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 778,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産豚 もも ブロック 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 858,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_momo_block_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_momo_cubes",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "角切り・ブロック"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "カレー",
+    "シチュー",
+    "ポークビーンズ",
+    "豚汁"
+   ],
+   "description": "使いやすい大きさにカットした豚もも角切りです。脂身が少なく、酢豚やカレー、シチューにさっぱりと仕上がります。切る手間がなく、忙しい日の調理に便利です。",
+   "image_brief": "Plastic tray piled with lean cubed pork leg pieces, labeled 「豚もも 角切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もも 角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 468,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも 角切り 酢豚用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも 角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 438,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚もも 角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 豚もも 角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 518,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚もも 角切り 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 638,
+     "origin": "メキシコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_momo_cubes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_momo_strips",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "もも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "青椒肉絲",
+    "野菜炒め",
+    "焼きそば",
+    "チャーハン",
+    "春雨炒め"
+   ],
+   "description": "豚ももを細切りにした、炒め物にすぐ使える便利なお肉です。火の通りが早く、青椒肉絲や野菜炒め、焼きそばの具材にぴったりです。",
+   "image_brief": "Plastic tray of thin julienned strips of lean pork leg, labeled 「豚もも 細切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もも 細切り 青椒肉絲用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも 細切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも 細切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 318,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚もも 細切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "宮崎県産 豚もも 細切り 180g",
+     "brand": "",
+     "size": "180g",
+     "price_tax_excluded": 358,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 もも 細切り 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_momo_strips_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_belly_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の角煮",
+    "煮豚",
+    "焼豚",
+    "ラーメン",
+    "回鍋肉"
+   ],
+   "description": "赤身と脂身が層になった豚バラのかたまり肉です。じっくり煮込んだ角煮や煮豚は、とろけるようなやわらかさに仕上がります。厚めに切って回鍋肉にも使えます。",
+   "image_brief": "Plastic tray holding a rectangular pork belly slab showing distinct layers of fat and lean meat, labeled 「豚バラ ブロック」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ ブロック 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ ブロック 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1128,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚バラ ブロック 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 718,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "スペイン産 豚バラ ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "鹿児島県産 豚バラ ブロック 角煮用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1058,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 バラ ブロック 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 1298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 バラ ブロック 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_belly_block_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_spareribs",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "スペアリブ・豚トロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スペアリブのオーブン焼き",
+    "スペアリブの煮込み",
+    "ポトフ",
+    "豚骨スープ"
+   ],
+   "description": "骨付きの豚バラ肉、スペアリブです。甘辛だれに漬け込んでオーブンで焼いたり、圧力鍋でやわらかく煮込んだりと、休日のごちそうにおすすめです。骨からよいだしが出るのでスープにも使えます。",
+   "image_brief": "Plastic tray with several bone-in pork spare ribs laid in a row, labeled 「豚スペアリブ」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚スペアリブ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚スペアリブ ハーフカット 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 678,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚スペアリブ 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 858,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚スペアリブ 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1080,
+     "origin": "米国産"
+    },
+    {
+     "title": "デンマーク産 豚スペアリブ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚スペアリブ 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "メキシコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_spareribs_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_jowl",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "スペアリブ・豚トロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "豚トロのねぎ塩焼き",
+    "炒め物",
+    "豚トロ丼"
+   ],
+   "description": "一頭からわずかしかとれない、豚の首まわりの希少部位です。コリッとした歯ごたえと脂の甘みがあり、塩こしょうで焼くだけでおいしく召し上がれます。ねぎ塩だれを添えて豚トロ丼にも。",
+   "image_brief": "Plastic tray of white-marbled pork jowl slices arranged neatly, labeled 「豚トロ 焼肉用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚トロ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚トロ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 958,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚トロ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "スペイン産 豚トロ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 518,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "鹿児島県産 豚トロ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 578,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産 豚トロ ブロック 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_jowl_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_komagire_value",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "こま切れ・切り落とし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "野菜炒め",
+    "肉じゃが",
+    "豚汁",
+    "カレー",
+    "焼きそば"
+   ],
+   "description": "毎日の料理にたっぷり使える大容量の豚こま切れです。野菜炒めや肉じゃが、カレーなど家族分をまとめて作るときに便利です。使いきれない分は小分けにして冷凍保存もできます。",
+   "image_brief": "Large plastic tray heaped with mixed-cut pork pieces, with a red value sticker reading 「豚こま切れ 徳用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚こま切れ 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚こま切れ 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚こま切れ 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1180,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚こま切れ 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "米国産"
+    },
+    {
+     "title": "メキシコ産 豚こま切れ 徳用 700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 998,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚こま切れ 徳用 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "カナダ産・米国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 こま切れ 徳用 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_komagire_value_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_butadon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "生姜焼き丼",
+    "焼肉丼",
+    "お弁当のおかず"
+   ],
+   "description": "甘辛だれで焼く豚丼にちょうどよい、やや厚めのスライスです。焼くと香ばしく、たれがしっかり絡みます。生姜焼き丼やお弁当のおかずにもどうぞ。",
+   "image_brief": "Plastic tray of slightly thick pork slices overlapped in rows, labeled 「豚丼用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ 豚丼用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 豚丼用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "北海道産 豚ロース 豚丼用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 648,
+     "origin": "北海道産"
+    },
+    {
+     "title": "カナダ産 豚バラ 豚丼用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚肩ロース 豚丼用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 548,
+     "origin": "米国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 バラ 豚丼用 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_butadon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_tonjiru",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "こま切れ・切り落とし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚汁",
+    "けんちん汁",
+    "筑前煮",
+    "肉豆腐",
+    "煮物"
+   ],
+   "description": "豚汁に使いやすい大きさにカットした豚肉です。だしに豚のうま味とコクが溶け出し、具だくさんの豚汁がおいしく作れます。煮物や肉豆腐にも便利です。",
+   "image_brief": "Plastic tray with bite-sized cut pork belly pieces, labeled 「豚汁用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ 豚汁用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ 豚汁用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 668,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩 豚汁・煮物用 切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚バラ 豚汁用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 468,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "スペイン産 豚バラ 豚汁用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ 国産豚 豚汁用 バラ切り落とし 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_tonjiru_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_reishabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷しゃぶ",
+    "冷しゃぶサラダ",
+    "豚しゃぶうどん",
+    "しゃぶしゃぶ"
+   ],
+   "description": "さっとゆでて冷やすだけで冷しゃぶが作れる薄切り肉です。ゆでてもかたくなりにくく、ごまだれやぽん酢でさっぱりと召し上がれます。野菜と合わせた冷しゃぶサラダにも。",
+   "image_brief": "Plastic tray of very thin pork slices each delicately folded in rows, labeled 「冷しゃぶ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もも 冷しゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 冷しゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 488,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも 冷しゃぶ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも 冷しゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "鹿児島県産 豚肩ロース 冷しゃぶ用 180g",
+     "brand": "",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 もも 冷しゃぶ用 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 658,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_reishabu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_belly_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "常夜鍋",
+    "豚しゃぶ鍋",
+    "ミルフィーユ鍋",
+    "豆乳鍋"
+   ],
+   "description": "しゃぶしゃぶ用にごく薄くスライスした豚バラです。脂の甘みがあり、鍋のだしにもコクが加わります。白菜と重ねるミルフィーユ鍋や常夜鍋にもおすすめです。",
+   "image_brief": "Plastic tray of paper-thin layered pork belly slices fanned out in rows, labeled 「豚バラ しゃぶしゃぶ用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ しゃぶしゃぶ用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 768,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚バラ しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "スペイン産 豚バラ しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 488,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "宮崎県産 豚バラ しゃぶしゃぶ用 180g",
+     "brand": "",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 バラ しゃぶしゃぶ用 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 バラ しゃぶしゃぶ用 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 958,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_belly_shabu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ホットプレート焼肉",
+    "焼肉丼",
+    "サンチュ巻き"
+   ],
+   "description": "ホットプレートでの焼肉にぴったりの厚さにカットした豚肉です。焼肉のたれはもちろん、塩こしょうやレモンでもおいしく召し上がれます。家族みんなで楽しむ焼肉の日に。",
+   "image_brief": "Plastic tray with neatly arranged pork yakiniku slices, labeled 「豚 焼肉用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚肩ロース 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 528,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "カナダ産 豚バラ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 578,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚バラ 焼肉用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "米国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 焼肉用 盛り合わせ（肩ロース・バラ） 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_yakiniku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_belly_thick",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サムギョプサル",
+    "回鍋肉",
+    "豚キムチ",
+    "焼肉",
+    "豚バラ大根"
+   ],
+   "description": "食べごたえのある厚切りの豚バラです。カリッと焼いてサムギョプサルにしたり、回鍋肉や豚キムチにしたりと、しっかりした食感が楽しめます。大根と煮る豚バラ大根にもおすすめです。",
+   "image_brief": "Plastic tray of thick-cut pork belly strips showing fat layers, labeled 「豚バラ 厚切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚バラ 厚切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 538,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚バラ 厚切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1038,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚バラ 厚切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "スペイン産 豚バラ 厚切り サムギョプサル用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 588,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "鹿児島県産 豚バラ 厚切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 618,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚バラ 厚切り 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 878,
+     "origin": "メキシコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_belly_thick_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_loin_ultra_thin",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "肉巻き",
+    "ミルフィーユかつ",
+    "お弁当のおかず",
+    "豚のアスパラ巻き"
+   ],
+   "description": "向こうが透けるほど薄くスライスした豚肉です。野菜を巻いた肉巻きや、何枚も重ねて揚げるミルフィーユかつにぴったり。お弁当のおかず作りに重宝します。",
+   "image_brief": "Plastic tray of ultra-thin translucent pork slices laid flat in overlapping sheets, labeled 「豚ロース 極うす切り」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ロース 極うす切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ロース 極うす切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 768,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ロース 極うす切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "鹿児島県産 豚ロース 極うす切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もも 極うす切り 肉巻き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 ロース 極うす切り 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 618,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_loin_ultra_thin_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_miso_marinated",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "味付け肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の味噌漬け焼き",
+    "お弁当のおかず",
+    "味噌漬け丼",
+    "朝ごはん"
+   ],
+   "description": "まろやかな味噌だれに漬け込んだ豚肉です。フライパンやグリルで焼くだけで、ご飯がすすむ一品が完成します。焦げやすいので弱めの火でじっくり焼くのがおすすめです。",
+   "image_brief": "Vacuum-sealed tray of pork slices coated in light brown miso marinade, labeled 「豚ロース 味噌漬け」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産豚ロース 味噌漬け 2枚（200g）",
+     "brand": "トップバリュ",
+     "size": "2枚（200g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚ロース 味噌漬け 4枚（400g）",
+     "brand": "トップバリュ",
+     "size": "4枚（400g）",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚肩ロース 味噌漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 ロース 味噌漬け 2枚（180g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚（180g）",
+     "price_tax_excluded": 880,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内加工] 国産豚ロース 味噌漬け 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 828,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚肩ロース 味噌漬け 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_miso_marinated_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_shio_koji",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "味付け肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の塩麹焼き",
+    "野菜炒め",
+    "お弁当のおかず",
+    "豚肉と野菜の蒸し焼き"
+   ],
+   "description": "塩麹に漬け込んで、やわらかくうま味を引き出した豚肉です。焼くだけで素材の味を生かしたやさしい味わいに仕上がります。キャベツやもやしと一緒に蒸し焼きにするのもおすすめです。",
+   "image_brief": "Vacuum-sealed tray of pork slices glistening with white rice-koji marinade, labeled 「豚ロース 塩麹漬け」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産豚ロース 塩麹漬け 2枚（200g）",
+     "brand": "トップバリュ",
+     "size": "2枚（200g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚肩ロース 塩麹漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚もも 塩麹漬け 薄切り 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内加工] 国産豚ロース 塩麹漬け 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 828,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 肩ロース 塩麹漬け 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚肩ロース 塩麹漬け 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_shio_koji_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_saikyo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "味付け肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の西京焼き",
+    "お弁当のおかず",
+    "和定食",
+    "朝ごはん"
+   ],
+   "description": "上品な甘さの白味噌に漬け込んだ豚肉の西京漬けです。焼くと香ばしい香りが広がり、冷めてもやわらかいのでお弁当にも向いています。焼く前に表面の味噌を軽くぬぐうと焦げにくくなります。",
+   "image_brief": "Vacuum-sealed pack of pork loin slices covered in pale white saikyo miso, labeled 「豚ロース 西京漬け」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産豚ロース 西京漬け 2枚（200g）",
+     "brand": "トップバリュ",
+     "size": "2枚（200g）",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚ロース 西京漬け 4枚（400g）",
+     "brand": "トップバリュ",
+     "size": "4枚（400g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚肩ロース 西京漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚 ロース 西京漬け 2枚（180g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚（180g）",
+     "price_tax_excluded": 920,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内加工] 国産豚ロース 西京漬け 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 858,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内加工] カナダ産豚肩ロース 西京漬け 3枚（約300g）",
+     "brand": "",
+     "size": "3枚（約300g）",
+     "price_tax_excluded": 648,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_saikyo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_seasoned_tare",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "味付け肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚カルビ焼肉",
+    "豚キムチ",
+    "焼肉丼",
+    "野菜炒め",
+    "ビビンバ"
+   ],
+   "description": "たれに漬け込んであるので、焼くだけ・野菜と炒めるだけで味が決まる味付け豚肉です。玉ねぎやキャベツ、もやしと一緒に炒めればボリュームのある一品に。忙しい日の夕食に便利です。",
+   "image_brief": "Plastic tray of pork slices coated in glossy brown sauce with sesame seeds, labeled 「豚カルビ たれ漬け」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豚カルビ 焼肉のたれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 豚カルビ 焼肉のたれ漬け 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 948,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 国産豚バラ ねぎ塩だれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 豚肩ロース 甘辛みそだれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 国産豚 豚キムチ用 たれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 味付け豚バラ 塩だれ 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_seasoned_tare_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_liver",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ホルモン・レバー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "レバニラ炒め",
+    "レバーの甘辛煮",
+    "レバーの竜田揚げ",
+    "レバーの生姜煮"
+   ],
+   "description": "新鮮な豚レバーです。牛乳や水にさらして下処理をすると、くせが和らぎ食べやすくなります。にらともやしで作るレバニラ炒めや、生姜をきかせた甘辛煮が定番です。",
+   "image_brief": "Plastic tray of glossy dark reddish-brown sliced pork liver, labeled 「豚レバー スライス」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚レバー スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚レバー スライス 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚レバー ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 豚レバー スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 238,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 豚レバー スライス 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 288,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 レバー 下処理済 スライス 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_liver_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_motsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ホルモン・レバー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ煮込み",
+    "もつ鍋",
+    "ホルモン焼き",
+    "もつ入り豚汁"
+   ],
+   "description": "下ゆで済みで扱いやすい豚もつです。大根やにんじん、こんにゃくと味噌で煮込むもつ煮込みは、寒い季節の定番料理です。キャベツやにらと合わせてもつ鍋にもどうぞ。",
+   "image_brief": "Plastic tray of pale boiled pork intestine pieces, labeled 「豚もつ（白もつ）ボイル」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚もつ（白もつ）ボイル 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚もつ（白もつ）ボイル 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ガツ ボイル 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚もつ 煮込み用 ミックス 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 豚もつ（白もつ）ボイル 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 もつ 下ゆで済 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_motsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_ground_coarse",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "豚ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "餃子",
+    "肉団子",
+    "麻婆豆腐",
+    "ロールキャベツ"
+   ],
+   "description": "粗めに挽いた豚ひき肉で、肉のつぶつぶ感と食べごたえが楽しめます。ハンバーグや肉団子にすると肉汁たっぷりに仕上がります。餃子や麻婆豆腐にもおすすめです。",
+   "image_brief": "Plastic tray of coarsely ground pink pork with visible texture, labeled 「豚ひき肉 粗挽き」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 粗挽き 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 粗挽き 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ひき肉 粗挽き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 418,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "鹿児島県産 豚ひき肉 粗挽き 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 468,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産 豚肩ロース ひき肉 粗挽き 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 粗挽き 豚ひき肉 350g",
+     "brand": "トップバリュ",
+     "size": "350g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_ground_coarse_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_ground_value",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "豚ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "麻婆豆腐",
+    "ハンバーグ",
+    "そぼろ",
+    "ロールキャベツ",
+    "肉みそ"
+   ],
+   "description": "まとめ買いに便利な大容量の豚ひき肉です。たくさん包む手作り餃子や作り置きのそぼろ、肉みそにぴったり。小分けにして冷凍しておくと毎日の料理に使えます。",
+   "image_brief": "Large plastic tray of finely ground pork with a red value sticker reading 「豚ひき肉 徳用」.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1018,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 豚ひき肉 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ひき肉 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1080,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "米国産 豚ひき肉 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "米国産"
+    },
+    {
+     "title": "メキシコ産 豚ひき肉 徳用 700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 938,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚ひき肉 徳用 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1198,
+     "origin": "カナダ産・米国産"
+    },
+    {
+     "title": "トップバリュ 国産豚 ひき肉 徳用 800g",
+     "brand": "トップバリュ",
+     "size": "800g",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_ground_value_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_breaded_cutlet",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "カツ丼",
+    "カツカレー",
+    "カツサンド",
+    "お弁当のおかず"
+   ],
+   "description": "衣付きで、あとは揚げるだけの豚かつです。下ごしらえの手間がなく、サクッとした揚げたてのとんかつがご家庭で手軽に楽しめます。カツ丼やカツカレー、カツサンドにも。",
+   "image_brief": "Plastic tray of raw breaded pork cutlets coated in white panko crumbs, labeled 「揚げるだけ 豚ロースかつ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 揚げるだけ 国産豚ロースかつ 2枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（240g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 揚げるだけ 国産豚ヒレかつ 6個入（240g）",
+     "brand": "トップバリュ",
+     "size": "6個入（240g）",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 揚げるだけ 豚肩ロースかつ 3枚入（330g）",
+     "brand": "トップバリュ",
+     "size": "3枚入（330g）",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 揚げるだけ 国産豚 ミルフィーユかつ 2枚入（220g）",
+     "brand": "トップバリュ",
+     "size": "2枚入（220g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 揚げるだけ 鹿児島県産黒豚ロースかつ 2枚入（220g）",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚入（220g）",
+     "price_tax_excluded": 880,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[店内加工] 衣付き 国産豚ロースかつ 1枚（約130g）",
+     "brand": "",
+     "size": "1枚（約130g）",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_breaded_cutlet_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_kakuni_ready",
+   "category_path": [
+    "お肉・お肉加工品",
+    "お肉加工品",
+    "角煮・煮豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚の角煮",
+    "角煮丼",
+    "ラーメン",
+    "お弁当のおかず",
+    "角煮まん"
+   ],
+   "description": "じっくり煮込んだ豚バラ肉を甘辛いたれで仕上げた角煮です。温めるだけで本格的な味わいが楽しめ、角煮丼やラーメンのトッピングに便利です。ゆで卵や青菜を添えると一品料理になります。",
+   "image_brief": "Plastic tray with clear lid showing glossy braised pork belly cubes in dark sweet soy sauce, labeled 「豚の角煮」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豚の角煮 レンジで温めるだけ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豚の角煮 大容量 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 鹿児島県産黒豚の角煮 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 国産豚 煮豚 ブロック たれ付 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 豚の角煮 一口サイズ 6個入（150g）",
+     "brand": "トップバリュ",
+     "size": "6個入（150g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚の角煮 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_kakuni_ready_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_chashu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ハム・ベーコン・焼豚",
+    "焼豚・チャーシュー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "チャーハン",
+    "冷やし中華",
+    "焼豚丼",
+    "おつまみ"
+   ],
+   "description": "豚肉を香ばしく焼き上げた焼豚です。スライスをそのままラーメンや冷やし中華にのせたり、刻んでチャーハンに混ぜたりと手軽に使えます。",
+   "image_brief": "Plastic pouch pack showing overlapping slices of reddish-brown roast pork with a pink rim, labeled 「焼豚」.",
+   "variants": [
+    {
+     "title": "トップバリュ 焼豚 スライス 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼豚 スライス 3パック（40g×3）",
+     "brand": "トップバリュ",
+     "size": "3パック（40g×3）",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産豚肩ロース使用 焼豚 ブロック 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼豚 切り落とし 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 炭火焼 焼豚 ブロック 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 炙り焼豚 スライス たれ付 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_chashu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_pork_frozen_iqf",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 お肉",
+    "豚肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "野菜炒め",
+    "生姜焼き",
+    "豚汁",
+    "焼きそば",
+    "チャーハン"
+   ],
+   "description": "1枚ずつほぐれるバラ凍結で、使いたい分だけ取り出せる冷凍豚肉です。解凍せずにそのまま炒め物や汁物に使えて、買い置きにも便利です。",
+   "image_brief": "Resealable freezer bag showing loose individually frozen pork pieces through a clear window, labeled 「冷凍 豚こま切れ バラ凍結」.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 国産豚こま切れ バラ凍結 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 冷凍 国産豚こま切れ バラ凍結 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 豚こま切れ バラ凍結 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "トップバリュ 冷凍 国産豚バラ切り落とし バラ凍結 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 858,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 冷凍 国産豚ひき肉 パラパラ凍結 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 冷凍 豚肩ロース 小分け 生姜焼き用 4袋入（400g）",
+     "brand": "トップバリュ",
+     "size": "4袋入（400g）",
+     "price_tax_excluded": 898,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_pork_frozen_iqf_p.jpg"
+   ]
+  }
+ ]
+}

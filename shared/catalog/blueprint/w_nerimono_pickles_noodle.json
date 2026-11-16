@@ -1,0 +1,4425 @@
+{
+ "category_key": "w_nerimono_pickles_noodle",
+ "items": [
+  {
+   "base_id": "w_nerimono_pickles_noodle_yakinuki_kamaboko",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "かまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "板わさ",
+    "おせち",
+    "酒の肴",
+    "うどんの具"
+   ],
+   "tax_rate": 8,
+   "description": "表面をじっくり焼き上げた焼き抜きかまぼこです。香ばしい焼き目と、ぷりっと強い弾力が特長。薄切りにしてわさび醤油で板わさにすれば、晩酌のお供や年末年始の口取りにぴったりです。",
+   "image_brief": "A semicircular fish cake with a golden-brown toasted surface on a small wooden board, wrapped in clear film with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼き抜きかまぼこ 1本 160g",
+     "brand": "Cymbal",
+     "size": "1本 160g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼き抜きかまぼこ 1本 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "1本 120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト グチ入り 焼き抜きかまぼこ 1本 200g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 200g",
+     "price_tax_excluded": 598,
+     "origin": "山口県加工"
+    },
+    {
+     "title": "Cymbal セレクト 上焼き抜きかまぼこ 吟撰 1本 240g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 240g",
+     "price_tax_excluded": 980,
+     "origin": "愛媛県加工"
+    },
+    {
+     "title": "ハマナギ水産 焼き抜きかまぼこ ミニ 70g×2本",
+     "brand": "ハマナギ水産",
+     "size": "70g×2本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yakinuki_kamaboko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_itawasa_slice",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "かまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "板わさ",
+    "おつまみ",
+    "お弁当",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "切らずにそのまま食べられるスライス済みのかまぼこに、わさびと醤油を添えた板わさセット。開けてすぐ一品になる手軽さで、晩酌のおつまみや来客時のちょっとしたおもてなしに便利です。",
+   "image_brief": "A shallow clear plastic tray holding neatly fanned slices of pink-rimmed white fish cake with a tiny green wasabi packet and soy sauce sachet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 板わさ スライスかまぼこ わさび・醤油付 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 板わさ スライスかまぼこ わさび・醤油付 50g×3パック",
+     "brand": "Cymbal",
+     "size": "50g×3パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 上かまぼこの板わさ 本わさび付 110g",
+     "brand": "Cymbal セレクト",
+     "size": "110g",
+     "price_tax_excluded": 398,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "ハマナギ水産 白かまぼこ スライス 板わさ用 80g",
+     "brand": "ハマナギ水産",
+     "size": "80g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スライスかまぼこ わさび付 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_itawasa_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_ago_noyaki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "ちくわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "おでん",
+    "酒の肴",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "とびうお(あご)のすり身を太く長い棒状にして焼き上げた、山陰名物の野焼き。あごならではの上品で濃いうま味と、しっかりとした歯ごたえが楽しめます。輪切りにしてわさび醤油で、または軽く炙って酒の肴に。",
+   "image_brief": "A long thick fish cake log with a dark brown grilled skin, partly sliced to show the white interior, wrapped in clear film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "島根県加工 あご野焼き 1本 約350g",
+     "brand": "",
+     "size": "1本 約350g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "島根県加工 あご野焼き ハーフ 1本 約180g",
+     "brand": "",
+     "size": "1本 約180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト とびうお使用 あご野焼き 特上 1本 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 約400g",
+     "price_tax_excluded": 1080,
+     "origin": "島根県加工"
+    },
+    {
+     "title": "ハマナギ水産 あご野焼き スライス 100g",
+     "brand": "ハマナギ水産",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あご入り 焼竹輪 3本入",
+     "brand": "Cymbal",
+     "size": "3本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_ago_noyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_cheese_chikuwa",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "ちくわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おつまみ",
+    "磯辺揚げ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ちくわの穴にプロセスチーズを詰めた、子どもから大人まで人気のチーズちくわ。切ってそのままお弁当のすき間に入れたり、磯辺揚げにしてとろけるチーズを楽しんだりと、使い道が広がります。",
+   "image_brief": "Small golden grilled fish cake tubes filled with yellow cheese, individually wrapped and arranged in a clear plastic bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズちくわ 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズちくわ 個包装 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産チーズ使用 チーズちくわ 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ミニチーズちくわ 8本入",
+     "brand": "ハマナギ水産",
+     "size": "8本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒こしょうチーズちくわ 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チーズ入りちくわ 3本入",
+     "brand": "Cymbal ベーシック",
+     "size": "3本入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_cheese_chikuwa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_oden_futo_chikuwa",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "ちくわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "鍋",
+    "ちくわの天ぷら"
+   ],
+   "tax_rate": 8,
+   "description": "おでん用に太く大きく焼き上げた大ちくわです。煮込んでも崩れにくく、穴からだしをたっぷり吸い込んでジューシーに仕上がります。寒い季節の鍋物や煮物のボリュームアップにも頼れる存在です。",
+   "image_brief": "Two thick, large grilled fish cake tubes with browned stripes sealed in a clear tray pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おでん用 大ちくわ 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おでん用 大ちくわ 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼 おでん用 大ちくわ 2本入",
+     "brand": "Cymbal セレクト",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "愛知県加工"
+    },
+    {
+     "title": "ハマナギ水産 焼き竹輪 太巻き 1本 140g",
+     "brand": "ハマナギ水産",
+     "size": "1本 140g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック おでん用 ちくわ 太 3本入",
+     "brand": "Cymbal ベーシック",
+     "size": "3本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_oden_futo_chikuwa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_yasaiten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "さつま揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おでん",
+    "そのまま",
+    "煮物",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "にんじんやごぼう、玉ねぎなど彩り野菜を練り込んで揚げた野菜天。野菜の甘みと魚のうま味が重なり、軽く炙ってしょうが醤油でいただくのがおすすめです。おでんや煮物の具にも重宝します。",
+   "image_brief": "Flat oval fried fish cakes dotted with orange carrot and green vegetable bits stacked in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 野菜天 徳用 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚入",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島風 野菜天 甘口 4枚入",
+     "brand": "Cymbal セレクト",
+     "size": "4枚入",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "ハマナギ水産 ひとくち野菜天 12個入",
+     "brand": "ハマナギ水産",
+     "size": "12個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 野菜天 4枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "4枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yasaiten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_gobouten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "さつま揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おでん",
+    "うどんの具",
+    "おつまみ",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "細切りのごぼうをたっぷり練り込み、棒状に揚げたごぼう天。シャキッとした歯ごたえと土の香りが魚のすり身とよく合います。うどんやそばのトッピング、おでんの具にもおすすめです。",
+   "image_brief": "Long stick-shaped golden fried fish cakes with visible burdock root shreds lined up in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごぼう天 徳用 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産ごぼう使用 ごぼう天 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ごぼう天 平天タイプ 4枚入",
+     "brand": "ハマナギ水産",
+     "size": "4枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ごぼう天 4本入",
+     "brand": "Cymbal ベーシック",
+     "size": "4本入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_gobouten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_ikaten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "さつま揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いか",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おでん",
+    "炒め物",
+    "うどんの具"
+   ],
+   "tax_rate": 8,
+   "description": "刻んだいかを練り込んで揚げたいか天です。噛むほどにいかのうま味と弾力が広がり、軽く焼いてマヨネーズや七味を添えれば絶好のおつまみに。野菜と炒めてもおいしく仕上がります。",
+   "image_brief": "Golden flat fried fish cakes studded with white squid pieces arranged in a clear tray pack with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いか天 徳用 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト やりいか入り いか天 3枚入",
+     "brand": "Cymbal セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 いか天 ゲソ入り 5枚入",
+     "brand": "ハマナギ水産",
+     "size": "5枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 紅しょうが入り いか天 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_ikaten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_benishouga_ten",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "さつま揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "うどんの具",
+    "焼きそばの具"
+   ],
+   "tax_rate": 8,
+   "description": "刻んだ紅しょうがを混ぜ込んで揚げた、関西でおなじみの紅しょうが天。ピリッとした酸味と鮮やかな色が食卓を明るくします。そのままでも、うどんや焼きそばのトッピングにもよく合います。",
+   "image_brief": "Flat round fried fish cakes speckled with bright red pickled ginger in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紅しょうが天 ミニ 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産しょうが使用 紅しょうが天 3枚入",
+     "brand": "Cymbal セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 268,
+     "origin": "大阪府加工"
+    },
+    {
+     "title": "ハマナギ水産 紅しょうが天 5枚入",
+     "brand": "ハマナギ水産",
+     "size": "5枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_benishouga_ten_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_ebi_shinjo",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "しんじょ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "卵",
+    "小麦",
+    "大豆",
+    "やまいも"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お吸い物",
+    "おでん",
+    "揚げ物",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "えびのすり身に山の芋を合わせ、ふんわり蒸し上げたえびしんじょ。上品な甘みとやわらかな口当たりで、お吸い物やお雑煮の具にすると一気に料亭風に。揚げてもおいしく、おもてなしにも向きます。",
+   "image_brief": "Round pale pink shrimp dumplings with visible shrimp pieces in a small clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびしんじょ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大えび入り えびしんじょ 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 えびしんじょ 揚げタイプ 6個入",
+     "brand": "ハマナギ水産",
+     "size": "6個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず香る えびしんじょ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびしんじょ ミニ 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_ebi_shinjo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_uogashi_age",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "はんぺん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "鍋",
+    "焼いておつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "はんぺんを角形に揚げた、ふわふわ食感の魚河岸揚げ。煮込むとスポンジのようにだしを吸い込み、口の中でじゅわっと広がります。おでんの名脇役として、寒い時期の煮物や鍋にもおすすめです。",
+   "image_brief": "Square puffy golden fried fish cake cubes packed in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 魚河岸揚げ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 魚河岸揚げ 徳用 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産すけとうだら使用 魚河岸揚げ 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "東京都加工"
+    },
+    {
+     "title": "ハマナギ水産 ひとくち魚河岸揚げ 10個入",
+     "brand": "ハマナギ水産",
+     "size": "10個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_uogashi_age_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_cheese_hanpen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "はんぺん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼きはんぺん",
+    "お弁当",
+    "おつまみ",
+    "フライ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりはんぺんにチーズを包み込んだ小ぶりなチーズはんぺん。フライパンでこんがり焼けば、とろけるチーズと香ばしさが楽しめます。お弁当のおかずやお子さまのおやつにも使いやすいサイズです。",
+   "image_brief": "Small white square fluffy fish cakes with a cheese layer visible at the cut edge, in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズはんぺん 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズはんぺん 個包装 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ゴーダチーズ入り はんぺん 3枚入",
+     "brand": "Cymbal セレクト",
+     "size": "3枚入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ミニはんぺん プレーン 6枚入",
+     "brand": "ハマナギ水産",
+     "size": "6枚入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ミニはんぺん 明太子風味 6枚入",
+     "brand": "ハマナギ水産",
+     "size": "6枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_cheese_hanpen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_kanikama_long",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "かに風味かまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "かに",
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "手巻き寿司",
+    "サンドイッチ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "かにの脚肉のような太さと繊維感にこだわったロングタイプのかに風味かまぼこ。ほぐすと本物さながらの食感で、サラダや手巻き寿司、サンドイッチの具に大活躍します。おつまみにもそのままどうぞ。",
+   "image_brief": "Long thick red-and-white crab-flavored fish sticks wrapped in thin film, lined in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かに風味かまぼこ 脚肉風 ロング 5本入",
+     "brand": "Cymbal",
+     "size": "5本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト かに風味かまぼこ 極太 ずわい風 4本入",
+     "brand": "Cymbal セレクト",
+     "size": "4本入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かに風味かまぼこ フレーク 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック かに風味かまぼこ 徳用 ほぐし 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 かに風味かまぼこ ハーフカット 20本入",
+     "brand": "ハマナギ水産",
+     "size": "20本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かに風味かまぼこ 減塩 8本入",
+     "brand": "Cymbal",
+     "size": "8本入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_kanikama_long_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_bakudan",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "揚げ物・巻き物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "うずらの卵を魚のすり身で包んで揚げた、おでんの人気種ばくだん。割るとまんまるの卵が現れ、食卓が楽しくなります。おでんのほか、甘辛く煮付けてお弁当のおかずにもおすすめです。",
+   "image_brief": "Round golden fried fish cake balls, one cut in half showing a whole quail egg inside, arranged in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ばくだん うずら卵入り 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ばくだん うずら卵入り 徳用 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ばくだん 大玉 鶏卵入り 2個入",
+     "brand": "ハマナギ水産",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産うずら卵使用 ばくだん 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_bakudan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_musubi_konbu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "結び昆布"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産の昆布を食べやすく結んで下ゆでした、おでん用の結び昆布。そのまま鍋に入れるだけで、だしのうま味がしみ込んだやわらかな昆布が楽しめます。煮しめや鍋物の彩りにも便利です。",
+   "image_brief": "Small knotted dark green kelp pieces in a clear liquid-filled plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おでん用 結び昆布 北海道産昆布使用 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おでん用 結び昆布 徳用 16個入",
+     "brand": "Cymbal",
+     "size": "16個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 日高昆布 結び昆布 下ゆで済 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "ハマナギ水産 早煮 結び昆布 6個入",
+     "brand": "ハマナギ水産",
+     "size": "6個入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_musubi_konbu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_microwave_oden",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "レンジおでん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "夜食",
+    "ひとり鍋",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "大根や玉子、練り物をだしごとパックした、ひとり分のレンジおでん。容器のままレンジで温めるだけで、しみ込んだ本格おでんが楽しめます。ひとり暮らしの夕食や、あと一品ほしい夜にぴったりです。",
+   "image_brief": "A round single-serve microwavable plastic cup of oden with daikon, boiled egg and fish cakes in golden broth under a clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レンジで温める おでん 6品入 1人前 330g",
+     "brand": "Cymbal",
+     "size": "1人前 330g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジで温める 関西風おでん 牛すじ入り 1人前 350g",
+     "brand": "Cymbal",
+     "size": "1人前 350g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト だし香る 上おでん 8品入 1人前 420g",
+     "brand": "Cymbal セレクト",
+     "size": "1人前 420g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマナギ水産 ミニおでん 4品入 220g",
+     "brand": "ハマナギ水産",
+     "size": "220g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味噌だれ付 名古屋風おでん 1人前 330g",
+     "brand": "Cymbal",
+     "size": "1人前 330g",
+     "price_tax_excluded": 348,
+     "origin": "愛知県加工"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_microwave_oden_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_shiromi_surimi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "すり身"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "つみれ汁",
+    "鍋",
+    "揚げ物",
+    "しんじょ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮度のよい白身魚をすりつぶした、味付け前のすり身です。丸めて鍋やつみれ汁に、野菜を混ぜて揚げれば自家製さつま揚げに。冷凍なので必要な分だけ解凍でき、手作り派の方に重宝します。",
+   "image_brief": "A frozen flat rectangular block of white fish paste sealed in a clear vacuum pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白身魚のすり身 冷凍 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白身魚のすり身 冷凍 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産たら すり身 無添加 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "ハマナギ水産 いわしすり身 しょうが入り 300g",
+     "brand": "ハマナギ水産",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 魚すり身 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 980,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_shiromi_surimi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hitokuchi_age",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "練り物",
+    "揚げかまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おつまみ",
+    "おでん",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "ひとくちで食べられる小さな揚げかまぼこを数種類詰め合わせました。プレーン、枝豆、ひじきなど味の違いが楽しめ、お弁当のすき間おかずや晩酌のおつまみに便利。そのままでも温めても美味です。",
+   "image_brief": "Assorted bite-size round fried fish cake balls, some with green edamame and black hijiki specks, in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひとくち揚げ アソート 3種 15個入",
+     "brand": "Cymbal",
+     "size": "15個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくち揚げ 枝豆 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくち揚げ ひじき 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ひとくち揚げ 玉ねぎ甘口 12個入",
+     "brand": "Cymbal セレクト",
+     "size": "12個入",
+     "price_tax_excluded": 268,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "ハマナギ水産 ひとくち揚げ 徳用 25個入",
+     "brand": "ハマナギ水産",
+     "size": "25個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hitokuchi_age_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_suguki",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "京漬物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "京都の伝統野菜すぐき菜を塩だけで漬け込み、乳酸発酵させたすぐき漬。爽やかな酸味と深いうま味が特長で、細かく刻んで醤油を少したらせばご飯が進みます。冬の京漬物の代表格です。",
+   "image_brief": "Pale green-yellow fermented turnip roots with leaves coiled in a clear plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京都府加工 すぐき漬 1株 約150g",
+     "brand": "",
+     "size": "1株 約150g",
+     "price_tax_excluded": 498,
+     "origin": "京都府産すぐき菜使用"
+    },
+    {
+     "title": "京都府加工 刻みすぐき 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "京都府産すぐき菜使用"
+    },
+    {
+     "title": "ツケノヤ すぐき漬 切り落とし 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal セレクト 上賀茂 すぐき漬 天然醗酵 1株 約200g",
+     "brand": "Cymbal セレクト",
+     "size": "1株 約200g",
+     "price_tax_excluded": 798,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal すぐき 刻み ちりめん山椒和え 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_suguki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hinona_zuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "京漬物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "細長く赤紫色の根が美しい日野菜を、甘酢で桜色に漬け上げました。ほのかな苦みとパリッとした歯ざわりが持ち味で、食卓をぱっと華やかにします。刻んでおにぎりに混ぜても色鮮やかです。",
+   "image_brief": "Slender pink-purple pickled turnip roots with green tops arranged in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "滋賀県加工 日野菜漬 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "滋賀県産日野菜使用"
+    },
+    {
+     "title": "ツケノヤ 日野菜 さくら漬 刻み 100g",
+     "brand": "ツケノヤ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 近江 日野菜漬 本漬 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "滋賀県加工"
+    },
+    {
+     "title": "Cymbal 日野菜漬 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hinona_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hariharizuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "醤油漬・刻み漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "箸休め",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "切干大根を昆布と唐辛子入りの甘酢醤油に漬け込んだ、はりはり漬。パリパリと小気味よい歯ごたえと、甘辛い味付けがあとを引きます。箸休めやお弁当の一品に添えやすい常備漬物です。",
+   "image_brief": "Thin strips of pale golden dried daikon pickles with kelp and red chili slices in a clear plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal はりはり漬 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はりはり漬 徳用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宮崎県産切干大根使用 はりはり漬 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 298,
+     "origin": "宮崎県加工"
+    },
+    {
+     "title": "ツケノヤ はりはり漬 ゆず風味 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック はりはり漬 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hariharizuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_tsubozuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "たくあん・大根漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "おにぎり",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "干し大根を醤油ベースの調味液に漬け込んだ、鹿児島生まれのつぼ漬。コリコリとした歯ざわりと甘辛い味が白いご飯によく合います。刻んでチャーハンやおにぎりの具にするのもおすすめです。",
+   "image_brief": "Small diced amber-brown pickled radish pieces in a clear stand-up pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つぼ漬 刻み 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal つぼ漬 刻み 徳用 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県産干し大根 つぼ漬 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県加工"
+    },
+    {
+     "title": "ツケノヤ つぼ漬 いぶし風味 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック つぼ漬 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_tsubozuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_akakabu_zuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "かぶ漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "箸休め",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "赤かぶを甘酢でじっくり漬け、鮮やかな紅色に仕上げた赤かぶ漬。シャキッとした歯ごたえとまろやかな酸味で、冬の食卓や年末年始の箸休めに彩りを添えます。薄切りタイプで使いやすい一品です。",
+   "image_brief": "Vivid crimson sliced pickled red turnips glistening in a clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岐阜県加工 赤かぶ漬 スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "岐阜県産赤かぶ使用"
+    },
+    {
+     "title": "ツケノヤ 赤かぶ漬 丸漬 1個 約250g",
+     "brand": "ツケノヤ",
+     "size": "1個 約250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 飛騨 赤かぶ 品漬 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "岐阜県加工"
+    },
+    {
+     "title": "Cymbal 赤かぶ甘酢漬 スライス 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "山形県加工 温海かぶ 甘酢漬 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "山形県産かぶ使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_akakabu_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_moriguchizuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "奈良漬・粕漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "酒の肴",
+    "お茶請け",
+    "贈り物"
+   ],
+   "tax_rate": 8,
+   "description": "長い守口大根を酒粕に何度も漬け替えて仕上げた守口漬。べっこう色の見た目と、粕の豊かな香り、パリッとした歯ごたえが魅力です。お茶請けや酒の肴に、年末年始の贈り物にも喜ばれます。",
+   "image_brief": "A long coiled amber-brown sake-lees pickled radish in a clear tray with a little sake lees, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛知県加工 守口漬 1本 約200g",
+     "brand": "",
+     "size": "1本 約200g",
+     "price_tax_excluded": 798,
+     "origin": "国産守口大根使用"
+    },
+    {
+     "title": "ツケノヤ 守口漬 刻み 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 守口漬 特選 化粧箱入 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 1980,
+     "origin": "愛知県加工"
+    },
+    {
+     "title": "Cymbal 守口漬 ハーフカット 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_moriguchizuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_yamawasabi_zuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "わさび漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "刺身",
+    "ローストビーフ",
+    "冷奴"
+   ],
+   "tax_rate": 8,
+   "description": "北海道で親しまれる山わさび(西洋わさび)をすりおろし、醤油で漬け込みました。ツンと鼻に抜ける爽快な辛さが特長で、白いご飯にのせるだけで箸が止まりません。刺身やローストビーフの薬味にも。",
+   "image_brief": "A small clear plastic cup of grated pale yellow-white horseradish in soy marinade with a clear lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 山わさび醤油漬 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北海道加工 山わさび醤油漬 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産山わさび使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 山わさび 本漬 粗おろし 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "ツケノヤ 山わさび 数の子入り 100g",
+     "brand": "ツケノヤ",
+     "size": "100g",
+     "price_tax_excluded": 798,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "ツケノヤ 山わさび醤油漬 ミニカップ 30g×3",
+     "brand": "ツケノヤ",
+     "size": "30g×3",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yamawasabi_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hachimitsu_ume",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "梅干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お茶漬け",
+    "ご飯のお供",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "紀州産南高梅をはちみつ入りの調味液で漬け、まろやかで食べやすく仕上げたはちみつ梅。酸っぱすぎないやさしい甘みで、梅干しが苦手な方やお子さまにもおすすめ。塩分を抑えたタイプも揃えました。",
+   "image_brief": "Plump soft orange-red honey pickled plums in a round clear plastic container with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紀州産南高梅 はちみつ梅 減塩 塩分5% 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 紀州産南高梅 はちみつ梅 大粒 塩分3% 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal ベーシック はちみつ梅 つぶれ梅 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ はちみつ梅 個包装 10粒入",
+     "brand": "ツケノヤ",
+     "size": "10粒入",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県加工"
+    },
+    {
+     "title": "Cymbal セレクト 紀州産南高梅 はちみつ梅 ギフト箱 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 2480,
+     "origin": "和歌山県産南高梅使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hachimitsu_ume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_katsuo_ume",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "梅干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お茶漬け",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "梅干しをかつお節の風味豊かな調味液に漬け込んだ、うま味たっぷりのかつお梅。甘じょっぱい味わいとふっくらした果肉で、ご飯が止まらなくなります。おにぎりの具やお茶漬けにぴったりです。",
+   "image_brief": "Wrinkled reddish-brown pickled plums lightly coated with bonito flakes in a round clear tub with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紀州産南高梅 かつお梅 塩分8% 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal かつお梅 つぶれ梅 徳用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紀州産南高梅 かつお梅 大粒 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "ツケノヤ かつお小梅 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック かつお梅 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "中国産梅使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_katsuo_ume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_neri_ume",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "梅干し"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "和え物",
+    "ドレッシング",
+    "冷奴"
+   ],
+   "tax_rate": 8,
+   "description": "梅干しの果肉を丁寧に裏ごしした練り梅です。種取りの手間なく使え、おにぎりの具や冷奴、和え物、手作りドレッシングの隠し味にも重宝します。チューブとカップの2タイプを揃えました。",
+   "image_brief": "A small squeeze tube and a little round cup of deep red smooth plum paste side by side, both with blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 練り梅 チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 紀州産南高梅 練り梅 カップ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 紀州産南高梅 しそ入り練り梅 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産南高梅使用"
+    },
+    {
+     "title": "ツケノヤ 練り梅 はちみつ仕立て 80g",
+     "brand": "ツケノヤ",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 練り梅 業務用 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "中国産梅使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_neri_ume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_shio_rakkyo",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "らっきょう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーの付け合わせ",
+    "酒の肴",
+    "箸休め"
+   ],
+   "tax_rate": 8,
+   "description": "国産らっきょうを塩だけでシンプルに漬けた塩らっきょう。甘酢漬けとは違うキリッとした塩味と、ザクッと心地よい歯ごたえが楽しめます。そのまま酒の肴に、刻んでタルタルソースに混ぜても美味です。",
+   "image_brief": "Small white pearly salted shallots in brine inside a clear plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鳥取県加工 塩らっきょう 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "鳥取県産らっきょう使用"
+    },
+    {
+     "title": "Cymbal 塩らっきょう 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国産らっきょう使用"
+    },
+    {
+     "title": "沖縄県加工 島らっきょう 塩漬 80g",
+     "brand": "",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "沖縄県産島らっきょう使用"
+    },
+    {
+     "title": "ツケノヤ らっきょう 醤油漬 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト らっきょう 花らっきょう 甘酢 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "鳥取県加工"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_shio_rakkyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_mutyakushoku_fukujinzuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "福神漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "ご飯のお供",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "着色料を使わず、素材本来の色を生かした福神漬。大根、なす、れんこん、なた豆など7種の野菜を甘口醤油で漬け、パリパリ食感に仕上げました。カレーの名脇役としてはもちろん、ご飯のお供にも。",
+   "image_brief": "Brown mixed chopped vegetable pickles with lotus root slices in a clear stand-up pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 無着色 福神漬 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜100% 無着色 福神漬 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ 福神漬 カレー専科 250g",
+     "brand": "ツケノヤ",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 福神漬 ミニパック 40g×4袋",
+     "brand": "Cymbal ベーシック",
+     "size": "40g×4袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 福神漬 減塩 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_mutyakushoku_fukujinzuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hiroshimana_zuke",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "白菜漬・菜漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "お茶漬け",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "広島の冬の味覚、広島菜を塩でさっぱりと漬け込んだ広島菜漬。シャキシャキとした歯ざわりとほのかな辛み、すっきりとした塩味が特長です。大きな葉でご飯を包むおにぎりや、刻んでお茶漬けにも。",
+   "image_brief": "Large deep-green pickled leafy greens folded lengthwise in a clear plastic pouch with a little brine, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "広島県加工 広島菜漬 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "広島県産広島菜使用"
+    },
+    {
+     "title": "広島県加工 刻み広島菜 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "広島県産広島菜使用"
+    },
+    {
+     "title": "Cymbal セレクト 広島菜漬 新漬 株 1株 約400g",
+     "brand": "Cymbal セレクト",
+     "size": "1株 約400g",
+     "price_tax_excluded": 598,
+     "origin": "広島県加工"
+    },
+    {
+     "title": "ツケノヤ 広島菜 わさび風味 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ かつお菜漬 刻み 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "Cymbal 青菜漬 刻み しょうゆ味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hiroshimana_zuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nuka_doko",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "ぬか床"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "自家製ぬか漬",
+    "きゅうり漬",
+    "なす漬"
+   ],
+   "tax_rate": 8,
+   "description": "熟成させたぬか床をそのまま袋に詰めました。野菜を入れて冷蔵庫に置くだけで、手軽に自家製ぬか漬けが始められます。かき混ぜの手間が少ない袋タイプで、初めての方にもおすすめです。",
+   "image_brief": "A soft resealable stand-up pouch of brown rice-bran pickling bed with a cucumber peeking from the opening, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 熟成ぬか床 チャック袋入 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 熟成ぬか床 補充用 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 昆布・唐辛子入り 本格ぬか床 1.5kg",
+     "brand": "Cymbal セレクト",
+     "size": "1.5kg",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ 冷蔵庫で育てる ぬか床 容器付 800g",
+     "brand": "ツケノヤ",
+     "size": "800g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nuka_doko_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_kabu_asazuke_yuzu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "浅漬け"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "箸休め",
+    "ご飯のお供",
+    "サラダ感覚"
+   ],
+   "tax_rate": 8,
+   "description": "旬のかぶを柚子の皮と昆布で軽く漬けた浅漬けです。みずみずしい甘みとさわやかな柚子の香りで、こってりした料理の口直しにぴったり。冬の食卓にうれしい、すっきり味の季節漬物です。",
+   "image_brief": "Thin white turnip slices with yellow yuzu peel strips and green leaves in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 かぶの浅漬 ゆず風味 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産かぶ使用"
+    },
+    {
+     "title": "Cymbal かぶの浅漬 ゆず風味 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 聖護院かぶ 浅漬 ゆず昆布 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "ツケノヤ ゆず白菜 浅漬 250g",
+     "brand": "ツケノヤ",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国産白菜使用"
+    },
+    {
+     "title": "国産 大根の一本漬 浅漬 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国産大根使用"
+    },
+    {
+     "title": "Cymbal なすの浅漬 一口サイズ 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国産なす使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_kabu_asazuke_yuzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_karashi_takana",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "野沢菜・高菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "ごま",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメンのトッピング",
+    "高菜チャーハン",
+    "おにぎり",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "高菜漬をごま油と唐辛子で炒め、ピリ辛に仕上げた辛子高菜。ラーメンにのせたり、チャーハンに混ぜたりするだけで、九州風の本格的な味わいに。ご飯にのせても箸が止まらないおいしさです。",
+   "image_brief": "Dark green chopped stir-fried mustard greens with red chili flakes and sesame in a clear stand-up pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 辛子高菜 油炒め 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 辛子高菜 激辛 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 九州産高菜使用 辛子高菜 ごま油仕立て 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "福岡県加工"
+    },
+    {
+     "title": "ツケノヤ 高菜漬 本漬 株 1株 約300g",
+     "brand": "ツケノヤ",
+     "size": "1株 約300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 辛子高菜 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_karashi_takana_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_beni_shouga",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "しょうが漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼きそば",
+    "牛丼",
+    "お好み焼き",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "梅酢でキリッと漬けた刻み紅しょうが。鮮やかな紅色とさっぱりした辛みが、焼きそばや牛丼、お好み焼きのおいしさを引き立てます。使いやすい刻みタイプのほか、お徳用サイズもご用意しました。",
+   "image_brief": "Fine bright red julienned pickled ginger shreds in a clear stand-up pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 刻み紅しょうが 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 刻み紅しょうが 徳用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産しょうが使用 梅酢漬 紅しょうが 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 紅しょうが スライス 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "中国産しょうが使用"
+    },
+    {
+     "title": "ツケノヤ 無着色 紅しょうが 70g",
+     "brand": "ツケノヤ",
+     "size": "70g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_beni_shouga_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_sansai_mix",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "醤油漬・刻み漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "山菜そば",
+    "山菜ご飯",
+    "ご飯のお供",
+    "酒の肴"
+   ],
+   "tax_rate": 8,
+   "description": "わらび、ぜんまい、たけのこ、なめこなどの山菜を醤油ベースで味付けしました。そのまま食べても、うどんやそばにのせて山菜そばにしても絶品。炊き込みご飯の具としても手軽に使えます。",
+   "image_brief": "Mixed brown and green wild mountain vegetables in soy marinade inside a clear plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付け山菜ミックス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 山菜そば用 味付け山菜 100g×2",
+     "brand": "Cymbal",
+     "size": "100g×2",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産山菜 わらび醤油漬 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "山形県加工"
+    },
+    {
+     "title": "ツケノヤ 山菜ご飯の素 炊き込み用 2合用",
+     "brand": "ツケノヤ",
+     "size": "2合用",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 味付け山菜 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "中国産山菜使用"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_sansai_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_yamakurage",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "醤油漬・刻み漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酒の肴",
+    "箸休め",
+    "ご飯のお供",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "茎レタスを乾燥させて戻した山くらげを、ピリ辛醤油で漬けました。くらげのようなコリコリ食感がクセになる一品で、ごま油の香りが食欲をそそります。おつまみや中華風の箸休めにどうぞ。",
+   "image_brief": "Glossy pale green crunchy stem lettuce strips with red chili and sesame in a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 山くらげ ピリ辛醤油漬 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 山くらげ 刻み ゆず醤油 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ 山くらげ 徳用 250g",
+     "brand": "ツケノヤ",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 山くらげ わさび風味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yamakurage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_wafu_pickles",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "ピクルス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "箸休め",
+    "サラダ",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "大根、にんじん、きゅうり、パプリカなど彩り野菜を、だし入りのまろやかな甘酢に漬けた和風ピクルス。酸味がやわらかく、カラフルでお弁当の彩りにも重宝します。おもてなしの前菜にもどうぞ。",
+   "image_brief": "Colorful cubes of daikon, carrot, cucumber and yellow pepper in clear pickling liquid inside a clear cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal だし香る 和風ピクルス 野菜ミックス 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 和風ピクルス 柚子風味 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜の 和風ピクルス 6種 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜の ピクルス 130g",
+     "brand": "Cymbal オーガニック",
+     "size": "130g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ ミニトマトの甘酢漬 120g",
+     "brand": "ツケノヤ",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_wafu_pickles_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_oi_kimchi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物・キムチ",
+    "キムチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "冷麺の具",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "きゅうりに切り込みを入れ、にらや大根を挟んで漬けたオイキムチ。パリッとしたみずみずしい食感と、すっきりした辛さが特長です。焼肉の付け合わせや、冷麺のトッピングにも最適です。",
+   "image_brief": "Cucumber pieces slit and stuffed with red chili, chives and radish strips in a clear plastic tub with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オイキムチ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産きゅうり使用 オイキムチ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ オイキムチ 刻み 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オイキムチ 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_oi_kimchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_pa_kimchi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物・キムチ",
+    "キムチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ご飯のお供",
+    "チヂミ",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "青ねぎを丸ごと唐辛子だれで漬け込んだパキムチ(ねぎキムチ)。ねぎの甘みと辛さが溶け合い、焼肉と一緒に巻いて食べると格別です。刻んでチヂミや鍋に入れても風味豊かに仕上がります。",
+   "image_brief": "Long green onion stalks coated in red chili paste coiled in a clear plastic tub with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ねぎキムチ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産青ねぎ使用 パキムチ 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ にらキムチ 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 青菜キムチ からし菜 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ねぎキムチ 刻み 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_pa_kimchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_mul_kimchi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物・キムチ",
+    "キムチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷麺",
+    "箸休め",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "大根と白菜を、りんごや梨の甘みを生かした澄んだ漬け汁で発酵させた水キムチ。辛さ控えめのすっきりした酸味で、漬け汁ごと冷麺のスープにも使えます。辛いものが苦手な方にもおすすめです。",
+   "image_brief": "Thin cubes of white radish and napa cabbage floating in clear pale pink brine inside a clear plastic tub with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水キムチ 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜使用 水キムチ 梨入り 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ 白キムチ 辛くない 250g",
+     "brand": "ツケノヤ",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 水キムチ 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_mul_kimchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_jukusei_kimchi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物・キムチ",
+    "キムチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "りんご"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "キムチ鍋",
+    "豚キムチ",
+    "キムチチャーハン",
+    "チゲ"
+   ],
+   "tax_rate": 8,
+   "description": "じっくり熟成させて酸味とうま味を深めた、加熱料理向けの白菜キムチ。キムチ鍋やチゲ、豚キムチに使うとコクのある本格的な味に仕上がります。寒い季節の鍋料理に欠かせない大容量タイプです。",
+   "image_brief": "A large clear plastic tub filled with deep red well-fermented cut napa cabbage kimchi, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 熟成 白菜キムチ 鍋・炒め用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 熟成 白菜キムチ 鍋・炒め用 大容量 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長期熟成 古漬けキムチ 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ キムチ鍋用 刻みキムチ 300g",
+     "brand": "ツケノヤ",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 白菜キムチ 切れてる 業務用 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_jukusei_kimchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nikomi_udon",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋焼きうどん",
+    "煮込みうどん",
+    "すき焼きのしめ",
+    "カレーうどん"
+   ],
+   "tax_rate": 8,
+   "description": "煮込んでも伸びにくい太めのゆでうどん。もっちりとしたコシが長く続くので、鍋焼きうどんやすき焼きのしめ、味噌煮込みなど、寒い季節の煮込み料理にぴったりです。1食ずつ使える個包装です。",
+   "image_brief": "Three individually wrapped clear pouches of thick white boiled udon noodles stacked together with a blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 煮込み用 太うどん 200g×3食",
+     "brand": "Cymbal",
+     "size": "200g×3食",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮込み用 太うどん 200g×1食",
+     "brand": "Cymbal",
+     "size": "200g×1食",
+     "price_tax_excluded": 58,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦100% 煮込み太うどん 200g×3食",
+     "brand": "Cymbal セレクト",
+     "size": "200g×3食",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 鍋用 平打ちうどん 180g×3食",
+     "brand": "ミナモ製麺",
+     "size": "180g×3食",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ゆでうどん 徳用 180g×5食",
+     "brand": "Cymbal ベーシック",
+     "size": "180g×5食",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nikomi_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_kishimen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かけきしめん",
+    "味噌煮込み",
+    "鍋のしめ",
+    "ざるきしめん"
+   ],
+   "tax_rate": 8,
+   "description": "幅広で薄い平打ちのゆできしめん。つるっとなめらかな舌ざわりで、つゆがよく絡みます。花かつおをのせたかけきしめんや、味噌煮込み、鍋のしめにもおすすめの名古屋の味です。",
+   "image_brief": "Wide flat glossy white noodles folded in a clear plastic pouch with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆできしめん 180g×3食",
+     "brand": "Cymbal",
+     "size": "180g×3食",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦使用 生きしめん つゆ付 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 348,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "ミナモ製麺 ゆできしめん 200g×1食",
+     "brand": "ミナモ製麺",
+     "size": "200g×1食",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味噌煮込み用 生きしめん 味噌付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 398,
+     "origin": "愛知県製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_kishimen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_houtou",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ほうとう",
+    "鍋",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "幅広で平たい生麺を、かぼちゃや野菜と一緒に味噌仕立てで煮込む山梨の郷土料理ほうとう。下ゆで不要で麺から溶け出すとろみがスープに広がります。寒い日に体の芯から温まる一品です。",
+   "image_brief": "Thick broad flat raw noodles dusted with flour in a clear tray with a small miso sachet, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生ほうとう 味噌付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 山梨県製造 生ほうとう かぼちゃ味噌付 3食入",
+     "brand": "Cymbal セレクト",
+     "size": "3食入",
+     "price_tax_excluded": 498,
+     "origin": "山梨県製造"
+    },
+    {
+     "title": "ミナモ製麺 生ほうとう 麺のみ 200g×2食",
+     "brand": "ミナモ製麺",
+     "size": "200g×2食",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほうとう 鍋セット 味噌・具材付 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_houtou_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nihachi_namasoba",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "そば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "そば",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ざるそば",
+    "かけそば",
+    "年越しそば",
+    "鴨南蛮"
+   ],
+   "tax_rate": 8,
+   "description": "そば粉8割の二八仕立てで打った生そば。ゆでたての豊かな香りと、のど越しのよさが楽しめます。ざるで味わうのはもちろん、温かいかけそばや年越しそばにも。つゆ付きタイプもご用意しました。",
+   "image_brief": "Fine grey-brown raw buckwheat noodles dusted with flour in a clear tray pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 二八 生そば 120g×3食",
+     "brand": "Cymbal",
+     "size": "120g×3食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 二八 生そば つゆ付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産そば粉使用 十割 生そば 120g×2食",
+     "brand": "Cymbal セレクト",
+     "size": "120g×2食",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 信州 二八生そば 130g×3食",
+     "brand": "ミナモ製麺",
+     "size": "130g×3食",
+     "price_tax_excluded": 348,
+     "origin": "長野県製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生そば 150g×3食",
+     "brand": "Cymbal ベーシック",
+     "size": "150g×3食",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nihachi_namasoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_miso_ramen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生ラーメン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "味噌ラーメン",
+    "野菜たっぷりラーメン",
+    "バターコーンラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "中太ちぢれの生麺に、白味噌と赤味噌を合わせた濃厚スープを添えた生ラーメン。スープがよく絡むもちもち麺で、炒め野菜やコーン、バターをのせれば札幌風の一杯に。寒い季節の昼食に最適です。",
+   "image_brief": "Wavy yellow raw ramen noodle nests in a clear tray with two small miso soup sachets, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生ラーメン 味噌味 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生ラーメン 味噌味 3食入",
+     "brand": "Cymbal",
+     "size": "3食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 札幌風 熟成生ラーメン 濃厚味噌 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "ミナモ製麺 生ラーメン 辛味噌 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生ラーメン 味噌 1食入",
+     "brand": "Cymbal ベーシック",
+     "size": "1食入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_miso_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_tonkotsu_ramen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生ラーメン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんこつラーメン",
+    "替え玉",
+    "辛子高菜ラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "九州風のコク深いとんこつスープと、歯切れのよい極細ストレート麺をセットにしました。ゆで時間が短く手早く作れるのも魅力。紅しょうがや辛子高菜、ねぎをのせて本場風に楽しめます。",
+   "image_brief": "Very thin straight pale raw ramen noodles in small bundles with milky soup sachets in a clear tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生ラーメン とんこつ 極細麺 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生ラーメン とんこつ 極細麺 3食入",
+     "brand": "Cymbal",
+     "size": "3食入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多風 生ラーメン 黒マー油とんこつ 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 398,
+     "origin": "福岡県製造"
+    },
+    {
+     "title": "ミナモ製麺 生ラーメン 豚骨醤油 中太麺 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生ラーメン とんこつ 1食入",
+     "brand": "Cymbal ベーシック",
+     "size": "1食入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_tonkotsu_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_shio_ramen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生ラーメン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "塩ラーメン",
+    "鶏白湯ラーメン",
+    "あっさりラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラと魚介のうま味を生かした澄んだ塩スープに、つるつるの細ちぢれ麺を合わせた生ラーメン。あっさりしながらも奥深い味わいで、ゆずや白髪ねぎを添えると上品な一杯に仕上がります。",
+   "image_brief": "Thin wavy yellow raw noodles with clear soup sachets in a clear tray pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生ラーメン 塩味 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 函館風 生ラーメン 塩 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "ミナモ製麺 生ラーメン 鶏白湯 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生ラーメン 柚子塩 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_shio_ramen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_tsukemen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生ラーメン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "つけ麺",
+    "まぜそば",
+    "冷やし麺"
+   ],
+   "tax_rate": 8,
+   "description": "ずっしり重みのある極太麺に、豚骨魚介の濃厚つけだれを添えたつけ麺セット。冷水でしめた麺のもちもち感と、つけだれの深いコクが相性抜群です。食べ応えのある一杯を家庭で楽しめます。",
+   "image_brief": "Very thick glossy raw noodle bundles in a clear tray with dark dipping sauce sachets, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生つけ麺 豚骨魚介 極太麺 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 生つけ麺 全粒粉入り極太麺 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 生つけ麺 辛つけだれ 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 汁なし まぜそば 生麺 たれ付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_tsukemen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_tantanmen",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生ラーメン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "ごま",
+    "大豆",
+    "落花生"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "担々麺",
+    "汁なし担々麺",
+    "ごま鍋のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "ねりごまのコクと花椒の痺れる辛さが利いた担々麺スープに、中細麺を合わせました。ひき肉炒めとチンゲン菜をのせれば専門店風の仕上がりに。寒い日に体が温まる、人気の中華麺セットです。",
+   "image_brief": "Medium-thin raw yellow noodles with reddish sesame soup sachets in a clear tray pack, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生担々麺 ごま辛スープ付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 汁なし担々麺 生麺 たれ付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 四川風 生担々麺 花椒たっぷり 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 白ごま担々麺 マイルド 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_tantanmen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_futomen_yakisoba",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "焼そば麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼そば",
+    "塩焼そば",
+    "あんかけ焼そば",
+    "そば飯"
+   ],
+   "tax_rate": 8,
+   "description": "ソースや塩だれを好みで合わせられる、味付けなしの蒸し焼そば麺です。もっちりとした太麺で、具だくさんの焼きそばや塩焼きそば、あんかけにも負けない食べ応えがあります。",
+   "image_brief": "Three clear pouches of thick wavy steamed yellow noodles without sauce stacked with a blank label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 太麺 蒸し焼そば ソースなし 150g×3玉",
+     "brand": "Cymbal",
+     "size": "150g×3玉",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦使用 太麺 蒸し焼そば 150g×3玉",
+     "brand": "Cymbal セレクト",
+     "size": "150g×3玉",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 塩焼そば 蒸し麺 塩だれ付 3食入",
+     "brand": "ミナモ製麺",
+     "size": "3食入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんかけ焼そば用 細麺 蒸し 2玉入",
+     "brand": "Cymbal",
+     "size": "2玉入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 蒸し焼そば 業務用 150g×5玉",
+     "brand": "Cymbal ベーシック",
+     "size": "150g×5玉",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_futomen_yakisoba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_yaki_udon_set",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "焼うどん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼うどん",
+    "お昼ごはん",
+    "ソース焼うどん"
+   ],
+   "tax_rate": 8,
+   "description": "コシのあるうどんに、かつお風味の醤油だれを添えた焼うどんセット。豚肉やキャベツと炒めるだけで、香ばしい焼うどんがすぐ完成します。忙しい日のお昼や、子どもの軽食にもぴったりです。",
+   "image_brief": "Three pouches of white udon with small brown sauce sachets in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼うどん だし醤油味 3食入",
+     "brand": "Cymbal",
+     "size": "3食入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼うどん ソース味 3食入",
+     "brand": "Cymbal",
+     "size": "3食入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 焼うどん バター醤油味 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦 焼うどん 鰹だし醤油 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yaki_udon_set_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_pasta",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "生パスタ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カルボナーラ",
+    "クリームパスタ",
+    "ミートソース",
+    "ボロネーゼ"
+   ],
+   "tax_rate": 8,
+   "description": "デュラム小麦と卵で練り上げたチルドの生パスタ。もちもちとした食感と卵のコクが特長で、ゆで時間も短く手軽です。クリームやトマト、ボロネーゼなど濃厚なソースとの相性が抜群です。",
+   "image_brief": "Golden nests of fresh egg fettuccine in a clear tray sealed with film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生パスタ フェットチーネ 100g×2食",
+     "brand": "Cymbal",
+     "size": "100g×2食",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生パスタ リングイネ 100g×2食",
+     "brand": "Cymbal",
+     "size": "100g×2食",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生パスタ タリアテッレ 卵黄仕立て 120g×2食",
+     "brand": "Cymbal セレクト",
+     "size": "120g×2食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 生パスタ スパゲッティ もちもち 110g×3食",
+     "brand": "ミナモ製麺",
+     "size": "110g×3食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生パスタ ペンネ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生ニョッキ じゃがいも 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_sara_udon",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "ちゃんぽん・皿うどん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "いか",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "皿うどん",
+    "あんかけ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "細くパリッと揚げた麺に、とろみのあるあんかけスープを添えた長崎風皿うどん。野菜や豚肉、えび、いかを炒めてあんを絡めれば、香ばしい揚げ麺との食感の対比が楽しめます。",
+   "image_brief": "Crispy golden fried thin noodle nests in a clear plastic bag with soup sachets, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 皿うどん 揚げ麺 スープ付 2食入",
+     "brand": "Cymbal",
+     "size": "2食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 皿うどん 揚げ麺 スープ付 4食入",
+     "brand": "Cymbal",
+     "size": "4食入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長崎風 皿うどん 極細揚げ麺 2食入",
+     "brand": "Cymbal セレクト",
+     "size": "2食入",
+     "price_tax_excluded": 348,
+     "origin": "長崎県製造"
+    },
+    {
+     "title": "ミナモ製麺 太麺皿うどん 生麺タイプ 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_sara_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nama_wonton",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "ワンタン・水餃子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ワンタンスープ",
+    "ワンタン麺",
+    "鍋",
+    "揚げワンタン"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉と野菜の具をつるんとした皮で包んだ、そのまま使える生ワンタン。スープでさっと煮るだけでワンタンスープに、ラーメンにのせればワンタン麺に。鍋の具にもおすすめのチルド品です。",
+   "image_brief": "Raw pork wontons with thin translucent wrappers lined up in a clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚肉ワンタン 生 20個入",
+     "brand": "Cymbal",
+     "size": "20個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびワンタン 生 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒豚使用 ワンタン スープ付 15個入",
+     "brand": "Cymbal セレクト",
+     "size": "15個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 ワンタンスープ 鶏がら醤油 2食入",
+     "brand": "ミナモ製麺",
+     "size": "2食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生水餃子 もちもち厚皮 15個入",
+     "brand": "Cymbal",
+     "size": "15個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nama_wonton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_atsukawa_gyoza_skin",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "日配麺",
+    "餃子・春巻の皮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "水餃子",
+    "焼餃子",
+    "揚げ餃子",
+    "スープ餃子"
+   ],
+   "tax_rate": 8,
+   "description": "厚めに仕上げたもちもち食感の餃子の皮。茹でても破れにくく、水餃子やスープ餃子に最適です。焼けば外はパリッと中はもっちり、大判サイズは具をたっぷり包めて食べ応えがあります。",
+   "image_brief": "A stack of thick round white dumpling wrappers dusted with starch in a clear plastic package with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水餃子用 厚皮 20枚入",
+     "brand": "Cymbal",
+     "size": "20枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大判 餃子の皮 もちもち 24枚入",
+     "brand": "Cymbal",
+     "size": "24枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦100% 餃子の皮 厚手 20枚入",
+     "brand": "Cymbal セレクト",
+     "size": "20枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモ製麺 餃子の皮 米粉入り 25枚入",
+     "brand": "ミナモ製麺",
+     "size": "25枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_atsukawa_gyoza_skin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_gyuniku_shigureni",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "肉・魚の佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "牛丼風",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉をしょうがと一緒に甘辛く炊き上げたしぐれ煮。しょうがの香りがきいた濃いめの味付けで、温かいご飯にのせるだけでごちそうに。おにぎりの具やお弁当のおかずにも重宝します。",
+   "image_brief": "Glossy dark brown simmered beef strips with julienned ginger in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛肉しぐれ煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛 しぐれ煮 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "コマメ堂 牛肉しぐれ煮 山椒風味 100g",
+     "brand": "コマメ堂",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 牛肉しぐれ煮 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 しぐれ煮 化粧箱入 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_gyuniku_shigureni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_maguro_kakuni",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "肉・魚の佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "酒の肴",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろやかつおの角切りを、生姜と醤油でじっくり煮詰めた角煮。噛むほどに魚のうま味と甘辛いたれがしみ出し、ご飯やお茶漬けによく合います。お酒の肴にもぴったりな定番の佃煮です。",
+   "image_brief": "Small dark glossy cubes of simmered tuna with ginger slivers in a clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal まぐろ角煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつお角煮 生姜入り 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼津加工 まぐろ角煮 しょうが 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "静岡県加工"
+    },
+    {
+     "title": "コマメ堂 まぐろ角煮 ピリ辛 80g",
+     "brand": "コマメ堂",
+     "size": "80g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_maguro_kakuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_ha_tougarashi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "野菜・山菜の佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "唐辛子の葉をちりめんじゃこと一緒に甘辛く炊いた葉唐辛子の佃煮。ほのかな辛みと青菜の香りが食欲をそそり、ご飯がどんどん進みます。おにぎりやお茶漬けにも合う昔ながらの味です。",
+   "image_brief": "Dark green chopped simmered chili leaves with tiny white dried fish in a small clear cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 葉唐辛子 佃煮 じゃこ入り 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産葉唐辛子 佃煮 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "コマメ堂 葉唐辛子 実山椒入り 80g",
+     "brand": "コマメ堂",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "京都府加工"
+    },
+    {
+     "title": "Cymbal 青じそ 佃煮 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_ha_tougarashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_niku_soboro",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "肉・魚の佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そぼろ丼",
+    "お弁当",
+    "おにぎり",
+    "三色丼"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ひき肉をしょうがと甘辛い醤油だれでポロポロに炒り煮した鶏そぼろ。ご飯にのせるだけでそぼろ丼が完成し、炒り卵と組み合わせれば彩りのよい三色丼に。お弁当づくりの時短にも役立ちます。",
+   "image_brief": "Fine golden-brown crumbled seasoned ground chicken in a small clear plastic cup with a clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏そぼろ しょうが風味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏 鶏そぼろ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "コマメ堂 肉味噌 豚そぼろ 120g",
+     "brand": "コマメ堂",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏そぼろ ミニカップ 40g×3",
+     "brand": "Cymbal",
+     "size": "40g×3",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏そぼろ 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_niku_soboro_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hotate_himo",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "貝・小魚の佃煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酒の肴",
+    "ご飯のお供",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "ほたての貝ひもを甘辛い醤油だれでじっくり煮詰めました。コリコリとした独特の歯ごたえと、噛むほどに広がる貝のうま味が魅力。お酒の肴にもご飯のお供にもなる、ちょっと贅沢な佃煮です。",
+   "image_brief": "Glossy dark brown simmered scallop mantle strips with a sprinkle of sesame in a clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ほたて貝ひも 甘辛煮 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産ほたて 貝ひも佃煮 山椒 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "コマメ堂 ほたて貝ひも 生姜煮 70g",
+     "brand": "コマメ堂",
+     "size": "70g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal つぶ貝 甘辛煮 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "北海道加工"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hotate_himo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nametake",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "佃煮",
+    "なめ茸"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "冷奴",
+    "おろし和え",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "えのき茸を醤油ベースで煮込んだ、とろりと滑らかななめ茸。ご飯にのせるのはもちろん、冷奴や大根おろしと和えたり、和風パスタの具にしたりとアレンジ自在。開けやすい瓶入りです。",
+   "image_brief": "A short clear glass jar of glossy brown simmered enoki mushrooms with a plain metal lid and blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal なめ茸 瓶 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal なめ茸 瓶 大 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長野県産えのき使用 なめ茸 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "長野県加工"
+    },
+    {
+     "title": "コマメ堂 なめ茸 減塩 120g",
+     "brand": "コマメ堂",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック なめ茸 瓶 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal なめ茸 わさび風味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nametake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_karashizuke_nasu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "からし漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "酒の肴",
+    "箸休め"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズの小なすを、からしの効いた甘い麹床に漬け込んだからし漬。皮はパリッと、中はしっとりとした食感で、ツンとくる辛さと甘みのバランスがクセになります。山形の秋冬の味をどうぞ。",
+   "image_brief": "Small round purple eggplants coated with yellow mustard koji paste in a clear plastic tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山形県加工 小なすのからし漬 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "山形県産小なす使用"
+    },
+    {
+     "title": "ツケノヤ 小なすのからし漬 150g",
+     "brand": "ツケノヤ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 民田なす からし漬 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "山形県加工"
+    },
+    {
+     "title": "Cymbal きゅうりのからし漬 刻み 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ なすとうりのからし漬 180g",
+     "brand": "ツケノヤ",
+     "size": "180g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_karashizuke_nasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_yuzu_daikon",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "漬物",
+    "たくあん・大根漬"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "箸休め",
+    "ご飯のお供",
+    "おせち",
+    "鍋の口直し"
+   ],
+   "tax_rate": 8,
+   "description": "冬の大根を柚子の皮と甘酢で漬け込んだ、香り高い柚子大根。シャキッとした歯ざわりとさわやかな酸味で、こってりした料理や鍋物の口直しにぴったりです。年末年始の箸休めにもおすすめ。",
+   "image_brief": "Thin white daikon strips with bright yellow yuzu peel shreds in clear sweet vinegar inside a clear tray with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 柚子大根 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国産大根使用"
+    },
+    {
+     "title": "Cymbal 柚子大根 徳用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産大根使用"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産柚子使用 柚子大根 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ツケノヤ 柚子大根 拍子木切り 200g",
+     "brand": "ツケノヤ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 大根の甘酢漬 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_yuzu_daikon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hijiki_mame",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "煮豆",
+    "惣菜豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お弁当",
+    "副菜",
+    "混ぜご飯"
+   ],
+   "tax_rate": 8,
+   "description": "芽ひじきと大豆、にんじん、油揚げをだしでやさしく煮込んだひじき豆。素朴な甘辛味で、もう一品ほしい時の副菜やお弁当のおかずにぴったり。ご飯に混ぜてひじきご飯にしても美味です。",
+   "image_brief": "Black hijiki seaweed mixed with soybeans and orange carrot pieces in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひじき豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひじき豆 ミニカップ 60g×3",
+     "brand": "Cymbal",
+     "size": "60g×3",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産芽ひじき使用 ひじき豆 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "コマメ堂 ひじきと大豆の煮物 減塩 130g",
+     "brand": "コマメ堂",
+     "size": "130g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ひじき豆 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hijiki_mame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_mushi_daizu",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "煮豆",
+    "惣菜豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "スープ",
+    "五目煮",
+    "そのままおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "大豆を水煮ではなく蒸して仕上げた蒸し大豆。うま味や栄養が逃げにくく、ほくほくとした甘みが感じられます。袋から出してそのまま、サラダやスープ、煮物などに手軽に使えます。",
+   "image_brief": "A small stand-up pouch with a clear window showing plump beige steamed soybeans, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 蒸し大豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 国産 蒸し大豆 100g×3袋",
+     "brand": "Cymbal",
+     "size": "100g×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "コマメ堂 蒸し黒大豆 100g",
+     "brand": "コマメ堂",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 蒸しミックスビーンズ 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 蒸しひよこ豆 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_mushi_daizu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_hanamame_toramame",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "煮豆",
+    "花豆・とら豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お茶請け",
+    "おせち",
+    "デザート",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "大粒の紫花豆やとら豆を、ふっくらと甘く炊き上げました。ほっくりとした食感と上品な甘さで、お茶請けや和のデザートにぴったり。年末年始のおせちに添えても見栄えのする煮豆です。",
+   "image_brief": "Large glossy purple-mottled runner beans in light syrup in a clear plastic cup with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紫花豆 煮豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産紫花豆使用"
+    },
+    {
+     "title": "Cymbal とら豆 煮豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産とら豆使用"
+    },
+    {
+     "title": "コマメ堂 うずら豆 煮豆 150g",
+     "brand": "コマメ堂",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産うずら豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 大粒 紫花豆 甘納煮 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "コマメ堂 白いんげん 甘煮 ゆず風味 150g",
+     "brand": "コマメ堂",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_hanamame_toramame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_nerimono_pickles_noodle_nimame_assort",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "煮豆",
+    "煮豆アソート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "お茶請け",
+    "副菜"
+   ],
+   "tax_rate": 8,
+   "description": "黒豆、金時豆、うぐいす豆、昆布豆など人気の煮豆を少量ずつ詰め合わせたアソートパック。いろいろな味を少しずつ楽しめ、使い切りやすいのも魅力。お弁当や食卓の小鉢にちょうどいいサイズです。",
+   "image_brief": "A clear plastic tray divided into four small compartments of black, red, green and beige simmered beans, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 煮豆 4種アソート 40g×4",
+     "brand": "Cymbal",
+     "size": "40g×4",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮豆 6種アソート 30g×6",
+     "brand": "Cymbal",
+     "size": "30g×6",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産豆 煮豆 3種詰合せ 60g×3",
+     "brand": "Cymbal セレクト",
+     "size": "60g×3",
+     "price_tax_excluded": 398,
+     "origin": "北海道加工"
+    },
+    {
+     "title": "コマメ堂 ミニ煮豆 お弁当用 20g×6",
+     "brand": "コマメ堂",
+     "size": "20g×6",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_nerimono_pickles_noodle_nimame_assort_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

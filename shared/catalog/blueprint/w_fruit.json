@@ -1,0 +1,4369 @@
+{
+ "category_key": "w_fruit",
+ "items": [
+  {
+   "base_id": "w_fruit_apple_sun_fuji",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "サラダ",
+    "焼きりんご",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "収穫期を迎えた晩生のサンふじ。袋をかけずに太陽をたっぷり浴びて育ち、甘みと酸味のバランスが良く、蜜が入りやすいのが特長です。シャキッとした歯ざわりで、毎日の朝食やお弁当、贈り物にもおすすめ。",
+   "image_brief": "Two large glossy red-and-yellow streaked Fuji apples in a white foam net, sitting in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長野県産 りんご（サンふじ） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 りんご（サンふじ） 3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 りんご（サンふじ）蜜入り 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 498,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "山形県産 りんご（サンふじ） 4〜5玉 袋入（約1.5kg）",
+     "brand": "",
+     "size": "4〜5玉 袋入（約1.5kg）",
+     "price_tax_excluded": 798,
+     "origin": "山形県産"
+    },
+    {
+     "title": "青森県産 りんご（サンふじ）大玉 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 598,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長野県産 りんご（サンふじ）小玉 6〜7玉 袋入",
+     "brand": "",
+     "size": "6〜7玉 袋入",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_sun_fuji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_orin",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "フルーツサラダ",
+    "スムージー",
+    "コンポート"
+   ],
+   "tax_rate": 8,
+   "description": "黄緑色の果皮が目を引く青りんごの代表品種、王林。酸味が穏やかで香りが豊か、果汁たっぷりの甘さが楽しめます。酸っぱいりんごが苦手な方やお子さまにも食べやすく、赤いりんごとの食べ比べにも。",
+   "image_brief": "Three yellow-green Orin apples with tiny russet speckles nestled in white foam sleeves in a clear tray, soft studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 りんご（王林） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 158,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（王林） 4〜5玉 袋入",
+     "brand": "",
+     "size": "4〜5玉 袋入",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長野県産 りんご（王林） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 368,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 りんご（王林）大玉 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 228,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 りんご（王林） 3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 498,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 りんご（王林）家庭用 約2kg 箱入",
+     "brand": "",
+     "size": "約2kg 箱入",
+     "price_tax_excluded": 1280,
+     "origin": "青森県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_orin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_gunma_meigetsu",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "そのまま",
+    "サラダ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "群馬生まれの黄色いりんご、ぐんま名月。酸味が少なく、蜜が入りやすいのが魅力で、ジューシーでやさしい甘さが口いっぱいに広がります。出回り期間が短い秋の味覚を、ぜひこの季節に味わってください。",
+   "image_brief": "Golden-yellow Gunma Meigetsu apples with a faint pink blush, one cut open showing honeyed core, in a clear plastic tray.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "群馬県産 りんご（ぐんま名月） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 198,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 りんご（ぐんま名月） 3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 548,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 りんご（ぐんま名月）蜜入り 大玉 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 298,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "長野県産 りんご（ぐんま名月） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "岩手県産 りんご（ぐんま名月） 4玉 袋入",
+     "brand": "",
+     "size": "4玉 袋入",
+     "price_tax_excluded": 698,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_gunma_meigetsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_jonagold",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "アップルパイ",
+    "焼きりんご",
+    "そのまま",
+    "ジャム"
+   ],
+   "tax_rate": 8,
+   "description": "紅玉の血を引くジョナゴールドは、甘みと程よい酸味が調和した味わい。果肉がしっかりしているので加熱しても煮崩れしにくく、アップルパイやタルトなどのお菓子作りにも活躍します。生食でもさわやか。",
+   "image_brief": "Red-orange striped Jonagold apples with a light natural sheen piled in a clear plastic bag tied with a twist tie, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 りんご（ジョナゴールド） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 328,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 りんご（ジョナゴールド） 5〜6玉 袋入",
+     "brand": "",
+     "size": "5〜6玉 袋入",
+     "price_tax_excluded": 698,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 りんご（ジョナゴールド） 3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 448,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "秋田県産 りんご（ジョナゴールド） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 158,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "青森県産 りんご（ジョナゴールド）お菓子作り用 訳あり 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_jonagold_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_big_sekaiichi_mutsu",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "贈答",
+    "家族のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ひとつで家族みんなが楽しめる大玉りんご。世界一や陸奥など、重さ500gを超えることもある大きな品種を揃えました。果汁が多く、さっぱりとした甘さで、食卓や贈り物で話題になる存在感です。",
+   "image_brief": "A single very large deep-red apple cradled in a white foam net inside an individual clear gift case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 大玉りんご（世界一） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 大玉りんご（陸奥） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 大玉りんご（世界一）化粧箱 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 1280,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 大玉りんご（陸奥） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 698,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 大玉りんご 2品種 食べ比べ 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_big_sekaiichi_mutsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_kotoku",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "贈答",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "果肉の中心までたっぷり蜜が入ることで知られる希少品種、こうとく。小ぶりながら濃厚な甘さと芳醇な香りが楽しめます。生産量が少なく限られた時期だけの入荷なので、りんご好きの方へのギフトにも喜ばれます。",
+   "image_brief": "Small round red Kotoku apples, one halved showing glassy honey-filled flesh, arranged in a clear tray with white cushion sheet.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 りんご（こうとく） 2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 りんご（こうとく） 3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 698,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 りんご（こうとく）蜜入り 化粧箱 6玉",
+     "brand": "",
+     "size": "6玉",
+     "price_tax_excluded": 1980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 りんご（こうとく） 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 258,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_kotoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_family_mix",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "ジャム",
+    "コンポート",
+    "ジュース"
+   ],
+   "tax_rate": 8,
+   "description": "見た目に小さなキズや色ムラがあるものの、味は正規品と変わらない家庭用りんごです。その時期おいしい品種をおまかせで詰め合わせ、たっぷり使えるお得な大袋に。毎日のおやつやジャム作りに気兼ねなく使えます。",
+   "image_brief": "A large clear plastic bag filled with assorted red and yellow apples of mixed sizes, tied at the top, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 家庭用りんご 品種おまかせ 約2kg 袋入",
+     "brand": "",
+     "size": "約2kg 袋入",
+     "price_tax_excluded": 898,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長野県産 家庭用りんご 品種おまかせ 約1.5kg 袋入",
+     "brand": "",
+     "size": "約1.5kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 家庭用りんご 品種おまかせ 約5kg 箱入",
+     "brand": "",
+     "size": "約5kg 箱入",
+     "price_tax_excluded": 1980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 家庭用りんご 小玉 8〜10玉 袋入",
+     "brand": "",
+     "size": "8〜10玉 袋入",
+     "price_tax_excluded": 798,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "国産 家庭用りんご 赤・黄ミックス 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_family_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_apple_gift_box",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "贈答",
+    "手土産",
+    "帰省みやげ"
+   ],
+   "tax_rate": 8,
+   "description": "色づき・形・糖度を選び抜いた贈答用りんごです。一玉ずつ緩衝材で包み、化粧箱に丁寧に詰めました。お歳暮や年末のご挨拶、帰省の手土産にふさわしい見栄えで、品種の食べ比べセットもご用意しています。",
+   "image_brief": "An open white cardboard gift box holding neatly arranged red apples in individual foam cups, lid leaning behind, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "青森県産 贈答用りんご（サンふじ）化粧箱 約3kg（9〜12玉）",
+     "brand": "",
+     "size": "約3kg（9〜12玉）",
+     "price_tax_excluded": 3980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 贈答用りんご（サンふじ）化粧箱 約5kg（14〜18玉）",
+     "brand": "",
+     "size": "約5kg（14〜18玉）",
+     "price_tax_excluded": 5980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "長野県産 贈答用りんご（サンふじ）化粧箱 約3kg",
+     "brand": "",
+     "size": "約3kg",
+     "price_tax_excluded": 3780,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 贈答用りんご ふじ・王林 詰め合わせ 約3kg",
+     "brand": "",
+     "size": "約3kg",
+     "price_tax_excluded": 3980,
+     "origin": "青森県産"
+    },
+    {
+     "title": "岩手県産 贈答用りんご 蜜入り厳選 約2kg（6〜8玉）",
+     "brand": "",
+     "size": "約2kg（6〜8玉）",
+     "price_tax_excluded": 3480,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_fruit_apple_gift_box_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_wakayama_arida",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "こたつのおやつ",
+    "お弁当",
+    "冬の常備"
+   ],
+   "tax_rate": 8,
+   "description": "日当たりの良い段々畑で育った和歌山県有田地方のみかん。薄皮でむきやすく、濃い甘みとほどよい酸味のバランスが絶妙です。冬のこたつのお供はもちろん、お子さまのおやつやお弁当のデザートにも。",
+   "image_brief": "A clear plastic bag of bright orange satsuma mandarins with small green leaves on two of them, laid on a white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "和歌山県有田産 早生みかん 約800g 袋入",
+     "brand": "",
+     "size": "約800g 袋入",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県有田産"
+    },
+    {
+     "title": "和歌山県有田産 早生みかん Sサイズ 約1.5kg 袋入",
+     "brand": "",
+     "size": "約1.5kg 袋入",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県有田産"
+    },
+    {
+     "title": "和歌山県有田産 早生みかん Lサイズ 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 598,
+     "origin": "和歌山県有田産"
+    },
+    {
+     "title": "和歌山県有田産 早生みかん 約5kg 箱入",
+     "brand": "",
+     "size": "約5kg 箱入",
+     "price_tax_excluded": 2480,
+     "origin": "和歌山県有田産"
+    },
+    {
+     "title": "和歌山県産 早生みかん 2Sサイズ 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "和歌山県有田産 早生みかん 贈答用 約3kg 化粧箱",
+     "brand": "",
+     "size": "約3kg 化粧箱",
+     "price_tax_excluded": 2980,
+     "origin": "和歌山県有田産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_wakayama_arida_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_ehime",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "フルーツサラダ",
+    "ゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "海を望む斜面で太陽と潮風を浴びて育った愛媛県西宇和地方の温州みかん。果肉がきめ細かく、じょうのうが薄いので口に残りにくいのが特長。濃厚な甘さで冬の定番フルーツにぴったりです。",
+   "image_brief": "Shiny deep-orange mandarins packed in a red mesh net bag, a few spilling out onto a white surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛媛県西宇和産 温州みかん 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県西宇和産"
+    },
+    {
+     "title": "愛媛県西宇和産 温州みかん Mサイズ 約800g ネット入",
+     "brand": "",
+     "size": "約800g ネット入",
+     "price_tax_excluded": 548,
+     "origin": "愛媛県西宇和産"
+    },
+    {
+     "title": "愛媛県産 温州みかん（早生）Mサイズ 約2kg 箱入",
+     "brand": "",
+     "size": "約2kg 箱入",
+     "price_tax_excluded": 1180,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県西宇和産 温州みかん 約5kg 箱入",
+     "brand": "",
+     "size": "約5kg 箱入",
+     "price_tax_excluded": 2680,
+     "origin": "愛媛県西宇和産"
+    },
+    {
+     "title": "愛媛県産 温州みかん 小玉 約1.2kg 袋入",
+     "brand": "",
+     "size": "約1.2kg 袋入",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_ehime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_shizuoka",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "冷凍みかん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "温暖な気候に恵まれた静岡県産の早生みかん。程よい酸味ときりっとした甘さで、すっきりとした後味が楽しめます。外皮がやわらかく手でむきやすいので、家族みんなで気軽に食べられる冬の常備フルーツです。",
+   "image_brief": "Medium orange mandarins in a clear plastic bag with a blank paper header, arranged neatly on a white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 早生みかん 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 早生みかん Sサイズ 約1.5kg 袋入",
+     "brand": "",
+     "size": "約1.5kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 早生みかん 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1580,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 早生みかん Lサイズ 約800g 袋入",
+     "brand": "",
+     "size": "約800g 袋入",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 早生みかん 約10kg 箱入",
+     "brand": "",
+     "size": "約10kg 箱入",
+     "price_tax_excluded": 4280,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_shizuoka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_nagasaki",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "お弁当",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "長崎県の温暖な沿岸部で育てられたみかん。マルチ栽培などで水分を調整し、糖度を高めた味の濃さが魅力です。小ぶりで食べやすいサイズが中心なので、ちょっとした休憩時間のおやつにも重宝します。",
+   "image_brief": "Small vivid orange mandarins in a clear rectangular plastic tray wrapped in film, white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "長崎県産 早生みかん 約800g 袋入",
+     "brand": "",
+     "size": "約800g 袋入",
+     "price_tax_excluded": 448,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 早生みかん Sサイズ 約1.5kg 袋入",
+     "brand": "",
+     "size": "約1.5kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 早生みかん マルチ栽培 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "長崎県産 早生みかん 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1480,
+     "origin": "長崎県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_nagasaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_kumamoto_wase",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "スムージー",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "極早生に続いて出回る熊本県産の早生みかん。濃いオレンジ色に色づき、甘みがぐっと増した食べ頃の味わいです。みずみずしい果汁で、そのままはもちろん、ヨーグルトに添えたりジュースにしたりと楽しめます。",
+   "image_brief": "Glossy orange mandarins piled in a shallow cardboard flat box with a plain white lining, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "熊本県産 早生みかん 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 498,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "熊本県産 早生みかん Mサイズ 約2kg 袋入",
+     "brand": "",
+     "size": "約2kg 袋入",
+     "price_tax_excluded": 898,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "熊本県産 早生みかん 約5kg 箱入",
+     "brand": "",
+     "size": "約5kg 箱入",
+     "price_tax_excluded": 2280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "熊本県産 早生みかん 小玉 約700g ネット入",
+     "brand": "",
+     "size": "約700g ネット入",
+     "price_tax_excluded": 398,
+     "origin": "熊本県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_kumamoto_wase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_high_brix",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "贈答",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "光センサーで一玉ずつ糖度を測り、基準をクリアしたものだけを選んだ高糖度みかんです。濃厚な甘さとコクのある味わいは、みかん好きの方にこそ食べていただきたい逸品。ご自宅用にも贈り物にもおすすめです。",
+   "image_brief": "Perfect deep-orange mandarins arranged in neat rows in a black-lined gift box with a clear lid, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "和歌山県産 高糖度みかん 糖度12度以上 約800g 袋入",
+     "brand": "",
+     "size": "約800g 袋入",
+     "price_tax_excluded": 698,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "愛媛県産 高糖度みかん 糖度12度以上 約1kg 箱入",
+     "brand": "",
+     "size": "約1kg 箱入",
+     "price_tax_excluded": 980,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "静岡県産 高糖度みかん 糖度12度以上 約800g 袋入",
+     "brand": "",
+     "size": "約800g 袋入",
+     "price_tax_excluded": 698,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "佐賀県産 高糖度みかん 糖度13度以上 約1kg 化粧箱",
+     "brand": "",
+     "size": "約1kg 化粧箱",
+     "price_tax_excluded": 1280,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "和歌山県産 高糖度みかん 糖度12度以上 贈答用 約2.5kg 化粧箱",
+     "brand": "",
+     "size": "約2.5kg 化粧箱",
+     "price_tax_excluded": 3280,
+     "origin": "和歌山県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_high_brix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_box_value",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "冬の常備",
+    "こたつのおやつ",
+    "冷凍みかん",
+    "おすそ分け"
+   ],
+   "tax_rate": 8,
+   "description": "冬の間たっぷり楽しめる箱入りみかん。家族の多いご家庭や、まとめ買い派の方にぴったりの大容量です。届いたら箱を開けて風通しの良い涼しい場所で保管するのがおいしさ長持ちのコツ。おすそ分けにも便利です。",
+   "image_brief": "A large open corrugated cardboard box overflowing with bright orange mandarins, plain unprinted box, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 みかん 箱入 約5kg",
+     "brand": "",
+     "size": "約5kg",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 みかん 箱入 Sサイズ 約10kg",
+     "brand": "",
+     "size": "約10kg",
+     "price_tax_excluded": 3680,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 みかん 箱入 2S〜Sサイズ 小玉 約5kg",
+     "brand": "",
+     "size": "約5kg",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "九州産 みかん 箱入 約3kg",
+     "brand": "",
+     "size": "約3kg",
+     "price_tax_excluded": 1280,
+     "origin": "九州産"
+    },
+    {
+     "title": "国産 みかん 箱入 Mサイズ 約10kg",
+     "brand": "",
+     "size": "約10kg",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_box_value_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mikan_wakeari",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "ジュース",
+    "ジャム",
+    "ゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "皮に小さなキズやスレがあったり、サイズが不揃いだったりする家庭用の訳ありみかんです。中身のおいしさはそのままで、たっぷり入ってお値打ち。手作りジュースやゼリー、マーマレード作りにも気兼ねなく使えます。",
+   "image_brief": "A big clear plastic bag of mixed-size orange mandarins with slight skin blemishes, tied with a plain twist tie, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "和歌山県産 訳ありみかん 家庭用 約2kg 袋入",
+     "brand": "",
+     "size": "約2kg 袋入",
+     "price_tax_excluded": 798,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "愛媛県産 訳ありみかん 家庭用 約2kg 袋入",
+     "brand": "",
+     "size": "約2kg 袋入",
+     "price_tax_excluded": 798,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "熊本県産 訳ありみかん 家庭用 約3kg 袋入",
+     "brand": "",
+     "size": "約3kg 袋入",
+     "price_tax_excluded": 998,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "静岡県産 訳ありみかん 家庭用 約5kg 箱入",
+     "brand": "",
+     "size": "約5kg 箱入",
+     "price_tax_excluded": 1580,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_mikan_wakeari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_lime",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "レモン・ライム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "モヒート",
+    "タコス",
+    "エスニック料理",
+    "カルパッチョ",
+    "ハイボール"
+   ],
+   "tax_rate": 8,
+   "description": "爽やかな香りと鋭い酸味が魅力のライム。レモンよりも苦みが少なくすっきりとした風味で、タイ料理やメキシコ料理の仕上げ、カクテルやハイボールのアクセントに欠かせません。皮ごとすりおろして香り付けにも。",
+   "image_brief": "Several bright green limes in a small clear plastic net bag, one cut in half showing pale juicy flesh, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "メキシコ産 ライム 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "メキシコ産 ライム 3個 ネット入",
+     "brand": "",
+     "size": "3個 ネット入",
+     "price_tax_excluded": 278,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "メキシコ産 ライム 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "国産 ライム 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "愛媛県産 ノーワックス ライム 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_fruit_lime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_dekopon",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "デコポン・中晩柑"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "そのまま",
+    "フルーツサラダ",
+    "贈答",
+    "ゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "頭のでっぱりがかわいい不知火（しらぬひ）。ハウス栽培ものから出回り始め、甘みが強く酸味はまろやか、手で皮がむけてじょうのうごと食べられる手軽さが人気です。ぷりっとした果肉の食感とたっぷりの果汁が楽しめます。",
+   "image_brief": "Large bumpy-topped orange Shiranui citrus fruits with a distinctive knob, arranged in a clear tray with white cushion, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "熊本県産 不知火（ハウス） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "熊本県産 不知火（ハウス） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 548,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "愛媛県産 不知火 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 698,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "和歌山県産 不知火 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 898,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "熊本県産 不知火 贈答用 約2kg 化粧箱",
+     "brand": "",
+     "size": "約2kg 化粧箱",
+     "price_tax_excluded": 2980,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "広島県産 不知火 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "広島県産"
+    }
+   ],
+   "images": [
+    "w_fruit_dekopon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_ponkan",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "デコポン・中晩柑"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "おやつ",
+    "マーマレード"
+   ],
+   "tax_rate": 8,
+   "description": "独特の芳香と濃い甘みが特徴のポンカン。皮が厚めでふかふかしていて、手でむきやすいのも嬉しいポイント。酸味が少ないので食べやすく、年末年始の団らんのフルーツとしても重宝します。",
+   "image_brief": "Bright orange Ponkan mandarins with slightly bumpy loose skin piled in a clear plastic bag, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛媛県産 ポンカン 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "鹿児島県産 ポンカン 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "高知県産 ポンカン 4〜5個 袋入",
+     "brand": "",
+     "size": "4〜5個 袋入",
+     "price_tax_excluded": 598,
+     "origin": "高知県産"
+    },
+    {
+     "title": "鹿児島県産 ポンカン 大玉 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "愛媛県産 ポンカン 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1980,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_fruit_ponkan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_ehime_kashi28",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "デコポン・中晩柑"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "贈答",
+    "デザート",
+    "そのまま",
+    "お歳暮"
+   ],
+   "tax_rate": 8,
+   "description": "愛媛県で生まれた柑橘、愛媛果試第28号。ゼリーのようにぷるんとやわらかな果肉と、とろけるような濃厚な甘さが魅力です。じょうのうが薄く、まるで生のゼリーのような口どけ。冬の贈り物に人気の高い品種です。",
+   "image_brief": "Smooth thin-skinned deep-orange citrus fruits each in a white foam cup inside an elegant open gift box, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛媛県産 柑橘（愛媛果試第28号） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 798,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 柑橘（愛媛果試第28号） 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 1480,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 柑橘（愛媛果試第28号）贈答用 約1.5kg 化粧箱",
+     "brand": "",
+     "size": "約1.5kg 化粧箱",
+     "price_tax_excluded": 3980,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "愛媛県産 柑橘（愛媛果試第28号）家庭用 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 1580,
+     "origin": "愛媛県産"
+    }
+   ],
+   "images": [
+    "w_fruit_ehime_kashi28_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kinkan",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "デコポン・中晩柑"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "甘露煮",
+    "はちみつ漬け",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "皮ごとまるごと食べられる小さな柑橘、金柑。ほろ苦い皮の甘さと果肉の酸味が一体となった独特の風味です。完熟したものは生食でもおいしく、甘露煮やはちみつ漬けにしておせちや喉をいたわる冬の常備にも。",
+   "image_brief": "Small oval glossy orange kumquats heaped in a clear plastic cup with lid, a few with green leaves, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮崎県産 完熟きんかん 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 498,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "宮崎県産 完熟きんかん 大粒 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "鹿児島県産 きんかん 約300g 袋入",
+     "brand": "",
+     "size": "約300g 袋入",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産 きんかん 甘露煮用 約500g 袋入",
+     "brand": "",
+     "size": "約500g 袋入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 完熟きんかん 贈答用 約500g 化粧箱",
+     "brand": "",
+     "size": "約500g 化粧箱",
+     "price_tax_excluded": 1980,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kinkan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banpeiyu_buntan",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "デコポン・中晩柑"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "ピール砂糖漬け",
+    "サラダ",
+    "飾り"
+   ],
+   "tax_rate": 8,
+   "description": "人の頭ほどもある大きさで知られる晩白柚をはじめ、ザボン類を揃えました。厚い皮をむくと、さっぱりとした甘さとほのかな苦みの果肉が現れます。部屋に置くと爽やかな香りが広がり、皮は砂糖漬けにも使えます。",
+   "image_brief": "One huge pale-yellow pomelo in a mesh sleeve sitting beside a smaller yellow buntan, plain white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "熊本県産 晩白柚 1玉（約2kg）",
+     "brand": "",
+     "size": "1玉（約2kg）",
+     "price_tax_excluded": 1280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "熊本県産 晩白柚 大玉 1玉（約2.5kg）",
+     "brand": "",
+     "size": "1玉（約2.5kg）",
+     "price_tax_excluded": 1680,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "鹿児島県産 ザボン 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "高知県産 水晶文旦 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "熊本県産 晩白柚 贈答用 化粧箱 1玉",
+     "brand": "",
+     "size": "化粧箱 1玉",
+     "price_tax_excluded": 2480,
+     "origin": "熊本県産"
+    }
+   ],
+   "images": [
+    "w_fruit_banpeiyu_buntan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_oroblanco",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "オレンジ・輸入柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "サラダ",
+    "カルパッチョ"
+   ],
+   "tax_rate": 8,
+   "description": "グレープフルーツとブンタンを掛け合わせた輸入柑橘、オロブランコ。グリーンの果皮が特長で、苦みや酸味が少なく、さっぱりとした上品な甘さです。グレープフルーツが苦手な方にもおすすめの冬の柑橘です。",
+   "image_brief": "Green-skinned round oroblanco citrus fruits, one halved showing pale yellow segments, in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "イスラエル産 オロブランコ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "イスラエル産"
+    },
+    {
+     "title": "イスラエル産 オロブランコ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 378,
+     "origin": "イスラエル産"
+    },
+    {
+     "title": "アメリカ産 オロブランコ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "イスラエル産 オロブランコ 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "イスラエル産"
+    }
+   ],
+   "images": [
+    "w_fruit_oroblanco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_shikuwasa",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "すだち・かぼす・ゆず"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "焼き魚",
+    "泡盛割り",
+    "ドレッシング",
+    "ジュース"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄やんばる地方で育つ小さな香酸柑橘、シークヮーサー。きりっとした酸味と独特の香りがあり、焼き魚や刺身に搾ったり、炭酸割りやドレッシングに使ったりと幅広く楽しめます。熟すと黄色くなり甘みも増します。",
+   "image_brief": "Small round green-and-yellow shikuwasa citrus in a clear plastic bag, a few cut halves showing seeds, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "沖縄県産 シークヮーサー 約100g パック",
+     "brand": "",
+     "size": "約100g パック",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 シークヮーサー 約300g 袋入",
+     "brand": "",
+     "size": "約300g 袋入",
+     "price_tax_excluded": 698,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 完熟シークヮーサー（黄） 約200g パック",
+     "brand": "",
+     "size": "約200g パック",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "沖縄県産 シークヮーサー 果汁搾り用 約1kg 箱入",
+     "brand": "",
+     "size": "約1kg 箱入",
+     "price_tax_excluded": 1980,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_fruit_shikuwasa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_meyer_lemon",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "レモン・ライム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "レモネード",
+    "お菓子作り",
+    "サラダ",
+    "ムニエル"
+   ],
+   "tax_rate": 8,
+   "description": "レモンとオレンジの自然交雑から生まれたといわれるマイヤーレモン。丸みのある濃い黄色の果皮で、酸味がまろやかで香りが華やか。果汁がたっぷり取れるので、レモネードや焼き菓子、ドレッシング作りにおすすめです。",
+   "image_brief": "Round deep-yellow Meyer lemons with smooth thin skin in a small kraft paper tray, one sliced to show juicy flesh, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 マイヤーレモン 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "愛媛県産 ノーワックス マイヤーレモン 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 448,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "和歌山県産 マイヤーレモン 約500g 袋入",
+     "brand": "",
+     "size": "約500g 袋入",
+     "price_tax_excluded": 598,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "ニュージーランド産 マイヤーレモン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_fruit_meyer_lemon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kaki_saijo",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "そのまま",
+    "白和え",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "縦長の形と四本の溝が特徴の西条柿。渋抜き処理をして出荷しており、きめ細かくなめらかな果肉と上品で濃い甘さが楽しめます。中国地方で古くから親しまれてきた伝統品種で、熟すととろりとした食感になります。",
+   "image_brief": "Elongated orange Saijo persimmons with four shallow grooves and green calyxes, arranged in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "広島県産 西条柿 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "広島県産"
+    },
+    {
+     "title": "島根県産 西条柿 4〜5個 袋入",
+     "brand": "",
+     "size": "4〜5個 袋入",
+     "price_tax_excluded": 548,
+     "origin": "島根県産"
+    },
+    {
+     "title": "岡山県産 西条柿 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "広島県産 西条柿 大玉 6個 化粧箱",
+     "brand": "",
+     "size": "6個 化粧箱",
+     "price_tax_excluded": 1280,
+     "origin": "広島県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kaki_saijo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kaki_fude",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "そのまま",
+    "お弁当",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "筆の穂先のような細長い形がかわいい筆柿。小ぶりで種の周りにゴマが入り、しっかりとした甘さが楽しめる不完全甘柿です。一口サイズで食べやすいので、お弁当のデザートやお子さまのおやつにちょうど良い大きさです。",
+   "image_brief": "Small brush-tip-shaped orange persimmons packed upright in a clear plastic tray, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛知県産 筆柿 6〜8個 パック",
+     "brand": "",
+     "size": "6〜8個 パック",
+     "price_tax_excluded": 398,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "愛知県産 筆柿 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "愛知県産 筆柿 大玉 5個 パック",
+     "brand": "",
+     "size": "5個 パック",
+     "price_tax_excluded": 498,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "岐阜県産 筆柿 6個 パック",
+     "brand": "",
+     "size": "6個 パック",
+     "price_tax_excluded": 378,
+     "origin": "岐阜県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kaki_fude_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kaki_jukushi",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "スプーンデザート",
+    "シャーベット",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "樹上や追熟でとろとろにやわらかく熟させた熟柿です。スプーンですくって食べると、ゼリーのような果肉から濃厚な甘さがあふれます。冷やしてそのまま、凍らせてシャーベット風にしても絶品。数量限定の味覚です。",
+   "image_brief": "Very ripe glossy deep-orange persimmons each sitting in its own individual clear plastic cup, inside a tray, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "奈良県産 熟柿 とろとろ柿 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "和歌山県産 熟柿 とろとろ柿 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 898,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "岐阜県産 熟柿（富有） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 278,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "福岡県産 熟柿 とろとろ柿 大玉 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 598,
+     "origin": "福岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kaki_jukushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kaki_wakeari",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "そのまま",
+    "柿なます",
+    "ジャム",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "表面の小さなキズや形の不揃いで規格外となった家庭用の甘柿です。味は正規品と同じで、たっぷり入ってお得。サラダや柿なます、スムージーなど、気兼ねなくたくさん使いたいときにおすすめです。",
+   "image_brief": "A clear plastic bag stuffed with irregular-sized orange persimmons with green calyxes, tied at the top, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "奈良県産 訳あり甘柿 家庭用 約1.5kg 袋入",
+     "brand": "",
+     "size": "約1.5kg 袋入",
+     "price_tax_excluded": 698,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "岐阜県産 訳あり富有柿 家庭用 約2kg 袋入",
+     "brand": "",
+     "size": "約2kg 袋入",
+     "price_tax_excluded": 898,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "和歌山県産 訳あり甘柿 家庭用 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1280,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "福岡県産 訳あり甘柿 家庭用 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 498,
+     "origin": "福岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kaki_wakeari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_grape_red_globe",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "フルーツサラダ",
+    "チーズの盛り合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "大粒で皮ごと食べられる赤ぶどう、レッドグローブ。パリッとした歯ごたえとさっぱりとした甘さが特長です。種はありますが、ボリュームのある粒はおもてなしのフルーツ皿やチーズプレートの彩りにもぴったり。",
+   "image_brief": "A heavy bunch of large round red-pink grapes in a clear vented plastic clamshell, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 レッドグローブ 1パック（約500g）",
+     "brand": "",
+     "size": "1パック（約500g）",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 レッドグローブ 1房（約700g）",
+     "brand": "",
+     "size": "1房（約700g）",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ペルー産 レッドグローブ 1パック（約500g）",
+     "brand": "",
+     "size": "1パック（約500g）",
+     "price_tax_excluded": 478,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "アメリカ産 レッドグローブ 大容量 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fruit_grape_red_globe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_grape_red_seedless",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "お弁当",
+    "冷凍ぶどう",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "種がなく皮ごと食べられる輸入の赤ぶどう。クリムゾン系の品種で、ぱりっとした食感と甘酸っぱい味わいが楽しめます。房からもいでそのまま口に運べる手軽さで、お弁当や冷凍ぶどうにも便利です。",
+   "image_brief": "Elongated crimson seedless grapes in a resealable clear zip bag with vent holes, laid flat on a white surface.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし赤ぶどう 約400g 袋入",
+     "brand": "",
+     "size": "約400g 袋入",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オーストラリア産 皮ごと食べられる 種なし赤ぶどう 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "チリ産 皮ごと食べられる 種なし赤ぶどう 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 498,
+     "origin": "チリ産"
+    },
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし赤ぶどう 大容量 約900g",
+     "brand": "",
+     "size": "約900g",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 種なし赤ぶどう 小分け 約150g×3袋",
+     "brand": "",
+     "size": "約150g×3袋",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fruit_grape_red_seedless_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_grape_green_seedless",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "フルーツサンド",
+    "サラダ",
+    "冷凍ぶどう"
+   ],
+   "tax_rate": 8,
+   "description": "黄緑色の粒がさわやかな輸入の種なし白ぶどう。皮が薄く皮ごと食べられ、すっきりとした甘さとほどよい酸味が楽しめます。手頃な価格で毎日のフルーツとして取り入れやすく、フルーツサンドやヨーグルトのトッピングにも。",
+   "image_brief": "A bunch of pale green seedless grapes in a clear vented plastic clamshell, droplets of water on the berries, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし白ぶどう 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ペルー産 皮ごと食べられる 種なし白ぶどう 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 548,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "オーストラリア産 皮ごと食べられる 種なし白ぶどう 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 548,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし白ぶどう 大容量 約900g",
+     "brand": "",
+     "size": "約900g",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fruit_grape_green_seedless_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_grape_black_seedless",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "チーズの盛り合わせ",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "深い紫黒色の大粒が目を引く輸入の種なし黒ぶどう。皮ごと食べられ、しっかりとした甘みとコクのある味わいが楽しめます。皮に含まれる色素で見た目も華やか。ワインやチーズのおともにもおすすめです。",
+   "image_brief": "A bunch of large oval blue-black seedless grapes with a natural bloom inside a clear plastic clamshell, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし黒ぶどう 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 548,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 皮ごと食べられる 種なし黒ぶどう 大粒 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "ペルー産 皮ごと食べられる 種なし黒ぶどう 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "オーストラリア産 皮ごと食べられる 種なし黒ぶどう 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 648,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_fruit_grape_black_seedless_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_la_france_gift",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "洋梨"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "贈答",
+    "コンポート",
+    "タルト"
+   ],
+   "tax_rate": 8,
+   "description": "とろけるような果肉と芳醇な香りで「果物の女王」とも呼ばれるラ・フランスを、贈答用に選りすぐって化粧箱に詰めました。届いてから常温で追熟させ、軸の周りがやわらかくなったら食べ頃。お歳暮にも喜ばれます。",
+   "image_brief": "Green-yellow La France pears with russet spots, each wrapped in white foam net, arranged in an open gift box with lid behind.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "山形県産 ラ・フランス 贈答用 化粧箱 約2kg（6〜8個）",
+     "brand": "",
+     "size": "約2kg（6〜8個）",
+     "price_tax_excluded": 2980,
+     "origin": "山形県産"
+    },
+    {
+     "title": "山形県産 ラ・フランス 贈答用 化粧箱 約3kg（9〜12個）",
+     "brand": "",
+     "size": "約3kg（9〜12個）",
+     "price_tax_excluded": 3980,
+     "origin": "山形県産"
+    },
+    {
+     "title": "山形県産 ラ・フランス 贈答用 化粧箱 約5kg",
+     "brand": "",
+     "size": "約5kg",
+     "price_tax_excluded": 5980,
+     "origin": "山形県産"
+    },
+    {
+     "title": "長野県産 ラ・フランス 贈答用 化粧箱 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 2780,
+     "origin": "長野県産"
+    },
+    {
+     "title": "山形県産 ラ・フランス 家庭用 訳あり 約3kg 箱入",
+     "brand": "",
+     "size": "約3kg 箱入",
+     "price_tax_excluded": 1980,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_fruit_la_france_gift_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kiwi_domestic_hayward",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "キウイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのまま",
+    "ヨーグルト",
+    "スムージー",
+    "肉のやわらかマリネ"
+   ],
+   "tax_rate": 8,
+   "description": "国内産地で育てられたグリーンキウイ（ヘイワード）。11月頃から収穫・追熟を経て出回ります。甘みと爽やかな酸味のバランスが良く、果汁たっぷり。食べ頃は軽く押して弾力を感じる頃。朝食やおやつに。",
+   "image_brief": "Fuzzy brown kiwifruit in a clear plastic tray, one cut in half showing bright green flesh and black seeds, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "福岡県産 キウイフルーツ（ヘイワード） 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "和歌山県産 キウイフルーツ（ヘイワード） 4〜6個 袋入",
+     "brand": "",
+     "size": "4〜6個 袋入",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "神奈川県産 キウイフルーツ（ヘイワード） 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "神奈川県産"
+    },
+    {
+     "title": "福岡県産 キウイフルーツ（ヘイワード）大玉 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "国産 キウイフルーツ 家庭用 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg 袋入",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_kiwi_domestic_hayward_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kiwi_rainbow_red",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "キウイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "そのまま",
+    "フルーツタルト",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "切ると中心部が赤く色づいた美しい断面が現れるレインボーレッドキウイ。酸味が少なく、糖度が高いので甘いキウイを好む方にぴったり。皮の毛が少なく小ぶりで、食卓やデザートの彩りにも活躍します。",
+   "image_brief": "Small smooth brown kiwifruit with one sliced open revealing yellow-green flesh and a vivid red ring around the core, in a clear tray.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 レインボーレッドキウイ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "福岡県産 レインボーレッドキウイ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 698,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "愛媛県産 レインボーレッドキウイ 約500g パック",
+     "brand": "",
+     "size": "約500g パック",
+     "price_tax_excluded": 598,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "静岡県産 レインボーレッドキウイ 贈答用 12個 化粧箱",
+     "brand": "",
+     "size": "12個 化粧箱",
+     "price_tax_excluded": 1980,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_kiwi_rainbow_red_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_kiwi_gold_value",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "キウイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "スムージー",
+    "フルーツサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "南半球産シーズン終盤の黄色い果肉のゴールドキウイを、毎日食べたい方向けのまとめ買いサイズにしました。とろりとした甘さと酸味の少なさで、お子さまにも人気。追熟させて食べ頃のものから順にどうぞ。",
+   "image_brief": "A clear plastic bag of plump smooth-skinned golden kiwifruit, one halved showing golden-yellow flesh, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ニュージーランド産 ゴールドキウイ 6個 袋入",
+     "brand": "",
+     "size": "6個 袋入",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 ゴールドキウイ 大玉 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 ゴールドキウイ 箱入 約3.5kg（25〜30個）",
+     "brand": "",
+     "size": "約3.5kg（25〜30個）",
+     "price_tax_excluded": 3480,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 ゴールドキウイ 小玉 8個 袋入",
+     "brand": "",
+     "size": "8個 袋入",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "イタリア産 ゴールドキウイ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_fruit_kiwi_gold_value_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banana_monkey",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "お弁当",
+    "離乳食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "長さ10cmほどの小さなモンキーバナナ。もっちりとした果肉で、濃厚な甘さとほのかな酸味が楽しめます。一本が小さいので食べきりやすく、お子さまのおやつやお弁当、少しだけ食べたいときにちょうど良いサイズです。",
+   "image_brief": "A bunch of small stubby yellow monkey bananas in a clear plastic bag, plain white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フィリピン産 モンキーバナナ 1袋（7〜9本）",
+     "brand": "",
+     "size": "1袋（7〜9本）",
+     "price_tax_excluded": 198,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "フィリピン産 モンキーバナナ 2袋入",
+     "brand": "",
+     "size": "2袋入",
+     "price_tax_excluded": 378,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "エクアドル産 モンキーバナナ 1袋（8〜10本）",
+     "brand": "",
+     "size": "1袋（8〜10本）",
+     "price_tax_excluded": 218,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "フィリピン産 モンキーバナナ 大房 1袋（12〜15本）",
+     "brand": "",
+     "size": "1袋（12〜15本）",
+     "price_tax_excluded": 298,
+     "origin": "フィリピン産"
+    }
+   ],
+   "images": [
+    "w_fruit_banana_monkey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banana_taiwan",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "バナナジュース",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとりとした濃い甘さと、もっちりした食感が特長の台湾産バナナ。香りが豊かで、昔ながらの懐かしい味わいが楽しめます。追熟でシュガースポットが出てきたら食べ頃。バナナジュースにしても絶品です。",
+   "image_brief": "A bunch of slightly curved yellow Taiwanese bananas with a few sugar spots lying on a white surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "台湾産 バナナ 1房（3〜4本）",
+     "brand": "",
+     "size": "1房（3〜4本）",
+     "price_tax_excluded": 298,
+     "origin": "台湾産"
+    },
+    {
+     "title": "台湾産 バナナ 1房（5〜6本）",
+     "brand": "",
+     "size": "1房（5〜6本）",
+     "price_tax_excluded": 398,
+     "origin": "台湾産"
+    },
+    {
+     "title": "台湾産 高地栽培 バナナ 1房（3〜4本）",
+     "brand": "",
+     "size": "1房（3〜4本）",
+     "price_tax_excluded": 348,
+     "origin": "台湾産"
+    },
+    {
+     "title": "台湾産 バナナ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 98,
+     "origin": "台湾産"
+    }
+   ],
+   "images": [
+    "w_fruit_banana_taiwan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banana_domestic",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "贈答",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "国内の温室で丁寧に育てられた希少な国産バナナ。樹上で長く育てることで、きめ細かな果肉と濃厚な甘さ、豊かな香りに仕上がります。皮まで食べられるタイプもあり、ちょっと特別なおやつや手土産におすすめです。",
+   "image_brief": "Two premium yellow bananas laid in an individual black-lined clear gift case, studio light, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮崎県産 国産バナナ 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "鹿児島県産 国産バナナ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "岡山県産 皮まで食べられる 国産バナナ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 648,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "宮崎県産 国産バナナ 化粧箱 4本入",
+     "brand": "",
+     "size": "4本入",
+     "price_tax_excluded": 1980,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "沖縄県産 島バナナ 1房（約300g）",
+     "brand": "",
+     "size": "1房（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_fruit_banana_domestic_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banana_single",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "運動のおやつ",
+    "間食"
+   ],
+   "tax_rate": 8,
+   "description": "1本ずつ個包装にしたバナナです。持ち歩きやすく、お弁当や通勤・通学時の朝食、スポーツ前後の手軽なエネルギー補給にぴったり。食べたい分だけ買えるので、一人暮らしの方にも無駄なく便利です。",
+   "image_brief": "A single yellow banana sealed in a clear individual plastic sleeve, lying diagonally on a white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フィリピン産 バナナ 個包装 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 48,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "フィリピン産 バナナ 個包装 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 138,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "エクアドル産 高地栽培 バナナ 個包装 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 68,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "ペルー産 有機バナナ 個包装 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 78,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "フィリピン産 完熟 バナナ 個包装 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 118,
+     "origin": "フィリピン産"
+    }
+   ],
+   "images": [
+    "w_fruit_banana_single_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_banana_red",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "デザート",
+    "フルーツ盛り合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "赤紫色の果皮が珍しいモラードバナナ。果肉はほんのりオレンジ色で、ねっとりとした食感とさっぱりとした甘さ、独特の香りが楽しめます。皮が黒っぽく色づいてきたら食べ頃。食卓に変化をつけたい方におすすめです。",
+   "image_brief": "A small bunch of reddish-purple Morado bananas in a clear plastic tray, one peeled to show creamy pale-orange flesh.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フィリピン産 モラードバナナ（赤バナナ） 1房（2〜3本）",
+     "brand": "",
+     "size": "1房（2〜3本）",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "エクアドル産 モラードバナナ（赤バナナ） 1房（3〜4本）",
+     "brand": "",
+     "size": "1房（3〜4本）",
+     "price_tax_excluded": 498,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "フィリピン産 モラードバナナ（赤バナナ） 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 158,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "国産 モラードバナナ（赤バナナ） 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_banana_red_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mango_peru_brazil",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "マンゴープリン",
+    "スムージー",
+    "かき氷"
+   ],
+   "tax_rate": 8,
+   "description": "秋から冬にかけて旬を迎える南米産の大玉マンゴー。赤と緑のグラデーションの果皮に、濃い黄色のとろける果肉と濃厚な甘さが詰まっています。追熟させて香りが立ってきたら食べ頃。デザート作りにも人気です。",
+   "image_brief": "A large oval mango with red-to-green blushed skin next to one cut into a hedgehog cube pattern, in a clear tray, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ペルー産 マンゴー（ケント） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 マンゴー（ケント）大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 798,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ブラジル産 マンゴー（パルマー） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ペルー産 マンゴー（ケント） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 1080,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ブラジル産 マンゴー（トミーアトキンス） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_fruit_mango_peru_brazil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_mango_thai",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "マンゴースティッキーライス",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "細長い形と黄色い果皮が特長のタイ産マンゴー。繊維が少なくなめらかな果肉で、上品な甘さと爽やかな香りが楽しめます。タイの屋台スイーツのように、もち米とココナッツミルクを添えて味わうのもおすすめ。",
+   "image_brief": "Two slender golden-yellow Thai mangoes in a clear plastic clamshell, one sliced into cheeks showing pale yellow flesh.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "タイ産 マンゴー（ナムドクマイ） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    },
+    {
+     "title": "タイ産 マンゴー（ナムドクマイ） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 948,
+     "origin": "タイ産"
+    },
+    {
+     "title": "タイ産 マンゴー（マハチャノ） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 548,
+     "origin": "タイ産"
+    },
+    {
+     "title": "フィリピン産 マンゴー（カラバオ） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 698,
+     "origin": "フィリピン産"
+    }
+   ],
+   "images": [
+    "w_fruit_mango_thai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_papaya",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "サラダ",
+    "スムージー",
+    "ソムタム"
+   ],
+   "tax_rate": 8,
+   "description": "南国の香りがふわっと広がるパパイヤ。完熟したオレンジ色の果肉はとろりとやわらかく、やさしい甘さです。半分に切って種を除き、レモンやライムを搾るとさらにおいしく。青パパイヤはサラダや炒め物に使えます。",
+   "image_brief": "A whole yellow-orange papaya next to a halved one showing salmon-colored flesh and black seeds, in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フィリピン産 パパイヤ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "ハワイ産 パパイヤ（ソロ） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "ハワイ産"
+    },
+    {
+     "title": "フィリピン産 パパイヤ 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "沖縄県産 青パパイヤ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "沖縄県産"
+    }
+   ],
+   "images": [
+    "w_fruit_papaya_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_dragon_fruit",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "スムージーボウル",
+    "フルーツポンチ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかなピンクの果皮とユニークな形が目を引くドラゴンフルーツ。果肉にはゴマのような黒い種が散らばり、シャクッとした食感とさっぱりとした甘さが楽しめます。赤肉種は色鮮やかで、スムージーボウルの映える彩りに。",
+   "image_brief": "A bright magenta dragon fruit with green-tipped scales beside a halved one showing white flesh with tiny black seeds.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ベトナム産 ドラゴンフルーツ（白肉） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "ベトナム産 ドラゴンフルーツ（赤肉） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "沖縄県産 ドラゴンフルーツ（赤肉） 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "沖縄県産"
+    },
+    {
+     "title": "ベトナム産 ドラゴンフルーツ（白肉） 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 748,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_fruit_dragon_fruit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_passion_fruit",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "ヨーグルトがけ",
+    "ドリンク",
+    "ソース"
+   ],
+   "tax_rate": 8,
+   "description": "紫色の皮の中に、甘酸っぱい果汁と種がぎっしり詰まったパッションフルーツ。トロピカルな強い香りが特長です。皮にしわが寄ってきたら食べ頃。半分に切ってスプーンで、またはヨーグルトやかき氷にかけて楽しめます。",
+   "image_brief": "Three wrinkled purple passion fruits in a clear tray, one halved showing yellow pulp full of black seeds, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "台湾産 パッションフルーツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "台湾産"
+    },
+    {
+     "title": "ベトナム産 パッションフルーツ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "鹿児島県産 パッションフルーツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "台湾産 パッションフルーツ 約500g パック",
+     "brand": "",
+     "size": "約500g パック",
+     "price_tax_excluded": 798,
+     "origin": "台湾産"
+    }
+   ],
+   "images": [
+    "w_fruit_passion_fruit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_young_coconut",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "パイナップル・トロピカルフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ココナッツウォーター",
+    "デザート",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "白い外皮を削った若いココナッツ。上部に穴を開けてストローを差せば、ほんのり甘くさっぱりとしたココナッツジュースをそのまま楽しめます。飲み終わった後は内側のぷるんとした果肉をスプーンでどうぞ。",
+   "image_brief": "A trimmed young white coconut with a pointed top and plastic film wrap standing upright on a white background, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "タイ産 ヤングココナッツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    },
+    {
+     "title": "タイ産 ヤングココナッツ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 948,
+     "origin": "タイ産"
+    },
+    {
+     "title": "タイ産 ヤングココナッツ 開けやすいタイプ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "タイ産"
+    },
+    {
+     "title": "ベトナム産 ヤングココナッツ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 448,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_fruit_young_coconut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_avocado_nz",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "アボカド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "アボカド丼",
+    "サラダ",
+    "ワカモレ",
+    "トースト"
+   ],
+   "tax_rate": 8,
+   "description": "春から初冬にかけてが旬のニュージーランド産アボカド。クリーミーでコクのある果肉は、わさび醤油やサラダ、トーストとの相性抜群です。皮が黒っぽくなり、軽く押してやわらかさを感じたら食べ頃です。",
+   "image_brief": "Dark green pebbly-skinned Hass avocados in a small red mesh net, one halved showing creamy green flesh and a round pit.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ニュージーランド産 アボカド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 アボカド 3個 ネット入",
+     "brand": "",
+     "size": "3個 ネット入",
+     "price_tax_excluded": 358,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 アボカド 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 アボカド 食べ頃 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 アボカド 小玉 5個 袋入",
+     "brand": "",
+     "size": "5個 袋入",
+     "price_tax_excluded": 498,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_fruit_avocado_nz_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_pomegranate",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ザクロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "そのまま",
+    "サラダ",
+    "ヨーグルト",
+    "ドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "宝石のようにきらめく赤い粒がぎっしり詰まったザクロ。甘酸っぱい果汁と、プチッとはじける食感が楽しめます。粒をサラダやヨーグルト、肉料理のソースに散らすと華やかな一皿に。秋から冬が旬の果物です。",
+   "image_brief": "A round deep-red pomegranate with crown top next to a split one revealing glistening ruby seeds, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 ザクロ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 ザクロ 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トルコ産 ザクロ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 448,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "山形県産 ザクロ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 698,
+     "origin": "山形県産"
+    },
+    {
+     "title": "アメリカ産 ザクロ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 748,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fruit_pomegranate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_sagahonoka",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "ショートケーキ",
+    "いちご大福",
+    "パフェ"
+   ],
+   "tax_rate": 8,
+   "description": "円すい形で果肉まで白くなりにくい、果皮が鮮やかなさがほのか。酸味が穏やかで甘みが際立ち、香りも豊かです。果肉がしっかりしていて日持ちがよいのも特長。出始めの冬いちごをケーキやいちご大福に。",
+   "image_brief": "A clear plastic punnet of glossy bright-red conical strawberries with green calyxes, neatly lined up, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "佐賀県産 いちご（さがほのか） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 598,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "佐賀県産 いちご（さがほのか）大粒 1パック（約270g）",
+     "brand": "",
+     "size": "1パック（約270g）",
+     "price_tax_excluded": 798,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "佐賀県産 いちご（さがほのか） 2パック（約500g）",
+     "brand": "",
+     "size": "2パック（約500g）",
+     "price_tax_excluded": 1180,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "佐賀県産 いちご（さがほのか）贈答用 化粧箱（約400g）",
+     "brand": "",
+     "size": "化粧箱（約400g）",
+     "price_tax_excluded": 1980,
+     "origin": "佐賀県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_sagahonoka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_yayoihime",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "いちごミルク",
+    "タルト"
+   ],
+   "tax_rate": 8,
+   "description": "群馬県生まれのやよいひめ。明るい赤色の大粒で、甘さと酸味がほどよく調和したさっぱりとした味わいです。果肉がかためで傷みにくく、春先まで品質が安定しているのが魅力。そのまま食べても、お菓子作りにも。",
+   "image_brief": "A clear plastic punnet of large bright orange-red strawberries with fresh green tops, slightly glossy, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "群馬県産 いちご（やよいひめ） 1パック（約260g）",
+     "brand": "",
+     "size": "1パック（約260g）",
+     "price_tax_excluded": 598,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 いちご（やよいひめ）大粒 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 898,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 いちご（やよいひめ） 2パック（約520g）",
+     "brand": "",
+     "size": "2パック（約520g）",
+     "price_tax_excluded": 1180,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "群馬県産 いちご（やよいひめ）平詰め 1箱（約350g）",
+     "brand": "",
+     "size": "1箱（約350g）",
+     "price_tax_excluded": 1280,
+     "origin": "群馬県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_yayoihime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_yumenoka",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "練乳がけ",
+    "ジャム",
+    "フルーツサンド"
+   ],
+   "tax_rate": 8,
+   "description": "愛知県で育成されたゆめのか。つやのある鮮やかな赤色と、甘みと酸味がバランス良く感じられるジューシーな味わいです。粒が揃っていて食べやすく、フルーツサンドやいちごジャム作りにも向いています。",
+   "image_brief": "A clear plastic punnet packed with uniform shiny red strawberries, a couple placed in front, white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "愛知県産 いちご（ゆめのか） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 548,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "長崎県産 いちご（ゆめのか） 1パック（約270g）",
+     "brand": "",
+     "size": "1パック（約270g）",
+     "price_tax_excluded": 598,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "大分県産 いちご（ゆめのか） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 548,
+     "origin": "大分県産"
+    },
+    {
+     "title": "長崎県産 いちご（ゆめのか）大粒 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 798,
+     "origin": "長崎県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_yumenoka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_akihime",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "いちご大福",
+    "ショートケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "静岡県で生まれた細長い形の章姫（あきひめ）。酸味がとても少なく、やわらかな果肉と上品な甘さが楽しめるので、小さなお子さまにも人気です。果肉がデリケートなので、お早めにお召し上がりください。",
+   "image_brief": "A clear plastic punnet of elongated soft red strawberries with green calyxes arranged in rows, white background, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "静岡県産 いちご（章姫） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 548,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 いちご（章姫） 2パック（約500g）",
+     "brand": "",
+     "size": "2パック（約500g）",
+     "price_tax_excluded": 1080,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "静岡県産 いちご（章姫）大粒 1パック（約270g）",
+     "brand": "",
+     "size": "1パック（約270g）",
+     "price_tax_excluded": 798,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "宮崎県産 いちご（章姫） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 548,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_akihime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_yotsuboshi",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "パフェ",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "種から育てる新しいタイプの品種、よつぼし。甘み・酸味・風味がしっかりと濃く、果肉の中まで赤いのが特長です。濃厚な味わいは生食はもちろん、加熱しても色と風味が残るのでソースやスイーツ作りにも最適です。",
+   "image_brief": "A clear plastic punnet of deep crimson strawberries, one halved to show red flesh to the center, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "三重県産 いちご（よつぼし） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 598,
+     "origin": "三重県産"
+    },
+    {
+     "title": "千葉県産 いちご（よつぼし） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "香川県産 いちご（よつぼし） 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 598,
+     "origin": "香川県産"
+    },
+    {
+     "title": "三重県産 いちご（よつぼし）大粒 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 898,
+     "origin": "三重県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_yotsuboshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_white",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "そのまま",
+    "紅白いちご",
+    "贈答",
+    "クリスマスケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "まるで雪のように白い果皮が美しい白いちご。ほんのりピンクがかった果肉から、やさしい甘さと桃のような香りが広がります。赤いいちごと合わせた紅白セットは、クリスマスや年末年始のおもてなしにぴったりです。",
+   "image_brief": "A clear gift case of pale white strawberries with faint pink blush and green calyxes on a white cushion, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "佐賀県産 白いちご（淡雪） 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 1280,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "熊本県産 白いちご（パールホワイト） 1パック（約200g）",
+     "brand": "",
+     "size": "1パック（約200g）",
+     "price_tax_excluded": 1280,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "国産 紅白いちご 詰め合わせ 化粧箱（約300g）",
+     "brand": "",
+     "size": "化粧箱（約300g）",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    },
+    {
+     "title": "佐賀県産 白いちご（淡雪）大粒 化粧箱 9粒入",
+     "brand": "",
+     "size": "化粧箱 9粒入",
+     "price_tax_excluded": 2980,
+     "origin": "佐賀県産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_white_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_strawberry_imported",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ケーキ",
+    "トッピング",
+    "スムージー",
+    "ジャム"
+   ],
+   "tax_rate": 8,
+   "description": "国産いちごの端境期を中心に出回る輸入いちご。大粒でしっかりとした果肉は日持ちが良く、酸味がきいたさわやかな味わいです。ケーキの飾りやパフェのトッピング、スムージーなど、色鮮やかさを活かす使い方におすすめ。",
+   "image_brief": "A clear plastic clamshell of large firm red strawberries with green caps, vented lid, plain white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 いちご 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 いちご 大容量 1パック（約450g）",
+     "brand": "",
+     "size": "1パック（約450g）",
+     "price_tax_excluded": 998,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "オランダ産 いちご 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 798,
+     "origin": "オランダ産"
+    },
+    {
+     "title": "オーストラリア産 いちご 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_fruit_strawberry_imported_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_blueberry_imported",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ベリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ヨーグルト",
+    "パンケーキ",
+    "スムージー",
+    "マフィン"
+   ],
+   "tax_rate": 8,
+   "description": "国産の旬が終わる秋冬にかけて出回る南米産の生ブルーベリー。ぷりっとした大粒で、甘みとほどよい酸味のバランスが良好です。洗ってそのまま、ヨーグルトやグラノーラ、パンケーキに添えて朝食を彩ります。",
+   "image_brief": "A clear round plastic cup of plump dusty-blue blueberries with a vented lid, a few berries scattered on a white surface.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ペルー産 ブルーベリー 1パック（約125g）",
+     "brand": "",
+     "size": "1パック（約125g）",
+     "price_tax_excluded": 398,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "ペルー産 ブルーベリー 大粒 1パック（約170g）",
+     "brand": "",
+     "size": "1パック（約170g）",
+     "price_tax_excluded": 598,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "チリ産 ブルーベリー 1パック（約125g）",
+     "brand": "",
+     "size": "1パック（約125g）",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    },
+    {
+     "title": "ペルー産 ブルーベリー 大容量 1パック（約300g）",
+     "brand": "",
+     "size": "1パック（約300g）",
+     "price_tax_excluded": 898,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "メキシコ産 ブルーベリー 1パック（約125g）",
+     "brand": "",
+     "size": "1パック（約125g）",
+     "price_tax_excluded": 378,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_fruit_blueberry_imported_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_raspberry_berry_mix",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ベリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ケーキの飾り",
+    "パフェ",
+    "サラダ",
+    "ソース"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱく華やかな香りのラズベリーや、ブラックベリー、ベリーミックスの生パックです。少し添えるだけでケーキやパフェ、サラダがぐっと華やかに。とてもデリケートなので、購入後は冷蔵して早めにお使いください。",
+   "image_brief": "Small clear plastic punnets of red raspberries and glossy blackberries side by side, vented lids, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "メキシコ産 ラズベリー 1パック（約125g）",
+     "brand": "",
+     "size": "1パック（約125g）",
+     "price_tax_excluded": 498,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "メキシコ産 ブラックベリー 1パック（約125g）",
+     "brand": "",
+     "size": "1パック（約125g）",
+     "price_tax_excluded": 498,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "メキシコ産 ベリーミックス（ラズベリー・ブルーベリー・ブラックベリー） 1パック（約170g）",
+     "brand": "",
+     "size": "1パック（約170g）",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "アメリカ産 ラズベリー 大容量 1パック（約250g）",
+     "brand": "",
+     "size": "1パック（約250g）",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産 ラズベリー 1パック（約80g）",
+     "brand": "",
+     "size": "1パック（約80g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_raspberry_berry_mix_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_apple",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "お弁当",
+    "おやつ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "皮付きのまま食べやすくカットしたりんごを、変色しにくい処理をしてパックしました。シャキッとした食感が楽しめて、包丁いらずですぐに食べられます。お弁当やお子さまのおやつ、ちょっとしたデザートに便利です。",
+   "image_brief": "Crisp red-skinned apple slices neatly fanned in a small clear plastic lidded cup, white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 カットりんご（ふじ） 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カットりんご 個包装 約50g×3袋",
+     "brand": "",
+     "size": "約50g×3袋",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "青森県産 カットりんご（王林・ふじ）2種 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "青森県産"
+    },
+    {
+     "title": "国産 うさぎりんご カット 4切れ入",
+     "brand": "",
+     "size": "4切れ入",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カットりんご 大容量 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_apple_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_melon",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おもてなし",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "食べ頃に熟したメロンを皮と種を取り除いて一口大にカットしました。とろけるようなやわらかさと芳醇な香り、みずみずしい甘さを手軽に楽しめます。少人数のご家庭やちょっとしたデザートにぴったりです。",
+   "image_brief": "Bite-size cubes of pale green and orange melon in a clear rectangular lidded container, glistening with juice, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 カットメロン（青肉） 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カットメロン（赤肉） 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カットメロン 青肉・赤肉 2色 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "ホンジュラス産 カットメロン（ハネデュー） 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "ホンジュラス産"
+    },
+    {
+     "title": "静岡県産 カット アールスメロン 1/8カット",
+     "brand": "",
+     "size": "1/8カット",
+     "price_tax_excluded": 598,
+     "origin": "静岡県産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_melon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_citrus_cup",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "デザート",
+    "サラダ",
+    "ヨーグルトがけ"
+   ],
+   "tax_rate": 8,
+   "description": "薄皮まできれいにむいた柑橘の果肉をカップに詰めました。グレープフルーツやオレンジのさわやかな果汁がたっぷりで、むく手間なくすぐに食べられます。朝食やサラダのトッピング、ヨーグルトに合わせて。",
+   "image_brief": "A clear round plastic cup filled with peeled ruby and white grapefruit and orange segments in juice, sealed lid, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "南アフリカ産 カットグレープフルーツ（ルビー） 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "南アフリカ産 カットグレープフルーツ ルビー＆ホワイト 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "アメリカ産 カットオレンジ 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "国産 むきみかん 果肉 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "輸入 柑橘ミックス 果肉（グレープフルーツ・オレンジ） 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 448,
+     "origin": "輸入"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_citrus_cup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_kiwi",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "キウイフルーツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "ヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "皮をむいて食べやすい輪切りやくし形にしたキウイフルーツ。グリーンの爽やかな酸味と、ゴールドのとろける甘さを手軽に楽しめます。カラフルな断面はお弁当やデザートプレートの彩りにもぴったりです。",
+   "image_brief": "Peeled green and golden kiwi slices arranged in alternating rows in a clear lidded plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ニュージーランド産 カットキウイ（グリーン） 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 カットキウイ（ゴールド） 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 カットキウイ グリーン＆ゴールド 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "国産 カットキウイ 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_kiwi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_kaki",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "お弁当",
+    "デザート",
+    "柿なます"
+   ],
+   "tax_rate": 8,
+   "description": "旬の甘柿の皮をむき、種を取って食べやすい大きさにカットしました。とろりとした甘さとほどよい歯ざわりが楽しめ、包丁を使わずすぐに味わえるので、ご年配の方や一人暮らしの方にもおすすめです。",
+   "image_brief": "Peeled orange persimmon wedges neatly arranged in a small clear lidded plastic tray, white studio background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 カット柿（富有） 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カット柿 個包装 約60g×2袋",
+     "brand": "",
+     "size": "約60g×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 カット柿＆りんご 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "奈良県産 カット柿（たねなし柿） 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "奈良県産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_kaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_pomegranate_arils",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "サラダ",
+    "ヨーグルト",
+    "スムージーボウル",
+    "肉料理のソース"
+   ],
+   "tax_rate": 8,
+   "description": "手間のかかるザクロの粒をひと粒ずつ取り出してカップに詰めました。ルビーのような粒が甘酸っぱくはじけ、サラダやヨーグルト、デザートにふりかけるだけで華やかな一皿に。そのままスプーンでも楽しめます。",
+   "image_brief": "A small clear round plastic cup filled with glistening ruby-red pomegranate arils, sealed lid, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "アメリカ産 ザクロ果粒 約80g",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "アメリカ産 ザクロ果粒 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トルコ産 ザクロ果粒 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 448,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "アメリカ産 ザクロ果粒 ミニカップ 約40g×3個",
+     "brand": "",
+     "size": "約40g×3個",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_pomegranate_arils_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_mango",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "ヨーグルト",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "完熟マンゴーの皮と種を取り除き、食べやすくカットしました。とろけるような果肉と濃厚な甘さ、南国の香りを手軽に楽しめます。そのままはもちろん、ヨーグルトやかき氷に添えて贅沢なデザートにどうぞ。",
+   "image_brief": "Golden-yellow mango cubes piled in a clear rectangular lidded container, glossy and juicy, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ペルー産 カットマンゴー 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "タイ産 カットマンゴー 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 448,
+     "origin": "タイ産"
+    },
+    {
+     "title": "メキシコ産 カットマンゴー 大容量 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "ペルー産 カットマンゴー＆パイン 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "ペルー産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_mango_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_pineapple_stick",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "おやつ",
+    "肉料理の付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟パイナップルを持ちやすいスティック状やハーフカットにしました。芯を取り除いてあるので手軽に食べられ、甘酸っぱい果汁がたっぷり。お弁当や運動後のリフレッシュ、酢豚の具材にも使えます。",
+   "image_brief": "Yellow pineapple spears standing in a tall clear plastic cup next to a half pineapple wrapped in film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フィリピン産 パインスティック 4本入",
+     "brand": "",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "フィリピン産 パインスティック 個包装 2本×3袋",
+     "brand": "",
+     "size": "2本×3袋",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "フィリピン産 パイナップル ハーフカット 芯抜き 1/2玉",
+     "brand": "",
+     "size": "1/2玉",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "コスタリカ産 パイナップル 1/4カット 1/4玉",
+     "brand": "",
+     "size": "1/4玉",
+     "price_tax_excluded": 248,
+     "origin": "コスタリカ産"
+    },
+    {
+     "title": "台湾産 カットパイン 一口サイズ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "台湾産"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_pineapple_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_cut_fruit_skewer",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "キウイフルーツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "おやつ",
+    "子ども会",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "いちごやメロン、パイナップル、ぶどうなどを彩りよくピックに刺したフルーツ串です。手が汚れずに食べられるので、ホームパーティーやお子さまのおやつ、取り分けにも便利。季節によって内容が変わります。",
+   "image_brief": "Colorful fruit skewers with strawberry, melon, pineapple and grape pieces lined up in a clear plastic tray, studio light.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産・輸入 フルーツ串 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 フルーツ串 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 798,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 フルーツ串 ミニ 10本入",
+     "brand": "",
+     "size": "10本入",
+     "price_tax_excluded": 980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 いちご入り フルーツ串 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 498,
+     "origin": "国産・輸入"
+    }
+   ],
+   "images": [
+    "w_fruit_cut_fruit_skewer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_fruit_party_platter",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "フルーツ盛り合わせ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "キウイフルーツ",
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ホームパーティー",
+    "クリスマス",
+    "お正月",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "旬のフルーツを食べやすくカットし、大皿に彩りよく盛り付けたパーティー用盛り合わせです。メロン、いちご、ぶどう、キウイ、オレンジなど華やかな内容で、テーブルの主役に。人数に合わせてサイズをお選びください。",
+   "image_brief": "A round black party platter covered with clear dome lid, filled with colorful cut melon, strawberries, grapes, kiwi and orange.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産・輸入 フルーツ盛り合わせ 2〜3人前 1皿",
+     "brand": "",
+     "size": "1皿",
+     "price_tax_excluded": 1480,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 フルーツ盛り合わせ 4〜5人前 1皿",
+     "brand": "",
+     "size": "1皿",
+     "price_tax_excluded": 2480,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 フルーツ盛り合わせ 8〜10人前 大皿 1皿",
+     "brand": "",
+     "size": "1皿",
+     "price_tax_excluded": 4980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 クリスマス フルーツ盛り合わせ 3〜4人前 1皿",
+     "brand": "",
+     "size": "1皿",
+     "price_tax_excluded": 1980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 フルーツ盛り合わせ 1人前 1カップ",
+     "brand": "",
+     "size": "1カップ",
+     "price_tax_excluded": 498,
+     "origin": "国産・輸入"
+    }
+   ],
+   "images": [
+    "w_fruit_fruit_party_platter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_fruit_basket",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "フルーツ盛り合わせ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お見舞い",
+    "お供え",
+    "法事",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "季節の果物を籐かごに美しく盛り付け、セロファンでラッピングした果物かごです。お見舞いやお供え、法事、お祝いなど大切な場面にふさわしい見栄え。メロンやりんご、柑橘、ぶどうなど旬の内容でお届けします。",
+   "image_brief": "A woven wicker basket heaped with whole melon, apples, oranges and grapes, wrapped in clear cellophane with a plain ribbon.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産・輸入 果物かご 盛り合わせ 小 1かご",
+     "brand": "",
+     "size": "1かご",
+     "price_tax_excluded": 3980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 果物かご 盛り合わせ 中 1かご",
+     "brand": "",
+     "size": "1かご",
+     "price_tax_excluded": 5980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 果物かご 盛り合わせ 大 1かご",
+     "brand": "",
+     "size": "1かご",
+     "price_tax_excluded": 9800,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 お供え 果物かご 1かご",
+     "brand": "",
+     "size": "1かご",
+     "price_tax_excluded": 4980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産・輸入 果物かご メロン入り 特選 1かご",
+     "brand": "",
+     "size": "1かご",
+     "price_tax_excluded": 12800,
+     "origin": "国産・輸入"
+    }
+   ],
+   "images": [
+    "w_fruit_fruit_basket_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_fruit_fruit_gift_assort",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "フルーツ盛り合わせ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お歳暮",
+    "贈答",
+    "帰省みやげ",
+    "お年賀"
+   ],
+   "tax_rate": 8,
+   "description": "冬が旬のりんご、ラ・フランス、みかん、柿などを化粧箱に詰め合わせたフルーツギフトです。いろいろな果物を少しずつ楽しめるので、ご家族の多いお宅へのお歳暮やお年賀、帰省の手土産にもおすすめです。",
+   "image_brief": "An open white gift box with compartments holding red apples, green-yellow pears, mandarins and persimmons, lid propped behind.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 冬のフルーツ詰め合わせ（りんご・ラ・フランス・みかん） 化粧箱 約2kg",
+     "brand": "",
+     "size": "化粧箱 約2kg",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 冬のフルーツ詰め合わせ（りんご・柿・みかん） 化粧箱 約3kg",
+     "brand": "",
+     "size": "化粧箱 約3kg",
+     "price_tax_excluded": 4980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 冬のフルーツ詰め合わせ 特選 化粧箱 約4kg",
+     "brand": "",
+     "size": "化粧箱 約4kg",
+     "price_tax_excluded": 7980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産・輸入 フルーツ詰め合わせ（メロン・りんご・柑橘） 化粧箱",
+     "brand": "",
+     "size": "化粧箱",
+     "price_tax_excluded": 6980,
+     "origin": "国産・輸入"
+    },
+    {
+     "title": "国産 柑橘詰め合わせ（みかん・ポンカン・不知火） 化粧箱 約3kg",
+     "brand": "",
+     "size": "化粧箱 約3kg",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_fruit_fruit_gift_assort_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

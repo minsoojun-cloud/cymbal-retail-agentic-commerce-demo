@@ -1,0 +1,3062 @@
+{
+ "category_key": "y_snack",
+ "items": [
+  {
+   "base_id": "y_snack_corn_puff_snack",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "コーンスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "持ち寄りパーティー",
+    "遠足"
+   ],
+   "tax_rate": 8,
+   "description": "とうもろこしを香ばしく焼き上げた、サクッと軽い食感のコーンスナックです。子どもに人気のコーンポタージュ味やチーズ味など、家族で選べる味をそろえました。休日のおやつや、友だちが集まる日のおもてなしにどうぞ。",
+   "image_brief": "A puffy pillow-shaped snack bag showing golden round corn puffs with a corn illustration and the Japanese label 'コーンスナック'.",
+   "variants": [
+    {
+     "title": "トップバリュ コーンスナック コーンポタージュ味 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンスナック チーズ味 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンスナック めんたい味 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス コーンスナック うすしお味 80g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "80g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンスナック コーンポタージュ味 大袋 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンスナック 3種アソート 小袋 15g×8袋",
+     "brand": "トップバリュ",
+     "size": "15g×8袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機コーンスナック 50g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_corn_puff_snack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_shrimp_crackers",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "えびせん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "子どものおやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "えびの香ばしい風味が広がる、ついつい手が止まらなくなるえびせんです。軽い塩味で子どものおやつにも、大人の晩酌のおつまみにもぴったり。小袋タイプはお出かけやお弁当のデザート代わりにも便利です。",
+   "image_brief": "A red-and-white snack bag with stacked pale orange shrimp crackers and a pink shrimp illustration, labeled 'えびせん'.",
+   "variants": [
+    {
+     "title": "トップバリュ えびせん 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス えびせん 大袋 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えびせん 小袋 15g×10袋",
+     "brand": "トップバリュ",
+     "size": "15g×10袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 瀬戸内産えび使用 えびせんべい 12枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "12枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（瀬戸内産えび使用）"
+    },
+    {
+     "title": "トップバリュ えびせん のり塩味 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えびせん わさび味 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 有頭えび使用 えびせん 香ばし焼き 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_shrimp_crackers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_pretzel",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "プレッツェル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "お弁当のデザート",
+    "持ち寄りパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと香ばしく焼き上げた細長いプレッツェルです。塩味やバター味はおやつはもちろん、ビールやワインのおともにも合います。チョコがけタイプは子どもと一緒に楽しめる甘い味わいです。",
+   "image_brief": "A slim upright carton box showing golden pretzel sticks fanned out, labeled 'プレッツェル'.",
+   "variants": [
+    {
+     "title": "トップバリュ プレッツェル スティック 塩味 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレッツェル スティック サラダ味 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレッツェル スティック バター味 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレッツェル ツイスト 塩味 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコがけ プレッツェル 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ プレッツェル スティック 小袋 16g×8袋",
+     "brand": "トップバリュ",
+     "size": "16g×8袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_pretzel_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_pea_snack",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "豆スナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "えんどう豆を生かして、サクッと軽く焼き上げた豆スナックです。素材の甘みにほどよい塩味がきいて、子どものおやつや晩酌のおつまみに人気。小袋タイプは食べきりやすく、おでかけにも便利です。",
+   "image_brief": "A green snack bag showing curved pea-shaped crunchy snacks with green peas illustration, labeled 'えんどう豆スナック'.",
+   "variants": [
+    {
+     "title": "トップバリュ えんどう豆スナック うすしお味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えんどう豆スナック のり塩味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えんどう豆スナック 梅味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えんどう豆スナック 大袋 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えんどう豆スナック 小袋 14g×6袋",
+     "brand": "トップバリュ",
+     "size": "14g×6袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ そら豆スナック うすしお味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_pea_snack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_high_cacao_chocolate",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "ハイカカオチョコレート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "コーヒータイム",
+    "仕事の合間",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの深い香りとほろ苦さを楽しめるハイカカオチョコレートです。カカオ分の違いで好みの苦みを選べ、個包装タイプは家事や仕事の合間のひと休みにちょうどいいサイズ。コーヒーや紅茶と一緒にどうぞ。",
+   "image_brief": "A dark brown flat box with individually wrapped dark chocolate squares and large '72%' text, labeled 'ハイカカオチョコレート'.",
+   "variants": [
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ72% 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ86% 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ95% 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ72% 個包装 大袋 225g",
+     "brand": "トップバリュ",
+     "size": "225g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ72% 板 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト シングルオリジン ハイカカオチョコレート エクアドル産カカオ70% 70g",
+     "brand": "トップバリュ セレクト",
+     "size": "70g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造（エクアドル産カカオ使用）"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ハイカカオチョコレート 70% 50g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "ドイツ製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_high_cacao_chocolate_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_almond_chocolate",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "アーモンドチョコレート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "来客",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしくローストしたアーモンドを、なめらかなチョコレートで包みました。カリッとした食感とミルクチョコの甘さが好相性で、家族みんなで楽しめる定番の味。ビターやホワイトなど味違いもそろっています。",
+   "image_brief": "A gold-and-brown box showing round chocolate-coated almonds with a cross-section revealing the nut, labeled 'アーモンドチョコレート'.",
+   "variants": [
+    {
+     "title": "トップバリュ アーモンドチョコレート 88g",
+     "brand": "トップバリュ",
+     "size": "88g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アーモンドチョコレート 大袋 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス アーモンドチョコレート 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビターアーモンドチョコレート 88g",
+     "brand": "トップバリュ",
+     "size": "88g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホワイトアーモンドチョコレート 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マカダミアナッツチョコレート 9粒入",
+     "brand": "トップバリュ",
+     "size": "9粒入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 丸ごとアーモンドのショコラ 12粒入",
+     "brand": "トップバリュ セレクト",
+     "size": "12粒入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_almond_chocolate_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_bag_chocolate_assortment",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "大袋チョコレート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ハロウィン",
+    "子ども会",
+    "来客",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズの個包装チョコレートがたっぷり入った大袋タイプです。家族で少しずつ分けやすく、来客時のお茶うけや子ども会の配り用にも便利。季節限定のアソートはハロウィンのお楽しみにもぴったりです。",
+   "image_brief": "A large stand-up bag filled with colorful individually wrapped bite-size chocolates spilling out, labeled '大袋 チョコレート'.",
+   "variants": [
+    {
+     "title": "トップバリュ 大袋 ミルクチョコレート 個包装 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大袋 アソートチョコレート 4種 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 大袋 ひとくちチョコレート 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大袋 クランチチョコレート 個包装 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大袋 いちごチョコレート 個包装 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大袋 抹茶チョコレート 個包装 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大袋 ハロウィン アソートチョコレート 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_bag_chocolate_assortment_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_cocoa_sandwich_cookie",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "サンドクッキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "牛乳と一緒に",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "ほろ苦いココアクッキーで、なめらかなクリームをサンドしました。牛乳と一緒に食べるのがおすすめで、子どものおやつに人気の定番です。小袋入りはお弁当のデザートや持ち歩きにも便利です。",
+   "image_brief": "A long cylindrical tray pack of black cocoa sandwich cookies with white cream filling visible, labeled 'ココアクッキーサンド'.",
+   "variants": [
+    {
+     "title": "トップバリュ ココアクッキーサンド バニラクリーム 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアクッキーサンド バニラクリーム 小袋 2枚×9パック",
+     "brand": "トップバリュ",
+     "size": "2枚×9パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアクッキーサンド いちごクリーム 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアクッキーサンド 抹茶クリーム 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ココアクッキーサンド バニラクリーム 12枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "12枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ ココアクッキーサンド 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_cocoa_sandwich_cookie_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_chocolate_pie",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "チョコパイ・ケーキ菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ティータイム",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりしたケーキ生地でクリームをはさみ、チョコレートでコーティングしたチョコパイです。ひとつずつ個包装なので、子どものおやつや家族のティータイムに取り分けやすいのが魅力。季節限定の栗味もご用意しました。",
+   "image_brief": "A red carton box showing a round chocolate-coated cake cut in half to reveal white cream, labeled 'チョコパイ'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコパイ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコパイ 12個入 大箱",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコパイ 抹茶 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコパイ いちご 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス チョコパイ 5個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコパイ 秋限定 栗 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_chocolate_pie_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_butter_cookies",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "クッキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "来客",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "バターの香りがふんわり広がる、サクサク食感のクッキーです。個包装タイプは来客時のお茶うけにも出しやすく、缶入りアソートはちょっとした手土産にもぴったり。紅茶やコーヒーと一緒にお楽しみください。",
+   "image_brief": "A cream-colored box with golden round butter cookies arranged in a fan and a butter pat illustration, labeled 'バタークッキー'.",
+   "variants": [
+    {
+     "title": "トップバリュ バタークッキー 個包装 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道バター使用 バタークッキー 12枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "12枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス バタークッキー 大袋 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ バタークッキー アソート 缶 24枚入",
+     "brand": "トップバリュ",
+     "size": "24枚入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ラングドシャ ホワイトチョコ 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サブレ 個包装 16枚入",
+     "brand": "トップバリュ",
+     "size": "16枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メープルクッキー 個包装 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_butter_cookies_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_chocolate_chip_cookies",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "チョコチップクッキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ティータイム",
+    "遠足"
+   ],
+   "tax_rate": 8,
+   "description": "チョコチップをたっぷり練り込んで焼き上げたクッキーです。ザクザク食感のハードタイプと、しっとりしたソフトタイプから選べます。子どものおやつや遠足のおともにも喜ばれる定番の味です。",
+   "image_brief": "A brown stand-up bag with chunky cookies studded with chocolate chips, one broken in half, labeled 'チョコチップクッキー'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコチップクッキー 個包装 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコチップクッキー 大袋 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ソフトチョコチップクッキー 8枚入",
+     "brand": "トップバリュ",
+     "size": "8枚入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ダブルチョコチップクッキー 個包装 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト ベルギーチョコチップクッキー 10枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（ベルギー産チョコレート使用）"
+    },
+    {
+     "title": "トップバリュ ベストプライス チョコチップクッキー 12枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "12枚入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_chocolate_chip_cookies_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_biscuits",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ビスケット"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "朝ごはん",
+    "牛乳と一緒に"
+   ],
+   "tax_rate": 8,
+   "description": "素朴でやさしい甘さのビスケットです。小分けパックで湿気にくく、子どものおやつや忙しい朝の軽い朝ごはんにも重宝します。動物の形のビスケットは小さな子どもにも人気です。",
+   "image_brief": "A yellow box showing round crisp milk biscuits stacked in small packs with a glass of milk, labeled 'ミルクビスケット'.",
+   "variants": [
+    {
+     "title": "トップバリュ ミルクビスケット 3枚×8パック",
+     "brand": "トップバリュ",
+     "size": "3枚×8パック",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉ビスケット 3枚×10パック",
+     "brand": "トップバリュ",
+     "size": "3枚×10パック",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ビスケット 大袋 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 動物ビスケット 小袋 14g×8袋",
+     "brand": "トップバリュ",
+     "size": "14g×8袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 胚芽ビスケット 2枚×12パック",
+     "brand": "トップバリュ",
+     "size": "2枚×12パック",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ココアビスケット 3枚×8パック",
+     "brand": "トップバリュ",
+     "size": "3枚×8パック",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_biscuits_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_crackers",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "クラッカー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "ホームパーティー",
+    "カナッペ"
+   ],
+   "tax_rate": 8,
+   "description": "サクッと軽い塩味のクラッカーです。そのまま食べるのはもちろん、クリームチーズやツナをのせてカナッペにすればホームパーティーの一品にも。チーズサンドタイプは子どものおやつにも好評です。",
+   "image_brief": "A rectangular blue carton with square golden crackers stacked in a row, labeled 'クラッカー'.",
+   "variants": [
+    {
+     "title": "トップバリュ クラッカー 3枚×9パック",
+     "brand": "トップバリュ",
+     "size": "3枚×9パック",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス クラッカー 12枚×3パック",
+     "brand": "トップバリュ ベストプライス",
+     "size": "12枚×3パック",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 全粒粉クラッカー 3枚×9パック",
+     "brand": "トップバリュ",
+     "size": "3枚×9パック",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チーズサンドクラッカー 6枚×4パック",
+     "brand": "トップバリュ",
+     "size": "6枚×4パック",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごま入り クラッカー 3枚×9パック",
+     "brand": "トップバリュ",
+     "size": "3枚×9パック",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 発酵バター香る クラッカー 20枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "20枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_crackers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_wafers",
+   "category_path": [
+    "お菓子・製菓",
+    "クッキー・ビスケット",
+    "ウエハース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "軽い食感の生地にクリームを重ねたウエハースです。バニラ・チョコ・いちごなど子どもに人気の味がそろい、個包装アソートは家族のおやつストックにも便利。チョコがけタイプは食べごたえがあります。",
+   "image_brief": "A pastel stand-up bag showing layered rectangular wafers in vanilla, chocolate and strawberry colors, labeled 'ウエハース'.",
+   "variants": [
+    {
+     "title": "トップバリュ バニラウエハース 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコウエハース 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごウエハース 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウエハース アソート 個包装 30枚入",
+     "brand": "トップバリュ",
+     "size": "30枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコがけウエハース 個包装 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ヘーゼルナッツクリーム ウエハース 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_wafers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_kaki_no_tane",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "柿の種"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "おやつ",
+    "お茶うけ",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛い柿の種と香ばしいピーナッツの定番の組み合わせです。小袋入りで食べきりやすく、晩酌のおつまみやお茶うけにぴったり。わさび味や梅しそ味など、味違いも楽しめます。",
+   "image_brief": "A stand-up bag with orange crescent-shaped rice crackers mixed with peanuts and small inner packets, labeled '柿の種'.",
+   "variants": [
+    {
+     "title": "トップバリュ 柿の種 ピーナッツ入り 30g×6袋",
+     "brand": "トップバリュ",
+     "size": "30g×6袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 柿の種 ピーナッツ入り 大袋 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 柿の種 わさび味 ピーナッツ入り 30g×6袋",
+     "brand": "トップバリュ",
+     "size": "30g×6袋",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 柿の種 梅しそ味 ピーナッツ入り 30g×6袋",
+     "brand": "トップバリュ",
+     "size": "30g×6袋",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 柿の種のみ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産米使用 柿の種 ピーナッツ入り 25g×8袋",
+     "brand": "トップバリュ セレクト",
+     "size": "25g×8袋",
+     "price_tax_excluded": 398,
+     "origin": "新潟県製造（新潟県産米使用）"
+    },
+    {
+     "title": "トップバリュ チョコがけ 柿の種 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_kaki_no_tane_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_okaki",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "おかき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "来客",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "国産もち米をついて焼き上げた、ザクッと歯ごたえのあるおかきです。しょうゆや塩などの定番に加え、のり巻きや黒豆入りなど種類も豊富。緑茶と一緒に、来客時のお茶うけや家族のおやつにどうぞ。",
+   "image_brief": "A clear-window bag showing thick golden soy-glazed rice crackers and seaweed-wrapped pieces, labeled 'おかき'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産もち米使用 しょうゆおかき 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造（国産もち米使用）"
+    },
+    {
+     "title": "トップバリュ 国産もち米使用 塩おかき 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造（国産もち米使用）"
+    },
+    {
+     "title": "トップバリュ 黒豆おかき 個包装 18枚入",
+     "brand": "トップバリュ",
+     "size": "18枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ のり巻きおかき 個包装 20個入",
+     "brand": "トップバリュ",
+     "size": "20個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ざらめおかき 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 手焼き風 割れおかき 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス おかき アソート 大袋 350g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_okaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_arare",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "あられ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "子どものおやつ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズで食べやすい、カリッと軽い食感のあられです。しょうゆ味や塩味、サラダ味などいろいろな味が楽しめ、家族のおやつやお茶うけに重宝します。小袋タイプは子どものおやつの取り分けにも便利です。",
+   "image_brief": "A bag showing small colorful bite-size rice cracker pieces in assorted shapes, labeled 'あられ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米使用 ひとくちあられ 6種アソート 個包装 220g",
+     "brand": "トップバリュ",
+     "size": "220g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（国産米使用）"
+    },
+    {
+     "title": "トップバリュ 小粒あられ しょうゆ味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げあられ 塩味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げあられ のり塩味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サラダあられ 小袋 20袋入",
+     "brand": "トップバリュ",
+     "size": "20袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス あられ ミックス 大袋 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_arare_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_gummy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "グミ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ドライブ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "果汁を使った、もちもち弾力のあるフルーツグミです。ぶどう・もも・レモンなどの果物の味が楽しめ、子どものおやつやお出かけのおともにぴったり。かみごたえのあるハードタイプもあります。",
+   "image_brief": "A resealable stand-up pouch with translucent purple grape-shaped gummies and fruit illustration, labeled 'フルーツグミ'.",
+   "variants": [
+    {
+     "title": "トップバリュ フルーツグミ ぶどう味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツグミ もも味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツグミ レモン味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハードグミ コーラ味 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フルーツグミ 4種アソート 個包装 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 果汁グミ 温州みかん 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機フルーツグミ 45g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "45g",
+     "price_tax_excluded": 178,
+     "origin": "ドイツ製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_gummy_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_fruit_candy",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "キャンディ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ドライブ",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "いろいろな果物の味が楽しめる、カラフルなキャンディです。個包装なのでバッグに入れておけば、お出かけ先や家事の合間のひと息にも。昔ながらのべっこう飴や黒糖あめもそろえました。",
+   "image_brief": "A clear bag filled with individually wrapped colorful fruit hard candies, labeled 'フルーツキャンディ'.",
+   "variants": [
+    {
+     "title": "トップバリュ フルーツキャンディ 5種アソート 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス フルーツキャンディ 大袋 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩レモンキャンディ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒糖キャンディ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ べっこう飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 棒付きキャンディ 20本入",
+     "brand": "トップバリュ",
+     "size": "20本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 金平糖 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_fruit_candy_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_nodo_ame",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "のど飴"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "常備おやつ",
+    "お出かけ",
+    "仕事の合間",
+    "ドライブ"
+   ],
+   "tax_rate": 8,
+   "description": "ハーブやはちみつレモンなど、すっきりとした味わいののど飴です。個包装でバッグやポケットに入れておきやすく、家族それぞれの好みに合わせて選べます。大袋のアソートは家庭の常備用にもおすすめです。",
+   "image_brief": "A green stand-up bag showing amber hard candies with herb leaves and lemon slices, labeled 'のど飴'.",
+   "variants": [
+    {
+     "title": "トップバリュ ハーブのど飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ はちみつレモンのど飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒糖しょうがのど飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 梅のど飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ノンシュガー ハーブのど飴 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ のど飴 4種アソート 大袋 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産かりん入り のど飴 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_nodo_ame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_milk_candy_caramel",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "ミルクキャンディ・キャラメル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "ティータイム",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "練乳や生乳のコクを生かした、まろやかな甘さのミルクキャンディとキャラメルです。いちごミルクや抹茶ミルクなど味のバリエーションも豊富。子どもから大人まで楽しめる、ほっとするやさしい味わいです。",
+   "image_brief": "A white-and-blue bag with creamy white individually wrapped milk candies and a milk bottle illustration, labeled 'ミルクキャンディ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道ミルクキャンディ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いちごミルクキャンディ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶ミルクキャンディ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーヒーミルクキャンディ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクキャンディ 大袋 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミルクキャラメル 12粒×3箱",
+     "brand": "トップバリュ",
+     "size": "12粒×3箱",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生キャラメル風 ソフトキャンディ 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_milk_candy_caramel_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_chewing_gum",
+   "category_path": [
+    "お菓子・製菓",
+    "ガム・ラムネ",
+    "ガム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ドライブ",
+    "仕事の合間",
+    "お出かけ",
+    "食後"
+   ],
+   "tax_rate": 8,
+   "description": "すっきり爽やかなミント系を中心にそろえたガムです。ボトルタイプは車やリビングに置いておけて、家族みんなで使えて便利。子どもが楽しめる風船ガムのアソートもあります。",
+   "image_brief": "A cylindrical plastic bottle of green mint chewing gum pellets next to a pellet pack, labeled 'ボトルガム ミント'.",
+   "variants": [
+    {
+     "title": "トップバリュ ボトルガム ミント 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ボトルガム グレープミント 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ボトルガム クリアミント 詰め替えパウチ 105g",
+     "brand": "トップバリュ",
+     "size": "105g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 板ガム ミント 9枚×3個",
+     "brand": "トップバリュ",
+     "size": "9枚×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 粒ガム ペパーミント 14粒×3個",
+     "brand": "トップバリュ",
+     "size": "14粒×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 粒ガム フルーツミント 14粒×3個",
+     "brand": "トップバリュ",
+     "size": "14粒×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 風船ガム 5種アソート 40個入",
+     "brand": "トップバリュ",
+     "size": "40個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_chewing_gum_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_mixed_nuts",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ミックスナッツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "サラダのトッピング",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンド・くるみ・カシューナッツなどをバランスよく合わせたミックスナッツです。素焼きタイプは素材そのものの香ばしさが楽しめ、サラダのトッピングや晩酌のおつまみにも活躍。小分けタイプは1日分ずつ取り出せて便利です。",
+   "image_brief": "A resealable stand-up pouch with a window showing mixed almonds, walnuts and cashews, labeled '素焼きミックスナッツ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼きミックスナッツ 3種 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産他（国内加工）"
+    },
+    {
+     "title": "トップバリュ 素焼きミックスナッツ 3種 小分け 25g×10袋",
+     "brand": "トップバリュ",
+     "size": "25g×10袋",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産他（国内加工）"
+    },
+    {
+     "title": "トップバリュ ベストプライス 素焼きミックスナッツ 徳用 700g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "700g",
+     "price_tax_excluded": 1580,
+     "origin": "アメリカ産他（国内加工）"
+    },
+    {
+     "title": "トップバリュ 有塩 ミックスナッツ マカダミア入り 4種 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産他（国内加工）"
+    },
+    {
+     "title": "トップバリュ セレクト 素焼き 6種ミックスナッツ 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産他（国内加工）"
+    },
+    {
+     "title": "トップバリュ ミックスナッツ&ドライフルーツ 小分け 28g×7袋",
+     "brand": "トップバリュ",
+     "size": "28g×7袋",
+     "price_tax_excluded": 548,
+     "origin": "アメリカ産他（国内加工）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_mixed_nuts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_almonds",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "アーモンド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "サラダのトッピング",
+    "お弁当のおかず"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと香ばしくローストしたアーモンドです。素焼きはそのままおやつにしたり、砕いてサラダや和え物のトッピングにしたりと幅広く使えます。小魚アーモンドは子どものおやつにも人気です。",
+   "image_brief": "A kraft-style stand-up pouch with a window showing whole roasted almonds, labeled '素焼きアーモンド'.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼きアーモンド 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 素焼きアーモンド 小分け 25g×10袋",
+     "brand": "トップバリュ",
+     "size": "25g×10袋",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ ベストプライス 素焼きアーモンド 徳用 600g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "600g",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 塩味アーモンド 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 小魚アーモンド 小分け 5g×20袋",
+     "brand": "トップバリュ",
+     "size": "5g×20袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ローストアーモンド 黒糖がけ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_almonds_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_walnuts",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "くるみ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "製菓",
+    "くるみ和え",
+    "サラダのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしくコクのあるくるみです。素焼きはそのままおやつに、生くるみはパンやお菓子作り、くるみ和えなどの料理にも使えます。キャラメルやメープルでコーティングした甘いタイプもあります。",
+   "image_brief": "A stand-up pouch with a window showing light brown walnut halves, labeled '素焼きくるみ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 素焼きくるみ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 素焼きくるみ 小分け 20g×7袋",
+     "brand": "トップバリュ",
+     "size": "20g×7袋",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ ベストプライス 素焼きくるみ 徳用 400g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "400g",
+     "price_tax_excluded": 1080,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 生くるみ 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ キャラメルくるみ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メープルくるみ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_walnuts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_peanuts",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ピーナッツ・落花生"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "おやつ",
+    "お茶うけ",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく煎り上げたピーナッツ・落花生です。バターピーナッツは晩酌の定番おつまみ、秋に出回る千葉県産の煎り落花生は豆本来の甘みが楽しめます。小分けタイプは食べ過ぎを防ぎたいときにも便利です。",
+   "image_brief": "A clear bag of shiny golden butter-roasted peanuts with a red label reading 'バターピーナッツ'.",
+   "variants": [
+    {
+     "title": "トップバリュ バターピーナッツ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ ベストプライス バターピーナッツ 大袋 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "トップバリュ 味付けピーナッツ 塩味 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "中国産（国内加工）"
+    },
+    {
+     "title": "トップバリュ ピーナッツ 小分け 10g×12袋",
+     "brand": "トップバリュ",
+     "size": "10g×12袋",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産（国内加工）"
+    },
+    {
+     "title": "千葉県産 落花生 殻付き 煎り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "千葉県産 落花生 むき 煎り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "千葉県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_peanuts_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_raisins",
+   "category_path": [
+    "お菓子・製菓",
+    "ドライフルーツ・干しいも",
+    "レーズン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "製菓",
+    "パン作り",
+    "朝ごはん",
+    "サラダのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "ぶどうの甘みがぎゅっと詰まったレーズンです。そのままおやつにはもちろん、ヨーグルトやグラノーラに加えて朝ごはんに、蒸しパンやキャロットラペなどの料理にも使えます。小分けタイプはお弁当のデザートにも便利です。",
+   "image_brief": "A resealable stand-up pouch with a window showing dark plump raisins, labeled 'カリフォルニアレーズン'.",
+   "variants": [
+    {
+     "title": "トップバリュ カリフォルニアレーズン 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ カリフォルニアレーズン 小分け 15g×10袋",
+     "brand": "トップバリュ",
+     "size": "15g×10袋",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ ベストプライス レーズン 徳用 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ オイルコーティングなし レーズン 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ サルタナレーズン 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機レーズン 150g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_raisins_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_dried_tropical_fruit",
+   "category_path": [
+    "お菓子・製菓",
+    "ドライフルーツ・干しいも",
+    "ドライフルーツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "製菓",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "果物の甘みと香りをぎゅっと凝縮したドライフルーツです。マンゴーやパイナップルなどの南国フルーツはそのままおやつに、刻んでヨーグルトやパウンドケーキに混ぜても楽しめます。ミックスタイプは少しずついろいろ味わえます。",
+   "image_brief": "A stand-up pouch with a window showing bright orange dried mango slices, labeled 'ドライマンゴー'.",
+   "variants": [
+    {
+     "title": "トップバリュ ドライマンゴー 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ ドライマンゴー 徳用 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ ドライパイナップル 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ ドライいちじく 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "トップバリュ ドライクランベリー 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ ミックスドライフルーツ 5種 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "タイ産他"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_dried_tropical_fruit_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_prunes",
+   "category_path": [
+    "お菓子・製菓",
+    "ドライフルーツ・干しいも",
+    "プルーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "ヨーグルトのトッピング",
+    "製菓"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりやわらかく、自然な甘みのあるプルーンです。ヨーグルトに添えて朝ごはんに、そのまま家族のおやつにもどうぞ。個包装タイプは持ち歩きや少しずつ食べたいときに便利です。",
+   "image_brief": "A purple resealable pouch with a window showing glossy dark pitted prunes, labeled '種ぬきプルーン'.",
+   "variants": [
+    {
+     "title": "トップバリュ 種ぬきプルーン 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 種ぬきプルーン 個包装 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 種ぬきプルーン 徳用 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ 種ありプルーン 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ ソフトプルーン 種ぬき 個包装 18個入",
+     "brand": "トップバリュ",
+     "size": "18個入",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機種ぬきプルーン 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_prunes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_hoshiimo",
+   "category_path": [
+    "お菓子・製菓",
+    "ドライフルーツ・干しいも",
+    "干しいも"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お茶うけ",
+    "トースターで焼いて"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいもを蒸して干し上げた、ねっとり甘い干しいもです。そのままでも、トースターで軽く焼けば香ばしさが増しておいしくいただけます。子どものおやつやお茶うけにぴったりの素朴な味わいです。",
+   "image_brief": "A clear bag showing amber translucent flat slices of dried sweet potato, labeled '干しいも 紅はるか'.",
+   "variants": [
+    {
+     "title": "茨城県産 干しいも 紅はるか 平切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "茨城県産 干しいも 紅はるか 丸干し 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 648,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "茨城県産 干しいも 紅はるか 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "静岡県産 干しいも 玉豊 平切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "トップバリュ 国産さつまいも使用 干しいも 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造（国産さつまいも使用）"
+    },
+    {
+     "title": "トップバリュ 国産 干しいも スティック 個包装 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造（国産さつまいも使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_hoshiimo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_daifuku",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "大福"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "来客",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかなお餅で、北海道産小豆のあんを包んだ大福です。赤えんどう豆入りの豆大福やよもぎ香る草大福、秋限定の栗大福など種類もいろいろ。緑茶と一緒に、ほっとひと息つきたいおやつの時間にどうぞ。",
+   "image_brief": "A clear plastic tray with two white rice cake daifuku dotted with red peas, one cut to show red bean paste, labeled '豆大福'.",
+   "variants": [
+    {
+     "title": "トップバリュ 豆大福 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 草大福 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩豆大福 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白大福 こしあん 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗大福 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち大福 個包装 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道十勝産小豆 豆大福 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（北海道十勝産小豆使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_daifuku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_dorayaki",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "どら焼き"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "子どものおやつ",
+    "来客"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり焼き上げた生地で、つぶあんをたっぷりはさんだどら焼きです。1個から買える手軽さで、家族のおやつやお茶うけにぴったり。栗入りや抹茶、ミニサイズの個包装タイプもそろっています。",
+   "image_brief": "A single individually wrapped golden-brown dorayaki pancake with red bean filling visible at the cut edge, labeled 'どら焼き'.",
+   "variants": [
+    {
+     "title": "トップバリュ どら焼き 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ どら焼き 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニどら焼き 個包装 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗どら焼き 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶どら焼き 1個",
+     "brand": "トップバリュ",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道十勝産小豆 どら焼き 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（北海道十勝産小豆使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_dorayaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_dango",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "団子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "お月見",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのお団子に、甘辛いみたらしあんやなめらかなこしあんを合わせました。三色団子や草団子など見た目にも楽しく、家族のおやつやお月見にもぴったり。食べやすいひとくちカップタイプもあります。",
+   "image_brief": "A clear plastic tray holding three skewers of glossy mitarashi dango coated in brown sweet soy glaze, labeled 'みたらし団子'.",
+   "variants": [
+    {
+     "title": "トップバリュ みたらし団子 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ みたらし団子 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こしあん団子 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 三色団子 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 草団子 つぶあん 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち みたらし団子 カップ 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 串団子 アソート（みたらし・こしあん）6本入",
+     "brand": "トップバリュ",
+     "size": "6本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_dango_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_yokan",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "羊羹"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "来客",
+    "おやつ",
+    "お出かけ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆を練り上げた、なめらかで上品な甘さのようかんです。切り分けて来客時のお茶うけにしたり、個包装のミニようかんを持ち歩いたりと使い方もいろいろ。栗ようかんや芋ようかんなど季節を感じる味もそろえました。",
+   "image_brief": "A long rectangular paper-wrapped bar of dark red bean yokan with a sliced piece shown in front, labeled '煉ようかん'.",
+   "variants": [
+    {
+     "title": "トップバリュ 煉ようかん 1本（280g）",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造（北海道産小豆使用）"
+    },
+    {
+     "title": "トップバリュ 栗ようかん 1本（280g）",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニようかん 煉 58g×5本",
+     "brand": "トップバリュ",
+     "size": "58g×5本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニようかん 3種アソート（煉・小倉・栗）10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水ようかん こしあん 83g×6個",
+     "brand": "トップバリュ",
+     "size": "83g×6個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 芋ようかん 5切入",
+     "brand": "トップバリュ",
+     "size": "5切入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道十勝産小豆 本煉ようかん 1本（350g）",
+     "brand": "トップバリュ セレクト",
+     "size": "350g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造（北海道十勝産小豆使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_yokan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_popcorn",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポップコーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おうち映画",
+    "子どものおやつ",
+    "持ち寄りパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくらはじけたポップコーンを、塩味やバターしょうゆ味、キャラメル味に仕上げました。おうちで映画を観るときのお供や、子どもたちが集まる日のおやつにぴったり。電子レンジで作るタイプは、できたての香ばしさが楽しめます。",
+   "image_brief": "A tall striped red-and-white bag showing fluffy white popcorn overflowing, labeled 'ポップコーン'.",
+   "variants": [
+    {
+     "title": "トップバリュ ポップコーン 塩味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポップコーン バターしょうゆ味 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポップコーン キャラメル味 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポップコーン 塩味 大袋 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポップコーン 塩味 小袋 15g×6袋",
+     "brand": "トップバリュ",
+     "size": "15g×6袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 電子レンジ用 ポップコーン 塩バター味 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_popcorn_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_dagashi_assortment",
+   "category_path": [
+    "お菓子・製菓",
+    "駄菓子・詰め合わせ",
+    "駄菓子詰め合わせ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子ども会",
+    "ハロウィン",
+    "おやつ",
+    "誕生日会",
+    "遠足"
+   ],
+   "tax_rate": 8,
+   "description": "いろいろな駄菓子やスナックを少しずつ詰め合わせたお楽しみセットです。子ども会や誕生日会の配り用、ハロウィンのお菓子交換にも便利。たくさんの種類から選べるので、子どもたちに喜ばれます。",
+   "image_brief": "A large clear gift bag filled with many colorful small dagashi snacks and candies tied with a ribbon, labeled 'お菓子詰め合わせ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 駄菓子 詰め合わせ 15種 30個入",
+     "brand": "トップバリュ",
+     "size": "30個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 駄菓子 詰め合わせ 25種 50個入",
+     "brand": "トップバリュ",
+     "size": "50個入",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ駄菓子 バラエティパック 40個入",
+     "brand": "トップバリュ",
+     "size": "40個入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン お菓子 詰め合わせ 個包装 20袋入",
+     "brand": "トップバリュ",
+     "size": "20袋入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 子ども会用 お菓子 詰め合わせ 10袋セット",
+     "brand": "トップバリュ",
+     "size": "10袋セット",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スナック菓子 詰め合わせ 小袋 8袋入",
+     "brand": "トップバリュ",
+     "size": "8袋入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_dagashi_assortment_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_baumkuchen_baked_sweets",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "バウムクーヘン・焼き菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "来客",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "しっとり焼き上げたバウムクーヘンや、バター香るマドレーヌ・フィナンシェなどの焼き菓子です。個包装で日持ちがするので、家族のおやつのストックや来客時のお茶うけに便利。コーヒーや紅茶とよく合います。",
+   "image_brief": "A box showing a ring-layered baumkuchen slice and individually wrapped mini cakes, labeled 'バウムクーヘン'.",
+   "variants": [
+    {
+     "title": "トップバリュ 個包装 バウムクーヘン 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハードバウムクーヘン 1個（約120g）",
+     "brand": "トップバリュ",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道バター使用 バウムクーヘン ホール 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶バウムクーヘン 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニバウムクーヘン チョコがけ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マドレーヌ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フィナンシェ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_baumkuchen_baked_sweets_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_castella",
+   "category_path": [
+    "お菓子・製菓",
+    "焼き菓子",
+    "カステラ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "来客",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "卵のやさしい風味としっとりきめ細かな生地が魅力のカステラです。切れているタイプなのでそのまま出せて、来客時のお茶うけや家族のおやつに便利。底のザラメのシャリッとした食感が楽しめるタイプもあります。",
+   "image_brief": "A long golden-yellow castella cake with brown top crust sliced into pieces in a clear tray, labeled '長崎カステラ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 長崎カステラ 5切入",
+     "brand": "トップバリュ",
+     "size": "5切入",
+     "price_tax_excluded": 398,
+     "origin": "長崎県製造"
+    },
+    {
+     "title": "トップバリュ 長崎カステラ 10切入",
+     "brand": "トップバリュ",
+     "size": "10切入",
+     "price_tax_excluded": 698,
+     "origin": "長崎県製造"
+    },
+    {
+     "title": "トップバリュ はちみつカステラ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶カステラ 5切入",
+     "brand": "トップバリュ",
+     "size": "5切入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカステラ 個包装 10個入",
+     "brand": "トップバリュ",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 長崎県製造 ザラメ入り カステラ 1本（約500g）",
+     "brand": "トップバリュ セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1280,
+     "origin": "長崎県製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_castella_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_karinto",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "かりんとう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "常備おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと揚げた生地に黒糖蜜をからめた、昔ながらのかりんとうです。白かりんとうや野菜入り、ごま入りなど味の違いも楽しめます。緑茶と一緒に、家族のお茶の時間にどうぞ。",
+   "image_brief": "A clear bag showing glossy dark brown sugar-coated karinto sticks with a brown label reading '黒糖かりんとう'.",
+   "variants": [
+    {
+     "title": "トップバリュ 黒糖かりんとう 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白かりんとう 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 野菜かりんとう 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごまかりんとう 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス かりんとう 大袋 330g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "330g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かりんとう 小袋 25g×6袋",
+     "brand": "トップバリュ",
+     "size": "25g×6袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_karinto_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_imo_kenpi",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "芋けんぴ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "細切りのさつまいもをカリッと揚げて、甘い蜜をからめた芋けんぴです。さつまいもの自然な甘みとカリカリ食感が子どもにも大人にも人気。塩けんぴや黒ごま入りなど、味の違いも楽しめます。",
+   "image_brief": "A clear bag showing thin golden sugar-glazed sweet potato sticks, labeled '芋けんぴ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産さつまいも使用 芋けんぴ 140g",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造（国産さつまいも使用）"
+    },
+    {
+     "title": "トップバリュ 国産さつまいも使用 芋けんぴ 徳用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造（国産さつまいも使用）"
+    },
+    {
+     "title": "トップバリュ 塩けんぴ 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒ごま 芋けんぴ 130g",
+     "brand": "トップバリュ",
+     "size": "130g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 芋けんぴ 小袋 25g×6袋",
+     "brand": "トップバリュ",
+     "size": "25g×6袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "高知県産さつまいも使用 芋けんぴ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "高知県製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_imo_kenpi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_marshmallow",
+   "category_path": [
+    "お菓子・製菓",
+    "グミ・キャンディ",
+    "マシュマロ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "バーベキュー",
+    "ホットココア"
+   ],
+   "tax_rate": 8,
+   "description": "ふわふわとやわらかい食感のマシュマロです。そのまま食べるのはもちろん、ホットココアに浮かべたり、バーベキューで焼きマシュマロにしたりと楽しみ方いろいろ。チョコ入りタイプは子どもに人気です。",
+   "image_brief": "A clear pillow bag filled with soft white and pink marshmallows, labeled 'マシュマロ'.",
+   "variants": [
+    {
+     "title": "トップバリュ マシュマロ プレーン 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マシュマロ いちご 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコinマシュマロ 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニマシュマロ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きマシュマロ用 大粒 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マシュマロ ミックス 3種 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_marshmallow_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_snack_manju",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "まんじゅう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "来客",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "しっとりした皮でなめらかなあんを包んだまんじゅうです。栗入りの栗まんじゅうや黒糖の温泉まんじゅう、皮が薄くあんがたっぷりの薄皮まんじゅうなど種類も豊富。緑茶と合わせて、来客時や家族のおやつにどうぞ。",
+   "image_brief": "A box showing glossy brown baked chestnut manju with one cut to reveal white bean paste and chestnut, labeled '栗まんじゅう'.",
+   "variants": [
+    {
+     "title": "トップバリュ 栗まんじゅう 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 温泉まんじゅう 黒糖 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 酒まんじゅう 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮まんじゅう つぶあん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 薄皮まんじゅう こしあん 5個入",
+     "brand": "トップバリュ",
+     "size": "5個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ひとくち 黒糖まんじゅう 個包装 12個入",
+     "brand": "トップバリュ",
+     "size": "12個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_snack_manju_p.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3545 @@
+{
+ "category_key": "w_curry_nabe_retort",
+ "items": [
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_amakuchi",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "りんご",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カレーうどん",
+    "カレードリア"
+   ],
+   "tax_rate": 8,
+   "description": "辛さを抑えた甘口のカレールウです。じっくり炒めた玉ねぎとフルーツの甘みでまろやかに仕上げ、小さなお子さまから大人まで家族みんなで楽しめます。割れやすいブロックタイプで量の調整も簡単です。",
+   "image_brief": "A rectangular yellow-and-orange cardboard box of mild curry roux with a plain blank label panel, a few roux blocks in a plastic tray shown beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレールウ 甘口 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレールウ 甘口 大箱 16皿分 320g",
+     "brand": "Cymbal",
+     "size": "16皿分 320g",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレールウ 甘口 10皿分 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "10皿分 200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 完熟果実仕込み カレールウ 甘口 8皿分 170g",
+     "brand": "Cymbal セレクト",
+     "size": "8皿分 170g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 まろやか甘口カレー 12皿分 240g",
+     "brand": "ソラノ食品",
+     "size": "12皿分 240g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_amakuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_karakuchi",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カツカレー",
+    "カレー南蛮"
+   ],
+   "tax_rate": 8,
+   "description": "唐辛子と黒こしょうを効かせた辛口のカレールウ。スパイスの立ち上がりが良く、後を引くキレのある辛さが特長です。牛肉や豚肉のカレーはもちろん、カツカレーにもよく合い、辛いもの好きの方におすすめです。",
+   "image_brief": "A rectangular deep red cardboard box of hot curry roux with a blank label area, dark brown roux blocks partially visible in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレールウ 辛口 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレールウ 辛口 大箱 16皿分 320g",
+     "brand": "Cymbal",
+     "size": "16皿分 320g",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレールウ 辛口 10皿分 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "10皿分 200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 粗挽きスパイス カレールウ 辛口 8皿分 170g",
+     "brand": "Cymbal セレクト",
+     "size": "8皿分 170g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 キリッと辛口カレー 12皿分 240g",
+     "brand": "ソラノ食品",
+     "size": "12皿分 240g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_karakuchi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_koku",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ビーフカレー",
+    "ポークカレー",
+    "焼きカレー",
+    "カレーパン"
+   ],
+   "tax_rate": 8,
+   "description": "ブイヨンとローストオニオン、焦がしバターのコクを重ねた濃厚タイプのカレールウです。煮込むほどに深みが増し、まるで二日目のような味わいに。中辛・甘口から選べ、ご飯がすすむしっかりとした味が好きな方に。",
+   "image_brief": "A dark brown and gold cardboard box of rich curry roux with a plain blank label window, glossy roux blocks in a tray beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト コク深カレールウ 中辛 8皿分 180g",
+     "brand": "Cymbal セレクト",
+     "size": "8皿分 180g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト コク深カレールウ 辛口 8皿分 180g",
+     "brand": "Cymbal セレクト",
+     "size": "8皿分 180g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal こく旨カレールウ 中辛 10皿分 200g",
+     "brand": "Cymbal",
+     "size": "10皿分 200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal こく旨カレールウ 甘口 10皿分 200g",
+     "brand": "Cymbal",
+     "size": "10皿分 200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 熟成コクのカレー 中辛 12皿分 240g",
+     "brand": "ソラノ食品",
+     "size": "12皿分 240g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_koku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_apple_honey",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "チキンカレー",
+    "カレーグラタン"
+   ],
+   "tax_rate": 8,
+   "description": "すりおろしりんごとはちみつのやさしい甘みを溶け込ませたカレールウ。とろりとまろやかな口あたりで、辛さが苦手な方やお子さまのいるご家庭の定番にぴったりです。中辛でも食べやすい、ほっとする家庭の味です。",
+   "image_brief": "A pale yellow cardboard box of apple-and-honey style curry roux with a blank label, a red apple and a small honey dipper placed beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal りんごとはちみつのカレールウ 甘口 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごとはちみつのカレールウ 中辛 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごとはちみつのカレールウ 辛口 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごとはちみつのカレールウ 甘口 大箱 16皿分 320g",
+     "brand": "Cymbal",
+     "size": "16皿分 320g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 はちみつりんごカレー 中辛 12皿分 240g",
+     "brand": "ソラノ食品",
+     "size": "12皿分 240g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_apple_honey_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_spicy_dark",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ビーフカレー",
+    "キーマカレー",
+    "カツカレー"
+   ],
+   "tax_rate": 8,
+   "description": "焙煎香辛料をたっぷり使った、スパイシーでビターな大人のカレールウです。深く焙煎したカレー粉の香ばしさとシャープな辛さが特長で、ゴロッとした牛肉と合わせれば色濃く香り高い本格派の一皿に仕上がります。",
+   "image_brief": "A black and dark green cardboard box of spicy dark curry roux with a blank label area, very dark brown roux blocks in a tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スパイシー黒カレールウ 中辛 8皿分 170g",
+     "brand": "Cymbal",
+     "size": "8皿分 170g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイシー黒カレールウ 辛口 8皿分 170g",
+     "brand": "Cymbal",
+     "size": "8皿分 170g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイシー黒カレールウ 大辛 8皿分 170g",
+     "brand": "Cymbal",
+     "size": "8皿分 170g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スパイシー黒カレールウ 中辛 大箱 16皿分 340g",
+     "brand": "Cymbal",
+     "size": "16皿分 340g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier 焙煎ブラックカレー 辛口 10皿分 200g",
+     "brand": "Spice Atelier",
+     "size": "10皿分 200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_spicy_dark_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_flake",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カレーうどん",
+    "カレーチャーハン",
+    "カレースープ"
+   ],
+   "tax_rate": 8,
+   "description": "細かいフレーク状で溶けやすく、必要な分だけ振り入れて使えるカレーフレークです。少量のカレーうどんや炒め物の味付けにも便利で、ダマになりにくいのが魅力。チャック付きの袋と瓶タイプがあり保存もしやすい。",
+   "image_brief": "A stand-up kraft paper pouch with a zipper and a clear window showing golden-brown curry flakes, plus a small glass jar of flakes, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレーフレーク 中辛 チャック袋 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレーフレーク 甘口 チャック袋 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレーフレーク 辛口 チャック袋 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風カレーフレーク 瓶 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier 顆粒カレーフレーク 中辛 1kg",
+     "brand": "Spice Atelier",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_flake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_allergen_free",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "カレーうどん",
+    "野菜カレー"
+   ],
+   "tax_rate": 8,
+   "description": "特定原材料等28品目を使わずに作ったカレールウです。米粉でとろみをつけ、野菜とスパイスのうまみでやさしい味わいに仕上げました。食物アレルギーが気になるご家庭や、みんなで同じカレーを囲みたい日に。",
+   "image_brief": "A white and soft green cardboard box of allergen-free curry roux with a plain blank label, light brown roux blocks in a tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 特定原材料不使用 カレールウ 甘口 6皿分 115g",
+     "brand": "Cymbal",
+     "size": "6皿分 115g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 特定原材料不使用 カレールウ 中辛 6皿分 115g",
+     "brand": "Cymbal",
+     "size": "6皿分 115g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 特定原材料不使用 米粉カレールウ フレーク 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグハグキッチン 米粉でつくったカレールウ 甘口 8皿分 150g",
+     "brand": "ハグハグキッチン",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_allergen_free_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_vegetable_only",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "野菜カレー",
+    "豆カレー",
+    "きのこカレー",
+    "ベジカレー"
+   ],
+   "tax_rate": 8,
+   "description": "動物性原料を使わず、野菜と植物性油脂、スパイスだけで仕上げたカレールウ。トマトと玉ねぎの甘みが広がるすっきりとした後味で、豆や根菜、きのこをたっぷり入れたベジカレーにおすすめです。",
+   "image_brief": "A recycled-look beige cardboard box of plant-based curry roux with a blank label, a carrot and an onion placed beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機野菜でつくったカレールウ 中辛 8皿分 160g",
+     "brand": "Cymbal オーガニック",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜でつくったカレールウ 甘口 8皿分 160g",
+     "brand": "Cymbal オーガニック",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 野菜だけのカレールウ 中辛 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミドリノ畑 プラントベース カレールウ 辛口 6皿分 120g",
+     "brand": "ミドリノ畑",
+     "size": "6皿分 120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_vegetable_only_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_lowfat",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "チキンカレー",
+    "カレースープ"
+   ],
+   "tax_rate": 8,
+   "description": "油脂分を控えめにしながら、スパイスとだしのうまみでしっかり満足感のある味に仕上げたカレールウ。軽い食べ口で、夜遅めの夕食や野菜たっぷりのヘルシーカレーにもぴったり。顆粒タイプは溶けやすく便利です。",
+   "image_brief": "A white and light blue cardboard box of reduced-fat curry roux with a plain label, light golden roux granules in a small glass bowl beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 脂質控えめ カレールウ 中辛 8皿分 140g",
+     "brand": "Cymbal",
+     "size": "8皿分 140g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 脂質控えめ カレールウ 甘口 8皿分 140g",
+     "brand": "Cymbal",
+     "size": "8皿分 140g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 脂質控えめ 顆粒カレー 中辛 6皿分 120g",
+     "brand": "Cymbal",
+     "size": "6皿分 120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 油控えめカレー 辛口 10皿分 180g",
+     "brand": "ソラノ食品",
+     "size": "10皿分 180g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_lowfat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_european",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ビーフカレー",
+    "欧風カレー",
+    "焼きカレー",
+    "カレードリア"
+   ],
+   "tax_rate": 8,
+   "description": "牛脂と生クリーム、炒め小麦粉をじっくり焦がして作ったブラウンルウに、マンゴーチャツネの甘みを合わせた欧風カレールウ。とろみがありつややかで、ホテルのビーフカレーのような上品な味わいを家庭で楽しめます。",
+   "image_brief": "An elegant burgundy and gold cardboard box of European-style curry roux with a blank label, a white plate of glossy beef curry and rice beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 欧風ビーフカレールウ 中辛 6皿分 150g",
+     "brand": "Cymbal セレクト",
+     "size": "6皿分 150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風ビーフカレールウ 辛口 6皿分 150g",
+     "brand": "Cymbal セレクト",
+     "size": "6皿分 150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風カレールウ 生クリーム仕立て 甘口 6皿分 150g",
+     "brand": "Cymbal セレクト",
+     "size": "6皿分 150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グランメゾン・ソラ 洋食屋の欧風カレールウ 中辛 8皿分 200g",
+     "brand": "グランメゾン・ソラ",
+     "size": "8皿分 200g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 欧風ビーフカレールウ 中辛 2箱パック 12皿分 300g",
+     "brand": "Cymbal セレクト",
+     "size": "12皿分 300g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_european_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_roux_gekikara",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "激辛カレー",
+    "カレーうどん",
+    "スパイスチャレンジ"
+   ],
+   "tax_rate": 8,
+   "description": "ハバネロとカイエンペッパーを効かせた激辛カレールウ。最初からガツンと来る刺激とスパイスの香りが楽しめ、汗をかきながら食べたい辛党の方向けです。辛さのレベル違いで選べ、通常のルウに混ぜて辛さ調整にも使えます。",
+   "image_brief": "A fiery red and black cardboard box of extra-hot curry roux with a blank label, a few dried red chili peppers placed beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 激辛カレールウ 10倍辛 6皿分 120g",
+     "brand": "Cymbal",
+     "size": "6皿分 120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 激辛カレールウ 20倍辛 6皿分 120g",
+     "brand": "Cymbal",
+     "size": "6皿分 120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 激辛カレールウ 30倍辛 6皿分 120g",
+     "brand": "Cymbal",
+     "size": "6皿分 120g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier ハバネロ激辛カレールウ 8皿分 160g",
+     "brand": "Spice Atelier",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_roux_gekikara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_keema_curry_base",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "キーマ・ドライカレーの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "キーマカレー",
+    "ドライカレー",
+    "カレーオムライス",
+    "カレーピラフ"
+   ],
+   "tax_rate": 8,
+   "description": "ひき肉と炒めるだけで本格的なキーマカレーが作れる調味ソースです。トマトと香味野菜、ガラムマサラを効かせ、汁気少なめでご飯にからむ仕上がりに。忙しい日の時短メニューやお弁当にもおすすめです。",
+   "image_brief": "A small rectangular paper box holding retort sauce pouches for keema curry with blank labels, a plate of minced-meat keema curry with rice beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キーマカレーの素 中辛 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キーマカレーの素 甘口 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ドライカレーの素 炒めるだけ 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier スパイスキーマカレーの素 辛口 3〜4人前 120g",
+     "brand": "Spice Atelier",
+     "size": "3〜4人前 120g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 粗挽きスパイス キーマカレーの素 2人前×2袋",
+     "brand": "Cymbal セレクト",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_keema_curry_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_butter_chicken_base",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "インドカレーの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "カシューナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "バターチキンカレー",
+    "ナン",
+    "タンドリーチキン"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉を煮込むだけで、バターとトマト、カシューナッツペーストのコク深いバターチキンカレーが完成するソースです。まろやかでほんのり甘く、辛さ控えめ。ナンやサフランライスと合わせてお店気分の食卓に。",
+   "image_brief": "A stand-up retort pouch with a plain blank label next to a copper bowl of orange butter chicken curry and a piece of naan, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バターチキンカレーの素 2〜3人前 180g",
+     "brand": "Cymbal",
+     "size": "2〜3人前 180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バターチキンカレーの素 2袋パック 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier 本格バターチキンカレーソース 3〜4人前 250g",
+     "brand": "Spice Atelier",
+     "size": "3〜4人前 250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier スパイシーチキンティッカマサラの素 3〜4人前 250g",
+     "brand": "Spice Atelier",
+     "size": "3〜4人前 250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier ほうれん草のサグカレーの素 2〜3人前 200g",
+     "brand": "Spice Atelier",
+     "size": "2〜3人前 200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_butter_chicken_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_soup_curry_base",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "スープカレーの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "えび"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "スープカレー",
+    "チキンレッグのスープカレー",
+    "野菜スープカレー"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラとえびのだし、十数種類のスパイスを合わせたさらりとしたスープカレーの素。素揚げした野菜や骨付きチキンを加えれば、北海道の専門店のような一皿に。体が温まり、寒い季節にもおすすめです。",
+   "image_brief": "A stand-up retort pouch with a blank label beside a deep bowl of reddish-brown soup curry with a chicken leg and colorful grilled vegetables, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スープカレーの素 中辛 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スープカレーの素 辛口 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト えびだしスープカレーの素 3人前 300g",
+     "brand": "Cymbal セレクト",
+     "size": "3人前 300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクセツ食品 札幌スタイル スープカレーの素 ペースト 4人前 160g",
+     "brand": "ホクセツ食品",
+     "size": "4人前 160g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スープカレーの素 ストレート 1人前 300g",
+     "brand": "Cymbal",
+     "size": "1人前 300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_soup_curry_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_udon_base",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレーうどんの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "カレーうどん",
+    "カレーそば",
+    "カレー南蛮",
+    "カレー丼"
+   ],
+   "tax_rate": 8,
+   "description": "かつおとさばのだしを効かせた和風のカレーうどんの素。うどんと具材を温めて加えるだけで、とろみのある本格的なおそば屋さんの味に。ご飯にかけて和風カレー丼にしても美味しく、寒い日のお昼におすすめです。",
+   "image_brief": "A small paper box containing retort pouches with blank labels beside a bowl of thick udon in glossy Japanese curry broth topped with green onion, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレーうどんの素 中辛 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレーうどんの素 甘口 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレーうどんの素 1人前×2袋",
+     "brand": "Cymbal ベーシック",
+     "size": "1人前×2袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 そば屋のカレー南蛮つゆ 2人前 400g",
+     "brand": "ミナト屋本舗",
+     "size": "2人前 400g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_udon_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_seasoning_aid",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレー用調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレーライス",
+    "ハヤシライス",
+    "ビーフシチュー",
+    "キーマカレー"
+   ],
+   "tax_rate": 8,
+   "description": "いつものカレーに加えるだけで、ワンランク上の味わいに変わる隠し味調味料。フルーツチャツネ、ガラムマサラ、焙煎オニオンペーストなどを揃えました。仕上げに少量加えて、香りやコク、甘みをお好みに調整できます。",
+   "image_brief": "A small group of seasoning containers with blank labels: a glass jar of dark fruit chutney, a small spice tin and a squeeze tube of onion paste, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレーの隠し味 フルーツチャツネ 瓶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 仕上げ用 ガラムマサラ 缶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 飴色玉ねぎペースト チューブ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Spice Atelier カレーにひと振り スパイスミックス 30g",
+     "brand": "Spice Atelier",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレー用 ブイヨンペースト 個包装 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_seasoning_aid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_beef_stew_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "シチュールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "煮込みハンバーグ",
+    "オムハヤシ",
+    "タンシチュー"
+   ],
+   "tax_rate": 8,
+   "description": "赤ワインとデミグラスのコクを生かしたビーフシチュールウ。牛肉とたっぷりの野菜をじっくり煮込めば、深いブラウンのつややかなシチューに。ハンバーグの煮込みソースにも使え、記念日やおもてなしにもぴったりです。",
+   "image_brief": "A dark brown and wine-red cardboard box of beef stew roux with a blank label, a ceramic bowl of beef stew with carrots and potatoes beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビーフシチュールウ 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフシチュールウ 大箱 16皿分 320g",
+     "brand": "Cymbal",
+     "size": "16皿分 320g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ビーフシチュールウ 8皿分 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 赤ワイン仕込み ビーフシチュールウ 6皿分 150g",
+     "brand": "Cymbal セレクト",
+     "size": "6皿分 150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グランメゾン・ソラ 洋食屋のデミグラスシチュールウ 8皿分 180g",
+     "brand": "グランメゾン・ソラ",
+     "size": "8皿分 180g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_beef_stew_roux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_gratin_white_sauce_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "グラタン・ホワイトソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "マカロニグラタン",
+    "ドリア",
+    "クリームコロッケ",
+    "ラザニア"
+   ],
+   "tax_rate": 8,
+   "description": "牛乳を加えて混ぜるだけで、なめらかなホワイトソースが作れるグラタン用ルウです。ダマになりにくいフレークタイプで、マカロニグラタンやドリア、クリームコロッケのベースにも重宝。寒い季節のオーブン料理に。",
+   "image_brief": "A white and cream cardboard box of gratin white sauce roux with a blank label, a small oval baking dish of golden-browned macaroni gratin beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal グラタンの素 ホワイトソースルウ 4皿分×2袋",
+     "brand": "Cymbal",
+     "size": "4皿分×2袋",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ドリアの素 チーズ仕立て 3皿分×2袋",
+     "brand": "Cymbal",
+     "size": "3皿分×2袋",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホワイトソースフレーク 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産生クリーム入り グラタンルウ 4皿分 90g",
+     "brand": "Cymbal セレクト",
+     "size": "4皿分 90g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マカロニ付き グラタンセット 2皿分×2回",
+     "brand": "Cymbal",
+     "size": "2皿分×2回",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_gratin_white_sauce_roux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_tomato_stew_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "シチュールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "トマトシチュー",
+    "ロールキャベツ",
+    "チキンのトマト煮",
+    "ミネストローネ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトの酸味とうまみを生かした、さっぱり味のトマトシチュールウ。チキンや豚肉、キャベツと煮込めば彩りのよい一皿に仕上がります。ロールキャベツの煮込みにも便利で、クリーム系とはまた違う味わいを楽しめます。",
+   "image_brief": "A bright tomato-red cardboard box of tomato stew roux with a blank label, a bowl of red tomato stew with chicken and vegetables beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トマトシチュールウ 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマトクリームシチュールウ 8皿分 160g",
+     "brand": "Cymbal",
+     "size": "8皿分 160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 完熟トマトのボルシチ風シチュールウ 6皿分 140g",
+     "brand": "Cymbal セレクト",
+     "size": "6皿分 140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 ロールキャベツの素 トマト味 4人前 2袋",
+     "brand": "ソラノ食品",
+     "size": "4人前 2袋",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_tomato_stew_roux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_stew_on_rice_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "シチュールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "シチューオンライス",
+    "クリーム煮",
+    "チキンフリカッセ"
+   ],
+   "tax_rate": 8,
+   "description": "ご飯にかけて美味しいよう、濃いめの味付けと強めのとろみに仕上げたごはんにかけるシチュー用ルウ。チーズや焦がし醤油のコクが加わり、カレーのように一皿で満足できる献立に。クリーム・チーズ・ビーフの3タイプです。",
+   "image_brief": "A cardboard box of rice-topping stew roux in creamy white and orange with a blank label, a plate of rice half-covered with thick creamy stew beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごはんにかけるクリームシチュールウ 8皿分 150g",
+     "brand": "Cymbal",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごはんにかけるチーズシチュールウ 8皿分 150g",
+     "brand": "Cymbal",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごはんにかけるビーフシチュールウ 8皿分 150g",
+     "brand": "Cymbal",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごはんにかけるクリームシチュールウ 焦がし醤油仕立て 8皿分 150g",
+     "brand": "Cymbal",
+     "size": "8皿分 150g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_stew_on_rice_roux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_pot_au_feu_base",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "ポトフ・洋風煮込みの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ポトフ",
+    "ポークビーンズ",
+    "洋風おでん",
+    "チキンのクリーム煮"
+   ],
+   "tax_rate": 8,
+   "description": "ソーセージと大きく切った野菜を煮込むだけで、やさしい味わいの洋風煮込みに仕上がる素です。ブイヨンにハーブを効かせたポトフ、白ワイン香るクリーム煮など、寒い日に体の芯から温まる一品が手軽に作れます。",
+   "image_brief": "A small paper box with seasoning sachets with blank labels beside an enamel pot of pot-au-feu with sausages, cabbage wedges, carrots and potatoes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポトフの素 顆粒 4人前×2袋",
+     "brand": "Cymbal",
+     "size": "4人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏のクリーム煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポークビーンズの素 トマト味 3〜4人前 1袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前 1袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハーブ香る ポトフスープの素 ストレート 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソラノ食品 洋風おでんの素 コンソメ仕立て 4人前×2袋",
+     "brand": "ソラノ食品",
+     "size": "4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_pot_au_feu_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_hayashi_demi_flake",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "ハヤシ・デミグラスの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "オムハヤシ",
+    "煮込みハンバーグ",
+    "ハッシュドビーフ",
+    "デミグラスオムライス"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉と玉ねぎを炒めて煮込むだけで、とろりとしたハッシュドビーフが作れる顆粒タイプのデミグラスソースの素。溶けやすく少量から使え、煮込みハンバーグやオムライスのソースにも重宝します。",
+   "image_brief": "A stand-up zipper pouch of dark brown demi-glace granules with a blank label, beside a plate of hashed beef over rice with a fluffy omelet, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 顆粒デミグラスソースの素 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハッシュドビーフの素 フレーク 6皿分 130g",
+     "brand": "Cymbal",
+     "size": "6皿分 130g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮込みハンバーグの素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "グランメゾン・ソラ 洋食屋のデミグラスソース 缶 290g",
+     "brand": "グランメゾン・ソラ",
+     "size": "290g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_hayashi_demi_flake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_miso_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "みそ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "みそ鍋",
+    "豚肉と白菜の鍋",
+    "〆のラーメン",
+    "牡蠣鍋"
+   ],
+   "tax_rate": 8,
+   "description": "合わせみそにかつおと昆布のだし、すりごまと生姜を加えたみそ鍋つゆ。豚肉やきのこ、たっぷりの野菜とよく合い、コクのある濃厚スープが体を温めます。〆は中華麺やうどんで、最後の一滴まで楽しめます。",
+   "image_brief": "A stand-up plastic hot pot soup pouch with a spout and a plain blank label, an earthenware donabe of miso hot pot with pork and cabbage beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal みそ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック みそ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 赤みそ仕立て みそ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 信州みそと生姜の鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal みそ鍋つゆ 濃縮 6〜8人前 300ml",
+     "brand": "Cymbal",
+     "size": "6〜8人前 300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_miso_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_shio_chanko_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "塩ちゃんこ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "塩ちゃんこ鍋",
+    "鶏つみれ鍋",
+    "〆の塩ラーメン",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラと昆布のうまみに、にんにくとごま油を効かせた透き通る塩味のちゃんこ鍋つゆ。鶏つみれや白菜、ニラなどの具材の味を引き立て、あっさりなのにしっかり満足感があります。〆は塩ラーメンや雑炊でどうぞ。",
+   "image_brief": "A clear stand-up spouted pouch of pale golden salt-based chanko hot pot soup with a blank label, beside a donabe with chicken meatballs, cabbage and chives, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩ちゃんこ鍋つゆ ストレート 大容量 5〜6人前 1.2kg",
+     "brand": "Cymbal",
+     "size": "5〜6人前 1.2kg",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 相撲部屋風 鶏塩ちゃんこ鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "鍋屋とうべえ にんにく塩ちゃんこ鍋つゆ 3〜4人前 750g",
+     "brand": "鍋屋とうべえ",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_shio_chanko_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_motsu_nabe_shoyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "もつ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "ニラ鍋",
+    "〆のちゃんぽん麺",
+    "豚バラ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "牛脂と鶏ガラのコクに、にんにくと唐辛子をきかせた博多風のしょうゆ味もつ鍋つゆ。牛もつ、キャベツ、ニラを入れて煮るだけで専門店のような味わいに。もつの代わりに豚バラでも美味しく、〆はちゃんぽん麺がおすすめ。",
+   "image_brief": "A stand-up spouted pouch of amber soy-based offal hot pot soup with a blank label, beside a shallow pot with beef offal, cabbage, garlic chives and sliced garlic, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal もつ鍋つゆ しょうゆ味 ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多風 もつ鍋つゆ あごだし醤油 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もつ鍋つゆ 濃縮 しょうゆ味 2〜3人前×3袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "鍋屋とうべえ にんにく醤油もつ鍋スープ 3〜4人前 800g",
+     "brand": "鍋屋とうべえ",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_motsu_nabe_shoyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_motsu_nabe_miso",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "もつ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "もつ鍋",
+    "みそもつ鍋",
+    "〆の中華麺",
+    "モツ煮"
+   ],
+   "tax_rate": 8,
+   "description": "白みそと麦みそをブレンドし、すりごまで香ばしさを加えたみそ味のもつ鍋つゆ。濃厚でまろやかなスープがぷりぷりのもつによくからみます。ピリ辛タイプも揃え、寒い季節の家飲みのお供にもぴったりです。",
+   "image_brief": "A stand-up spouted pouch of creamy beige miso offal hot pot soup with a blank label, beside a pot of miso offal stew with cabbage and chives sprinkled with sesame, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal もつ鍋つゆ みそ味 ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal もつ鍋つゆ ピリ辛みそ味 ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 九州麦みそ仕立て もつ鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "鍋屋とうべえ 白みそごま もつ鍋スープ 3〜4人前 800g",
+     "brand": "鍋屋とうべえ",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_motsu_nabe_miso_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_shabushabu_dashi",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "しゃぶしゃぶだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "豚しゃぶ",
+    "湯豆腐",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "利尻昆布とかつおの合わせだしをベースにした、しゃぶしゃぶ専用のだしつゆです。お湯ではなくだしでくぐらせることで、肉や野菜にほんのりうまみがのり、たれなしでも美味しく食べられます。鯛しゃぶにもおすすめ。",
+   "image_brief": "A tall clear plastic bottle of pale golden kombu-bonito shabu-shabu broth with a blank label, beside a pot of clear broth with thinly sliced pork and greens, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しゃぶしゃぶ用 昆布だしつゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 利尻昆布のしゃぶしゃぶだし 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しゃぶしゃぶ用 だし 濃縮 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 鯛しゃぶ用 白だし 2〜3人前 600g",
+     "brand": "ミナト屋本舗",
+     "size": "2〜3人前 600g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚しゃぶ用 生姜だし ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_shabushabu_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_sukiyaki_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "すき焼き鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "すき焼き鍋",
+    "牛すき鍋",
+    "肉豆腐",
+    "すき焼き丼"
+   ],
+   "tax_rate": 8,
+   "description": "割り下を作る手間なく、そのまま鍋に注いで使えるたっぷりスープのすき焼き鍋つゆ。甘辛い醤油味をかつおだしでのばし、煮詰まりにくく最後まで食べやすい濃さに仕上げました。牛肉はもちろん豚肉や鶏肉にも。",
+   "image_brief": "A stand-up spouted pouch of dark amber sweet soy sukiyaki-style hot pot soup with a blank label, beside an iron pot with beef slices, tofu, leeks and shirataki, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal すき焼き鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal すき焼き鍋つゆ 甘さ控えめ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 関西風 すき焼き鍋つゆ 昆布だし仕立て 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 牛すき鍋つゆ 2〜3人前 600g",
+     "brand": "ミナト屋本舗",
+     "size": "2〜3人前 600g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_sukiyaki_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_tomato_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "トマト鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "トマト鍋",
+    "チーズリゾット",
+    "トマトパスタ",
+    "ロールキャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "完熟トマトにチキンブイヨンとにんにく、バジルを合わせた洋風のトマト鍋つゆ。鶏肉やソーセージ、ブロッコリーとの相性が抜群で、〆はご飯とチーズでリゾットに。お子さまにも人気の味わいです。",
+   "image_brief": "A stand-up spouted pouch of bright red tomato hot pot soup with a blank label, beside a pot with chicken, sausages, broccoli and melted cheese, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トマト鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズトマト鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産トマトのバジル鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal トマト鍋つゆ 濃縮ポーション 1人前×6個",
+     "brand": "Cymbal",
+     "size": "1人前×6個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_tomato_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_curry_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "カレー鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "カレー鍋",
+    "カレーうどん",
+    "カレーリゾット",
+    "チーズカレー鍋"
+   ],
+   "tax_rate": 8,
+   "description": "かつおだしとスパイスを合わせた和風だし仕立てのカレー鍋つゆ。豚肉や白菜、じゃがいもなど何を入れても美味しく、辛さ控えめで家族で楽しめます。〆はうどんやチーズリゾットにして二度美味しい鍋です。",
+   "image_brief": "A stand-up spouted pouch of golden curry hot pot soup with a blank label, beside a donabe with pork, napa cabbage, potatoes and green onions in curry broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレー鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレー鍋つゆ 辛口 ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト だし香るチーズカレー鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレー鍋つゆ 濃縮ポーション 1人前×6個",
+     "brand": "Cymbal",
+     "size": "1人前×6個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_curry_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_tantan_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "坦々鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "坦々ごま鍋",
+    "坦々麺",
+    "豚ひき肉と白菜の鍋",
+    "麻婆豆腐風"
+   ],
+   "tax_rate": 8,
+   "description": "練りごまのコクと豆板醤、花椒のしびれを効かせた坦々鍋つゆ。豚ひき肉やもやし、チンゲン菜と相性がよく、ピリ辛でクリーミーなスープがクセになります。〆は中華麺を入れて坦々麺にするのが定番です。",
+   "image_brief": "A stand-up spouted pouch of reddish-orange sesame chili hot pot soup with a blank label, beside a pot with minced pork, bok choy and chili oil swirls, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 坦々ごま鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 坦々ごま鍋つゆ 辛さひかえめ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 花椒香る 本格坦々鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "リュウホウ食品 四川風 しびれ坦々鍋スープ 3〜4人前 800g",
+     "brand": "リュウホウ食品",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_tantan_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_nabe_mini_pouch_single",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "個食鍋つゆ・ミニパウチ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "えび"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ひとり鍋",
+    "ミニ鍋",
+    "スープ",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "1人分ずつ使い切れるミニパウチの鍋つゆ。小さな土鍋や鍋焼き用のアルミ鍋にちょうどよい量で、ひとり暮らしや家族の食事時間がバラバラな日にも便利です。味違いで選べ、ストックしておくと寒い夜に重宝します。",
+   "image_brief": "Several small single-serve hot pot soup sachets with blank labels fanned out beside a small one-person earthenware pot with vegetables and chicken, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひとり鍋つゆ ミニパウチ 寄せ鍋 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとり鍋つゆ ミニパウチ みそ 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとり鍋つゆ ミニパウチ キムチ 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとり鍋つゆ ミニパウチ 鶏塩 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとり鍋つゆ ミニパウチ 4種アソート 1人前×8袋",
+     "brand": "Cymbal",
+     "size": "1人前×8袋",
+     "price_tax_excluded": 478,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_nabe_mini_pouch_single_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_nabe_concentrated_portion",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "濃縮ポーション鍋の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "ひとり鍋",
+    "スープ",
+    "うどん",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "1個で1人前、人数に合わせて個数を調整できる濃縮ポーションタイプの鍋の素です。お湯で割るだけなので保存場所を取らず、少人数でも大人数でも無駄なく使えます。鍋のほかスープやうどんの味付けにも活躍します。",
+   "image_brief": "A clear plastic zipper bag holding small individual cup-shaped portion capsules of concentrated hot pot base with blank lids, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃縮ポーション鍋の素 寄せ鍋 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃縮ポーション鍋の素 ごま豆乳 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃縮ポーション鍋の素 鶏白湯 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃縮ポーション鍋の素 キムチ 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 濃縮ポーション鍋の素 しょうゆちゃんこ 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 濃縮ポーション鍋の素 寄せ鍋 大容量 16個入",
+     "brand": "Cymbal ベーシック",
+     "size": "16個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_nabe_concentrated_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_kimchi_jjigae_base",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "チゲ・韓国鍋の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "えび",
+    "いか"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "キムチチゲ",
+    "スンドゥブチゲ",
+    "プデチゲ",
+    "タッカンマリ"
+   ],
+   "tax_rate": 8,
+   "description": "コチュジャンと唐辛子、あみえびの塩辛を使った本場風の韓国鍋の素。キムチチゲやスンドゥブチゲ、プデチゲなど多彩なメニューが楽しめます。豆腐とあさり、卵を落とせば、ぐつぐつ熱々の一人前チゲも簡単に。",
+   "image_brief": "A stand-up pouch of deep red Korean stew paste with a blank label, beside a black stone bowl of bubbling kimchi jjigae with tofu and a raw egg yolk, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スンドゥブチゲの素 中辛 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スンドゥブチゲの素 辛口 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キムチチゲの素 濃縮 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハヌル食品 プデチゲスープ ストレート 3〜4人前 750g",
+     "brand": "ハヌル食品",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハヌル食品 タッカンマリスープ ストレート 3〜4人前 750g",
+     "brand": "ハヌル食品",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_kimchi_jjigae_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_kimchi_nabe_concentrate",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "キムチ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "えび",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "キムチ鍋",
+    "豚キムチ炒め",
+    "キムチチャーハン",
+    "〆のラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "少量ずつ使える濃縮タイプのキムチ鍋の素。水で割るだけで、あみえびとりんごのうまみが効いた甘辛いキムチ鍋がすぐに作れます。人数に合わせて濃さを調整でき、豚キムチやチャーハンの味付けにも使える万能タイプです。",
+   "image_brief": "A slim clear plastic bottle of deep red concentrated kimchi hot pot base with a blank label, beside a bowl of kimchi hot pot with pork and tofu, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キムチ鍋の素 濃縮ボトル 6〜8人前 300ml",
+     "brand": "Cymbal",
+     "size": "6〜8人前 300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キムチ鍋の素 濃縮 辛口ボトル 6〜8人前 300ml",
+     "brand": "Cymbal",
+     "size": "6〜8人前 300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キムチ鍋の素 濃縮 小袋 2〜3人前×3袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハヌル食品 熟成キムチ鍋の素 濃縮 8〜10人前 500ml",
+     "brand": "ハヌル食品",
+     "size": "8〜10人前 500ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_kimchi_nabe_concentrate_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_mizutaki_soup",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "水炊きスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "鶏鍋",
+    "雑炊",
+    "鶏スープ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラをじっくり炊き出した白濁スープで作る博多風水炊き用のスープです。骨付き鶏肉やつくね、白菜を煮込むだけで、鶏のうまみがぎゅっと詰まった本格水炊きに。ぽん酢でさっぱりと、〆は雑炊がおすすめ。",
+   "image_brief": "A stand-up spouted pouch of milky white chicken broth with a blank label, beside a donabe of mizutaki with bone-in chicken, napa cabbage and tofu, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水炊き用 鶏がらスープ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 博多風 水炊きスープ 濃厚白湯 3〜4人前 800g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 水炊きスープ 濃縮 2人前×3袋",
+     "brand": "Cymbal",
+     "size": "2人前×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "鍋屋とうべえ 国産鶏がら 水炊きの素 4〜5人前 1kg",
+     "brand": "鍋屋とうべえ",
+     "size": "4〜5人前 1kg",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 水炊き用 鶏スープ ぽん酢付き 3〜4人前セット",
+     "brand": "Cymbal",
+     "size": "3〜4人前セット",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_mizutaki_soup_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_oden_dashi_straight",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "おでんの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "大根の煮物",
+    "関東煮",
+    "茶飯"
+   ],
+   "tax_rate": 8,
+   "description": "そのまま鍋に注ぐだけで使えるストレートタイプのおでんつゆです。かつおと昆布、さば節の合わせだしにうすくちしょうゆで品よく仕上げ、大根や練り物にじんわり味がしみ込みます。関東風と関西風から選べます。",
+   "image_brief": "A large stand-up spouted pouch of clear amber oden broth with a blank label, beside a square oden pot with daikon, eggs, fish cakes and konjac, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おでんつゆ 関東風 ストレート 4〜5人前 1kg",
+     "brand": "Cymbal",
+     "size": "4〜5人前 1kg",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おでんつゆ 関西風 うすいろ ストレート 4〜5人前 1kg",
+     "brand": "Cymbal",
+     "size": "4〜5人前 1kg",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おでんつゆ 液体濃縮 6〜8人前 300ml",
+     "brand": "Cymbal",
+     "size": "6〜8人前 300ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きあごと昆布のおでんだし 4〜5人前 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "4〜5人前 1kg",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック おでんつゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_oden_dashi_straight_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_oden_shizuoka_kuro",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "おでんの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "静岡おでん",
+    "牛すじ煮込み",
+    "黒はんぺんのおでん"
+   ],
+   "tax_rate": 8,
+   "description": "牛すじと濃口しょうゆでつくる黒い色の静岡風おでんつゆ。甘辛く深いコクが特長で、黒はんぺんや牛すじ、卵がしっかり色づきます。仕上げにだし粉と青のりをかけるのが現地流。ご当地おでんを家庭で楽しめます。",
+   "image_brief": "A stand-up spouted pouch of very dark brown oden broth with a blank label, beside a pot of dark-simmered oden skewers sprinkled with green seaweed and fish powder, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 静岡風 黒おでんつゆ ストレート 3〜4人前 800g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 静岡風 黒おでんつゆ だし粉・青のり付き 3〜4人前 800g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スルガ屋 牛すじだし 黒おでんの素 濃縮 6〜8人前 360ml",
+     "brand": "スルガ屋",
+     "size": "6〜8人前 360ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スルガ屋 かけるだし粉 おでん用 40g",
+     "brand": "スルガ屋",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_oden_shizuoka_kuro_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_oden_tsuyu_mini",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "おでんの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ひとりおでん",
+    "おでん",
+    "大根の煮物",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "少量のおでんや一人分の煮込みにちょうどよい、使い切りのミニパウチおでんつゆ。電子レンジ調理にも使え、市販のおでん種と合わせるだけで手軽にほっとする味に。ストックしておくと寒い夜の一品に便利です。",
+   "image_brief": "Small single-serve sachets of oden broth with blank labels fanned out beside a small bowl of oden with daikon, egg and fish cake, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ひとりおでんつゆ ミニパウチ 関東風 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとりおでんつゆ ミニパウチ 関西風 1人前×4袋",
+     "brand": "Cymbal",
+     "size": "1人前×4袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レンジでおでんつゆ 液体 2人前×3袋",
+     "brand": "Cymbal",
+     "size": "2人前×3袋",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "スルガ屋 ひとり黒おでんつゆ ミニパウチ 1人前×3袋",
+     "brand": "スルガ屋",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_oden_tsuyu_mini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_yuzu_shio_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "柚子塩鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "柚子塩鍋",
+    "鶏鍋",
+    "鱈ちり",
+    "雑炊"
+   ],
+   "tax_rate": 8,
+   "description": "高知県産柚子果汁と鶏だし、白しょうゆを合わせた香り高い柚子塩鍋つゆ。爽やかな柚子の香りで鶏肉や白身魚、きのこがあっさり上品に味わえます。脂の多い豚バラも食べやすくなり、〆の雑炊まで飽きずに楽しめます。",
+   "image_brief": "A stand-up spouted pouch of pale yellow citrus-salt hot pot soup with a blank label, beside a donabe with chicken, white fish, mushrooms and a sliced yuzu, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 柚子塩鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産柚子の塩鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "高知県産柚子使用"
+    },
+    {
+     "title": "Cymbal 柚子こしょう鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモン塩鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_yuzu_shio_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_ishikari_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ご当地鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さけ",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "石狩鍋",
+    "鮭のみそ鍋",
+    "ちゃんちゃん焼き",
+    "三平汁"
+   ],
+   "tax_rate": 8,
+   "description": "北海道の郷土料理・石狩鍋をイメージしたみそ仕立ての鍋つゆ。鮭のうまみと合わせみそ、ほんのりバターのコクが特長で、鮭の切り身やじゃがいも、キャベツ、玉ねぎと煮込めば体の芯から温まる一品に。",
+   "image_brief": "A stand-up spouted pouch of beige miso hot pot soup with a blank label, beside a donabe with salmon chunks, potatoes, cabbage and a pat of butter, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 石狩鍋つゆ 鮭だしみそ仕立て 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産みそ使用 石狩鍋つゆ バター風味 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクセツ食品 鮭のみそ鍋の素 濃縮 2〜3人前×2袋",
+     "brand": "ホクセツ食品",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ホクセツ食品 三平汁の素 3〜4人前×2袋",
+     "brand": "ホクセツ食品",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_ishikari_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_kiritanpo_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ご当地鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "きりたんぽ鍋",
+    "地鶏鍋",
+    "だまこ鍋",
+    "鶏ごぼう鍋"
+   ],
+   "tax_rate": 8,
+   "description": "秋田の冬の味覚・きりたんぽ鍋用の鶏だししょうゆつゆ。鶏ガラのコクに濃口しょうゆを合わせ、ごぼうやせり、まいたけの香りを引き立てます。きりたんぽやだまこ餅がつゆを吸ってもっちり美味しく仕上がります。",
+   "image_brief": "A stand-up spouted pouch of clear brown chicken soy broth with a blank label, beside a pot with toasted rice sticks, burdock, Japanese parsley and maitake mushrooms, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きりたんぽ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 地鶏だし きりたんぽ鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アキタノ里 きりたんぽ鍋つゆ 濃縮 4〜5人前 300ml",
+     "brand": "アキタノ里",
+     "size": "4〜5人前 300ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アキタノ里 きりたんぽ5本・つゆ付き 鍋セット 2〜3人前",
+     "brand": "アキタノ里",
+     "size": "2〜3人前",
+     "price_tax_excluded": 698,
+     "origin": "秋田県産米使用"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_kiritanpo_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_ankou_kimo_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ご当地鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "あんこう鍋",
+    "どぶ汁",
+    "鱈鍋",
+    "牡蠣鍋"
+   ],
+   "tax_rate": 8,
+   "description": "あん肝の濃厚なうまみとみそを合わせた、茨城の名物・あんこう鍋風の鍋つゆです。こっくりとしたスープが白身魚や野菜によくからみ、鱈や牡蠣の鍋にもおすすめ。冬のごちそう鍋を気軽に家庭で楽しめます。",
+   "image_brief": "A stand-up spouted pouch of orange-tinted rich miso fish-liver hot pot soup with a blank label, beside a pot with white fish chunks, napa cabbage and tofu, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト あん肝入り あんこう鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんこう鍋風 みそ鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 どぶ汁風 あん肝みそ鍋の素 2〜3人前 500g",
+     "brand": "ミナト屋本舗",
+     "size": "2〜3人前 500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 鱈ちり鍋つゆ 昆布だし 3〜4人前 750g",
+     "brand": "ミナト屋本舗",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_ankou_kimo_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_kaki_dote_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ご当地鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "牡蠣の土手鍋",
+    "牡蠣鍋",
+    "みそ田楽",
+    "ふろふき大根"
+   ],
+   "tax_rate": 8,
+   "description": "広島名物・牡蠣の土手鍋用の甘めのみそです。土鍋の内側に土手のように塗り、だしで少しずつ溶かしながら煮ることで、牡蠣のうまみとみその風味が一体に。ふろふき大根や田楽みそとしても使えます。",
+   "image_brief": "A round plastic tub of glossy reddish-brown sweet miso paste with a blank lid label, beside a donabe with miso spread around the rim and plump oysters inside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牡蠣の土手鍋みそ 3〜4人前 300g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 広島風 白みそ仕立て 土手鍋みそ 3〜4人前 300g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 300g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "セトウチ蔵 牡蠣だし入り 土手鍋の素 2〜3人前 250g",
+     "brand": "セトウチ蔵",
+     "size": "2〜3人前 250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牡蠣鍋つゆ みそ仕立て ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_kaki_dote_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_hoto_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ご当地鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ほうとう",
+    "かぼちゃ鍋",
+    "けんちん汁",
+    "煮込みうどん"
+   ],
+   "tax_rate": 8,
+   "description": "山梨の郷土料理・ほうとうに合う、煮干しとかつおのだしを効かせたみそ仕立ての鍋つゆ。かぼちゃや根菜、きのこと太麺を一緒に煮込めば、とろりと甘いスープに。煮込みうどんやけんちん汁風にも使えます。",
+   "image_brief": "A stand-up spouted pouch of light brown miso broth with a blank label, beside an iron pot of flat thick noodles with pumpkin chunks, taro and mushrooms, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ほうとう鍋つゆ みそ仕立て 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 煮込みうどんつゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カイノ屋 ほうとうの素 濃縮みそ 2〜3人前×2袋",
+     "brand": "カイノ屋",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カイノ屋 ほうとう麺・つゆ付き 2人前",
+     "brand": "カイノ屋",
+     "size": "2人前",
+     "price_tax_excluded": 498,
+     "origin": "山梨県製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_hoto_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_mala_hotpot_base",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "火鍋の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "牛肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "麻辣火鍋",
+    "白湯火鍋",
+    "麻辣湯",
+    "よだれ鶏"
+   ],
+   "tax_rate": 8,
+   "description": "牛脂に唐辛子と花椒、八角などの香辛料を溶かし込んだ麻辣火鍋の素。しびれと辛さが重なる本格的な味わいで、ラム肉や牛肉、きのこ、春雨にぴったりです。白湯スープとの二色鍋セットもあり、ホームパーティーに。",
+   "image_brief": "A square red block of spicy hot pot base sealed in a plastic tray with a blank paper sleeve, beside a divided split hot pot with red chili broth and white broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "リュウホウ食品 麻辣火鍋の素 固形 3〜4人前 200g",
+     "brand": "リュウホウ食品",
+     "size": "3〜4人前 200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "リュウホウ食品 麻辣火鍋の素 激辛 固形 3〜4人前 200g",
+     "brand": "リュウホウ食品",
+     "size": "3〜4人前 200g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "リュウホウ食品 火鍋の素 麻辣・白湯 二色セット 3〜4人前",
+     "brand": "リュウホウ食品",
+     "size": "3〜4人前",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マーラー鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 麻辣湯の素 ひとり分 1人前×3袋",
+     "brand": "Cymbal",
+     "size": "1人前×3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_mala_hotpot_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_kamo_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "和風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鴨鍋",
+    "鴨南蛮",
+    "鴨せいろ",
+    "ねぎま鍋"
+   ],
+   "tax_rate": 8,
+   "description": "鴨のうまみを引き出す甘めのかつおだししょうゆつゆ。鴨肉や合鴨ロース、九条ねぎ、せりと合わせれば、料亭のような香り高い鴨鍋に。〆はそばを入れて鴨南蛮風に楽しむのもおすすめ。年末年始の集まりにもぴったりです。",
+   "image_brief": "A tall clear plastic bottle of dark amber duck hot pot soup with a blank label, beside an earthenware pot with sliced duck, long green onions and Japanese parsley, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 鴨だし鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鴨鍋つゆ 濃縮 4〜5人前 300ml",
+     "brand": "Cymbal",
+     "size": "4〜5人前 300ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 そば屋の鴨鍋つゆ 鴨脂入り 3〜4人前 800g",
+     "brand": "ミナト屋本舗",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 ねぎま鍋つゆ 江戸前仕立て 3〜4人前 750g",
+     "brand": "ミナト屋本舗",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_kamo_nabe_tsuyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_yudofu_kombu_dashi",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "和風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "湯豆腐",
+    "ちり鍋",
+    "鱈ちり",
+    "てっちり"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産真昆布をじっくり煮出した、ちり鍋・湯豆腐用の昆布だしです。素材の味を邪魔しない澄んだうまみで、豆腐や鱈、ふぐなど淡泊な具材をやさしく引き立てます。ぽん酢や薬味でお好みの味に整えてお楽しみください。",
+   "image_brief": "A clear stand-up pouch of very pale golden kombu broth with a blank label, a strip of dried kombu and cubes of white tofu in a small pot beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 湯豆腐・ちり鍋用 昆布だし ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産真昆布 ちり鍋だし 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 328,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 鍋用だし昆布 カット 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ミナト屋本舗 てっちり用 昆布だし ぽん酢付き 2〜3人前セット",
+     "brand": "ミナト屋本舗",
+     "size": "2〜3人前セット",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_yudofu_kombu_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_millefeuille_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "和風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "白菜と豚のミルフィーユ鍋",
+    "豚バラ白菜鍋",
+    "常夜鍋"
+   ],
+   "tax_rate": 8,
+   "description": "白菜と豚バラを重ねて煮込む、ミルフィーユ鍋にぴったりの和風だし鍋つゆ。かつおとさば節の香りをきかせたやさしいしょうゆ味で、白菜の甘みと豚の脂のうまみがスープに溶け出します。少ない材料で作れる節約鍋に。",
+   "image_brief": "A stand-up spouted pouch of light amber dashi hot pot soup with a blank label, beside a pot with tightly packed layers of napa cabbage and pork belly arranged in a spiral, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミルフィーユ鍋つゆ 和風だし 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミルフィーユ鍋つゆ 生姜しょうゆ 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 常夜鍋つゆ 酒と昆布仕立て 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 白菜と豚の鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_millefeuille_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_tori_dango_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "和風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏だんご鍋",
+    "つみれ鍋",
+    "鶏ごぼう鍋",
+    "うどんすき"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラと焼きあごのだしを合わせた、あっさりしょうゆ味の鶏だんご鍋つゆ。鶏だんごやいわしのつみれ、ごぼう、ねぎがよく合い、具材から出るうまみでスープがどんどん美味しくなります。〆はうどんすき風に。",
+   "image_brief": "A stand-up spouted pouch of clear golden soy-dashi hot pot soup with a blank label, beside a pot of chicken meatballs, burdock shavings and leeks, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏だんご鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いわしつみれ鍋つゆ 生姜仕立て 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きあごだし 鶏だんご鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナト屋本舗 うどんすきつゆ 関西風 3〜4人前 800g",
+     "brand": "ミナト屋本舗",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_tori_dango_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_cheese_cream_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "洋風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "チーズフォンデュ鍋",
+    "クリーム鍋",
+    "グラタン風リゾット",
+    "パーティー鍋"
+   ],
+   "tax_rate": 8,
+   "description": "チーズとミルクを合わせた濃厚クリーミーな洋風鍋つゆ。鶏肉やブロッコリー、じゃがいも、ウインナーを煮込めば、とろりとしたチーズスープが具材を包みます。バゲットを浸してフォンデュ風に楽しめるパーティー向けの鍋です。",
+   "image_brief": "A stand-up spouted pouch of creamy pale-yellow cheese hot pot soup with a blank label, beside a pot with broccoli, potatoes, sausages and bread cubes on skewers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズフォンデュ風 鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミルクチーズ クリーム鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 4種チーズのクリーム鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クラムクリーム鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_cheese_cream_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_tonkotsu_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "白湯鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豚骨鍋",
+    "〆のラーメン",
+    "ちゃんぽん",
+    "もつ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨をじっくり炊き出したクリーミーな豚骨しょうゆ鍋つゆ。にんにくと焦がしねぎの香りが食欲をそそり、豚バラやキャベツ、もやしと合わせるとラーメン屋さんのような濃厚鍋に。〆はもちろん中華麺で決まりです。",
+   "image_brief": "A stand-up spouted pouch of milky beige pork-bone hot pot soup with a blank label, beside a pot with pork belly, cabbage, bean sprouts and green onions, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚骨しょうゆ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚骨塩鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焦がしにんにく 濃厚豚骨鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "鍋屋とうべえ 長崎ちゃんぽん鍋スープ 3〜4人前 800g",
+     "brand": "鍋屋とうべえ",
+     "size": "3〜4人前 800g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_tonkotsu_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_goma_miso_nabe",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "和風鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ごまみそ鍋",
+    "豚しゃぶ鍋",
+    "担々風うどん"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳を使わず、たっぷりのすりごまと練りごま、合わせみそで仕立てたごまみそ鍋つゆ。香ばしいごまの風味が豚肉や水菜、しめじとよく合います。ごま好きにはたまらない濃厚なのに後味すっきりの味わいです。",
+   "image_brief": "A stand-up spouted pouch of light tan sesame miso hot pot soup with a blank label, beside a pot with pork slices, mizuna and shimeji mushrooms sprinkled with sesame, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal すりごまみそ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 金ごま仕立て ごまみそ鍋つゆ 3〜4人前 750g",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒ごまみそ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "Cymbal",
+     "size": "3〜4人前 750g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ごまみそ鍋つゆ 濃縮 6〜8人前 300ml",
+     "brand": "Cymbal",
+     "size": "6〜8人前 300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_goma_miso_nabe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_curry_nabe_retort_nabe_shime_variety",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "鍋の〆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋の〆",
+    "チーズリゾット",
+    "ちゃんぽん",
+    "おじや"
+   ],
+   "tax_rate": 8,
+   "description": "鍋の最後をもっと楽しむための〆専用調味料。残ったスープに加えるだけで、チーズリゾットやちゃんぽん、カレーおじやなど味変が楽しめます。小袋タイプで少量ずつ使え、いつもの鍋が最後までごちそうに。",
+   "image_brief": "A small paper box with several small seasoning sachets with blank labels beside a pot of cheesy risotto made from leftover hot pot soup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鍋の〆 チーズリゾットの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鍋の〆 カレーおじやの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鍋の〆 ちゃんぽんスープの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鍋の〆 ラーメンスープの素 しょうゆ 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_curry_nabe_retort_nabe_shime_variety_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

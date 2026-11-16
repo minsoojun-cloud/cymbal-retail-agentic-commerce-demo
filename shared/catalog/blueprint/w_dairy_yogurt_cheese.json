@@ -1,0 +1,4318 @@
+{
+ "category_key": "w_dairy_yogurt_cheese",
+ "items": [
+  {
+   "base_id": "w_dairy_yogurt_cheese_yogurt_4pack_sweet",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当デザート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "食べきりサイズのカップが4個つながった4連タイプのヨーグルト。まろやかな甘さで朝食やお弁当のデザート、おやつにぴったりです。家族で分けやすく、冷蔵庫でも場所を取りません。",
+   "image_brief": "Four small white yogurt cups joined in a row with peelable foil lids in pale blue, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ヨーグルト 加糖 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ヨーグルト 加糖 4連 70g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×4個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヨーグルト 生乳仕立て 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヨーグルト 低糖 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ヨーグルト 北海道生乳使用 4連 80g×4個",
+     "brand": "Cymbal セレクト",
+     "size": "80g×4個",
+     "price_tax_excluded": 178,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "ラクテ丘陵 まろやかヨーグルト 4連 75g×4個",
+     "brand": "ラクテ丘陵",
+     "size": "75g×4個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_yogurt_4pack_sweet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_fruit_yogurt_4pack",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "デザート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "果肉をたっぷり混ぜ込んだフルーツヨーグルトの4連パック。いちごやブルーベリー、白桃、マンゴーなど人気のフレーバーを揃えました。甘酸っぱい果実感で子どもから大人まで楽しめます。",
+   "image_brief": "Four joined yogurt cups with colorful fruit-pattern foil lids in pink and purple, blank labels, fruit pieces placed beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 果肉入りヨーグルト いちご 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果肉入りヨーグルト ブルーベリー 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果肉入りヨーグルト 白桃 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果肉入りヨーグルト マンゴー 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 果肉入りヨーグルト 4種アソート 70g×8個",
+     "brand": "Cymbal",
+     "size": "70g×8個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 果肉たっぷり 国産いちごヨーグルト 100g×3個",
+     "brand": "Cymbal セレクト",
+     "size": "100g×3個",
+     "price_tax_excluded": 238,
+     "origin": "国産いちご使用"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_fruit_yogurt_4pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_aloe_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "朝食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "しゃきっとしたアロエベラの葉肉がたっぷり入った加糖ヨーグルト。さっぱりとした甘さと独特の食感が楽しく、食後のデザートやリフレッシュしたい時におすすめです。",
+   "image_brief": "A white yogurt tub with a green foil lid and translucent aloe cubes visible in a spoonful beside it, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アロエヨーグルト 330g",
+     "brand": "Cymbal",
+     "size": "330g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アロエヨーグルト 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック アロエ入りヨーグルト 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アロエヨーグルト 脂肪ゼロ 330g",
+     "brand": "Cymbal",
+     "size": "330g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 アロエ果肉ごろごろヨーグルト 120g×3個",
+     "brand": "ラクテ丘陵",
+     "size": "120g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_aloe_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_fat_free_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "脂肪ゼロヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "グラノーラ",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "乳脂肪分ゼロに仕上げたすっきり味わいのヨーグルト。カロリーを気にする方にも続けやすく、そのまま食べるほか、果物やグラノーラと合わせても軽やかに楽しめます。",
+   "image_brief": "A white plastic yogurt tub with a sky-blue lid and a large blank graphic area, minimal design, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 脂肪ゼロ ヨーグルト 加糖 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 脂肪ゼロ ヨーグルト プレーン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 脂肪ゼロ ヨーグルト 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 脂肪ゼロ 砂糖不使用 ヨーグルト 375g",
+     "brand": "Cymbal",
+     "size": "375g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 脂肪ゼロ ヨーグルト 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 脂肪ゼロ ブルーベリーヨーグルト 100g×3個",
+     "brand": "ラクテ丘陵",
+     "size": "100g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_fat_free_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_bifidus_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "乳酸菌・ビフィズス菌ヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "生きたビフィズス菌と乳酸菌を使用したヨーグルト。酸味がおだやかで毎日続けやすい味わいです。朝のルーティンにひとつ、家族の冷蔵庫の定番としてお使いください。",
+   "image_brief": "A white yogurt tub with a soft green and white lid decorated with blank abstract circles, plain label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビフィズス菌入り ヨーグルト プレーン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビフィズス菌入り ヨーグルト 加糖 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ビフィズス菌ダブル ヨーグルト 100g×4個",
+     "brand": "Cymbal セレクト",
+     "size": "100g×4個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 乳酸菌ヨーグルト 食べきり 112g",
+     "brand": "ラクテ丘陵",
+     "size": "112g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 乳酸菌ヨーグルト 食べきり 3個パック 112g×3個",
+     "brand": "ラクテ丘陵",
+     "size": "112g×3個",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビフィズス菌入り ヨーグルト 砂糖不使用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_bifidus_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_drink_yogurt_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "のむヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "飲みやすいサイズのフレーバー付きのむヨーグルト。いちごやブルーベリー、マスカットなどの果実味でさらりと飲め、朝食代わりやおやつタイムにぴったりです。",
+   "image_brief": "Small white plastic drink yogurt bottles with pastel shrink sleeves in pink, purple and green, blank labels, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal のむヨーグルト いちご 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal のむヨーグルト ブルーベリー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal のむヨーグルト マスカット 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal のむヨーグルト 白桃 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal のむヨーグルト ミニ 6本パック 100g×6本",
+     "brand": "Cymbal",
+     "size": "100g×6本",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 のむヨーグルト 博多いちご果汁入り 500g",
+     "brand": "ラクテ丘陵",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "福岡県産いちご果汁使用"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_drink_yogurt_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_drink_yogurt_protein",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "のむヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "運動後",
+    "朝食",
+    "間食"
+   ],
+   "tax_rate": 8,
+   "description": "たんぱく質をしっかり配合した脂肪ゼロののむヨーグルト。運動後や忙しい朝でも手軽に飲めるボトルタイプです。プレーン、ベリー、バナナ風味から選べます。",
+   "image_brief": "A slim white drink yogurt bottle with a dark navy sleeve and a blank badge area, condensation droplets, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 高たんぱく のむヨーグルト プレーン 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく のむヨーグルト ベリー 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく のむヨーグルト バナナ風味 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく のむヨーグルト プレーン 3本パック 180g×3本",
+     "brand": "Cymbal",
+     "size": "180g×3本",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト たんぱく質15g のむヨーグルト 240g",
+     "brand": "Cymbal セレクト",
+     "size": "240g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_drink_yogurt_protein_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_lactic_drink",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "乳酸菌飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "毎日の習慣",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "小さなボトルに乳酸菌をぎゅっと詰めた乳酸菌飲料。甘酸っぱくすっきりした味わいで、毎日1本の習慣にぴったり。低カロリータイプやお得な大容量パックもあります。",
+   "image_brief": "A cluster of tiny white plastic drink bottles with red foil caps arranged in a group, blank labels, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乳酸菌飲料 カロリーハーフ 65ml×10本",
+     "brand": "Cymbal",
+     "size": "65ml×10本",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 乳酸菌飲料 65ml×5本",
+     "brand": "Cymbal ベーシック",
+     "size": "65ml×5本",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 乳酸菌飲料 プレミアム 80ml×7本",
+     "brand": "ラクテ丘陵",
+     "size": "80ml×7本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳酸菌飲料 ストレート 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_lactic_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_thick_mild_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "プレーンヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "はちみつがけ",
+    "フルーツヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "スプーンですくうとほどよい粘りが伸びる、まろやかな種菌を使ったプレーンヨーグルト。酸味が少なくクリーミーで、はちみつやジャムとの相性も抜群です。",
+   "image_brief": "A round white yogurt tub with a cream-colored lid and a spoon lifting a stretchy ribbon of yogurt beside it, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal まろやか粘りタイプ プレーンヨーグルト 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal まろやか粘りタイプ ヨーグルト 加糖 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト まろやか粘りタイプ ヨーグルト 生乳100% 450g",
+     "brand": "Cymbal セレクト",
+     "size": "450g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北の酪農舎 のびる まろやかヨーグルト 500g",
+     "brand": "北の酪農舎",
+     "size": "500g",
+     "price_tax_excluded": 278,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal まろやか粘りタイプ ヨーグルト 4連 70g×4個",
+     "brand": "Cymbal",
+     "size": "70g×4個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_thick_mild_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_skyr",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "高たんぱくヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "グラノーラ",
+    "トッピング",
+    "間食"
+   ],
+   "tax_rate": 8,
+   "description": "北欧の伝統的な製法にならい、水切りを重ねて濃厚に仕上げたスキル。もったりとした食感ながら脂肪ゼロで、たんぱく質も豊富。プレーンからフレーバーまで揃えました。",
+   "image_brief": "A squat white yogurt cup with a matte pale-gray lid and a Nordic minimalist blank label, dense yogurt on a spoon, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト アイスランド風 スキル プレーン 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アイスランド風 スキル バニラ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アイスランド風 スキル ベリーミックス 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アイスランド風 スキル プレーン 大容量 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アルペンヴィーゼ 北欧スタイル スキル はちみつ 150g",
+     "brand": "アルペンヴィーゼ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_skyr_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_greek_yogurt_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "ギリシャヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "朝食",
+    "間食"
+   ],
+   "tax_rate": 8,
+   "description": "濃密でなめらかなギリシャヨーグルトの食べきりカップ。はちみつ、ベリー、バニラ、レモンなどほどよい甘さのフレーバーで、デザート感覚で楽しめます。",
+   "image_brief": "A single-serve white yogurt cup with a white foil lid and soft pastel band, a spoon of thick creamy yogurt on top, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ギリシャヨーグルト ミックスベリー 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギリシャヨーグルト バニラ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギリシャヨーグルト 瀬戸内レモン 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギリシャヨーグルト 4種アソート 100g×4個",
+     "brand": "Cymbal",
+     "size": "100g×4個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_greek_yogurt_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_jersey_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "プレーンヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "デザート",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "コク深いジャージー牛の生乳を使った贅沢なヨーグルト。表面にうっすらクリーム層ができるほど濃厚で、まろやかな甘みが特長です。週末の朝食やおもてなしに。",
+   "image_brief": "A clear jar of thick yogurt with a cream layer on top and a kraft-paper lid with blank tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ジャージー牛乳 ヨーグルト プレーン 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ジャージー牛乳 ヨーグルト 加糖 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北の酪農舎 ジャージー牛 ノンホモ ヨーグルト 450g",
+     "brand": "北の酪農舎",
+     "size": "450g",
+     "price_tax_excluded": 498,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北の酪農舎 ジャージー牛 ヨーグルト 瓶入り 90g×3本",
+     "brand": "北の酪農舎",
+     "size": "90g×3本",
+     "price_tax_excluded": 528,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北斗ミルクファーム 高原ジャージーヨーグルト 500g",
+     "brand": "北斗ミルクファーム",
+     "size": "500g",
+     "price_tax_excluded": 458,
+     "origin": "岡山県製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_jersey_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_topping_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "別添のソースやトッピングを自分で混ぜて楽しむヨーグルト。はちみつ、いちごソース、ザクザクのグラノーラなど、食べる直前に合わせるので食感も風味も新鮮です。",
+   "image_brief": "A white yogurt cup with a clear dome topping compartment holding granola clusters on top, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ソース付きヨーグルト いちご 85g×3個",
+     "brand": "Cymbal",
+     "size": "85g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつ付き プレーンヨーグルト 85g×3個",
+     "brand": "Cymbal",
+     "size": "85g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グラノーラ付き ヨーグルト 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーベリーソース付き ヨーグルト 85g×3個",
+     "brand": "Cymbal",
+     "size": "85g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 黒みつきなこ付き ヨーグルト 100g×2個",
+     "brand": "ラクテ丘陵",
+     "size": "100g×2個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_topping_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_kids_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "バナナ",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "小さなお子さまにも食べやすいミニサイズのヨーグルト。カルシウムを加えたやさしい甘さで、いちごやバナナ、りんごなど人気の味を揃えました。おやつや保育園帰りに。",
+   "image_brief": "A pack of six tiny round yogurt cups with cheerful pastel lids and blank labels, held in a cardboard sleeve, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キッズヨーグルト いちご 45g×6個",
+     "brand": "Cymbal",
+     "size": "45g×6個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズヨーグルト バナナ 45g×6個",
+     "brand": "Cymbal",
+     "size": "45g×6個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズヨーグルト りんご 45g×6個",
+     "brand": "Cymbal",
+     "size": "45g×6個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キッズヨーグルト 3種アソート 45g×12個",
+     "brand": "Cymbal",
+     "size": "45g×12個",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 カルシウムプラス 子どもヨーグルト 50g×4個",
+     "brand": "ラクテ丘陵",
+     "size": "50g×4個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_kids_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_nata_de_coco_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷるぷる食感のナタデココやみかん果肉を合わせたデザートヨーグルト。ころころとした具材のおかげで満足感があり、さっぱりした甘さが食後のひと口にぴったりです。",
+   "image_brief": "A clear plastic cup of white yogurt with visible translucent nata de coco cubes and orange segments, blank lid label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ナタデココヨーグルト 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ナタデココヨーグルト 3個パック 110g×3個",
+     "brand": "Cymbal",
+     "size": "110g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal みかん果肉入り ヨーグルト 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パイン果肉入り ヨーグルト 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 ナタデココ＆ミックスフルーツ ヨーグルト 180g",
+     "brand": "ラクテ丘陵",
+     "size": "180g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_nata_de_coco_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_low_lactose_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "プレーンヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "グラノーラ",
+    "フルーツヨーグルト"
+   ],
+   "tax_rate": 8,
+   "description": "乳糖をあらかじめ分解した、牛乳が苦手な方にも食べやすいヨーグルト。すっきりした酸味とやさしい甘みで、毎日の朝食に気軽に取り入れられます。",
+   "image_brief": "A white yogurt tub with a light lavender lid and minimal blank label, a bowl of plain yogurt beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乳糖分解 プレーンヨーグルト 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳糖分解 ヨーグルト 加糖 4連 75g×4個",
+     "brand": "Cymbal",
+     "size": "75g×4個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 乳糖ゼロ ヨーグルト 350g",
+     "brand": "ラクテ丘陵",
+     "size": "350g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 乳糖ゼロ のむヨーグルト 180g",
+     "brand": "ラクテ丘陵",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_low_lactose_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_yogurt_bulk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "プレーンヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タンドリーチキン",
+    "ラッシー",
+    "カレー",
+    "ドレッシング"
+   ],
+   "tax_rate": 8,
+   "description": "家族でたっぷり使える大容量のプレーンヨーグルト。カレーやタンドリーチキンの下味、ラッシーやドレッシング作りなど料理にも惜しみなく使えるお得なサイズです。",
+   "image_brief": "A large white 1kg round yogurt tub with a plain blue lid and blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal プレーンヨーグルト 大容量 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック プレーンヨーグルト 徳用 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ヨーグルト 加糖 大容量 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 生乳 プレーン 大容量 900g",
+     "brand": "Cymbal セレクト",
+     "size": "900g",
+     "price_tax_excluded": 448,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_yogurt_bulk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_dessert_yogurt_seasonal",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "ヨーグルト",
+    "加糖・フルーツヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "りんご"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "デザート",
+    "朝食",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "秋冬限定のフレーバーヨーグルト。りんごのコンポートやさつまいも、ラ・フランス、柚子など季節の味わいをなめらかなヨーグルトに合わせました。旬の楽しみにどうぞ。",
+   "image_brief": "Three single yogurt cups with warm autumn-colored lids in red, purple and amber, blank labels, autumn fruits beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal りんごコンポート ヨーグルト 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さつまいも ヨーグルト 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラ・フランス ヨーグルト 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 柚子はちみつ ヨーグルト 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産和栗 ヨーグルト 90g×2個",
+     "brand": "Cymbal セレクト",
+     "size": "90g×2個",
+     "price_tax_excluded": 258,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_dessert_yogurt_seasonal_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cheddar_slice",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "スライスチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーガー",
+    "ホットサンド",
+    "チーズトースト"
+   ],
+   "tax_rate": 8,
+   "description": "チェダーチーズを使った鮮やかなオレンジ色のスライスチーズ。濃厚なコクとほどよい塩気で、ハンバーガーやホットサンドを本格的な味わいに仕上げます。",
+   "image_brief": "A stack of bright orange cheese slices in individual clear film in a flat resealable pouch with blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チェダースライスチーズ 大容量 18枚入",
+     "brand": "Cymbal",
+     "size": "18枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 英国産チェダー スライス 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "英国産"
+    },
+    {
+     "title": "アルペンヴィーゼ レッドチェダー とろけるスライス 8枚入",
+     "brand": "アルペンヴィーゼ",
+     "size": "8枚入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チェダー入り スライスチーズ 10枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cheddar_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_light_slice",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "スライスチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サンドイッチ",
+    "トースト",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "脂肪分を抑えながらチーズらしいコクを残したライトタイプのスライスチーズ。カルシウム入りもあり、毎朝のトーストやサンドイッチに気軽に使えます。",
+   "image_brief": "A pale yellow stack of thin cheese slices in a clear blister pouch with a light-green blank band label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 脂肪分カット スライスチーズ 7枚入",
+     "brand": "Cymbal",
+     "size": "7枚入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カルシウム入り スライスチーズ 7枚入",
+     "brand": "Cymbal",
+     "size": "7枚入",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal うす切り スライスチーズ 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ライトスライスチーズ 10枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 鉄分プラス スライスチーズ 7枚入",
+     "brand": "ラクテ丘陵",
+     "size": "7枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_light_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_thick_melt_slice",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "とろけるチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズハンバーグ",
+    "ピザトースト",
+    "チーズ焼き",
+    "ホットサンド"
+   ],
+   "tax_rate": 8,
+   "description": "厚みのある大判のとろけるスライスチーズ。焼くとふっくら溶けてよく伸び、ハンバーグやピザトースト、チーズ焼きを手軽にボリュームアップできます。",
+   "image_brief": "Thick square yellow cheese slices fanned out next to a resealable clear tray pack with blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 厚切り とろけるスライス 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 厚切り とろけるスライス モッツァレラ入り 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚切り とろける ゴーダスライス 6枚入",
+     "brand": "Cymbal セレクト",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大判 とろけるスライス 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とろけるスライス 徳用 15枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "15枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_thick_melt_slice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_baby_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "プロセスチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズで個包装のベビーチーズ。プレーンのほか、ブラックペッパーやスモーク、カマンベール入りなど味のバリエーションが豊富で、おつまみやお弁当にも便利です。",
+   "image_brief": "Four small foil-wrapped cheese bars in a clear blister card with a blank colored band, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベビーチーズ プレーン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビーチーズ ブラックペッパー 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビーチーズ スモーク 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビーチーズ カマンベール入り 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビーチーズ チェダー入り 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビーチーズ アソート 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_baby_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_portion_cheese_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "プロセスチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "朝食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "扇形の個包装チーズにナチュラルチーズを加えたフレーバータイプ。カマンベール、ゴーダ、ブルーなど風味の違いを楽しめ、ワインのお供や朝食に一つずつ取り出せます。",
+   "image_brief": "A round cardboard box opened to show six triangle foil-wrapped cheese portions in different pastel colors, blank lid, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 6P チーズ カマンベール入り 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 6P チーズ ゴーダ入り 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 6P チーズ ブルー入り 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 6P チーズ 減塩タイプ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 8P チーズ 北海道生乳使用 8個入",
+     "brand": "Cymbal セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_portion_cheese_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_string_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "裂けるチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "繊維状に細く裂いて食べられるスティックチーズ。もちもちとした弾力のある食感が楽しく、プレーンのほかスモークや唐辛子入りなど、おつまみにも子どものおやつにも。",
+   "image_brief": "Individually wrapped white cheese sticks with one peeled into strings, beside a resealable blank bag, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さけるチーズ プレーン 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さけるチーズ スモーク 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さけるチーズ 唐辛子 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さけるチーズ バジル 2本入",
+     "brand": "Cymbal",
+     "size": "2本入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さけるチーズ プレーン 徳用 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ストリングチーズ 5本入",
+     "brand": "北斗ミルクファーム",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_string_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_mini_mozzarella",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "モッツァレラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カプレーゼ",
+    "サラダ",
+    "ピンチョス",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズの丸いモッツァレラ。ミニトマトとピックに刺すだけでかわいい前菜になり、サラダやパスタにもそのまま加えられます。水切りしてお使いください。",
+   "image_brief": "Small white mozzarella balls floating in whey inside a clear tub with a white lid and blank label, cherry tomatoes beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チェリーモッツァレラ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニモッツァレラ ボッコンチーニ 125g",
+     "brand": "Cymbal",
+     "size": "125g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産 チリエジーネ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal ミニモッツァレラ 大容量 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ひとくちモッツァレラ 90g",
+     "brand": "Cymbal ベーシック",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_mini_mozzarella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_buffalo_mozzarella",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "モッツァレラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カプレーゼ",
+    "マルゲリータ",
+    "前菜",
+    "ワイン"
+   ],
+   "tax_rate": 8,
+   "description": "水牛乳から作るみずみずしいモッツァレラ。ミルクの甘みと濃厚なコクがあり、切るとじゅわっとミルクがあふれます。カプレーゼやピッツァ・マルゲリータに最適です。",
+   "image_brief": "A large glossy white ball of buffalo mozzarella in brine inside a plain white tub, basil leaf beside, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト イタリア産 水牛モッツァレラ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産 水牛モッツァレラ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "フロマジュリ・ソラ 水牛モッツァレラ ミニ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 548,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト スモーク 水牛モッツァレラ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 648,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "北斗ミルクファーム 国産水牛乳 モッツァレラ 100g",
+     "brand": "北斗ミルクファーム",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_buffalo_mozzarella_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_burrata",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "フレッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "前菜",
+    "サラダ",
+    "パスタ",
+    "ワイン"
+   ],
+   "tax_rate": 8,
+   "description": "モッツァレラの袋の中にとろとろのクリームとチーズを包んだブッラータ。ナイフを入れるとあふれ出る濃厚なクリームが魅力で、トマトやフルーツと合わせるだけでごちそうに。",
+   "image_brief": "A round white burrata pouch tied with a small knot, sitting in a clear plastic tub with a white lid and blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト イタリア産 ブッラータ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 698,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産 ブッラータ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "フロマジュリ・ソラ ストラッチャテッラ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ブッラータ 100g",
+     "brand": "北斗ミルクファーム",
+     "size": "100g",
+     "price_tax_excluded": 780,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト ミニブッラータ 50g×2個",
+     "brand": "Cymbal セレクト",
+     "size": "50g×2個",
+     "price_tax_excluded": 798,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_burrata_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cream_cheese_portion",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "クリームチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "クラッカー",
+    "ベーグル",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "使いやすい個包装タイプのクリームチーズ。プレーンのほか、ブルーベリーやはちみつなどのフレーバーもあり、クラッカーにのせたりお弁当に添えたりと便利です。",
+   "image_brief": "Small square foil-wrapped cream cheese portions in silver and pastel colors spilling from a clear tray with blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリームチーズ 個包装 プレーン 18g×6個",
+     "brand": "Cymbal",
+     "size": "18g×6個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズ 個包装 ブルーベリー 18g×6個",
+     "brand": "Cymbal",
+     "size": "18g×6個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズ 個包装 はちみつ 18g×6個",
+     "brand": "Cymbal",
+     "size": "18g×6個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズ 個包装 アソート 18g×12個",
+     "brand": "Cymbal",
+     "size": "18g×12個",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 クリームチーズ キューブ 15g×8個",
+     "brand": "Cymbal セレクト",
+     "size": "15g×8個",
+     "price_tax_excluded": 328,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cream_cheese_portion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cream_cheese_spread",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "クリームチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ベーグル",
+    "トースト",
+    "ディップ",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかに泡立てたカップ入りクリームチーズスプレッド。冷蔵庫から出してすぐパンに塗れる柔らかさで、ハーブ＆ガーリックやオニオン＆チャイブなどのフレーバーも揃えました。",
+   "image_brief": "A round white tub of whipped cream cheese with the lid off showing smooth swirls, a butter knife beside, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリームチーズスプレッド プレーン 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズスプレッド ハーブ＆ガーリック 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズスプレッド オニオン＆チャイブ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クリームチーズスプレッド はちみつ＆くるみ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ソフトクリームチーズ 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ ホイップクリームチーズ ライト 200g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cream_cheese_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cottage_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "フレッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "チーズケーキ",
+    "ディップ",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "低脂肪でさっぱりとしたカッテージチーズ。粒タイプはサラダのトッピングに、裏ごしタイプはなめらかでお菓子作りやディップに。たんぱく質を手軽に補いたい方にもおすすめです。",
+   "image_brief": "A clear plastic tub of white curd-like cottage cheese with a blue lid and blank label, a small spoonful beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カッテージチーズ 粒タイプ ミニ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北の酪農舎 北海道 カッテージチーズ 200g",
+     "brand": "北の酪農舎",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal ベーシック カッテージチーズ 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cottage_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_swiss_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "ハードチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "チーズフォンデュ",
+    "グラタン",
+    "ワイン",
+    "クロックムッシュ"
+   ],
+   "tax_rate": 8,
+   "description": "アルプス地方で親しまれるエメンタールやグリュイエール、コンテ。ナッツのような香ばしい風味と穏やかな甘みがあり、チーズフォンデュやグラタン、そのままワインにも。",
+   "image_brief": "A wedge of pale yellow Swiss cheese with round holes vacuum-packed in clear film with a blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト スイス産 エメンタール カット 約150g",
+     "brand": "Cymbal セレクト",
+     "size": "約150g",
+     "price_tax_excluded": 598,
+     "origin": "スイス産"
+    },
+    {
+     "title": "Cymbal セレクト スイス産 グリュイエール カット 約150g",
+     "brand": "Cymbal セレクト",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "スイス産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 コンテ 12ヶ月熟成 カット 約120g",
+     "brand": "Cymbal セレクト",
+     "size": "約120g",
+     "price_tax_excluded": 780,
+     "origin": "フランス産"
+    },
+    {
+     "title": "アルペンヴィーゼ エメンタール スライス 6枚入",
+     "brand": "アルペンヴィーゼ",
+     "size": "6枚入",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ産"
+    },
+    {
+     "title": "アルペンヴィーゼ グリュイエール シュレッド 80g",
+     "brand": "アルペンヴィーゼ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "スイス産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_swiss_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_mimolette_edam",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "ハードチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おつまみ",
+    "サラダ",
+    "ワイン",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかなオレンジ色が目を引くミモレットや、まろやかなエダム。熟成による凝縮した旨みとほろっとした食感で、薄く削っておつまみやサラダにどうぞ。",
+   "image_brief": "A bright orange wedge of mimolette cheese with a rough rind, vacuum-packed with a blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト フランス産 ミモレット 6ヶ月熟成 カット 約100g",
+     "brand": "Cymbal セレクト",
+     "size": "約100g",
+     "price_tax_excluded": 498,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 ミモレット 18ヶ月熟成 カット 約100g",
+     "brand": "Cymbal セレクト",
+     "size": "約100g",
+     "price_tax_excluded": 780,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal オランダ産 エダムチーズ カット 約150g",
+     "brand": "Cymbal",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "オランダ産"
+    },
+    {
+     "title": "Cymbal ミモレット スライス 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "フランス産"
+    },
+    {
+     "title": "アルペンヴィーゼ エダム ボール ミニ 約200g",
+     "brand": "アルペンヴィーゼ",
+     "size": "約200g",
+     "price_tax_excluded": 598,
+     "origin": "オランダ産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_mimolette_edam_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_blue_cheese_variety",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "青カビチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワイン",
+    "サラダ",
+    "クリームパスタ",
+    "ディップ"
+   ],
+   "tax_rate": 8,
+   "description": "世界各地の個性的な青カビチーズをカットでお届け。ピリッとした刺激と濃厚なコクがあり、はちみつを垂らしてデザート風にも、ソースやドレッシングにも使えます。",
+   "image_brief": "A wedge of white cheese with blue-green veins wrapped in foil, partly opened, with a blank sticker, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デンマーク産 ダナブルー カット 約100g",
+     "brand": "Cymbal",
+     "size": "約100g",
+     "price_tax_excluded": 398,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 ロックフォール カット 約80g",
+     "brand": "Cymbal セレクト",
+     "size": "約80g",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト 英国産 スティルトン カット 約100g",
+     "brand": "Cymbal セレクト",
+     "size": "約100g",
+     "price_tax_excluded": 798,
+     "origin": "英国産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 ブルー・ドーヴェルニュ カット 約100g",
+     "brand": "Cymbal セレクト",
+     "size": "約100g",
+     "price_tax_excluded": 598,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal ブルーチーズ クランブル 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 348,
+     "origin": "デンマーク産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_blue_cheese_variety_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_goat_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "シェーブルチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "ワイン",
+    "前菜",
+    "タルティーヌ"
+   ],
+   "tax_rate": 8,
+   "description": "山羊乳から作るシェーブルチーズ。さわやかな酸味とほのかな山羊乳特有の風味があり、サラダにのせたり軽く焼いてはちみつをかけたりと、ワインのお供にぴったりです。",
+   "image_brief": "A small white log of goat cheese with a fine ash coating on a paper tray in clear film with a blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト フランス産 シェーブル ロール 約100g",
+     "brand": "Cymbal セレクト",
+     "size": "約100g",
+     "price_tax_excluded": 598,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 シェーブル 灰まぶし 約120g",
+     "brand": "Cymbal セレクト",
+     "size": "約120g",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    },
+    {
+     "title": "フロマジュリ・ソラ フレッシュシェーブル ハーブ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 548,
+     "origin": "フランス産"
+    },
+    {
+     "title": "北斗ミルクファーム 国産 シェーブル 80g",
+     "brand": "北斗ミルクファーム",
+     "size": "80g",
+     "price_tax_excluded": 880,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ シェーブル スプレッド 125g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "125g",
+     "price_tax_excluded": 598,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_goat_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_feta",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "フレッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グリークサラダ",
+    "マリネ",
+    "焼き野菜",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "塩水に漬けて熟成させるギリシャのフェタチーズ。ほろほろと崩れる食感としっかりした塩気があり、グリークサラダやオリーブとのマリネ、焼き野菜のトッピングに重宝します。",
+   "image_brief": "A white rectangular block of feta cheese in brine inside a clear plastic tub with a blank label, olives beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ギリシャ産 フェタチーズ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "ギリシャ産"
+    },
+    {
+     "title": "Cymbal フェタチーズ キューブ オイル漬け 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal フェタチーズ クランブル 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal セレクト ギリシャ産 フェタチーズ 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 1080,
+     "origin": "ギリシャ産"
+    },
+    {
+     "title": "アルペンヴィーゼ フェタタイプ 白チーズ 200g",
+     "brand": "アルペンヴィーゼ",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "ドイツ産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_feta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_halloumi",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "焼いて食べるチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズステーキ",
+    "BBQ",
+    "サラダ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "焼いても溶けにくく、表面はカリッと香ばしく中はもっちりのハルーミや焼きチーズ。フライパンでさっと焼くだけで、きゅっきゅっとした食感の一品料理になります。",
+   "image_brief": "A rectangular block of firm white halloumi cheese vacuum-packed in clear film, one grilled slice with char marks beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト キプロス産 ハルーミチーズ 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "キプロス産"
+    },
+    {
+     "title": "Cymbal 焼いて食べるチーズ プレーン 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼いて食べるチーズ ミント 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 焼きチーズ 120g",
+     "brand": "北斗ミルクファーム",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ グリル用チーズ スティック 4本入",
+     "brand": "フロマジュリ・ソラ",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_halloumi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_raclette",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "ラクレット"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ラクレット",
+    "ホームパーティー",
+    "じゃがいも料理",
+    "チーズトースト"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと溶かして野菜やパンにかける、冬の楽しみラクレットチーズ。加熱すると香りが立ち、じゃがいもやソーセージに絡めると絶品です。ホームパーティーにもおすすめ。",
+   "image_brief": "A half-moon wedge of raclette cheese with a brown washed rind vacuum-sealed with a blank label, melted cheese on potato beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト スイス産 ラクレット カット 約200g",
+     "brand": "Cymbal セレクト",
+     "size": "約200g",
+     "price_tax_excluded": 898,
+     "origin": "スイス産"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 ラクレット スライス 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ラクレット カット 約150g",
+     "brand": "北斗ミルクファーム",
+     "size": "約150g",
+     "price_tax_excluded": 780,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal ラクレットタイプ チーズ スライス 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "アルペンヴィーゼ ラクレット 黒こしょう入り スライス 200g",
+     "brand": "アルペンヴィーゼ",
+     "size": "200g",
+     "price_tax_excluded": 848,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_raclette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_washed_rind",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "ウォッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワイン",
+    "ギフト",
+    "パン"
+   ],
+   "tax_rate": 8,
+   "description": "表皮を塩水や地酒で洗いながら熟成させるウォッシュタイプ。独特の香りと、中のねっとりとした濃厚な旨みが魅力です。チーズ好きの方の贈り物やワインの夜に。",
+   "image_brief": "A round orange-rinded soft washed cheese in a thin wooden box with a blank paper label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト フランス産 ウォッシュチーズ 木箱入り 約250g",
+     "brand": "Cymbal セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 1580,
+     "origin": "フランス産"
+    },
+    {
+     "title": "フロマジュリ・ソラ ウォッシュチーズ ミニ 約125g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "約125g",
+     "price_tax_excluded": 880,
+     "origin": "フランス産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ウォッシュタイプ チーズ 約150g",
+     "brand": "北斗ミルクファーム",
+     "size": "約150g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト ベルギー産 修道院チーズ カット 約150g",
+     "brand": "Cymbal セレクト",
+     "size": "約150g",
+     "price_tax_excluded": 798,
+     "origin": "ベルギー産"
+    },
+    {
+     "title": "Cymbal セレクト ドイツ産 ウォッシュチーズ スライス 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "ドイツ産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_washed_rind_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_specialty_shred",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "シュレッドチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ピザ",
+    "グラタン",
+    "ドリア",
+    "チーズトースト"
+   ],
+   "tax_rate": 8,
+   "description": "料理に合わせて選べるこだわりのシュレッドチーズ。よく伸びるモッツァレラ100%、香り豊かな4種ブレンド、コクのあるチェダーミックスなど、グラタンやピザが一段とおいしくなります。",
+   "image_brief": "A resealable clear zipper bag of shredded white and orange cheese strands with a blank paper band label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal モッツァレラ100% シュレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 4種のチーズ シュレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チェダーミックス シュレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 細切り ピザ用チーズ 大容量 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 脂肪分カット シュレッドチーズ 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 ゴーダ＆モッツァレラ シュレッド 130g",
+     "brand": "Cymbal セレクト",
+     "size": "130g",
+     "price_tax_excluded": 348,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_specialty_shred_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_shaved_parmesan",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "粉チーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "シーザーサラダ",
+    "カルボナーラ",
+    "パスタ",
+    "リゾット"
+   ],
+   "tax_rate": 8,
+   "description": "熟成ハードチーズを薄く削ったシェーブドタイプや、香りの良いグラナ・パダーノ、ペコリーノの粉チーズ。サラダやパスタの仕上げにふわりと散らすだけでレストランの味わいに。",
+   "image_brief": "A clear resealable cup of thin shaved hard cheese flakes with a white lid and blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト イタリア産 削りグラナ・パダーノ 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産 ペコリーノ・ロマーノ 粉 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal シェーブド ハードチーズ 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 粉チーズ ガーリック＆ハーブ 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 粉チーズ 徳用 詰め替え袋 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_shaved_parmesan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_monterey_jack",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "チェダーチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タコス",
+    "ケサディーヤ",
+    "ナチョス",
+    "ハンバーガー"
+   ],
+   "tax_rate": 8,
+   "description": "まろやかでクセが少ないモントレージャックや、チェダーと混ぜたマーブル模様のコルビージャック。よく溶けるのでタコスやケサディーヤ、ナチョスにぴったりです。",
+   "image_brief": "A rectangular block of marbled orange and white cheese sealed in clear film with a blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アメリカ産 モントレージャック ブロック 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal アメリカ産 コルビージャック ブロック 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ペッパージャック ブロック 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 468,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal モントレージャック シュレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal コルビージャック スライス 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_monterey_jack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_scamorza",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "モッツァレラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズステーキ",
+    "おつまみ",
+    "ワイン",
+    "ピザ"
+   ],
+   "tax_rate": 8,
+   "description": "モッツァレラを吊るして熟成させたスカモルツァ。弾力があり、薄く切ってフライパンで焼くと香ばしく溶けて伸びます。燻製タイプは香りが良く、おつまみにも最適です。",
+   "image_brief": "A pear-shaped pale cheese tied with string at the top, in a clear vacuum bag with a blank tag, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト イタリア産 スカモルツァ ビアンカ 約250g",
+     "brand": "Cymbal セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal セレクト イタリア産 スカモルツァ アフミカータ 約250g",
+     "brand": "Cymbal セレクト",
+     "size": "約250g",
+     "price_tax_excluded": 848,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 スカモルツァ 約200g",
+     "brand": "北斗ミルクファーム",
+     "size": "約200g",
+     "price_tax_excluded": 880,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal 焼きスカモルツァ用 スライス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 スモークカチョカヴァロ 約200g",
+     "brand": "北斗ミルクファーム",
+     "size": "約200g",
+     "price_tax_excluded": 980,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_scamorza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_dessert_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "デザートチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワイン",
+    "デザート",
+    "ギフト",
+    "クラッカー"
+   ],
+   "tax_rate": 8,
+   "description": "クリームチーズにドライフルーツやナッツを練り込んだ、デザート感覚で楽しめるチーズ。いちじくやクランベリーの甘酸っぱさがアクセントで、ワインや紅茶のお供にどうぞ。",
+   "image_brief": "A small round soft cheese studded with dried fruit pieces in a clear plastic dome on a paper base, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "フロマジュリ・ソラ いちじく入り クリームチーズ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ クランベリー入り クリームチーズ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ レーズン＆くるみ入り チーズ 100g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 フルーツ入り フレッシュチーズ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 598,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal ドライフルーツ入り チーズ 個包装 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_dessert_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cheese_assort_party",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "チーズアソート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ホームパーティー",
+    "ワイン",
+    "年末年始",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "数種類のナチュラルチーズをひとつにまとめたアソートセット。ハード、白カビ、青カビなど味の違いを食べ比べられ、年末年始のホームパーティーやおもてなしに重宝します。",
+   "image_brief": "A black plastic platter tray with several different cheese wedges and cubes arranged under a clear lid, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 世界のチーズ 4種アソート 約200g",
+     "brand": "Cymbal セレクト",
+     "size": "約200g",
+     "price_tax_excluded": 1280,
+     "origin": "ヨーロッパ産"
+    },
+    {
+     "title": "Cymbal セレクト 世界のチーズ 6種アソート 約300g",
+     "brand": "Cymbal セレクト",
+     "size": "約300g",
+     "price_tax_excluded": 1980,
+     "origin": "ヨーロッパ産"
+    },
+    {
+     "title": "Cymbal おつまみチーズ アソート キューブ 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ナチュラルチーズ 食べ比べ 約240g",
+     "brand": "北斗ミルクファーム",
+     "size": "約240g",
+     "price_tax_excluded": 1680,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト チーズ＆ドライフルーツ プレート 約180g",
+     "brand": "Cymbal セレクト",
+     "size": "約180g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cheese_assort_party_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_mascarpone_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "フレッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "デザート",
+    "クラッカー",
+    "フルーツディップ"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかなマスカルポーネにやさしい甘さを加えたデザートタイプ。いちごやはちみつ、ティラミス風味があり、クラッカーやフルーツに添えるだけで手軽なデザートになります。",
+   "image_brief": "A small round white tub of ivory sweetened mascarpone cream with a pink lid and blank label, berries beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スイートマスカルポーネ はちみつ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スイートマスカルポーネ いちご 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スイートマスカルポーネ ティラミス風 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マスカルポーネ ミニカップ 50g×3個",
+     "brand": "Cymbal セレクト",
+     "size": "50g×3個",
+     "price_tax_excluded": 448,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_mascarpone_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_ricotta_special",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "フレッシュチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パンケーキ",
+    "ラビオリ",
+    "デザート",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり軽いイタリア産リコッタや、国産牛乳で作るできたてタイプのリコッタ。ほのかな甘みがあり、パンケーキやラビオリの具、はちみつをかけたデザートに使えます。",
+   "image_brief": "A small woven-pattern plastic basket of fluffy white ricotta in a clear tub with a blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト イタリア産 リコッタ バスケット 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 できたてリコッタ 150g",
+     "brand": "北斗ミルクファーム",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ 羊乳リコッタ 200g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "Cymbal リコッタ＆はちみつ デザートカップ 90g×2個",
+     "brand": "Cymbal",
+     "size": "90g×2個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_ricotta_special_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_camembert_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "白カビチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワイン",
+    "チーズプレート",
+    "オーブン焼き",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかな白カビチーズに、トリュフやペッパー、ハーブなどを合わせたフレーバータイプ。ワインのおつまみやチーズプレートに加えると華やかな一品になります。",
+   "image_brief": "A small round white-rind soft cheese in a thin wooden box, one wedge cut showing dark truffle specks, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト トリュフ入り 白カビチーズ 約120g",
+     "brand": "Cymbal セレクト",
+     "size": "約120g",
+     "price_tax_excluded": 980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "フロマジュリ・ソラ ペッパー 白カビチーズ 約125g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "約125g",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "フロマジュリ・ソラ ハーブ 白カビチーズ 約125g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "約125g",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 焼いて食べる カマンベール 90g",
+     "brand": "北斗ミルクファーム",
+     "size": "90g",
+     "price_tax_excluded": 598,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 トリプルクリームチーズ 約150g",
+     "brand": "Cymbal セレクト",
+     "size": "約150g",
+     "price_tax_excluded": 880,
+     "origin": "フランス産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_camembert_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cheese_dip_sauce",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "チーズソース・ディップ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ナチョス",
+    "フライドポテト",
+    "パーティー",
+    "ドリア"
+   ],
+   "tax_rate": 8,
+   "description": "温めるだけで使えるとろとろのチーズソースやディップ。ナチョスやポテト、チーズフォンデュ風の料理に手軽に使え、パーティーの一品が簡単に作れます。",
+   "image_brief": "A clear plastic squeeze bottle and a small round tub of smooth yellow cheese sauce with blank labels, tortilla chips beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal とろけるチーズソース 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チェダーチーズディップ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 4種チーズソース ボトル 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハラペーニョ チーズディップ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ゴルゴンゾーラ クリームソース 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cheese_dip_sauce_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_domestic_natural_cheese",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "国産ナチュラルチーズ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ワイン",
+    "ギフト",
+    "おつまみ",
+    "チーズプレート"
+   ],
+   "tax_rate": 8,
+   "description": "国内の小さな工房で作られたナチュラルチーズのセレクション。土地の牛乳の風味を生かした熟成チーズは、やわらかな旨みとミルク感が魅力です。贈り物にも。",
+   "image_brief": "A rustic cheese wedge wrapped in waxed paper tied with twine, blank kraft tag, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "北斗ミルクファーム 北海道 熟成セミハードチーズ カット 約150g",
+     "brand": "北斗ミルクファーム",
+     "size": "約150g",
+     "price_tax_excluded": 880,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北斗ミルクファーム 北海道 ラクレットタイプ 熟成チーズ 約150g",
+     "brand": "北斗ミルクファーム",
+     "size": "約150g",
+     "price_tax_excluded": 980,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北の酪農舎 十勝 山のチーズ 6ヶ月熟成 約120g",
+     "brand": "北の酪農舎",
+     "size": "約120g",
+     "price_tax_excluded": 1080,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北の酪農舎 岩手 牧場ゴーダ スモーク 約150g",
+     "brand": "北の酪農舎",
+     "size": "約150g",
+     "price_tax_excluded": 780,
+     "origin": "岩手県製造"
+    },
+    {
+     "title": "北斗ミルクファーム 蔵王 ミルクの白カビチーズ 約120g",
+     "brand": "北斗ミルクファーム",
+     "size": "約120g",
+     "price_tax_excluded": 980,
+     "origin": "宮城県製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_domestic_natural_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_powder_cheese_seasoning",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "チーズ",
+    "粉チーズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ポップコーン",
+    "フライドポテト",
+    "パスタ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "ポップコーンやポテト、パスタにふりかけるだけのチーズパウダー。チェダーやカマンベール、ブラックペッパーなど味の変化をつけたいときに便利な常温保存タイプです。",
+   "image_brief": "A tall plastic shaker container with a flip-top cap filled with orange cheese powder, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チェダーチーズパウダー 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カマンベールチーズパウダー 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズパウダー ブラックペッパー 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズパウダー 4種ブレンド 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_powder_cheese_seasoning_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_unsalted_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "バター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お菓子作り",
+    "パン作り",
+    "クッキー",
+    "ムニエル"
+   ],
+   "tax_rate": 8,
+   "description": "塩を加えずに仕上げた食塩不使用バター。素材の風味をそのまま生かせるので、お菓子作りやパン作り、味付けを調整したい料理に最適です。年末のお菓子作りシーズンに。",
+   "image_brief": "A rectangular foil-wrapped butter block in a white cardboard box with a blank pale-yellow label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道バター 食塩不使用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 238,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト 牧場仕立て 食塩不使用バター 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北の酪農舎 製菓用 無塩バター 450g",
+     "brand": "北の酪農舎",
+     "size": "450g",
+     "price_tax_excluded": 1180,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機バター 食塩不使用 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_unsalted_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cut_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "バター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "炒め物",
+    "じゃがバター",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "あらかじめ約10gずつにカットされた使いやすいバター。量らずに使えるので料理やトーストに便利で、最後まで衛生的に使えます。有塩と食塩不使用をご用意。",
+   "image_brief": "A white plastic container opened to show butter pre-cut into neat small cubes in rows, blank lid label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 切れてるバター 有塩 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 切れてるバター 食塩不使用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 468,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 切れてるバター ハーフサイズ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バター ポーション 個包装 8g×10個",
+     "brand": "Cymbal",
+     "size": "8g×10個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 切れてる発酵バター 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 548,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cut_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cultured_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "バター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "トースト",
+    "焼き菓子",
+    "クロワッサン",
+    "ステーキ"
+   ],
+   "tax_rate": 8,
+   "description": "クリームを乳酸菌で発酵させてから作る発酵バター。ほのかな酸味と芳醇な香りがあり、焼きたてのパンに塗ればひと味違う贅沢な味わい。焼き菓子の風味もぐっと豊かになります。",
+   "image_brief": "A gold foil-wrapped butter block with a folded paper wrap and blank label beside a slice of bread, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 北海道 発酵バター 有塩 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 発酵バター 食塩不使用 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal セレクト フランス産 発酵バター 有塩 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 698,
+     "origin": "フランス産"
+    },
+    {
+     "title": "フロマジュリ・ソラ フランス産 海塩入り 発酵バター 125g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "125g",
+     "price_tax_excluded": 798,
+     "origin": "フランス産"
+    },
+    {
+     "title": "北の酪農舎 発酵バター ミニ 60g",
+     "brand": "北の酪農舎",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cultured_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_flavored_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "フレーバーバター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ガーリックトースト",
+    "ステーキ",
+    "パスタ",
+    "バゲット"
+   ],
+   "tax_rate": 8,
+   "description": "ガーリックやハーブ、はちみつなどで風味付けしたフレーバーバター。塗って焼くだけでガーリックトーストに、ステーキやパスタの仕上げにも使えます。チューブとカップを用意しました。",
+   "image_brief": "A small white tub of herb-flecked green butter and a squeeze tube beside it, blank labels, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ガーリックバター 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーブバター 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ガーリックマーガリン チューブ 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつバター 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト トリュフ風味 バター 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんバター スプレッド 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_flavored_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_ghee",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "ギー・澄ましバター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "炒め物",
+    "コーヒー",
+    "インド料理"
+   ],
+   "tax_rate": 8,
+   "description": "バターをじっくり加熱して水分や乳たんぱくを取り除いた澄ましバター（ギー）。香ばしいコクがあり、高温調理にも向いています。カレーや炒め物、コーヒーに加えても。",
+   "image_brief": "A clear glass jar of golden semi-solid ghee with a gold metal lid and blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ギー 澄ましバター 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal オーガニック グラスフェッド ギー 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 1280,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "フロマジュリ・ソラ ギー オイル 200g",
+     "brand": "フロマジュリ・ソラ",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "インド産"
+    },
+    {
+     "title": "北の酪農舎 国産 ギー 100g",
+     "brand": "北の酪農舎",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_ghee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_spreadable_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "バター"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "サンドイッチ",
+    "ロールパン"
+   ],
+   "tax_rate": 8,
+   "description": "冷蔵庫から出してすぐ塗れる、なめらかなソフトタイプのバター。バター本来の風味はそのままに、朝の忙しい時間でもトーストにさっと塗れます。",
+   "image_brief": "A low rectangular tub of soft butter with a curl of butter on a knife beside it, plain pale yellow lid, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塗りやすいバター 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塗りやすいバター 食塩不使用 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 ソフトバター 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 498,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal バター＆オリーブオイル スプレッド 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "北の酪農舎 ホイップバター 100g",
+     "brand": "北の酪農舎",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "北海道製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_spreadable_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_plant_butter",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "マーガリン・ファットスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "お菓子作り",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "植物性油脂だけで仕上げたプラントベースのバター代替品。乳を使わずにバターのようなコクと香りを楽しめ、料理にもお菓子作りにも使えます。",
+   "image_brief": "A green and white rectangular block wrapped in parchment-style paper with a plain blank band, a leaf placed beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 植物生まれのバター風味ブロック 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 植物生まれのバター風味スプレッド 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機植物油使用 プラントバター 180g",
+     "brand": "Cymbal オーガニック",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ラクテ丘陵 オーツ＆ココナッツ バター風 150g",
+     "brand": "ラクテ丘陵",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_plant_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_sweet_spread",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "マーガリン・ファットスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "おやつ",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "パンにぬるだけでおいしい甘いファットスプレッド。チョコ、メープル、いちご、ピーナッツなど人気の味を揃え、朝食やおやつのトーストが楽しくなります。",
+   "image_brief": "A small round plastic cup of glossy brown chocolate spread with a peeled foil lid, blank label, toast beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぬるチョコ ファットスプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープル風味 ファットスプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごジャム風味 スプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーナッツ スプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 練乳ミルク スプレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スプレッド 3種アソート ミニカップ 6個入",
+     "brand": "Cymbal ベーシック",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_sweet_spread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_baking_margarine",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "バター・マーガリン",
+    "マーガリン・ファットスプレッド"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お菓子作り",
+    "パン作り",
+    "クッキー",
+    "パイ"
+   ],
+   "tax_rate": 8,
+   "description": "お菓子やパン作りに使いやすい製菓用マーガリンとショートニング。サクッと軽い食感や、しっとりした生地に仕上がります。クリスマスや年末の手作りお菓子にどうぞ。",
+   "image_brief": "A large white tub and a rectangular block wrapped in plain paper, both with blank labels, flour dusted around, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 製菓用マーガリン 450g",
+     "brand": "Cymbal",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ショートニング 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック パン作り用 マーガリン 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト バター入り 製菓用マーガリン 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_baking_margarine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_fresh_cream_light",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "生クリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ショートケーキ",
+    "フルーツサンド",
+    "クリームシチュー",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "乳脂肪分35%前後のすっきりとした生クリーム。軽い口どけで泡立てやすく、ケーキのデコレーションやフルーツサンド、料理のコク出しまで幅広く使えます。",
+   "image_brief": "A gable-top white paper carton of cream with a pale blue blank band, a bowl of whipped cream beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 純生クリーム 乳脂肪分36% 100ml",
+     "brand": "Cymbal",
+     "size": "100ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 純生クリーム 乳脂肪分38% 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 458,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "北の酪農舎 ジャージー 純生クリーム 乳脂肪分40% 200ml",
+     "brand": "北の酪農舎",
+     "size": "200ml",
+     "price_tax_excluded": 598,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal 純生クリーム 乳脂肪分35% 業務用 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_fresh_cream_light_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_compound_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "ホイップ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ケーキ",
+    "パフェ",
+    "ホットケーキ",
+    "コーヒー"
+   ],
+   "tax_rate": 8,
+   "description": "乳脂肪と植物性脂肪をブレンドしたコンパウンドタイプのホイップ。生クリームのコクと、泡立てやすくダレにくい扱いやすさを両立し、デコレーションの絞りも美しく仕上がります。",
+   "image_brief": "A white carton of cream with a cream-yellow blank band and piped whipped cream rosettes beside it, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乳脂肪入り ホイップ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳脂肪入り ホイップ 低脂肪 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック コンパウンド ホイップ 200ml",
+     "brand": "Cymbal ベーシック",
+     "size": "200ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳脂肪入り ホイップ 加糖 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生クリーム仕立て ホイップ 180ml",
+     "brand": "Cymbal セレクト",
+     "size": "180ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_compound_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_ready_whip",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "ホイップ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "パンケーキ",
+    "パフェ",
+    "ウインナーコーヒー",
+    "クリスマスケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "泡立て不要で、袋から絞るだけですぐ使えるホイップクリーム。口金付きでデコレーションも手軽にでき、パンケーキやパフェ、コーヒーのトッピングに便利です。",
+   "image_brief": "A white plastic piping bag of ready-whipped cream with a star nozzle tip and blank label, a swirl of cream beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 絞るだけホイップ 植物性 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 絞るだけホイップ 乳脂肪入り 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 絞るだけホイップ チョコ 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 絞るだけホイップ いちご 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 絞るだけホイップ ミニ 100ml",
+     "brand": "Cymbal ベーシック",
+     "size": "100ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_ready_whip_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_sour_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "サワークリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ボルシチ",
+    "ビーフストロガノフ",
+    "ディップ",
+    "ベイクドポテト",
+    "チーズケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "生クリームを乳酸菌で発酵させたさわやかな酸味のサワークリーム。ボルシチやビーフストロガノフ、ディップやベイクドポテトのトッピング、チーズケーキ作りにも活躍します。",
+   "image_brief": "A small round white tub of thick sour cream with the lid off showing a smooth glossy surface, blank label, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal サワークリーム 90ml",
+     "brand": "Cymbal",
+     "size": "90ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サワークリーム 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 サワークリーム 100ml",
+     "brand": "Cymbal セレクト",
+     "size": "100ml",
+     "price_tax_excluded": 298,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ クレームフレッシュ 200ml",
+     "brand": "フロマジュリ・ソラ",
+     "size": "200ml",
+     "price_tax_excluded": 598,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal サワークリーム オニオンディップ 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_sour_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_coffee_creamer",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "コーヒーフレッシュ・クリーム"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "コーヒー",
+    "紅茶",
+    "アイスコーヒー"
+   ],
+   "tax_rate": 8,
+   "description": "コーヒーや紅茶に入れて使うポーションタイプのクリーム。まろやかなコクをプラスします。植物性のほか、乳脂肪を使ったリッチなタイプもお選びいただけます。",
+   "image_brief": "A clear bag of small white single-serve creamer cups with peelable foil lids, blank labels, a coffee cup beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コーヒーフレッシュ ポーション 4.5ml×18個",
+     "brand": "Cymbal",
+     "size": "4.5ml×18個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒーフレッシュ ポーション 徳用 4.5ml×50個",
+     "brand": "Cymbal",
+     "size": "4.5ml×50個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 乳脂肪 コーヒークリーム ポーション 5ml×10個",
+     "brand": "Cymbal セレクト",
+     "size": "5ml×10個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック コーヒーフレッシュ 4.5ml×30個",
+     "brand": "Cymbal ベーシック",
+     "size": "4.5ml×30個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒーフレッシュ 低脂肪 4.5ml×18個",
+     "brand": "Cymbal",
+     "size": "4.5ml×18個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_coffee_creamer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_cooking_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "料理用クリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "クリームシチュー",
+    "グラタン",
+    "カルボナーラ",
+    "クリームパスタ"
+   ],
+   "tax_rate": 8,
+   "description": "加熱しても分離しにくい料理用クリーム。シチューやグラタン、クリームパスタにさっと加えるだけでコクのあるなめらかな仕上がりに。使い切りやすい小容量もご用意。",
+   "image_brief": "A small white aseptic carton of cooking cream with a blank cream-colored label next to a bowl of creamy pasta, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 料理用クリーム 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 料理用クリーム 使い切り 100ml",
+     "brand": "Cymbal",
+     "size": "100ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 料理用クリーム 常温保存 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 クッキングクリーム 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 298,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "Cymbal ベーシック 料理用ホワイトクリーム 業務用 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_cooking_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_clotted_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "生クリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "スコーン",
+    "アフタヌーンティー",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "英国のアフタヌーンティーでおなじみの濃厚なクロテッドクリーム。スコーンにジャムと一緒にたっぷりのせれば、バターと生クリームの中間のようなリッチな味わいが楽しめます。",
+   "image_brief": "A small squat glass jar of thick ivory clotted cream with a golden crust, gold lid and blank label, scone beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 英国産 クロテッドクリーム 113g",
+     "brand": "Cymbal セレクト",
+     "size": "113g",
+     "price_tax_excluded": 698,
+     "origin": "英国産"
+    },
+    {
+     "title": "北の酪農舎 北海道 クロテッドクリーム 100g",
+     "brand": "北の酪農舎",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "北海道製造"
+    },
+    {
+     "title": "フロマジュリ・ソラ クロテッドクリーム ミニ 50g×2個",
+     "brand": "フロマジュリ・ソラ",
+     "size": "50g×2個",
+     "price_tax_excluded": 548,
+     "origin": "英国産"
+    },
+    {
+     "title": "Cymbal セレクト クロテッドクリーム＆いちごジャム セット 100g+50g",
+     "brand": "Cymbal セレクト",
+     "size": "100g+50g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_clotted_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_yogurt_cheese_custard_cream",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "生クリーム・ホイップ",
+    "ホイップ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "フルーツサンド",
+    "タルト",
+    "シュークリーム作り",
+    "クリスマスケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "絞り袋入りでそのまま使えるカスタードクリームと、ホイップとミックスしたタイプ。フルーツサンドやタルト、シュー作りのフィリングに手軽に使えます。",
+   "image_brief": "A soft white piping bag of pale yellow custard cream with a nozzle tip and blank label, a fruit tart beside, packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 絞れるカスタードクリーム 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 絞れるカスタード＆ホイップ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 絞れるチョコカスタード 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト バニラビーンズ入り カスタード 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_yogurt_cheese_custard_cream_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

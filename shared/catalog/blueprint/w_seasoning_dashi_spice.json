@@ -1,0 +1,3912 @@
+{
+ "category_key": "w_seasoning_dashi_spice",
+ "items": [
+  {
+   "base_id": "w_seasoning_dashi_spice_ago_dashi_pack",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "あご・焼きあごだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お雑煮",
+    "うどん",
+    "味噌汁",
+    "茶碗蒸し",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼き上げたとびうお（あご）を主原料にしただしパックです。上品でコクのある甘みが特長で、九州風のお雑煮やうどん、茶碗蒸しにぴったり。煮出すだけで本格的な味わいに仕上がります。",
+   "image_brief": "A stand-up kraft paper pouch with a clear window showing small mesh tea-bag style dashi packs, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きあご入り あごだしパック 8g×10袋",
+     "brand": "Cymbal",
+     "size": "8g×10袋",
+     "price_tax_excluded": 398,
+     "origin": "長崎県産あご使用"
+    },
+    {
+     "title": "Cymbal 焼きあご入り あごだしパック 8g×30袋",
+     "brand": "Cymbal",
+     "size": "8g×30袋",
+     "price_tax_excluded": 998,
+     "origin": "長崎県産あご使用"
+    },
+    {
+     "title": "Cymbal ベーシック あご入り 混合だしパック 7g×20袋",
+     "brand": "Cymbal ベーシック",
+     "size": "7g×20袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 長崎県産焼きあご100% だしパック 8g×15袋",
+     "brand": "Cymbal セレクト",
+     "size": "8g×15袋",
+     "price_tax_excluded": 980,
+     "origin": "長崎県産"
+    },
+    {
+     "title": "潮見屋 あご・かつお・昆布 合わせだしパック 9g×24袋",
+     "brand": "潮見屋",
+     "size": "9g×24袋",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_ago_dashi_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_ago_dashi_granule",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "あご・焼きあごだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "お雑煮",
+    "うどん",
+    "煮物",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "焼きあごのうまみをさっと溶ける顆粒にしました。お湯に溶かすだけで香ばしくまろやかなだしが取れ、味噌汁や煮物、うどんつゆに手軽に使えます。スティックタイプは一人分の調理にも便利です。",
+   "image_brief": "A small clear plastic jar of light golden dashi granules with a plain white screw cap and a blank label, beside a few stick sachets.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きあごだし 顆粒 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼きあごだし 顆粒 スティック 5g×12本",
+     "brand": "Cymbal",
+     "size": "5g×12本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼きあごだし 顆粒 袋入 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 化学調味料無添加 焼きあごだし 顆粒 5g×10本",
+     "brand": "Cymbal セレクト",
+     "size": "5g×10本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック あご風味だし 顆粒 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_ago_dashi_granule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_niboshi_powder",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "いりこ・煮干しだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "味噌汁",
+    "ラーメンスープ",
+    "お好み焼き",
+    "離乳食"
+   ],
+   "tax_rate": 8,
+   "description": "煮干しを頭ごと丸ごと細かく粉砕した粉末だしです。そのまま味噌汁や煮物に加えるだけで、濃厚な煮干しのうまみとカルシウムをまるごと摂れます。お好み焼きの生地やラーメンの風味付けにもおすすめ。",
+   "image_brief": "A resealable silver stand-up pouch with a clear strip window showing fine grey-brown fish powder, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal まるごと煮干し粉 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "瀬戸内産煮干し使用"
+    },
+    {
+     "title": "Cymbal まるごと煮干し粉 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "瀬戸内産煮干し使用"
+    },
+    {
+     "title": "Cymbal セレクト 食塩無添加 九十九里産 いわし煮干し粉 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal ベーシック 煮干し粉 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "潮見屋 焼き煮干し粉 香ばし仕立て 50g",
+     "brand": "潮見屋",
+     "size": "50g",
+     "price_tax_excluded": 380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_niboshi_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kombu_dashi_granule",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "昆布だし・だしパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "湯豆腐",
+    "精進料理",
+    "浅漬け",
+    "吸い物",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産昆布のやさしいうまみを顆粒にした昆布だしです。かつおを使わないので、湯豆腐や精進料理、浅漬けなど素材の味を活かしたい料理に最適。少量でもしっかりとした深みが加わります。",
+   "image_brief": "A slim clear jar of pale beige granules with a green blank cap and a plain blank label, next to a piece of dried kelp.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産昆布使用 昆布だし 顆粒 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal 昆布だし 顆粒 スティック 4g×10本",
+     "brand": "Cymbal",
+     "size": "4g×10本",
+     "price_tax_excluded": 248,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal セレクト 化学調味料無添加 昆布だし 顆粒 4g×12本",
+     "brand": "Cymbal セレクト",
+     "size": "4g×12本",
+     "price_tax_excluded": 398,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "Cymbal ベーシック 昆布風味だし 顆粒 徳用 110g",
+     "brand": "Cymbal ベーシック",
+     "size": "110g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機昆布だし 粉末 40g",
+     "brand": "Cymbal オーガニック",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kombu_dashi_granule_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_dashi_kombu",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "だし昆布"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "湯豆腐",
+    "おでん",
+    "寄せ鍋",
+    "昆布締め",
+    "おせち料理"
+   ],
+   "tax_rate": 8,
+   "description": "だし取りに使いやすい肉厚の昆布です。水に浸けておくだけで澄んだ上品なだしが取れ、湯豆腐や寄せ鍋、おでんの季節には欠かせません。用途に合わせて産地違い、カット済みタイプを揃えました。",
+   "image_brief": "A clear plastic bag containing flat folded sheets of dark green dried kombu kelp with white powdery bloom, plain blank paper header card.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "日高昆布 だし用 50g",
+     "brand": "",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "北海道日高産"
+    },
+    {
+     "title": "日高昆布 だし用 120g",
+     "brand": "",
+     "size": "120g",
+     "price_tax_excluded": 898,
+     "origin": "北海道日高産"
+    },
+    {
+     "title": "Cymbal セレクト 利尻昆布 だし用 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 780,
+     "origin": "北海道利尻産"
+    },
+    {
+     "title": "Cymbal セレクト 羅臼昆布 だし用 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 980,
+     "origin": "北海道羅臼産"
+    },
+    {
+     "title": "Cymbal セレクト 真昆布 だし用 肉厚 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 1180,
+     "origin": "北海道函館産"
+    },
+    {
+     "title": "Cymbal 早煮・だし兼用 カット昆布 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_dashi_kombu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_hana_katsuo",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "かつお節・削り節"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "だし取り",
+    "おひたし",
+    "冷奴",
+    "お好み焼き",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "薄く削った花かつおは、だし取りにもトッピングにも使える万能選手。ふんわりと香るかつおの風味が、おひたしや冷奴、お好み焼きをぐっと引き立てます。小分けパックは使い切りやすく便利です。",
+   "image_brief": "A clear plastic bag filled with fluffy pale pink-brown bonito flakes, plain blank label strip, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 花かつお 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 花かつお 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつおパック 小分け 2.5g×10袋",
+     "brand": "Cymbal",
+     "size": "2.5g×10袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県枕崎産 本枯節 削り 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal ベーシック かつお削り節 だし用 厚削り 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_hana_katsuo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kansai_mix_dashi_pack",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "昆布だし・だしパック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "うどん",
+    "そば",
+    "おでん",
+    "煮物",
+    "だし巻き卵"
+   ],
+   "tax_rate": 8,
+   "description": "さば節・うるめいわし節・かつお節・昆布をブレンドした関西風の混合だしパックです。コクがありながらも後味はすっきり。うどんやそばのつゆ、おでん、だし巻き卵など幅広く使えます。",
+   "image_brief": "A tall white stand-up pouch with a zip top and plain blank label, with a few square mesh dashi packs laid in front.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さば・うるめ入り 関西風 合わせだしパック 8g×20袋",
+     "brand": "Cymbal",
+     "size": "8g×20袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さば・うるめ入り 関西風 合わせだしパック 8g×50袋",
+     "brand": "Cymbal",
+     "size": "8g×50袋",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 食塩無添加 五種の削り節 だしパック 10g×15袋",
+     "brand": "Cymbal セレクト",
+     "size": "10g×15袋",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 混合節 だしパック 8g×30袋",
+     "brand": "Cymbal ベーシック",
+     "size": "8g×30袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "潮見屋 うどんだしパック 濃いめ 12g×10袋",
+     "brand": "潮見屋",
+     "size": "12g×10袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kansai_mix_dashi_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_shiitake_dashi",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "しいたけだし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "精進料理",
+    "煮しめ",
+    "炊き込みご飯",
+    "中華スープ",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "国産原木干ししいたけを粉末にしただしの素です。戻す手間なしで干ししいたけ特有の深いうまみと香りが加わり、煮しめやちらし寿司、炊き込みご飯がワンランク上の味に。精進料理にも重宝します。",
+   "image_brief": "A small brown glass jar of fine tan mushroom powder with a black blank cap and plain label, a dried shiitake beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産干ししいたけ粉末だし 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国産原木しいたけ使用"
+    },
+    {
+     "title": "Cymbal しいたけだし 顆粒 スティック 4g×8本",
+     "brand": "Cymbal",
+     "size": "4g×8本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大分県産どんこ しいたけ粉末 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 698,
+     "origin": "大分県産"
+    },
+    {
+     "title": "潮見屋 しいたけ昆布だしパック 6g×12袋",
+     "brand": "潮見屋",
+     "size": "6g×12袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック しいたけ風味だし 顆粒 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_shiitake_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_liquid_katsuo_dashi",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "液体だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "味噌汁",
+    "煮物",
+    "茶碗蒸し",
+    "おでん",
+    "だし巻き卵"
+   ],
+   "tax_rate": 8,
+   "description": "かつお節と昆布から丁寧に抽出した濃縮タイプの液体だしです。水で薄めるだけでひきたてのような香り高いだしに。味噌汁や煮物、茶碗蒸しなど、溶かす手間がなくさっと計量できます。",
+   "image_brief": "A slim clear plastic bottle of amber concentrated broth with a white flip cap and a plain blank wrap label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かつおと昆布の液体だし 濃縮 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつおと昆布の液体だし 濃縮 1L",
+     "brand": "Cymbal",
+     "size": "1L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 液体だし ポーション 20g×8個",
+     "brand": "Cymbal",
+     "size": "20g×8個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本枯節仕込み 液体だし 化学調味料無添加 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 液体かつおだし 徳用 1.8L",
+     "brand": "Cymbal ベーシック",
+     "size": "1.8L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_liquid_katsuo_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_vegetable_dashi_pack",
+   "category_path": [
+    "調味料",
+    "和風だし",
+    "野菜だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "野菜スープ",
+    "ポトフ",
+    "離乳食",
+    "リゾット",
+    "味噌汁"
+   ],
+   "tax_rate": 8,
+   "description": "玉ねぎ・にんじん・キャベツ・セロリなどの国産野菜を煮出して作る野菜だしパックです。動物性原料を使わず、やさしく甘い味わい。洋風スープはもちろん、味噌汁や離乳食のベースにもおすすめです。",
+   "image_brief": "A pastel green kraft stand-up pouch with a clear window revealing paper dashi bags with flecks of dried vegetables, blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産野菜だしパック 8g×10袋",
+     "brand": "Cymbal",
+     "size": "8g×10袋",
+     "price_tax_excluded": 498,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal 国産野菜だしパック 8g×24袋",
+     "brand": "Cymbal",
+     "size": "8g×24袋",
+     "price_tax_excluded": 1080,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜だしパック 7g×10袋",
+     "brand": "Cymbal オーガニック",
+     "size": "7g×10袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 食塩・化学調味料無添加 野菜だし 6g×20袋",
+     "brand": "Cymbal セレクト",
+     "size": "6g×20袋",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "潮見屋 野菜と昆布のだしパック 8g×12袋",
+     "brand": "潮見屋",
+     "size": "8g×12袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_vegetable_dashi_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_chicken_bouillon_cube",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "コンソメ・ブイヨン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ポトフ",
+    "ロールキャベツ",
+    "オニオンスープ",
+    "ピラフ",
+    "シチュー"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉と香味野菜のうまみをぎゅっと閉じ込めた固形チキンブイヨンです。1個で約300mlのスープが作れるので計量いらず。ポトフやロールキャベツ、ピラフなど洋風料理の味の土台になります。",
+   "image_brief": "A small white paper box with plain blank label, a few foil-wrapped bouillon cubes spilling out in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チキンブイヨン 固形 7個入",
+     "brand": "Cymbal",
+     "size": "7個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンブイヨン 固形 21個入",
+     "brand": "Cymbal",
+     "size": "21個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チキンブイヨン 固形 徳用 30個入",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 化学調味料無添加 チキンブイヨン 固形 8個入",
+     "brand": "Cymbal セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンブイヨン 塩分ひかえめ 固形 7個入",
+     "brand": "Cymbal",
+     "size": "7個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_chicken_bouillon_cube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_beef_consomme",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "コンソメ・ブイヨン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "ハンバーグソース",
+    "オニオングラタンスープ",
+    "ミネストローネ"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉のコクと炒め玉ねぎの甘みをきかせたビーフコンソメです。ビーフシチューやハンバーグのソース、オニオングラタンスープに入れると、レストランのような奥深い味わいに仕上がります。",
+   "image_brief": "A dark brown paper box with blank label and gold foil-wrapped cubes in front, alongside a small jar of brown granules.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビーフコンソメ 固形 7個入",
+     "brand": "Cymbal",
+     "size": "7個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフコンソメ 固形 21個入",
+     "brand": "Cymbal",
+     "size": "21個入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフコンソメ 顆粒 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛エキス使用 ビーフコンソメ 顆粒 4.5g×8本",
+     "brand": "Cymbal セレクト",
+     "size": "4.5g×8本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ビーフ風味コンソメ 顆粒 袋入 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_beef_consomme_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_vegetable_bouillon",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "コンソメ・ブイヨン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "野菜スープ",
+    "カレー",
+    "リゾット",
+    "ベジタリアン料理"
+   ],
+   "tax_rate": 8,
+   "description": "肉や魚介を使わず、野菜だけでまとめたベジタブルブイヨンです。すっきりとした甘みで素材の味を邪魔しません。ベジタリアン向けの料理や、毎日のスープ、リゾットのベースに便利です。",
+   "image_brief": "A green paper carton with blank label and small cubes wrapped in green foil arranged in front, with a carrot and celery stick.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベジタブルブイヨン 固形 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベジタブルブイヨン 顆粒 4g×10本",
+     "brand": "Cymbal",
+     "size": "4g×10本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機野菜ブイヨン 粉末 5g×8本",
+     "brand": "Cymbal オーガニック",
+     "size": "5g×8本",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal セレクト 化学調味料無添加 野菜ブイヨン 顆粒 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス ガーデンベジタブル ブイヨン 10g×6個",
+     "brand": "ルミエスパイス",
+     "size": "10g×6個",
+     "price_tax_excluded": 348,
+     "origin": "フランス製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_vegetable_bouillon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_neri_chuka_can",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "鶏ガラスープ・中華だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "鶏肉",
+    "ごま",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "野菜炒め",
+    "中華スープ",
+    "ラーメン",
+    "餃子"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨・鶏ガラのエキスに香味野菜とスパイスを練り合わせた缶入りの万能中華調味料です。スプーンですくって溶かすだけで、チャーハンや野菜炒め、スープがお店のような濃厚な味わいに。大容量缶は家族の多いご家庭に。",
+   "image_brief": "A squat red metal tin with a plain blank wraparound label and lid, a spoonful of beige paste in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "紅龍厨房 練り中華調味料 缶入り 250g",
+     "brand": "紅龍厨房",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 練り中華調味料 缶入り 500g",
+     "brand": "紅龍厨房",
+     "size": "500g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 練り中華調味料 缶入り 業務用 1kg",
+     "brand": "紅龍厨房",
+     "size": "1kg",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 万能中華ペースト 缶 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 化学調味料無添加 練り中華ペースト 瓶 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_neri_chuka_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_paitan_soup_base",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "白湯スープの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "鶏肉",
+    "ごま",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "白湯鍋",
+    "ラーメン",
+    "雑炊",
+    "中華スープ",
+    "クリーム煮"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨と鶏ガラをじっくり炊き出したような、白く濃厚な白湯スープの素です。お湯に溶かすだけでクリーミーなスープになり、白湯鍋やラーメン、野菜のクリーム煮にも大活躍。寒い季節にうれしい味わいです。",
+   "image_brief": "A white stand-up zip pouch with blank label and a clear window showing creamy off-white granules, a bowl of milky soup beside.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鶏白湯スープの素 顆粒 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚骨白湯スープの素 顆粒 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白湯スープの素 スティック 8g×8本",
+     "brand": "Cymbal",
+     "size": "8g×8本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 濃厚白湯スープの素 ペースト 120g",
+     "brand": "紅龍厨房",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 白湯スープの素 徳用袋 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_paitan_soup_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_hotate_soup_base",
+   "category_path": [
+    "調味料",
+    "洋風・中華だし",
+    "鶏ガラスープ・中華だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "中華粥",
+    "卵スープ",
+    "あんかけ",
+    "炒飯",
+    "八宝菜"
+   ],
+   "tax_rate": 8,
+   "description": "ほたて貝柱エキスの上品なうまみを生かした中華スープの素です。中華粥や卵スープ、あんかけ料理に使うと、海鮮のやさしい甘みが広がります。いつもの鶏ガラとは一味違う味わいを楽しめます。",
+   "image_brief": "A clear jar of pale yellow granules with a white blank cap and blank label, a few dried scallops beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ほたて貝柱スープの素 顆粒 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほたて貝柱スープの素 顆粒 袋入 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産ほたて使用 貝柱スープ 顆粒 5g×10本",
+     "brand": "Cymbal セレクト",
+     "size": "5g×10本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 干し貝柱だし 中華スープ 60g",
+     "brand": "紅龍厨房",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ほたて風味 中華スープの素 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_hotate_soup_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_korean_beef_dashi",
+   "category_path": [
+    "調味料",
+    "韓国調味料",
+    "韓国だし"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "わかめスープ",
+    "ユッケジャン",
+    "チゲ",
+    "クッパ",
+    "ナムル"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉エキスとにんにく・ねぎをきかせた韓国風の牛肉だしです。わかめスープやクッパ、チゲのベースはもちろん、ナムルの味付けにもひと振りでコクが出ます。韓国家庭料理づくりの心強い味方です。",
+   "image_brief": "A bright red stand-up pouch with a blank label and a clear window showing beige granules with green onion flakes.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ソウルの台所 韓国風 牛肉だし 顆粒 100g",
+     "brand": "ソウルの台所",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "ソウルの台所 韓国風 牛肉だし 顆粒 300g",
+     "brand": "ソウルの台所",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "ソウルの台所 韓国風 牛肉だし スティック 8g×10本",
+     "brand": "ソウルの台所",
+     "size": "8g×10本",
+     "price_tax_excluded": 348,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "Cymbal 牛だしスープの素 顆粒 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソウルの台所 煮干し・昆布 韓国だし 顆粒 100g",
+     "brand": "ソウルの台所",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_korean_beef_dashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_white_pepper",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ポタージュ",
+    "クリームシチュー",
+    "白身魚のソテー",
+    "中華スープ",
+    "ラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "マイルドで上品な香りの白こしょうパウダーです。料理の色を損なわないので、ポタージュやクリームシチュー、白身魚の料理に最適。中華スープやラーメンの仕上げにもよく合います。",
+   "image_brief": "A small clear glass spice jar of fine off-white pepper powder with a white shaker cap and a plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホワイトペッパー パウダー 瓶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 198,
+     "origin": "マレーシア産こしょう使用"
+    },
+    {
+     "title": "Cymbal ホワイトペッパー パウダー 袋 詰替用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "マレーシア産こしょう使用"
+    },
+    {
+     "title": "Cymbal ベーシック ホワイトペッパー 徳用 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト サラワク産 白こしょう パウダー 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "マレーシア産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ホワイトペッパー 20g",
+     "brand": "Cymbal オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "スリランカ産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_white_pepper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_black_pepper_whole_mill",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "カルボナーラ",
+    "サラダ",
+    "ローストビーフ",
+    "ペペロンチーノ"
+   ],
+   "tax_rate": 8,
+   "description": "黒こしょうの粒をミル付きボトルに詰めました。使う直前に挽くので、はじける香りと刺激が格別。ステーキやカルボナーラ、サラダの仕上げに。中身だけの詰替用もあり経済的です。",
+   "image_brief": "A clear glass bottle filled with whole black peppercorns topped with a black plastic grinder cap, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ブラックペッパー ホール ミル付き 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "インド産こしょう使用"
+    },
+    {
+     "title": "Cymbal ブラックペッパー ホール 詰替用 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "インド産こしょう使用"
+    },
+    {
+     "title": "Cymbal セレクト テリチェリー ブラックペッパー ミル付き 45g",
+     "brand": "Cymbal セレクト",
+     "size": "45g",
+     "price_tax_excluded": 598,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト カンポット産 黒こしょう ホール 35g",
+     "brand": "Cymbal セレクト",
+     "size": "35g",
+     "price_tax_excluded": 780,
+     "origin": "カンボジア産"
+    },
+    {
+     "title": "Cymbal ベーシック ブラックペッパー ホール 徳用 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_black_pepper_whole_mill_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_table_pepper",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "目玉焼き",
+    "野菜炒め",
+    "スープ",
+    "ラーメン",
+    "焼きそば"
+   ],
+   "tax_rate": 8,
+   "description": "白と黒のこしょうを合わせたテーブルこしょうです。細かい粉末で料理全体にムラなくなじみ、目玉焼きや野菜炒め、ラーメンにさっと振りかけられます。食卓に置きやすい缶入りの定番タイプ。",
+   "image_brief": "A small cylindrical metal shaker can with a perforated lid and a plain blank wrap label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal テーブルこしょう 缶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal テーブルこしょう 缶 45g",
+     "brand": "Cymbal",
+     "size": "45g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック テーブルこしょう 詰替用 袋 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal テーブルこしょう 小袋 0.1g×50袋",
+     "brand": "Cymbal",
+     "size": "0.1g×50袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト あらびきテーブルこしょう 缶 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_table_pepper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_mix_pepper_mill",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "こしょう"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "カルパッチョ",
+    "グリル料理",
+    "パスタ",
+    "クリスマス料理"
+   ],
+   "tax_rate": 8,
+   "description": "黒・白・グリーン・ピンクの4色のこしょうをミックスしたミル付きボトルです。挽くたびに彩り豊かで華やかな香りが立ち、カルパッチョやグリル料理の仕上げに。パーティー料理の演出にもぴったりです。",
+   "image_brief": "A clear glass grinder bottle filled with colorful black, white, green and pink peppercorns, silver grinder cap, blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 4色ミックスペッパー ミル付き 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 4色ミックスペッパー 詰替用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス ピンクペッパー ホール 15g",
+     "brand": "ルミエスパイス",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "マダガスカル産"
+    },
+    {
+     "title": "ルミエスパイス グリーンペッパー フリーズドライ 15g",
+     "brand": "ルミエスパイス",
+     "size": "15g",
+     "price_tax_excluded": 448,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト ハーブ&ペッパー ミル付き 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_mix_pepper_mill_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_lemon_pepper",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "シーズニング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チキンソテー",
+    "白身魚のムニエル",
+    "フライドポテト",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "あらびき黒こしょうにレモンの爽やかな香りと塩を合わせたレモンペッパーです。チキンソテーやムニエル、から揚げにひと振りするだけでさっぱりと食べやすく。フライドポテトやサラダにもおすすめ。",
+   "image_brief": "A clear shaker jar of coarse black pepper flecked with yellow lemon zest, yellow blank cap, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レモンペッパー 瓶 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal レモンペッパー 詰替用 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス 瀬戸内レモンペッパー 40g",
+     "brand": "ルミエスパイス",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト あらびき レモン&ハーブペッパー 35g",
+     "brand": "Cymbal セレクト",
+     "size": "35g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック レモンペッパー 徳用 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_lemon_pepper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kuro_shichimi",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "七味・一味・山椒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "うどん",
+    "そば",
+    "鍋物",
+    "焼き鳥",
+    "豚汁"
+   ],
+   "tax_rate": 8,
+   "description": "唐辛子・山椒・黒ごま・青のりなどを香ばしく炒って仕上げた京風の黒七味です。深い色合いと豊かな香りが特長で、うどんやそば、鍋物、焼き鳥にひと振りすると風味が引き立ちます。",
+   "image_brief": "A small cylindrical bamboo-style wooden container with a cork stopper beside a pile of dark brown-black spice blend, blank paper band.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 京風 黒七味 袋 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 京風 黒七味 竹筒入り 10g",
+     "brand": "Cymbal セレクト",
+     "size": "10g",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆず七味 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 山椒たっぷり 七味 瓶 15g",
+     "brand": "Cymbal セレクト",
+     "size": "15g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "潮見屋 黒七味 詰替用 30g",
+     "brand": "潮見屋",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kuro_shichimi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_taka_no_tsume",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "唐辛子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ペペロンチーノ",
+    "きんぴら",
+    "漬物",
+    "炒め物",
+    "ピクルス"
+   ],
+   "tax_rate": 8,
+   "description": "辛みの強い鷹の爪をホールと輪切りでご用意しました。ペペロンチーノやきんぴら、ぬか漬けや白菜漬けの風味付けに。乾燥タイプなので常温で長く保存でき、少量ずつ使えて便利です。",
+   "image_brief": "A clear plastic bag of bright red whole dried chili peppers with stems, plain blank header card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鷹の爪 ホール 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 鷹の爪 ホール 徳用 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 鷹の爪 ホール 8g",
+     "brand": "Cymbal セレクト",
+     "size": "8g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 輪切り唐辛子 8g",
+     "brand": "Cymbal セレクト",
+     "size": "8g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_taka_no_tsume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_korean_chili_powder",
+   "category_path": [
+    "調味料",
+    "韓国調味料",
+    "粉唐辛子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "白菜キムチ",
+    "チゲ",
+    "ナムル",
+    "トッポギ",
+    "ユッケジャン"
+   ],
+   "tax_rate": 8,
+   "description": "甘みとうまみのある韓国産の唐辛子を粉にしました。辛さは穏やかで鮮やかな赤色が料理に映えます。粗挽きは白菜キムチ漬けに、細挽きはチゲやナムル、トッポギの味付けにおすすめです。",
+   "image_brief": "A clear plastic bag filled with vivid red coarse chili flakes, plain blank label, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ソウルの台所 韓国産 粉唐辛子 粗挽き キムチ用 100g",
+     "brand": "ソウルの台所",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ソウルの台所 韓国産 粉唐辛子 粗挽き キムチ用 500g",
+     "brand": "ソウルの台所",
+     "size": "500g",
+     "price_tax_excluded": 1680,
+     "origin": "韓国産"
+    },
+    {
+     "title": "ソウルの台所 韓国産 粉唐辛子 細挽き 調味用 100g",
+     "brand": "ソウルの台所",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "韓国産"
+    },
+    {
+     "title": "Cymbal 韓国風 粉唐辛子 粗挽き 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 辛口 韓国産 粉唐辛子 中挽き 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "韓国産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_korean_chili_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_chili_powder_cayenne",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "チリ・カイエンペッパー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チリコンカン",
+    "タコス",
+    "エビチリ",
+    "スパイスカレー"
+   ],
+   "tax_rate": 8,
+   "description": "シャープな辛さのカイエンペッパーと、クミンやオレガノをブレンドしたチリパウダーを揃えました。チリコンカンやタコス、スパイスカレーに、料理にきりっとした辛さとエスニックな香りを加えます。",
+   "image_brief": "A small clear glass spice jar of bright orange-red chili powder with a red shaker cap and a plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カイエンペッパー 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チリパウダー 瓶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チリパウダー 詰替用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス スモークチポトレ パウダー 20g",
+     "brand": "ルミエスパイス",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機カイエンペッパー 15g",
+     "brand": "Cymbal オーガニック",
+     "size": "15g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_chili_powder_cayenne_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_budou_sansho_whole",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "山椒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うなぎ",
+    "ちりめん山椒",
+    "焼き鳥",
+    "麻婆豆腐",
+    "鍋物"
+   ],
+   "tax_rate": 8,
+   "description": "粒の大きなぶどう山椒をミル付きで。挽きたての山椒は柑橘のような爽快な香りとしびれる辛みが格別です。うなぎや焼き鳥はもちろん、麻婆豆腐や鍋物の薬味にもおすすめ。",
+   "image_brief": "A small clear glass grinder bottle filled with reddish-brown split sansho pepper husks, wooden-tone grinder cap, blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 和歌山県産 ぶどう山椒 ミル付き 10g",
+     "brand": "Cymbal セレクト",
+     "size": "10g",
+     "price_tax_excluded": 598,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "Cymbal セレクト 和歌山県産 ぶどう山椒 詰替用 10g",
+     "brand": "Cymbal セレクト",
+     "size": "10g",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "Cymbal ホール山椒 ミル付き 12g",
+     "brand": "Cymbal",
+     "size": "12g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "潮見屋 朝倉山椒 粉 国産 6g",
+     "brand": "潮見屋",
+     "size": "6g",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_budou_sansho_whole_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_yuzu_peel_powder",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "ゆず・柑橘スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "吸い物",
+    "鍋物",
+    "茶碗蒸し",
+    "ゆず大根",
+    "お雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "国産ゆずの皮を乾燥させて粉末・刻みにしました。吸い物や鍋物、茶碗蒸しにほんの少し加えるだけで、冬らしい爽やかな香りがふわっと広がります。生のゆずが手に入らない季節にも重宝します。",
+   "image_brief": "A small clear glass jar of fine yellow citrus peel powder with a yellow blank cap and plain label, a whole yuzu beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産ゆず皮 粉末 8g",
+     "brand": "Cymbal",
+     "size": "8g",
+     "price_tax_excluded": 298,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "Cymbal 国産ゆず皮 きざみ 6g",
+     "brand": "Cymbal",
+     "size": "6g",
+     "price_tax_excluded": 298,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産 ゆず皮粉末 10g",
+     "brand": "Cymbal セレクト",
+     "size": "10g",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal すだち皮 粉末 8g",
+     "brand": "Cymbal",
+     "size": "8g",
+     "price_tax_excluded": 348,
+     "origin": "徳島県産すだち使用"
+    },
+    {
+     "title": "潮見屋 ゆず七色 薬味 12g",
+     "brand": "潮見屋",
+     "size": "12g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_yuzu_peel_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_cumin_seed",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "クミン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スパイスカレー",
+    "ジーラライス",
+    "キャロットラペ",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "インド料理に欠かせないクミンの粒（シード）です。油で熱してから使うと香ばしく立ち上る香りが料理全体を本格的に。スパイスカレーやジーラライス、キャベツやにんじんの炒め物にも合います。",
+   "image_brief": "A small clear glass spice jar filled with slender brown cumin seeds, black shaker cap, plain blank label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クミンシード ホール 瓶 25g",
+     "brand": "Cymbal",
+     "size": "25g",
+     "price_tax_excluded": 248,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal クミンシード 詰替用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "インド産"
+    },
+    {
+     "title": "ルミエスパイス クミンシード 徳用 200g",
+     "brand": "ルミエスパイス",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機クミンシード 25g",
+     "brand": "Cymbal オーガニック",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト ローストクミンシード 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "インド産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_cumin_seed_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_coriander",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "コリアンダー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スパイスカレー",
+    "タンドリーチキン",
+    "ピクルス",
+    "ガパオ"
+   ],
+   "tax_rate": 8,
+   "description": "柑橘を思わせる爽やかで甘い香りのコリアンダーです。カレーの香りの土台として欠かせないほか、タンドリーチキンの下味やピクルス液にも。パウダーとホールの2タイプから選べます。",
+   "image_brief": "A small clear glass spice jar of light tan coriander powder beside a few round coriander seeds, blank label and cap.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コリアンダー パウダー 瓶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 248,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal コリアンダーシード ホール 瓶 20g",
+     "brand": "Cymbal",
+     "size": "20g",
+     "price_tax_excluded": 248,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "Cymbal コリアンダー パウダー 詰替用 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス コリアンダー パウダー 徳用 200g",
+     "brand": "ルミエスパイス",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機コリアンダー パウダー 20g",
+     "brand": "Cymbal オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_coriander_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_cardamom",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "カルダモン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "チャイ",
+    "ビリヤニ",
+    "スパイスカレー",
+    "焼き菓子",
+    "コーヒー"
+   ],
+   "tax_rate": 8,
+   "description": "「スパイスの女王」とも呼ばれる、清涼感のある上品な香りのカルダモンです。チャイやビリヤニ、カレーはもちろん、クッキーやパウンドケーキなど焼き菓子にも。ホールは軽くつぶして使うと香りが際立ちます。",
+   "image_brief": "A small clear glass jar of plump pale green cardamom pods with a green blank cap and plain label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カルダモン ホール 瓶 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 348,
+     "origin": "グアテマラ産"
+    },
+    {
+     "title": "Cymbal カルダモン パウダー 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 348,
+     "origin": "グアテマラ産"
+    },
+    {
+     "title": "ルミエスパイス グリーンカルダモン ホール 30g",
+     "brand": "ルミエスパイス",
+     "size": "30g",
+     "price_tax_excluded": 698,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト カルダモン ホール 大粒 15g",
+     "brand": "Cymbal セレクト",
+     "size": "15g",
+     "price_tax_excluded": 598,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機カルダモン パウダー 15g",
+     "brand": "Cymbal オーガニック",
+     "size": "15g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_cardamom_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_clove",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "クローブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ビーフシチュー",
+    "ホットワイン",
+    "カレー",
+    "ポトフ",
+    "焼き豚"
+   ],
+   "tax_rate": 8,
+   "description": "甘く濃厚な香りのクローブ（丁子）です。煮込み料理に数粒加えると肉の臭みを和らげ、深みのある味わいに。ホットワインやチャイ、オレンジに刺すポマンダーなど冬の季節の楽しみにも。",
+   "image_brief": "A small clear glass spice jar filled with dark brown nail-shaped whole cloves, black blank cap, plain label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クローブ ホール 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "マダガスカル産"
+    },
+    {
+     "title": "Cymbal クローブ パウダー 瓶 18g",
+     "brand": "Cymbal",
+     "size": "18g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス クローブ ホール 徳用 100g",
+     "brand": "ルミエスパイス",
+     "size": "100g",
+     "price_tax_excluded": 798,
+     "origin": "マダガスカル産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機クローブ ホール 15g",
+     "brand": "Cymbal オーガニック",
+     "size": "15g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホットワインスパイスミックス 4袋入",
+     "brand": "Cymbal セレクト",
+     "size": "4袋入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_clove_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_allspice_ginger",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "洋風スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ジンジャークッキー",
+    "ミートソース",
+    "チャイ"
+   ],
+   "tax_rate": 8,
+   "description": "シナモン・クローブ・ナツメグを合わせたような香りのオールスパイスと、ピリッと温かみのあるジンジャーパウダーを揃えました。ハンバーグやミートソースの下味、ジンジャークッキーなど焼き菓子にも。",
+   "image_brief": "Two small clear glass spice jars, one with brown allspice powder and one with pale yellow ginger powder, blank labels and caps.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オールスパイス パウダー 瓶 18g",
+     "brand": "Cymbal",
+     "size": "18g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オールスパイス ホール 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "ジャマイカ産"
+    },
+    {
+     "title": "Cymbal ジンジャー パウダー 瓶 18g",
+     "brand": "Cymbal",
+     "size": "18g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産 しょうがパウダー 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ジンジャーパウダー 20g",
+     "brand": "Cymbal オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_allspice_ginger_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_oregano",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "ドライハーブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ピザ",
+    "トマトソース",
+    "グリルチキン",
+    "ギリシャサラダ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトやチーズとの相性が抜群のオレガノです。ピザやトマトソース、グリルチキンにひと振りすれば地中海風の香りに。ほろ苦く清涼感のある香りで、オリーブオイルと合わせたマリネにもおすすめです。",
+   "image_brief": "A small clear glass spice jar filled with crumbled dried green oregano leaves, green blank cap, plain label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オレガノ 乾燥 詰替用 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 248,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "ルミエスパイス ギリシャ産 ワイルドオレガノ 10g",
+     "brand": "ルミエスパイス",
+     "size": "10g",
+     "price_tax_excluded": 498,
+     "origin": "ギリシャ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機オレガノ 6g",
+     "brand": "Cymbal オーガニック",
+     "size": "6g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オレガノ 徳用 30g",
+     "brand": "Cymbal ベーシック",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_oregano_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_thyme_rosemary",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "ドライハーブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "ローストチキン",
+    "ポテトのロースト",
+    "煮込み料理",
+    "ラムチョップ"
+   ],
+   "tax_rate": 8,
+   "description": "肉料理やローストに欠かせないタイムとローズマリーの乾燥ハーブです。ローストチキンやポテトのオーブン焼き、ラム肉の香り付けに。すっきりと力強い香りで、クリスマスのごちそう作りにも活躍します。",
+   "image_brief": "Two small clear glass spice jars of dried green thyme leaves and needle-like rosemary, blank green caps and labels.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal タイム 乾燥 瓶 8g",
+     "brand": "Cymbal",
+     "size": "8g",
+     "price_tax_excluded": 248,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "Cymbal ローズマリー 乾燥 瓶 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 248,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "Cymbal ローズマリー 乾燥 詰替用 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス エルブ・ド・プロヴァンス 12g",
+     "brand": "ルミエスパイス",
+     "size": "12g",
+     "price_tax_excluded": 398,
+     "origin": "フランス産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機タイム 8g",
+     "brand": "Cymbal オーガニック",
+     "size": "8g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機ローズマリー 10g",
+     "brand": "Cymbal オーガニック",
+     "size": "10g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_thyme_rosemary_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_dried_parsley",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "ドライハーブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "スープ",
+    "パスタ",
+    "オムライス",
+    "ポテトサラダ",
+    "ピラフ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかな緑色をそのまま残した乾燥パセリです。スープやパスタ、オムライスの仕上げにぱらりと散らすだけで彩りがぐっと華やかに。ドライディルやチャイブなど他のハーブもご用意しました。",
+   "image_brief": "A small clear glass shaker jar of bright green dried parsley flakes with a green blank cap and plain label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal パセリ 乾燥 瓶 4g",
+     "brand": "Cymbal",
+     "size": "4g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パセリ 乾燥 詰替用 6g",
+     "brand": "Cymbal",
+     "size": "6g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 パセリ 乾燥 5g",
+     "brand": "Cymbal セレクト",
+     "size": "5g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "ルミエスパイス ディル 乾燥 5g",
+     "brand": "ルミエスパイス",
+     "size": "5g",
+     "price_tax_excluded": 348,
+     "origin": "エジプト産"
+    },
+    {
+     "title": "ルミエスパイス チャイブ フリーズドライ 3g",
+     "brand": "ルミエスパイス",
+     "size": "3g",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_dried_parsley_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_cinnamon_stick",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "シナモン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "チャイ",
+    "ホットワイン",
+    "アップルパイ",
+    "紅茶",
+    "コンポート"
+   ],
+   "tax_rate": 8,
+   "description": "くるりと巻いたシナモンスティックです。チャイや紅茶、ホットワインに入れて香りを移したり、りんごのコンポートと一緒に煮込んだり。見た目もおしゃれで、カップに添えれば冬のティータイムが華やぎます。",
+   "image_brief": "A tall clear glass jar holding several rolled light brown cinnamon sticks, wooden-tone blank cap, plain label.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シナモンスティック 瓶 4本入",
+     "brand": "Cymbal",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "Cymbal シナモンスティック 袋 10本入",
+     "brand": "Cymbal",
+     "size": "10本入",
+     "price_tax_excluded": 398,
+     "origin": "インドネシア産"
+    },
+    {
+     "title": "Cymbal セレクト セイロンシナモン スティック 5本入",
+     "brand": "Cymbal セレクト",
+     "size": "5本入",
+     "price_tax_excluded": 498,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機セイロンシナモン パウダー 20g",
+     "brand": "Cymbal オーガニック",
+     "size": "20g",
+     "price_tax_excluded": 498,
+     "origin": "スリランカ産"
+    },
+    {
+     "title": "ルミエスパイス カシア シナモン ホール 徳用 100g",
+     "brand": "ルミエスパイス",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_cinnamon_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_star_anise_wuxiang",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "中華スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚の角煮",
+    "魯肉飯",
+    "煮卵",
+    "焼き豚",
+    "唐揚げの下味"
+   ],
+   "tax_rate": 8,
+   "description": "甘く独特の香りを持つ八角（スターアニス）と、八角・花椒・シナモンなどを合わせた五香粉です。豚の角煮や魯肉飯、焼き豚に加えれば本格的な中華・台湾の味わいに。唐揚げの下味にも。",
+   "image_brief": "A small clear glass jar of star-shaped brown star anise pods next to a jar of brown five-spice powder, blank labels.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 八角 ホール 瓶 10g",
+     "brand": "Cymbal",
+     "size": "10g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal 五香粉 瓶 15g",
+     "brand": "Cymbal",
+     "size": "15g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 八角 ホール 徳用 50g",
+     "brand": "紅龍厨房",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "紅龍厨房 台湾風 五香粉 30g",
+     "brand": "紅龍厨房",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 魯肉飯スパイスミックス 15g×2袋",
+     "brand": "Cymbal セレクト",
+     "size": "15g×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_star_anise_wuxiang_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_outdoor_spice",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "シーズニング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "バーベキュー",
+    "ステーキ",
+    "焼きそば",
+    "炒め物",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "塩・こしょう・ガーリックにうまみ素材を絶妙に配合したアウトドアスパイスです。肉や野菜を焼くときに振るだけで、香ばしくクセになる味わいに。キャンプやバーベキューはもちろん、普段の炒め物にも。",
+   "image_brief": "A black matte cylindrical shaker bottle with a blank kraft label, coarse spice blend scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アウトドアスパイス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アウトドアスパイス 辛口 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アウトドアスパイス 詰替用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス ブラックガーリック スパイス 80g",
+     "brand": "ルミエスパイス",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼肉スパイス 120g",
+     "brand": "Cymbal ベーシック",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_outdoor_spice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_garlic_chip_fried_onion",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "トッピングスパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "サラダ",
+    "ラーメン",
+    "ガーリックライス",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと香ばしく揚げたフライドガーリックとフライドオニオンです。ステーキやサラダ、ラーメンにトッピングすれば、食感と香りのアクセントに。ガーリックライスやスープの仕上げにも重宝します。",
+   "image_brief": "A clear plastic stand-up zip pouch of golden crispy fried garlic slices with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フライドガーリック スライス 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "中国産にんにく使用"
+    },
+    {
+     "title": "Cymbal フライドオニオン 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フライドガーリック 刻み 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 青森県産にんにく フライドガーリック 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 598,
+     "origin": "青森県産"
+    },
+    {
+     "title": "ルミエスパイス デンマーク風 クリスピーオニオン 100g",
+     "brand": "ルミエスパイス",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "デンマーク製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_garlic_chip_fried_onion_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_curry_powder_blend",
+   "category_path": [
+    "調味料",
+    "塩・こしょう・スパイス",
+    "カレー粉・スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレーうどん",
+    "ドライカレー",
+    "カレー炒め",
+    "スープカレー",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "20種類以上のスパイスを焙煎・熟成したカレー粉の大容量タイプや、香り違いのブレンドです。カレーうどんやドライカレー、野菜のカレー炒め、唐揚げの衣の香り付けまで、いつもの料理に手軽にスパイス感を。",
+   "image_brief": "A clear stand-up zip pouch of bright yellow-brown curry powder with a plain blank label, a small mound of powder in front.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カレー粉 袋入 徳用 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焙煎カレー粉 辛口 瓶 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレー粉 缶 業務用 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 28種スパイス 熟成カレーパウダー 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カレー粉 袋入 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_curry_powder_blend_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_cinnamon_sugar_spice",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "スイーツ用スパイス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "シナモントースト",
+    "チュロス",
+    "ホットミルク",
+    "焼き菓子",
+    "フレンチトースト"
+   ],
+   "tax_rate": 8,
+   "description": "シナモンとグラニュー糖をほどよく合わせたシナモンシュガーや、焼き菓子向けのスパイスミックスです。トーストにふりかけて焼くだけで香り高いおやつに。冬のホットミルクやフレンチトーストにも。",
+   "image_brief": "A clear glass shaker jar of light brown sugar-and-cinnamon crystals with a white blank cap, a slice of cinnamon toast beside.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シナモンシュガー 瓶 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シナモンシュガー 詰替用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス パンプキンスパイスミックス 25g",
+     "brand": "ルミエスパイス",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス ジンジャーブレッド スパイスミックス 25g",
+     "brand": "ルミエスパイス",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト バニラシュガー 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_cinnamon_sugar_spice_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_neri_ume_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "梅肉・青じそチューブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "梅しそ巻き",
+    "冷奴",
+    "和え物",
+    "梅肉ドレッシング",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "紀州産の梅を裏ごししたねり梅のチューブです。種取りの手間なく、さっと出して和え物や冷奴、梅しそ巻きに使えます。はちみつ入りのまろやかなタイプもご用意しました。",
+   "image_brief": "A slim soft plastic squeeze tube with a pink blank label and white cap, a dollop of red plum paste beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ねり梅 チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 168,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal ねり梅 はちみつ入り チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 178,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal セレクト 紀州南高梅 梅肉 チューブ 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "Cymbal ねり梅 徳用 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "国産梅使用"
+    },
+    {
+     "title": "Cymbal ベーシック 梅肉 チューブ 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 128,
+     "origin": "中国産梅使用"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_neri_ume_tube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_aojiso_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "梅肉・青じそチューブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷やしうどん",
+    "和風パスタ",
+    "ドレッシング",
+    "刺身",
+    "冷奴"
+   ],
+   "tax_rate": 8,
+   "description": "爽やかな香りの青じそ（大葉）をペーストにしたチューブです。刻む手間なく、冷やしうどんや和風パスタ、ドレッシングに。刺身の薬味やソースのアクセントにも重宝します。",
+   "image_brief": "A slim soft plastic squeeze tube with a green blank label and white cap, a small dab of green herb paste beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ねり青じそ チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねり青じそ チューブ 40g×2本",
+     "brand": "Cymbal",
+     "size": "40g×2本",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産大葉使用 青じそ チューブ 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国産大葉使用"
+    },
+    {
+     "title": "Cymbal おろし生バジル チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 刻みねぎ塩 チューブ 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_aojiso_tube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_yuzu_tube",
+   "category_path": [
+    "調味料",
+    "わさび・からし・薬味チューブ",
+    "柚子・柑橘チューブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "鍋物",
+    "吸い物",
+    "焼き魚",
+    "ぽん酢",
+    "ドレッシング"
+   ],
+   "tax_rate": 8,
+   "description": "国産ゆずの果皮をすりおろしたゆずペーストのチューブです。必要な分だけ絞って使え、鍋物や吸い物、焼き魚に爽やかな香りをプラス。冬の鍋の薬味に一本あると便利です。",
+   "image_brief": "A slim soft plastic squeeze tube with a yellow blank label and white cap, a dab of yellow citrus paste and a yuzu beside it.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おろしゆず チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国産ゆず使用"
+    },
+    {
+     "title": "Cymbal おろしすだち チューブ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "徳島県産すだち使用"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産 本ゆず ペースト チューブ 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "高知県産"
+    },
+    {
+     "title": "Cymbal 赤ゆずこしょう 瓶 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "九州産唐辛子使用"
+    },
+    {
+     "title": "潮見屋 ゆず七味ペースト チューブ 40g",
+     "brand": "潮見屋",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_yuzu_tube_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_chojang_ssamjang",
+   "category_path": [
+    "調味料",
+    "韓国調味料",
+    "チョジャン・サムジャン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サムギョプサル",
+    "ビビンバ",
+    "刺身",
+    "野菜スティック",
+    "チヂミ"
+   ],
+   "tax_rate": 8,
+   "description": "焼肉を葉野菜で包むときに欠かせないサムジャンと、甘酸っぱく辛い酢コチュジャンのチョジャンをご用意。サムギョプサルやビビンバ、刺身や野菜スティックのディップに使えます。",
+   "image_brief": "A red plastic squeeze tube and a small round plastic tub of dark reddish-brown paste, both with blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ソウルの台所 サムジャン チューブ 120g",
+     "brand": "ソウルの台所",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "ソウルの台所 サムジャン カップ 500g",
+     "brand": "ソウルの台所",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "ソウルの台所 チョジャン 酢コチュジャン 300g",
+     "brand": "ソウルの台所",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "韓国製造"
+    },
+    {
+     "title": "Cymbal 焼肉用 サムジャン チューブ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソウルの台所 ヤンニョムジャン 万能たれ 250g",
+     "brand": "ソウルの台所",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "韓国製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_chojang_ssamjang_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kanitama_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "かに"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かに玉",
+    "天津飯",
+    "あんかけ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり卵にとろりと甘酢あんをかける、かに玉の素です。かに風味のかやく入りで、卵を混ぜて焼き、あんをかけるだけ。ごはんにのせれば天津飯にもなり、手早く一品作りたい日に便利です。",
+   "image_brief": "A rectangular paper carton with plain blank colored panels, beside a plated fluffy egg omelet glazed with glossy amber sauce.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かに玉の素 2〜3人前 2回分",
+     "brand": "Cymbal",
+     "size": "2回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 天津飯の素 甘酢あん 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 本格 かに玉の素 かに肉入り 3〜4人前",
+     "brand": "紅龍厨房",
+     "size": "3〜4人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック かに玉の素 2〜3人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2〜3人前",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紅ずわいがに入り かに玉の素 2〜3人前",
+     "brand": "Cymbal セレクト",
+     "size": "2〜3人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kanitama_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_chukadon_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "中華丼",
+    "あんかけ焼きそば",
+    "あんかけご飯"
+   ],
+   "tax_rate": 8,
+   "description": "野菜と肉を炒めて加えるだけで、うまみたっぷりのとろりとした中華丼のあんが作れます。白菜がおいしい季節にぴったり。あんかけ焼きそばやかた焼きそばにも使える便利な料理の素です。",
+   "image_brief": "A flat retort pouch with blank colored panels next to a bowl of rice topped with glossy vegetable and pork sauce.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 中華丼の素 2人前 2袋入",
+     "brand": "Cymbal",
+     "size": "2袋入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 中華丼の素 具入り レトルト 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 海鮮あんかけの素 2〜3人前×2袋",
+     "brand": "紅龍厨房",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんかけ焼きそばの素 2人前",
+     "brand": "Cymbal",
+     "size": "2人前",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 中華丼の素 具入り 160g×3袋",
+     "brand": "Cymbal ベーシック",
+     "size": "160g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_chukadon_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_ebimayo_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エビマヨ",
+    "チキンマヨ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "揚げ焼きしたえびに絡めるだけの、まろやかで甘みのあるエビマヨの素です。練乳のコクがほんのり感じられ、お子さまにも人気。鶏肉やブロッコリーで作るチキンマヨにもアレンジできます。",
+   "image_brief": "A small rectangular carton with plain blank panels next to a plate of fried shrimp coated in creamy pale orange sauce.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal エビマヨの素 2〜3人前 2回分",
+     "brand": "Cymbal",
+     "size": "2回分",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンマヨの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 濃厚 エビマヨソース 120g",
+     "brand": "紅龍厨房",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal エビマヨの素 ピリ辛 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック エビマヨの素 2〜3人前",
+     "brand": "Cymbal ベーシック",
+     "size": "2〜3人前",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_ebimayo_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_yulinchi_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "油淋鶏",
+    "唐揚げ",
+    "冷しゃぶ",
+    "揚げ豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "香味野菜たっぷりの甘酸っぱい油淋鶏のたれと、まぶし粉がセットになった料理の素です。鶏肉に粉をまぶして揚げ焼きし、たれをかけるだけ。唐揚げのアレンジや冷しゃぶのたれにも使えます。",
+   "image_brief": "A slim paper carton with blank colored panels beside sliced crispy fried chicken topped with chopped green onion sauce.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 油淋鶏の素 まぶし粉付き 2〜3人前×2回分",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 油淋鶏のたれ 瓶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 香味野菜たっぷり 油淋鶏ソース 180g",
+     "brand": "紅龍厨房",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 鶏チリの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal よだれ鶏のたれ 2〜3人前",
+     "brand": "Cymbal",
+     "size": "2〜3人前",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_yulinchi_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kakuni_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "豚の角煮",
+    "煮豚",
+    "手羽元煮",
+    "煮卵"
+   ],
+   "tax_rate": 8,
+   "description": "とろとろの豚の角煮が手軽に作れる煮込み用のたれです。しょうゆと黒糖ベースのコクのある甘辛味で、豚バラ肉を下ゆでして煮込むだけ。手羽元や煮卵、煮豚にも使える冬の煮込みの頼れる味方。",
+   "image_brief": "A clear plastic pouch of dark glossy brown simmering sauce with blank label, next to a bowl of braised pork belly cubes.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚の角煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚の角煮のたれ 瓶 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 手羽元煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産黒糖使用 ラフテーの素 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "紅龍厨房 台湾風 魯肉飯の素 2〜3人前×2袋",
+     "brand": "紅龍厨房",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kakuni_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_buri_daikon_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ぶり大根",
+    "ぶりの照り焼き",
+    "煮魚",
+    "大根の煮物"
+   ],
+   "tax_rate": 8,
+   "description": "旬のぶりと冬大根で作る、ぶり大根の素です。しょうが入りの甘辛いたれが魚の臭みを抑え、大根にじんわり味がしみ込みます。寒ぶりの季節にぴったりの、手間いらずの定番おかずに。",
+   "image_brief": "A small white paper box with plain blank label beside a ceramic bowl of simmered yellowtail and daikon in amber broth.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぶり大根の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かれいの煮付けの素 2〜3切×3袋",
+     "brand": "Cymbal",
+     "size": "2〜3切×3袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産しょうが入り ぶり大根の素 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ふろふき大根の素 ゆず味噌 4人前",
+     "brand": "Cymbal",
+     "size": "4人前",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ぶり大根の素 3〜4人前",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_buri_daikon_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_niku_doufu_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "肉豆腐",
+    "すき煮",
+    "牛ごぼう",
+    "肉吸い"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉と豆腐を煮込むだけでお店のような肉豆腐が仕上がる料理の素です。かつおだしをきかせた甘辛のつゆが豆腐にしみ込み、ごはんがすすむ味。ねぎやしらたきを加えてすき煮風にも。",
+   "image_brief": "A stand-up retort pouch with plain blank label next to a clay pot of simmered beef, tofu and green onions.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 肉豆腐の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牛すき煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 肉吸いの素 2人前×3袋",
+     "brand": "Cymbal",
+     "size": "2人前×3袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛エキス入り 肉豆腐の素 3〜4人前",
+     "brand": "Cymbal セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 肉豆腐の素 3〜4人前",
+     "brand": "Cymbal ベーシック",
+     "size": "3〜4人前",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_niku_doufu_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_katsudon_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "丼の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かつ丼",
+    "他人丼",
+    "卵とじ",
+    "開化丼"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしをきかせた甘辛いかつ丼のたれです。市販のとんかつと玉ねぎを煮て卵でとじるだけで、ふわとろのかつ丼が完成。他人丼や卵とじうどんなど、丼もの全般に使えます。",
+   "image_brief": "A clear plastic bottle of amber-brown sauce with a blank label and white cap next to a bowl of katsudon with egg.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かつ丼の素 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かつ丼のたれ ボトル 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 他人丼の素 3袋入",
+     "brand": "Cymbal",
+     "size": "3袋入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト そば店風 かつ丼の素 濃いめ 2袋入",
+     "brand": "Cymbal セレクト",
+     "size": "2袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 丼のたれ 万能 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_katsudon_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_tori_gobo_takikomi",
+   "category_path": [
+    "調味料",
+    "ごはんの素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "鶏ごぼうごはん",
+    "おにぎり",
+    "お弁当",
+    "お茶漬け"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉と香り豊かなごぼうを、しょうゆベースのだしで炊き上げる炊き込みご飯の素です。根菜がおいしい秋冬にぴったり。鯛めしや牡蠣めし、ひじきごはんなど季節の味もご用意しました。",
+   "image_brief": "A rectangular paper box with plain blank panels next to a ceramic bowl of rice cooked with chicken and burdock strips.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 鯛めしの素 2合用",
+     "brand": "Cymbal",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牡蠣めしの素 2合用",
+     "brand": "Cymbal",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "広島県産牡蠣使用"
+    },
+    {
+     "title": "Cymbal ひじきごはんの素 2合用",
+     "brand": "Cymbal",
+     "size": "2合用",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産鶏肉使用 鶏ごぼうごはんの素 3合用",
+     "brand": "Cymbal セレクト",
+     "size": "3合用",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_tori_gobo_takikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_peperoncino_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "パスタ用料理の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ペペロンチーノ",
+    "野菜炒め",
+    "ガーリックライス",
+    "アヒージョ"
+   ],
+   "tax_rate": 8,
+   "description": "ゆでたパスタに混ぜるだけで本格ペペロンチーノが作れる、ガーリックと唐辛子のふりかけタイプの素です。ガーリックライスや野菜炒め、アヒージョの味付けにも使える万能なパスタの素。",
+   "image_brief": "A small zip pouch with plain blank label and a clear window showing garlic chips and red chili flakes, plus a plate of spaghetti.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ペペロンチーノの素 ふりかけタイプ 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ペペロンチーノの素 瓶 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス アーリオ・オーリオ シーズニング 40g",
+     "brand": "ルミエスパイス",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アヒージョの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ガーリックパスタの素 2人前×3袋",
+     "brand": "Cymbal ベーシック",
+     "size": "2人前×3袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_peperoncino_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_napolitan_kinoko_pasta_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "パスタ用料理の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "乳",
+    "りんご"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "ナポリタン",
+    "和風きのこパスタ",
+    "オムライス",
+    "ドリア"
+   ],
+   "tax_rate": 8,
+   "description": "炒めた具材とパスタに絡めるだけの、パスタ用料理の素です。昔ながらの甘めのナポリタン、しょうゆとバターが香る和風きのこパスタ、明太バターなど、喫茶店や洋食店の味をご家庭で手軽に楽しめます。",
+   "image_brief": "A small paper carton with plain blank panels next to a plate of spaghetti tossed with mushrooms and herbs.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 喫茶店風 ナポリタンの素 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 和風きのこパスタの素 しょうゆバター 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 和風きのこパスタの素 しょうゆバター 2人前×4袋",
+     "brand": "Cymbal",
+     "size": "2人前×4袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太バターパスタの素 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ポルチーニ香る きのこクリームパスタの素 2人前",
+     "brand": "Cymbal セレクト",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_napolitan_kinoko_pasta_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_kinpira_base",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風惣菜の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "きんぴらごぼう",
+    "れんこんきんぴら",
+    "ひじき煮",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ごぼうやにんじんを炒めて絡めるだけで、ごま香るきんぴらが作れる和惣菜の素です。甘辛のしっかり味でお弁当のおかずにもぴったり。ひじき煮や切り干し大根煮の素もそろえ、常備菜づくりをサポートします。",
+   "image_brief": "A small rectangular carton with plain blank panels next to a ceramic dish of glossy stir-fried burdock and carrot with sesame.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きんぴらの素 2〜3人前×3袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×3袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひじき煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 切り干し大根煮の素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白和えの素 3〜4人前×2袋",
+     "brand": "Cymbal",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック きんぴらの素 2〜3人前×2袋",
+     "brand": "Cymbal ベーシック",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_kinpira_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_gapao_base",
+   "category_path": [
+    "調味料",
+    "エスニック調味料",
+    "エスニック料理の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ガパオライス",
+    "パッタイ",
+    "カオマンガイ",
+    "エスニック炒め"
+   ],
+   "tax_rate": 8,
+   "description": "ひき肉と野菜を炒めて加えるだけで、ホーリーバジル香るタイ風のガパオライスが作れる料理の素です。ナンプラーとオイスターのうまみに唐辛子がピリッと効きます。パッタイやカオマンガイの素もご用意。",
+   "image_brief": "A slim retort pouch with plain blank colored panels next to a plate of rice topped with spicy minced chicken, basil and a fried egg.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ガパオライスの素 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パッタイの素 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス ホーリーバジル香る ガパオソース 120g",
+     "brand": "ルミエスパイス",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ガパオライスの素 辛口 2人前×2袋",
+     "brand": "Cymbal",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス カオマンガイの素 2合用",
+     "brand": "ルミエスパイス",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_gapao_base_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_seasoning_dashi_spice_tandoori_base",
+   "category_path": [
+    "調味料",
+    "スパイス・ハーブ",
+    "シーズニング"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "タンドリーチキン",
+    "スパイスグリル",
+    "ケバブ",
+    "クリスマスチキン"
+   ],
+   "tax_rate": 8,
+   "description": "ヨーグルトに混ぜて鶏肉を漬け込み、焼くだけで本格タンドリーチキンが作れるスパイスミックスです。パプリカやクミンなどの香りが食欲をそそります。クリスマスのチキンやケバブ風グリルにもおすすめ。",
+   "image_brief": "A small paper sachet pack with plain blank panels next to a plate of red-orange spiced grilled chicken pieces with lemon.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal タンドリーチキンの素 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ケバブシーズニング 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス タンドリーマサラ 瓶 30g",
+     "brand": "ルミエスパイス",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジャークチキンシーズニング 2〜3人前×2袋",
+     "brand": "Cymbal",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルミエスパイス チキンティッカ スパイスミックス 30g",
+     "brand": "ルミエスパイス",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_seasoning_dashi_spice_tandoori_base_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

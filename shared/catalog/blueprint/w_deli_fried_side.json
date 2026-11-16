@@ -1,0 +1,3723 @@
+{
+ "category_key": "w_deli_fried_side",
+ "items": [
+  {
+   "base_id": "w_deli_fried_side_tebasaki_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ビールのお供",
+    "パーティー",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏の手羽先を二度揚げしてパリッと仕上げ、甘辛いしょうゆだれを絡めてこしょうとごまをたっぷり振りました。骨まわりの旨みが楽しめる、晩酌にぴったりの一品です。",
+   "image_brief": "Glossy sweet-soy glazed fried chicken wings sprinkled with sesame and black pepper arranged in rows in a black deli tray with a clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の手羽先唐揚げ 甘辛だれ 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽先唐揚げ 甘辛だれ 10本入",
+     "brand": "",
+     "size": "10本入",
+     "price_tax_excluded": 748,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽先唐揚げ 塩こしょう 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽先唐揚げ 旨辛スパイシー 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 428,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽先唐揚げ パーティーパック 20本入",
+     "brand": "",
+     "size": "20本入",
+     "price_tax_excluded": 1480,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tebasaki_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tebamoto_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "持ち寄りパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "食べごたえのある国産若鶏の手羽元を、にんにくしょうゆで下味をつけてじっくり揚げました。骨付きならではの肉汁と香ばしい衣が魅力。お子さまにも持ちやすく、パーティーにも喜ばれます。",
+   "image_brief": "Crispy brown fried chicken drumettes stacked in a large black deli tray with clear lid and shredded cabbage, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の手羽元唐揚げ 4本入",
+     "brand": "",
+     "size": "4本入",
+     "price_tax_excluded": 358,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽元唐揚げ 8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 658,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽元唐揚げ ガーリック 4本入",
+     "brand": "",
+     "size": "4本入",
+     "price_tax_excluded": 378,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の手羽元唐揚げ ファミリーパック 12本入",
+     "brand": "",
+     "size": "12本入",
+     "price_tax_excluded": 948,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tebamoto_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_nankotsu_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ビールのお供",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "コリコリとした食感がやみつきになる鶏なんこつの唐揚げ。にんにく醤油で下味をつけ、片栗粉の衣で香ばしく揚げています。黒こしょうを効かせた味付けで、おつまみにぴったりです。",
+   "image_brief": "Small bite-size fried chicken cartilage pieces with peppery coating heaped in a compact black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 鶏やげんなんこつ唐揚げ 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鶏やげんなんこつ唐揚げ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鶏ひざなんこつ唐揚げ 黒こしょう 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 鶏なんこつ唐揚げ ゆず塩 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_nankotsu_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_sunagimo_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "お弁当の彩り"
+   ],
+   "tax_rate": 8,
+   "description": "下処理した国産砂肝をにんにくと塩で下味をつけ、カリッと揚げました。噛むほどに広がる旨みと歯ごたえが特徴。レモンや七味を添えれば、お酒がすすむ一品になります。少量パックもあり便利です。",
+   "image_brief": "Crunchy fried chicken gizzard pieces with golden coating in a small black deli tray with clear lid and a lemon slice, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産砂肝の唐揚げ 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 258,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産砂肝の唐揚げ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 478,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産砂肝の唐揚げ 塩レモン 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 278,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産砂肝の唐揚げ ピリ辛 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 278,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_sunagimo_karaage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_zangi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道の郷土の味、ザンギ。しょうゆ・生姜・にんにく・りんご果汁の濃いめのたれにしっかり漬け込み、衣ごと味が染みた大ぶりの鶏もも肉を揚げました。冷めてもおいしく、お弁当にも最適です。",
+   "image_brief": "Large dark-golden marinated fried chicken thigh pieces in a black deli tray with clear lid and a small cup of sauce, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道風 国産若鶏のザンギ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 北海道風 国産若鶏のザンギ 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 北海道風 国産若鶏のザンギ 甘酢たれ付 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 478,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 北海道産鶏もも肉のザンギ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 北海道風 タコザンギ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 498,
+     "origin": "モーリタニア産たこ使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_zangi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tatsuta_age",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "唐揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "豚肉",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "竜田揚げ丼"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆとみりんで下味をつけた国産若鶏もも肉に片栗粉をまぶし、白い粉がふいたような竜田揚げに仕上げました。カリッとした衣と、しっとりとしたお肉の食感をお楽しみください。",
+   "image_brief": "White-dusted crisp tatsuta-style fried chicken pieces in a black deli tray with clear lid and green shiso leaf garnish, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏の竜田揚げ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 428,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の竜田揚げ 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 748,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏の竜田揚げ おろしポン酢付 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 458,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の竜田揚げ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] ノルウェー産さばの竜田揚げ 4切入",
+     "brand": "",
+     "size": "4切入",
+     "price_tax_excluded": 398,
+     "origin": "ノルウェー産さば使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tatsuta_age_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_mille_feuille_katsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "カツ・メンチカツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "カツ丼"
+   ],
+   "tax_rate": 8,
+   "description": "薄切りの国産豚肉を何層にも重ねて揚げたミルフィーユカツ。驚くほどやわらかく、噛み切りやすい食感です。チーズや大葉をはさんだ味違いもご用意しました。ソースをかけても、卵でとじてカツ丼にしてもおいしくいただけます。",
+   "image_brief": "Layered pork mille-feuille cutlets cut in half to show thin stacked meat layers and melted cheese, in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚のミルフィーユカツ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚のミルフィーユカツ チーズ入り 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚のミルフィーユカツ 大葉梅 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚のミルフィーユカツ 4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 748,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚のミルフィーユカツ ひと口サイズ 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_mille_feuille_katsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_kushikatsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "串カツ・串揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "鶏肉",
+    "牛肉",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "パーティー",
+    "串カツ丼"
+   ],
+   "tax_rate": 8,
+   "description": "えび・うずら・ししとう・れんこん・牛肉など、多彩な具材を一本ずつ串に刺して揚げた大阪風の串揚げ。きめ細かいパン粉でサクサク軽い食感に仕上げました。ソースをかけて熱々で、晩酌やパーティーにどうぞ。",
+   "image_brief": "Assorted golden fine-breadcrumb skewered fried cutlets lined up neatly in a long black deli tray with clear lid and a small sauce cup, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 大阪風 串揚げ盛合せ 8種8本入",
+     "brand": "",
+     "size": "8本入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大阪風 串揚げ盛合せ 12種12本入",
+     "brand": "",
+     "size": "12本入",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 大阪風 串揚げ盛合せ 野菜中心 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 498,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "[店内調理] うずら卵の串揚げ 4本入",
+     "brand": "",
+     "size": "4本入",
+     "price_tax_excluded": 258,
+     "origin": "国産うずら卵使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏ささみの串揚げ 梅しそ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 牛串カツ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 398,
+     "origin": "オーストラリア産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_kushikatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_potato_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "コロッケパン",
+    "お弁当",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産男爵いもをほっくりとつぶし、合挽き肉と炒め玉ねぎを合わせた昔ながらのポテトコロッケ。素朴な甘みとサクサクの衣が魅力で、家計にもうれしい毎日の定番おかずです。",
+   "image_brief": "Oval golden-brown potato croquettes lined up in a black deli tray with clear lid, crisp breadcrumb texture visible, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産男爵いもの肉じゃがコロッケ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 68,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産男爵いもの肉じゃがコロッケ 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産男爵いもの肉じゃがコロッケ 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 548,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産メークインの野菜コロッケ 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] ミニポテトコロッケ お弁当用 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_potato_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_kani_cream_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "かに"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "洋食プレート",
+    "お弁当",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "かにの身を加えたなめらかなホワイトソースを、薄衣でサクッと包んだかにクリームコロッケ。口の中でとろけるクリーミーな味わいで、ちょっとした洋食気分を楽しめます。トースターで温め直すとサクサク感が戻ります。",
+   "image_brief": "Cylindrical golden crab cream croquettes, one cut showing creamy white filling, in a black deli tray with clear lid and parsley, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] かにクリームコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] かにクリームコロッケ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ずわいがに入りクリームコロッケ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "ロシア産ずわいがに使用"
+    },
+    {
+     "title": "[店内調理] 北海道産たまねぎのクリームコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 278,
+     "origin": "北海道産たまねぎ使用"
+    },
+    {
+     "title": "Cymbal かにクリームコロッケ 冷凍 揚げるだけ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_kani_cream_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_curry_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "コロッケパン",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスの香りが食欲をそそるカレーコロッケ。じゃがいもと合挽き肉に中辛のカレー風味を練り込み、カリッと揚げました。ソースなしでもしっかり味がついていて、パンにはさむのもおすすめです。",
+   "image_brief": "Round croquettes with yellowish curry filling visible in one broken piece, in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 中辛カレーコロッケ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 中辛カレーコロッケ 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 甘口キーマカレーコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] チーズ入りカレーコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_curry_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_satsumaimo_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "おやつ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "秋の味覚、さつまいもをたっぷり使った甘いコロッケ。ほくほくのさつまいもにバターをほんのり効かせ、黒ごまをアクセントにしました。お子さまのおやつにもぴったりの季節限定品です。",
+   "image_brief": "Golden croquettes with bright orange sweet potato filling visible in a cut one, in a black deli tray with clear lid, blank label, autumn styling, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもコロッケ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 458,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "[店内調理] 安納芋の蜜いもコロッケ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県種子島産安納芋使用"
+    },
+    {
+     "title": "[店内調理] 紫いもとチーズのコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 278,
+     "origin": "沖縄県産紫いも使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_satsumaimo_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_gratin_croquette",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "コロッケ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "洋食プレート",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "マカロニとえびを入れた濃厚なグラタンをそのままコロッケにしました。とろりとしたホワイトソースとサクサク衣のコントラストが楽しい一品。寒い季節に恋しくなる洋食惣菜です。",
+   "image_brief": "Oval golden croquettes, one split showing creamy macaroni and shrimp gratin filling, in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] えびグラタンコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびグラタンコロッケ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 558,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃのグラタンコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内調理] きのこのグラタンコロッケ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_gratin_croquette_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_ebi_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エビフライ定食",
+    "お弁当",
+    "えびフライサンド",
+    "洋食プレート"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとした食感の大ぶりのえびを、まっすぐ伸ばして粗めのパン粉でサクッと揚げたえびフライ。自家製タルタルソース付きの商品もあり、ごちそう感のある一品です。お子さまのお弁当用ミニサイズも人気です。",
+   "image_brief": "Long straight golden breaded fried shrimp with red tails lined up in a black deli tray with clear lid, lemon wedge and small tartar cup, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 大えびフライ 2尾入",
+     "brand": "",
+     "size": "2尾入",
+     "price_tax_excluded": 398,
+     "origin": "ベトナム産ブラックタイガー使用"
+    },
+    {
+     "title": "[店内調理] 大えびフライ 4尾入",
+     "brand": "",
+     "size": "4尾入",
+     "price_tax_excluded": 748,
+     "origin": "ベトナム産ブラックタイガー使用"
+    },
+    {
+     "title": "[店内調理] えびフライ タルタルソース付 3尾入",
+     "brand": "",
+     "size": "3尾入",
+     "price_tax_excluded": 498,
+     "origin": "インドネシア産バナメイえび使用"
+    },
+    {
+     "title": "[店内調理] 特大えびフライ 1尾",
+     "brand": "",
+     "size": "1尾",
+     "price_tax_excluded": 298,
+     "origin": "インド産ブラックタイガー使用"
+    },
+    {
+     "title": "[店内調理] ミニえびフライ お弁当用 8尾入",
+     "brand": "",
+     "size": "8尾入",
+     "price_tax_excluded": 398,
+     "origin": "タイ産バナメイえび使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_ebi_fry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_ika_ring_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかないかを輪切りにしてサクサクのパン粉衣で揚げたいかリングフライ。食べやすいサイズでお子さまにも人気です。ケチャップやタルタルソースでおつまみにも。トースターで温めるとサクッと仕上がります。",
+   "image_brief": "Golden breaded squid rings piled in a black deli tray with clear lid and a lemon wedge, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] いかリングフライ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "中国加工"
+    },
+    {
+     "title": "[店内調理] いかリングフライ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "中国加工"
+    },
+    {
+     "title": "[店内調理] いかリングフライ ガーリック風味 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 318,
+     "origin": "中国加工"
+    },
+    {
+     "title": "[店内調理] いかリング天ぷら 青のり 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "中国加工"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_ika_ring_fry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_iwashi_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "フライ丼"
+   ],
+   "tax_rate": 8,
+   "description": "開いた真いわしを細かいパン粉で揚げたいわしフライ。身がふっくらやわらかく、青魚ならではの旨みが楽しめます。骨までやわらかく、ソースやしょうゆでどうぞ。秋が旬のさんまフライもご用意しました。",
+   "image_brief": "Butterflied breaded fried sardines in neat rows in a black deli tray with clear lid and shredded cabbage, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 千葉県産真いわしフライ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 248,
+     "origin": "千葉県産真いわし使用"
+    },
+    {
+     "title": "[店内調理] 千葉県産真いわしフライ 6枚入",
+     "brand": "",
+     "size": "6枚入",
+     "price_tax_excluded": 458,
+     "origin": "千葉県産真いわし使用"
+    },
+    {
+     "title": "[店内調理] 真いわしの梅しそフライ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 278,
+     "origin": "国産真いわし使用"
+    },
+    {
+     "title": "[店内調理] 北海道産さんまフライ 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産さんま使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_iwashi_fry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_sake_fry",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "フライ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "さけ"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "サーモンフライ丼"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののった鮭をサクッとフライにしました。しっとりした身とサクサク衣の相性は抜群。タルタルソースをたっぷりのせて、ご飯のおかずにもお弁当にも重宝する一品です。白身のほっけフライも人気です。",
+   "image_brief": "Golden breaded salmon fillet fries with a glimpse of pink flesh in a black deli tray with clear lid and tartar sauce cup, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産秋鮭フライ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[店内調理] 北海道産秋鮭フライ 4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 558,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[店内調理] チリ産サーモンフライ タルタル付 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "チリ産アトランティックサーモン使用"
+    },
+    {
+     "title": "[店内調理] 北海道産ほっけフライ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産ほっけ使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_sake_fry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_yakitori_momo_shio",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "焼き鳥"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "焼き鳥丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏のもも肉を大きめにカットし、粗塩でシンプルに味付けして店内で焼き上げました。皮目は香ばしく、中はふっくらジューシー。七味やゆず胡椒を添えてどうぞ。トースターで軽く温めると香ばしさが戻ります。",
+   "image_brief": "Salt-grilled chicken thigh skewers with charred edges lined up in a long black tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼き] 国産若鶏 もも串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 もも串 塩 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 558,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 もも串 ゆず胡椒 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 もも串 わさび添え 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 宮崎県産地鶏 もも串 塩 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 398,
+     "origin": "宮崎県産地鶏使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_yakitori_momo_shio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tori_teriyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "鶏の焼き物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "照り焼き丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏のもも肉を一枚丸ごと皮目からこんがり焼き、しょうゆとみりんの甘辛だれで照りよく仕上げました。食べやすくカット済み。ご飯がすすむ、家族みんなが喜ぶ定番おかずです。",
+   "image_brief": "Sliced glossy teriyaki chicken thigh with caramelized skin in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏もも肉の照り焼き 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏もも肉の照り焼き 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 748,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏もも肉の柚子胡椒焼き 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏もも肉のガーリック塩焼き 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tori_teriyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_mabo_dofu_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "麻婆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "豚肉",
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆丼",
+    "晩ごはんのおかず",
+    "麻婆豆腐定食"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚ひき肉と豆板醤・甜麺醤を炒め合わせ、絹ごし豆腐を加えた本格麻婆豆腐。花椒の香りがアクセント。温めるだけで、ご飯にかけて麻婆丼にもできる手軽な一品です。辛さ違いをそろえ、ご家族で選べます。",
+   "image_brief": "Red glossy mapo tofu with silky tofu cubes and minced pork, sprinkled with green onion, in a round black microwave container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚ひき肉の麻婆豆腐 中辛 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ひき肉の麻婆豆腐 甘口 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 四川風 痺れ辛 麻婆豆腐 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ひき肉の麻婆豆腐 約600g ファミリー",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_mabo_dofu_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_mabo_nasu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "麻婆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "豚肉",
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "麻婆茄子丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと揚げたなすに、ピリ辛の肉みそあんをからめた麻婆なす。なすが旨みたっぷりのあんをしっかり吸い込んでいます。ご飯にのせて丼にしてもおいしくいただけます。白菜や厚揚げの味違いも人気です。",
+   "image_brief": "Glossy deep-purple fried eggplant pieces in reddish spicy minced pork sauce in a black deli container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産なすの麻婆なす 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 国産なすの麻婆なす 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 麻婆白菜 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産白菜使用"
+    },
+    {
+     "title": "[店内調理] 麻婆厚揚げ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_mabo_nasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_chinjao_rosu_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "肉の中華惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "牛肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "青椒肉絲丼"
+   ],
+   "tax_rate": 8,
+   "description": "細切りにした国産豚肉とピーマン、たけのこをオイスターソースで手早く炒めた青椒肉絲。シャキッとした食感と香ばしい味付けで、ご飯がすすむ中華の定番です。牛肉を使った青椒牛肉絲もご用意しています。",
+   "image_brief": "Julienned green peppers, bamboo shoots and pork strips stir-fried in glossy brown sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚の青椒肉絲 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の青椒肉絲 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛の青椒牛肉絲 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 548,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 彩り野菜の青椒肉絲 パプリカ入り 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 428,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_chinjao_rosu_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_hoikoro_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "肉の中華惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "回鍋肉丼"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚バラ肉とキャベツ、ピーマンを甘辛い味噌だれで炒め合わせた回鍋肉。キャベツの甘みと豚肉の旨みがよく合います。温めるだけで本格中華の一皿が食卓に並びます。お弁当のおかずにも重宝します。",
+   "image_brief": "Stir-fried cabbage, green pepper and sliced pork belly in a glossy miso sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚バラの回鍋肉 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚バラの回鍋肉 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 698,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚バラの回鍋肉 ピリ辛 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚バラとキャベツの味噌炒め 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_hoikoro_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_hane_gyoza",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "餃子・焼売"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "えび",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "おつまみ",
+    "ビールのお供"
+   ],
+   "tax_rate": 8,
+   "description": "店内で一枚ずつ焼き上げた羽根つき餃子。パリパリの羽根ともっちりした皮、国産キャベツと豚肉のジューシーな餡が楽しめます。たれ付きで、温め直しはトースターがおすすめです。",
+   "image_brief": "A round disc of pan-fried dumplings joined by a crispy lace-like golden skirt, placed in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚肉の羽根つき焼き餃子 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の羽根つき焼き餃子 20個入",
+     "brand": "",
+     "size": "20個入",
+     "price_tax_excluded": 748,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] にんにく不使用 しそ餃子 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] えび入り羽根つき餃子 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] チーズ羽根つき餃子 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_hane_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_age_gyoza",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "餃子・焼売"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "ごま",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "皮ごとカリッと揚げた揚げ餃子。香ばしくパリパリの皮の中から、肉汁たっぷりの餡があふれます。冷めても食感が楽しめ、お弁当やパーティーのひとつまみにぴったりです。トースターで温め直すのがおすすめです。",
+   "image_brief": "Deep-fried golden crescent dumplings with bubbly crisp skin in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚肉の揚げ餃子 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 298,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肉の揚げ餃子 16個入",
+     "brand": "",
+     "size": "16個入",
+     "price_tax_excluded": 548,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] チーズ揚げ餃子 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 揚げワンタン 甘酢付 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_age_gyoza_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_hamburg_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "ハンバーグ定食"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛豚合挽き肉を手ごねし、店内でふっくら焼き上げたハンバーグ。肉汁をしっかり閉じ込め、ソースは定番のデミグラスやおろしポン酢から選べます。温め直すだけで本格的な洋食に。",
+   "image_brief": "Two plump glossy hamburg steaks topped with brown demi-glace sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛豚ハンバーグ デミグラスソース 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉・豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛豚ハンバーグ 和風おろしソース 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉・豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛豚 チーズインハンバーグ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 548,
+     "origin": "国産牛肉・豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛豚 煮込みハンバーグ トマトソース 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 548,
+     "origin": "国産牛肉・豚肉使用"
+    },
+    {
+     "title": "[店内調理] 黒毛和牛入りハンバーグ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国産黒毛和牛使用"
+    },
+    {
+     "title": "[店内調理] ミニハンバーグ お弁当用 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_hamburg_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_meatball_tomato",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ミートボール"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "晩ごはんのおかず",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉と鶏肉の小さめのミートボールを、甘酸っぱいトマトソースで煮込みました。お子さまのお弁当にもぴったりのひと口サイズ。パスタと和えればボリュームのある一皿になります。",
+   "image_brief": "Small round meatballs simmered in red tomato sauce in a round black container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ミートボールのトマト煮 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉・鶏肉使用"
+    },
+    {
+     "title": "[店内調理] ミートボールのトマト煮 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉・鶏肉使用"
+    },
+    {
+     "title": "[店内調理] ミートボール 甘辛照り焼き 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉・鶏肉使用"
+    },
+    {
+     "title": "[店内調理] ミートボールのクリーム煮 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 378,
+     "origin": "国産豚肉・鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_meatball_tomato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_butakaku_ni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "角煮丼",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚バラ肉のかたまりを下ゆでして余分な脂を落とし、しょうゆと黒糖でとろとろになるまで煮込みました。箸で切れるやわらかさ。味のしみたゆで卵と一緒にどうぞ。寒い季節にうれしい一品です。",
+   "image_brief": "Glossy dark-brown braised pork belly cubes with a halved soy-marinated egg in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚の角煮 煮卵入り 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の角煮 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 898,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産黒豚の角煮 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産黒豚使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の角煮 大根入り 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 598,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚の角煮 レンジで温め 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_butakaku_ni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_renkon_kinpira",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "お弁当",
+    "常備菜",
+    "おつまみ",
+    "晩ごはんの副菜"
+   ],
+   "tax_rate": 8,
+   "description": "国産れんこんを薄切りにして、ごま油で炒め甘辛く仕上げたれんこんきんぴら。シャキシャキの歯ざわりと鷹の爪のほどよい辛みが後を引きます。秋冬の旬の味わいをどうぞ。常備菜としても重宝します。",
+   "image_brief": "Thin glossy stir-fried lotus root slices with sesame seeds and red chili flakes in a small black deli cup with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 茨城県産れんこんのきんぴら 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 238,
+     "origin": "茨城県産れんこん使用"
+    },
+    {
+     "title": "[店内調理] 茨城県産れんこんのきんぴら 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 448,
+     "origin": "茨城県産れんこん使用"
+    },
+    {
+     "title": "[店内調理] 茨城県産れんこんのきんぴら 明太風味 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 258,
+     "origin": "茨城県産れんこん使用"
+    },
+    {
+     "title": "[店内調理] 国産ピーマンとじゃこのきんぴら 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 238,
+     "origin": "国産ピーマン使用"
+    },
+    {
+     "title": "[店内調理] 国産こんにゃくのピリ辛きんぴら 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "国産こんにゃく芋使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_renkon_kinpira_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_hijiki_daizu_gomoku",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "常備菜",
+    "ひじきご飯",
+    "晩ごはんの副菜"
+   ],
+   "tax_rate": 8,
+   "description": "長ひじきに大豆・にんじん・油揚げ・れんこんを加えて、だしの効いた甘辛味でふっくら煮上げた五目煮。具だくさんで食べごたえがあり、混ぜご飯の具にもアレンジできます。",
+   "image_brief": "Dark black hijiki seaweed simmered with soybeans, orange carrot and fried tofu strips in a small black deli cup with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 長ひじきと大豆の五目煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 228,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 長ひじきと大豆の五目煮 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 418,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 長ひじきと枝豆の梅煮 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] ひじきと枝豆のサラダ 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 258,
+     "origin": "国産ひじき使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_hijiki_daizu_gomoku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_agedashi_tofu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "揚げ出し・揚げびたし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんの副菜",
+    "おつまみ",
+    "居酒屋メニュー"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆の木綿豆腐に片栗粉をまぶして揚げ、かつおと昆布の上品なだしあんをかけた揚げ出し豆腐。大根おろしとねぎを添えて温めればお店の味が楽しめます。寒い日の一品にぴったりです。",
+   "image_brief": "Golden deep-fried tofu cubes sitting in amber dashi broth with grated daikon and green onion in a black round container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産大豆の揚げ出し豆腐 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 国産大豆の揚げ出し豆腐 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 548,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 揚げ出し豆腐 きのこあんかけ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 揚げ出し餅 だしあん 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_agedashi_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_buri_daikon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "焼魚・煮魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "おつまみ",
+    "冬のおかず"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののった寒ぶりのあらと厚切り大根を、しょうゆと生姜で甘辛くじっくり煮込んだぶり大根。ぶりの旨みが大根の芯までしみ込んだ、冬ならではの味わいです。ご飯にもお酒にもよく合います。",
+   "image_brief": "Chunks of braised yellowtail and thick amber-glazed daikon radish rounds with ginger strips in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産ぶり大根 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産ぶり使用"
+    },
+    {
+     "title": "[店内調理] 国産ぶり大根 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "国産ぶり使用"
+    },
+    {
+     "title": "[店内調理] 国産ぶり大根 ゆず風味 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 528,
+     "origin": "国産ぶり使用"
+    },
+    {
+     "title": "[店内調理] 国産ぶりのあら煮 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産ぶり使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_buri_daikon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_sakana_nitsuke",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "焼魚・煮魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "和定食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "かれいや金目鯛、さばなどを甘辛いしょうゆ煮汁でふっくらと煮付けました。身離れがよく、煮汁がしみたやさしい味わい。骨取りのかれいもご用意しています。魚料理を手軽に楽しみたい方におすすめです。",
+   "image_brief": "A flounder piece braised in glossy dark soy broth with ginger and green beans in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 子持ちかれいの煮付け 1切",
+     "brand": "",
+     "size": "1切",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産あかがれい使用"
+    },
+    {
+     "title": "[店内調理] 骨取りかれいの煮付け 2切入",
+     "brand": "",
+     "size": "2切入",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産かれい使用"
+    },
+    {
+     "title": "[店内調理] 静岡県産金目鯛の煮付け 1切",
+     "brand": "",
+     "size": "1切",
+     "price_tax_excluded": 798,
+     "origin": "静岡県産金目鯛使用"
+    },
+    {
+     "title": "[店内調理] 国産さばのしょうゆ煮 2切入",
+     "brand": "",
+     "size": "2切入",
+     "price_tax_excluded": 398,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "[店内調理] 国産いわしの梅煮 4尾入",
+     "brand": "",
+     "size": "4尾入",
+     "price_tax_excluded": 298,
+     "origin": "国産いわし使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_sakana_nitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_gyusuji_nikomi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "どて丼",
+    "晩ごはんのおかず"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛すじを丁寧に下処理し、大根・こんにゃくと一緒に合わせ味噌で長時間煮込みました。とろりとほどける食感とコク深い味わい。ねぎをたっぷりのせて、熱燗のお供にもどうぞ。",
+   "image_brief": "Tender brown miso-braised beef tendon with daikon and konjac cubes topped with chopped green onion in a black round container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛すじ煮込み 味噌 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛すじ煮込み 味噌 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 848,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛すじ煮込み しょうゆ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚もつ煮込み 味噌 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛すじ煮込み レンジ対応 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_gyusuji_nikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_oden_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "おでん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "晩ごはん",
+    "おつまみ",
+    "冬の食卓"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしで、大根・卵・こんにゃく・練り物・牛すじなどをじっくり煮込んだ店内仕込みのおでん。温めるだけで、冬の食卓にほっとする味わいを届けます。からし付き。",
+   "image_brief": "Assorted Japanese oden of daikon rounds, boiled eggs, konjac triangles, fish cakes and skewered beef tendon in light broth in a round black container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] だしがしみた具だくさんおでん 1人前 8品",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] だしがしみた具だくさんおでん 2〜3人前 16品",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 948,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 静岡風 黒はんぺん入りおでん 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] おでん 味しみ大根 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 198,
+     "origin": "国産大根使用"
+    },
+    {
+     "title": "[店内調理] おでん 牛すじ串 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 348,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_oden_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_ganmo_takiawase",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんの副菜",
+    "お弁当",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくら揚げたがんもどきや高野豆腐、季節の野菜を、甘めのだしでふくよかに炊き合わせました。じゅわっとあふれるだしの旨みが魅力。年配の方にも食べやすいやさしい味です。",
+   "image_brief": "Simmered fried tofu balls, freeze-dried tofu squares, carrot and snow peas glistening in light broth in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] がんもどきと野菜の炊き合わせ 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] がんもどきの含め煮 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 高野豆腐の含め煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 258,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 厚揚げと大根の煮物 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_ganmo_takiawase_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tori_daikon_ni",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "冬のおかず",
+    "和定食"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏の手羽元と大根を、しょうゆと生姜でじっくり煮込んだ煮物。骨からしみ出た旨みが大根にたっぷりしみています。お酢を加えたさっぱり煮もご用意しました。寒い季節の食卓にぴったりです。",
+   "image_brief": "Braised chicken drumettes and thick amber daikon radish chunks with boiled egg halves in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏手羽元と大根の煮物 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏手羽元のさっぱり酢煮 ゆで卵入り 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏と大根のそぼろ煮 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 348,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産若鶏手羽元と大根の煮物 約550g",
+     "brand": "",
+     "size": "約550g",
+     "price_tax_excluded": 798,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tori_daikon_ni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_niku_tofu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "煮物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "肉豆腐丼",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛の切り落としと木綿豆腐、白滝、長ねぎを甘辛い割下でことこと煮込んだ肉豆腐。豆腐に牛肉の旨みがしっかりしみて、ご飯にもお酒にも合う一品です。寒い夜のおかずにもおすすめです。",
+   "image_brief": "Simmered tofu blocks, thin beef slices, shirataki noodles and green onion in a sweet soy broth in a black deli container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産牛の肉豆腐 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛の肉豆腐 約550g",
+     "brand": "",
+     "size": "約550g",
+     "price_tax_excluded": 898,
+     "origin": "国産牛肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚の肉豆腐 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産牛の肉豆腐 焼き豆腐使用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 528,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_niku_tofu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_aji_nanbanzuke",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "南蛮漬け・マリネ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "晩ごはんの副菜",
+    "作り置き",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "カラッと揚げた小あじを、玉ねぎ・にんじん・ピーマンと一緒に甘酢に漬け込んだ南蛮漬け。骨までやわらかく、さっぱりとした酸味が食欲をそそります。冷蔵庫で冷やしてもおいしく、作り置き感覚で楽しめます。",
+   "image_brief": "Small fried horse mackerel marinated with thin onion, carrot and green pepper strips in amber vinegar sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産小あじの南蛮漬け 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産あじ使用"
+    },
+    {
+     "title": "[店内調理] 国産小あじの南蛮漬け 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 648,
+     "origin": "国産あじ使用"
+    },
+    {
+     "title": "[店内調理] 北海道産秋鮭の南蛮漬け 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産秋鮭使用"
+    },
+    {
+     "title": "[店内調理] 国産わかさぎの南蛮漬け 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 348,
+     "origin": "国産わかさぎ使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_aji_nanbanzuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_mentai_potato_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "ポテトサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんの副菜",
+    "おつまみ",
+    "サンドイッチの具"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産じゃがいもに辛子明太子をたっぷり混ぜ込んだ明太ポテトサラダ。ピリッとした辛みとクリーミーなマヨネーズのコクが好相性で、おつまみにもおすすめです。大人向けのいぶりがっこ入りもおすすめです。",
+   "image_brief": "Creamy pink-speckled mentaiko potato salad mounded in a small black deli cup with clear lid, garnished with chopped chives, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産じゃがいもの明太ポテトサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産じゃがいもの明太ポテトサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] いぶりがっこ入り 大人のポテトサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] ゆず胡椒香る 和風ポテトサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 粗挽き黒こしょうのごろごろポテトサラダ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_mentai_potato_salad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tamago_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "たまご・ツナサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サンドイッチの具",
+    "朝ごはん",
+    "トースト"
+   ],
+   "tax_rate": 8,
+   "description": "国産卵を固ゆでにして粗くつぶし、まろやかなマヨネーズで和えたたまごサラダ。パンにはさんでたまごサンドにしたり、トーストにのせたりと、朝ごはんにも活躍します。ツナやブロッコリー入りもそろえました。",
+   "image_brief": "Chunky pale-yellow egg salad in a small black deli cup with clear lid, a sprinkle of parsley, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産卵のたまごサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] 国産卵のたまごサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "[店内調理] ツナとコーンのサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ブロッコリーとゆで卵のサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産卵使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tamago_salad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_gobou_gomamayo_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "ごぼう・根菜サラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "大豆",
+    "ごま",
+    "鶏肉",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "お弁当",
+    "晩ごはんの副菜",
+    "サンドイッチの具"
+   ],
+   "tax_rate": 8,
+   "description": "蒸し鶏とささがきごぼう、れんこんを香ばしいごまマヨネーズで和えたデリ風サラダ。根菜のシャキシャキ食感としっとりした蒸し鶏で、食べごたえのある一品に仕上げました。",
+   "image_brief": "Burdock root strips, lotus root slices and shredded steamed chicken in creamy sesame mayonnaise in a black deli cup with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 蒸し鶏とごぼうのごまマヨサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 蒸し鶏とごぼうのごまマヨサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 蒸し鶏とれんこんのわさびマヨサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 揚げごぼうのサラダ 甘辛だれ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国産ごぼう使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_gobou_gomamayo_salad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_pasta_salad",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "サラダ",
+    "マカロニ・パスタサラダ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "パーティー",
+    "晩ごはんの副菜"
+   ],
+   "tax_rate": 8,
+   "description": "ショートパスタにハムや彩り野菜を合わせたパスタサラダ。明太クリームやバジルなど、マカロニサラダとはひと味違うデリ風の味付けをそろえました。パーティーの一品にも。",
+   "image_brief": "Colorful short pasta salad with ham, peppers and broccoli in a black deli cup with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 彩り野菜とハムのパスタサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 明太クリームのパスタサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] バジル香るペンネサラダ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] スパゲティサラダ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 彩り野菜とハムのパスタサラダ 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_pasta_salad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_ham_katsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "カツ・メンチカツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ハムカツサンド",
+    "お弁当",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ロースハムに衣をつけてサクッと揚げた、昔ながらの店内揚げハムカツ。薄切りの懐かしいタイプから、食べごたえのある厚切りやチーズをはさんだタイプまで。ソースをかけてどうぞ。",
+   "image_brief": "Thin round golden breaded ham cutlets, one cut to show pink ham layers, stacked in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 昔ながらのハムカツ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 昔ながらのハムカツ 5枚入",
+     "brand": "",
+     "size": "5枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 厚切りハムカツ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] チーズはさみハムカツ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ハムカツ 大葉はさみ 2枚入",
+     "brand": "",
+     "size": "2枚入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_ham_katsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_sakana_tempura",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "天ぷら・かき揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "天丼",
+    "天ぷらそば",
+    "晩ごはんのおかず",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "きすや穴子、わかさぎなど、魚の天ぷらを店内でからりと揚げました。ふわっとした白身の甘みと軽い衣が魅力。天つゆでも塩でも、丼にしてもおいしくいただけます。冬はわかさぎもおすすめです。",
+   "image_brief": "Fluffy golden tempura of butterflied whiting and long conger eel strips lined up in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] きすの天ぷら 4尾入",
+     "brand": "",
+     "size": "4尾入",
+     "price_tax_excluded": 298,
+     "origin": "中国加工"
+    },
+    {
+     "title": "[店内調理] きすの天ぷら 8尾入",
+     "brand": "",
+     "size": "8尾入",
+     "price_tax_excluded": 548,
+     "origin": "中国加工"
+    },
+    {
+     "title": "[店内調理] 穴子一本天ぷら 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "韓国産あなご使用"
+    },
+    {
+     "title": "[店内調理] 国産わかさぎの天ぷら 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 348,
+     "origin": "国産わかさぎ使用"
+    },
+    {
+     "title": "[店内調理] 白身魚の天ぷら 青のり風味 3枚入",
+     "brand": "",
+     "size": "3枚入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_sakana_tempura_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_shogayaki_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "肉の焼き物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "生姜焼き定食"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚ロースをすりおろし生姜とりんご果汁入りの甘辛だれで香ばしく焼き上げた豚の生姜焼き。玉ねぎの甘みも加わり、温めるだけでご飯がすすむおかずになります。キャベツを添えて定食風にどうぞ。",
+   "image_brief": "Glossy ginger-soy glazed pork loin slices with softened onions layered in a black deli tray with clear lid and shredded cabbage, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚ロースの生姜焼き 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 448,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚ロースの生姜焼き 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 848,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚バラの生姜焼き 玉ねぎたっぷり 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産黒豚の生姜焼き 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産黒豚使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_shogayaki_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_daigaku_imo",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "いも・かぼちゃの惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "ごま",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "お弁当",
+    "箸休め"
+   ],
+   "tax_rate": 8,
+   "description": "旬のさつまいもを大きめに切って店内で揚げ、蜜をからめて黒ごまをまぶした大学いも。外はカリッと、中はほっくり。素材の甘みとこっくりとした蜜の甘さで、おやつにもぴったりです。",
+   "image_brief": "Glossy honey-glazed fried sweet potato chunks with purple skin and black sesame seeds in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもの大学いも 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "[店内調理] 鹿児島県産さつまいもの大学いも 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 548,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "[店内調理] 紅はるかの大学いも 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "茨城県産紅はるか使用"
+    },
+    {
+     "title": "[店内調理] スティック大学いも 黒ごま 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 258,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "[店内調理] 安納芋の大学いも 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産安納芋使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_daigaku_imo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_fried_potato_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "ポテト・いも揚げ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "パーティー",
+    "おやつ",
+    "付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産じゃがいもを店内でカラッと揚げたポテト。皮付きのくし切りやハッシュドポテトなど、揚げたてのおいしさが味わえます。パーティーやおつまみ、お子さまのおやつにもぴったりです。",
+   "image_brief": "Golden skin-on potato wedges and crispy hash brown patties in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産じゃがいもの皮付きポテト 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 258,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産じゃがいもの皮付きポテト 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 458,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] ハッシュドポテト 4枚入",
+     "brand": "",
+     "size": "4枚入",
+     "price_tax_excluded": 258,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] のり塩ポテト 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] じゃがバター風 フライドポテト 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_fried_potato_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_renkon_hasami_age",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "揚げ物",
+    "はさみ揚げ・肉詰め"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "旬のれんこんで国産豚ひき肉のあんをはさみ、衣をつけてサクッと揚げたはさみ揚げ。シャキシャキのれんこんとジューシーな肉だねが好相性。からしじょうゆや天つゆでどうぞ。",
+   "image_brief": "Golden fried lotus root sandwich rounds with minced meat filling, one cut showing the holes and filling, in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 茨城県産れんこんのはさみ揚げ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "茨城県産れんこん使用"
+    },
+    {
+     "title": "[店内調理] 茨城県産れんこんのはさみ揚げ 6個入",
+     "brand": "",
+     "size": "6個入",
+     "price_tax_excluded": 558,
+     "origin": "茨城県産れんこん使用"
+    },
+    {
+     "title": "[店内調理] 国産なすのはさみ揚げ 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 椎茸の肉詰めフライ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国産しいたけ使用"
+    },
+    {
+     "title": "[店内調理] れんこんの鶏つくねはさみ焼き 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_renkon_hasami_age_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_piman_nikuzume",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚のピーマンに牛豚合挽き肉のハンバーグだねをたっぷり詰めて、店内でこんがり焼き上げました。ピーマンのほろ苦さと肉汁のバランスがよく、ケチャップソースでお子さまにも食べやすい味です。",
+   "image_brief": "Halved green bell peppers stuffed with browned meat filling and topped with glossy sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産ピーマンの肉詰め 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産ピーマン使用"
+    },
+    {
+     "title": "[店内調理] 国産ピーマンの肉詰め 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 648,
+     "origin": "国産ピーマン使用"
+    },
+    {
+     "title": "[店内調理] 国産ピーマンの肉詰め チーズのせ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 378,
+     "origin": "国産ピーマン使用"
+    },
+    {
+     "title": "[店内調理] 国産ピーマンの肉詰め 和風照り焼き 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産ピーマン使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_piman_nikuzume_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_nira_reba",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "肉の中華惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "定食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "下処理して臭みを抑えた国産豚レバーを、にら・もやしと一緒にオイスターソースで強火で炒めたレバニラ。レバーはやわらかく、にんにくの香ばしさが食欲をそそるスタミナ惣菜です。",
+   "image_brief": "Stir-fried pork liver slices with green garlic chives and bean sprouts in glossy brown sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産豚レバーのレバニラ炒め 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚レバーのレバニラ炒め 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 648,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内調理] 国産鶏レバーのやわらか甘辛煮 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 248,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産豚肉とにらのスタミナ炒め 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_nira_reba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_happosai_deli",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "中華惣菜",
+    "野菜の中華惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いか",
+    "豚肉",
+    "小麦",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "晩ごはんのおかず",
+    "中華丼",
+    "あんかけ焼きそば"
+   ],
+   "tax_rate": 8,
+   "description": "白菜・にんじん・きくらげ・うずら卵などの具材とえび・いか・豚肉を、鶏がらスープのとろみあんでまとめた八宝菜。具だくさんで野菜がしっかりとれる一品。ご飯にかければ中華丼に。",
+   "image_brief": "Glossy translucent stir-fried mixed vegetables with shrimp, squid, quail eggs and napa cabbage in a round black container with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] えびといかの八宝菜 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] えびといかの八宝菜 約550g",
+     "brand": "",
+     "size": "約550g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産白菜たっぷり 塩八宝菜 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 428,
+     "origin": "国産白菜使用"
+    },
+    {
+     "title": "[店内調理] 国産野菜の五目うま煮 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_happosai_deli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_nasu_miso_itame",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "炒め物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "定食"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと炒めたなすとピーマン、国産豚肉を甘めの合わせ味噌でからめたなす味噌炒め。ご飯がすすむ、こっくりとした家庭の味わいです。冷めてもおいしくお弁当にも向いています。",
+   "image_brief": "Glossy miso-glazed stir-fried purple eggplant, green pepper and pork slices in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産なすと豚肉の味噌炒め 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 378,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 国産なすと豚肉の味噌炒め 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 678,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 国産なすとピーマンの甘味噌炒め 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "国産なす使用"
+    },
+    {
+     "title": "[店内調理] 国産なすと鶏肉のピリ辛味噌炒め 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 378,
+     "origin": "国産なす使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_nasu_miso_itame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_imo_mochi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "いも・かぼちゃの惣菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "晩ごはんの副菜"
+   ],
+   "tax_rate": 8,
+   "description": "北海道の郷土おやつ、いももち。じゃがいもに片栗粉を練り込んでもちもちに仕上げ、甘辛いしょうゆだれで焼き上げました。チーズ入りやかぼちゃもちもご用意。おやつにもおつまみにも。",
+   "image_brief": "Round flat golden pan-fried potato mochi cakes with a glossy soy glaze in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 北海道産じゃがいもの いももち 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 258,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産じゃがいもの いももち 8個入",
+     "brand": "",
+     "size": "8個入",
+     "price_tax_excluded": 478,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] チーズ入り いももち 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "[店内調理] 北海道産かぼちゃもち 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産かぼちゃ使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_imo_mochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_torikawa_ponzu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "和惣菜",
+    "小鉢・副菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "箸休め"
+   ],
+   "tax_rate": 8,
+   "description": "国産若鶏の皮を丁寧にゆでて脂を落とし、細切りにしてもみじおろし入りのぽん酢で和えました。ぷるっとした食感とさっぱりした味わいで、晩酌のお供にぴったりの小鉢です。",
+   "image_brief": "Thin strips of boiled chicken skin dressed in ponzu with grated daikon, chili and green onion in a small black deli cup with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産鶏皮ぽん酢 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産鶏皮ぽん酢 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 368,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産鶏皮のカリカリ揚げ 塩 約80g",
+     "brand": "",
+     "size": "約80g",
+     "price_tax_excluded": 198,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内調理] 国産砂肝ぽん酢 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 228,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_torikawa_ponzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_tofu_hamburg",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "洋風惣菜",
+    "ハンバーグ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "鶏肉",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩ごはんのおかず",
+    "お弁当",
+    "ヘルシーメニュー"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆の木綿豆腐と鶏ひき肉をあわせ、ひじきや野菜を加えてふんわり焼き上げた豆腐ハンバーグ。あっさりした味わいで、きのこあんや大根おろしと好相性。軽めの夕食にもおすすめです。",
+   "image_brief": "Two pale fluffy tofu hamburg patties topped with glossy mushroom sauce in a black deli tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産大豆の豆腐ハンバーグ きのこあん 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 国産大豆の豆腐ハンバーグ おろしポン酢 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] ひじき入り豆腐ハンバーグ 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "[店内調理] 国産大豆の豆腐ハンバーグ 照り焼き 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_tofu_hamburg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_yakitori_tsukune_variety",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "焼き鳥"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "小麦",
+    "大豆",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "軟骨入りでコリコリ食感の手ごねつくねを、いろいろな味で焼き上げました。卵黄だれを添えた月見つくね、大葉を巻いたさっぱりタイプ、チーズのせなど、食べ比べが楽しいラインアップです。",
+   "image_brief": "Plump grilled chicken meatball skewers, some glazed and some with melted cheese, beside a small cup of egg yolk in a black tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼き] 国産若鶏 月見つくね串 卵黄たれ付 2本入",
+     "brand": "",
+     "size": "2本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 つくね串 大葉巻き 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 チーズつくね串 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 338,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 なんこつ入りつくね串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 れんこん入りつくね串 たれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_yakitori_tsukune_variety_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_deli_fried_side_yakitori_kushi_variety",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "焼き物",
+    "焼き鳥"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "家飲み"
+   ],
+   "tax_rate": 8,
+   "description": "ハツ・せせり・ぼんじり・ささみなど、こだわりの部位串を店内で一本ずつ焼き上げました。部位ごとの食感と旨みの違いが楽しめます。豚バラ串も加え、家飲みのおつまみにぴったりです。",
+   "image_brief": "Assorted grilled chicken offal and specialty-cut skewers with charred edges lined up on a black tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼き] 国産若鶏 ハツ串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 258,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 せせり串 塩 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 318,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 ぼんじり串 たれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産若鶏 ささみ串 梅しそ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "[店内焼き] 国産豚バラ串 塩だれ 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 298,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "[店内焼き] 部位串食べ比べ 5種5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 498,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_deli_fried_side_yakitori_kushi_variety_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

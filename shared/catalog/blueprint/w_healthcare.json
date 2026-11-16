@@ -1,0 +1,3807 @@
+{
+ "category_key": "w_healthcare",
+ "items": [
+  {
+   "base_id": "w_healthcare_bandage_standard",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "絆創膏"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "すり傷・切り傷の保護",
+    "靴ずれ対策",
+    "救急箱の常備",
+    "通学・通勤のお守り"
+   ],
+   "tax_rate": 10,
+   "description": "指先やひざなど日常のちょっとした傷を保護する、定番の絆創膏です。肌色になじむ不織布タイプで、はがれにくく動かしやすいのが特長。家族みんなで使いやすい大容量パックや、サイズ違いのアソートも揃えました。",
+   "image_brief": "A small rectangular cardboard box of skin-tone adhesive bandages with a few loose strips fanned out in front, plain blank white label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "不織布",
+    "color": "肌色"
+   },
+   "variants": [
+    {
+     "title": "Cymbal 救急絆創膏 Mサイズ 50枚入",
+     "brand": "Cymbal",
+     "size": "50枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 救急絆創膏 Mサイズ 100枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "100枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 救急絆創膏 4サイズアソート 60枚入",
+     "brand": "Cymbal",
+     "size": "60枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 救急絆創膏 Lサイズ 30枚入",
+     "brand": "Cymbal",
+     "size": "30枚",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ やわらか布 絆創膏 Mサイズ 40枚入",
+     "brand": "ケアリーフ",
+     "size": "40枚",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bandage_standard_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bandage_waterproof",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "防水絆創膏"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手洗い・水仕事",
+    "入浴時の傷保護",
+    "プール・海",
+    "キッチン作業"
+   ],
+   "tax_rate": 10,
+   "description": "水仕事や入浴時にもはがれにくい、透明フィルムの防水タイプ絆創膏。薄くて目立ちにくく、指先にもぴったりフィットします。家事をする方やお子さまの水遊びシーズンにも重宝する、救急箱に入れておきたい一品です。",
+   "image_brief": "A slim cardboard box of transparent waterproof adhesive bandages with two clear strips laid on top, blank pale-blue label area, white background.",
+   "labels": [
+    "防水"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 防水絆創膏 透明フィルム Mサイズ 30枚入",
+     "brand": "Cymbal",
+     "size": "30枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 防水絆創膏 指先用 20枚入",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 防水絆創膏 Lサイズ 20枚入",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ うす透明 防水絆創膏 アソート 40枚入",
+     "brand": "ケアリーフ",
+     "size": "40枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 防水絆創膏 Mサイズ 50枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bandage_waterproof_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bandage_large_pad",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "大判パッド"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ひざ・ひじのすり傷",
+    "広い範囲の保護",
+    "スポーツ時の備え",
+    "アウトドア"
+   ],
+   "tax_rate": 10,
+   "description": "ひざやひじなど広い範囲を覆える大判サイズの救急パッド。傷口につきにくいパッド付きで、交換時もはがしやすい仕様です。活発なお子さまのいるご家庭や、スポーツ・アウトドアの救急セットにおすすめ。",
+   "image_brief": "A flat cardboard box of large square first-aid pads with one white pad and its paper wrapper shown in front, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 救急大判パッド Lサイズ 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 救急大判パッド LLサイズ 6枚入",
+     "brand": "Cymbal",
+     "size": "6枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 救急大判パッド 防水タイプ L 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ ひざ・ひじ用 大判パッド 12枚入",
+     "brand": "ケアリーフ",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bandage_large_pad_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_elastic_bandage",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "包帯"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ガーゼの固定",
+    "手首・足首の保護",
+    "スポーツ時の固定",
+    "救急箱の常備"
+   ],
+   "tax_rate": 10,
+   "description": "適度な伸縮性で巻きやすく、ずれにくい伸縮包帯。ガーゼの固定や手首・足首の保護など、救急箱に一つあると安心です。幅違いで揃えているので、指から太ももまで部位に合わせて選べます。",
+   "image_brief": "Several rolls of white elastic crepe bandage stacked beside a small blank cardboard sleeve, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal 伸縮包帯 5cm幅×4.5m 2巻",
+     "brand": "Cymbal",
+     "size": "5cm×4.5m×2巻",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 伸縮包帯 7.5cm幅×4.5m 2巻",
+     "brand": "Cymbal",
+     "size": "7.5cm×4.5m×2巻",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 伸縮包帯 10cm幅×4.5m",
+     "brand": "Cymbal",
+     "size": "10cm×4.5m",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ネット包帯 ひじ・ひざ用 1枚",
+     "brand": "Cymbal ベーシック",
+     "size": "ひじ・ひざ用",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ 自着式 伸縮テープ包帯 5cm×4.5m",
+     "brand": "ケアリーフ",
+     "size": "5cm×4.5m",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_elastic_bandage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_sterile_gauze",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "ガーゼ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "傷口の保護",
+    "汚れのふき取り",
+    "救急箱の常備",
+    "介護ケア"
+   ],
+   "tax_rate": 10,
+   "description": "一枚ずつ個包装された滅菌ガーゼで、清潔に使えるのが魅力です。やわらかな綿100%で肌あたりがよく、傷の保護やふき取りに。持ち歩きに便利な少量パックからたっぷり使える大容量まで揃えました。",
+   "image_brief": "A small paper box of individually wrapped sterile cotton gauze pads with one opened pouch showing folded white gauze, blank label, white background.",
+   "labels": [],
+   "attributes": {
+    "material": "綿100%"
+   },
+   "variants": [
+    {
+     "title": "Cymbal 滅菌ガーゼ 個包装 Mサイズ 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 滅菌ガーゼ 個包装 Lサイズ 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ガーゼ 30cm×30cm 20枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "20枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ 肌につきにくい 滅菌パッドガーゼ 10枚入",
+     "brand": "ケアリーフ",
+     "size": "10枚",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_sterile_gauze_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_surgical_tape",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "サージカルテープ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ガーゼの固定",
+    "包帯止め",
+    "介護ケア",
+    "救急箱の常備"
+   ],
+   "tax_rate": 10,
+   "description": "手で簡単に切れる、ガーゼや包帯固定用のサージカルテープ。通気性のよい不織布タイプと、肌にやさしいシリコーン粘着タイプを用意しました。何度も貼り替える方にもおすすめです。",
+   "image_brief": "Three small rolls of white and translucent medical tape on plastic cores standing beside a blank cardboard sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal サージカルテープ 不織布 12mm×9m",
+     "brand": "Cymbal",
+     "size": "12mm×9m",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サージカルテープ 不織布 25mm×9m",
+     "brand": "Cymbal",
+     "size": "25mm×9m",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サージカルテープ 透明 12mm×9m",
+     "brand": "Cymbal",
+     "size": "12mm×9m",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ケアリーフ 肌にやさしい シリコーンテープ 25mm×1.5m",
+     "brand": "ケアリーフ",
+     "size": "25mm×1.5m",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_surgical_tape_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_cotton_swab",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "綿棒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "耳まわりのお手入れ",
+    "メイク直し",
+    "細かい掃除",
+    "ネイルケア"
+   ],
+   "tax_rate": 10,
+   "description": "毎日の身だしなみに欠かせない紙軸の綿棒。ほどよいしなりで扱いやすく、先端の綿はしっかり巻かれてほつれにくいのが特長です。たっぷり入った徳用ケースや持ち運びに便利なミニケースもあります。",
+   "image_brief": "A round clear plastic canister filled with white paper-stick cotton swabs, lid slightly open, plain blank sticker, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "紙軸・綿"
+   },
+   "variants": [
+    {
+     "title": "Cymbal 紙軸綿棒 200本入",
+     "brand": "Cymbal",
+     "size": "200本",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 紙軸綿棒 徳用 400本入",
+     "brand": "Cymbal ベーシック",
+     "size": "400本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 紙軸綿棒 ミニケース 50本×3個",
+     "brand": "Cymbal",
+     "size": "50本×3個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒軸綿棒 200本入",
+     "brand": "Cymbal",
+     "size": "200本",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン綿棒 180本入",
+     "brand": "Cymbal オーガニック",
+     "size": "180本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_cotton_swab_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_cotton_swab_baby",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "ベビー綿棒"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "赤ちゃんの耳・鼻まわり",
+    "沐浴後のお手入れ",
+    "おへそケア",
+    "細部の掃除"
+   ],
+   "tax_rate": 10,
+   "description": "赤ちゃんの小さな耳や鼻まわりのお手入れに使いやすい、細軸のベビー用綿棒。先端がやわらかくコンパクトで、沐浴後のケアにぴったりです。オイル付きタイプや個包装タイプも揃えました。",
+   "image_brief": "A small round plastic case of thin baby cotton swabs with tiny white tips, pastel-colored lid, blank label, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベビー綿棒 細軸 200本入",
+     "brand": "Cymbal",
+     "size": "200本",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビー綿棒 オイル付き 50本入",
+     "brand": "Cymbal",
+     "size": "50本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベビー綿棒 個包装 30本入",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグミ やわらか先端 ベビー綿棒 180本入",
+     "brand": "ハグミ",
+     "size": "180本",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_cotton_swab_baby_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_cosmetic_cotton",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "コットン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "化粧水のなじませ",
+    "メイク落とし",
+    "ネイルオフ",
+    "ふき取りケア"
+   ],
+   "tax_rate": 10,
+   "description": "肌あたりのやわらかな化粧用コットン。毛羽立ちにくく、化粧水を含ませてもちぎれにくい仕様です。毎日たっぷり使える大容量パックや、表裏で質感が異なる2wayタイプも選べます。",
+   "image_brief": "A soft plastic bag of white square cosmetic cotton pads with a few pads stacked in front, blank pastel label, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "綿100%"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty やわらか化粧用コットン 80枚入",
+     "brand": "Cymbal Beauty",
+     "size": "80枚",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 化粧用コットン 徳用 200枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "200枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 毛羽立ちにくい 2way コットン 100枚入",
+     "brand": "Cymbal Beauty",
+     "size": "100枚",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン 化粧用 80枚入",
+     "brand": "Cymbal オーガニック",
+     "size": "80枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 大判 ローションパック用コットン 60枚入",
+     "brand": "Cymbal Beauty",
+     "size": "60枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_cosmetic_cotton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_thermometer",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "体温計"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の体温チェック",
+    "家族の健康管理",
+    "検温の習慣づけ",
+    "通園・通学前の確認"
+   ],
+   "tax_rate": 10,
+   "description": "わきにはさんで手軽に検温できるデジタル体温計。見やすい液晶表示と、計測終了を知らせるブザー付きで、家族みんなで使いやすい設計です。予測式のスピードタイプや防水タイプなど用途に合わせて選べます。",
+   "image_brief": "A slim white digital thermometer with a small blank LCD window next to its clear plastic case, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "color": "白"
+   },
+   "variants": [
+    {
+     "title": "Cymbal デジタル体温計 実測式",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デジタル体温計 予測式 約20秒",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 防水デジタル体温計 予測式",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デジタル体温計 バックライト付き",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモメディカル やわらか先端 デジタル体温計 ベビー用",
+     "brand": "ミナモメディカル",
+     "size": "1本",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_thermometer_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_cooling_sheet_adult",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "冷却シート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "暑い日のひんやり",
+    "寝苦しい夜",
+    "デスクワークのリフレッシュ",
+    "外出時の暑さ対策"
+   ],
+   "tax_rate": 10,
+   "description": "おでこに貼ってひんやり気持ちいいジェルシート。冷たさが長く続き、はがれにくく貼り直しもしやすい設計です。暑い日のリフレッシュや寝苦しい夜のお供に。微香タイプ・無香料タイプを揃えました。",
+   "image_brief": "A flat resealable foil pouch of gel cooling sheets with one translucent blue gel sheet laid in front, blank label, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 冷却ジェルシート 大人用 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷却ジェルシート 大人用 16枚入",
+     "brand": "Cymbal",
+     "size": "16枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 冷却ジェルシート 大人用 無香料 24枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "24枚",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷却ジェルシート 首用 6枚入",
+     "brand": "Cymbal",
+     "size": "6枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_cooling_sheet_adult_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_cooling_sheet_kids",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "子ども用冷却シート"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お昼寝のひんやり",
+    "暑い日の外遊び後",
+    "寝苦しい夜",
+    "おでかけ時"
+   ],
+   "tax_rate": 10,
+   "description": "小さなおでこにフィットする子ども用サイズの冷却ジェルシート。肌にやさしいジェルでひんやり感が続きます。かわいいイラスト柄タイプや赤ちゃん向けのやわらかタイプもあり、ご家族で使い分けできます。",
+   "image_brief": "A small colorful foil pouch of child-size cooling gel sheets with a small pastel gel sheet in front, blank label area, white background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷却ジェルシート 子ども用 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷却ジェルシート 子ども用 16枚入",
+     "brand": "Cymbal",
+     "size": "16枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷却ジェルシート 赤ちゃん用 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグミ イラスト柄 冷却ジェルシート キッズ 10枚入",
+     "brand": "ハグミ",
+     "size": "10枚",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_cooling_sheet_kids_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_ice_pillow",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "保冷まくら"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "寝苦しい夜",
+    "暑い日のクールダウン",
+    "お昼寝",
+    "繰り返し使える"
+   ],
+   "tax_rate": 10,
+   "description": "冷凍庫で冷やして繰り返し使える、やわらかジェルタイプの保冷まくら。凍ってもかたくなりにくく、頭にやさしくフィットします。専用カバー付きで、大人用から子ども用まで揃えています。",
+   "image_brief": "A soft blue gel ice pillow inside a white quilted fabric cover, partially unzipped to show the gel pack, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ジェル・ポリエステル"
+   },
+   "variants": [
+    {
+     "title": "Cymbal やわらか保冷まくら カバー付き 大人用",
+     "brand": "Cymbal",
+     "size": "大人用",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらか保冷まくら カバー付き 子ども用",
+     "brand": "Cymbal",
+     "size": "子ども用",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 保冷ジェルパック ミニ 2個入",
+     "brand": "Cymbal",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ひんやり ジェルまくらパッド",
+     "brand": "Cymbal Home",
+     "size": "約40×30cm",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_ice_pillow_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bath_carbonated_tablet",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "炭酸入浴剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お風呂タイム",
+    "一日の疲れのリフレッシュ",
+    "冬のぽかぽか入浴",
+    "香りの日替わり"
+   ],
+   "tax_rate": 10,
+   "description": "お湯に入れるとシュワシュワ泡立つ錠剤タイプの炭酸入浴剤。森林・柑橘・ハーブなど香りのアソートで、日替わりで楽しめます。寒い季節のゆったりバスタイムにぴったりな、家族で使える大容量タイプも。",
+   "image_brief": "A cardboard box of round white effervescent bath tablets in individual foil wrappers, one tablet fizzing in a small glass of water, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 炭酸入浴剤 4種の香りアソート 12錠",
+     "brand": "Cymbal",
+     "size": "12錠",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 炭酸入浴剤 4種の香りアソート 24錠",
+     "brand": "Cymbal",
+     "size": "24錠",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 炭酸入浴剤 森の香り 20錠",
+     "brand": "Cymbal ベーシック",
+     "size": "20錠",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高濃度炭酸入浴剤 無香料 6錠",
+     "brand": "Cymbal セレクト",
+     "size": "6錠",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユズハ 炭酸入浴剤 和の湯めぐり 16錠",
+     "brand": "ユズハ",
+     "size": "16錠",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bath_carbonated_tablet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bath_medicated_powder",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "薬用入浴剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬のバスタイム",
+    "冷え込む夜の入浴",
+    "家族風呂",
+    "毎日の湯船"
+   ],
+   "tax_rate": 10,
+   "description": "医薬部外品の薬用入浴剤。粉末タイプでさっと溶け、やさしい香りのお湯で毎日の入浴を心地よい時間にします。大容量ボトルはスプーン付きで家族の多いご家庭に、分包タイプは旅行にも便利です。",
+   "image_brief": "A large white plastic tub of powdered medicated bath additive with a measuring scoop and some pale green powder visible, blank label, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 薬用入浴剤 粉末 森林の香り 850g",
+     "brand": "Cymbal",
+     "size": "850g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 薬用入浴剤 粉末 ラベンダーの香り 850g",
+     "brand": "Cymbal",
+     "size": "850g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 薬用入浴剤 粉末 さら湯タイプ 1.2kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.2kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 薬用入浴剤 分包 5種アソート 30g×10包",
+     "brand": "Cymbal",
+     "size": "30g×10包",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用入浴剤 しっとり保湿 ミルキー 600g",
+     "brand": "Cymbal セレクト",
+     "size": "600g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bath_medicated_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bath_yuzu",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ゆず入浴剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "冬至のゆず湯気分",
+    "冬のバスタイム",
+    "香りでリラックス",
+    "寒い夜の入浴"
+   ],
+   "tax_rate": 10,
+   "description": "ゆずの爽やかな香りに包まれる、冬季限定の入浴剤。にごりタイプのお湯で、冬至のゆず湯気分を手軽に楽しめます。分包・粉末・炭酸錠剤の3タイプで、家族の人数や好みに合わせてお選びください。",
+   "image_brief": "A yellow-toned cardboard box of yuzu bath powder sachets with a fresh yuzu citrus fruit beside it, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ゆずの香り 入浴剤 分包 25g×8包",
+     "brand": "Cymbal",
+     "size": "25g×8包",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆずの香り 薬用入浴剤 粉末 600g",
+     "brand": "Cymbal",
+     "size": "600g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆずの香り 炭酸入浴剤 12錠",
+     "brand": "Cymbal",
+     "size": "12錠",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産ゆず果皮エキス配合 入浴剤 30g×5包",
+     "brand": "Cymbal セレクト",
+     "size": "30g×5包",
+     "price_tax_excluded": 498,
+     "origin": "国内製造（ゆず果皮エキス 高知県産）"
+    },
+    {
+     "title": "ユズハ ゆず湯の素 にごりタイプ 20g×10包",
+     "brand": "ユズハ",
+     "size": "20g×10包",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bath_yuzu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bath_onsen_nigori",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "温泉気分入浴剤"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "温泉気分のバスタイム",
+    "冬の夜長",
+    "家族で湯めぐり",
+    "週末のごほうび"
+   ],
+   "tax_rate": 10,
+   "description": "全国の名湯をイメージした香りと湯色が楽しめる、にごり湯タイプの入浴剤アソート。ご自宅のお風呂で温泉旅行気分が味わえます。毎日違う湯を選ぶ楽しさがあり、ちょっとしたプレゼントにも。",
+   "image_brief": "A colorful row of small paper bath powder sachets fanned out beside a wooden bath bucket, all labels blank, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 湯めぐり にごり湯 入浴剤 6種 12包",
+     "brand": "Cymbal",
+     "size": "12包",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 湯めぐり にごり湯 入浴剤 6種 24包",
+     "brand": "Cymbal",
+     "size": "24包",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳白にごり湯 入浴剤 ボトル 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユズハ 和の名湯めぐり 入浴剤 10種 20包",
+     "brand": "ユズハ",
+     "size": "20包",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bath_onsen_nigori_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_bath_milk_liquid",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "保湿入浴液"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "乾燥する季節の入浴",
+    "お風呂上がりのしっとり感",
+    "家族みんなで",
+    "冬のバスタイム"
+   ],
+   "tax_rate": 10,
+   "description": "お湯に入れると乳白色になる、うるおい成分配合の保湿入浴液。お風呂上がりの肌がしっとりとして、乾燥が気になる季節にぴったりです。やさしい香りから無香料まで、家族の好みで選べます。",
+   "image_brief": "A tall white plastic bottle of milky bath lotion with a cap, a splash of milky water in a small dish beside it, blank label, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 保湿入浴液 ミルクの香り 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 保湿入浴液 無香料 480ml",
+     "brand": "Cymbal Beauty",
+     "size": "480ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 保湿入浴液 ミルクの香り 詰替用 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト セラミド配合 保湿入浴液 ローズの香り 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_bath_milk_liquid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_knee_supporter",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "ひざサポーター"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ウォーキング",
+    "階段の上り下り",
+    "スポーツ",
+    "家事・立ち仕事"
+   ],
+   "tax_rate": 10,
+   "description": "ひざまわりをほどよく包み込む、伸縮性のあるサポーター。薄手で蒸れにくく、服の下にもつけやすい設計です。ウォーキングや家事、立ち仕事のお供に。サイズ展開や保温タイプもご用意しました。",
+   "image_brief": "A beige knitted knee support sleeve shown on a white mannequin leg form, with a plain blank cardboard header card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "color": "ベージュ"
+   },
+   "variants": [
+    {
+     "title": "Cymbal ひざサポーター 薄手 M 1枚入",
+     "brand": "Cymbal",
+     "size": "M",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひざサポーター 薄手 L 1枚入",
+     "brand": "Cymbal",
+     "size": "L",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひざサポーター 保温タイプ M 2枚入",
+     "brand": "Cymbal",
+     "size": "M×2枚",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フィットモア ひざサポーター ベルト付き フリーサイズ",
+     "brand": "フィットモア",
+     "size": "フリー",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ひざサポーター M〜L 1枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "M〜L",
+     "price_tax_excluded": 680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_knee_supporter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_wrist_ankle_supporter",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "手首・足首サポーター"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パソコン作業",
+    "家事",
+    "スポーツ",
+    "ウォーキング"
+   ],
+   "tax_rate": 10,
+   "description": "手首や足首をやさしく支える薄手のサポーター。パソコン作業や家事、スポーツの際にもじゃまになりにくいフィット感です。巻き付けて締め具合を調整できるタイプもあり、使う場面に合わせて選べます。",
+   "image_brief": "A pair of black knitted wrist and ankle support sleeves arranged next to a blank cardboard header card, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "color": "ブラック"
+   },
+   "variants": [
+    {
+     "title": "Cymbal 手首サポーター 薄手 フリーサイズ 2枚入",
+     "brand": "Cymbal",
+     "size": "フリー×2枚",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 手首サポーター 巻き付けタイプ フリーサイズ",
+     "brand": "Cymbal",
+     "size": "フリー",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 足首サポーター 薄手 M 1枚入",
+     "brand": "Cymbal",
+     "size": "M",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 足首サポーター 薄手 L 1枚入",
+     "brand": "Cymbal",
+     "size": "L",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フィットモア 足首サポーター クロスベルト付き",
+     "brand": "フィットモア",
+     "size": "フリー",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_wrist_ankle_supporter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_waist_supporter",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "腰サポーター"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "家事・育児",
+    "立ち仕事",
+    "庭仕事",
+    "冬の冷え対策"
+   ],
+   "tax_rate": 10,
+   "description": "腰まわりをしっかり包み込む、メッシュ素材のサポーターベルト。面ファスナーで締め付けを調整しやすく、家事や立ち仕事、庭仕事などに。冬に心地よい保温ニットタイプもご用意しました。",
+   "image_brief": "A black mesh lumbar support belt with velcro side straps laid flat on white, small blank cardboard tag attached, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 腰サポーター メッシュ M",
+     "brand": "Cymbal",
+     "size": "M",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 腰サポーター メッシュ L",
+     "brand": "Cymbal",
+     "size": "L",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 腰サポーター メッシュ LL",
+     "brand": "Cymbal",
+     "size": "LL",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 腰まわり 保温ニットウォーマー フリーサイズ",
+     "brand": "Cymbal",
+     "size": "フリー",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フィットモア ダブルベルト 腰サポーター M〜L",
+     "brand": "フィットモア",
+     "size": "M〜L",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_waist_supporter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_compression_socks_night",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "着圧ソックス"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "就寝時のリラックス",
+    "立ち仕事のあと",
+    "長時間のデスクワーク後",
+    "旅行の夜"
+   ],
+   "tax_rate": 10,
+   "description": "おやすみ前に履く、段階着圧設計のソックス。足首からふくらはぎへやさしくフィットし、一日がんばった脚をいたわる時間に。つま先なしで蒸れにくく、ロング丈やひざ下丈から選べます。",
+   "image_brief": "A pair of lavender knitted compression leg sleeves without toes folded beside a blank cardboard header card, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "color": "ラベンダー"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty おやすみ着圧ソックス ひざ下 M〜L",
+     "brand": "Cymbal Beauty",
+     "size": "M〜L",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty おやすみ着圧ソックス ロング M〜L",
+     "brand": "Cymbal Beauty",
+     "size": "M〜L",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty おやすみ着圧ソックス ひざ下 L〜LL",
+     "brand": "Cymbal Beauty",
+     "size": "L〜LL",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ネムリエ シルク混 おやすみ着圧ソックス つま先なし",
+     "brand": "ネムリエ",
+     "size": "M〜L",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_compression_socks_night_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_compression_socks_day",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "着圧ソックス"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "通勤・通学",
+    "立ち仕事",
+    "長時間の移動",
+    "オフィス"
+   ],
+   "tax_rate": 10,
+   "description": "日中の通勤や立ち仕事に履きやすい着圧ソックス。服になじむ落ち着いたカラーで、スーツやスカートにも合わせやすいデザインです。ショート丈・ハイソックス・ストッキングタイプからお選びいただけます。",
+   "image_brief": "A pair of black knee-high compression socks on flat display forms with a plain blank cardboard header, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 着圧ハイソックス ブラック M〜L",
+     "brand": "Cymbal Beauty",
+     "size": "M〜L",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 着圧ハイソックス ベージュ M〜L",
+     "brand": "Cymbal Beauty",
+     "size": "M〜L",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 着圧ショートソックス ブラック 22〜25cm",
+     "brand": "Cymbal Beauty",
+     "size": "22〜25cm",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 着圧ストッキング ナチュラルベージュ M〜L",
+     "brand": "Cymbal Beauty",
+     "size": "M〜L",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メンズ着圧ハイソックス ブラック 25〜27cm",
+     "brand": "Cymbal",
+     "size": "25〜27cm",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_compression_socks_day_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_heel_care_file",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "フットケア用品"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かかとのお手入れ",
+    "お風呂上がりのケア",
+    "サンダルシーズン前",
+    "乾燥する季節"
+   ],
+   "tax_rate": 10,
+   "description": "かかとやひじのガサガサをやさしく整えるフットケアやすり。両面で粗さが異なり、仕上げまで1本で行えます。お手入れ後は保湿クリームでのケアがおすすめ。保湿ソックスとあわせて足元ケアを。",
+   "image_brief": "A pastel plastic foot file with a curved handle and two textured surfaces next to a blank cardboard blister card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty かかとやすり 両面タイプ",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty かかとやすり 替え刃付き",
+     "brand": "Cymbal Beauty",
+     "size": "1本+替え刃2枚",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 保湿かかとソックス ジェル付き フリーサイズ",
+     "brand": "Cymbal Beauty",
+     "size": "フリー",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フットブラシ 足裏用",
+     "brand": "Cymbal ベーシック",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_heel_care_file_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothbrush_soft_compact",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯ブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の歯みがき",
+    "歯ぐきにやさしいみがき心地",
+    "奥歯のケア",
+    "家族のストック"
+   ],
+   "tax_rate": 10,
+   "description": "やわらかめの毛先とコンパクトヘッドで、奥歯まで届きやすい歯ブラシ。歯ぐきへの当たりがやさしく、力を入れすぎがちな方にもおすすめです。色違いで家族分そろう複数本パックが便利です。",
+   "image_brief": "Four colorful toothbrushes with small heads and soft bristles in a clear plastic blister pack with a blank cardboard back, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ナイロン毛"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty コンパクトヘッド歯ブラシ やわらかめ 1本",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty コンパクトヘッド歯ブラシ やわらかめ 3本組",
+     "brand": "Cymbal Beauty",
+     "size": "3本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 歯ブラシ やわらかめ 5本組",
+     "brand": "Cymbal ベーシック",
+     "size": "5本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty コンパクトヘッド歯ブラシ ふつう 3本組",
+     "brand": "Cymbal Beauty",
+     "size": "3本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ワイドヘッド歯ブラシ かため 2本組",
+     "brand": "Cymbal Beauty",
+     "size": "2本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア 段差植毛 歯ブラシ やわらかめ 2本組",
+     "brand": "デンタリア",
+     "size": "2本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothbrush_soft_compact_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothbrush_kids",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "子ども用歯ブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子どもの歯みがき習慣",
+    "仕上げみがき",
+    "保育園・幼稚園",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "小さなお口に合わせた子ども用歯ブラシ。握りやすい太めのハンドルで、自分みがきの練習にぴったりです。保護者が使いやすい仕上げみがき用や、年齢に合わせたサイズ展開もそろえています。",
+   "image_brief": "Three small children's toothbrushes with chunky pastel handles and tiny heads in a blister pack with blank cardboard backing, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 子ども用歯ブラシ 1.5〜5才 3本組",
+     "brand": "Cymbal",
+     "size": "3本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども用歯ブラシ 6〜12才 3本組",
+     "brand": "Cymbal",
+     "size": "3本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 仕上げみがき用歯ブラシ ロングハンドル 2本組",
+     "brand": "Cymbal",
+     "size": "2本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグミ ベビー歯ブラシ 歯固めリング付き 0才〜",
+     "brand": "ハグミ",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 子ども用歯ブラシ やわらかめ 5本組",
+     "brand": "Cymbal ベーシック",
+     "size": "5本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothbrush_kids_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_electric_brush_heads",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "電動歯ブラシ替えブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "電動歯ブラシの交換用",
+    "毎日の歯みがき",
+    "家族の替え用ストック",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "一般的な回転式・振動式の電動歯ブラシに使える汎用替えブラシ。やわらかめ・ふつうなど毛のかたさを選べ、定期的な交換に便利な多本数パックです。対応機種はパッケージでご確認ください。",
+   "image_brief": "A clear blister pack containing four white replacement electric toothbrush heads with colored rings, blank cardboard backing, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 電動歯ブラシ用 替えブラシ 回転式 やわらかめ 4本",
+     "brand": "Cymbal",
+     "size": "4本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 電動歯ブラシ用 替えブラシ 回転式 ふつう 4本",
+     "brand": "Cymbal",
+     "size": "4本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 電動歯ブラシ用 替えブラシ 振動式 ふつう 3本",
+     "brand": "Cymbal",
+     "size": "3本",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 電動歯ブラシ用 替えブラシ 振動式 コンパクト 3本",
+     "brand": "Cymbal",
+     "size": "3本",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 電動歯ブラシ用 替えブラシ 回転式 8本",
+     "brand": "Cymbal ベーシック",
+     "size": "8本",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_electric_brush_heads_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_interdental_brush",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯間ブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "歯と歯のすき間のケア",
+    "食後のお手入れ",
+    "毎晩の歯みがき後",
+    "外出先"
+   ],
+   "tax_rate": 10,
+   "description": "歯と歯のすき間の汚れを取り除く歯間ブラシ。すき間の大きさに合わせて選べるサイズ展開で、初めての方にも使いやすいL字タイプとI字タイプを用意しました。キャップ付きで持ち運びにも衛生的です。",
+   "image_brief": "A small clear plastic case containing a row of colorful L-shaped interdental brushes with caps, blank label sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 歯間ブラシ L字型 SSS 20本入",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 歯間ブラシ L字型 SS 20本入",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 歯間ブラシ I字型 S 15本入",
+     "brand": "Cymbal",
+     "size": "15本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 歯間ブラシ L字型 サイズアソート 20本入",
+     "brand": "Cymbal",
+     "size": "20本",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア ゴムタイプ 歯間クリーナー 40本入",
+     "brand": "デンタリア",
+     "size": "40本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_interdental_brush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothpaste_gum_care",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯磨き粉"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の歯みがき",
+    "就寝前のケア",
+    "歯ぐきのお手入れ",
+    "大人の歯みがき"
+   ],
+   "tax_rate": 10,
+   "description": "歯ぐきのケアを考えた医薬部外品の歯みがき。すっきりとしたハーブミントの香味で、泡立ちひかえめのため丁寧にみがきやすいのが特長です。大容量やチューブ2本パックも揃えました。",
+   "image_brief": "A white and green toothpaste tube standing upright beside its blank cardboard carton, studio packshot on white.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 歯ぐきケア ハーブミント 120g",
+     "brand": "Cymbal Beauty",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 歯ぐきケア ハーブミント 160g",
+     "brand": "Cymbal Beauty",
+     "size": "160g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 歯ぐきケア ハーブミント 120g×2本",
+     "brand": "Cymbal Beauty",
+     "size": "120g×2本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用ハミガキ 歯ぐきケア プレミアム 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア 薬用ハミガキ 塩配合 さわやかミント 140g",
+     "brand": "デンタリア",
+     "size": "140g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothpaste_gum_care_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothpaste_kids_gel",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "子ども用歯磨き"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子どもの歯みがき",
+    "仕上げみがき",
+    "歯みがき習慣づくり",
+    "保育園・幼稚園"
+   ],
+   "tax_rate": 10,
+   "description": "子どもが喜ぶフルーツ風味のジェル歯みがき（医薬部外品）。研磨剤無配合のジェルタイプで、すすぎが苦手な小さなお子さまにも使いやすい処方です。いちご・ぶどう・メロンの3つの味から選べます。",
+   "image_brief": "A small pastel pink squeeze tube of kids gel toothpaste with a flip cap standing next to its blank carton, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 子ども用ジェルハミガキ いちご味 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども用ジェルハミガキ ぶどう味 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども用ジェルハミガキ メロン味 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども用ハミガキ いちご味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグミ ベビー用 歯みがきジェル 泡状 40ml",
+     "brand": "ハグミ",
+     "size": "40ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothpaste_kids_gel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothpaste_stain",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯磨き粉"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コーヒー・お茶好きの方の歯みがき",
+    "毎日の歯みがき",
+    "身だしなみ",
+    "人と会う前"
+   ],
+   "tax_rate": 10,
+   "description": "コーヒーやお茶をよく飲む方の歯の着色汚れをみがいて落とす、医薬部外品の歯みがき。爽やかなクリアミントの香味で、すっきりとした後味です。携帯に便利なミニサイズもあります。",
+   "image_brief": "A sleek white and blue toothpaste tube lying beside its blank cardboard carton, studio packshot on white.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ ステインケア クリアミント 100g",
+     "brand": "Cymbal Beauty",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ ステインケア クリアミント 140g",
+     "brand": "Cymbal Beauty",
+     "size": "140g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ ステインケア ミニ 30g",
+     "brand": "Cymbal Beauty",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用ハミガキ ステインケア ジェル 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothpaste_stain_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_toothpaste_sensitive",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "歯磨き粉"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "冷たいものがしみやすい方の歯みがき",
+    "毎日の歯みがき",
+    "就寝前のケア",
+    "大人の歯みがき"
+   ],
+   "tax_rate": 10,
+   "description": "冷たいものがしみやすい方のための医薬部外品の歯みがき。低研磨で毎日やさしくみがけ、マイルドなミント香味が長く続きます。味の違う2種類と、お得な2本パックをご用意しました。",
+   "image_brief": "A pale blue toothpaste tube with a flip cap standing in front of its blank carton, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 知覚過敏ケア マイルドミント 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 知覚過敏ケア フレッシュミント 90g",
+     "brand": "Cymbal Beauty",
+     "size": "90g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハミガキ 知覚過敏ケア マイルドミント 90g×2本",
+     "brand": "Cymbal Beauty",
+     "size": "90g×2本",
+     "price_tax_excluded": 728,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア 薬用ハミガキ 知覚過敏ケア 低研磨 110g",
+     "brand": "デンタリア",
+     "size": "110g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_toothpaste_sensitive_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_dental_floss_roll",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "デンタルフロス"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "歯と歯の間のケア",
+    "夜の歯みがき後",
+    "毎日のオーラルケア",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "歯と歯の間の汚れをからめ取るロールタイプのデンタルフロス。すべりのよいワックス付きで、すき間の狭いところにも通しやすい仕様です。ミント風味やふくらむタイプなど好みで選べます。",
+   "image_brief": "A small round white plastic dental floss dispenser with a strand of floss pulled out, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デンタルフロス ワックス付き 50m",
+     "brand": "Cymbal",
+     "size": "50m",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デンタルフロス ミント風味 50m",
+     "brand": "Cymbal",
+     "size": "50m",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デンタルフロス ふくらむタイプ 40m",
+     "brand": "Cymbal",
+     "size": "40m",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック デンタルフロス ワックス付き 50m×2個",
+     "brand": "Cymbal ベーシック",
+     "size": "50m×2個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_dental_floss_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_floss_pick",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "フロスピック"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "食後のお手入れ",
+    "前歯のケア",
+    "奥歯のケア",
+    "外出先"
+   ],
+   "tax_rate": 10,
+   "description": "持ち手付きで手軽に使えるフロスピック。前歯に使いやすいF字型と、奥歯まで届きやすいY字型を用意しました。たっぷり入った徳用パックや、持ち歩きに便利なケース入りも揃えています。",
+   "image_brief": "A clear plastic bag of white Y-shaped floss picks with a few picks fanned out in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フロスピック Y字型 60本入",
+     "brand": "Cymbal",
+     "size": "60本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フロスピック F字型 60本入",
+     "brand": "Cymbal",
+     "size": "60本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フロスピック Y字型 徳用 150本入",
+     "brand": "Cymbal ベーシック",
+     "size": "150本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フロスピック 携帯ケース付き 30本入",
+     "brand": "Cymbal",
+     "size": "30本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア 子ども用 フロスピック フルーツ味 40本入",
+     "brand": "デンタリア",
+     "size": "40本",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_floss_pick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_mouthwash_alcohol",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "マウスウォッシュ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝のリフレッシュ",
+    "食後のエチケット",
+    "人と会う前",
+    "就寝前"
+   ],
+   "tax_rate": 10,
+   "description": "すっきり爽快な使用感のマウスウォッシュ。お口の中をさっぱりさせ、朝の身だしなみや食後のエチケットに。家族で使いやすい大容量ボトルから、持ち歩きに便利なスティックタイプまで揃えました。",
+   "image_brief": "A clear blue plastic bottle of mouthwash with a white measuring cap, blank label, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マウスウォッシュ クールミント 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マウスウォッシュ クールミント 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マウスウォッシュ シトラスミント 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用マウスウォッシュ 爽快タイプ 600ml",
+     "brand": "Cymbal セレクト",
+     "size": "600ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マウスウォッシュ スティック 12ml×10本",
+     "brand": "Cymbal",
+     "size": "12ml×10本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_mouthwash_alcohol_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_mouthwash_nonalcohol",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "マウスウォッシュ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "刺激が苦手な方のエチケットケア",
+    "子どもと共用",
+    "就寝前",
+    "食後"
+   ],
+   "tax_rate": 10,
+   "description": "刺激が少なくまろやかな使い心地のノンアルコールタイプのマウスウォッシュ。辛いミントが苦手な方やお子さまとの共用にも使いやすい香味です。お口をうるおいながらさっぱりさせます。",
+   "image_brief": "A clear pale green plastic bottle of alcohol-free mouthwash with a matching cap, blank label, studio packshot.",
+   "labels": [
+    "ノンアルコール"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal ノンアルコール マウスウォッシュ マイルドミント 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンアルコール マウスウォッシュ マイルドミント 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ノンアルコール マウスウォッシュ グリーンティー 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 子ども用 マウスウォッシュ ぶどう味 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "デンタリア うるおい ノンアルコール マウスウォッシュ 450ml",
+     "brand": "デンタリア",
+     "size": "450ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_mouthwash_nonalcohol_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_denture_cleanser",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "入れ歯洗浄剤"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "入れ歯の毎日のお手入れ",
+    "就寝中のつけ置き",
+    "部分入れ歯・マウスピースのケア",
+    "介護ケア"
+   ],
+   "tax_rate": 10,
+   "description": "水に入れるだけで発泡し、入れ歯の汚れやにおいをすっきり落とす錠剤タイプの洗浄剤。部分入れ歯やマウスピースにも使えます。毎日使うものだから、お得な大容量パックもご用意しました。",
+   "image_brief": "A cardboard box of blue effervescent denture cleaning tablets in foil strips, one tablet fizzing in a clear cup of water, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 入れ歯洗浄剤 錠剤 36錠",
+     "brand": "Cymbal",
+     "size": "36錠",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 入れ歯洗浄剤 錠剤 108錠",
+     "brand": "Cymbal",
+     "size": "108錠",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 部分入れ歯用 洗浄剤 錠剤 54錠",
+     "brand": "Cymbal",
+     "size": "54錠",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マウスピース用 洗浄剤 錠剤 30錠",
+     "brand": "Cymbal",
+     "size": "30錠",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 入れ歯洗浄剤 5分クイック 48錠",
+     "brand": "Cymbal",
+     "size": "48錠",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_denture_cleanser_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_denture_brush_tongue",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "オーラルケア",
+    "舌ブラシ・入れ歯ブラシ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "舌のお手入れ",
+    "入れ歯の洗浄",
+    "毎朝のオーラルケア",
+    "介護ケア"
+   ],
+   "tax_rate": 10,
+   "description": "舌の上をやさしく整える舌ブラシと、入れ歯の細かい部分まで洗える入れ歯用ブラシ。どちらも毎日のオーラルケアの仕上げに使いやすいデザインです。入れ歯ケースもご用意しました。",
+   "image_brief": "A slim pastel tongue cleaner and a double-headed denture brush laid side by side with a small round plastic denture case, blank card backing, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 舌ブラシ やわらかタイプ 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 舌ブラシ やわらかタイプ 2本組",
+     "brand": "Cymbal",
+     "size": "2本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 入れ歯用ブラシ 2つのヘッド 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 入れ歯ケース 洗浄カゴ付き",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_denture_brush_tongue_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_napkin_day",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "生理用品",
+    "生理用ナプキン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "生理中の昼間",
+    "通勤・通学",
+    "外出時",
+    "ふつうの日"
+   ],
+   "tax_rate": 10,
+   "description": "ふつうの日の昼間に使いやすい、羽つきの生理用ナプキン。ふんわりやわらかなシートでムレにくく、薄型なのにしっかり吸収します。ポーチに入れやすいコンパクト包装で、外出時も安心です。",
+   "image_brief": "A soft plastic package of individually wrapped sanitary pads with pastel floral pattern and one folded pad in front, blank label area, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生理用ナプキン 昼用 羽つき 20.5cm 28枚",
+     "brand": "Cymbal",
+     "size": "28枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生理用ナプキン 昼用 羽なし 20.5cm 30枚",
+     "brand": "Cymbal",
+     "size": "30枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生理用ナプキン 昼用 羽つき 徳用 44枚",
+     "brand": "Cymbal ベーシック",
+     "size": "44枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルナリア 超うす 生理用ナプキン 昼用 羽つき 23cm 24枚",
+     "brand": "ルナリア",
+     "size": "24枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン ナプキン 昼用 羽つき 16枚",
+     "brand": "Cymbal オーガニック",
+     "size": "16枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_napkin_day_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_napkin_night",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "生理用品",
+    "夜用ナプキン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "夜の就寝時",
+    "多い日の夜",
+    "長時間の外出",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "就寝中も安心のロングタイプ夜用ナプキン。後ろモレを防ぐワイドな設計で、寝返りをうっても体にフィットします。長さ違いで揃えているので、量や体型に合わせてお選びください。",
+   "image_brief": "A soft plastic package of long overnight sanitary pads with a deep navy color scheme and one pad shown in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生理用ナプキン 夜用 羽つき 29cm 14枚",
+     "brand": "Cymbal",
+     "size": "14枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生理用ナプキン 夜用 羽つき 36cm 10枚",
+     "brand": "Cymbal",
+     "size": "10枚",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生理用ナプキン 夜用 羽つき 40cm 8枚",
+     "brand": "Cymbal",
+     "size": "8枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルナリア 超うす 夜用ナプキン ワイドガード 33cm 12枚",
+     "brand": "ルナリア",
+     "size": "12枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ショーツ型ナプキン 夜用 M〜L 5枚",
+     "brand": "Cymbal",
+     "size": "5枚",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_napkin_night_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_napkin_heavy",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "生理用品",
+    "生理用ナプキン"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "多い日の昼",
+    "長時間の会議・授業",
+    "外出が続く日",
+    "スポーツ時"
+   ],
+   "tax_rate": 10,
+   "description": "多い日の昼間でも安心のしっかり吸収タイプ。ずれにくい羽つきで、厚みをおさえた設計なので動きやすいのも特長です。昼用より少し長めのサイズで、交換しにくい日の外出にもおすすめです。",
+   "image_brief": "A soft plastic package of thick heavy-flow sanitary pads in rose pink color with one pad in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 生理用ナプキン 多い日の昼用 羽つき 25cm 20枚",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 生理用ナプキン 多い日の昼用 羽なし 23cm 22枚",
+     "brand": "Cymbal",
+     "size": "22枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 生理用ナプキン 多い日用 羽つき 徳用 34枚",
+     "brand": "Cymbal ベーシック",
+     "size": "34枚",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ルナリア 超うす 多い日の昼用 羽つき 27cm 18枚",
+     "brand": "ルナリア",
+     "size": "18枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_napkin_heavy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_panty_liner",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "生理用品",
+    "パンティライナー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のおりもの対策",
+    "生理の始めと終わり",
+    "下着の汚れ防止",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "毎日の下着を清潔に保つ、薄くてやわらかなパンティライナー。通気性のよいシートで、つけていることを忘れるような心地よさです。無香料タイプ・ほのかな香りつき・ロングタイプから選べます。",
+   "image_brief": "A small flat soft package of thin panty liners with a pastel mint color scheme and one liner shown in front, blank label, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal パンティライナー 無香料 14cm 72枚",
+     "brand": "Cymbal",
+     "size": "72枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パンティライナー ロング 17.5cm 54枚",
+     "brand": "Cymbal",
+     "size": "54枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パンティライナー せっけんの香り 14cm 72枚",
+     "brand": "Cymbal",
+     "size": "72枚",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック パンティライナー 無香料 徳用 112枚",
+     "brand": "Cymbal ベーシック",
+     "size": "112枚",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニックコットン パンティライナー 40枚",
+     "brand": "Cymbal オーガニック",
+     "size": "40枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_panty_liner_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_light_incontinence_pad_women",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "大人用おむつ・介護用品",
+    "尿もれパッド"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "くしゃみ・笑ったときの備え",
+    "外出時",
+    "運動時",
+    "毎日の安心"
+   ],
+   "tax_rate": 10,
+   "description": "ちょっとした尿もれが気になる女性のための吸水パッド。ナプキン感覚で使える薄型で、においを抑えるシートを採用しています。吸水量に合わせて少量用から長時間用まで、細かく選べるラインアップです。",
+   "image_brief": "A soft plastic package of thin light incontinence pads in lilac color with one pad shown in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 女性用 吸水パッド 少量用 10cc 30枚",
+     "brand": "Cymbal",
+     "size": "30枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 女性用 吸水パッド 少量用 20cc 26枚",
+     "brand": "Cymbal",
+     "size": "26枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 女性用 吸水パッド 中量用 50cc 20枚",
+     "brand": "Cymbal",
+     "size": "20枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 女性用 吸水パッド 多い時 120cc 16枚",
+     "brand": "Cymbal",
+     "size": "16枚",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソワレケア 超うす 吸水ライナー 5cc 44枚",
+     "brand": "ソワレケア",
+     "size": "44枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_light_incontinence_pad_women_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_incontinence_pad_men",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "大人用おむつ・介護用品",
+    "尿もれパッド"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ちょいもれ対策",
+    "外出時",
+    "通勤時",
+    "毎日の安心"
+   ],
+   "tax_rate": 10,
+   "description": "男性の体型に合わせた形状の吸水パッド。下着にしっかり固定でき、薄型で目立ちにくい設計です。におい対策シート付きで、仕事中や外出時も気兼ねなく過ごせます。少量用から多量用まで揃えました。",
+   "image_brief": "A soft plastic package of men's absorbent pads in dark navy and grey tones with one contoured pad shown in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 男性用 吸水パッド 少量用 20cc 24枚",
+     "brand": "Cymbal",
+     "size": "24枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 男性用 吸水パッド 中量用 50cc 18枚",
+     "brand": "Cymbal",
+     "size": "18枚",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 男性用 吸水パッド 多量用 120cc 14枚",
+     "brand": "Cymbal",
+     "size": "14枚",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソワレケア 男性用 ちょいもれライナー 10cc 30枚",
+     "brand": "ソワレケア",
+     "size": "30枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_incontinence_pad_men_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_adult_pants",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "大人用おむつ・介護用品",
+    "大人用紙パンツ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "介護",
+    "夜間の安心",
+    "外出・旅行",
+    "自立した生活のサポート"
+   ],
+   "tax_rate": 10,
+   "description": "下着のようにはける大人用紙パンツ。のびのびフィットで歩きやすく、ご自分ではき替えやすいデザインです。長時間でも安心の吸収量で、日中用・夜用・サイズ違いを揃えています。",
+   "image_brief": "A large soft plastic bag of adult pull-up disposable underwear in white and pale blue with one pair shown in front, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 大人用紙パンツ うす型 M 20枚",
+     "brand": "Cymbal",
+     "size": "M×20枚",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大人用紙パンツ うす型 L 18枚",
+     "brand": "Cymbal",
+     "size": "L×18枚",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大人用紙パンツ 長時間 M〜L 14枚",
+     "brand": "Cymbal",
+     "size": "M〜L×14枚",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大人用紙パンツ 夜用 L〜LL 12枚",
+     "brand": "Cymbal",
+     "size": "L〜LL×12枚",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソワレケア 下着のような 紙パンツ M〜L 16枚",
+     "brand": "ソワレケア",
+     "size": "M〜L×16枚",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_adult_pants_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_adult_tape_diaper",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "大人用おむつ・介護用品",
+    "大人用テープ式おむつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "寝たきりの方の介護",
+    "夜間のケア",
+    "在宅介護",
+    "施設での介護"
+   ],
+   "tax_rate": 10,
+   "description": "寝たままでも交換しやすい大人用テープ止めタイプのおむつ。何度でも貼り直せるテープと、モレを防ぐ立体ギャザーで介護する方の負担を軽くします。尿とりパッドとの組み合わせにも適しています。",
+   "image_brief": "A large soft plastic bag of adult tape-style disposable diapers in white with one opened diaper showing tabs, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 大人用テープ式おむつ M 20枚",
+     "brand": "Cymbal",
+     "size": "M×20枚",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大人用テープ式おむつ L 18枚",
+     "brand": "Cymbal",
+     "size": "L×18枚",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大人用テープ式おむつ 夜用 M〜L 14枚",
+     "brand": "Cymbal",
+     "size": "M〜L×14枚",
+     "price_tax_excluded": 2180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 尿とりパッド 大人用 夜用 30枚",
+     "brand": "Cymbal",
+     "size": "30枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ソワレケア ワイドフィット テープ式おむつ L〜LL 16枚",
+     "brand": "ソワレケア",
+     "size": "L〜LL×16枚",
+     "price_tax_excluded": 2380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_adult_tape_diaper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_nail_clipper",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "身だしなみ用品",
+    "爪切り"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手足の爪のお手入れ",
+    "家族の常備品",
+    "旅行",
+    "ベビーの爪ケア"
+   ],
+   "tax_rate": 10,
+   "description": "切れ味のよいステンレス刃の爪切り。切った爪が飛び散りにくいカバー付きで、お手入れが手軽です。持ち歩きやすいコンパクトサイズや、赤ちゃんに使いやすいベビー用、かたい爪用もご用意しました。",
+   "image_brief": "A stainless steel nail clipper with a clear plastic nail catcher next to a small blank cardboard blister card, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "material": "ステンレス"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home ステンレス爪切り 飛び散り防止カバー付き Mサイズ",
+     "brand": "Cymbal Home",
+     "size": "M",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ステンレス爪切り 飛び散り防止カバー付き Lサイズ",
+     "brand": "Cymbal Home",
+     "size": "L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ステンレス爪切り コンパクト",
+     "brand": "Cymbal Home",
+     "size": "S",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハグミ ベビー用 爪切りはさみ 丸刃",
+     "brand": "ハグミ",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "匠刃工房 かたい爪用 ニッパー型爪切り",
+     "brand": "匠刃工房",
+     "size": "1本",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_nail_clipper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_nail_file",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "身だしなみ用品",
+    "爪やすり"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "爪切り後の仕上げ",
+    "ネイルケア",
+    "爪の形を整える",
+    "ツヤ出し"
+   ],
+   "tax_rate": 10,
+   "description": "爪切り後の角をなめらかに整える爪やすり。目詰まりしにくいガラス製や、手軽に使えるエメリーボードなど用途で選べます。ツヤ出しまでできる4面タイプなら、ネイルケア初心者にもおすすめです。",
+   "image_brief": "A clear glass nail file and a few colorful emery boards fanned out beside a blank cardboard sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty ガラス爪やすり ケース付き",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty エメリーボード 6本入",
+     "brand": "Cymbal Beauty",
+     "size": "6本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 4面 ネイルシャイナー",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 金属爪やすり 2本組",
+     "brand": "Cymbal ベーシック",
+     "size": "2本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_nail_file_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_ear_pick",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "身だしなみ用品",
+    "耳かき"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "耳まわりのお手入れ",
+    "家族の身だしなみ",
+    "お風呂上がり",
+    "旅行"
+   ],
+   "tax_rate": 10,
+   "description": "昔ながらの竹製耳かきから、ステンレス製、ライト付きまで揃えた耳かきシリーズ。ほどよいしなりで扱いやすく、梵天付きタイプもあります。お手入れは無理のない範囲でやさしく行ってください。",
+   "image_brief": "A natural bamboo ear pick with a fluffy white bonten puff, a slim stainless ear pick, and a small blank card backing, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "竹"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Home 竹製耳かき 梵天付き",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 竹製耳かき 2本組",
+     "brand": "Cymbal Home",
+     "size": "2本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ステンレス耳かき らせんタイプ",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home LEDライト付き 耳かき",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "匠刃工房 煤竹 耳かき ケース付き",
+     "brand": "匠刃工房",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_ear_pick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_tweezers_eyebrow",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "身だしなみ用品",
+    "毛抜き・眉はさみ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "眉のお手入れ",
+    "ムダ毛のお手入れ",
+    "とげ抜き",
+    "身だしなみ"
+   ],
+   "tax_rate": 10,
+   "description": "先端がぴったり合う、つまみやすいステンレス製の毛抜きと眉ばさみ。眉の形を整えたり細かいムダ毛をお手入れしたりと、毎日の身だしなみに活躍します。キャップ付きで持ち歩きにも便利です。",
+   "image_brief": "A pair of slim stainless steel tweezers and small curved eyebrow scissors on a blank cardboard blister card, studio packshot on white.",
+   "labels": [],
+   "attributes": {
+    "material": "ステンレス"
+   },
+   "variants": [
+    {
+     "title": "Cymbal Beauty ステンレス毛抜き 斜め先",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty ステンレス毛抜き 先細",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 眉はさみ コーム付き",
+     "brand": "Cymbal Beauty",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "匠刃工房 職人仕上げ 毛抜き キャップ付き",
+     "brand": "匠刃工房",
+     "size": "1本",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_tweezers_eyebrow_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_hand_cream_urea",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ハンドクリーム"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水仕事のあと",
+    "乾燥する季節",
+    "就寝前のケア",
+    "外出先"
+   ],
+   "tax_rate": 10,
+   "description": "水仕事や乾燥でカサつきがちな手を守る、尿素配合のしっとりハンドクリーム（医薬部外品）。こっくりしたテクスチャーで、指先やかかと・ひじにも使えます。ご家庭用のジャーと持ち歩きチューブを用意しました。",
+   "image_brief": "A white plastic jar of thick hand cream with its lid off showing rich cream, next to a small matching tube, blank labels, studio packshot.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用ハンドクリーム 尿素配合 しっとり 80g",
+     "brand": "Cymbal Beauty",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハンドクリーム 尿素配合 ジャー 150g",
+     "brand": "Cymbal Beauty",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用ハンドクリーム 尿素配合 チューブ 30g",
+     "brand": "Cymbal Beauty",
+     "size": "30g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用ハンドクリーム 夜用集中保湿 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_hand_cream_urea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_hand_cream_scented",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ハンドクリーム"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ちょっとしたプレゼント",
+    "オフィスでのリフレッシュ",
+    "乾燥する季節",
+    "香りを楽しむ"
+   ],
+   "tax_rate": 10,
+   "description": "季節の香りを楽しめるハンドクリーム。べたつきにくく、塗った後すぐにスマートフォンやパソコンを触れる使い心地です。冬限定のゆず、通年のせっけん・ローズなど、気分に合わせて選べます。",
+   "image_brief": "Three slim pastel-colored hand cream tubes in yellow, white and pink fanned out on white, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 香るハンドクリーム ゆず 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 香るハンドクリーム せっけん 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 香るハンドクリーム ローズ 50g",
+     "brand": "Cymbal Beauty",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 香るハンドクリーム キンモクセイ 30g",
+     "brand": "Cymbal Beauty",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ユズハ 国産ゆずの香り ハンドクリーム 40g",
+     "brand": "ユズハ",
+     "size": "40g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_hand_cream_scented_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_lip_tinted_uv",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "リップケア"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "毎日のリップケア",
+    "ナチュラルメイク",
+    "外出時の紫外線対策",
+    "乾燥する季節"
+   ],
+   "tax_rate": 10,
+   "description": "ほんのり色づく、UVカット機能付きの色つきリップクリーム。唇にうるおいを与えながら、自然な血色感をプラスします。ナチュラルなコーラル・ピンク・レッドの3色と、無色のUVタイプを揃えました。",
+   "image_brief": "Four slim lip balm sticks with caps off showing coral, pink, red and clear balm, arranged in a row, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 色つきリップ UV SPF20 コーラル 2g",
+     "brand": "Cymbal Beauty",
+     "size": "2g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 色つきリップ UV SPF20 ピンク 2g",
+     "brand": "Cymbal Beauty",
+     "size": "2g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 色つきリップ UV SPF20 レッド 2g",
+     "brand": "Cymbal Beauty",
+     "size": "2g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty UVカット リップクリーム 無色 SPF25 4g",
+     "brand": "Cymbal Beauty",
+     "size": "4g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_lip_tinted_uv_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_lip_honey_night",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "スキンケア",
+    "リップケア"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "就寝前のリップケア",
+    "乾燥する季節",
+    "唇の集中保湿",
+    "マスク下のケア"
+   ],
+   "tax_rate": 10,
+   "description": "はちみつ由来の保湿成分を配合した、こっくりなめらかなリップバーム。寝る前にたっぷり塗るナイトケアにも向いています。スティックのほか、指で塗るポットタイプやチューブタイプも選べます。",
+   "image_brief": "A small round amber glass pot of golden honey lip balm with lid off beside a slim lip balm stick, blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Beauty はちみつ リップバーム スティック 4g",
+     "brand": "Cymbal Beauty",
+     "size": "4g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty はちみつ リップバーム ポット 7g",
+     "brand": "Cymbal Beauty",
+     "size": "7g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty はちみつ リップエッセンス チューブ 10g",
+     "brand": "Cymbal Beauty",
+     "size": "10g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック みつろうリップバーム 5g",
+     "brand": "Cymbal オーガニック",
+     "size": "5g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_lip_honey_night_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_body_milk",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "ボディミルク"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お風呂上がりの保湿",
+    "乾燥する季節",
+    "家族みんなで",
+    "朝の身支度"
+   ],
+   "tax_rate": 10,
+   "description": "のびがよく、お風呂上がりの全身にさっと広がる保湿ボディミルク。軽いつけ心地でべたつかず、すぐにパジャマを着られます。家族で使えるポンプ大容量タイプや、やさしい香りつきタイプを揃えました。",
+   "image_brief": "A tall white pump bottle of body milk lotion beside a smaller flip-cap bottle, a dab of milky lotion on a dish, blank labels, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty うるおい ボディミルク 無香料 400ml",
+     "brand": "Cymbal Beauty",
+     "size": "400ml",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty うるおい ボディミルク 無香料 ポンプ 600ml",
+     "brand": "Cymbal Beauty",
+     "size": "600ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty うるおい ボディミルク ホワイトフローラル 250ml",
+     "brand": "Cymbal Beauty",
+     "size": "250ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト セラミド ボディミルク 敏感肌用 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ボディミルク 家族用 無香料 500ml",
+     "brand": "Cymbal ベーシック",
+     "size": "500ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_body_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_body_moisture_jelly",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "保湿ジェリー"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ひじ・ひざ・かかとの保湿",
+    "唇・指先のケア",
+    "乾燥する季節",
+    "家族みんなで"
+   ],
+   "tax_rate": 10,
+   "description": "ひじやかかと、指先などの乾燥しやすいところを保護するワセリンベースの保湿ジェリー。無香料・無着色でシンプルな処方なので、家族みんなで使えます。持ち歩きに便利なチューブタイプもあります。",
+   "image_brief": "A clear plastic jar of translucent petroleum moisturizing jelly with lid off and a small squeeze tube beside it, blank labels, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 保湿ジェリー ワセリン 無香料 100g",
+     "brand": "Cymbal Beauty",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 保湿ジェリー ワセリン 無香料 200g",
+     "brand": "Cymbal Beauty",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 保湿ジェリー ワセリン チューブ 40g",
+     "brand": "Cymbal Beauty",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 保湿ジェリー 家族用 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_body_moisture_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_heel_cream",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "ボディケア",
+    "かかとクリーム"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かかとのお手入れ",
+    "就寝前のケア",
+    "乾燥する季節",
+    "サンダル前の準備"
+   ],
+   "tax_rate": 10,
+   "description": "乾燥してかたくなりがちなかかとをしっとり包む、尿素配合のフットクリーム（医薬部外品）。こってりしたテクスチャーで、寝る前に塗って靴下をはくナイトケアもおすすめです。",
+   "image_brief": "A short squat white tube of foot cream lying next to a small round jar with lid off, blank labels, studio packshot on white.",
+   "labels": [
+    "医薬部外品"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Beauty 薬用かかとクリーム 尿素配合 30g",
+     "brand": "Cymbal Beauty",
+     "size": "30g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty 薬用かかとクリーム 尿素配合 ジャー 80g",
+     "brand": "Cymbal Beauty",
+     "size": "80g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Beauty フットクリーム スティックタイプ 15g",
+     "brand": "Cymbal Beauty",
+     "size": "15g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 薬用フット集中保湿クリーム 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_heel_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_hand_gel_moisture",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "衛生・救急用品",
+    "手指ケア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "外出先の手指の清潔",
+    "食事前",
+    "オフィス",
+    "子どものおでかけ"
+   ],
+   "tax_rate": 10,
+   "description": "水を使わずに手指を清潔にできるハンドジェル。保湿成分配合で手肌がつっぱりにくく、さらっと乾きます。卓上ポンプ、持ち歩きミニボトル、ウェットタイプのシートからシーンに合わせてお選びください。",
+   "image_brief": "A clear pump bottle of transparent hand gel beside a small travel-size flip-cap bottle, blank labels, studio packshot.",
+   "labels": [
+    "詰替用"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 保湿ハンドジェル ポンプ 300ml",
+     "brand": "Cymbal",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 保湿ハンドジェル 携帯用 60ml",
+     "brand": "Cymbal",
+     "size": "60ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 保湿ハンドジェル 詰替用 250ml",
+     "brand": "Cymbal",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 手指用 ウェットシート ノンアルコール 30枚×3個",
+     "brand": "Cymbal",
+     "size": "30枚×3個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_hand_gel_moisture_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_eye_warm_mask",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "ホットアイマスク"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "パソコン作業のあとのリラックス",
+    "就寝前",
+    "移動中の休憩",
+    "冬の冷える夜"
+   ],
+   "tax_rate": 10,
+   "description": "袋から出すだけでじんわり温かくなる、使い捨てタイプのホットアイマスク。目もとをやさしく包み、一日の終わりのくつろぎタイムに。無香料のほか、ラベンダーやゆずの香りも揃えました。",
+   "image_brief": "A small cardboard box of individually wrapped disposable warm eye masks, one soft beige mask with ear loops shown in front, blank label, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal ホットアイマスク 無香料 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホットアイマスク 無香料 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホットアイマスク ラベンダーの香り 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホットアイマスク ゆずの香り 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ネムリエ 繰り返し使える 蒸気風 アイピロー USB式",
+     "brand": "ネムリエ",
+     "size": "1個",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_eye_warm_mask_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_massage_goods",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "マッサージグッズ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がりのセルフケア",
+    "デスクワークの合間",
+    "テレビを見ながら",
+    "家族へのプレゼント"
+   ],
+   "tax_rate": 10,
+   "description": "手軽にセルフケアができるマッサージグッズ。肩や首まわりに使えるローラー、足裏用のツボ押しボール、ストレッチに便利なポールなど、くつろぎ時間を楽しくするアイテムを揃えました。",
+   "image_brief": "A wooden handheld massage roller, a spiky rubber massage ball and a small foam roller arranged together, blank tag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 木製 マッサージローラー",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 足裏 ツボ押しボール 2個組",
+     "brand": "Cymbal Home",
+     "size": "2個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ストレッチ フォームローラー 30cm",
+     "brand": "Cymbal Home",
+     "size": "30cm",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 首・肩用 ツボ押しスティック",
+     "brand": "Cymbal Home",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "フィットモア 足裏 マッサージ 竹踏み",
+     "brand": "フィットモア",
+     "size": "1個",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_massage_goods_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_pill_case",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "ピルケース・お薬手帳カバー"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サプリメントの持ち歩き",
+    "旅行",
+    "毎日の飲み忘れ防止",
+    "家族の管理"
+   ],
+   "tax_rate": 10,
+   "description": "サプリメントなどを曜日ごとに整理できるピルケース。小さく持ち歩けるタイプや、1週間分を朝昼夜で分けられるタイプなど暮らしに合わせて選べます。お薬手帳や診察券をまとめるカバーもあります。",
+   "image_brief": "A colorful seven-compartment plastic pill organizer with snap lids next to a small fabric pouch, all surfaces blank, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home ピルケース 1週間 7マス",
+     "brand": "Cymbal Home",
+     "size": "7マス",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ピルケース 1週間 朝昼夜 21マス",
+     "brand": "Cymbal Home",
+     "size": "21マス",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 携帯ピルケース 3マス",
+     "brand": "Cymbal Home",
+     "size": "3マス",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home お薬手帳・診察券ケース ジャバラ式",
+     "brand": "Cymbal Home",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_pill_case_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_blood_pressure_monitor",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "血圧計"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の健康記録",
+    "朝晩の測定習慣",
+    "家族の健康管理",
+    "離れて暮らす家族への贈り物"
+   ],
+   "tax_rate": 10,
+   "description": "ボタン一つで手軽に測定できる家庭用の自動血圧計。大きな数字表示で見やすく、測定結果をメモリーに記録できます。手首式と上腕式から選べ、毎日の健康記録の習慣づくりにお役立てください。",
+   "image_brief": "A white compact upper-arm automatic blood pressure monitor with a grey cuff and a blank display screen, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミナモメディカル 上腕式 自動血圧計 メモリー60回",
+     "brand": "ミナモメディカル",
+     "size": "1台",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモメディカル 上腕式 自動血圧計 2人分メモリー",
+     "brand": "ミナモメディカル",
+     "size": "1台",
+     "price_tax_excluded": 5980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモメディカル 手首式 自動血圧計 コンパクト",
+     "brand": "ミナモメディカル",
+     "size": "1台",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモメディカル 上腕式 自動血圧計 アプリ連携",
+     "brand": "ミナモメディカル",
+     "size": "1台",
+     "price_tax_excluded": 7980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_blood_pressure_monitor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_healthcare_pedometer_scale",
+   "category_path": [
+    "ビューティー・パーソナルケア",
+    "健康グッズ",
+    "体重計・歩数計"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日の体重記録",
+    "ウォーキングの習慣",
+    "家族の健康管理",
+    "ダイエットのお供"
+   ],
+   "tax_rate": 10,
+   "description": "毎日の健康管理に役立つ体重計と歩数計。薄型でしまいやすいデジタル体重計や、体脂肪も測れる体組成計、ポケットに入るコンパクトな歩数計などを揃えました。記録を続けやすいシンプルな操作が魅力です。",
+   "image_brief": "A slim white glass digital bathroom scale with a blank display next to a small pocket pedometer, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Home 薄型 デジタル体重計 ホワイト",
+     "brand": "Cymbal Home",
+     "size": "1台",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home 体組成計 体脂肪率表示",
+     "brand": "Cymbal Home",
+     "size": "1台",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Home ポケット歩数計 クリップ付き",
+     "brand": "Cymbal Home",
+     "size": "1個",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミナモメディカル 体組成計 アプリ連携 6人登録",
+     "brand": "ミナモメディカル",
+     "size": "1台",
+     "price_tax_excluded": 5980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_healthcare_pedometer_scale_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

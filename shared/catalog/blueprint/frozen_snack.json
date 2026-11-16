@@ -1,0 +1,1379 @@
+{
+ "category_key": "frozen_snack",
+ "items": [
+  {
+   "base_id": "frozen_snack_gyoza",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 餃子・焼売"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "フライパンに並べて焼くだけで、羽根つきのパリッとした焼き餃子に仕上がります。国産の豚肉とキャベツを使ったジューシーなあんが、もちもちの皮とよく合います。油・水なしで焼けるので、忙しい日の晩ごはんにも便利です。",
+   "images": [
+    "frozen_snack_gyoza_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 油・水いらず 焼き餃子 12個入（276g）",
+     "brand": "トップバリュ",
+     "size": "276g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 油・水いらず 焼き餃子 30個入（690g）",
+     "brand": "トップバリュ",
+     "size": "690g",
+     "price_tax_excluded": 458,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼き餃子 50個入（1kg）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産豚肉と国産野菜の焼き餃子 12個入",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "トップバリュ しょうが香る 焼き餃子 12個入",
+     "brand": "トップバリュ",
+     "size": "276g",
+     "price_tax_excluded": 218,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ にんにく不使用 焼き餃子 12個入",
+     "brand": "トップバリュ",
+     "size": "276g",
+     "price_tax_excluded": 218,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_gyoza_1.jpg",
+    "frozen_snack_gyoza_2.jpg"
+   ],
+   "dishes": [
+    "焼き餃子",
+    "水餃子",
+    "餃子スープ",
+    "夕食のおかず"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_sanuki_udon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 うどん・麺類"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "コシの強さとつるっとしたのどごしが自慢の讃岐うどんです。電子レンジや鍋で温めるだけで、打ちたてのようなもちもち食感が楽しめます。かけうどんや釜玉、鍋の締めにも使える常備品です。",
+   "images": [
+    "frozen_snack_sanuki_udon_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 讃岐うどん 5食入（1kg）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg（200g×5食）",
+     "price_tax_excluded": 238,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "トップバリュ 讃岐うどん 5食入（1.1kg）",
+     "brand": "トップバリュ",
+     "size": "1.1kg（220g×5食）",
+     "price_tax_excluded": 298,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "トップバリュ セレクト 讃岐うどん 極太麺 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "750g（250g×3食）",
+     "price_tax_excluded": 328,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "トップバリュ 讃岐うどん 細麺 5食入",
+     "brand": "トップバリュ",
+     "size": "1kg（200g×5食）",
+     "price_tax_excluded": 298,
+     "origin": "香川県製造"
+    },
+    {
+     "title": "トップバリュ 讃岐うどん 10食入（2kg）",
+     "brand": "トップバリュ",
+     "size": "2kg（200g×10食）",
+     "price_tax_excluded": 498,
+     "origin": "香川県製造"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_sanuki_udon_1.jpg",
+    "frozen_snack_sanuki_udon_2.jpg"
+   ],
+   "dishes": [
+    "かけうどん",
+    "釜玉うどん",
+    "焼きうどん",
+    "カレーうどん",
+    "鍋焼きうどん"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_karaage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 からあげ・揚げ物"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "description": "しょうゆとにんにくをきかせた下味がしっかりしみた、ジューシーな鶏のからあげです。電子レンジで温めるだけで、外はカリッと中はふっくら。お弁当のおかずや晩ごはんのもう一品に重宝します。",
+   "images": [
+    "frozen_snack_karaage_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 若鶏のからあげ しょうゆ味 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 若鶏のからあげ 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 若鶏のからあげ 塩味 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ セレクト 国産若鶏のもも唐揚げ 400g",
+     "brand": "トップバリュ セレクト",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ お弁当用 ひとくちからあげ 6個入",
+     "brand": "トップバリュ",
+     "size": "126g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 若鶏の竜田揚げ 280g",
+     "brand": "トップバリュ",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_karaage_1.jpg",
+    "frozen_snack_karaage_2.jpg"
+   ],
+   "dishes": [
+    "唐揚げ",
+    "お弁当のおかず",
+    "唐揚げ丼",
+    "おつまみ"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_broccoli",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "鮮度のよいうちに下ゆでして急速冷凍したブロッコリーです。使いたい分だけ取り出して、サラダや炒め物、お弁当の彩りにすぐ使えます。下ごしらえいらずで、毎日の時短料理に役立ちます。",
+   "images": [
+    "frozen_snack_broccoli_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ブロッコリー 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ブロッコリー 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 218,
+     "origin": "エクアドル産"
+    },
+    {
+     "title": "トップバリュ 国産 冷凍 ブロッコリー 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 ブロッコリー 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "エクアドル産"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_broccoli_1.jpg",
+    "frozen_snack_broccoli_2.jpg"
+   ],
+   "dishes": [
+    "お弁当のおかず",
+    "シチュー",
+    "サラダ",
+    "ごま和え"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_spinach",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "ほどよく下ゆでしてカットした、使いやすい冷凍ほうれん草です。おひたしや味噌汁の具、ソテーなどに凍ったまま使えます。小分けしやすいバラ凍結タイプで、少しだけ欲しいときにも便利です。",
+   "images": [
+    "frozen_snack_spinach_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産 冷凍 ほうれん草 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 ほうれん草 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ 宮崎県産 冷凍 ほうれん草 小分けタイプ 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 218,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 冷凍 ほうれん草 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_spinach_1.jpg",
+    "frozen_snack_spinach_2.jpg"
+   ],
+   "dishes": [
+    "おひたし",
+    "ごま和え",
+    "味噌汁",
+    "ほうれん草のバターソテー"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_edamame",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "収穫後すぐに塩ゆでして急速冷凍した、豆の甘みが味わえる枝豆です。流水解凍や電子レンジ加熱ですぐに食べられ、おつまみやお弁当のすき間おかずにぴったり。ほどよい塩加減で、お子さまのおやつにも喜ばれます。",
+   "images": [
+    "frozen_snack_edamame_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 塩ゆで 枝豆 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 248,
+     "origin": "台湾産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 塩ゆで 枝豆 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 238,
+     "origin": "タイ産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産 茶豆風味 枝豆 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 国産 塩ゆで 枝豆 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_edamame_1.jpg",
+    "frozen_snack_edamame_2.jpg"
+   ],
+   "dishes": [
+    "おつまみ",
+    "枝豆ご飯",
+    "サラダ",
+    "お弁当の彩り"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_fried_rice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 ごはん・チャーハン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "強火で炒めたようなパラパラ食感に仕上げた、香ばしい焼豚チャーハンです。フライパンでも電子レンジでも手軽に調理でき、お昼ごはんや夜食にぴったり。卵と焼豚の旨みが広がる、家族みんなで楽しめる味わいです。",
+   "images": [
+    "frozen_snack_fried_rice_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 焼豚チャーハン 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス チャーハン 600g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "600g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 炭火焼豚の本格炒飯 450g",
+     "brand": "トップバリュ セレクト",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 五目チャーハン 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 高菜チャーハン 450g",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 焼豚チャーハン 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_fried_rice_1.jpg",
+    "frozen_snack_fried_rice_2.jpg"
+   ],
+   "dishes": [
+    "チャーハン",
+    "昼食",
+    "あんかけチャーハン",
+    "お弁当"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_gratin",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 グラタン・ドリア"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "なめらかなホワイトソースにとろけるチーズをのせた、まろやかなマカロニグラタンです。容器ごと電子レンジやオーブントースターで温めるだけで、焼きたての香ばしさが楽しめます。肌寒くなる季節の、ほっとするランチにおすすめです。",
+   "images": [
+    "frozen_snack_gratin_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ チキンマカロニグラタン 2個入（400g）",
+     "brand": "トップバリュ",
+     "size": "400g（200g×2個）",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス マカロニグラタン 3個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "450g（150g×3個）",
+     "price_tax_excluded": 278,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 北海道産チーズのポテトグラタン 2個入",
+     "brand": "トップバリュ",
+     "size": "380g（190g×2個）",
+     "price_tax_excluded": 328,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 秋限定 かぼちゃグラタン 2個入",
+     "brand": "トップバリュ",
+     "size": "380g（190g×2個）",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 濃厚チーズのミートドリア 1食",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ お弁当用 ミニグラタン 6個入",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_gratin_1.jpg",
+    "frozen_snack_gratin_2.jpg"
+   ],
+   "dishes": [
+    "マカロニグラタン",
+    "昼食",
+    "夕食の一品"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_mini_hamburg",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 お弁当おかず"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "お弁当にちょうどいいひとくちサイズのミニハンバーグです。自然解凍でも食べられるので、朝は凍ったままお弁当箱に入れるだけ。デミグラスソースがしっかりからんで、冷めてもおいしい味わいです。",
+   "images": [
+    "frozen_snack_mini_hamburg_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ お弁当用 ミニハンバーグ デミグラスソース 6個入",
+     "brand": "トップバリュ",
+     "size": "132g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ お弁当用 ミニハンバーグ てりやき 6個入",
+     "brand": "トップバリュ",
+     "size": "132g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ お弁当用 ミニハンバーグ トマトソース 6個入",
+     "brand": "トップバリュ",
+     "size": "132g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ミニハンバーグ 12個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "240g",
+     "price_tax_excluded": 248,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛肉入り ミニハンバーグ 6個入",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_mini_hamburg_1.jpg",
+    "frozen_snack_mini_hamburg_2.jpg"
+   ],
+   "dishes": [
+    "ハンバーグ",
+    "お弁当のおかず",
+    "夕食のおかず"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_yaki_onigiri",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 ごはん・チャーハン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "しょうゆを塗って香ばしく焼き上げた、国産米の焼きおにぎりです。電子レンジで温めるだけで、表面はこんがり中はふっくら。朝ごはんや部活帰りの軽食、お茶漬けアレンジにも便利です。",
+   "images": [
+    "frozen_snack_yaki_onigiri_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 焼きおにぎり 10個入（500g）",
+     "brand": "トップバリュ",
+     "size": "500g（10個）",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼きおにぎり 6個入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g（6個）",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 焼きおにぎり だし醤油 8個入",
+     "brand": "トップバリュ",
+     "size": "400g（8個）",
+     "price_tax_excluded": 328,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 小さめ焼きおにぎり 12個入",
+     "brand": "トップバリュ",
+     "size": "360g（12個）",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_yaki_onigiri_1.jpg",
+    "frozen_snack_yaki_onigiri_2.jpg"
+   ],
+   "dishes": [
+    "焼きおにぎり",
+    "焼きおにぎり茶漬け",
+    "朝食",
+    "夜食"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_mixed_vegetables",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍食品",
+    "冷凍 野菜"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "コーン・にんじん・グリーンピースを彩りよくミックスした冷凍野菜です。オムライスやピラフ、スープに凍ったままさっと加えるだけで、食卓がぱっと華やぎます。必要な分だけ使えるチャック付き袋です。",
+   "images": [
+    "frozen_snack_mixed_vegetables_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ミックスベジタブル 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ミックスベジタブル 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産 ミックスベジタブル 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ミックスベジタブル 250g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_mixed_vegetables_1.jpg",
+    "frozen_snack_mixed_vegetables_2.jpg"
+   ],
+   "dishes": [
+    "オムライス",
+    "チキンライス",
+    "ピラフ",
+    "コンソメスープ",
+    "ポテトサラダ"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_vanilla_ice",
+   "category_path": [
+    "冷凍食品・アイス",
+    "アイス",
+    "カップアイス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "description": "ミルクのコクとバニラの甘い香りが広がる、なめらかな口どけのバニラアイスです。そのまま食べるのはもちろん、焼き芋やパンケーキにのせてアレンジするのもおすすめ。家族で取り分けやすい大容量タイプもご用意しています。",
+   "images": [
+    "frozen_snack_vanilla_ice_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ バニラアイス 2000ml",
+     "brand": "トップバリュ",
+     "size": "2000ml",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス バニラアイスクリーム 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 バニラアイス 120ml",
+     "brand": "トップバリュ セレクト",
+     "size": "120ml",
+     "price_tax_excluded": 158,
+     "origin": "北海道産生クリーム使用"
+    },
+    {
+     "title": "トップバリュ バニラアイスバー 8本入",
+     "brand": "トップバリュ",
+     "size": "8本（50ml×8）",
+     "price_tax_excluded": 348,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ バニラ カップアイス 6個入",
+     "brand": "トップバリュ",
+     "size": "6個（90ml×6）",
+     "price_tax_excluded": 398,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト マダガスカル産バニラビーンズ使用 アイス 470ml",
+     "brand": "トップバリュ セレクト",
+     "size": "470ml",
+     "price_tax_excluded": 498,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_vanilla_ice_1.jpg",
+    "frozen_snack_vanilla_ice_2.jpg"
+   ],
+   "dishes": [
+    "デザート",
+    "パフェ",
+    "アフォガート",
+    "フロート"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_potato_chips",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "description": "国産じゃがいもを薄くスライスしてカラッと揚げた、パリッと軽い食感のポテトチップスです。素材の味を引き立てるうすしお味と、旨みたっぷりのコンソメ味をご用意。家族のおやつタイムや週末の映画鑑賞のお供にどうぞ。（うすしお味は小麦・乳を含みません）",
+   "images": [
+    "frozen_snack_potato_chips_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ポテトチップス うすしお味 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 108,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "トップバリュ ポテトチップス コンソメ味 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 108,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス ポテトチップス うすしお味 135g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "135g",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ポテトチップス コンソメ味 135g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "135g",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ポテトチップス うすしお味 小袋 5袋入",
+     "brand": "トップバリュ",
+     "size": "140g（28g×5袋）",
+     "price_tax_excluded": 298,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "トップバリュ セレクト 厚切りポテトチップス 瀬戸内の塩 70g",
+     "brand": "トップバリュ セレクト",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "トップバリュ ポテトチップス コンソメ味 Wパンチ 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 98,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_potato_chips_1.jpg",
+    "frozen_snack_potato_chips_2.jpg"
+   ],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "パーティー"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_chocolate",
+   "category_path": [
+    "お菓子・製菓",
+    "チョコレート",
+    "板チョコ・袋チョコ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "description": "カカオの香りとミルクのやさしい甘さが調和した、なめらかな口どけのチョコレートです。ちょっとしたひと休みのおやつに、製菓用として手作りお菓子にも使えます。食べきりやすい個包装タイプも人気です。",
+   "images": [
+    "frozen_snack_chocolate_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ミルクチョコレート 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ハイカカオチョコレート カカオ72% 個包装 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス ミルクチョコレート 3枚入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g（50g×3枚）",
+     "price_tax_excluded": 238,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト ベルギー産チョコレート使用 ミルクチョコ 個包装 120g",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 398,
+     "origin": "ベルギー製造"
+    },
+    {
+     "title": "トップバリュ ホワイトチョコレート 45g",
+     "brand": "トップバリュ",
+     "size": "45g",
+     "price_tax_excluded": 98,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ミルクチョコレート 50g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_chocolate_1.jpg",
+    "frozen_snack_chocolate_2.jpg"
+   ],
+   "dishes": [
+    "おやつ",
+    "チョコバナナ",
+    "ガトーショコラ",
+    "ホットチョコレート"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓・和菓子",
+    "せんべい・あられ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "description": "国産うるち米を香ばしく焼き上げ、しょうゆだれを塗った昔ながらの堅焼きせんべいです。噛むほどにお米の甘みとしょうゆの香りが広がり、緑茶との相性も抜群。食べやすい個包装で、来客時のお茶うけにも便利です。",
+   "images": [
+    "frozen_snack_senbei_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産米使用 しょうゆせんべい 20枚入",
+     "brand": "トップバリュ",
+     "size": "20枚（2枚×10袋）",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ ざらめせんべい 14枚入",
+     "brand": "トップバリュ",
+     "size": "14枚",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ のり巻きせんべい 16枚入",
+     "brand": "トップバリュ",
+     "size": "16枚",
+     "price_tax_excluded": 228,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 揚げせんべい しょうゆ味 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産こしいぶき使用 手焼き風せんべい 12枚",
+     "brand": "トップバリュ セレクト",
+     "size": "12枚",
+     "price_tax_excluded": 348,
+     "origin": "新潟県産米使用"
+    },
+    {
+     "title": "トップバリュ 薄焼きせんべい 塩味 個包装 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_senbei_1.jpg",
+    "frozen_snack_senbei_2.jpg"
+   ],
+   "dishes": [
+    "おやつ",
+    "お茶請け"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_sweet_potato",
+   "category_path": [
+    "お菓子・製菓",
+    "洋菓子・デザート",
+    "スイートポテト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "秋だけの限定品。鹿児島県産のさつまいも（紅はるか）を使い、バターと生クリームでなめらかに仕上げたスイートポテトです。ねっとりとした甘みと香ばしい焼き目が楽しめ、少し温めると焼きたてのような風味に。",
+   "images": [
+    "frozen_snack_sweet_potato_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 秋限定 紅はるかのスイートポテト 4個入",
+     "brand": "トップバリュ",
+     "size": "4個",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "トップバリュ 秋限定 スイートポテト 6個入",
+     "brand": "トップバリュ",
+     "size": "6個",
+     "price_tax_excluded": 498,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "トップバリュ セレクト 秋限定 安納芋のスイートポテト 2個入",
+     "brand": "トップバリュ セレクト",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "種子島産安納芋使用"
+    },
+    {
+     "title": "トップバリュ 秋限定 ひとくちスイートポテト 個包装 8個入",
+     "brand": "トップバリュ",
+     "size": "8個",
+     "price_tax_excluded": 348,
+     "origin": "国産さつまいも使用"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_sweet_potato_1.jpg",
+    "frozen_snack_sweet_potato_2.jpg"
+   ],
+   "dishes": [
+    "おやつ",
+    "デザート",
+    "お茶請け"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_green_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "緑茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "国産茶葉を100%使用し、すっきりとした味わいとほどよい渋みに仕上げた緑茶です。和食との相性がよく、毎日の食卓にぴったり。家族でたっぷり飲める2Lの大容量ボトルです。",
+   "images": [
+    "frozen_snack_green_tea_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 国産茶葉使用 緑茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 128,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 緑茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 98,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 緑茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 698,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "トップバリュ セレクト 静岡県産茶葉 深蒸し緑茶 2L",
+     "brand": "トップバリュ セレクト",
+     "size": "2L",
+     "price_tax_excluded": 168,
+     "origin": "静岡県産茶葉使用"
+    },
+    {
+     "title": "トップバリュ 国産茶葉使用 緑茶 525ml",
+     "brand": "トップバリュ",
+     "size": "525ml",
+     "price_tax_excluded": 68,
+     "origin": "国産茶葉使用"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 緑茶 500ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 98,
+     "origin": "国産有機茶葉使用"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_green_tea_1.jpg",
+    "frozen_snack_green_tea_2.jpg"
+   ],
+   "dishes": [
+    "食事のお供",
+    "お弁当のお供",
+    "お茶漬け"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_barley_tea",
+   "category_path": [
+    "飲料・水",
+    "お茶飲料",
+    "麦茶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "香ばしく焙煎した大麦を使った、すっきり飲みやすいカフェインゼロの麦茶です。お子さまから大人まで家族みんなで楽しめ、食事のお供にもぴったり。煮出し不要の水出しティーバッグもご用意しています。",
+   "images": [
+    "frozen_snack_barley_tea_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 香ばし麦茶 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 118,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 麦茶 2L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L",
+     "price_tax_excluded": 88,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 香ばし麦茶 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 648,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産六条大麦使用 水出し麦茶 ティーバッグ 54袋",
+     "brand": "トップバリュ",
+     "size": "54袋",
+     "price_tax_excluded": 248,
+     "origin": "国産大麦使用"
+    },
+    {
+     "title": "トップバリュ 香ばし麦茶 650ml",
+     "brand": "トップバリュ",
+     "size": "650ml",
+     "price_tax_excluded": 68,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_barley_tea_1.jpg",
+    "frozen_snack_barley_tea_2.jpg"
+   ],
+   "dishes": [
+    "食事のお供",
+    "お弁当のお供",
+    "水分補給"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_mineral_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "ミネラルウォーター"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "ゆっくり磨かれた天然水を採水地でボトリングした、まろやかな口当たりのミネラルウォーターです。そのまま飲むのはもちろん、お米を炊いたりお茶を淹れたりするのにもおすすめ。重たい水もケースでまとめてお届けします。",
+   "images": [
+    "frozen_snack_mineral_water_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 天然水 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 天然水 2L×6本",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2L×6本",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 天然水 富士山の恵み 2L×6本",
+     "brand": "トップバリュ",
+     "size": "2L×6本",
+     "price_tax_excluded": 458,
+     "origin": "静岡県採水"
+    },
+    {
+     "title": "トップバリュ 天然水 2L",
+     "brand": "トップバリュ",
+     "size": "2L",
+     "price_tax_excluded": 78,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 天然水 550ml×24本",
+     "brand": "トップバリュ",
+     "size": "550ml×24本",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_mineral_water_1.jpg",
+    "frozen_snack_mineral_water_2.jpg"
+   ],
+   "dishes": [
+    "ごはん炊き",
+    "水割り",
+    "水出し緑茶",
+    "水分補給"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_vegetable_juice",
+   "category_path": [
+    "飲料・水",
+    "ジュース・果汁飲料",
+    "野菜ジュース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "にんじんやトマトなどたっぷりの野菜と果物を、飲みやすくブレンドした野菜ジュースです。砂糖・食塩不使用で素材そのものの甘みが味わえます。朝食やお子さまのおやつタイムに手軽に楽しめます。",
+   "images": [
+    "frozen_snack_vegetable_juice_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 野菜ジュース 砂糖・食塩不使用 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 178,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 野菜ジュース 200ml×12本",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200ml×12本",
+     "price_tax_excluded": 498,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 野菜と果実 ミックスジュース 200ml×6本",
+     "brand": "トップバリュ",
+     "size": "200ml×6本",
+     "price_tax_excluded": 298,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 国産にんじん使用 キャロットジュース 900g",
+     "brand": "トップバリュ",
+     "size": "900g",
+     "price_tax_excluded": 238,
+     "origin": "国産にんじん使用"
+    },
+    {
+     "title": "トップバリュ 食塩無添加 トマトジュース 1L",
+     "brand": "トップバリュ",
+     "size": "1L",
+     "price_tax_excluded": 198,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 野菜ジュース 200ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_vegetable_juice_1.jpg",
+    "frozen_snack_vegetable_juice_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "ミネストローネ",
+    "トマトスープ",
+    "スムージー"
+   ]
+  },
+  {
+   "base_id": "frozen_snack_sparkling_water",
+   "category_path": [
+    "飲料・水",
+    "水・炭酸水",
+    "炭酸水"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "きめ細かくはじける強めの炭酸で、すっきり爽快な飲み心地の炭酸水です。カロリーゼロなので、そのまま飲んだり、果汁やシロップで割ってアレンジしたりと楽しみ方いろいろ。食事中のリフレッシュにもぴったりです。",
+   "images": [
+    "frozen_snack_sparkling_water_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 強炭酸水 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 68,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 500ml×24本",
+     "brand": "トップバリュ",
+     "size": "500ml×24本",
+     "price_tax_excluded": 1380,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ ベストプライス 炭酸水 1L",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1L",
+     "price_tax_excluded": 78,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 レモン 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 68,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 グレープフルーツ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 68,
+     "origin": ""
+    },
+    {
+     "title": "トップバリュ 強炭酸水 1L×15本",
+     "brand": "トップバリュ",
+     "size": "1L×15本",
+     "price_tax_excluded": 1180,
+     "origin": ""
+    }
+   ],
+   "cc_images": [
+    "frozen_snack_sparkling_water_1.jpg",
+    "frozen_snack_sparkling_water_2.jpg"
+   ],
+   "dishes": [
+    "ハイボール",
+    "レモンスカッシュ",
+    "フルーツポンチ",
+    "食事のお供"
+   ]
+  }
+ ]
+}

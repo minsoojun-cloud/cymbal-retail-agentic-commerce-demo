@@ -1,0 +1,2554 @@
+{
+ "category_key": "x_seasoning_dish",
+ "items": [
+  {
+   "base_id": "x_seasoning_dish_oyakodon_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "丼の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "他人丼",
+    "かつ丼",
+    "卵とじ"
+   ],
+   "description": "かつおと昆布のだしをきかせた、甘めの親子丼の素です。鶏肉と玉ねぎを煮て卵でとじるだけで、ふんわり親子丼が手早く作れます。かつ丼や卵とじにも使えます。",
+   "image_brief": "Retail packshot of a box containing three retort pouches of oyakodon sauce, showing a bowl of chicken and egg over rice, label 「親子丼の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 親子丼の素 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（180g×3）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 親子丼の素 5袋入",
+     "brand": "トップバリュ",
+     "size": "5袋入（180g×5）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 親子丼の素 3袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3袋入（160g×3）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産鶏使用 具入り親子丼の素 2袋入",
+     "brand": "トップバリュ セレクト",
+     "size": "2袋入（200g×2）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 親子丼のたれ 濃縮タイプ 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 親子丼の素 減塩タイプ 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（180g×3）",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_oyakodon_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_gyudon_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "丼の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉豆腐",
+    "牛ごぼう煮",
+    "すき煮"
+   ],
+   "description": "牛こま肉と玉ねぎを煮込むだけで、お店のような牛丼が作れる甘辛いたれです。肉豆腐や牛肉とごぼうの煮物など、ご飯がすすむ煮物にも使えます。",
+   "image_brief": "Retail packshot of a stand-up bottle of sweet soy gyudon sauce next to a bowl of beef bowl, label 「牛丼のたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛丼のたれ 濃縮タイプ 340g",
+     "brand": "トップバリュ",
+     "size": "340g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛丼の素 2袋入",
+     "brand": "トップバリュ",
+     "size": "2袋入（140g×2）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛丼のたれ 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 牛丼のたれ 生姜と玉ねぎ仕立て 360g",
+     "brand": "トップバリュ セレクト",
+     "size": "360g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛丼の素 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋入（140g×4）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 具入り牛丼 レトルト 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（120g×3）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_gyudon_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_butadon_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "丼のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚丼",
+    "豚バラ焼き",
+    "照り焼き",
+    "焼きおにぎり"
+   ],
+   "description": "炭火の香ばしさを感じる、北海道帯広風の甘辛い豚丼のたれです。豚ロースや豚バラを焼いてからめるだけでご飯がすすむ一品に。お弁当のおかずや焼きおにぎりにも。",
+   "image_brief": "Retail packshot of a plastic bottle of glossy dark butadon tare with a photo of grilled pork slices on rice, label 「豚丼のたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 帯広風 豚丼のたれ 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 帯広風 豚丼のたれ 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豚丼のたれ 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産醤油使用 炭火風 豚丼のたれ 280g",
+     "brand": "トップバリュ セレクト",
+     "size": "280g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豚丼のたれ にんにく風味 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豚丼のたれ 小袋 30g×6袋",
+     "brand": "トップバリュ",
+     "size": "30g×6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_butadon_tare_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_ginger_pork_sauce",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "生姜焼きのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚の生姜焼き",
+    "鶏の生姜焼き",
+    "豚こま炒め",
+    "お弁当のおかず"
+   ],
+   "description": "すりおろし生姜をたっぷり使った、豚の生姜焼き専用のたれです。焼いた豚ロースや豚こまにからめるだけで、味がピタッと決まります。鶏肉や野菜炒めにも使えます。",
+   "image_brief": "Retail packshot of a bottle of ginger pork sauce with visible grated ginger particles and a plate of ginger pork, label 「しょうが焼のたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ しょうが焼のたれ 230g",
+     "brand": "トップバリュ",
+     "size": "230g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しょうが焼のたれ 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス しょうが焼のたれ 280g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "280g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 高知県産しょうが使用 しょうが焼のたれ 240g",
+     "brand": "トップバリュ セレクト",
+     "size": "240g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しょうが焼のたれ 小袋 2〜3人前×3袋",
+     "brand": "トップバリュ",
+     "size": "3袋入（60g×3）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック オーガニック しょうが焼のたれ 200g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_ginger_pork_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_teriyaki_sauce",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "照り焼きのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏の照り焼き",
+    "ぶりの照り焼き",
+    "照り焼きハンバーグ",
+    "つくね",
+    "お弁当のおかず"
+   ],
+   "description": "醤油とみりんの甘辛さでつやよく仕上がる照り焼きのたれです。鶏もも肉やぶりを焼いてからめるだけで、照りのある照り焼きが簡単に作れます。つくねやハンバーグにもおすすめです。",
+   "image_brief": "Retail packshot of a bottle of shiny brown teriyaki sauce next to glazed chicken thigh slices, label 「照り焼きのたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 照り焼きのたれ 240g",
+     "brand": "トップバリュ",
+     "size": "240g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 照り焼きのたれ 420g",
+     "brand": "トップバリュ",
+     "size": "420g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 照り焼きのたれ 300g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本みりん仕込み 照り焼きのたれ 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏の照り焼きの素 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（2人前×3）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぶりの照り焼きの素 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（2人前×3）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_teriyaki_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_yakiniku_sauce",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "焼肉のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "野菜炒め",
+    "肉野菜炒め",
+    "焼肉丼",
+    "プルコギ"
+   ],
+   "description": "りんごや玉ねぎの甘みとにんにくの香りがきいた焼肉のたれです。焼いたお肉につけるのはもちろん、野菜炒めや焼肉丼の味付けにも重宝します。甘口・中辛・辛口からご家族の好みで選べます。",
+   "image_brief": "Retail packshot of a large plastic bottle of yakiniku sauce with a photo of grilled beef, label 「焼肉のたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 焼肉のたれ 甘口 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼肉のたれ 中辛 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼肉のたれ 辛口 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼肉のたれ 甘口 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼肉のたれ 中辛 1kg",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1kg",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産果実と醤油の焼肉のたれ 中辛 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼肉のたれ 塩レモン 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼肉のたれ 小袋 お弁当用 30g×5袋",
+     "brand": "トップバリュ",
+     "size": "30g×5袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_yakiniku_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_sukiyaki_sauce",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "すき焼きのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "すき焼き",
+    "肉豆腐",
+    "牛丼",
+    "すき煮"
+   ],
+   "description": "割り下を作る手間なく、関東風の甘辛いすき焼きが楽しめるたれです。牛肉や豆腐、しらたき、長ねぎと一緒に煮るだけで味が決まります。残ったたれは肉豆腐や牛丼にも。",
+   "image_brief": "Retail packshot of a bottle of sukiyaki warishita sauce with a cast-iron pot of beef and tofu on the label, label 「すき焼のたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ すき焼のたれ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すき焼のたれ 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス すき焼のたれ 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 本醸造醤油と本みりん すき焼のたれ 400ml",
+     "brand": "トップバリュ セレクト",
+     "size": "400ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すき焼のたれ 関西風 濃縮 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すき焼のたれ ストレート 小分け 2〜3人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2袋入（250g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_sukiyaki_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_shabu_goma_dare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "しゃぶしゃぶのたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "冷しゃぶ",
+    "棒棒鶏",
+    "ごま和え",
+    "鍋"
+   ],
+   "description": "練りごまと煎りごまをたっぷり使った、コクのあるしゃぶしゃぶ用ごまだれです。豚しゃぶや冷しゃぶ、棒棒鶏のたれとして、また野菜のごま和えにも使えます。",
+   "image_brief": "Retail packshot of a squeeze bottle of creamy beige sesame sauce with shabu-shabu pork and vegetables on the label, label 「しゃぶしゃぶ ごまだれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ しゃぶしゃぶ ごまだれ 250ml",
+     "brand": "トップバリュ",
+     "size": "250ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しゃぶしゃぶ ごまだれ 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ごまだれ 300ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 金ごま使用 しゃぶしゃぶ ごまだれ 240ml",
+     "brand": "トップバリュ セレクト",
+     "size": "240ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しゃぶしゃぶ ごまだれ ピリ辛ラー油入り 250ml",
+     "brand": "トップバリュ",
+     "size": "250ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷しゃぶ用 ごまだれ 小袋 30ml×5袋",
+     "brand": "トップバリュ",
+     "size": "30ml×5袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_shabu_goma_dare_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_karaage_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "唐揚げ粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "手羽先の唐揚げ",
+    "ザンギ",
+    "お弁当のおかず"
+   ],
+   "description": "下味と衣が一度に付けられる、醤油にんにく味の唐揚げ粉です。鶏もも肉にまぶして揚げるだけで、外はカリッと中はジューシーな唐揚げに。少ない油で揚げ焼きにもできます。",
+   "image_brief": "Retail packshot of a resealable bag of seasoned karaage coating flour with a pile of golden fried chicken on the label, label 「からあげ粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ からあげ粉 しょうゆにんにく味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ からあげ粉 しょうゆにんにく味 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス からあげ粉 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ からあげ粉 しお味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産小麦使用 からあげ粉 しょうが醤油味 120g",
+     "brand": "トップバリュ セレクト",
+     "size": "120g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 揚げ焼き用 からあげ粉 小袋 25g×4袋",
+     "brand": "トップバリュ",
+     "size": "25g×4袋",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ からあげ粉 ガーリックペッパー味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_karaage_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_tatsuta_age_flour",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "粉類",
+    "竜田揚げ粉"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "竜田揚げ",
+    "鯖の竜田揚げ",
+    "鶏の竜田揚げ",
+    "唐揚げ",
+    "お弁当のおかず"
+   ],
+   "description": "片栗粉ベースで、白くカリッとした衣に仕上がる竜田揚げ粉です。醤油と生姜の下味付きで、鶏肉はもちろん、さばや豚肉の竜田揚げにも使えます。",
+   "image_brief": "Retail packshot of a bag of tatsuta-age coating starch with crispy white-coated fried mackerel on the label, label 「竜田揚げ粉」.",
+   "variants": [
+    {
+     "title": "トップバリュ 竜田揚げ粉 しょうが醤油味 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 竜田揚げ粉 しょうが醤油味 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 竜田揚げ粉 90g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "90g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産片栗粉使用 竜田揚げ粉 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ さばの竜田揚げ粉 2回分 50g×2袋",
+     "brand": "トップバリュ",
+     "size": "50g×2袋",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_tatsuta_age_flour_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_subuta_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "黒酢酢豚",
+    "鶏の甘酢あん",
+    "肉団子の甘酢あん"
+   ],
+   "description": "黒酢とケチャップでまろやかな甘酸っぱさに仕上げた酢豚の素です。揚げた豚肉と野菜を炒めて加えるだけで、とろみのある本格的な酢豚が作れます。鶏の唐揚げや肉団子の甘酢あんにも。",
+   "image_brief": "Retail packshot of a box with two pouches of sweet and sour pork sauce and a photo of subuta with peppers and pineapple, label 「酢豚の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 酢豚の素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 酢豚の素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（140g）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 香り高い黒酢の酢豚の素 2〜3人前×2回分",
+     "brand": "トップバリュ セレクト",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 甘酢あんの素 2〜3人前×3回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×3回分",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 肉団子の甘酢あん 3〜4人前",
+     "brand": "トップバリュ",
+     "size": "3〜4人前（150g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 酢豚の素 野菜たっぷり用 3〜4人前×2回分",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2回分",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_subuta_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_happosai_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "八宝菜",
+    "中華丼",
+    "あんかけ焼きそば",
+    "野菜炒め"
+   ],
+   "description": "オイスターソースと鶏がらのうまみがきいた八宝菜の素です。肉や魚介、野菜を炒めて加えるだけで、とろみのある八宝菜に。ご飯にかければ中華丼、焼きそばにかければあんかけ焼きそばになります。",
+   "image_brief": "Retail packshot of a box of happosai sauce pouches with a plate of stir-fried vegetables and seafood in thick sauce, label 「八宝菜の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 八宝菜の素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 八宝菜の素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（140g）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華丼の素 3〜4人前×2回分",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2回分",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 干し貝柱のうまみ 八宝菜の素 2〜3人前×2回分",
+     "brand": "トップバリュ セレクト",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あんかけ焼きそばの素 2人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 具入り中華丼の具 レトルト 2袋入",
+     "brand": "トップバリュ",
+     "size": "2袋入（210g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_happosai_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_ebichili_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エビチリ",
+    "エビマヨ",
+    "鶏チリ",
+    "厚揚げのチリソース"
+   ],
+   "description": "豆板醤のピリッとした辛さとトマトの甘みが合わさったエビチリの素です。下処理したえびを炒めて加えるだけで本格中華の一皿に。鶏肉や厚揚げで作るチリソース炒めにも使えます。",
+   "image_brief": "Retail packshot of a box of chili shrimp sauce pouches with a plate of shrimp in red chili sauce, label 「エビチリの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ エビチリの素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ エビチリの素 辛口 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス エビチリの素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（130g）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ エビマヨの素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 四川豆板醤使用 エビチリの素 2〜3人前×2回分",
+     "brand": "トップバリュ セレクト",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_ebichili_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_mabo_nasu_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆なす",
+    "麻婆春雨",
+    "麻婆厚揚げ",
+    "なす炒め"
+   ],
+   "description": "ひき肉となすを炒めて加えるだけで、とろりとした麻婆なすが作れる中華合わせ調味料です。夏から秋のなすがおいしい時期の定番おかずに。麻婆春雨や厚揚げにも使えます。",
+   "image_brief": "Retail packshot of a box of mabo eggplant sauce pouches with a plate of eggplant and minced pork in red sauce, label 「麻婆なすの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 麻婆なすの素 中辛 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆なすの素 甘口 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 麻婆なすの素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（150g）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆春雨の素 中辛 春雨入り 3〜4人前",
+     "brand": "トップバリュ",
+     "size": "3〜4人前（春雨40g入）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 花椒香る 麻婆なすの素 辛口 2〜3人前×2回分",
+     "brand": "トップバリュ セレクト",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ なすの味噌炒めの素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2回分",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_mabo_nasu_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_nikujaga_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "肉豆腐",
+    "かぼちゃの煮物",
+    "煮物"
+   ],
+   "description": "かつおと昆布のだしに醤油と砂糖をバランスよく合わせた肉じゃがの素です。じゃがいも、にんじん、玉ねぎ、お肉を煮込むだけで、ほっとする家庭の味に仕上がります。",
+   "image_brief": "Retail packshot of a pouch box of nikujaga simmering sauce with a bowl of beef and potato stew, label 「肉じゃがの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 肉じゃがの素 3〜4人前×2袋",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 肉じゃがの素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（130g）",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼あご入りだし 肉じゃがの素 3〜4人前×2袋",
+     "brand": "トップバリュ セレクト",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 肉じゃがの素 減塩 3〜4人前×2袋",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 煮物の素 和風 濃縮 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_nikujaga_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_chikuzenni_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "筑前煮",
+    "がめ煮",
+    "鶏と根菜の煮物",
+    "おせち"
+   ],
+   "description": "鶏肉と根菜をおいしく煮上げる、甘辛い筑前煮の素です。れんこん、ごぼう、にんじん、こんにゃくなどを炒めて煮るだけで、照りよく仕上がります。お正月の煮しめにも。",
+   "image_brief": "Retail packshot of a pouch of chikuzenni simmering sauce with a bowl of chicken and root vegetables, label 「筑前煮の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 筑前煮の素 3〜4人前×2袋",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 筑前煮の素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前（120g）",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 九州醤油仕立て がめ煮の素 3〜4人前×2袋",
+     "brand": "トップバリュ セレクト",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 筑前煮の具 水煮野菜 たれ付 2〜3人前",
+     "brand": "トップバリュ",
+     "size": "2〜3人前（具300g・たれ80g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 根菜の煮物の素 3〜4人前×2袋",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_chikuzenni_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_nizakana_sauce",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "和風煮物の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "煮魚",
+    "かれいの煮付け",
+    "さばの味噌煮",
+    "ぶり大根"
+   ],
+   "description": "生姜をきかせた、煮魚専用の合わせ調味料です。かれいや金目鯛などの切り身を煮るだけで、ふっくら甘辛い煮付けが作れます。さばの味噌煮やぶり大根用もそろいます。",
+   "image_brief": "Retail packshot of a pouch box of simmered fish sauce with a plate of braised flounder, label 「煮魚の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 煮魚の素 しょうゆ味 2〜3切×3袋",
+     "brand": "トップバリュ",
+     "size": "3袋入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ さばの味噌煮の素 2〜3切×3袋",
+     "brand": "トップバリュ",
+     "size": "3袋入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 煮魚のたれ 300ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "300ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぶり大根の素 2〜3人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2袋入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 金目鯛の煮付けのたれ 甘口 280ml",
+     "brand": "トップバリュ セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いわしの梅煮の素 2〜3人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2袋入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_nizakana_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_takikomi_gomoku",
+   "category_path": [
+    "お米・麺・インスタント",
+    "ご飯の素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "五目炊き込みご飯",
+    "おにぎり",
+    "お弁当",
+    "かやくご飯"
+   ],
+   "description": "鶏肉、にんじん、ごぼう、油揚げ、しいたけなどの具とだしが入った五目炊き込みご飯の素です。研いだお米と一緒に炊飯器で炊くだけで、具だくさんの炊き込みご飯に。おにぎりやお弁当にも。",
+   "image_brief": "Retail packshot of a retort pouch box of gomoku rice mix showing mixed rice with chicken and vegetables, label 「五目炊き込みご飯の素 2合用」.",
+   "variants": [
+    {
+     "title": "トップバリュ 五目炊き込みご飯の素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（170g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五目炊き込みご飯の素 3合用",
+     "brand": "トップバリュ",
+     "size": "3合用（240g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 五目ごはんの素 2合用",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2合用（150g）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産具材使用 五目炊き込みご飯の素 2合用",
+     "brand": "トップバリュ セレクト",
+     "size": "2合用（180g）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かやくご飯の素 関西風 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（170g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五目炊き込みご飯の素 1合用×2袋",
+     "brand": "トップバリュ",
+     "size": "1合用×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_takikomi_gomoku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_takikomi_tori_gobo",
+   "category_path": [
+    "お米・麺・インスタント",
+    "ご飯の素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏ごぼうご飯",
+    "炊き込みご飯",
+    "おにぎり",
+    "お弁当"
+   ],
+   "description": "国産鶏肉とささがきごぼうの香りが広がる、鶏ごぼうご飯の素です。お米と一緒に炊くだけで、甘辛い味がしみた炊き込みご飯が楽しめます。冷めてもおいしく、おにぎりにもぴったりです。",
+   "image_brief": "Retail packshot of a retort pouch of chicken and burdock rice mix with a bowl of seasoned rice, label 「鶏ごぼうごはんの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 鶏ごぼうごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（160g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏ごぼうごはんの素 3合用",
+     "brand": "トップバリュ",
+     "size": "3合用（230g）",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 九州産ごぼう使用 鶏ごぼうごはんの素 2合用",
+     "brand": "トップバリュ セレクト",
+     "size": "2合用（170g）",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 鶏ごぼうごはんの素 2合用",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2合用（140g）",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 混ぜ込み 鶏ごぼうごはん 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（80g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_takikomi_tori_gobo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_takikomi_kinoko",
+   "category_path": [
+    "お米・麺・インスタント",
+    "ご飯の素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きのこご飯",
+    "炊き込みご飯",
+    "おにぎり",
+    "秋の献立"
+   ],
+   "description": "しめじ、まいたけ、しいたけなどきのこの香りとうまみがたっぷりの炊き込みご飯の素です。秋の献立にぴったりで、お米と炊くだけで手軽に季節の味が楽しめます。",
+   "image_brief": "Retail packshot of a retort pouch of mushroom rice mix with a bowl of rice topped with shimeji and shiitake, label 「きのこごはんの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ きのこごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（180g）",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きのこごはんの素 3合用",
+     "brand": "トップバリュ",
+     "size": "3合用（250g）",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産まつたけ入り まつたけごはんの素 2合用",
+     "brand": "トップバリュ セレクト",
+     "size": "2合用（180g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス きのこごはんの素 2合用",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2合用（150g）",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗ごはんの素 むき栗入り 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（240g）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たけのこごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（200g）",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_takikomi_kinoko_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_chirashi_sushi_mix",
+   "category_path": [
+    "お米・麺・インスタント",
+    "ご飯の素",
+    "ちらし寿司の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ちらし寿司",
+    "五目ちらし",
+    "手まり寿司",
+    "ひな祭り",
+    "いなり寿司"
+   ],
+   "description": "炊きたてのご飯に混ぜるだけで、れんこん、にんじん、しいたけなどの具が入った五目ちらし寿司が作れます。錦糸卵や刻みのりを添えれば、お祝いやひな祭りの食卓が華やかに。",
+   "image_brief": "Retail packshot of a box of chirashi sushi mix with a colorful bowl of scattered sushi topped with egg strips, label 「五目ちらし寿司の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 五目ちらし寿司の素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（150g）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五目ちらし寿司の素 3合用",
+     "brand": "トップバリュ",
+     "size": "3合用（220g）",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ちらし寿司の素 2合用",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2合用（130g）",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産れんこん・しいたけ使用 五目ちらし寿司の素 3合用",
+     "brand": "トップバリュ セレクト",
+     "size": "3合用（230g）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 混ぜ寿司の素 ゆず風味 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用（150g）",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いなり寿司の素 味付油揚げ 10枚入",
+     "brand": "トップバリュ",
+     "size": "10枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_chirashi_sushi_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_sushi_vinegar",
+   "category_path": [
+    "調味料",
+    "酢",
+    "すし酢・合わせ酢"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ちらし寿司",
+    "手巻き寿司",
+    "いなり寿司",
+    "酢の物",
+    "南蛮漬け"
+   ],
+   "description": "米酢に砂糖と塩を合わせた、ご飯に混ぜるだけのすし酢です。手巻き寿司やちらし寿司、いなり寿司のすし飯が手早く作れます。きゅうりとわかめの酢の物や南蛮漬けにも便利です。",
+   "image_brief": "Retail packshot of a clear plastic bottle of sushi vinegar with a photo of hand-rolled sushi, label 「すし酢」.",
+   "variants": [
+    {
+     "title": "トップバリュ すし酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すし酢 900ml",
+     "brand": "トップバリュ",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス すし酢 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産米酢使用 すし酢 昆布だし入り 360ml",
+     "brand": "トップバリュ セレクト",
+     "size": "360ml",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かんたん酢 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ すし酢 粉末タイプ 2合用×3袋",
+     "brand": "トップバリュ",
+     "size": "2合用×3袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_sushi_vinegar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_nanban_tartar",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "タルタルソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキン南蛮",
+    "エビフライ",
+    "鮭のムニエル",
+    "白身魚フライ"
+   ],
+   "description": "刻んだピクルスと玉ねぎ入りのまろやかなタルタルソースです。チキン南蛮やエビフライ、白身魚フライのほか、鮭のムニエルにも合います。南蛮酢とセットにしたチキン南蛮用もあります。",
+   "image_brief": "Retail packshot of a squeeze tube of tartar sauce with chopped pickles visible, beside fried chicken nanban, label 「タルタルソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ タルタルソース 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ タルタルソース 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス タルタルソース 155g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "155g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト たまごたっぷり タルタルソース 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チキン南蛮の素 甘酢・タルタル付 2〜3人前",
+     "brand": "トップバリュ",
+     "size": "2〜3人前",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ タルタルソース 小袋 お弁当用 10g×8袋",
+     "brand": "トップバリュ",
+     "size": "10g×8袋",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_nanban_tartar_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_chuno_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "中濃ソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "コロッケ",
+    "ハンバーグ",
+    "焼きそば",
+    "メンチカツ"
+   ],
+   "description": "野菜と果実のうまみを煮込んだ、とろみと甘みのバランスがよい中濃ソースです。とんかつやコロッケなどの揚げ物にかけたり、ハンバーグソースや焼きそばの隠し味にも使えます。",
+   "image_brief": "Retail packshot of a plastic bottle of dark brown medium-thick sauce, label 「中濃ソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ 中濃ソース 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 中濃ソース 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中濃ソース 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産野菜・果実使用 中濃ソース 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック オーガニック 中濃ソース 250ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中濃ソース 減塩 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_chuno_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_worcester_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "ウスターソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コロッケ",
+    "ソース焼きそば",
+    "カレー",
+    "ハヤシライス",
+    "串カツ"
+   ],
+   "description": "スパイスの香りがきいた、さらりとしたウスターソースです。コロッケや串カツにかけるほか、カレーやハヤシライス、ミートソースの隠し味にも重宝します。",
+   "image_brief": "Retail packshot of a slim plastic bottle of thin dark Worcestershire sauce, label 「ウスターソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ ウスターソース 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ウスターソース 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウスターソース 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト スパイス香る ウスターソース 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック オーガニック ウスターソース 250ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "250ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_worcester_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_tonkatsu_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "とんかつソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "かつ丼",
+    "メンチカツ",
+    "エビフライ",
+    "串カツ"
+   ],
+   "description": "濃厚なとろみで揚げ物によくからむ、甘口のとんかつソースです。とんかつやメンチカツ、エビフライにぴったり。ソースかつ丼にも使えます。",
+   "image_brief": "Retail packshot of a plastic bottle of thick sweet tonkatsu sauce with a photo of sliced pork cutlet, label 「とんかつソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ とんかつソース 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス とんかつソース 1000ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とんかつソース 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 濃厚果実 とんかつソース 300ml",
+     "brand": "トップバリュ セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とんかつソース 甘口 ごま入り 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とんかつソース 小袋 お弁当用 8ml×10袋",
+     "brand": "トップバリュ",
+     "size": "8ml×10袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_tonkatsu_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_okonomiyaki_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "お好み焼きソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "たこ焼き",
+    "もんじゃ焼き",
+    "広島風お好み焼き"
+   ],
+   "description": "デーツや野菜の甘みでまろやかに仕上げた、濃厚なお好み焼きソースです。お好み焼きやたこ焼きにたっぷりかけてどうぞ。マヨネーズや青のり、かつお節との相性も抜群です。",
+   "image_brief": "Retail packshot of a squeeze bottle of thick sweet okonomiyaki sauce with an okonomiyaki topped with mayo and bonito, label 「お好みソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ お好みソース 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お好みソース 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス お好みソース 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たこ焼ソース 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 広島風 お好みソース 国産野菜使用 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お好みソース 小袋 20g×4袋",
+     "brand": "トップバリュ",
+     "size": "20g×4袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_okonomiyaki_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_yakisoba_sauce",
+   "category_path": [
+    "調味料",
+    "ソース",
+    "焼きそばソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ソース焼きそば",
+    "焼きうどん",
+    "そばめし",
+    "お好み焼き"
+   ],
+   "description": "ソースの香ばしさが引き立つ焼きそば専用ソースです。麺と豚肉、キャベツを炒めて回しかけるだけで屋台風の焼きそばに。焼きうどんやそばめしにも使えます。",
+   "image_brief": "Retail packshot of a plastic bottle of yakisoba sauce with a plate of fried noodles with cabbage and pork, label 「焼そばソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ 焼そばソース 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 焼そばソース 500ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼そばソース 粉末 5袋入",
+     "brand": "トップバリュ",
+     "size": "5袋入（9g×5）",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 濃厚スパイシー 焼そばソース 280ml",
+     "brand": "トップバリュ セレクト",
+     "size": "280ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩焼そばの素 液体 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（30g×3）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼うどんの素 しょうゆ味 3袋入",
+     "brand": "トップバリュ",
+     "size": "3袋入（30g×3）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_yakisoba_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_oyster_sauce",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "オイスターソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "野菜炒め",
+    "青椒肉絲",
+    "八宝菜",
+    "焼きそば"
+   ],
+   "description": "かきのエキスを凝縮した、コクとうまみが深いオイスターソースです。野菜炒めやチャーハン、青椒肉絲などの中華料理の味付けに少し加えるだけで、本格的な味わいになります。",
+   "image_brief": "Retail packshot of a squeeze bottle of dark glossy oyster sauce, label 「オイスターソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ オイスターソース 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オイスターソース 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス オイスターソース 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 広島県産かき使用 オイスターソース 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ オイスターソース 瓶 145g",
+     "brand": "トップバリュ",
+     "size": "145g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_oyster_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_gyoza_tare",
+   "category_path": [
+    "調味料",
+    "たれ・焼肉のたれ",
+    "餃子のたれ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "焼売",
+    "水餃子",
+    "春巻き",
+    "冷奴"
+   ],
+   "description": "醤油と酢、ラー油をほどよく合わせた餃子のたれです。焼き餃子や水餃子、焼売につけるだけでお店の味に。冷奴や中華風の和え物にも使えます。",
+   "image_brief": "Retail packshot of a small plastic bottle of gyoza dipping sauce with chili oil floating on top, label 「ぎょうざのたれ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ぎょうざのたれ ラー油付 150ml",
+     "brand": "トップバリュ",
+     "size": "150ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぎょうざのたれ 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ぎょうざのたれ 200ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 黒酢仕立て ぎょうざのたれ 150ml",
+     "brand": "トップバリュ セレクト",
+     "size": "150ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ぎょうざのたれ 小袋 5ml×20袋",
+     "brand": "トップバリュ",
+     "size": "5ml×20袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 水ぎょうざのたれ ごま風味 150ml",
+     "brand": "トップバリュ",
+     "size": "150ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_gyoza_tare_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_fried_rice_seasoning",
+   "category_path": [
+    "調味料",
+    "料理の素・合わせ調味料",
+    "チャーハンの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "焼きめし",
+    "炒飯",
+    "野菜炒め",
+    "スープ"
+   ],
+   "description": "ご飯と卵、ねぎを炒めて振りかけるだけで、パラッと香ばしいチャーハンが作れる素です。焼豚味やえびの風味などそろい、お昼ごはんや夕食の一品に手早く仕上がります。",
+   "image_brief": "Retail packshot of a small box with seasoning sachets for fried rice and a plate of golden fried rice, label 「チャーハンの素」.",
+   "variants": [
+    {
+     "title": "トップバリュ チャーハンの素 焼豚味 8g×4袋",
+     "brand": "トップバリュ",
+     "size": "8g×4袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チャーハンの素 えび風味 8g×4袋",
+     "brand": "トップバリュ",
+     "size": "8g×4袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス チャーハンの素 8g×6袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8g×6袋",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 高菜チャーハンの素 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チャーハンの素 液体タイプ 3〜4人前×2袋",
+     "brand": "トップバリュ",
+     "size": "3〜4人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焦がしねぎ香る チャーハンの素 8g×4袋",
+     "brand": "トップバリュ セレクト",
+     "size": "8g×4袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_fried_rice_seasoning_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_hayashi_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー・ハヤシ",
+    "ハヤシライスルー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハヤシライス",
+    "ハッシュドビーフ",
+    "オムハヤシ",
+    "煮込みハンバーグ"
+   ],
+   "description": "トマトとデミグラスのコクがきいた、甘みとほどよい酸味のハヤシライスルーです。牛肉と玉ねぎを炒めて煮込むだけで、子どもにも人気のハヤシライスに。オムハヤシや煮込みハンバーグにも。",
+   "image_brief": "Retail packshot of a box of hayashi rice roux blocks with a plate of rice and beef in brown sauce, label 「ハヤシライスルー」.",
+   "variants": [
+    {
+     "title": "トップバリュ ハヤシライスルー 8皿分",
+     "brand": "トップバリュ",
+     "size": "8皿分（160g）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハヤシライスルー 16皿分",
+     "brand": "トップバリュ",
+     "size": "16皿分（320g）",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ハヤシライスルー 8皿分",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8皿分（150g）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 赤ワイン仕立て ハヤシライスルー 6皿分",
+     "brand": "トップバリュ セレクト",
+     "size": "6皿分（140g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハッシュドビーフルー 6皿分",
+     "brand": "トップバリュ",
+     "size": "6皿分（130g）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハヤシライスルー フレークタイプ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_hayashi_roux_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_white_sauce_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ホワイトソース缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "グラタン",
+    "ドリア",
+    "クリームコロッケ",
+    "シチュー",
+    "クリームパスタ"
+   ],
+   "description": "北海道産生クリームを使った、なめらかなホワイトソースです。マカロニグラタンやドリア、かにクリームコロッケ、クリームシチューのベースに。温めてパスタにからめても。",
+   "image_brief": "Retail packshot of a steel can of white sauce with a baked macaroni gratin on the label, label 「ホワイトソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ ホワイトソース 缶 290g",
+     "brand": "トップバリュ",
+     "size": "290g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホワイトソース 缶 3缶パック",
+     "brand": "トップバリュ",
+     "size": "290g×3缶",
+     "price_tax_excluded": 568,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ホワイトソース 缶 290g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "290g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 ホワイトソース 缶 290g",
+     "brand": "トップバリュ セレクト",
+     "size": "290g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グラタンソース パウチ 2皿分×2袋",
+     "brand": "トップバリュ",
+     "size": "2皿分×2袋",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ホワイトソースミックス 顆粒 4皿分",
+     "brand": "トップバリュ",
+     "size": "4皿分（80g）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_white_sauce_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_demiglace_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "デミグラスソース缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "煮込みハンバーグ",
+    "ハヤシライス",
+    "オムライス",
+    "ビーフシチュー"
+   ],
+   "description": "牛肉と野菜をじっくり煮込んだ、コクのあるデミグラスソースです。ハンバーグや煮込みハンバーグのソース、オムライスやハヤシライスに。ビーフシチューの隠し味にもおすすめです。",
+   "image_brief": "Retail packshot of a steel can of dark brown demi-glace sauce with a hamburg steak on the label, label 「デミグラスソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ デミグラスソース 缶 290g",
+     "brand": "トップバリュ",
+     "size": "290g",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ デミグラスソース 缶 3缶パック",
+     "brand": "トップバリュ",
+     "size": "290g×3缶",
+     "price_tax_excluded": 628,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス デミグラスソース 缶 290g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "290g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 赤ワインと牛すじのデミグラスソース 缶 290g",
+     "brand": "トップバリュ セレクト",
+     "size": "290g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 煮込みハンバーグソース パウチ 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 和風おろしハンバーグソース パウチ 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_demiglace_can_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_pasta_meat_sauce",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "ミートソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ミートソーススパゲッティ",
+    "ラザニア",
+    "ドリア",
+    "オムライス"
+   ],
+   "description": "牛肉と豚肉、トマトをじっくり煮込んだミートソースです。ゆでたスパゲッティにかけるだけで、子どもも大好きなミートソーススパゲッティに。ドリアやラザニア、オムライスにも使えます。",
+   "image_brief": "Retail packshot of a box of retort pouches of meat sauce with spaghetti bolognese on the label, label 「ミートソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミートソース 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（130g×2）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミートソース 1人前×4袋",
+     "brand": "トップバリュ",
+     "size": "1人前×4袋（130g×4）",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ミートソース 1人前×3袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1人前×3袋（120g×3）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛使用 ボロネーゼ 1人前×2袋",
+     "brand": "トップバリュ セレクト",
+     "size": "1人前×2袋（140g×2）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミートソース 缶 295g",
+     "brand": "トップバリュ",
+     "size": "295g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ トマトソース バジル風味 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（130g×2）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ナポリタンソース 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（110g×2）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_pasta_meat_sauce_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_pasta_carbonara",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "カルボナーラ・クリーム系"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "カルボナーラ",
+    "クリームパスタ",
+    "ドリア",
+    "グラタン"
+   ],
+   "description": "チーズと卵黄のコク、ベーコンのうまみが広がるカルボナーラソースです。温めてゆでたパスタにからめるだけで、手軽に本格的な味わいに。きのこクリームなどのクリーム系もそろいます。",
+   "image_brief": "Retail packshot of a box of retort pouches of creamy carbonara sauce with spaghetti topped with black pepper, label 「カルボナーラ」.",
+   "variants": [
+    {
+     "title": "トップバリュ カルボナーラ 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（130g×2）",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス カルボナーラ 1人前×3袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1人前×3袋（120g×3）",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 濃厚チーズ カルボナーラ 1人前×2袋",
+     "brand": "トップバリュ セレクト",
+     "size": "1人前×2袋（140g×2）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きのこクリーム 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（130g×2）",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ サーモンクリーム 1人前×2袋",
+     "brand": "トップバリュ",
+     "size": "1人前×2袋（130g×2）",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カルボナーラ あえるだけ 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前（60g×2）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_pasta_carbonara_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_seasoning_dish_pasta_tarako",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パスタソース",
+    "和風パスタソース"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "たらこスパゲッティ",
+    "明太子パスタ",
+    "和風パスタ",
+    "たらこうどん"
+   ],
+   "description": "ゆでたパスタにあえるだけの、たらこ・明太子パスタソースです。刻みのり付きで、お昼ごはんにも手早く作れます。たらこうどんや、ポテトサラダの味付けにもどうぞ。",
+   "image_brief": "Retail packshot of a small box with sachets of pink tarako pasta sauce and nori packets, showing spaghetti with cod roe, label 「たらこ パスタソース」.",
+   "variants": [
+    {
+     "title": "トップバリュ たらこ パスタソース 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前（23g×2）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 辛子明太子 パスタソース 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前（23g×2）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス たらこ パスタソース 4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "4人前（20g×4）",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産たらこ使用 たらこクリーム 2人前",
+     "brand": "トップバリュ セレクト",
+     "size": "2人前（30g×2）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 和風きのこ パスタソース 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前（25g×2）",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ペペロンチーノ パスタソース 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前（20g×2）",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_seasoning_dish_pasta_tarako_p.jpg"
+   ]
+  }
+ ]
+}

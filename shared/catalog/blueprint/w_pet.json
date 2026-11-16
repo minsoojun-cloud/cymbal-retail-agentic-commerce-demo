@@ -1,0 +1,3668 @@
+{
+ "category_key": "w_pet",
+ "items": [
+  {
+   "base_id": "w_pet_dog_wet_pouch_beef",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のごはん",
+    "ドライフードのトッピング",
+    "食欲が落ちた時に"
+   ],
+   "tax_rate": 10,
+   "description": "やわらかく煮込んだビーフと緑黄色野菜を、旨みたっぷりのソースで仕上げた犬用パウチです。ドライフードへのトッピングにも、そのまま主食にも使え、食いつきが気になる日にもおすすめ。開けやすく使い切りやすい小分けタイプです。",
+   "image_brief": "A small flexible retort pouch for dog food in deep burgundy with a blank white label area, shown next to a bowl of beef chunks in gravy, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用パウチ ビーフ&緑黄色野菜 70g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "70g×6袋",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用パウチ ビーフ&緑黄色野菜 70g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "70g×12袋",
+     "price_tax_excluded": 748,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用パウチ チキン&さつまいも 70g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "70g×6袋",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用パウチ ビーフ味 ジュレ仕立て 80g×4袋",
+     "brand": "Cymbal ベーシック",
+     "size": "80g×4袋",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 犬用パウチ 牛肉&かぼちゃ 60g×5袋",
+     "brand": "Cymbal セレクト",
+     "size": "60g×5袋",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_wet_pouch_beef_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_senior_soft_can",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "シニア犬のごはん",
+    "ドライフードへの混ぜ込み",
+    "水分補給をかねて"
+   ],
+   "tax_rate": 10,
+   "description": "噛む力が弱くなってきたシニア犬のために、ささみとかぼちゃをなめらかなペースト状に仕上げたやわらか缶です。水分を一緒に摂れるので、ドライフードを食べにくくなった愛犬の毎日の食事に取り入れやすい一品です。",
+   "image_brief": "Short round steel cans with easy-open pull-tab lids and plain cream labels, one open showing smooth pale orange pate, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 13歳からのやわらか缶 ささみ&かぼちゃ 80g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 13歳からのやわらか缶 ささみ&かぼちゃ 80g×12缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×12缶",
+     "price_tax_excluded": 1080,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 7歳からのやわらか缶 ビーフ&野菜 80g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 シニア犬用 鶏ささみムース缶 70g×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "70g×6缶",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック シニア犬用 やわらかテリーヌ缶 チキン 95g×4缶",
+     "brand": "Cymbal ベーシック",
+     "size": "95g×4缶",
+     "price_tax_excluded": 278,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_senior_soft_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_lamb_rice_dry",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成犬の主食",
+    "フードのローテーション"
+   ],
+   "tax_rate": 10,
+   "description": "良質なラム肉を主原料に、消化にやさしいお米を組み合わせた成犬用ドライフードです。チキン以外のたんぱく源を試したい方や、食べ飽きが気になる愛犬のローテーションにも。中粒で噛みごたえのある食感に仕上げました。",
+   "image_brief": "A stand-up resealable kibble bag in olive green with a blank label panel, a small pile of round brown kibble in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード ラム&ライス 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード ラム&ライス 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 成犬用ドッグフード ラム&ライス 小分け 200g×5袋",
+     "brand": "Cymbal Pet",
+     "size": "200g×5袋",
+     "price_tax_excluded": 948,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト グレインフリー ドッグフード ラム&ポテト 800g",
+     "brand": "Cymbal セレクト",
+     "size": "800g",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア製造"
+    },
+    {
+     "title": "Cymbal ベーシック ドッグフード ラム風味 中粒 2.5kg",
+     "brand": "Cymbal ベーシック",
+     "size": "2.5kg",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_lamb_rice_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_weight_care_dry",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成犬の主食",
+    "体重管理中のごはん"
+   ],
+   "tax_rate": 10,
+   "description": "脂肪分を控えめにして食物繊維をプラスした、体重が気になる成犬向けのドライフードです。満足感のある粒の大きさで、運動量が少なめの室内犬やおなかまわりが気になってきた愛犬に。給与量の目安を守ってご利用ください。",
+   "image_brief": "A light blue stand-up kibble bag with a zipper top and blank white label area, scattered small light-brown kibble, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 体重ケア 成犬用ドッグフード チキン&野菜 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 体重ケア 成犬用ドッグフード チキン&野菜 2.4kg",
+     "brand": "Cymbal Pet",
+     "size": "2.4kg",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 体重ケア 小型犬用 超小粒 ささみ 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 低脂肪 ドッグフード 白身魚&大麦 1kg",
+     "brand": "Cymbal セレクト",
+     "size": "1kg",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ひかえめカロリー ドッグフード 3kg",
+     "brand": "Cymbal ベーシック",
+     "size": "3kg",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_weight_care_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_semi_moist",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ソフトドライ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "小型犬の主食",
+    "シニア犬のごはん",
+    "旅行・お出かけ先の食事"
+   ],
+   "tax_rate": 10,
+   "description": "しっとりやわらかい食感の半生タイプのドッグフードです。香りが立ちやすく、ドライフードを好まない小型犬やシニア犬の食いつきにも配慮しました。小分け包装で開封後も風味が保ちやすく、1回分ずつ使えて便利です。",
+   "image_brief": "A pastel yellow pouch bag with a resealable zip and blank label, small soft reddish-brown semi-moist kibble pieces in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ソフトドライ 小型犬用 ビーフ&チーズ入り 600g(小分け6袋)",
+     "brand": "Cymbal Pet",
+     "size": "600g(小分け6袋)",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ソフトドライ 小型犬用 ビーフ&チーズ入り 1.2kg(小分け12袋)",
+     "brand": "Cymbal Pet",
+     "size": "1.2kg(小分け12袋)",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ソフトドライ 11歳以上 ささみ&野菜 600g(小分け6袋)",
+     "brand": "Cymbal Pet",
+     "size": "600g(小分け6袋)",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 半生ドッグフード チキン味 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 しっとり半生 鹿肉&さつまいも 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_semi_moist_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_large_breed_dry",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "中・大型犬の主食",
+    "多頭飼いのストック"
+   ],
+   "tax_rate": 10,
+   "description": "中型犬・大型犬の体格に合わせた大粒タイプのドライフードです。よく噛んで食べられる粒形状で、たっぷり食べる子にもうれしい大容量サイズを揃えました。チキンと玄米をベースにした毎日の主食向けです。",
+   "image_brief": "A large heavy-duty kibble sack in dark brown with a carry handle and blank label panel, large round kibble pieces in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 中・大型犬用 大粒 チキン&玄米 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 中・大型犬用 大粒 チキン&玄米 6.5kg",
+     "brand": "Cymbal Pet",
+     "size": "6.5kg",
+     "price_tax_excluded": 3680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 大型犬用 ドッグフード ビーフ味 大粒 8kg",
+     "brand": "Cymbal ベーシック",
+     "size": "8kg",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大型犬用 関節ケア配合 サーモン&ポテト 3kg",
+     "brand": "Cymbal セレクト",
+     "size": "3kg",
+     "price_tax_excluded": 3280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 大型犬用 シニア 大粒 チキン 3kg",
+     "brand": "Cymbal Pet",
+     "size": "3kg",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_large_breed_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_food_topping",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "トッピング・ふりかけ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ドライフードのトッピング",
+    "食欲がない時に",
+    "手作りごはんのアクセント"
+   ],
+   "tax_rate": 10,
+   "description": "いつものドライフードにひとふりするだけで香りと食感が変わる、犬用のトッピングです。かつお節や野菜、チーズなどの素材を乾燥させて仕上げ、食べ飽き対策やごほうびの気分づくりに役立ちます。",
+   "image_brief": "A small stand-up pouch with a clear window showing flaky bonito and dried vegetable bits, blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ふりかけ かつお&野菜 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ふりかけ チーズ&ささみ 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 犬用 フリーズドライ野菜ミックス 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 犬用 鶏ささみパウダー 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用トッピング ビーフ風味 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_food_topping_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_milk_powder",
+   "category_path": [
+    "ペット用品",
+    "ドッグフード",
+    "ミルク"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子犬の授乳期",
+    "シニア犬の栄養補給",
+    "フードへのふりかけ"
+   ],
+   "tax_rate": 10,
+   "description": "子犬の離乳期からシニア期まで使える犬用の粉ミルクです。乳糖を調整し、お湯に溶かして与えるほかドライフードにふりかけても使えます。水分補給やおやつ代わりにもおすすめです。",
+   "image_brief": "A cylindrical tin can of powdered milk with a white lid and blank pale blue label, a small scoop and bowl of milk beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ミルク 全成長段階用 150g",
+     "brand": "Cymbal Pet",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ミルク 全成長段階用 300g",
+     "brand": "Cymbal Pet",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ミルク スティック 10g×10本",
+     "brand": "Cymbal Pet",
+     "size": "10g×10本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 犬用 やぎミルク パウダー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "オランダ産原料使用"
+    }
+   ],
+   "images": [
+    "w_pet_dog_milk_powder_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_katsuo_can",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成猫の毎日のごはん",
+    "ドライフードのトッピング"
+   ],
+   "tax_rate": 10,
+   "description": "かつおの赤身をほぐして、だしの香るスープで仕上げた猫用の缶詰です。しっとりした食感で、ドライフードと組み合わせても喜ばれます。ささみ入りやしらす入りなど味のバリエーションも揃えました。",
+   "image_brief": "Small round aluminum cat food cans with pull-tab lids and plain blue labels, one opened showing flaked pink bonito in broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用缶 かつお 70g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "70g×3缶",
+     "price_tax_excluded": 168,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用缶 かつお 70g×24缶",
+     "brand": "Cymbal Pet",
+     "size": "70g×24缶",
+     "price_tax_excluded": 1180,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用缶 かつお ささみ入り 70g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "70g×3缶",
+     "price_tax_excluded": 178,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用缶 かつお しらす入り 70g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "70g×3缶",
+     "price_tax_excluded": 188,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 焼津のかつお 猫用缶 60g×3缶",
+     "brand": "Cymbal セレクト",
+     "size": "60g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_katsuo_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_maguro_can",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成猫の毎日のごはん",
+    "ご褒美ごはん"
+   ],
+   "tax_rate": 10,
+   "description": "まぐろの赤身を大きめのフレークにして、ゼリーでとじ込めた猫用缶詰です。素材の味を活かしたシンプルな味つけで、白身やかにかま入りなど気分に合わせて選べます。成猫の主食やおかずにどうぞ。",
+   "image_brief": "Small flat round cat food cans with plain red labels and pull-tab lids, one open showing tuna flakes in clear jelly, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用缶 まぐろ ゼリー仕立て 80g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×3缶",
+     "price_tax_excluded": 188,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用缶 まぐろ ゼリー仕立て 80g×24缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×24缶",
+     "price_tax_excluded": 1380,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用缶 まぐろ白身 かにかま入り 80g×3缶",
+     "brand": "Cymbal Pet",
+     "size": "80g×3缶",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック 猫用缶 まぐろ味 フレーク 160g×3缶",
+     "brand": "Cymbal ベーシック",
+     "size": "160g×3缶",
+     "price_tax_excluded": 228,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用缶 天然まぐろ 極上フレーク 70g×6缶",
+     "brand": "Cymbal セレクト",
+     "size": "70g×6缶",
+     "price_tax_excluded": 598,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_maguro_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_chicken_pouch",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成猫の毎日のごはん",
+    "お肉好きな猫に"
+   ],
+   "tax_rate": 10,
+   "description": "やわらかなチキンのほぐし身を、なめらかなグレービーソースで仕上げた猫用パウチです。魚系の味に飽きた子や、お肉が好きな猫の主食に。食べ切りやすい量で、残りものが出にくいのもうれしいポイントです。",
+   "image_brief": "Small soft pouches of cat food in warm orange with blank labels, one torn open over a dish of chicken shreds in gravy, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用パウチ チキン グレービー 40g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×12袋",
+     "price_tax_excluded": 598,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用パウチ チキン&ささみ ゼリー 40g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×12袋",
+     "price_tax_excluded": 598,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用パウチ チキン&ビーフ グレービー 40g×4袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×4袋",
+     "price_tax_excluded": 228,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック 猫用パウチ チキン味 ほぐしタイプ 70g×6袋",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×6袋",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 猫用パウチ 鶏むね肉 だし仕立て 35g×6袋",
+     "brand": "Cymbal セレクト",
+     "size": "35g×6袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_chicken_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_kitten_dry",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子猫の主食",
+    "離乳後のごはん"
+   ],
+   "tax_rate": 10,
+   "description": "成長期の子猫に必要な栄養バランスを考えた、子猫用のドライフードです。小さな口でも食べやすい小粒サイズで、母乳から離れた頃から1歳頃までのごはんに。ミルク成分を加えたやさしい風味です。",
+   "image_brief": "A small pastel pink stand-up kibble bag with blank label area and a few tiny round kibble pieces in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 子猫用キャットフード 1歳まで まぐろ&ミルク 500g",
+     "brand": "Cymbal Pet",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 子猫用キャットフード 1歳まで まぐろ&ミルク 1.2kg",
+     "brand": "Cymbal Pet",
+     "size": "1.2kg",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 子猫用キャットフード 1歳まで チキン 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト グレインフリー 子猫用 チキン&サーモン 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 子猫用キャットフード 小粒 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_kitten_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_senior_dry",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "シニア猫の主食",
+    "年齢に合わせたごはん"
+   ],
+   "tax_rate": 10,
+   "description": "年齢を重ねた猫のために、やわらかめで噛みやすい小粒に仕上げたシニア猫用ドライフードです。たんぱく質とミネラルのバランスに配慮し、7歳・11歳・15歳と年齢に合わせて選べます。",
+   "image_brief": "A soft lavender stand-up kibble bag with zipper and blank label panel, small fish-shaped kibble in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 7歳以上 シニア猫用 かつお&まぐろ 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 11歳以上 シニア猫用 かつお&まぐろ 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 15歳以上 シニア猫用 やわらか粒 チキン 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 11歳以上 シニア猫用 小分け 200g×5袋",
+     "brand": "Cymbal Pet",
+     "size": "200g×5袋",
+     "price_tax_excluded": 998,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト シニア猫用 グレインフリー 白身魚 600g",
+     "brand": "Cymbal セレクト",
+     "size": "600g",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_senior_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_urinary_dry",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成猫の主食",
+    "下部尿路の健康維持"
+   ],
+   "tax_rate": 10,
+   "description": "マグネシウムなどのミネラル量を調整し、尿のpHバランスに配慮した下部尿路の健康維持向けドライフードです。去勢・避妊後の猫や、水をあまり飲まない子の毎日の主食に。かつお味とチキン味から選べます。",
+   "image_brief": "A pale aqua stand-up kibble bag with a blank white label, small round kibble beside a plain ceramic bowl, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 下部尿路の健康維持 キャットフード かつお味 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 下部尿路の健康維持 キャットフード かつお味 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 下部尿路の健康維持 キャットフード チキン味 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 下部尿路配慮 避妊・去勢後用 まぐろ味 1.2kg",
+     "brand": "Cymbal Pet",
+     "size": "1.2kg",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 下部尿路配慮 キャットフード お魚ミックス 2.5kg",
+     "brand": "Cymbal ベーシック",
+     "size": "2.5kg",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_urinary_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_hairball_dry",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ドライフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "成猫の主食",
+    "換毛期のケア"
+   ],
+   "tax_rate": 10,
+   "description": "食物繊維を配合して、毛づくろいで飲み込んだ毛のスムーズな排出をサポートする毛玉ケアのドライフードです。長毛種や換毛期の猫に。カリッとした食感でまぐろとかつおの風味が楽しめます。",
+   "image_brief": "A sage green stand-up kibble bag with zipper top and blank label area, crunchy tan kibble in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 毛玉ケア キャットフード まぐろ&かつお 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 毛玉ケア キャットフード まぐろ&かつお 2.4kg",
+     "brand": "Cymbal Pet",
+     "size": "2.4kg",
+     "price_tax_excluded": 1780,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 毛玉ケア 室内猫用 チキン 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 毛玉ケア 長毛種用 サーモン 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_hairball_dry_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_kitten_pouch",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子猫のごはん",
+    "離乳期",
+    "ドライフードのふやかしに"
+   ],
+   "tax_rate": 10,
+   "description": "子猫が食べやすいなめらかなムースタイプのパウチです。まぐろやささみの素材感を残しつつ、ペースト状に仕上げたので離乳期の子猫にも与えやすく、ドライフードをふやかす時の混ぜ合わせにも使えます。",
+   "image_brief": "Tiny soft pouches in baby pink with blank labels, one open beside a small saucer of smooth mousse, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 子猫用パウチ ムース まぐろ 35g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "35g×6袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 子猫用パウチ ムース ささみ 35g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "35g×6袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 子猫用パウチ ムース まぐろ&ささみ アソート 35g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "35g×12袋",
+     "price_tax_excluded": 648,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 子猫用 やわらかムース 鶏&かつお 40g×4袋",
+     "brand": "Cymbal セレクト",
+     "size": "40g×4袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_kitten_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_senior_pouch",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ウェットフード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "シニア猫のごはん",
+    "水分補給をかねて"
+   ],
+   "tax_rate": 10,
+   "description": "15歳を過ぎた猫でも食べやすいよう、具材を細かくほぐしてとろみのあるスープで仕上げたシニア猫用パウチです。水分も一緒に摂れるので、ドライフードが進まない日のごはんにも取り入れやすいです。",
+   "image_brief": "Small cat food pouches in soft gray with blank labels, one opened over a dish of finely shredded fish in thick broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 15歳からのパウチ まぐろ とろみスープ 40g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×6袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 15歳からのパウチ かつお とろみスープ 40g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×6袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 11歳からのパウチ ささみ ゼリー 40g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "40g×12袋",
+     "price_tax_excluded": 648,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック シニア猫用パウチ お魚ミックス 60g×4袋",
+     "brand": "Cymbal ベーシック",
+     "size": "60g×4袋",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 シニア猫用 しらす&まぐろ 35g×6袋",
+     "brand": "Cymbal セレクト",
+     "size": "35g×6袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_senior_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_katsuobushi",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ごはんのトッピング",
+    "おやつ",
+    "食欲がない時に"
+   ],
+   "tax_rate": 10,
+   "description": "削りたての香りが広がる、猫用のかつおぶしです。塩分を控えめにして、ごはんのトッピングやおやつにそのまま使えます。細かく削ったソフトけずりと、食べごたえのある厚けずりから選べます。",
+   "image_brief": "A clear plastic bag of pale pink bonito flakes with a blank paper header card, a few curled flakes spilling out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用 ソフトけずり かつおぶし 25g",
+     "brand": "Cymbal Pet",
+     "size": "25g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用 ソフトけずり かつおぶし 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用 小分け かつおぶし 2g×20袋",
+     "brand": "Cymbal Pet",
+     "size": "2g×20袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用 鹿児島県産 厚けずり かつおぶし 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産かつお使用"
+    },
+    {
+     "title": "Cymbal ベーシック 猫用 かつおぶし 減塩タイプ 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_katsuobushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_milk",
+   "category_path": [
+    "ペット用品",
+    "キャットフード",
+    "ミルク"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "子猫の授乳期",
+    "シニア猫の栄養補給",
+    "水分補給"
+   ],
+   "tax_rate": 10,
+   "description": "子猫からシニア猫まで、成長段階に合わせて使える猫用のミルクです。乳糖を調整してお腹にやさしく、パウダーはお湯で溶くだけ、液体タイプは開けてそのまま与えられます。",
+   "image_brief": "A small tin of powdered milk with a cream lid and blank label, next to a small carton-style pouch of liquid milk and a saucer, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用ミルク パウダー 全成長段階用 150g",
+     "brand": "Cymbal Pet",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用ミルク パウダー 全成長段階用 300g",
+     "brand": "Cymbal Pet",
+     "size": "300g",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用ミルク 液体 乳糖調整 200ml",
+     "brand": "Cymbal Pet",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用ミルク 液体 乳糖調整 200ml×3本",
+     "brand": "Cymbal Pet",
+     "size": "200ml×3本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用 やぎミルク パウダー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 980,
+     "origin": "オランダ産原料使用"
+    }
+   ],
+   "images": [
+    "w_pet_cat_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_beef_jerky",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "しつけのごほうび",
+    "お散歩後のおやつ"
+   ],
+   "tax_rate": 10,
+   "description": "牛肉をじっくり乾燥させた、噛みごたえのある犬用ビーフジャーキーです。食べやすいスティック状で、しつけのごほうびやお散歩後のおやつに。小型犬にも与えやすいカットタイプも揃えました。",
+   "image_brief": "A stand-up resealable pouch with a clear window showing dark red beef jerky sticks, blank kraft label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ビーフジャーキー スティック 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ビーフジャーキー スティック 250g",
+     "brand": "Cymbal Pet",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ビーフジャーキー 小型犬用カット 80g",
+     "brand": "Cymbal Pet",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 牛肉ジャーキー 無着色 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用ジャーキー ビーフ味 300g",
+     "brand": "Cymbal ベーシック",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_beef_jerky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_sasami_gum",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "留守番のおともに",
+    "噛むおやつ",
+    "ごほうび"
+   ],
+   "tax_rate": 10,
+   "description": "牛皮ガムにジューシーなささみを巻きつけた、噛むことを楽しめる犬用おやつです。長く噛み続けられるので、留守番前の気分転換やストレス発散にも。体格に合わせてサイズを選べます。",
+   "image_brief": "A clear zipper bag filled with white rawhide sticks spiral-wrapped in tan chicken breast, blank paper header label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ささみ巻きガム ミニ 20本",
+     "brand": "Cymbal Pet",
+     "size": "20本",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet ささみ巻きガム スティック 12本",
+     "brand": "Cymbal Pet",
+     "size": "12本",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet ささみ巻きガム 骨型 M 5本",
+     "brand": "Cymbal Pet",
+     "size": "5本",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック ささみ巻きガム 徳用 40本",
+     "brand": "Cymbal ベーシック",
+     "size": "40本",
+     "price_tax_excluded": 598,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 ささみ巻き 鹿皮ガム 8本",
+     "brand": "Cymbal セレクト",
+     "size": "8本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_sasami_gum_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_paste_treat",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ごほうび",
+    "お手入れ時のご褒美",
+    "ドライフードのソース"
+   ],
+   "tax_rate": 10,
+   "description": "スティック袋から直接なめさせられる、とろりとしたペースト状の犬用おやつです。お薬を飲ませる時のサポートや、爪切り・ブラッシングのごほうびに。ドライフードにかけてソース代わりにも使えます。",
+   "image_brief": "A bundle of slim squeeze stick sachets in pastel colors with blank labels, one squeezed onto a spoon, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ペーストおやつ ささみ 12g×20本",
+     "brand": "Cymbal Pet",
+     "size": "12g×20本",
+     "price_tax_excluded": 548,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ペーストおやつ ささみ&チーズ 12g×20本",
+     "brand": "Cymbal Pet",
+     "size": "12g×20本",
+     "price_tax_excluded": 548,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ペーストおやつ ビーフ&野菜 12g×20本",
+     "brand": "Cymbal Pet",
+     "size": "12g×20本",
+     "price_tax_excluded": 548,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ペーストおやつ アソート 12g×40本",
+     "brand": "Cymbal Pet",
+     "size": "12g×40本",
+     "price_tax_excluded": 998,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 犬用ペーストおやつ 鶏とかぼちゃ 14g×10本",
+     "brand": "Cymbal セレクト",
+     "size": "14g×10本",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_paste_treat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_bolo",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "しつけトレーニング",
+    "子犬のおやつ",
+    "シニア犬のおやつ"
+   ],
+   "tax_rate": 10,
+   "description": "口の中ですっと溶けるやさしい食感の犬用ボーロです。ひと粒が小さく、子犬のしつけトレーニングや、シニア犬のおやつにもぴったり。かぼちゃや野菜など素材の色を活かした粒です。",
+   "image_brief": "A small clear stand-up pouch filled with tiny round pastel-colored bolo drops, blank white label panel, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ボーロ ミルク味 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ボーロ 野菜ミックス 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ボーロ かぼちゃ 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ボーロ 小分けパック 15g×6袋",
+     "brand": "Cymbal Pet",
+     "size": "15g×6袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 犬用 有機米粉ボーロ 40g",
+     "brand": "Cymbal オーガニック",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_bolo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_biscuit",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コミュニケーションのおやつ",
+    "ごほうび"
+   ],
+   "tax_rate": 10,
+   "description": "サクッと軽い食感に焼き上げた犬用ビスケットです。骨型のかわいい形で、手で割って量を調整しやすく、コミュニケーションのおやつに最適。にんじんやチーズなど味のバリエーションも楽しめます。",
+   "image_brief": "A clear plastic tub with a white screw lid filled with bone-shaped golden dog biscuits, blank wraparound label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用ビスケット 骨型 ミルク 200g",
+     "brand": "Cymbal Pet",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ビスケット 骨型 にんじん&チーズ 200g",
+     "brand": "Cymbal Pet",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用ビスケット 小粒 小型犬用 180g",
+     "brand": "Cymbal Pet",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用ビスケット ミックス 徳用 600g",
+     "brand": "Cymbal ベーシック",
+     "size": "600g",
+     "price_tax_excluded": 598,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産小麦 犬用 全粒粉ビスケット 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_biscuit_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_sweet_potato",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "犬用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ヘルシーなおやつ",
+    "ごほうび",
+    "秋の味覚"
+   ],
+   "tax_rate": 10,
+   "description": "さつまいもを蒸して乾燥させた、素材そのままの甘みを楽しめる犬用おやつです。お肉系のおやつが苦手な子や、ヘルシーなおやつを選びたい方に。秋冬限定の焼きいもタイプもご用意しました。",
+   "image_brief": "A kraft paper stand-up pouch with a clear window showing chewy golden-yellow dried sweet potato strips, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用 さつまいもスティック 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用 さつまいもスティック 220g",
+     "brand": "Cymbal Pet",
+     "size": "220g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 犬用 鹿児島県産 紅はるか 干しいも 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "Cymbal セレクト 犬用 国産 焼きいもキューブ 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 犬用 さつまいも&ささみ巻き 150g",
+     "brand": "Cymbal ベーシック",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_sweet_potato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_dental_snack",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "毎日のおやつ",
+    "ごほうび",
+    "歯みがき後のご褒美"
+   ],
+   "tax_rate": 10,
+   "description": "カリカリとした食感で噛むことを促す、猫用のデンタルスナックです。中にクリームを詰めた二層タイプで、お手入れのごほうびや毎日のおやつに。まぐろ・チキン・かつおの風味から選べます。",
+   "image_brief": "A small stand-up foil pouch with zipper in teal and blank label, a few pillow-shaped crunchy cat treats in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用デンタルスナック まぐろ味 60g",
+     "brand": "Cymbal Pet",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用デンタルスナック チキン味 60g",
+     "brand": "Cymbal Pet",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用カリカリスナック クリーム入り かつお味 60g",
+     "brand": "Cymbal Pet",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用デンタルスナック アソート 小分け 8g×12袋",
+     "brand": "Cymbal Pet",
+     "size": "8g×12袋",
+     "price_tax_excluded": 448,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック 猫用スナック お魚ミックス 徳用 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_dental_snack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_niboshi",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ごはんのトッピング"
+   ],
+   "tax_rate": 10,
+   "description": "瀬戸内の小魚を食塩を加えずに煮干しにした、猫用の小魚おやつです。カリッとした歯ごたえと魚の旨みで、猫の気分転換にぴったり。小分けにも、ごはんのトッピングにも使えます。",
+   "image_brief": "A clear zipper bag of small silver dried sardines with a blank paper header card, a few small fish spilled on white, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用 食塩無添加 小魚にぼし 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用 食塩無添加 小魚にぼし 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用 瀬戸内産 ちりめんじゃこ 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 348,
+     "origin": "瀬戸内産"
+    },
+    {
+     "title": "Cymbal Pet 猫用 小魚&かつおぶしミックス 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_niboshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_grilled_fish",
+   "category_path": [
+    "ペット用品",
+    "おやつ",
+    "猫用おやつ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ご褒美おやつ",
+    "ごはんのトッピング"
+   ],
+   "tax_rate": 10,
+   "description": "かつおやささみを一本ずつ焼き上げた、ふんわりやわらかい猫用おやつです。素材の香ばしさがそのまま楽しめ、手で裂いて少しずつ与えられます。個包装で鮮度を保ちやすく、お出かけにも便利です。",
+   "image_brief": "Individually wrapped grilled bonito fillet sticks in clear film with blank labels, one unwrapped showing golden-brown grill marks, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用 焼きかつお 本格だし味 1本×5袋",
+     "brand": "Cymbal Pet",
+     "size": "1本×5袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用 焼きかつお 高齢猫用 1本×5袋",
+     "brand": "Cymbal Pet",
+     "size": "1本×5袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用 焼きささみ 1本×5袋",
+     "brand": "Cymbal Pet",
+     "size": "1本×5袋",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 猫用 焼きまぐろ ほぐし 20g×3袋",
+     "brand": "Cymbal セレクト",
+     "size": "20g×3袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 猫用 焼きかつお 徳用 1本×15袋",
+     "brand": "Cymbal ベーシック",
+     "size": "1本×15袋",
+     "price_tax_excluded": 898,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_grilled_fish_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_litter_paper",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "猫砂"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "猫のトイレ",
+    "まとめ買い"
+   ],
+   "tax_rate": 10,
+   "description": "再生パルプを原料にした軽量な紙の猫砂です。しっかり固まってお手入れしやすく、少量ずつならトイレに流せます。ほこりが立ちにくく、持ち運びも楽な軽さで、色が変わるタイプは健康チェックにも便利です。",
+   "image_brief": "A tall soft plastic bag of cat litter in pale green with a carry handle and blank label, a small pile of light gray paper pellets beside it, studio packshot.",
+   "labels": [
+    "固まる",
+    "流せる"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Pet 紙の猫砂 固まる 流せる 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 紙の猫砂 固まる 流せる 7L×4袋",
+     "brand": "Cymbal Pet",
+     "size": "7L×4袋",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 紙の猫砂 色が変わる せっけんの香り 6.5L",
+     "brand": "Cymbal Pet",
+     "size": "6.5L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 紙の猫砂 無香料 8L",
+     "brand": "Cymbal ベーシック",
+     "size": "8L",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紙の猫砂 抗菌 消臭強化 6L",
+     "brand": "Cymbal セレクト",
+     "size": "6L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_litter_paper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_litter_mineral",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "猫砂"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "猫のトイレ",
+    "多頭飼い"
+   ],
+   "tax_rate": 10,
+   "description": "天然鉱物を使った粒の細かい猫砂です。自然の砂に近い感触で猫が好みやすく、尿をしっかり吸ってカチッと固まるので、スコップでのお手入れが簡単。においを抑える活性炭入りタイプも揃えました。",
+   "image_brief": "A heavy plastic bag of mineral cat litter in light gray with a sturdy handle and blank label panel, fine sandy clumping granules in front, studio packshot.",
+   "labels": [
+    "固まる"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Pet 鉱物の猫砂 ベントナイト 固まる 5L",
+     "brand": "Cymbal Pet",
+     "size": "5L",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 鉱物の猫砂 ベントナイト 固まる 10L",
+     "brand": "Cymbal Pet",
+     "size": "10L",
+     "price_tax_excluded": 898,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 鉱物の猫砂 活性炭入り 消臭 6L",
+     "brand": "Cymbal Pet",
+     "size": "6L",
+     "price_tax_excluded": 648,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鉱物の猫砂 無香料 徳用 13L",
+     "brand": "Cymbal ベーシック",
+     "size": "13L",
+     "price_tax_excluded": 998,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 鉱物の猫砂 細粒 粉立ちにくいタイプ 6L",
+     "brand": "Cymbal セレクト",
+     "size": "6L",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_litter_mineral_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_litter_wood",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "猫砂"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "猫のトイレ",
+    "においが気になる時に"
+   ],
+   "tax_rate": 10,
+   "description": "ひのきや針葉樹の木材から作った猫砂です。木本来の香りでトイレのにおいをやわらげ、使用後は燃えるごみとして処分しやすいのも魅力。固まるタイプとシステムトイレ向けのペレットタイプを用意しました。",
+   "image_brief": "A natural kraft-colored plastic bag of wood cat litter with blank label, short cylindrical light wood pellets piled in front, studio packshot.",
+   "labels": [
+    "燃えるごみOK"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Pet 木の猫砂 ひのき 固まる 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 木の猫砂 ひのき 固まる 7L×3袋",
+     "brand": "Cymbal Pet",
+     "size": "7L×3袋",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 木の猫砂 針葉樹ペレット 6L",
+     "brand": "Cymbal Pet",
+     "size": "6L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産ひのき 木の猫砂 細粒 5L",
+     "brand": "Cymbal セレクト",
+     "size": "5L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 木の猫砂 徳用 12L",
+     "brand": "Cymbal ベーシック",
+     "size": "12L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_litter_wood_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_system_litter_chips",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "システムトイレ用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "システムトイレ",
+    "猫のトイレ"
+   ],
+   "tax_rate": 10,
+   "description": "すのこ付きの二層式システムトイレに使う、固まらないタイプの猫砂です。尿をすのこの下のシートに通して砂は乾いたまま保ち、交換頻度を抑えられます。ゼオライトや紙、木など素材を選べます。",
+   "image_brief": "A plastic bag of large white and light gray non-clumping litter chips with a blank label, a scoop of chips in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet システムトイレ用 消臭ゼオライト 2L",
+     "brand": "Cymbal Pet",
+     "size": "2L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 消臭ゼオライト 4L",
+     "brand": "Cymbal Pet",
+     "size": "4L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 紙チップ 大粒 4L",
+     "brand": "Cymbal Pet",
+     "size": "4L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 木のチップ 3.5L",
+     "brand": "Cymbal Pet",
+     "size": "3.5L",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック システムトイレ用 消臭チップ 徳用 6L",
+     "brand": "Cymbal ベーシック",
+     "size": "6L",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_system_litter_chips_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_system_toilet_sheet",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "システムトイレ用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "システムトイレ",
+    "多頭飼い"
+   ],
+   "tax_rate": 10,
+   "description": "システムトイレのすのこ下にセットする猫用シートです。尿をすばやく吸収して閉じ込め、においを抑えます。1週間交換不要の厚手タイプや多頭飼い向けの大容量、ハーフサイズまで揃えました。",
+   "image_brief": "A rectangular soft package of white absorbent pads with a blank pale blue band label, one pad unfolded beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet システムトイレ用 1週間消臭シート 10枚",
+     "brand": "Cymbal Pet",
+     "size": "10枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 1週間消臭シート 20枚",
+     "brand": "Cymbal Pet",
+     "size": "20枚",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 シート 多頭飼い用 16枚",
+     "brand": "Cymbal Pet",
+     "size": "16枚",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet システムトイレ用 シート ハーフ用 12枚",
+     "brand": "Cymbal Pet",
+     "size": "12枚",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック システムトイレ用 シート 40枚",
+     "brand": "Cymbal ベーシック",
+     "size": "40枚",
+     "price_tax_excluded": 998,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_system_toilet_sheet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_pet_sheet_thick",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "ペットシーツ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "犬のトイレ",
+    "シニア犬の介護",
+    "お留守番"
+   ],
+   "tax_rate": 10,
+   "description": "吸収力の高い厚型ペットシーツです。おしっこの量が多い中型犬や多頭飼いでも安心の吸収体で、逆戻りを抑えてもれにくい作り。ワイドとスーパーワイドを中心に、消臭タイプや大容量も揃えました。",
+   "image_brief": "A large compressed soft package of thick white pet training pads with a blank light blue label, one pad unfolded showing blue quilting, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 厚型ペットシーツ レギュラー 88枚",
+     "brand": "Cymbal Pet",
+     "size": "88枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 厚型ペットシーツ ワイド 44枚",
+     "brand": "Cymbal Pet",
+     "size": "44枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 厚型ペットシーツ スーパーワイド 22枚",
+     "brand": "Cymbal Pet",
+     "size": "22枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 厚型ペットシーツ ワイド 1回使い切り 60枚",
+     "brand": "Cymbal Pet",
+     "size": "60枚",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚型ペットシーツ ワイド 炭消臭 抗菌 40枚",
+     "brand": "Cymbal セレクト",
+     "size": "40枚",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_pet_sheet_thick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_pet_sheet_charcoal",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "ペットシーツ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "犬のトイレ",
+    "においが気になる時に"
+   ],
+   "tax_rate": 10,
+   "description": "炭シートを使ってにおいの元を吸着する、黒いペットシーツです。汚れが目立ちにくく、室内飼いで気になるトイレのにおいを抑えます。お部屋になじむシックな色で、ワイド・スーパーワイドから選べます。",
+   "image_brief": "A soft package of black charcoal pet pads with a blank gray label band, one black pad unfolded beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 炭シート ペットシーツ レギュラー 80枚",
+     "brand": "Cymbal Pet",
+     "size": "80枚",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 炭シート ペットシーツ ワイド 40枚",
+     "brand": "Cymbal Pet",
+     "size": "40枚",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 炭シート ペットシーツ スーパーワイド 20枚",
+     "brand": "Cymbal Pet",
+     "size": "20枚",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 黒いペットシーツ 薄型 ワイド 50枚",
+     "brand": "Cymbal ベーシック",
+     "size": "50枚",
+     "price_tax_excluded": 898,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_pet_sheet_charcoal_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_manner_pants",
+   "category_path": [
+    "ペット用品",
+    "トイレ用品",
+    "犬用おむつ・マナーパンツ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お出かけ・旅行",
+    "マーキング対策",
+    "シニア犬の介護"
+   ],
+   "tax_rate": 10,
+   "description": "外出先やマーキング対策に使える犬用の紙おむつ・マナーウェアです。しっぽ穴付きでずれにくく、高齢犬の介護にも。体型に合わせて超小型犬からの各サイズを揃えました。",
+   "image_brief": "A soft plastic package of white disposable dog diapers with a blank pastel label, one diaper displayed showing a tail hole, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用紙おむつ SS 超小型犬用 40枚",
+     "brand": "Cymbal Pet",
+     "size": "40枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用紙おむつ S 小型犬用 34枚",
+     "brand": "Cymbal Pet",
+     "size": "34枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用紙おむつ M 中型犬用 26枚",
+     "brand": "Cymbal Pet",
+     "size": "26枚",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 男の子用 マナーウェア SS 40枚",
+     "brand": "Cymbal Pet",
+     "size": "40枚",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 男の子用 マナーウェア S 36枚",
+     "brand": "Cymbal Pet",
+     "size": "36枚",
+     "price_tax_excluded": 1080,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_manner_pants_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_poop_bag",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "うんち袋・処理用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お散歩",
+    "お出かけ"
+   ],
+   "tax_rate": 10,
+   "description": "お散歩時に持ち歩きやすい、うんち処理用の袋です。においを通しにくい防臭素材や、トイレに流せる水溶性タイプ、ロールで携帯できるタイプなど用途に合わせて選べます。",
+   "image_brief": "Several rolls of pastel-colored small poop bags with a compact cylindrical dispenser with a clip, plain without text, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet うんち袋 ロールタイプ 15枚×8巻 120枚",
+     "brand": "Cymbal Pet",
+     "size": "120枚",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 防臭うんち袋 Mサイズ 90枚",
+     "brand": "Cymbal Pet",
+     "size": "90枚",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 防臭うんち袋 Lサイズ 60枚",
+     "brand": "Cymbal Pet",
+     "size": "60枚",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet トイレに流せる うんち処理袋 40枚",
+     "brand": "Cymbal Pet",
+     "size": "40枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet うんち袋 ディスペンサー付き 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_poop_bag_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_deodorant_spray",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "消臭・除菌"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トイレまわりの掃除",
+    "ケージ・ベッドの消臭"
+   ],
+   "tax_rate": 10,
+   "description": "ペットのトイレまわりやケージ、ベッドなどにシュッとひと吹きするだけで、においの元をすっきり消臭するスプレーです。ペットがなめても心配の少ない成分で、無香料タイプと緑茶の香りを用意しました。",
+   "image_brief": "A white trigger spray bottle with clear liquid and a plain blank label, next to a matching flat refill pouch, studio packshot.",
+   "labels": [
+    "無香料"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Pet ペット用消臭スプレー 無香料 本体 400ml",
+     "brand": "Cymbal Pet",
+     "size": "400ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用消臭スプレー 無香料 詰替用 350ml",
+     "brand": "Cymbal Pet",
+     "size": "350ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用消臭スプレー 緑茶の香り 本体 400ml",
+     "brand": "Cymbal Pet",
+     "size": "400ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用消臭スプレー 無香料 詰替用 大容量 1500ml",
+     "brand": "Cymbal Pet",
+     "size": "1500ml",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ペット用 除菌消臭ミスト 次亜塩素酸水 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_deodorant_spray_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_slicker_brush",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "ブラシ・コーム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ブラッシング",
+    "換毛期のケア"
+   ],
+   "tax_rate": 10,
+   "description": "抜け毛や毛玉をやさしく取り除くペット用のスリッカーブラシです。先端が丸いピンで皮膚を傷つけにくく、ボタンひとつで毛を落とせるタイプも。換毛期のブラッシングを手軽にします。",
+   "image_brief": "A pet slicker brush with fine metal pins and a soft-grip white and mint handle, laid beside a stainless steel comb, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ステンレス・ABS樹脂",
+    "color": "ミント",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet スリッカーブラシ 小型犬・猫用 S 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet スリッカーブラシ 中・大型犬用 L 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ワンタッチで毛が取れる スリッカーブラシ 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ステンレス コーム 両目 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 天然木 ピンブラシ 長毛種用 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 1580,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_slicker_brush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_rubber_brush",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "ブラシ・コーム"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ブラッシング",
+    "シャンプー時に"
+   ],
+   "tax_rate": 10,
+   "description": "やわらかいラバー素材で、なでるようにブラッシングできる犬猫用ブラシです。短毛種の抜け毛をしっかり絡め取り、マッサージ感覚で嫌がりにくいのが特長。シャンプー時にも使えます。",
+   "image_brief": "A round palm-sized soft rubber pet grooming brush with nubby bristles in pastel pink, shown with a glove-style rubber brush, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "シリコーンゴム",
+    "color": "ピンク",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet ラバーブラシ 短毛種用 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 598,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet グローブ型 ラバーブラシ 右手用 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 798,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet シリコン マッサージブラシ 猫用 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ベーシック ラバーブラシ 犬猫兼用 1個",
+     "brand": "Cymbal ベーシック",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_rubber_brush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_nail_clipper",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "爪切り・デンタルケア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "爪のお手入れ",
+    "自宅トリミング"
+   ],
+   "tax_rate": 10,
+   "description": "ペットの爪をスパッと切れるステンレス刃の爪切りです。ギロチンタイプとはさみタイプ、仕上げ用の爪やすりも揃えました。切りすぎ防止ストッパー付きで、自宅でのお手入れに便利です。",
+   "image_brief": "A set of pet nail clippers with stainless blades and soft blue grip handles laid beside a small nail file, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ペット用爪切り ギロチンタイプ 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 798,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用爪切り はさみタイプ 小型犬・猫用 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用爪切り はさみタイプ 中・大型犬用 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 電動爪やすり 1台",
+     "brand": "Cymbal Pet",
+     "size": "1台",
+     "price_tax_excluded": 1980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ベーシック ペット用爪やすり 1本",
+     "brand": "Cymbal ベーシック",
+     "size": "1本",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_nail_clipper_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_pet_toothbrush",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "爪切り・デンタルケア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "歯みがき",
+    "デンタルケア"
+   ],
+   "tax_rate": 10,
+   "description": "犬猫の歯みがき習慣づくりに役立つデンタルケア用品です。指にはめて使う指サック型や、小さなヘッドの歯ブラシ、ペット用の歯みがきジェルを揃えました。少しずつ慣らして毎日のケアに。",
+   "image_brief": "A small pet toothbrush with a tiny head, a silicone finger brush, and a small blank white tube of dental gel arranged together, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ペット用歯ブラシ 小型犬・猫用 3本",
+     "brand": "Cymbal Pet",
+     "size": "3本",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 指サック型 歯ブラシ シリコン 2個",
+     "brand": "Cymbal Pet",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用歯みがきジェル チキン風味 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 歯みがきシート 30枚",
+     "brand": "Cymbal Pet",
+     "size": "30枚",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ペット用 360度歯ブラシ 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_pet_toothbrush_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_pet_shampoo",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "シャンプー・ボディケア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "自宅シャンプー",
+    "お散歩後のケア"
+   ],
+   "tax_rate": 10,
+   "description": "犬猫の皮膚と被毛にやさしい低刺激処方のシャンプーです。泡立ちがよくすすぎやすいので、シャンプーが苦手な子にも。リンスインタイプやシャンプータオル、水のいらない泡タイプも揃えました。",
+   "image_brief": "A white pump bottle of pet shampoo with a plain pale green label, beside a small round foam can and a refill pouch, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ペット用リンスインシャンプー 本体 350ml",
+     "brand": "Cymbal Pet",
+     "size": "350ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用リンスインシャンプー 詰替用 300ml",
+     "brand": "Cymbal Pet",
+     "size": "300ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 子犬・子猫用 低刺激シャンプー 250ml",
+     "brand": "Cymbal Pet",
+     "size": "250ml",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 水のいらない泡シャンプー 犬猫用 200ml",
+     "brand": "Cymbal Pet",
+     "size": "200ml",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ペット用シャンプータオル 25枚",
+     "brand": "Cymbal ベーシック",
+     "size": "25枚",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_pet_shampoo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_pet_wet_wipes",
+   "category_path": [
+    "ペット用品",
+    "お手入れ用品",
+    "シャンプー・ボディケア"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お散歩後の足ふき",
+    "目元・口まわりのケア"
+   ],
+   "tax_rate": 10,
+   "description": "お散歩後の足ふきや、目元・口まわりのお手入れに使えるペット用ウェットティッシュです。ノンアルコールでやさしいふき心地、厚手で破れにくいのが特長。お得なまとめ買いパックも用意しました。",
+   "image_brief": "A soft plastic pack of pet wet wipes with a resealable flip-top lid and plain blank label, one white wipe pulled out, studio packshot.",
+   "labels": [
+    "ノンアルコール"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal Pet ペット用 からだふきウェット 厚手 80枚",
+     "brand": "Cymbal Pet",
+     "size": "80枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 からだふきウェット 厚手 80枚×3個",
+     "brand": "Cymbal Pet",
+     "size": "80枚×3個",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 目元・耳ふきシート 30枚",
+     "brand": "Cymbal Pet",
+     "size": "30枚",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 お掃除ウェット 床・ケージ用 70枚",
+     "brand": "Cymbal Pet",
+     "size": "70枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ペット用ウェットティッシュ 無香料 100枚×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "100枚×3個",
+     "price_tax_excluded": 548,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_pet_wet_wipes_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_harness",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お散歩",
+    "お出かけ"
+   ],
+   "tax_rate": 10,
+   "description": "首への負担を分散できる胴輪タイプのハーネスです。メッシュ素材で軽く通気性がよく、ワンタッチバックルで着脱も簡単。夜のお散歩で目立つ反射テープ付きで、体格に合わせてサイズを選べます。",
+   "image_brief": "A soft padded mesh dog harness in navy with reflective edges and a black buckle, laid flat, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエステル",
+    "color": "ネイビー",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet メッシュハーネス SS ネイビー SS(胴回り28〜36cm)",
+     "brand": "Cymbal Pet",
+     "size": "SS(胴回り28〜36cm)",
+     "price_tax_excluded": 1280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet メッシュハーネス S ネイビー S(胴回り35〜45cm)",
+     "brand": "Cymbal Pet",
+     "size": "S(胴回り35〜45cm)",
+     "price_tax_excluded": 1380,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet メッシュハーネス M レッド M(胴回り45〜58cm)",
+     "brand": "Cymbal Pet",
+     "size": "M(胴回り45〜58cm)",
+     "price_tax_excluded": 1580,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ベスト型ハーネス S ピンク S(胴回り34〜44cm)",
+     "brand": "Cymbal Pet",
+     "size": "S(胴回り34〜44cm)",
+     "price_tax_excluded": 1480,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet ハーネス&リードセット SS ブルー SS",
+     "brand": "Cymbal Pet",
+     "size": "SS",
+     "price_tax_excluded": 1680,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_harness_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_retractable_lead",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お散歩",
+    "公園・ドッグラン"
+   ],
+   "tax_rate": 10,
+   "description": "ボタンひとつで長さを調節できる伸縮リードです。公園や広場で自由に歩かせたい時に便利で、ブレーキボタン付きで止めたい時にすぐロックできます。握りやすいグリップで小型犬から中型犬まで対応。",
+   "image_brief": "A compact plastic retractable dog leash handle in gray and lime with a thin tape lead slightly extended, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 伸縮リード 3m 小型犬用 グレー 3m(〜12kg)",
+     "brand": "Cymbal Pet",
+     "size": "3m(〜12kg)",
+     "price_tax_excluded": 1480,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 伸縮リード 5m 中型犬用 グレー 5m(〜25kg)",
+     "brand": "Cymbal Pet",
+     "size": "5m(〜25kg)",
+     "price_tax_excluded": 1980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 伸縮リード 3m ライト付き 3m(〜12kg)",
+     "brand": "Cymbal Pet",
+     "size": "3m(〜12kg)",
+     "price_tax_excluded": 2280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 伸縮リード テープタイプ 5m 5m(〜30kg)",
+     "brand": "Cymbal セレクト",
+     "size": "5m(〜30kg)",
+     "price_tax_excluded": 2980,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_retractable_lead_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_collar",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "室内猫のおしゃれ",
+    "迷子対策"
+   ],
+   "tax_rate": 10,
+   "description": "引っかかった時に外れるセーフティバックル付きの猫用首輪です。軽くてやわらかい素材で首まわりにやさしく、鈴付きで居場所もわかりやすい。迷子札を付けられるリング付きです。",
+   "image_brief": "Three slim cat collars in red, navy and plaid fabric with small silver bells and breakaway buckles, arranged in curves, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用首輪 セーフティバックル 鈴付き レッド 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用首輪 セーフティバックル 鈴付き ネイビー 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用首輪 チェック柄 リボン付き 1本",
+     "brand": "Cymbal Pet",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用首輪 本革 セーフティバックル 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ペット用 迷子札 アルミ 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_collar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_leather_collar",
+   "category_path": [
+    "ペット用品",
+    "お散歩・お出かけ",
+    "首輪・リード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お散歩",
+    "おしゃれ"
+   ],
+   "tax_rate": 10,
+   "description": "使い込むほど手になじむ本革の犬用首輪です。やわらかく仕上げた革で首あたりがよく、丈夫なバックルでしっかり留められます。落ち着いた色合いで、どんな毛色の子にも似合います。",
+   "image_brief": "A set of brown and black genuine leather dog collars with brass buckles coiled neatly, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "牛革",
+    "color": "ブラウン",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal セレクト 本革首輪 S ブラウン S(首回り24〜30cm)",
+     "brand": "Cymbal セレクト",
+     "size": "S(首回り24〜30cm)",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本革首輪 M ブラウン M(首回り30〜38cm)",
+     "brand": "Cymbal セレクト",
+     "size": "M(首回り30〜38cm)",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本革首輪 S ブラック S(首回り24〜30cm)",
+     "brand": "Cymbal セレクト",
+     "size": "S(首回り24〜30cm)",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本革リード 120cm ブラウン 120cm",
+     "brand": "Cymbal セレクト",
+     "size": "120cm",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_leather_collar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_warm_pet_mat",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "ペットベッド"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬の寒さ対策",
+    "ケージ・キャリーの敷物"
+   ],
+   "tax_rate": 10,
+   "description": "体温を反射してじんわり暖かい、電気を使わないペット用の保温マットです。ふわふわの表地で寒い季節のケージやベッドに敷くだけ。洗濯機で丸洗いでき、清潔に使えます。",
+   "image_brief": "A folded plush pet warming mat in soft beige with a silver reflective inner layer visible at a corner, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエステル",
+    "color": "ベージュ",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet あったかペットマット 電気不要 S S(40×50cm)",
+     "brand": "Cymbal Pet",
+     "size": "S(40×50cm)",
+     "price_tax_excluded": 1280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet あったかペットマット 電気不要 M M(55×70cm)",
+     "brand": "Cymbal Pet",
+     "size": "M(55×70cm)",
+     "price_tax_excluded": 1780,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet あったかペットマット 電気不要 L L(70×90cm)",
+     "brand": "Cymbal Pet",
+     "size": "L(70×90cm)",
+     "price_tax_excluded": 2480,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ベーシック ふわふわブランケット ペット用 70×100cm",
+     "brand": "Cymbal ベーシック",
+     "size": "70×100cm",
+     "price_tax_excluded": 980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト ペット用 低温ヒーターマット 40×40cm",
+     "brand": "Cymbal セレクト",
+     "size": "40×40cm",
+     "price_tax_excluded": 3980,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_warm_pet_mat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_square_cuddle_bed",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "ペットベッド"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お昼寝",
+    "リビングの居場所づくり"
+   ],
+   "tax_rate": 10,
+   "description": "ふちが高く、あごをのせてくつろげる角型のカドラーベッドです。底面に滑り止め付きで、カバーは取り外して洗えます。犬猫兼用で、寒い季節にうれしい冬用ボアタイプも揃えました。",
+   "image_brief": "A rectangular bolster pet bed with raised sides in gray boa fabric with a cream cushion inside, studio packshot.",
+   "labels": [],
+   "attributes": {
+    "material": "ポリエステル",
+    "color": "グレー",
+    "capacity": ""
+   },
+   "variants": [
+    {
+     "title": "Cymbal Pet カドラーベッド 角型 S グレー S(45×35cm)",
+     "brand": "Cymbal Pet",
+     "size": "S(45×35cm)",
+     "price_tax_excluded": 1980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet カドラーベッド 角型 M グレー M(60×45cm)",
+     "brand": "Cymbal Pet",
+     "size": "M(60×45cm)",
+     "price_tax_excluded": 2980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet カドラーベッド 角型 L グレー L(80×60cm)",
+     "brand": "Cymbal Pet",
+     "size": "L(80×60cm)",
+     "price_tax_excluded": 3980,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet カドラーベッド 冬用ボア S ブラウン S(45×35cm)",
+     "brand": "Cymbal Pet",
+     "size": "S(45×35cm)",
+     "price_tax_excluded": 2280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ベーシック ペット用 クッションベッド M M(60×45cm)",
+     "brand": "Cymbal ベーシック",
+     "size": "M(60×45cm)",
+     "price_tax_excluded": 1580,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_square_cuddle_bed_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_scratcher",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "猫用おもちゃ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "爪とぎ",
+    "お昼寝",
+    "家具の傷対策"
+   ],
+   "tax_rate": 10,
+   "description": "段ボールを重ねた猫用の爪とぎです。猫が好む適度な硬さで、思いきりバリバリ研げます。ベッドとして寝そべれるワイドタイプや、壁に立てかけるタイプ、交換用の替えも用意しました。",
+   "image_brief": "A corrugated cardboard cat scratcher pad in natural kraft color shaped like a wide curved lounger, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用爪とぎ 段ボール スタンダード 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用爪とぎ 段ボール ワイド ベッド型 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用爪とぎ 段ボール 替え 2個",
+     "brand": "Cymbal Pet",
+     "size": "2個",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用爪とぎ 壁立てかけ ポールタイプ 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 1280,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用爪とぎ 麻ひも ポール 60cm 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 1980,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_scratcher_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_cat_kicker_toy",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "猫用おもちゃ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "一人遊び",
+    "運動不足解消"
+   ],
+   "tax_rate": 10,
+   "description": "抱えてキックして遊べる猫用のけりぐるみです。またたびやキャットニップを入れたタイプは猫の興味を引き、一人遊びにもぴったり。ボールやネズミのおもちゃなど、遊び方の違うアイテムも揃えました。",
+   "image_brief": "A long plush fish-shaped cat kicker toy in orange and white beside small fuzzy mice and jingle balls, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 猫用けりぐるみ さかな キャットニップ入り 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用けりぐるみ えびフライ またたび入り 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用おもちゃ ふわふわネズミ 3個",
+     "brand": "Cymbal Pet",
+     "size": "3個",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 猫用おもちゃ 鈴入りボール 4個",
+     "brand": "Cymbal Pet",
+     "size": "4個",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 猫用 天然またたび スティック 5本",
+     "brand": "Cymbal セレクト",
+     "size": "5本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_cat_kicker_toy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_dog_squeaky_toy",
+   "category_path": [
+    "ペット用品",
+    "ベッド・おもちゃ",
+    "犬用おもちゃ"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "室内遊び",
+    "引っ張りっこ",
+    "お留守番"
+   ],
+   "tax_rate": 10,
+   "description": "噛むと音が鳴る、やわらかいラテックス製の犬用おもちゃです。野菜や動物のかわいい形で、引っ張りっこや投げて取ってこい遊びに。小型犬でもくわえやすいサイズ感で、お留守番の退屈しのぎにも。",
+   "image_brief": "A group of soft latex squeaky dog toys shaped like a carrot, a pig and a hedgehog in bright colors, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 犬用 鳴き笛おもちゃ ラテックス にんじん 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用 鳴き笛おもちゃ ラテックス ぶた 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用 ぬいぐるみトイ はりねずみ 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet 犬用 ゴムボール 鳴き笛入り 2個",
+     "brand": "Cymbal Pet",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 犬用 知育トイ おやつが出るボール 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 1280,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_dog_squeaky_toy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_hamster_food",
+   "category_path": [
+    "ペット用品",
+    "小動物用品",
+    "小動物フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハムスターの主食",
+    "おやつ"
+   ],
+   "tax_rate": 10,
+   "description": "ハムスターやジャービルなど小さなげっ歯類のための主食フードです。栄養バランスを整えたペレットに、ひまわりの種や乾燥野菜をミックスしたタイプも。飽きずに食べられる工夫をしました。",
+   "image_brief": "A small stand-up zipper pouch with a clear window showing pellets, sunflower seeds and dried vegetables, blank label in yellow, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet ハムスターフード ペレット 300g",
+     "brand": "Cymbal Pet",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ハムスターフード ペレット&野菜ミックス 350g",
+     "brand": "Cymbal Pet",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet ハムスター用 ひまわりの種 150g",
+     "brand": "Cymbal Pet",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal Pet ハムスター用 おやつ 乾燥フルーツミックス 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハムスターフード 無着色 グルテンフリー 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_hamster_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_rabbit_pellet",
+   "category_path": [
+    "ペット用品",
+    "小動物用品",
+    "小動物フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うさぎの主食",
+    "モルモットの主食"
+   ],
+   "tax_rate": 10,
+   "description": "うさぎの健康維持に欠かせない繊維質を豊富に含んだペレットフードです。チモシーを主原料にしたハードタイプとソフトタイプがあり、成長段階に合わせた子うさぎ用・シニア用も選べます。",
+   "image_brief": "A green stand-up pouch with zipper and blank label, a small pile of cylindrical green pellets in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet うさぎのペレット チモシー ハード 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet うさぎのペレット チモシー ソフト 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 子うさぎ用 ペレット 1歳まで 600g",
+     "brand": "Cymbal Pet",
+     "size": "600g",
+     "price_tax_excluded": 648,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet シニアうさぎ用 ペレット 5歳以上 600g",
+     "brand": "Cymbal Pet",
+     "size": "600g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック モルモット用 ペレット ビタミンC配合 750g",
+     "brand": "Cymbal ベーシック",
+     "size": "750g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_rabbit_pellet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_timothy_hay",
+   "category_path": [
+    "ペット用品",
+    "小動物用品",
+    "牧草・床材"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うさぎの主食",
+    "牧草の補給"
+   ],
+   "tax_rate": 10,
+   "description": "うさぎやモルモット、チンチラが毎日たっぷり食べる牧草です。香りがよく茎と葉のバランスがよい一番刈りと、やわらかい二番刈りを揃えました。食べ残しが出にくいカットタイプもあります。",
+   "image_brief": "A large clear plastic bag of fresh green timothy hay with a blank paper label, some long strands sticking out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet チモシー 一番刈り 500g",
+     "brand": "Cymbal Pet",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal Pet チモシー 一番刈り 1kg",
+     "brand": "Cymbal Pet",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal Pet チモシー 二番刈り ソフト 500g",
+     "brand": "Cymbal Pet",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal Pet 牧草 カットタイプ チモシー 400g",
+     "brand": "Cymbal Pet",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal セレクト 国産 牧草 オーチャードグラス 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_pet_timothy_hay_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_small_animal_bedding",
+   "category_path": [
+    "ペット用品",
+    "小動物用品",
+    "牧草・床材"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ケージの床材",
+    "巣材",
+    "トイレ砂"
+   ],
+   "tax_rate": 10,
+   "description": "ケージの底に敷く小動物用の床材です。ほこりの少ない紙製や、香りのよい広葉樹チップを用意しました。吸水性が高くにおいを抑え、ハムスターの巣材やうさぎのトイレにも使えます。",
+   "image_brief": "A soft plastic bag of white fluffy paper bedding with a blank label, a handful of fluffy shredded bedding piled in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 小動物用 紙の床材 ホワイト 10L",
+     "brand": "Cymbal Pet",
+     "size": "10L",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小動物用 紙の床材 ホワイト 20L",
+     "brand": "Cymbal Pet",
+     "size": "20L",
+     "price_tax_excluded": 1180,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小動物用 広葉樹チップ 7L",
+     "brand": "Cymbal Pet",
+     "size": "7L",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet うさぎ用 トイレ砂 ペレット 5L",
+     "brand": "Cymbal Pet",
+     "size": "5L",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 小動物用 ウッドチップ 徳用 15L",
+     "brand": "Cymbal ベーシック",
+     "size": "15L",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_small_animal_bedding_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_goldfish_food",
+   "category_path": [
+    "ペット用品",
+    "観賞魚用品",
+    "観賞魚フード"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "金魚の餌",
+    "めだかの餌",
+    "稚魚の餌"
+   ],
+   "tax_rate": 10,
+   "description": "金魚やめだかのための浮上性フードです。水を汚しにくい配合で、小さな口でも食べやすい粒の大きさ。色揚げタイプや稚魚用のパウダー、水温が下がる冬向けの消化のよいタイプも揃えました。",
+   "image_brief": "Small plastic shaker canisters of fish food with blank orange labels and flip-top lids, tiny floating pellets scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 金魚のえさ 浮上性 小粒 90g",
+     "brand": "Cymbal Pet",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 金魚のえさ 浮上性 色揚げ 90g",
+     "brand": "Cymbal Pet",
+     "size": "90g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet めだかのえさ 顆粒 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet めだかの稚魚用 パウダー 20g",
+     "brand": "Cymbal Pet",
+     "size": "20g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 金魚のえさ 冬用 低水温向け 70g",
+     "brand": "Cymbal Pet",
+     "size": "70g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_goldfish_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_tropical_fish_food",
+   "category_path": [
+    "ペット用品",
+    "観賞魚用品",
+    "観賞魚フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "熱帯魚の餌",
+    "エビ・底もの魚の餌"
+   ],
+   "tax_rate": 10,
+   "description": "ネオンテトラやグッピーなど熱帯魚のためのフレークフードです。ゆっくり沈むので上層から中層の魚まで食べやすく、乾燥赤虫やエビ用の沈下タブレットなど用途別に選べます。",
+   "image_brief": "A cylindrical clear plastic container of multicolored fish flakes with a blank green label and a red screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 熱帯魚のえさ フレーク 20g",
+     "brand": "Cymbal Pet",
+     "size": "20g",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal Pet 熱帯魚のえさ フレーク 50g",
+     "brand": "Cymbal Pet",
+     "size": "50g",
+     "price_tax_excluded": 798,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal Pet 熱帯魚のえさ 顆粒 小型魚用 30g",
+     "brand": "Cymbal Pet",
+     "size": "30g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 乾燥赤虫 フリーズドライ 10g",
+     "brand": "Cymbal Pet",
+     "size": "10g",
+     "price_tax_excluded": 398,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal Pet エビ・コリドラス用 沈下タブレット 40g",
+     "brand": "Cymbal Pet",
+     "size": "40g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_tropical_fish_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_turtle_food",
+   "category_path": [
+    "ペット用品",
+    "観賞魚用品",
+    "観賞魚フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カメの餌",
+    "おやつ"
+   ],
+   "tax_rate": 10,
+   "description": "水に浮いて食べやすいカメ用のスティックフードです。甲羅の健康に配慮してカルシウムを加え、子ガメ用の小粒とおとな用の大粒を揃えました。乾燥エビのおやつもあります。",
+   "image_brief": "A plastic shaker canister with a blank green label and a pile of floating stick pellets and dried shrimp beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet カメのえさ 浮上スティック 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet カメのえさ 浮上スティック 250g",
+     "brand": "Cymbal Pet",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 子ガメのえさ 小粒 60g",
+     "brand": "Cymbal Pet",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet カメのおやつ 乾燥エビ 30g",
+     "brand": "Cymbal Pet",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_pet_turtle_food_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_bird_seed",
+   "category_path": [
+    "ペット用品",
+    "小鳥用品",
+    "小鳥フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "小鳥の主食",
+    "インコの餌",
+    "文鳥の餌"
+   ],
+   "tax_rate": 10,
+   "description": "セキセイインコや文鳥などの小鳥向けの主食フードです。ひえ・あわ・きびなどを配合した皮付きの混合シードと、栄養バランスを整えたペレットを用意しました。青菜代わりの乾燥小松菜もあります。",
+   "image_brief": "A clear standing plastic bag filled with mixed millet and canary seed with a blank paper label, scattered seeds in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 小鳥の混合シード 皮付き 800g",
+     "brand": "Cymbal Pet",
+     "size": "800g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小鳥の混合シード 皮付き 2kg",
+     "brand": "Cymbal Pet",
+     "size": "2kg",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet インコのペレット 小粒 300g",
+     "brand": "Cymbal Pet",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 文鳥の混合シード 皮むき 600g",
+     "brand": "Cymbal Pet",
+     "size": "600g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小鳥用 乾燥小松菜 15g",
+     "brand": "Cymbal Pet",
+     "size": "15g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_bird_seed_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_pet_bird_treat",
+   "category_path": [
+    "ペット用品",
+    "小鳥用品",
+    "小鳥フード"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "小鳥のおやつ",
+    "栄養補給"
+   ],
+   "tax_rate": 10,
+   "description": "小鳥が喜ぶおやつと栄養補助食品です。穂のままの粟穂やボレー粉、ミネラルを補えるかじり木タイプなど、毎日の食事にプラスして楽しく与えられます。ケージに取り付けやすい形状です。",
+   "image_brief": "Bundled golden millet spray stalks with a small round pecking block and a bag of crushed oyster shell grit with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal Pet 小鳥用 粟穂 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小鳥用 ボレー粉 100g",
+     "brand": "Cymbal Pet",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet 小鳥用 ミネラルかじり木 1個",
+     "brand": "Cymbal Pet",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal Pet インコのおやつ シードボール 3個",
+     "brand": "Cymbal Pet",
+     "size": "3個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_pet_bird_treat_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

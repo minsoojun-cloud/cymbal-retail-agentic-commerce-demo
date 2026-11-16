@@ -1,0 +1,3744 @@
+{
+ "category_key": "w_bread",
+ "items": [
+  {
+   "base_id": "w_bread_hotel_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "こだわり食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "フレンチトースト",
+    "サンドイッチ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "バターと生クリームをぜいたくに練り込んだホテルブレッドタイプの食パン。きめ細かくしっとりした生地で、軽く焼くと外はサクッ、中はふんわり。ホテルの朝食のような贅沢なトーストをご家庭で楽しめます。",
+   "image_brief": "A tall rectangular loaf of glossy golden hotel-style white bread in a clear bag with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ホテルブレッド 食パン 4枚切",
+     "brand": "Cymbal セレクト",
+     "size": "4枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホテルブレッド 食パン 5枚切",
+     "brand": "Cymbal セレクト",
+     "size": "5枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホテルブレッド 食パン 6枚切",
+     "brand": "Cymbal セレクト",
+     "size": "6枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホテルブレッド 食パン 8枚切",
+     "brand": "Cymbal セレクト",
+     "size": "8枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ホテルブレッド 食パン スライスなし 1斤",
+     "brand": "Cymbal セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麦ノ丘ベーカリー ホテル食パン 発酵バター仕立て 1.5斤",
+     "brand": "麦ノ丘ベーカリー",
+     "size": "1.5斤",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_hotel_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_nama_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "こだわり食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま",
+    "トースト",
+    "手土産",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "耳までやわらかく、焼かずにそのまま食べてもほんのり甘い“生”タイプの高級食パン。はちみつと生クリームのやさしいコクで、ちぎって食べるとしっとりもっちり。手土産や週末の朝ごはんにもおすすめです。",
+   "image_brief": "A tall soft milky-white loaf of premium Japanese bread in a kraft paper bag with a blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "麦ノ丘ベーカリー 生食パン はちみつ仕立て 1斤",
+     "brand": "麦ノ丘ベーカリー",
+     "size": "1斤",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麦ノ丘ベーカリー 生食パン はちみつ仕立て 2斤",
+     "brand": "麦ノ丘ベーカリー",
+     "size": "2斤",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "麦ノ丘ベーカリー 生食パン レーズン 1斤",
+     "brand": "麦ノ丘ベーカリー",
+     "size": "1斤",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生クリーム食パン 1斤",
+     "brand": "Cymbal セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 生クリーム食パン ハーフ 0.5斤",
+     "brand": "Cymbal セレクト",
+     "size": "0.5斤",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_nama_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_milk_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "こだわり食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "ジャムトースト",
+    "サンドイッチ",
+    "子どもの朝食"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産牛乳をたっぷり使い、水を使わず仕込んだミルク食パン。ミルクのやさしい甘みとふんわり軽い食感で、お子さまにも人気です。ジャムやバターとの相性も良く、毎朝の食卓に。",
+   "image_brief": "A rectangular white loaf of milk bread slices in a clear bag with a light blue blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道牛乳仕込み ミルク食パン 4枚切",
+     "brand": "Cymbal",
+     "size": "4枚切",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道牛乳仕込み ミルク食パン 5枚切",
+     "brand": "Cymbal",
+     "size": "5枚切",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道牛乳仕込み ミルク食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道牛乳仕込み ミルク食パン 8枚切",
+     "brand": "Cymbal",
+     "size": "8枚切",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースフィールド製パン まきば ミルクブレッド 6枚切",
+     "brand": "ノースフィールド製パン",
+     "size": "6枚切",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_milk_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_danish_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "レーズン・菓子食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "おやつ",
+    "フレンチトースト",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "バターを幾層にも折り込んだデニッシュ生地を食パン型で焼き上げました。トーストするとサクサクとした層とバターの香りが広がり、甘みがあるのでそのままおやつにも。フレンチトーストにすると格別です。",
+   "image_brief": "A golden laminated danish bread loaf with visible flaky layers in a clear bag with a blank gold label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal デニッシュ食パン プレーン 1斤",
+     "brand": "Cymbal",
+     "size": "1斤",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デニッシュ食パン メープル 1斤",
+     "brand": "Cymbal",
+     "size": "1斤",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal デニッシュ食パン チョコ 1斤",
+     "brand": "Cymbal",
+     "size": "1斤",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター デニッシュ食パン 1斤",
+     "brand": "Cymbal セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー デニッシュ食パン ハーフ プレーン 0.5斤",
+     "brand": "キララベーカリー",
+     "size": "0.5斤",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー デニッシュ食パン ハーフ 宇治抹茶 0.5斤",
+     "brand": "キララベーカリー",
+     "size": "0.5斤",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_danish_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_marble_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "レーズン・菓子食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "おやつ",
+    "朝食",
+    "ラスク"
+   ],
+   "tax_rate": 8,
+   "description": "生地にフィリングを渦巻き状に巻き込んだマーブル食パン。断面の美しい模様が楽しく、焼くと甘い香りが立ちのぼります。チョコ・抹茶・メープルなど気分で選べる味をご用意しました。",
+   "image_brief": "A loaf of sliced bread with brown swirl marbling visible on the cut face, in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコマーブル食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルマーブル食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶あずきマーブル食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チョコマーブルブレッド 1本",
+     "brand": "Cymbal ベーシック",
+     "size": "1本",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー キャラメルマーブル食パン 5枚切",
+     "brand": "キララベーカリー",
+     "size": "5枚切",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_marble_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_cheese_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "レーズン・菓子食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チーズトースト",
+    "ピザトースト",
+    "サンドイッチ",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "角切りチーズを生地にたっぷり練り込んだチーズ食パン。トーストするとチーズがとろけて香ばしく、何もつけずにおいしいのが魅力。ハムをのせたり、ピザトーストのベースにも使えます。",
+   "image_brief": "A loaf of sliced bread speckled with melted golden cheese cubes in a clear bag with a blank yellow label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 角切りチーズ食パン 4枚切",
+     "brand": "Cymbal",
+     "size": "4枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 角切りチーズ食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チェダー&ゴーダ チーズ食パン 5枚切",
+     "brand": "Cymbal",
+     "size": "5枚切",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 4種のチーズ食パン 1斤",
+     "brand": "Cymbal セレクト",
+     "size": "1斤",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒こしょうチーズ食パン 6枚切",
+     "brand": "Cymbal",
+     "size": "6枚切",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_cheese_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_mini_shokupan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "食パン",
+    "食パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トースト",
+    "一人暮らしの朝食",
+    "サンドイッチ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "少人数や一人暮らしでも食べきりやすい、ハーフサイズの食パンです。いつもの食パンと同じふんわり食感で、賞味期限内においしく使い切れます。食べ比べやお試しにも便利なサイズです。",
+   "image_brief": "A short half-size loaf of sliced white bread in a small clear bag with a blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハーフ食パン 4枚入（6枚切相当）",
+     "brand": "Cymbal",
+     "size": "4枚入（6枚切相当）",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーフ食パン 3枚入（4枚切相当）",
+     "brand": "Cymbal",
+     "size": "3枚入（4枚切相当）",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーフ食パン 5枚入（8枚切相当）",
+     "brand": "Cymbal",
+     "size": "5枚入（8枚切相当）",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニ食パン 3枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "3枚入",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ハーフ食パン 全粒粉入り 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_mini_shokupan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_kokuto_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "お弁当",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄県産黒糖を練り込んだ、コク深い甘さのロールパン。ふんわりやわらかな生地に黒糖の香ばしさがほんのり広がり、何もつけずにそのままおいしく食べられます。朝食やおやつ、お子さまの補食に。",
+   "image_brief": "A bag of six soft brown sugar dinner rolls with shiny tops in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 沖縄県産黒糖使用 黒糖ロール 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖ロール 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 黒糖ロール 8個入",
+     "brand": "Cymbal ベーシック",
+     "size": "8個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースフィールド製パン 黒糖くるみロール 4個入",
+     "brand": "ノースフィールド製パン",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖ミニロール 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_kokuto_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_raisin_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "ティータイム",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ジューシーなレーズンを生地にたっぷり混ぜ込んだロールパン。噛むたびにレーズンの甘酸っぱさが広がります。軽くトーストしてバターを添えれば、手軽で満足感のある朝食に。",
+   "image_brief": "A clear bag of six round golden rolls dotted with dark raisins, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レーズンロール 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック レーズンロール 8個入",
+     "brand": "Cymbal ベーシック",
+     "size": "8個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラムレーズン&クリームチーズロール 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 3種のレーズンロール 5個入",
+     "brand": "Cymbal",
+     "size": "5個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_raisin_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_chigiri_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "ピクニック",
+    "シェア"
+   ],
+   "tax_rate": 8,
+   "description": "一つずつちぎって食べられる、ふわふわのちぎりパン。家族でシェアしやすく、小さなお子さまの手にもちょうど良いサイズです。ミルク、チョコ、メープルなど、甘さ控えめで飽きのこない味わい。",
+   "image_brief": "A tray-shaped connected pull-apart bread of nine soft golden buns in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミルクちぎりパン 9個入",
+     "brand": "Cymbal",
+     "size": "9個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコちぎりパン 9個入",
+     "brand": "Cymbal",
+     "size": "9個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルちぎりパン 9個入",
+     "brand": "Cymbal",
+     "size": "9個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー 練乳ちぎりパン 6個入",
+     "brand": "キララベーカリー",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー かぼちゃちぎりパン 6個入",
+     "brand": "キララベーカリー",
+     "size": "6個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_chigiri_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_kurumi_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "朝食",
+    "チーズに合わせて",
+    "ワインのお供",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしくローストしたくるみを生地にたっぷり練り込んだソフトなくるみパン。噛むほどにくるみの風味と食感が楽しめます。チーズやはちみつと合わせて、秋冬の朝食やワインのお供にも。",
+   "image_brief": "A clear bag of round soft rolls studded with roasted walnut pieces, kraft-colored blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal くるみロール 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くるみロール 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト くるみとカマンベールのパン 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] くるみパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くるみ&はちみつロール 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_kurumi_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_shio_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ロールパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "軽食",
+    "おやつ",
+    "スープに添えて"
+   ],
+   "tax_rate": 8,
+   "description": "生地でバターを巻き込んで焼き上げた塩パン。底はバターがじゅわっと染みてカリッと香ばしく、上にふった岩塩がアクセント。トースターで温め直すと焼きたての食感がよみがえります。",
+   "image_brief": "A clear bag of glossy golden butter rolls with coarse salt crystals on top and crispy bottoms, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バター香る塩パン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バター香る塩パン 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 塩バターパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 明太塩パン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター 塩パン 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 塩バターロール 5個入",
+     "brand": "Cymbal ベーシック",
+     "size": "5個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_shio_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_brioche",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "フレンチトースト",
+    "ティータイム",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "卵とバターをたっぷり配合したフランス生まれのブリオッシュ。黄金色のしっとりリッチな生地はほんのり甘く、そのままでも、フレンチトーストやフルーツサンドにしても絶品です。",
+   "image_brief": "Several golden glossy brioche buns with topknots in a clear bag with a blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ブリオッシュ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニブリオッシュ 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ブリオッシュ・ア・テット 発酵バター 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブリオッシュ食パン 1斤",
+     "brand": "Cymbal",
+     "size": "1斤",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー チョコチップブリオッシュ 6個入",
+     "brand": "キララベーカリー",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_brioche_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_milk_france",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ソフトフランス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "軽食",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ソフトなフランスパンにミルククリームをたっぷりサンドしたミルクフランス。外はほどよく歯切れよく、中はやさしい甘さのクリームがとろり。冷やして食べてもおいしい人気のパンです。",
+   "image_brief": "A soft french bread stick split and filled with white milk cream, wrapped in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミルクフランス 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 練乳ミルクフランス 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニミルクフランス 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ミルクフランス 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごミルクフランス 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコミルクフランス 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_milk_france_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_an_butter_france",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "ソフトフランス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "パリッとしたフランスパンに、北海道産小豆のつぶあんと厚切りバターを挟んだあんバターサンド。あんこの甘さとバターの塩気が絶妙にマッチします。冷蔵でバターの食感をキープしています。",
+   "image_brief": "A crusty baguette sandwich filled with sweet red bean paste and a thick slab of butter, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あんバターフランス 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] あんバターサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター あんバターフランス 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニあんバターフランス 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶あんバターフランス 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_an_butter_france_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pain_au_chocolat",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "カフェタイム"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのクロワッサン生地でビターなチョコレートを包んだパン・オ・ショコラ。トースターで軽く温めると、中のチョコがとろりと溶けて香ばしさもアップ。朝のコーヒーと一緒にどうぞ。",
+   "image_brief": "Rectangular flaky golden pastries with dark chocolate visible at the ends, in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal パン・オ・ショコラ 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニパン・オ・ショコラ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] パン・オ・ショコラ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター パン・オ・ショコラ 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パン・オ・ショコラ ホワイトチョコ 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_pain_au_chocolat_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_almond_croissant",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "カフェタイム"
+   ],
+   "tax_rate": 8,
+   "description": "クロワッサンにアーモンドクリームを詰め、スライスアーモンドをのせて香ばしく焼き上げました。外はカリッ、中はしっとり濃厚。ちょっと贅沢なおやつやティータイムにぴったりです。",
+   "image_brief": "Golden croissants topped with sliced almonds and powdered sugar on a white paper tray in a clear bag, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] アーモンドクロワッサン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドクロワッサン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マジパン入り アーモンドクロワッサン 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニアーモンドクロワッサン 5個入",
+     "brand": "Cymbal",
+     "size": "5個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ショコラアーモンドクロワッサン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_almond_croissant_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_fruit_danish",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "バター香るデニッシュ生地にカスタードとフルーツをのせて焼き上げました。りんごのシナモン煮、ブルーベリー、クリームチーズなど彩り豊か。ちょっとしたご褒美やおもてなしにもおすすめです。",
+   "image_brief": "Assorted square fruit danish pastries topped with custard, apple slices and blueberries in a clear clamshell, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] アップルカスタードデニッシュ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ブルーベリーチーズデニッシュ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごのデニッシュ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カスタードデニッシュ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニフルーツデニッシュ アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 栗とさつまいものデニッシュ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_fruit_danish_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_cinnamon_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "クロワッサン・デニッシュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おやつ",
+    "カフェタイム",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "シナモンシュガーをくるくると巻き込み、甘いアイシングをかけたシナモンロール。温めるとスパイスの香りがふわっと広がり、肌寒い季節のおやつにぴったり。コーヒーや紅茶とよく合います。",
+   "image_brief": "Spiral cinnamon rolls glazed with white icing in a clear plastic tray container with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アイシングシナモンロール 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニシナモンロール 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] シナモンロール 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クリームチーズフロスティング シナモンロール 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シナモンロール レーズン入り 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カルダモンロール 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_cinnamon_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_jam_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ジャムパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりした生地に甘酸っぱいジャムを包んだ昔ながらのジャムパン。いちご、あんず、ブルーベリーなどどこか懐かしい味わいで、おやつや小腹がすいたときにぴったりです。",
+   "image_brief": "A soft oval golden bun with red jam filling peeking through, individually wrapped in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごジャムパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal あんずジャムパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーベリージャムパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニいちごジャムパン 5個入",
+     "brand": "Cymbal",
+     "size": "5個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ジャムパン 1個",
+     "brand": "Cymbal ベーシック",
+     "size": "1個",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal りんごジャム&ホイップパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_jam_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_maritozzo",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "クリームサンドパン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "カフェタイム",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "オレンジピール入りのブリオッシュ生地に、軽やかなホイップクリームをたっぷり挟んだマリトッツォ。ほどよい甘さで見た目も華やか。冷蔵で冷やしてそのままデザート感覚で楽しめます。",
+   "image_brief": "A round brioche bun split open and overflowing with whipped cream, dusted with powdered sugar, in a clear clamshell, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マリトッツォ プレーン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マリトッツォ チョコ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マリトッツォ いちご 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニマリトッツォ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 宇治抹茶マリトッツォ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_maritozzo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_kinako_agepan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ドーナツ・揚げパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "給食の味",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "コッペパンをカラッと揚げて、きなこ砂糖をたっぷりまぶした給食風の揚げパン。外はサクッ、中はふんわり。懐かしい味わいで大人にも子どもにも人気。ココアやシナモン味もご用意しました。",
+   "image_brief": "Fried oval bread rolls coated in yellow roasted soybean sugar on a paper tray in a clear bag, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きなこ揚げパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ココア揚げパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal シナモン揚げパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニきなこ揚げパン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 揚げたて きなこ揚げパン 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_kinako_agepan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_an_donut",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ドーナツ・揚げパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくら揚げた生地にあんこを包み、グラニュー糖をまぶしたあんドーナツ。こしあんのなめらかな甘さと砂糖のシャリッとした食感が楽しめます。緑茶にも牛乳にも合う、ほっとするおやつです。",
+   "image_brief": "Round sugar-coated fried buns with a red bean filling cross-section, in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal こしあんドーナツ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal つぶあんドーナツ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニあんドーナツ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白あんドーナツ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック あんドーナツ 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_an_donut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_kokuto_mushipan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "蒸しパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "沖縄県産黒糖を使った、しっとりもちもちの蒸しパン。黒糖のやさしいコクが口に広がり、ほっとする甘さです。かぼちゃ・抹茶・さつまいもなど、季節感のある味もそろえました。",
+   "image_brief": "A large round fluffy brown steamed cake bun in a paper cup wrapped in a clear bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かぼちゃ蒸しパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ蒸しパン アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 黒糖蒸しパン 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_kokuto_mushipan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_waffle",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ワッフル・パンケーキ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "カフェタイム"
+   ],
+   "tax_rate": 8,
+   "description": "ザラメ糖を練り込み、表面をカリッと焼き上げたベルギー風ワッフル。トースターで温めると外はカリカリ、中はもっちり。アイスやフルーツを添えればカフェ風デザートにもなります。",
+   "image_brief": "Golden thick Belgian-style waffles with pearl sugar on top, individually wrapped in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベルギーワッフル プレーン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベルギーワッフル チョコ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベルギーワッフル メープル 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター ベルギーワッフル 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ワッフル 6個入",
+     "brand": "Cymbal ベーシック",
+     "size": "6個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_waffle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pancake_pack",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ワッフル・パンケーキ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "メープル風味のシロップとマーガリンをサンドした、ふんわりパンケーキ。焼く手間なしで、袋から出してすぐに食べられます。忙しい朝や子どものおやつ、ちょっとした小腹満たしに便利です。",
+   "image_brief": "A clear bag of two thick fluffy pancakes sandwiching margarine and syrup, golden brown, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal メープル&マーガリン パンケーキ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニパンケーキ メープル 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホイップ&チョコ パンケーキ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal つぶあん&マーガリン パンケーキ 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック パンケーキ はちみつ風味 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_pancake_pack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_stick_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "袋入りミニパン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "子どものおやつ",
+    "朝食",
+    "お出かけ",
+    "補食"
+   ],
+   "tax_rate": 8,
+   "description": "片手で持ちやすいスティック型のミニパン。ほんのり甘いプレーンやチョコチップなど、小さなお子さまのおやつや習い事前の補食にぴったり。家族でシェアしやすい袋入りタイプです。",
+   "image_brief": "A clear bag containing a row of thin golden bread sticks, some with chocolate chips, with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミルクスティックパン 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコチップスティックパン 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖スティックパン 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やさいスティックパン かぼちゃ&にんじん 6本入",
+     "brand": "Cymbal",
+     "size": "6本入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スティックパン プレーン 8本入",
+     "brand": "Cymbal ベーシック",
+     "size": "8本入",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_stick_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_french_toast",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "フレンチトースト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "卵液をじっくり染み込ませて焼き上げたフレンチトースト。レンジやトースターで温めるだけで、しっとりジュワッと甘い本格的な味わい。休日のブランチやおやつに手軽に楽しめます。",
+   "image_brief": "Golden thick slices of french toast dusted with powdered sugar in a clear plastic tray with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal しみしみフレンチトースト 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルフレンチトースト 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ブリオッシュ フレンチトースト 2枚入",
+     "brand": "Cymbal セレクト",
+     "size": "2枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ひとくちフレンチトースト 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコフレンチトースト 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_french_toast_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_rusk",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "ラスク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "スープに添えて",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "フランスパンを薄くスライスし、バターと砂糖を塗ってカリッと焼き上げたラスク。サクサクの軽い食感で、つい手が伸びる味わいです。おやつはもちろん、ガーリック味はスープのお供にも。",
+   "image_brief": "A clear bag of crisp golden sliced baguette rusks glazed with sugar, with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal シュガーラスク 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ガーリックラスク 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal メープルラスク 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] バゲットラスク バター 1袋",
+     "brand": "",
+     "size": "1袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター ラスク 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ食パンラスク ココア 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_rusk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_choco_chip_muffin",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "マフィン・カップケーキ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "カフェタイム"
+   ],
+   "tax_rate": 8,
+   "description": "チョコチップをたっぷり混ぜ込んで焼き上げたアメリカンマフィン。ふんわりしっとりした生地にチョコの甘さが広がります。ブルーベリーやバナナ味もあり、コーヒーのお供に。",
+   "image_brief": "Tall domed chocolate chip muffins in brown paper cups inside a clear plastic container, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコチップマフィン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブルーベリーマフィン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バナナマフィン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニマフィン アソート 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ダブルチョコマフィン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_choco_chip_muffin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_korokke_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくの牛肉コロッケにソースをたっぷりかけ、千切りキャベツと一緒にコッペパンにサンド。ボリュームがあり、ランチや部活帰りの腹ごしらえにぴったりの定番惣菜パンです。",
+   "image_brief": "A soft hot dog roll stuffed with a breaded potato croquette, shredded cabbage and brown sauce, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛肉コロッケパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ソースコロッケパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カレーコロッケパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal かぼちゃコロッケパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] メンチカツパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_korokke_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pizza_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり生地にトマトソースを塗り、サラミ・ピーマン・チーズをのせて焼いたピザパン。トースターで温めればチーズがとろけて焼きたての味わいに。お子さまの軽食にも人気です。",
+   "image_brief": "A round soft bread topped with tomato sauce, melted cheese, salami slices and green pepper rings, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] マルゲリータパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニピザパン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] てりやきチキンピザパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーン&ベーコン ピザパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_pizza_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_corn_mayo_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "子どものおやつ",
+    "軽食"
+   ],
+   "tax_rate": 8,
+   "description": "甘いコーンをマヨネーズであえてたっぷりのせ、こんがり焼き上げたコーンマヨパン。コーンのプチプチ食感とマヨネーズのコクで、子どもから大人まで人気の惣菜パンです。",
+   "image_brief": "A round golden bread topped with bright yellow sweet corn kernels and toasted mayonnaise, in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] コーンマヨネーズパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーコンコーンマヨパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニコーンマヨパン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_corn_mayo_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_tuna_mayo_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ツナとたまねぎをマヨネーズであえたフィリングをたっぷり包んで焼いたツナマヨパン。しっとりした生地とまろやかな味わいで、ランチや小腹満たしに。ハムマヨやたまごマヨも選べます。",
+   "image_brief": "A round golden bun with creamy tuna mayonnaise filling visible on top, wrapped in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハムマヨパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たまごマヨパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ツナコーンパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ツナマヨロール 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_tuna_mayo_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_katsu_sand",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "行楽弁当",
+    "差し入れ"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかなロースカツに甘辛ソースをたっぷり絡め、キャベツと一緒に食パンでサンドしました。ボリューム満点で冷めてもおいしく、ランチや差し入れ、行楽のお供におすすめです。",
+   "image_brief": "Thick pork cutlet sandwiches with brown sauce and shredded cabbage, cut into triangles in a clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ロースカツサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ヒレカツサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ハムカツサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニカツサンド 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 黒豚ロースカツサンド 厚切り 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産黒豚使用"
+    }
+   ],
+   "images": [
+    "w_bread_katsu_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_teriyaki_chicken_burger",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "バーガー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛い照り焼きソースを絡めたチキンにマヨネーズとレタスを合わせ、ふんわりバンズでサンド。手軽に食べられるボリュームバーガーです。電子レンジで少し温めるとよりおいしくお召し上がりいただけます。",
+   "image_brief": "A soft sesame bun burger with glossy teriyaki chicken patty, lettuce and mayonnaise, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 照り焼きチキンバーガー 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキン南蛮バーガー 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チキンカツバーガー 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] チーズチキンバーガー 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニ照り焼きチキンバーガー 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_teriyaki_chicken_burger_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_chikuwa_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "ツナマヨを詰めたちくわを丸ごと一本パン生地で包んで焼き上げた、北海道生まれのご当地風ちくわパン。ちくわのぷりっと食感とマヨネーズのコクがくせになる、食べ応えのある一品です。",
+   "image_brief": "An oblong golden bread roll with a whole fish cake tube inside showing at the ends, wrapped in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ちくわパン ツナマヨ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ちくわパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ちくわパン チーズ入り 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニちくわパン 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_chikuwa_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_gratin_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "クリーミーなホワイトソースのグラタンをパン生地にのせ、チーズを重ねてこんがり焼きました。トースターで温めればとろーりあつあつ。寒い季節に食べたくなる、ほっこり系の惣菜パンです。",
+   "image_brief": "A round bread topped with browned bubbling cheese over creamy white gratin, in a clear plastic wrapper, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チキングラタンパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトグラタンパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] グラタンコロッケパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーンクリームグラタンパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] かぼちゃグラタンパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_gratin_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_bacon_potato_pan",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "調理パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "豚肉",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほくのポテトサラダとカリッと焼いたベーコンをのせ、マヨネーズとブラックペッパーで仕上げたベーコンポテトパン。食べ応えがありながら軽やかな味わいで、朝食やランチにぴったりです。",
+   "image_brief": "A round soft bread topped with chunky potato salad, crispy bacon strips and black pepper, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーコンポテトパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ベーコンポテトパン 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 明太ポテトパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ジャーマンポテトパン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_bacon_potato_pan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_egg_salad_roll",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "朝食",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりしたロールパンに、粗くつぶしたゆで卵のたまごサラダをたっぷり挟みました。まろやかでやさしい味わいは、朝食やランチ、ピクニックのお供にぴったり。冷蔵で鮮度を保っています。",
+   "image_brief": "Soft split rolls generously filled with yellow egg salad, three lined up in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] たまごサラダロール 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] たまごコッペ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 厚焼きたまごサンド 1パック",
+     "brand": "",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たまごサラダロール 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] たまご&ハムロール 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_egg_salad_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_croissant_sand",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "ブランチ",
+    "カフェタイム"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのクロワッサンにハム、チーズ、レタスをサンドしたカフェ風サンドイッチ。バターの香りと具材の塩気がよく合い、ブランチや軽めのランチに。トースターで温めるとチーズがとろけます。",
+   "image_brief": "Croissants split and filled with ham, cheese and green lettuce, two in a clear plastic pack, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ハム&チーズクロワッサンサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] スモークチキン&クリームチーズクロワッサンサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] たまご&ベーコンクロワッサンサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニクロワッサンサンド ハムチーズ 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_croissant_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_wrap_sand",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵",
+    "鶏肉",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "ピクニック"
+   ],
+   "tax_rate": 8,
+   "description": "もちもちのトルティーヤで、グリルチキンと野菜をたっぷり巻いたラップサンド。片手で手軽に食べられ、野菜もしっかりとれるのがうれしいポイント。オフィスランチやお出かけのお供に。",
+   "image_brief": "A tortilla wrap sandwich cut diagonally showing grilled chicken, lettuce and tomato, in a clear plastic sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] グリルチキン&シーザー ラップサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 照り焼きチキン ラップサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ツナアボカド ラップサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] タコスミート ラップサンド 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 蒸し鶏とたっぷり野菜のラップ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_wrap_sand_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_banh_mi",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "惣菜パン",
+    "サンドイッチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "鶏肉",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ランチ",
+    "軽食",
+    "エスニック"
+   ],
+   "tax_rate": 8,
+   "description": "軽い食感のバゲットに、甘酢漬けのなますとパクチー、焼き豚を挟んだベトナム風サンドイッチ。シャキシャキ野菜と甘辛い肉の組み合わせで、さっぱりしながら満足感もある一品です。",
+   "image_brief": "A split crusty mini baguette filled with pickled carrot and daikon, cilantro and roast pork slices, wrapped in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] バインミー 焼き豚 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] バインミー レモングラスチキン 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] バインミー ハーフ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] パクチー抜き バインミー 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_banh_mi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_bacon_epi",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "惣菜フランス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "軽食",
+    "おつまみ",
+    "スープに添えて",
+    "ワインのお供"
+   ],
+   "tax_rate": 8,
+   "description": "ベーコンを包んだフランスパン生地を麦の穂の形にカットして焼き上げたベーコンエピ。ひと房ずつちぎって食べられ、香ばしい皮とベーコンの旨みが好相性。粗挽き黒こしょうがアクセントです。",
+   "image_brief": "A wheat-stalk shaped crusty baguette with bacon peeking out of each segment, in a long paper bag with clear window, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] ベーコンエピ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ベーコンチーズエピ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ハーフベーコンエピ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーコンエピ 1本",
+     "brand": "Cymbal",
+     "size": "1本",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ウインナーエピ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_bacon_epi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_garlic_france_frozen",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "惣菜フランス"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタに添えて",
+    "スープ",
+    "おつまみ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ガーリックバターを塗ったフランスパンを冷凍しました。トースターで焼くだけで、カリッと香ばしい本格ガーリックトーストに。パスタやシチューの付け合わせ、ホームパーティーに重宝します。",
+   "image_brief": "Halved baguette slices spread with green-flecked garlic butter in a frozen-food clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼くだけ ガーリックフランス 6切入",
+     "brand": "Cymbal",
+     "size": "6切入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ ガーリックフランス 12切入",
+     "brand": "Cymbal",
+     "size": "12切入",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ チーズガーリックフランス 6切入",
+     "brand": "Cymbal",
+     "size": "6切入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター ガーリックフランス 8切入",
+     "brand": "Cymbal セレクト",
+     "size": "8切入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ バジルフランス 6切入",
+     "brand": "Cymbal",
+     "size": "6切入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_garlic_france_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_campagne",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "カンパーニュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スープに添えて",
+    "オープンサンド",
+    "チーズと一緒に",
+    "ブランチ"
+   ],
+   "tax_rate": 8,
+   "description": "ライ麦や全粒粉をブレンドし、じっくり発酵させて焼き上げた田舎風パンのカンパーニュ。香ばしいクラストと、ほのかな酸味のあるもっちりした中身が特徴。スライスしてスープやチーズと一緒にどうぞ。",
+   "image_brief": "A round rustic country loaf with a floured scored crust on a kraft paper sheet in a clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] カンパーニュ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] カンパーニュ ハーフ 1/2個",
+     "brand": "",
+     "size": "1/2個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] くるみとレーズンのカンパーニュ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スライスカンパーニュ 5枚入",
+     "brand": "Cymbal",
+     "size": "5枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] いちじくのカンパーニュ 1/2個",
+     "brand": "",
+     "size": "1/2個",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機小麦 カンパーニュ 1個",
+     "brand": "Cymbal オーガニック",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_campagne_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_rye_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "ライ麦パン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "オープンサンド",
+    "スモークサーモン",
+    "チーズと一緒に",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "ライ麦をたっぷり使ったドイツ風のずっしりしたライ麦パン。しっかりした酸味と噛みごたえがあり、薄くスライスしてチーズやハム、スモークサーモンをのせるのがおすすめ。日持ちしやすいのも特長です。",
+   "image_brief": "A dense dark brown rectangular rye bread loaf, thinly pre-sliced, in a clear wrapper with a blank kraft label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "モルゲンホーフ ライ麦70% ロッゲンミッシュブロート 1本",
+     "brand": "モルゲンホーフ",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンホーフ ライ麦パン スライス 6枚入",
+     "brand": "モルゲンホーフ",
+     "size": "6枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンホーフ ひまわりの種入り ライ麦パン 6枚入",
+     "brand": "モルゲンホーフ",
+     "size": "6枚入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンホーフ プンパーニッケル スライス 500g",
+     "brand": "モルゲンホーフ",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal ライ麦ブレッド ハーフ 1/2本",
+     "brand": "Cymbal",
+     "size": "1/2本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_rye_bread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pretzel",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "プレッツェル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "軽食",
+    "おつまみ",
+    "ビールのお供",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ドイツ伝統のプレッツェル。独特の結び目の形と、表面のつややかな焼き色、岩塩の塩気が特徴です。外はパリッ、中はもっちり。ビールのお供はもちろん、軽食やおやつにも楽しめます。",
+   "image_brief": "Glossy dark brown knot-shaped pretzels sprinkled with coarse salt in a clear bag with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "モルゲンホーフ ソフトプレッツェル 2個入",
+     "brand": "モルゲンホーフ",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] プレッツェル 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] チーズプレッツェル 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンホーフ ミニプレッツェル 6個入",
+     "brand": "モルゲンホーフ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] シナモンシュガープレッツェル 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_pretzel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_ciabatta",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "チャバタ・フォカッチャ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パニーニ",
+    "オリーブオイルで",
+    "サンドイッチ",
+    "パスタに添えて"
+   ],
+   "tax_rate": 8,
+   "description": "水分を多く含んだ生地を焼き上げたイタリアのチャバタ。気泡の多いもっちりとした中身と、パリッと軽い皮が特長です。横半分に切ってパニーニにしたり、オリーブオイルをつけて食べるのもおすすめ。",
+   "image_brief": "Flat rectangular floury Italian ciabatta loaves with irregular crust in a paper bag with clear window, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] チャバタ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] チャバタ 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal パニーニ用 チャバタ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] オリーブチャバタ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] 全粒粉チャバタ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_ciabatta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_focaccia",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "チャバタ・フォカッチャ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パスタに添えて",
+    "前菜",
+    "サンドイッチ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "オリーブオイルをたっぷり使って焼き上げたふっくら平たいフォカッチャ。岩塩とローズマリーの香りが食欲をそそります。パスタやスープに添えたり、具材を挟んでサンドイッチにしても。",
+   "image_brief": "A flat golden focaccia with dimpled surface, olive oil sheen, rosemary sprigs and salt crystals, in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] ローズマリー フォカッチャ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] オリーブとトマトのフォカッチャ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カット フォカッチャ プレーン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] ポテトとチーズのフォカッチャ 1枚",
+     "brand": "",
+     "size": "1枚",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニフォカッチャ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_focaccia_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pain_aux_fruits",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "フルーツ・ナッツブレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "くるみ",
+    "オレンジ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "チーズと一緒に",
+    "ワインのお供",
+    "ティータイム",
+    "クリスマス"
+   ],
+   "tax_rate": 8,
+   "description": "いちじく、レーズン、オレンジピール、くるみなどのドライフルーツとナッツを生地いっぱいに練り込んだパン・オ・フリュイ。薄く切ってクリームチーズやワインと合わせて。年末のおもてなしにも。",
+   "image_brief": "A dense dark loaf with cut face packed with dried figs, raisins and walnuts, wrapped in clear film with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内焼成] パン・オ・フリュイ 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] パン・オ・フリュイ ハーフ 1/2本",
+     "brand": "",
+     "size": "1/2本",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト いちじくとくるみのライブレッド 1本",
+     "brand": "Cymbal セレクト",
+     "size": "1本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フルーツ&ナッツブレッド スライス 6枚入",
+     "brand": "Cymbal セレクト",
+     "size": "6枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "モルゲンホーフ フルヒテブロート 250g",
+     "brand": "モルゲンホーフ",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "ドイツ製造"
+    }
+   ],
+   "images": [
+    "w_bread_pain_aux_fruits_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_knackebrot",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "クラッカーブレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "チーズと一緒に",
+    "ディップ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "ライ麦を薄く焼き上げた北欧のクリスプブレッド。パリッと軽い食感で日持ちがよく、チーズやディップ、スモークサーモンなどをのせてオープンサンド風に楽しめます。ごまや全粒タイプもご用意。",
+   "image_brief": "A rectangular clear pack of thin crisp rye flatbread sheets with seeds, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "モルゲンホーフ ライ麦クネッケ プレーン 200g",
+     "brand": "モルゲンホーフ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "スウェーデン製造"
+    },
+    {
+     "title": "モルゲンホーフ ライ麦クネッケ ごま 200g",
+     "brand": "モルゲンホーフ",
+     "size": "200g",
+     "price_tax_excluded": 318,
+     "origin": "スウェーデン製造"
+    },
+    {
+     "title": "モルゲンホーフ 全粒ライ麦クネッケ シード 250g",
+     "brand": "モルゲンホーフ",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "スウェーデン製造"
+    },
+    {
+     "title": "Cymbal クリスプブレッド 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_knackebrot_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_grissini",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "フランスパン・ハード系",
+    "クラッカーブレッド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "ごま"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "前菜",
+    "生ハム巻き",
+    "パーティー",
+    "ワインのお供"
+   ],
+   "tax_rate": 8,
+   "description": "カリッと焼き上げたイタリアの細長いスティックパン、グリッシーニ。生ハムを巻いたりディップを添えたりと、パーティーの前菜に華やかさを添えます。そのままおつまみとしても。",
+   "image_brief": "A bundle of thin long golden breadsticks standing in a clear cylindrical pack with blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal グリッシーニ プレーン 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal グリッシーニ ごま 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 218,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal セレクト オリーブオイル グリッシーニ 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "[店内焼成] チーズグリッシーニ 1袋",
+     "brand": "",
+     "size": "1袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_grissini_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_pita",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ナン・ピタ・トルティーヤ",
+    "ピタ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピタサンド",
+    "ケバブ",
+    "フムス",
+    "ホームパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "中が袋状に膨らむ中東生まれのピタパン。半分に切ってポケットに野菜や肉を詰めればピタサンドに。フムスなどのディップをつけても楽しめます。冷凍なので必要な分だけ使えます。",
+   "image_brief": "A stack of round flat pale golden pita breads, one cut in half showing the pocket, in a frozen clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピタパン プレーン 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピタパン 全粒粉 4枚入",
+     "brand": "Cymbal",
+     "size": "4枚入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニピタパン 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "キララベーカリー ピタパン 6枚入",
+     "brand": "キララベーカリー",
+     "size": "6枚入",
+     "price_tax_excluded": 348,
+     "origin": "トルコ製造"
+    }
+   ],
+   "images": [
+    "w_bread_pita_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_hanamaki_mantou",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "ナン・ピタ・トルティーヤ",
+    "中華蒸しパン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "角煮",
+    "北京ダック風",
+    "中華料理",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわりもっちりの中華蒸しパン。くるくる巻いた花巻や、プレーンなマントウ、二つ折りの刈包（クァバオ）など、角煮や炒め物を挟んで楽しめます。電子レンジで手軽に温められます。",
+   "image_brief": "Pure white swirled flower-shaped steamed buns and folded bao buns arranged in a frozen clear bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 花巻 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マントウ プレーン 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 刈包 クァバオ 6枚入",
+     "brand": "Cymbal",
+     "size": "6枚入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ねぎ花巻 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒糖マントウ 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_hanamaki_mantou_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_cheese_ball_bread",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "冷凍パン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "パーティー",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "タピオカ粉を使った、もちもち食感のブラジル風チーズパン。冷凍のままトースターやオーブンで焼くだけで、外はカリッ、中はもっちり。焼きたてのチーズの香りが楽しめます。",
+   "image_brief": "Small round golden cheese bread balls in a frozen clear resealable bag with a blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼くだけ もちもちチーズボール 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ もちもちチーズボール 24個入",
+     "brand": "Cymbal",
+     "size": "24個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ もちもちチーズボール バジル 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト パルミジャーノ チーズボール 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_cheese_ball_bread_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_bread_frozen_croissant_dough",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "パン",
+    "冷凍パン"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "ブランチ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "冷凍のままオーブンで焼くだけで、焼きたてサクサクのクロワッサンが楽しめる冷凍生地です。部屋中にバターの香りが広がり、休日の朝食やおもてなしにぴったり。必要な分だけ焼けて便利です。",
+   "image_brief": "Unbaked pale croissant dough pieces visible through a frozen clear bag with a blank blue label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼くだけ 冷凍クロワッサン生地 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター 冷凍クロワッサン生地 8個入",
+     "brand": "Cymbal セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 598,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ 冷凍パン・オ・ショコラ生地 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼くだけ 冷凍ミニクロワッサン生地 20個入",
+     "brand": "Cymbal",
+     "size": "20個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_bread_frozen_croissant_dough_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

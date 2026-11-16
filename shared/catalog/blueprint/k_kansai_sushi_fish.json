@@ -1,0 +1,709 @@
+{
+ "category_key": "k_kansai_sushi_fish",
+ "items": [
+  {
+   "base_id": "k_kansai_sf_sabazushi",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "押し寿司・棒寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "おもてなし",
+    "手みやげ"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚の真さばを酢でしめ、昆布とともに酢飯にのせて巻き上げた棒寿司です。さばのうま味と昆布の香りがなじんだ、関西の定番。食べやすくカットしてお渡しします。",
+   "image_brief": "A sliced Japanese mackerel bo-zushi pressed sushi roll on a bamboo leaf, glossy silver-skinned vinegared mackerel over rice, thin kelp on top. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 真さばの棒寿司 1本（8切）",
+     "brand": "Cymbal 寿司",
+     "size": "1本",
+     "price_tax_excluded": 1280,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "[店内調理] 真さばの棒寿司 ハーフ（4切）",
+     "brand": "Cymbal 寿司",
+     "size": "ハーフ",
+     "price_tax_excluded": 680,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "[店内調理] 焼さば寿司 1本（8切）",
+     "brand": "Cymbal 寿司",
+     "size": "1本",
+     "price_tax_excluded": 1180,
+     "origin": "国産さば使用"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_sabazushi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_battera",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "押し寿司・棒寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お昼ごはん",
+    "手みやげ"
+   ],
+   "tax_rate": 8,
+   "description": "しめさばと白板昆布を酢飯に重ねて押した、大阪伝統の箱寿司「ばってら」です。四角く切りそろえた見た目も美しく、甘酢のきいた白板昆布がさばのうま味を引き立てます。",
+   "image_brief": "Rectangular pieces of battera pressed mackerel sushi topped with translucent white kelp in a shallow sushi tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] ばってら 8切",
+     "brand": "Cymbal 寿司",
+     "size": "8切",
+     "price_tax_excluded": 780,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "[店内調理] ばってら 4切",
+     "brand": "Cymbal 寿司",
+     "size": "4切",
+     "price_tax_excluded": 420,
+     "origin": "国産さば使用"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_battera_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_kakinoha",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "押し寿司・棒寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "さば",
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手みやげ",
+    "行楽",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口大の酢飯にさばや鮭をのせ、柿の葉で包んで押し寿司にしました（柿の葉寿司風）。葉の香りがほんのり移り、時間をおくとさらに味がなじみます。",
+   "image_brief": "Neat rows of small rectangular pressed sushi wrapped in green persimmon leaves in a shallow wooden box, two unwrapped showing mackerel and salmon. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 寿司 柿の葉で包んだ押し寿司 さば・鮭 10個入",
+     "brand": "Cymbal 寿司",
+     "size": "10個",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 寿司 柿の葉で包んだ押し寿司 さば 6個入",
+     "brand": "Cymbal 寿司",
+     "size": "6個",
+     "price_tax_excluded": 780,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_kakinoha_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_futomaki",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "巻き寿司・いなり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "えび",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "節分",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "厚焼き玉子、かんぴょう、高野豆腐、しいたけ、きゅうり、桜でんぶを巻いた関西風の太巻きです。具だくさんで甘めの味付け。1本まるごとや、食べやすいハーフサイズをご用意しています。",
+   "image_brief": "A thick futomaki sushi roll cut into rounds showing colourful fillings of egg, cucumber, shiitake, kanpyo and pink denbu, in a sushi tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 関西風 太巻き 1本",
+     "brand": "Cymbal 寿司",
+     "size": "1本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 関西風 太巻き ハーフ",
+     "brand": "Cymbal 寿司",
+     "size": "ハーフ",
+     "price_tax_excluded": 320,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 海鮮太巻き 1本",
+     "brand": "Cymbal 寿司",
+     "size": "1本",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_futomaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_inari",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "巻き寿司・いなり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "行楽",
+    "子どものお弁当"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く炊いた油揚げに、ごまや具材を混ぜた酢飯を詰めた三角形の関西風いなり寿司です。いなりと太巻きの盛合せ「助六」もございます。",
+   "image_brief": "Triangular golden-brown inari sushi pockets filled with seasoned rice in a sushi tray, a few with sesame. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 関西風 三角いなり 5個入",
+     "brand": "Cymbal 寿司",
+     "size": "5個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 五目いなり 6個入",
+     "brand": "Cymbal 寿司",
+     "size": "6個",
+     "price_tax_excluded": 458,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 助六寿司（いなり・太巻き）",
+     "brand": "Cymbal 寿司",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_inari_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_nigiri",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "にぎり寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "いくら",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "おもてなし",
+    "週末のごちそう"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろ、サーモン、真鯛、えび、いかなど、店内で握るにぎり寿司の盛合せです。人数やシーンに合わせて、8貫・12貫・特上をご用意しています。",
+   "image_brief": "A black sushi platter with assorted nigiri sushi: tuna, salmon, sea bream, shrimp, squid, salmon roe gunkan, with pickled ginger. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] にぎり寿司 盛合せ 8貫",
+     "brand": "Cymbal 寿司",
+     "size": "8貫",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] にぎり寿司 盛合せ 12貫",
+     "brand": "Cymbal 寿司",
+     "size": "12貫",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 特上にぎり寿司 10貫",
+     "brand": "Cymbal 寿司",
+     "size": "10貫",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] にぎり寿司 盛合せ 2〜3人前 30貫",
+     "brand": "Cymbal 寿司",
+     "size": "30貫",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_nigiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_sashimi",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "刺身盛合せ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "晩酌",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "その日に仕入れた鮮魚を、店内で切りつけたお刺身の盛合せです。まぐろ、真鯛、ぶり、サーモンなど旬の魚を彩りよく盛り付けました。",
+   "image_brief": "A sashimi platter with slices of tuna, sea bream, yellowtail and salmon on a bed of shredded daikon with shiso leaf, in a black tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] お刺身 3種盛合せ 1〜2人前",
+     "brand": "Cymbal 鮮魚",
+     "size": "1〜2人前",
+     "price_tax_excluded": 980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内調理] お刺身 5種盛合せ 2〜3人前",
+     "brand": "Cymbal 鮮魚",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内加工"
+    },
+    {
+     "title": "[店内調理] 本日の地魚 お刺身盛合せ 2人前",
+     "brand": "Cymbal 鮮魚",
+     "size": "2人前",
+     "price_tax_excluded": 1480,
+     "origin": "兵庫県産・大阪府産 地魚使用"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_sashimi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_madai",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "鯛めし",
+    "塩焼き"
+   ],
+   "tax_rate": 8,
+   "description": "潮の流れが速い海峡で育ち、身が締まった真鯛です。お刺身はもちろん、塩焼き、鯛めし、あら炊きにも。1尾の下処理（うろこ・内臓取り）も承ります。",
+   "image_brief": "A whole fresh pink red sea bream fish on crushed ice beside a fillet and a plate of sea bream sashimi slices. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "兵庫県明石産 真鯛 1尾（約800g）",
+     "brand": "Cymbal 鮮魚",
+     "size": "1尾",
+     "price_tax_excluded": 1980,
+     "origin": "兵庫県明石産"
+    },
+    {
+     "title": "兵庫県明石産 真鯛 切身 2切",
+     "brand": "Cymbal 鮮魚",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "兵庫県明石産"
+    },
+    {
+     "title": "兵庫県明石産 真鯛 刺身 1パック",
+     "brand": "Cymbal 鮮魚",
+     "size": "1パック",
+     "price_tax_excluded": 780,
+     "origin": "兵庫県明石産"
+    },
+    {
+     "title": "兵庫県明石産 真鯛 あら 1パック",
+     "brand": "Cymbal 鮮魚",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "兵庫県明石産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_madai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_tako",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "たこ焼き",
+    "酢の物",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "瀬戸内で水揚げされた真だこを、塩ゆでしました。歯ごたえとうま味が魅力で、たこ焼きやお刺身、酢の物、から揚げにぴったりです。",
+   "image_brief": "A boiled red octopus tentacle and thin sliced octopus sashimi on a white tray, glossy red-purple skin. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "兵庫県明石産 ゆで真だこ 足 1パック（約150g）",
+     "brand": "Cymbal 鮮魚",
+     "size": "約150g",
+     "price_tax_excluded": 798,
+     "origin": "兵庫県明石産"
+    },
+    {
+     "title": "兵庫県明石産 ゆで真だこ 刺身用 スライス 80g",
+     "brand": "Cymbal 鮮魚",
+     "size": "80g",
+     "price_tax_excluded": 598,
+     "origin": "兵庫県明石産"
+    },
+    {
+     "title": "兵庫県産 ゆでだこ たこ焼き用 ぶつ切り 100g",
+     "brand": "Cymbal 鮮魚",
+     "size": "100g",
+     "price_tax_excluded": 458,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_tako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_shirasu",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "しらす・ちりめん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "しらす丼",
+    "朝ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "淡路島近海で水揚げしたしらすを、その日のうちに釜揚げしました。ふっくらやわらかく、ほどよい塩加減。しらす丼や大根おろし、ピザやパスタのトッピングにも。",
+   "image_brief": "A clear tray heaped with fluffy white kamaage shirasu baby sardines, a small bowl of shirasu rice beside it. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "兵庫県淡路島産 釜揚げしらす 100g",
+     "brand": "Cymbal 鮮魚",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県淡路島産"
+    },
+    {
+     "title": "兵庫県淡路島産 釜揚げしらす 200g",
+     "brand": "Cymbal 鮮魚",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "兵庫県淡路島産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_shirasu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_sawara",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "西京焼き",
+    "照り焼き",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "瀬戸内の春を告げる魚としても親しまれるさわら。上品な白身でやわらかく、西京焼きや照り焼き、ムニエルにおすすめです。",
+   "image_brief": "Two white fish fillets of Spanish mackerel with silver skin on a white tray, one grilled saikyo-yaki piece beside. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "瀬戸内産 さわら 切身 2切",
+     "brand": "Cymbal 鮮魚",
+     "size": "2切",
+     "price_tax_excluded": 598,
+     "origin": "瀬戸内産"
+    },
+    {
+     "title": "瀬戸内産 さわら 西京漬 2切",
+     "brand": "Cymbal 鮮魚",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "瀬戸内産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_sawara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_tachiuo",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "塩焼き",
+    "ムニエル",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "銀色に輝く太刀魚の切身です。脂がのったやわらかな白身で、塩焼きやムニエル、煮付けに向いています。",
+   "image_brief": "Several silver shiny ribbon fish cutlass fish fillet pieces on a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "和歌山県産 太刀魚 切身 3切",
+     "brand": "Cymbal 鮮魚",
+     "size": "3切",
+     "price_tax_excluded": 598,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "和歌山県産 太刀魚 1尾",
+     "brand": "Cymbal 鮮魚",
+     "size": "1尾",
+     "price_tax_excluded": 980,
+     "origin": "和歌山県産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_tachiuo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_buri",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ぶり大根",
+    "照り焼き",
+    "しゃぶしゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "日本海で水揚げされた脂ののったぶり。照り焼き、ぶり大根、ぶりしゃぶにどうぞ。冬場はとくに身が締まって人気です。",
+   "image_brief": "Two thick yellowtail fillets with pale pink flesh and a dark line, plus a few thin slices for shabu shabu, on a white tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "京都府舞鶴産 ぶり 切身 2切",
+     "brand": "Cymbal 鮮魚",
+     "size": "2切",
+     "price_tax_excluded": 698,
+     "origin": "京都府舞鶴産"
+    },
+    {
+     "title": "京都府舞鶴産 ぶり しゃぶしゃぶ用 150g",
+     "brand": "Cymbal 鮮魚",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "京都府舞鶴産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_buri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_hamo",
+   "category_path": [
+    "お魚・水産加工品",
+    "鮮魚",
+    "地魚・瀬戸内の魚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "湯引き",
+    "はもしゃぶ",
+    "夏の味覚"
+   ],
+   "tax_rate": 8,
+   "description": "細かく骨切りしたはもを、さっと湯引きしました。梅肉や酢味噌で、関西の夏の味覚をお楽しみください。秋は「名残りはも」として鍋にも。",
+   "image_brief": "White curled blossoms of boiled pike conger eel pieces on ice with a small dish of red plum paste. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "兵庫県淡路島産 はも 湯引き 梅肉付 1パック",
+     "brand": "Cymbal 鮮魚",
+     "size": "1パック",
+     "price_tax_excluded": 980,
+     "origin": "兵庫県淡路島産"
+    },
+    {
+     "title": "兵庫県淡路島産 はも 骨切り済 鍋用 200g",
+     "brand": "Cymbal 鮮魚",
+     "size": "200g",
+     "price_tax_excluded": 1480,
+     "origin": "兵庫県淡路島産"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_hamo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_sf_kaisendon",
+   "category_path": [
+    "お魚・水産加工品",
+    "寿司・刺身",
+    "海鮮丼・ちらし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "いくら",
+    "えび",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "まぐろ、サーモン、いくら、えび、玉子などを酢飯にのせた海鮮丼とばらちらし。店内で毎日盛り付けています。",
+   "image_brief": "A bowl of colourful kaisendon seafood rice bowl with tuna, salmon, salmon roe, shrimp and egg on vinegared rice, in a takeaway bowl. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 海鮮丼 1人前",
+     "brand": "Cymbal 寿司",
+     "size": "1人前",
+     "price_tax_excluded": 880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 関西風 ばらちらし 1人前",
+     "brand": "Cymbal 寿司",
+     "size": "1人前",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_sf_kaisendon_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

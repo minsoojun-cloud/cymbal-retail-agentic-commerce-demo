@@ -1,0 +1,863 @@
+{
+ "category_key": "seasoning",
+ "items": [
+  {
+   "base_id": "seasoning_curry_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "カレールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "description": "玉ねぎとりんごの甘み、香ばしく炒めたスパイスがバランスよく溶け合う定番のカレールーです。ルーを割り入れて煮込むだけで、家族みんなが喜ぶとろりとしたカレーが手軽に仕上がります。甘口から辛口まで、お好みの辛さとサイズを選べます。",
+   "images": [
+    "seasoning_curry_roux_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ カレールー 中辛 8皿分",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレールー 中辛 12皿分",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレールー 甘口 8皿分",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレールー 甘口 12皿分",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレールー 辛口 8皿分",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス カレールー 中辛 12皿分",
+     "brand": "トップバリュ ベストプライス",
+     "size": "210g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 欧風カレールー 中辛 8皿分",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "こだわり中辛 スパイスカレールー 10皿分",
+     "brand": "",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_curry_roux_1.jpg",
+    "seasoning_curry_roux_2.jpg"
+   ],
+   "dishes": [
+    "カレー",
+    "カレーうどん",
+    "カレーコロッケ",
+    "ドライカレー"
+   ]
+  },
+  {
+   "base_id": "seasoning_retort_curry",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "レトルトカレー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉",
+    "豚肉",
+    "りんご"
+   ],
+   "season_months": [],
+   "description": "温めるだけで本格的な味わいが楽しめる、忙しい日の頼れるレトルトカレーです。じっくり煮込んだ具材と、コクのある中辛ルーがごはんによく合います。電子レンジ対応タイプもあり、お昼ごはんや夜食にも便利です。",
+   "images": [
+    "seasoning_retort_curry_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ビーフカレー 中辛 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビーフカレー 中辛 170g×5食",
+     "brand": "トップバリュ",
+     "size": "850g（170g×5）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ポークカレー 中辛 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 野菜たっぷりカレー 中辛 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ レンジで温める ビーフカレー 中辛 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 牛すじ煮込みカレー 中辛 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビーフカレー 辛口 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "じっくり煮込んだ欧風ビーフカレー 中辛 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_retort_curry_1.jpg",
+    "seasoning_retort_curry_2.jpg"
+   ],
+   "dishes": [
+    "カレーライス",
+    "カレーうどん",
+    "カレードリア",
+    "お昼ごはん"
+   ]
+  },
+  {
+   "base_id": "seasoning_stew_roux",
+   "category_path": [
+    "調味料",
+    "カレー・シチュー",
+    "シチュールー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "ミルクのまろやかなコクが広がるクリームシチューと、デミグラスの深い味わいのビーフシチューをそろえたシチュールーです。旬の根菜やきのこと一緒に煮込めば、肌寒い季節にぴったりの温かい一皿に。パンにもごはんにもよく合います。",
+   "images": [
+    "seasoning_stew_roux_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ クリームシチュールー 8皿分",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クリームシチュールー 12皿分",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス クリームシチュールー 10皿分",
+     "brand": "トップバリュ ベストプライス",
+     "size": "175g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産生クリーム使用 クリームシチュールー 8皿分",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビーフシチュールー 8皿分",
+     "brand": "トップバリュ",
+     "size": "140g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト デミグラス仕立て ビーフシチュールー 8皿分",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_stew_roux_1.jpg",
+    "seasoning_stew_roux_3.jpg",
+    "seasoning_stew_roux_2.jpg"
+   ],
+   "dishes": [
+    "クリームシチュー",
+    "グラタン",
+    "シチューパスタ",
+    "ドリア"
+   ]
+  },
+  {
+   "base_id": "seasoning_yose_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "寄せ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "かつおと昆布のだしに、しょうゆをきかせたやさしい味わいの寄せ鍋つゆです。旬の魚や鶏肉、白菜やきのこなど、お好みの具材をたっぷり入れて楽しめます。〆は雑炊やうどんでどうぞ。",
+   "images": [
+    "seasoning_yose_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 寄せ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 寄せ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 寄せ鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 寄せ鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 料亭仕立て 寄せ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ セレクト",
+     "size": "750g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_nabe_tsuyu_straight_1.jpg",
+    "seasoning_yose_nabe_2.jpg"
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "雑炊",
+    "うどんすき"
+   ]
+  },
+  {
+   "base_id": "seasoning_kimchi_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "キムチ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "大豆",
+    "りんご",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "熟成キムチの旨みと唐辛子の辛さに、あみえびの塩辛でコクを加えたキムチ鍋つゆです。豚肉や豆腐、ニラとの相性は抜群で、体の芯から温まる一品に。〆はラーメンやチーズリゾット風がおすすめです。",
+   "images": [
+    "seasoning_kimchi_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ キムチ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス キムチ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キムチ鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キムチ鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ キムチ鍋つゆ 辛口 ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_nabe_tsuyu_straight_2.jpg",
+    "seasoning_nabe_tsuyu_portion_2.jpg"
+   ],
+   "dishes": [
+    "キムチ鍋",
+    "キムチ雑炊",
+    "キムチラーメン"
+   ]
+  },
+  {
+   "base_id": "seasoning_tonyu_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "豆乳鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "国産大豆の豆乳に鶏と昆布のだしを合わせた、まろやかでコクのある豆乳鍋つゆです。鶏肉や鮭、白菜、きのこがやさしい味わいに包まれます。お子さまにも食べやすい、クセのない味わいです。",
+   "images": [
+    "seasoning_tonyu_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 豆乳鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 豆乳鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 豆乳鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_tonyu_nabe_1.jpg"
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "豆乳雑炊",
+    "豆乳リゾット"
+   ]
+  },
+  {
+   "base_id": "seasoning_chanko_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ちゃんこ鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "ごま"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "鶏がらと魚介のだしをベースに、しょうゆやにんにくをきかせた食べごたえのあるちゃんこ鍋つゆです。鶏団子や油揚げ、たっぷりの野菜を煮込めば、家族で囲むボリューム満点の鍋に。あっさりした塩味もそろえています。",
+   "images": [
+    "seasoning_chanko_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ちゃんこ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ちゃんこ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちゃんこ鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちゃんこ鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩ちゃんこ鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_nabe_tsuyu_portion_1.jpg",
+    "seasoning_chanko_nabe_2.jpg"
+   ],
+   "dishes": [
+    "ちゃんこ鍋",
+    "雑炊",
+    "鍋焼きうどん"
+   ]
+  },
+  {
+   "base_id": "seasoning_goma_tonyu_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "ごま豆乳鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま",
+    "鶏肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "香ばしい練りごまとすりごまを豆乳に合わせた、濃厚でクリーミーなごま豆乳鍋つゆです。豚しゃぶ肉や水菜、もやしとよく絡み、最後の一滴までおいしく味わえます。〆は中華麺で担々麺風にするのもおすすめです。",
+   "images": [
+    "seasoning_goma_tonyu_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ ごま豆乳鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス ごま豆乳鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごま豆乳鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごま豆乳鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_goma_tonyu_nabe_1.jpg"
+   ],
+   "dishes": [
+    "ごま豆乳鍋",
+    "担々風ラーメン",
+    "雑炊"
+   ]
+  },
+  {
+   "base_id": "seasoning_tori_paitan_nabe_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "鶏白湯鍋つゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "description": "鶏の旨みをじっくり炊き出した、白く濁った濃厚な鶏白湯スープの鍋つゆです。鶏もも肉やつくね、キャベツ、ねぎがまろやかなスープとよく合います。〆はごはんとたまごで、コクのある雑炊に。",
+   "images": [
+    "seasoning_tori_paitan_nabe_tsuyu_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 鶏白湯鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 鶏白湯鍋つゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "750g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏白湯鍋つゆ 濃縮ポーションタイプ 4個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏白湯鍋つゆ 濃縮ポーションタイプ 8個入（1個1人前）",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_tori_paitan_nabe_1.jpg"
+   ],
+   "dishes": [
+    "鶏白湯鍋",
+    "水炊き",
+    "鶏白湯ラーメン",
+    "雑炊"
+   ]
+  },
+  {
+   "base_id": "seasoning_mapo_tofu_sauce",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "麻婆豆腐の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "豚肉",
+    "ごま"
+   ],
+   "season_months": [],
+   "description": "豆板醤と甜麺醤のコクに、にんにくとしょうがの香りをきかせた麻婆豆腐の素です。豆腐を加えて炒め煮にするだけで、ごはんがすすむ本格的な味わいに仕上がります。辛さは家族で楽しめる中辛から選べます。",
+   "images": [
+    "seasoning_mapo_tofu_sauce_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 麻婆豆腐の素 中辛 3〜4人前×3回分",
+     "brand": "トップバリュ",
+     "size": "3回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆豆腐の素 甘口 3〜4人前×3回分",
+     "brand": "トップバリュ",
+     "size": "3回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆豆腐の素 辛口 3〜4人前×3回分",
+     "brand": "トップバリュ",
+     "size": "3回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 麻婆豆腐の素 中辛 3〜4人前×2回分",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2回分",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 花椒香る 本格麻婆豆腐の素 中辛 2〜3人前",
+     "brand": "トップバリュ セレクト",
+     "size": "2〜3人前",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ひき肉入り 麻婆豆腐の素 中辛 3〜4人前 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_mapo_tofu_sauce_1.jpg",
+    "seasoning_mapo_tofu_sauce_2.jpg"
+   ],
+   "dishes": [
+    "麻婆豆腐",
+    "麻婆茄子",
+    "麻婆丼",
+    "麻婆春雨"
+   ]
+  },
+  {
+   "base_id": "seasoning_hoikoro_sauce",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "description": "甜麺醤のコクと豆板醤のほどよい辛みを合わせた回鍋肉の素です。豚肉とキャベツ、ピーマンを炒めて絡めるだけで、10分ほどで本格中華のおかずが完成します。甘みのある秋キャベツで作るのもおすすめです。",
+   "images": [
+    "seasoning_hoikoro_sauce_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 回鍋肉の素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2回分",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 回鍋肉の素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 甜麺醤仕立て 回鍋肉の素 3〜4人前",
+     "brand": "トップバリュ セレクト",
+     "size": "3〜4人前",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ピリ辛 回鍋肉の素 3〜4人前 90g",
+     "brand": "",
+     "size": "90g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_chinese_sauce_1.jpg",
+    "seasoning_hoikoro_sauce_2.jpg"
+   ],
+   "dishes": [
+    "回鍋肉",
+    "キャベツと豚肉の味噌炒め",
+    "回鍋肉丼"
+   ]
+  },
+  {
+   "base_id": "seasoning_chinjao_sauce",
+   "category_path": [
+    "調味料",
+    "中華調味料",
+    "中華合わせ調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "description": "オイスターソースの旨みとしょうゆの香ばしさが広がる青椒肉絲の素です。細切りの肉とピーマン、たけのこを炒めて合わせるだけで、ごはんによく合う一皿が手早く作れます。調味料を計る手間がなく、平日の時短料理にぴったりです。",
+   "images": [
+    "seasoning_chinjao_sauce_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ 青椒肉絲の素 2〜3人前×2回分",
+     "brand": "トップバリュ",
+     "size": "2回分",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 青椒肉絲の素 3〜4人前",
+     "brand": "トップバリュ ベストプライス",
+     "size": "3〜4人前",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たけのこ入り 青椒肉絲の素 3〜4人前",
+     "brand": "トップバリュ",
+     "size": "3〜4人前",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "オイスターソース香る 青椒肉絲の素 3〜4人前 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [
+    "seasoning_chinese_sauce_2.jpg",
+    "seasoning_chinjao_sauce_2.jpg"
+   ],
+   "dishes": [
+    "青椒肉絲",
+    "青椒肉絲丼",
+    "野菜炒め"
+   ]
+  }
+ ]
+}

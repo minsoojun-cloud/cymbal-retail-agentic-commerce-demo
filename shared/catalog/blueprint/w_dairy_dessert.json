@@ -1,0 +1,3186 @@
+{
+ "category_key": "w_dairy_dessert",
+ "items": [
+  {
+   "base_id": "w_dairy_dessert_yaki_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "焼プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "お弁当のあと"
+   ],
+   "tax_rate": 8,
+   "description": "表面をこんがり焼き上げた香ばしい焼プリン。卵のコクとほろ苦いカラメルの組み合わせが楽しめます。しっかりめの食感で、昔ながらのプリンが好きな方におすすめです。食後のデザートにも。",
+   "image_brief": "Three small round plastic cups of baked custard pudding with a caramelized browned top, sealed with clear film lids and a blank paper sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼プリン 85g×3個",
+     "brand": "Cymbal",
+     "size": "85g×3個",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 焼プリン 70g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×4個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼プリン 大きめ 1個 140g",
+     "brand": "Cymbal",
+     "size": "1個 140g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 窯焼き 濃厚焼プリン 1個 110g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 110g",
+     "price_tax_excluded": 198,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "メゾン・ルミエ 焦がしキャラメル焼プリン 1個 100g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 100g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_yaki_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_nameraka_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "なめらかプリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "ご褒美スイーツ"
+   ],
+   "tax_rate": 8,
+   "description": "生クリームを合わせて口どけよく仕上げた、とろけるようななめらかプリン。底のカラメルソースとからめるとほどよい甘さに。スプーンが止まらない、やさしい舌ざわりです。",
+   "image_brief": "A clear plastic cup of pale yellow silky smooth pudding with a thin layer of dark caramel sauce at the bottom, plain white foil lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal なめらかプリン 1個 120g",
+     "brand": "Cymbal",
+     "size": "1個 120g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal なめらかプリン 75g×3個",
+     "brand": "Cymbal",
+     "size": "75g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック とろけるなめらかプリン 60g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "60g×4個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道生クリーム使用 なめらかプリン 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産生クリーム使用"
+    },
+    {
+     "title": "メゾン・ルミエ なめらかプリン ホイップのせ 1個 130g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 130g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_nameraka_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_katame_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "固めプリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "喫茶店風おやつ",
+    "プリンアラモード",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "卵をたっぷり使い、蒸し焼きでしっかり固めに仕上げた喫茶店風のレトロプリン。スプーンを入れると弾むような食感で、ほろ苦いカラメルとの相性も抜群。お皿にあけても形が崩れにくいです。",
+   "image_brief": "A firm upside-down retro custard pudding turned out on a small white plate with dark caramel dripping down its sides, next to its plain clear cup, studio shot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 昔ながらの固めプリン 1個 130g",
+     "brand": "Cymbal",
+     "size": "1個 130g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 固めプリン 90g×2個",
+     "brand": "Cymbal",
+     "size": "90g×2個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 喫茶店風 かためプリン 1個 150g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 150g",
+     "price_tax_excluded": 228,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "タマゴノモリ たまご屋さんの固めプリン 1個 120g",
+     "brand": "タマゴノモリ",
+     "size": "1個 120g",
+     "price_tax_excluded": 258,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "Cymbal ベーシック 固めプリン ミニ 55g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "55g×4個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_katame_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_jersey_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "牛乳プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ジャージー種の牛乳を使った、ミルク感たっぷりのやさしいプリン。乳脂肪のコクとほんのりとした甘みが特徴で、カラメルなしでも満足感のある味わい。お子さまのおやつにも人気です。",
+   "image_brief": "A tall glass-like clear plastic bottle of creamy white milk pudding with a plain kraft paper lid tied with string, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジャージー牛乳プリン 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 158,
+     "origin": "ジャージー牛乳使用"
+    },
+    {
+     "title": "Cymbal ジャージー牛乳プリン 75g×3個",
+     "brand": "Cymbal",
+     "size": "75g×3個",
+     "price_tax_excluded": 228,
+     "origin": "ジャージー牛乳使用"
+    },
+    {
+     "title": "ミルキーファーム 牧場のジャージー牛乳プリン びん入り 1個 90g",
+     "brand": "ミルキーファーム",
+     "size": "1個 90g",
+     "price_tax_excluded": 278,
+     "origin": "岡山県蒜山産ジャージー牛乳使用"
+    },
+    {
+     "title": "Cymbal セレクト ジャージー牛乳プリン 濃厚 1個 120g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 120g",
+     "price_tax_excluded": 238,
+     "origin": "北海道産ジャージー牛乳使用"
+    },
+    {
+     "title": "Cymbal ベーシック ミルクプリン 70g×4個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×4個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_jersey_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_matcha_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "抹茶プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "和風おやつ",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "宇治抹茶を使い、ほろ苦さとミルクのまろやかさをバランスよく仕上げた抹茶プリン。添付の黒みつやあずきを合わせれば和風パフェ気分も楽しめます。抹茶好きの方にぴったり。",
+   "image_brief": "A clear cup of vivid green matcha pudding topped with a small dollop of sweet red bean paste, plain green paper lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 宇治抹茶プリン 1個 110g",
+     "brand": "Cymbal",
+     "size": "1個 110g",
+     "price_tax_excluded": 138,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "Cymbal ベーシック 抹茶プリン 70g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×3個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃い宇治抹茶プリン 黒みつ付 1個 120g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 120g",
+     "price_tax_excluded": 218,
+     "origin": "京都府産宇治抹茶使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 抹茶プリン あずきのせ 1個 130g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個 130g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal 西尾抹茶プリン 75g×2個",
+     "brand": "Cymbal",
+     "size": "75g×2個",
+     "price_tax_excluded": 198,
+     "origin": "愛知県西尾産抹茶使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_matcha_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_choco_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チョコレートプリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "食後のデザート",
+    "バレンタイン"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの香りをしっかり感じられる濃厚チョコレートプリン。とろりとした口どけで、ビター好きにも甘党にも楽しめる味わい。冷やしてそのまま、ホイップを添えてもおいしいです。",
+   "image_brief": "A clear plastic cup of glossy dark brown chocolate pudding with a swirl of whipped cream on top, plain brown film lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃厚チョコレートプリン 1個 110g",
+     "brand": "Cymbal",
+     "size": "1個 110g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チョコプリン 70g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×3個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ベルギーチョコレート使用 ショコラプリン 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 228,
+     "origin": "ベルギー産チョコレート使用"
+    },
+    {
+     "title": "メゾン・ルミエ ビターショコラプリン 1個 95g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 95g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコプリン ホイップのせ 1個 130g",
+     "brand": "Cymbal",
+     "size": "1個 130g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_choco_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kurogoma_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "和風プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "和風おやつ",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく煎った黒ごまをたっぷり練り込んだ、コク深い黒ごまプリン。ごまの風味がしっかり広がり、甘さは控えめ。きなこや黒みつを添えるのもおすすめの大人向けデザートです。",
+   "image_brief": "A clear cup of dark grey black sesame pudding with visible fine sesame specks, topped with a few whole sesame seeds, plain black film lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒ごまプリン 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒ごまプリン 70g×3個",
+     "brand": "Cymbal",
+     "size": "70g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 練り黒ごまプリン 1個 110g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 110g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 黒ごまプリン 黒みつ付 1個 120g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個 120g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白ごまプリン 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kurogoma_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_mango_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "マンゴープリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "中華のあとに",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "マンゴーピューレをたっぷり使った、南国の香りあふれるマンゴープリン。濃厚な果実感とミルクのまろやかさが調和し、エバミルクをかけると本格的な味わいに。中華料理の締めにもおすすめ。",
+   "image_brief": "A clear cup of bright orange mango pudding with small mango cubes on top and a little cup of white evaporated milk sauce beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マンゴープリン 1個 120g",
+     "brand": "Cymbal",
+     "size": "1個 120g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック マンゴープリン 70g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×3個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アルフォンソマンゴー使用 マンゴープリン 1個 110g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 110g",
+     "price_tax_excluded": 218,
+     "origin": "インド産マンゴーピューレ使用"
+    },
+    {
+     "title": "Cymbal 果肉入りマンゴープリン ミルクソース付 1個 130g",
+     "brand": "Cymbal",
+     "size": "1個 130g",
+     "price_tax_excluded": 158,
+     "origin": "タイ産マンゴー使用"
+    },
+    {
+     "title": "Cymbal マンゴープリン 大容量 380g",
+     "brand": "Cymbal",
+     "size": "380g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_mango_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_big_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "大容量プリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "家族のおやつ",
+    "パーティー",
+    "取り分けデザート"
+   ],
+   "tax_rate": 8,
+   "description": "家族みんなで取り分けて楽しめる大容量のカスタードプリン。たっぷりサイズなのにくちどけはなめらか。お皿にひっくり返せば迫力満点で、誕生日やホームパーティーの盛り上げ役にもなります。",
+   "image_brief": "A large wide plastic tub of golden custard pudding with dark caramel, a plain white tamper-proof lid set beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジャンボカスタードプリン 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ジャンボカスタードプリン 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ファミリーサイズ なめらかプリン 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ビッグ焼プリン 350g",
+     "brand": "Cymbal セレクト",
+     "size": "350g",
+     "price_tax_excluded": 428,
+     "origin": "国産卵使用"
+    },
+    {
+     "title": "メゾン・ルミエ みんなで取り分け バケツプリン 800g",
+     "brand": "メゾン・ルミエ",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_big_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_creme_brulee",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "クレームブリュレ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "ディナーのデザート",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "濃厚なカスタードクリームの表面に砂糖をキャラメリゼした、パリッと香ばしいクレームブリュレ。スプーンで割る楽しさと、とろける中身のコントラストが魅力。おうちで手軽に本格デザートを。",
+   "image_brief": "A shallow round ceramic-style ramekin of creme brulee with a glossy amber caramelized sugar crust, one spoon resting beside it, plain backdrop studio shot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クレームブリュレ 1個 90g",
+     "brand": "Cymbal",
+     "size": "1個 90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal クレームブリュレ 70g×2個",
+     "brand": "Cymbal",
+     "size": "70g×2個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト バニラビーンズ入り クレームブリュレ 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 278,
+     "origin": "マダガスカル産バニラ使用"
+    },
+    {
+     "title": "メゾン・ルミエ ほうじ茶クレームブリュレ 1個 90g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 90g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さつまいもブリュレ 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 238,
+     "origin": "国産さつまいも使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_creme_brulee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_purin_a_la_mode",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "プリンアラモード"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳",
+    "もも",
+    "キウイフルーツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "喫茶店気分",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "固めのプリンを主役に、ホイップクリームと黄桃・キウイ・いちごなどのフルーツを盛り合わせた喫茶店風プリンアラモード。見た目も華やかで、休日のおやつや小さなご褒美にぴったりです。",
+   "image_brief": "A clear oval plastic boat-shaped container holding a firm custard pudding surrounded by whipped cream, yellow peach slices, kiwi and strawberry, clear dome lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal プリンアラモード 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal プリンアラモード ミニ 1個 小",
+     "brand": "Cymbal",
+     "size": "1個 小",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト フルーツたっぷり プリンアラモード 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ レトロ喫茶のプリンアラモード 1個",
+     "brand": "メゾン・ルミエ",
+     "size": "1個",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック プリンアラモード 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_purin_a_la_mode_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_imo_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "季節のプリン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋のおやつ",
+    "食後のデザート",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとり甘い国産さつまいもをペーストにして練り込んだ、秋限定のおいもプリン。ほっくりとした芋の風味とカラメルの香ばしさがよく合います。紫いもや栗のプリンもご用意しました。",
+   "image_brief": "A clear cup of pale golden sweet potato pudding topped with a small piece of roasted sweet potato with purple skin, plain kraft lid, autumnal studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紅はるか使用 おいもプリン 1個 110g",
+     "brand": "Cymbal",
+     "size": "1個 110g",
+     "price_tax_excluded": 158,
+     "origin": "茨城県産紅はるか使用"
+    },
+    {
+     "title": "Cymbal さつまいもプリン 70g×3個",
+     "brand": "Cymbal",
+     "size": "70g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 安納芋のとろけるプリン 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 238,
+     "origin": "鹿児島県種子島産安納芋使用"
+    },
+    {
+     "title": "Cymbal 紫いもプリン 1個 110g",
+     "brand": "Cymbal",
+     "size": "1個 110g",
+     "price_tax_excluded": 158,
+     "origin": "沖縄県産紫いも使用"
+    },
+    {
+     "title": "Cymbal セレクト 和栗のマロンプリン 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 258,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_imo_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_natadecoco_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ナタデココゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "お弁当のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "コリコリ食感のナタデココをたっぷり入れたフルーツゼリー。ぷるんとしたゼリーとの食感の違いが楽しく、すっきりした甘さで食後にもぴったり。冷蔵庫に常備しておきたい定番おやつです。白桃入りのタイプもあります。",
+   "image_brief": "A round clear plastic cup of translucent jelly filled with white cubes of nata de coco and colorful fruit pieces, sealed with a blank film lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ナタデココ入り フルーツミックスゼリー 1個 270g",
+     "brand": "Cymbal",
+     "size": "1個 270g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ナタデココ入り ぶどうゼリー 1個 270g",
+     "brand": "Cymbal",
+     "size": "1個 270g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ナタデココゼリー アロエ入り 1個 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 250g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ナタデココゼリー ミニ 3種アソート 80g×6個",
+     "brand": "Cymbal",
+     "size": "80g×6個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 白桃とナタデココのゼリー 1個 230g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 230g",
+     "price_tax_excluded": 178,
+     "origin": "国産白桃使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_natadecoco_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kocha_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "紅茶・お茶ゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "ティータイム",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "香り高い紅茶を抽出してゼリーにし、まろやかなミルクソースを添えました。すっきりとした渋みとミルクの甘みが好相性。ほうじ茶や抹茶のゼリーも揃え、甘さ控えめのデザートを探している方に。",
+   "image_brief": "A clear cup of amber tea jelly with a small separate portion cup of white milk sauce on top, plain cream colored lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アールグレイ紅茶ゼリー ミルクソース付 1個 160g",
+     "brand": "Cymbal",
+     "size": "1個 160g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミルクティーゼリー 75g×3個",
+     "brand": "Cymbal",
+     "size": "75g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ほうじ茶ゼリー クリームのせ 1個 150g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 150g",
+     "price_tax_excluded": 198,
+     "origin": "国産ほうじ茶使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 抹茶ゼリー 黒みつ付 1個 140g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個 140g",
+     "price_tax_excluded": 198,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "メゾン・ルミエ ダージリン紅茶ゼリー 1個 130g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 130g",
+     "price_tax_excluded": 238,
+     "origin": "インド産茶葉使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kocha_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_la_france_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "季節のフルーツゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋のおやつ",
+    "食後のデザート",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "秋に旬を迎える果物を果肉ごと閉じ込めた季節限定ゼリー。ラ・フランスのとろける甘さや、りんご・ぶどうのみずみずしさをそのまま楽しめます。冷やしてどうぞ、ちょっとした手土産にも。",
+   "image_brief": "A clear tall cup of pale translucent jelly with large chunks of pear inside, sealed with a blank kraft colored lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ラ・フランス果肉ゼリー 1個 230g",
+     "brand": "Cymbal",
+     "size": "1個 230g",
+     "price_tax_excluded": 178,
+     "origin": "山形県産ラ・フランス使用"
+    },
+    {
+     "title": "Cymbal ふじりんご果肉ゼリー 1個 230g",
+     "brand": "Cymbal",
+     "size": "1個 230g",
+     "price_tax_excluded": 158,
+     "origin": "青森県産ふじ使用"
+    },
+    {
+     "title": "Cymbal 巨峰ゼリー 1個 230g",
+     "brand": "Cymbal",
+     "size": "1個 230g",
+     "price_tax_excluded": 168,
+     "origin": "長野県産巨峰果汁使用"
+    },
+    {
+     "title": "Cymbal セレクト シャインマスカット果肉ゼリー 1個 200g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 200g",
+     "price_tax_excluded": 258,
+     "origin": "国産シャインマスカット使用"
+    },
+    {
+     "title": "Cymbal 柿ゼリー 1個 200g",
+     "brand": "Cymbal",
+     "size": "1個 200g",
+     "price_tax_excluded": 168,
+     "origin": "奈良県産柿使用"
+    },
+    {
+     "title": "Cymbal セレクト 秋の果実ゼリー 3種詰合せ 200g×3個",
+     "brand": "Cymbal セレクト",
+     "size": "200g×3個",
+     "price_tax_excluded": 698,
+     "origin": "国産果実使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_la_france_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_yuzu_jelly",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "柑橘ゼリー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "冬のおやつ",
+    "食後のデザート",
+    "お鍋のあとに"
+   ],
+   "tax_rate": 8,
+   "description": "柚子の果汁と皮を使い、さわやかな香りを閉じ込めた柑橘ゼリー。こってりした料理や鍋のあとでも口の中がすっきりします。冬に旬を迎える国産柑橘のバリエーションもご用意しました。",
+   "image_brief": "A clear round cup of pale yellow translucent citrus jelly with fine yuzu peel strands suspended inside, plain white lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 柚子ゼリー 1個 160g",
+     "brand": "Cymbal",
+     "size": "1個 160g",
+     "price_tax_excluded": 138,
+     "origin": "高知県産柚子使用"
+    },
+    {
+     "title": "Cymbal ベーシック 柚子ゼリー 1個 140g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 140g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト はちみつ柚子ゼリー 1個 150g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 150g",
+     "price_tax_excluded": 198,
+     "origin": "高知県産柚子使用"
+    },
+    {
+     "title": "Cymbal デコポン果肉ゼリー 1個 220g",
+     "brand": "Cymbal",
+     "size": "1個 220g",
+     "price_tax_excluded": 198,
+     "origin": "熊本県産デコポン使用"
+    },
+    {
+     "title": "Cymbal すだちとかぼすのゼリー 1個 160g",
+     "brand": "Cymbal",
+     "size": "1個 160g",
+     "price_tax_excluded": 158,
+     "origin": "徳島県産すだち・大分県産かぼす使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_yuzu_jelly_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_fruit_punch",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "フルーツポンチ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "もも",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "黄桃・パイン・みかん・さくらんぼなどのフルーツと白玉を、甘酸っぱいシロップに浮かべたフルーツポンチ。そのままはもちろん、サイダーを注いで楽しむのもおすすめ。みんなで取り分けられる大容量も。",
+   "image_brief": "A clear plastic cup filled with colorful mixed fruit pieces, white mochi balls and a red cherry in clear syrup, blank film lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白玉フルーツポンチ 1個 220g",
+     "brand": "Cymbal",
+     "size": "1個 220g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フルーツポンチ 1個 200g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 200g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミックスフルーツポンチ 大容量 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ぜいたくフルーツポンチ 1個 250g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 250g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ナタデココ入り フルーツポンチ 1個 220g",
+     "brand": "Cymbal",
+     "size": "1個 220g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_fruit_punch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_bavarois",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ババロア"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "おもてなし",
+    "お子さまのおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "卵黄と生クリームをゼラチンでふんわり固めた、口どけのよいババロア。ほどよい弾力となめらかさがあり、懐かしい味わいです。バニラ、いちご、マンゴーなど色とりどりのフレーバーで食卓が華やぎます。",
+   "image_brief": "Three small fluted dome-shaped bavarois in pastel pink, cream and orange on a white tray inside a clear plastic case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バニラババロア 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごババロア 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ババロア 3種アソート 70g×3個",
+     "brand": "Cymbal",
+     "size": "70g×3個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック マンゴーババロア 1個 90g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 90g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道ミルクの濃厚ババロア 1個 110g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 110g",
+     "price_tax_excluded": 218,
+     "origin": "北海道産生クリーム使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_bavarois_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_choco_mousse",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チョコレートムース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "大豆",
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "食後のデザート",
+    "バレンタイン"
+   ],
+   "tax_rate": 8,
+   "description": "空気を含ませた軽い食感と濃厚なカカオ感を両立したチョコレートムース。口に入れるとふわっとほどけ、ビターな余韻が広がります。コーヒーや紅茶と一緒にゆったりと味わいたいデザートです。",
+   "image_brief": "A clear plastic cup of airy dark chocolate mousse dusted with cocoa powder and topped with a curl of chocolate, plain lid set aside, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコレートムース 1個 80g",
+     "brand": "Cymbal",
+     "size": "1個 80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チョコレートムース 60g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "60g×3個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カカオ70% ビターショコラムース 1個 85g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 85g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ ホワイトチョコムース ベリーソース 1個 90g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 90g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ オレンジショコラムース 1個 90g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 90g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_choco_mousse_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_fruit_mousse",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "フルーツムース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "ゼラチン",
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "ティータイム",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "果実のピューレをホイップクリームと合わせ、ふんわり軽く仕上げたフルーツムース。いちごの甘酸っぱさやマンゴーの濃厚さなど、素材の味がしっかり。パステルカラーで見た目もかわいらしい一品です。",
+   "image_brief": "A clear cup of pale pink strawberry mousse with a layer of red berry sauce on top and a mint leaf, plain white lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごムース 1個 80g",
+     "brand": "Cymbal",
+     "size": "1個 80g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal マンゴームース 1個 80g",
+     "brand": "Cymbal",
+     "size": "1個 80g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラズベリームース 1個 85g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 85g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック フルーツムース 3種アソート 60g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "60g×3個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ピーチムース 1個 80g",
+     "brand": "Cymbal",
+     "size": "1個 80g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_fruit_mousse_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_blancmange",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ブラマンジェ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "アーモンド",
+    "ゼラチン"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "ティータイム",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンドミルクの香りを生かした、真っ白でなめらかなブラマンジェ。上品でやさしい甘さに、ベリーやマンゴーのソースが彩りを添えます。軽い口当たりで、食事のあとでもすっと食べられます。",
+   "image_brief": "A pure white smooth blancmange in a clear cup topped with a glossy red berry coulis and a few toasted almond slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ブラマンジェ ベリーソース 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ブラマンジェ マンゴーソース 1個 100g",
+     "brand": "Cymbal",
+     "size": "1個 100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アーモンドミルク ブラマンジェ 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 228,
+     "origin": "スペイン産アーモンド使用"
+    },
+    {
+     "title": "Cymbal ベーシック ブラマンジェ プレーン 70g×3個",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×3個",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ ココナッツブラマンジェ 1個 95g",
+     "brand": "メゾン・ルミエ",
+     "size": "1個 95g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_blancmange_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_choco_terrine",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "チョコレートテリーヌ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "ワインのお供",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "チョコレートをたっぷり使い、低温でじっくり焼き上げたチョコレートテリーヌ。生チョコのようにねっとり濃厚な口どけで、少量でも満足感のある大人のスイーツ。切り分けておもてなしにも。",
+   "image_brief": "A rectangular slab of dense dark chocolate terrine on a white paper tray dusted with cocoa, inside a clear plastic case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 濃厚チョコレートテリーヌ 1本 180g",
+     "brand": "Cymbal",
+     "size": "1本 180g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコレートテリーヌ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ショコラテリーヌ プレミアム 1本 220g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 220g",
+     "price_tax_excluded": 798,
+     "origin": "ベルギー産チョコレート使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 抹茶テリーヌ 1本 180g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1本 180g",
+     "price_tax_excluded": 598,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "メゾン・ルミエ ラムレーズン入り ショコラテリーヌ 1本 200g",
+     "brand": "メゾン・ルミエ",
+     "size": "1本 200g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_choco_terrine_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_cookie_choux",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "シュークリーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "クッキー生地をのせて焼いた、ザクザク食感が楽しいクッキーシュー。中には甘さ控えめのカスタードクリームがたっぷり。香ばしい皮となめらかなクリームのコントラストが魅力です。",
+   "image_brief": "A round choux puff with a crackly golden cookie crust top and powdered sugar, on a small white paper cup inside a clear bag with a blank sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ザクザククッキーシュー 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック クッキーシュー 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト クッキーシュー ダブルクリーム 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "北海道産生クリーム使用"
+    },
+    {
+     "title": "Cymbal チョコクッキーシュー 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニクッキーシュー 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ パリパリパイシュー カスタード 1個",
+     "brand": "メゾン・ルミエ",
+     "size": "1個",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_cookie_choux_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_matcha_roll",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "ロールケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "手土産",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "抹茶を練り込んだしっとりスポンジで、抹茶クリームやあずきを巻き込んだ和風ロールケーキ。ほろ苦い抹茶の香りとクリームの甘みがよく合い、緑茶にもコーヒーにも好相性です。",
+   "image_brief": "A green matcha sponge roll cake with a spiral of white cream and red bean visible at the cut end, on a white paper board in a clear case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 宇治抹茶ロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 398,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "Cymbal 抹茶ロールケーキ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 抹茶あずきロール 1本 5人分",
+     "brand": "和菓子処 さくら庵",
+     "size": "1本 5人分",
+     "price_tax_excluded": 598,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 濃い抹茶ロール 1本 4〜5人分",
+     "brand": "Cymbal セレクト",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 698,
+     "origin": "京都府産宇治抹茶使用"
+    },
+    {
+     "title": "Cymbal ベーシック 抹茶ロールケーキ ミニ 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_matcha_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_fruit_roll",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "フルーツロールケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "もも",
+    "キウイフルーツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "パーティー",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "ふわふわのスポンジにホイップクリームと色とりどりのフルーツをたっぷり巻き込んだフルーツロール。切り口が華やかで、家族の集まりや誕生日のテーブルにもぴったりです。",
+   "image_brief": "A soft vanilla sponge roll cake with whipped cream and colorful fruit pieces like strawberry, peach and kiwi visible at the cut end, clear plastic case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フルーツロールケーキ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト マンゴーロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal セレクト",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミックスフルーツロール ハーフ 1本 2〜3人分",
+     "brand": "Cymbal ベーシック",
+     "size": "1本 2〜3人分",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_fruit_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kuri_roll",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "秋のロールケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋のおやつ",
+    "手土産",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "栗の甘露煮とマロンクリームをたっぷり巻き込んだ、秋限定のロールケーキ。ほっくりとした栗の風味としっとりしたスポンジが好相性。季節の手土産や、ちょっと贅沢なおやつにおすすめです。",
+   "image_brief": "A light brown chestnut sponge roll cake with marron cream and whole candied chestnuts visible at the cut end, on a white board in a clear case, autumn studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 栗のロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 548,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal マロンロールケーキ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 和栗のモンブランロール 1本 5人分",
+     "brand": "Cymbal セレクト",
+     "size": "1本 5人分",
+     "price_tax_excluded": 898,
+     "origin": "国産和栗使用"
+    },
+    {
+     "title": "Cymbal さつまいもロールケーキ 1本 4〜5人分",
+     "brand": "Cymbal",
+     "size": "1本 4〜5人分",
+     "price_tax_excluded": 498,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal ベーシック かぼちゃロールケーキ 1本 3〜4人分",
+     "brand": "Cymbal ベーシック",
+     "size": "1本 3〜4人分",
+     "price_tax_excluded": 398,
+     "origin": "北海道産かぼちゃ使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kuri_roll_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_souffle_cheesecake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "スフレチーズケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "メレンゲをたっぷり合わせて湯煎焼きにした、ふわふわしゅわっと口どけるスフレチーズケーキ。クリームチーズのやさしい酸味と軽い食感で、重たいケーキが苦手な方にもおすすめです。",
+   "image_brief": "A round golden-topped fluffy souffle cheesecake with a slightly cracked surface, on a paper board inside a clear round case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スフレチーズケーキ 1台 5号",
+     "brand": "Cymbal",
+     "size": "1台 5号",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スフレチーズケーキ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ふわしゅわスフレチーズ ミニ 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道クリームチーズのスフレチーズケーキ 1台 5号",
+     "brand": "Cymbal セレクト",
+     "size": "1台 5号",
+     "price_tax_excluded": 898,
+     "origin": "北海道産クリームチーズ使用"
+    },
+    {
+     "title": "メゾン・ルミエ レモンスフレチーズケーキ 1台 4号",
+     "brand": "メゾン・ルミエ",
+     "size": "1台 4号",
+     "price_tax_excluded": 798,
+     "origin": "瀬戸内産レモン使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_souffle_cheesecake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_basque_cheesecake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "バスクチーズケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご褒美スイーツ",
+    "ワインのお供",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "表面を高温で真っ黒に焼き上げた、香ばしさととろける中身が魅力のバスクチーズケーキ。濃厚なチーズのコクにほろ苦さが加わり、コーヒーやワインにもよく合います。おもてなしにも。",
+   "image_brief": "A round Basque-style burnt cheesecake with a deeply caramelized dark top and creamy cut interior, wrapped in rustic parchment paper on a board, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バスクチーズケーキ 1台 4号",
+     "brand": "Cymbal",
+     "size": "1台 4号",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バスクチーズケーキ カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト とろけるバスクチーズケーキ プレミアム 1台 5号",
+     "brand": "Cymbal セレクト",
+     "size": "1台 5号",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産クリームチーズ使用"
+    },
+    {
+     "title": "Cymbal ベーシック バスクチーズケーキ ミニ 1個 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ ショコラバスクチーズケーキ 1台 4号",
+     "brand": "メゾン・ルミエ",
+     "size": "1台 4号",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_basque_cheesecake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_montblanc",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "モンブラン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋のおやつ",
+    "ご褒美スイーツ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "栗のペーストを細く絞り出し、中に生クリームとメレンゲを閉じ込めた秋の定番モンブラン。和栗のやさしい甘さと洋栗の濃厚さ、それぞれの味わいを選べます。季節のご褒美にどうぞ。",
+   "image_brief": "Two cone-shaped Mont Blanc cakes piped with fine strands of light brown chestnut cream and topped with a glazed chestnut, on paper cups in a clear case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 和栗のモンブラン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国産和栗使用"
+    },
+    {
+     "title": "Cymbal ベーシック モンブラン 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 熊本県産和栗のモンブラン 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "熊本県産和栗使用"
+    },
+    {
+     "title": "Cymbal カップモンブラン 1個 120g",
+     "brand": "Cymbal",
+     "size": "1個 120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "メゾン・ルミエ 渋皮栗のモンブラン 1個",
+     "brand": "メゾン・ルミエ",
+     "size": "1個",
+     "price_tax_excluded": 458,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal 紫いものモンブラン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 348,
+     "origin": "国産紫いも使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_montblanc_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_chiffon_cake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "シフォンケーキ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "朝食に"
+   ],
+   "tax_rate": 8,
+   "description": "卵白をしっかり泡立てて焼き上げた、ふわふわでしっとりのシフォンケーキ。ホイップクリームを添えたカットタイプは、そのままフォークで食べられて便利。紅茶やコーヒーのお供にどうぞ。",
+   "image_brief": "A tall slice of fluffy pale yellow chiffon cake with a generous dollop of whipped cream on a white paper tray inside a clear wedge-shaped case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホイップシフォンケーキ プレーン 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 紅茶シフォンケーキ ホイップ添え 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 抹茶シフォンケーキ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "Cymbal シフォンケーキ ホール 1台 15cm",
+     "brand": "Cymbal",
+     "size": "1台 15cm",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック シフォンケーキ カット 2切入",
+     "brand": "Cymbal ベーシック",
+     "size": "2切入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_chiffon_cake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_crepe",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "クレープ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "食べ歩き気分"
+   ],
+   "tax_rate": 8,
+   "description": "もっちりとしたクレープ生地でホイップクリームとカスタードを包んだチルドクレープ。いちごやバナナ、チョコなど定番の具材を揃えました。手軽にお店気分を味わえるおやつです。",
+   "image_brief": "A folded triangle crepe wrapped in a plain paper cone with whipped cream and banana slices peeking out, inside a clear film bag, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホイップ&カスタード クレープ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコバナナクレープ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト いちごクレープ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニクレープ アソート 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 抹茶あずきクレープ 1個",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_crepe_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_maritozzo",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "マリトッツォ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "大豆",
+    "オレンジ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ブランチ",
+    "ティータイム"
+   ],
+   "tax_rate": 8,
+   "description": "ブリオッシュ生地のパンに、軽やかなホイップクリームをたっぷりサンドしたマリトッツォ。オレンジピールのさわやかな香りがアクセント。フルーツやピスタチオなどのバリエーションも楽しめます。",
+   "image_brief": "A round glossy brioche bun split open and overflowing with a thick band of white whipped cream, dusted with powdered sugar, in a clear plastic case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal マリトッツォ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック マリトッツォ ミニ 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごマリトッツォ 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ピスタチオマリトッツォ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 あんバターマリトッツォ 1個",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個",
+     "price_tax_excluded": 248,
+     "origin": "北海道産小豆使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_maritozzo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kuzumochi",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "くず餅"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "和風デザート"
+   ],
+   "tax_rate": 8,
+   "description": "小麦でんぷんを乳酸発酵させて蒸し上げた、関東風のくず餅。もっちりとした弾力とほのかな酸味があり、香ばしいきなこと濃厚な黒みつをかけて味わいます。本葛を使ったぷるんとなめらかなタイプもご用意しました。",
+   "image_brief": "Translucent pale grey triangular kuzumochi pieces in a plain plastic tray with small packets of golden kinako powder and black syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 関東風 くず餅 黒みつきなこ付 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック くず餅 180g",
+     "brand": "Cymbal ベーシック",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くず餅 黒みつきなこ付 小分け 100g×2個",
+     "brand": "Cymbal",
+     "size": "100g×2個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 沖縄黒糖みつのくず餅 300g",
+     "brand": "和菓子処 さくら庵",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "Cymbal セレクト 吉野本葛 くず餅 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "奈良県吉野産本葛使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kuzumochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_mitarashi_dango",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "団子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "お月見"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかな上新粉の団子を香ばしく焼き、甘じょっぱいみたらしあんをたっぷりからめました。もちもち食感と醤油の香ばしさがクセになる定番の和菓子。お茶請けや小腹がすいたときにぴったりです。",
+   "image_brief": "Three wooden skewers each holding four lightly grilled rice dumplings glazed with glossy amber mitarashi sauce, in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック みたらし団子 5本入",
+     "brand": "Cymbal ベーシック",
+     "size": "5本入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きみたらし団子 3本入",
+     "brand": "Cymbal セレクト",
+     "size": "3本入",
+     "price_tax_excluded": 278,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal ひとくちみたらし団子 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 みたらし団子 たっぷりたれ 4本入",
+     "brand": "和菓子処 さくら庵",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "国産うるち米使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_mitarashi_dango_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_an_dango",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "あん団子・三色団子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "お花見",
+    "お月見"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかなお団子に、北海道産小豆のこしあんやつぶあんをたっぷりのせたあん団子。よもぎ団子や三色団子もそろえ、行楽やお月見、毎日のお茶請けに。もちもちの食感とやさしい甘さが魅力です。",
+   "image_brief": "Skewered rice dumplings topped with dark red bean paste alongside pink, white and green three-color dumplings, in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つぶあん団子 3本入",
+     "brand": "Cymbal",
+     "size": "3本入",
+     "price_tax_excluded": 178,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 よもぎ団子 つぶあんのせ 3本入",
+     "brand": "和菓子処 さくら庵",
+     "size": "3本入",
+     "price_tax_excluded": 248,
+     "origin": "国産よもぎ使用"
+    },
+    {
+     "title": "Cymbal ベーシック あん団子・みたらし団子 詰合せ 4本入",
+     "brand": "Cymbal ベーシック",
+     "size": "4本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_an_dango_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_ohagi",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "おはぎ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お彼岸",
+    "お茶の時間",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もち米とうるち米を合わせてふっくら炊き上げ、つぶあん・きなこ・ごまで包んだおはぎ。ほどよい甘さで素朴な味わいです。お彼岸のお供えにはもちろん、毎日のおやつにも親しまれています。",
+   "image_brief": "Three oval ohagi rice cakes coated in coarse red bean paste, golden kinako and black sesame, arranged in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おはぎ つぶあん 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal おはぎ 3種詰合せ 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック おはぎ きなこ 2個入",
+     "brand": "Cymbal ベーシック",
+     "size": "2個入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal おはぎ 黒ごま 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 大粒 こしあんおはぎ 2個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道十勝産小豆使用"
+    },
+    {
+     "title": "Cymbal セレクト ミニおはぎ 6種詰合せ 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_ohagi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_mame_daifuku",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "豆大福"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "塩気のきいた赤えんどう豆をちりばめたやわらかなお餅で、甘さ控えめのつぶあんを包んだ豆大福。豆の塩味があんこの甘さを引き立てます。よもぎ大福や塩大福など、定番の味を揃えました。",
+   "image_brief": "Two round white mochi daifuku studded with dark red peas, lightly dusted with starch, in a clear plastic tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 豆大福 3個入",
+     "brand": "Cymbal ベーシック",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 よもぎ豆大福 2個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "2個入",
+     "price_tax_excluded": 258,
+     "origin": "国産よもぎ使用"
+    },
+    {
+     "title": "Cymbal セレクト 塩豆大福 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal こしあん大福 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "北海道産小豆使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_mame_daifuku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_ichigo_daifuku",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "いちご大福"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "お茶の時間",
+    "手土産",
+    "ひなまつり"
+   ],
+   "tax_rate": 8,
+   "description": "大粒のいちごを白あんやこしあんとともにやわらかなお餅で包んだいちご大福。いちごの甘酸っぱさとあんの上品な甘さが絶妙です。冬から春の季節限定。生クリーム入りなど、乳を含む商品もあります。",
+   "image_brief": "A halved strawberry daifuku showing a bright red strawberry surrounded by white bean paste inside soft white mochi, next to a whole one in a clear tray, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちご大福 白あん 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産いちご使用"
+    },
+    {
+     "title": "Cymbal いちご大福 こしあん 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産いちご使用"
+    },
+    {
+     "title": "Cymbal セレクト 大粒いちご大福 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "福岡県産いちご使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 いちご大福 生クリーム入り 2個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "2個入",
+     "price_tax_excluded": 348,
+     "origin": "国産いちご使用"
+    },
+    {
+     "title": "Cymbal ベーシック ミニいちご大福 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産いちご使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_ichigo_daifuku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_dorayaki",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "どら焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "はちみつ入りのふんわり焼き上げた生地で、北海道産小豆のつぶあんをたっぷりはさんだ定番のどら焼き。しっとり食感と香ばしい焼き色が食欲をそそります。栗入りや白あんなどの味も揃えました。",
+   "image_brief": "Two round golden-brown dorayaki pancakes sandwiching thick red bean paste, one cut in half to show the filling, in clear individual wrappers, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal つぶあんどら焼き 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 108,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック どら焼き 3個入",
+     "brand": "Cymbal ベーシック",
+     "size": "3個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗入りどら焼き 1個",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個",
+     "price_tax_excluded": 178,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal セレクト 十勝小豆のどら焼き 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道十勝産小豆使用"
+    },
+    {
+     "title": "Cymbal 白あんどら焼き 1個",
+     "brand": "Cymbal",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミニどら焼き 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_dorayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kuri_mushi_yokan",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "ようかん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "お茶の時間",
+    "秋のおやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "こしあんに小麦粉を合わせて蒸し上げ、栗の甘露煮をたっぷり散らした栗蒸しようかん。もっちりとした食感と栗のほっくり感がよく合います。秋の手土産やお茶の時間にどうぞ。",
+   "image_brief": "A rectangular block of dark red steamed bean paste yokan studded with golden whole chestnuts, cut to show the cross-section, on a bamboo leaf in a clear case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 栗蒸しようかん 1本 300g",
+     "brand": "Cymbal",
+     "size": "1本 300g",
+     "price_tax_excluded": 498,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal 栗蒸しようかん カット 2切入",
+     "brand": "Cymbal",
+     "size": "2切入",
+     "price_tax_excluded": 248,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "Cymbal セレクト 丹波栗の栗蒸しようかん 1本 350g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 350g",
+     "price_tax_excluded": 1080,
+     "origin": "兵庫県丹波産栗使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗蒸しようかん ミニ 4個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "4個入",
+     "price_tax_excluded": 598,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗入り 蒸しようかん 竹皮包み 1本 400g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1本 400g",
+     "price_tax_excluded": 980,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kuri_mushi_yokan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_imo_yokan",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "芋ようかん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "お茶の時間",
+    "秋のおやつ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいもを裏ごしし、砂糖と少しの塩だけで練り固めた素朴な芋ようかん。お芋本来のやさしい甘さとしっとりした舌ざわりが楽しめます。軽くトースターで焼くと香ばしさが増しておすすめです。",
+   "image_brief": "Neat golden-yellow rectangular slices of sweet potato yokan lined up in a clear plastic tray with a plain paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 芋ようかん 1本 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "1本 250g",
+     "price_tax_excluded": 198,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 紅はるかの芋ようかん 5切入",
+     "brand": "Cymbal セレクト",
+     "size": "5切入",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産紅はるか使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 鳴門金時の芋ようかん 1本 300g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1本 300g",
+     "price_tax_excluded": 498,
+     "origin": "徳島県産鳴門金時使用"
+    },
+    {
+     "title": "Cymbal 紫芋ようかん 5切入",
+     "brand": "Cymbal",
+     "size": "5切入",
+     "price_tax_excluded": 278,
+     "origin": "国産紫いも使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_imo_yokan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kintsuba",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "きんつば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "粒のしっかり残った小豆あんを四角く固め、薄い衣をまとわせて一面ずつ焼き上げたきんつば。小豆の風味をダイレクトに味わえる、甘さ控えめの上品な和菓子です。緑茶とともにどうぞ。",
+   "image_brief": "Four square kintsuba cakes with a thin translucent coating showing whole red beans inside, arranged in a plain paper tray in clear film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きんつば 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック きんつば 3個入",
+     "brand": "Cymbal ベーシック",
+     "size": "3個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 十勝小豆のきんつば 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "北海道十勝産小豆使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 芋きんつば 4個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗きんつば 2個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kintsuba_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_shiratama_kinako",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "白玉・くずきり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "和風デザート",
+    "おやつ",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "つるんともちもちの白玉に香ばしいきなこと黒みつを合わせた和風デザート。のどごしのよいくずきりもご用意しました。やさしい甘さで、食後のひと口にも小腹を満たしたいときにもぴったりです。",
+   "image_brief": "A clear plastic cup with glossy white shiratama mochi balls sprinkled with golden kinako and a small packet of black syrup on the side, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白玉 黒みつきなこ 1個 150g",
+     "brand": "Cymbal",
+     "size": "1個 150g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白玉 抹茶みつ 1個 150g",
+     "brand": "Cymbal",
+     "size": "1個 150g",
+     "price_tax_excluded": 188,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 くずきり 黒みつ付 1個 160g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個 160g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 白玉あずき 1個 160g",
+     "brand": "Cymbal ベーシック",
+     "size": "1個 160g",
+     "price_tax_excluded": 148,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 吉野本葛のくずきり 黒みつ付 1個 150g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 150g",
+     "price_tax_excluded": 348,
+     "origin": "奈良県吉野産本葛使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_shiratama_kinako_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_uiro",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "ういろう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お茶の時間",
+    "おやつ",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "米粉と砂糖を練り上げて蒸した、もっちりなめらかなういろう。白・黒糖・抹茶・桜など彩りよく揃え、素朴でやさしい甘さが楽しめます。ひと口サイズの個包装は、来客時のお茶請けにも便利です。",
+   "image_brief": "Neat rectangular bars of smooth chewy uiro in white, brown, green and pink colors, individually wrapped in clear film and arranged in a plain box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ういろう 白 1本 250g",
+     "brand": "Cymbal",
+     "size": "1本 250g",
+     "price_tax_excluded": 248,
+     "origin": "国産米粉使用"
+    },
+    {
+     "title": "Cymbal ういろう 黒糖 1本 250g",
+     "brand": "Cymbal",
+     "size": "1本 250g",
+     "price_tax_excluded": 248,
+     "origin": "沖縄県産黒糖使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 ひとくちういろう 5種詰合せ 10個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "10個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 抹茶ういろう 1本 250g",
+     "brand": "Cymbal セレクト",
+     "size": "1本 250g",
+     "price_tax_excluded": 348,
+     "origin": "宇治抹茶使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗ういろう 1本 300g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1本 300g",
+     "price_tax_excluded": 598,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_uiro_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_kuri_kinton",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "栗きんとん・栗菓子"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "秋のおやつ",
+    "お茶の時間",
+    "手土産"
+   ],
+   "tax_rate": 8,
+   "description": "蒸した栗を裏ごしし、砂糖だけで炊き上げて茶巾に絞った栗きんとん。栗そのものの風味と、ほろりとした口どけが楽しめる秋の和菓子です。季節の手土産や、ゆったりしたお茶の時間にどうぞ。",
+   "image_brief": "Small round twisted chestnut kinton sweets with a cloth-wrapped shape, pale golden color, placed in individual paper cups inside a plain box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 茶巾栗きんとん 3個入",
+     "brand": "Cymbal",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗きんとん 5個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "5個入",
+     "price_tax_excluded": 698,
+     "origin": "岐阜県産栗使用"
+    },
+    {
+     "title": "Cymbal セレクト 栗きんとん 大粒 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 498,
+     "origin": "熊本県産和栗使用"
+    },
+    {
+     "title": "Cymbal ベーシック 栗茶巾 4個入",
+     "brand": "Cymbal ベーシック",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 栗きんとん 渋皮入り 3個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "3個入",
+     "price_tax_excluded": 548,
+     "origin": "国産栗使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_kuri_kinton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_mizu_manju",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "和スイーツ",
+    "水まんじゅう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    6,
+    7,
+    8
+   ],
+   "dishes": [
+    "夏のおやつ",
+    "冷やして",
+    "お茶の時間"
+   ],
+   "tax_rate": 8,
+   "description": "透き通るくず生地で、なめらかなこしあんを包んだ涼やかな水まんじゅう。冷やすとつるんとしたのどごしが楽しめ、暑い季節のおやつにぴったり。抹茶あんや白あんの味もお楽しみください。",
+   "image_brief": "Several translucent round water manju showing dark red bean filling through clear jelly, sitting in small plastic cups on ice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 水まんじゅう こしあん 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 水まんじゅう 3種詰合せ 6個入",
+     "brand": "和菓子処 さくら庵",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 水まんじゅう 5個入",
+     "brand": "Cymbal ベーシック",
+     "size": "5個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 本葛の水まんじゅう 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 548,
+     "origin": "奈良県吉野産本葛使用"
+    },
+    {
+     "title": "Cymbal 水まんじゅう 抹茶あん 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 268,
+     "origin": "宇治抹茶使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_mizu_manju_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_tonyu_purin",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "豆乳デザート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "食後のデザート",
+    "おやつ",
+    "乳製品を控えたいときに"
+   ],
+   "tax_rate": 8,
+   "description": "国産大豆の豆乳を使い、乳製品・卵を使わずになめらかに仕上げた豆乳プリン。大豆のやさしいコクとほどよい甘さで、すっきりと食べられます。黒みつやきなこのソースを添えたタイプも。",
+   "image_brief": "A clear cup of creamy off-white soy milk pudding with a drizzle of dark brown black syrup on top, plain cream colored lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳プリン 1個 110g",
+     "brand": "Cymbal",
+     "size": "1個 110g",
+     "price_tax_excluded": 128,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 豆乳プリン 75g×3個",
+     "brand": "Cymbal",
+     "size": "75g×3個",
+     "price_tax_excluded": 188,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "和菓子処 さくら庵 豆乳プリン 黒みつきなこ 1個 120g",
+     "brand": "和菓子処 さくら庵",
+     "size": "1個 120g",
+     "price_tax_excluded": 198,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機豆乳プリン 1個 100g",
+     "brand": "Cymbal オーガニック",
+     "size": "1個 100g",
+     "price_tax_excluded": 228,
+     "origin": "有機大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 豆乳抹茶プリン 1個 100g",
+     "brand": "Cymbal セレクト",
+     "size": "1個 100g",
+     "price_tax_excluded": 198,
+     "origin": "宇治抹茶使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_tonyu_purin_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_tonyu_yogurt",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳ヨーグルト"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "グラノーラに",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳を乳酸菌で発酵させた植物性のヨーグルト。さっぱりとした酸味とまろやかなコクがあり、グラノーラやフルーツと合わせて朝食にぴったり。乳製品を控えたい方にも選ばれています。",
+   "image_brief": "A white plastic tub of creamy soy yogurt with a plain blank foil lid peeled back halfway showing the smooth surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳ヨーグルト プレーン 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 238,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック 豆乳ヨーグルト 無糖 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆の豆乳ヨーグルト 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 328,
+     "origin": "有機大豆使用"
+    },
+    {
+     "title": "Cymbal 豆乳ヨーグルト 加糖 100g×4個",
+     "brand": "Cymbal",
+     "size": "100g×4個",
+     "price_tax_excluded": 248,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 豆乳ヨーグルト ブルーベリー 100g×3個",
+     "brand": "Cymbal",
+     "size": "100g×3個",
+     "price_tax_excluded": 228,
+     "origin": "国産大豆使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_tonyu_yogurt_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_dessert_tonyu_cheesecake",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "植物性デザート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "ティータイム",
+    "乳製品を控えたいときに"
+   ],
+   "tax_rate": 8,
+   "description": "豆乳とココナッツオイルをベースに、乳製品・卵を使わずに仕上げた植物性のチーズケーキ風デザート。しっとり濃厚な口当たりとレモンのさわやかな酸味が楽しめます。ヴィーガン志向の方にもおすすめ。",
+   "image_brief": "A slice of creamy white plant-based cheesecake-style dessert with a golden crumbly base on a paper tray in a clear wedge case, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳でつくった チーズケーキ風デザート 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 植物性 レモンケーキ風デザート 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 258,
+     "origin": "瀬戸内産レモン使用"
+    },
+    {
+     "title": "メゾン・ルミエ 豆乳ティラミス風デザート 1個",
+     "brand": "メゾン・ルミエ",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 豆乳ショコラケーキ 1個",
+     "brand": "Cymbal セレクト",
+     "size": "1個",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック オーガニック豆乳 ベイクドデザート 1個",
+     "brand": "Cymbal オーガニック",
+     "size": "1個",
+     "price_tax_excluded": 328,
+     "origin": "有機大豆使用"
+    }
+   ],
+   "images": [
+    "w_dairy_dessert_tonyu_cheesecake_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

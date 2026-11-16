@@ -1,0 +1,1199 @@
+{
+ "category_key": "fruit",
+ "items": [
+  {
+   "base_id": "fruit_bunashimeji",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しめじ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "株ごとしっかり詰まった、歯ざわりのよいぶなしめじです。石づきを切ってほぐすだけで使えるので、炒め物や味噌汁、炊き込みご飯に手軽に加えられます。加熱するとうま味がだしに溶け出し、和食の献立がぐっと秋らしくなります。",
+   "images": [
+    "fruit_bunashimeji_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 ぶなしめじ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 98,
+     "origin": "長野県産"
+    },
+    {
+     "title": "新潟県産 ぶなしめじ 大株 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 178,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "国産 ぶなしめじ 3パック（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック ぶなしめじ 100g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_bunashimeji_1.jpg",
+    "fruit_bunashimeji_2.jpg"
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "味噌汁",
+    "きのこのバター醤油炒め",
+    "寄せ鍋",
+    "和風パスタ"
+   ]
+  },
+  {
+   "base_id": "fruit_maitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "まいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "香り高く、シャキッとした歯ごたえが魅力のまいたけです。手で裂いて天ぷらやバター醤油炒めにすると、香ばしい風味が広がります。お吸い物や炊き込みご飯にもよく合う、秋の食卓に欠かせないきのこです。",
+   "images": [
+    "fruit_maitake_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "新潟県産 まいたけ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 158,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "静岡県産 まいたけ 大パック 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 278,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "国産 黒まいたけ 約120g",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック まいたけ 90g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_maitake_1.jpg",
+    "fruit_maitake_2.jpg"
+   ],
+   "dishes": [
+    "天ぷら",
+    "炊き込みご飯",
+    "すき焼き",
+    "まいたけのバター炒め"
+   ]
+  },
+  {
+   "base_id": "fruit_shiitake",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "しいたけ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "肉厚でかさがふっくらと開いた生しいたけです。網焼きにしてお醤油をひとたらしするだけで、ジューシーなうま味があふれます。煮物や鍋物、肉詰めなど、和洋問わず幅広く活躍します。",
+   "images": [
+    "fruit_shiitake_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "徳島県産 生しいたけ 1パック（5〜6個入）",
+     "brand": "",
+     "size": "5〜6個",
+     "price_tax_excluded": 198,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "岩手県産 肉厚生しいたけ 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "国産 菌床生しいたけ 徳用 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "大分県産 原木生しいたけ 約100g",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 348,
+     "origin": "大分県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_shiitake_1.jpg",
+    "fruit_shiitake_2.jpg"
+   ],
+   "dishes": [
+    "筑前煮",
+    "すき焼き",
+    "寄せ鍋",
+    "焼きしいたけ",
+    "茶碗蒸し"
+   ]
+  },
+  {
+   "base_id": "fruit_enoki",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "えのき"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "白く細長い軸がたっぷり詰まった、シャキシャキ食感のえのき茸です。鍋物やスープ、和え物にさっと使えて、お財布にもやさしい定番きのこです。根元を切ってほぐすだけなので、忙しい日の時短料理にもぴったりです。",
+   "images": [
+    "fruit_enoki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 えのき茸 1袋（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 98,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 えのき茸 小分け 3袋（約100g×3）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "新潟県産 えのき茸 大袋 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 178,
+     "origin": "新潟県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_enoki_1.jpg",
+    "fruit_enoki_2.jpg"
+   ],
+   "dishes": [
+    "寄せ鍋",
+    "味噌汁",
+    "えのきのバター炒め",
+    "なめたけ"
+   ]
+  },
+  {
+   "base_id": "fruit_eringi",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "エリンギ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "太くしっかりとした軸が特徴の、コリコリ食感のエリンギです。縦に裂いてソテーやホイル焼きにすると、まるで貝柱のような歯ざわりが楽しめます。くせが少なく、お子さまにも食べやすいきのこです。",
+   "images": [
+    "fruit_eringi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "新潟県産 エリンギ 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 128,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "長野県産 エリンギ 大パック 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 228,
+     "origin": "長野県産"
+    },
+    {
+     "title": "国産 エリンギ 徳用 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_eringi_1.jpg",
+    "fruit_eringi_2.jpg"
+   ],
+   "dishes": [
+    "エリンギのバター醤油炒め",
+    "ソテー",
+    "天ぷら",
+    "パスタ"
+   ]
+  },
+  {
+   "base_id": "fruit_kinoko_mix",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "きのこミックス"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "しいたけ・えのき・マッシュルーム・ぶなしめじなど、数種類のきのこを詰め合わせた便利なきのこミックスです。鍋物や炒め物、パスタ、きのこご飯にそのまま使えます。いろいろなきのこのうま味と食感が一度に楽しめます。",
+   "images": [
+    "fruit_kinoko_mix_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "国産 カットきのこミックス 3種 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 きのこミックス 4種 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産きのこミックス（しめじ・まいたけ・エリンギ）200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 冷凍 きのこミックス 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_kinoko_mix_1.jpg",
+    "fruit_kinoko_mix_2.jpg"
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "きのこの味噌汁",
+    "寄せ鍋",
+    "きのこパスタ",
+    "ホイル焼き"
+   ]
+  },
+  {
+   "base_id": "fruit_nameko",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "なめこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "つるんとしたぬめりが特徴の、小粒でそろったなめこです。お味噌汁やおろし和え、そばのトッピングにぴったり。さっと湯通しするだけで、とろりとした食感が楽しめます。",
+   "images": [
+    "fruit_nameko_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "新潟県産 なめこ 1袋（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 88,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "山形県産 なめこ 3袋（約100g×3）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 238,
+     "origin": "山形県産"
+    },
+    {
+     "title": "福島県産 株採りなめこ 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 248,
+     "origin": "福島県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_nameko_1.jpg",
+    "fruit_nameko_2.jpg"
+   ],
+   "dishes": [
+    "なめこの味噌汁",
+    "なめこおろし",
+    "なめこそば"
+   ]
+  },
+  {
+   "base_id": "fruit_mushroom",
+   "category_path": [
+    "野菜・果物",
+    "きのこ",
+    "マッシュルーム"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "白くころんとした、締まりのよいマッシュルームです。スライスしてサラダに生のまま加えたり、アヒージョやクリームシチューに入れたりと、洋風料理で活躍します。加熱すると香りとうま味がぐっと増します。",
+   "images": [
+    "fruit_mushroom_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "千葉県産 ホワイトマッシュルーム 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 198,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "岡山県産 ブラウンマッシュルーム 1パック（約100g）",
+     "brand": "",
+     "size": "約100g",
+     "price_tax_excluded": 228,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "国産 ホワイトマッシュルーム 大パック 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_mushroom_1.jpg",
+    "fruit_mushroom_2.jpg"
+   ],
+   "dishes": [
+    "シチュー",
+    "ハンバーグ",
+    "グラタン",
+    "マッシュルームのアヒージョ"
+   ]
+  },
+  {
+   "base_id": "fruit_nashi",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "梨"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "description": "みずみずしい果汁とシャリシャリとした食感が魅力の国産梨です。よく冷やしてそのまま食べるのはもちろん、すりおろして焼肉のたれに加えるのもおすすめ。10月は甘みと香りがのった豊水や大玉の新高が食べごろです。",
+   "images": [
+    "fruit_nashi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "千葉県産 梨（豊水）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 498,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "鳥取県産 梨（幸水）3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 598,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "新潟県産 梨（新高）大玉 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 398,
+     "origin": "新潟県産"
+    },
+    {
+     "title": "茨城県産 梨（豊水）4〜6玉 袋入",
+     "brand": "",
+     "size": "4〜6玉",
+     "price_tax_excluded": 898,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_nashi_1.jpg",
+    "fruit_nashi_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "フルーツサラダ",
+    "梨のコンポート"
+   ]
+  },
+  {
+   "base_id": "fruit_kaki",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "柿"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "description": "とろけるような甘さとほどよい歯ごたえが楽しめる秋の柿です。皮をむいてそのまま食べるほか、大根と合わせた柿なますや白和えにすると、彩りのよい一品になります。種なし柿はお子さまにも食べやすく、お弁当のデザートにも重宝します。",
+   "images": [
+    "fruit_kaki_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "岐阜県産 富有柿 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 298,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "奈良県産 富有柿 4〜5個 袋入",
+     "brand": "",
+     "size": "4〜5個",
+     "price_tax_excluded": 598,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "和歌山県産 種なし柿（平核無）3個",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 398,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "山形県産 種なし柿（庄内柿）6〜8個 袋入",
+     "brand": "",
+     "size": "6〜8個",
+     "price_tax_excluded": 698,
+     "origin": "山形県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_kaki_1.jpg",
+    "fruit_kaki_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "柿なます",
+    "柿の白和え"
+   ]
+  },
+  {
+   "base_id": "fruit_kuri",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "栗"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10
+   ],
+   "description": "ほくほくとした食感とやさしい甘さが楽しめる、粒のそろった国産の生栗です。ゆで栗や焼き栗はもちろん、栗ご飯にすれば季節感あふれる一品に。下ゆでしてから皮をむくと扱いやすくなります。",
+   "images": [
+    "fruit_kuri_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "茨城県産 生栗 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 698,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "熊本県産 生栗 大粒 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "愛媛県産 生栗 2L 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 980,
+     "origin": "愛媛県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_kuri_1.jpg",
+    "fruit_kuri_2.jpg"
+   ],
+   "dishes": [
+    "栗ご飯",
+    "栗の渋皮煮",
+    "栗きんとん",
+    "ゆで栗"
+   ]
+  },
+  {
+   "base_id": "fruit_amaguri",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "栗"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "description": "殻をむいた状態でそのまま食べられる、ほっくり甘いむき甘栗です。袋を開けてすぐ食べられるので、おやつや小腹がすいたときにぴったり。栗ご飯やおこわに加えれば、手軽に秋の味わいが楽しめます。",
+   "images": [
+    "fruit_amaguri_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "トップバリュ むき甘栗 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ むき甘栗 徳用 260g",
+     "brand": "トップバリュ",
+     "size": "260g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ ベストプライス むき甘栗 4袋入（50g×4）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "中国産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 むき栗 甘露煮仕立て 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 有機 むき甘栗 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_amaguri_1.jpg"
+   ],
+   "dishes": [
+    "おやつ",
+    "栗ご飯",
+    "栗おこわ"
+   ]
+  },
+  {
+   "base_id": "fruit_apple",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "りんご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "description": "シャキッとした歯ざわりと甘酸っぱい果汁がたっぷりのりんごです。10月はシナノスイートや秋映が食べごろで、冷やしてそのまま、またはお弁当のうさぎりんごにも。りんごをすりおろしてカレーに加えると、まろやかなコクが生まれます。",
+   "images": [
+    "fruit_apple_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 りんご（シナノスイート）2玉",
+     "brand": "",
+     "size": "2玉",
+     "price_tax_excluded": 398,
+     "origin": "長野県産"
+    },
+    {
+     "title": "長野県産 りんご（秋映）3玉",
+     "brand": "",
+     "size": "3玉",
+     "price_tax_excluded": 498,
+     "origin": "長野県産"
+    },
+    {
+     "title": "青森県産 りんご（早生ふじ）4〜6玉 袋入",
+     "brand": "",
+     "size": "4〜6玉",
+     "price_tax_excluded": 798,
+     "origin": "青森県産"
+    },
+    {
+     "title": "青森県産 サンふじ 大玉 1玉",
+     "brand": "",
+     "size": "1玉",
+     "price_tax_excluded": 228,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_apple_1.jpg",
+    "fruit_apple_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "アップルパイ",
+    "焼きりんご",
+    "りんごのコンポート",
+    "カレーの隠し味"
+   ]
+  },
+  {
+   "base_id": "fruit_shine_muscat",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "description": "大粒で皮ごと食べられる、マスカットの華やかな香りが楽しめるシャインマスカットです。種がなく、パリッとした皮と甘い果汁がお子さまにも大人気。そのままはもちろん、ヨーグルトやサラダに添えても華やかです。",
+   "images": [
+    "fruit_shine_muscat_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "山梨県産 シャインマスカット 1房（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1280,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "長野県産 シャインマスカット 大房 1房（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1980,
+     "origin": "長野県産"
+    },
+    {
+     "title": "岡山県産 シャインマスカット 1/2房パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "岡山県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_shine_muscat_1.jpg",
+    "fruit_shine_muscat_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "フルーツサンド",
+    "パフェ"
+   ]
+  },
+  {
+   "base_id": "fruit_kyoho",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    8,
+    9,
+    10
+   ],
+   "description": "濃い紫色の大粒に、甘みとほどよい酸味がぎゅっと詰まった巨峰です。皮をむくと果汁があふれ出し、食後のデザートにぴったり。秋のぶどう狩り気分を家庭で楽しめます。",
+   "images": [
+    "fruit_kyoho_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "長野県産 巨峰 1房（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 798,
+     "origin": "長野県産"
+    },
+    {
+     "title": "山梨県産 種なし巨峰 1房（約450g）",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 980,
+     "origin": "山梨県産"
+    },
+    {
+     "title": "福岡県産 巨峰 2房（約700g）",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 1380,
+     "origin": "福岡県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_kyoho_1.jpg",
+    "fruit_kyoho_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "ぶどうゼリー",
+    "フルーツポンチ"
+   ]
+  },
+  {
+   "base_id": "fruit_pione",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ぶどう"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10
+   ],
+   "description": "巨峰よりもさらに大粒で、黒紫色の果皮に濃厚な甘さを秘めたピオーネです。種なしで食べやすく、ひと粒ごとに食べごたえがあります。冷蔵庫でよく冷やしてお召し上がりください。",
+   "images": [
+    "fruit_pione_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "岡山県産 種なしピオーネ 1房（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 980,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "山梨県産 ピオーネ 大房 1房（約550g）",
+     "brand": "",
+     "size": "約550g",
+     "price_tax_excluded": 1280,
+     "origin": "山梨県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_pione_1.jpg",
+    "fruit_pione_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "ぶどうゼリー",
+    "パフェ"
+   ]
+  },
+  {
+   "base_id": "fruit_mikan",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "description": "秋の訪れを告げる早生の温州みかんです。すっきりとした甘酸っぱさとみずみずしさが魅力で、薄皮ごと手軽に食べられます。食卓に置いておけば、家族のおやつにぴったりです。",
+   "images": [
+    "fruit_mikan_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "熊本県産 温州みかん（極早生）約800g 袋入",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 498,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "和歌山県産 温州みかん（早生）Mサイズ 約1kg 袋入",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 598,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "愛媛県産 温州みかん（早生）Sサイズ 約1.5kg",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 798,
+     "origin": "愛媛県産"
+    },
+    {
+     "title": "佐賀県産 ハウスみかん 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "佐賀県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_mikan_1.jpg",
+    "fruit_mikan_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "みかんゼリー",
+    "フルーツポンチ"
+   ]
+  },
+  {
+   "base_id": "fruit_grapefruit",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "みかん・柑橘"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "さわやかな香りとほろ苦さがあとを引くグレープフルーツです。半分に切ってスプーンで食べるほか、果肉をほぐしてサラダやマリネに加えるのもおすすめ。ルビーは甘みが強く、ホワイトはすっきりとした味わいです。",
+   "images": [
+    "fruit_grapefruit_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "南アフリカ産 グレープフルーツ（ルビー）1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "南アフリカ産 グレープフルーツ（ホワイト）1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "南アフリカ産"
+    },
+    {
+     "title": "アメリカ産 グレープフルーツ（ルビー）3個 袋入",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    }
+   ],
+   "cc_images": [
+    "fruit_grapefruit_1.jpg",
+    "fruit_grapefruit_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "フルーツサラダ",
+    "ゼリー"
+   ]
+  },
+  {
+   "base_id": "fruit_banana",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "バナナ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "ほどよい甘さともっちりとした食感の、毎日の朝食に欠かせないバナナです。皮をむくだけで食べられるので、忙しい朝や子どものおやつにぴったり。ヨーグルトやスムージー、パンケーキにもよく合います。",
+   "images": [
+    "fruit_banana_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "フィリピン産 バナナ 1房（4〜5本）",
+     "brand": "",
+     "size": "4〜5本",
+     "price_tax_excluded": 178,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ 高地栽培バナナ 1房（4〜5本）",
+     "brand": "トップバリュ",
+     "size": "4〜5本",
+     "price_tax_excluded": 238,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック バナナ 1房（3〜4本）",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "3〜4本",
+     "price_tax_excluded": 298,
+     "origin": "ペルー産"
+    },
+    {
+     "title": "エクアドル産 バナナ 1房（5〜6本）",
+     "brand": "",
+     "size": "5〜6本",
+     "price_tax_excluded": 198,
+     "origin": "エクアドル産"
+    }
+   ],
+   "cc_images": [
+    "fruit_banana_1.jpg",
+    "fruit_banana_2.jpg"
+   ],
+   "dishes": [
+    "朝食",
+    "バナナヨーグルト",
+    "バナナジュース",
+    "パンケーキ"
+   ]
+  },
+  {
+   "base_id": "fruit_kiwi",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "キウイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "甘酸っぱい果汁がたっぷりのキウイフルーツです。半分に切ってスプーンですくうだけで、朝食やお弁当のデザートに手軽に使えます。黄色い果肉のゴールドは酸味が穏やかで、甘さが際立ちます。",
+   "images": [
+    "fruit_kiwi_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "ニュージーランド産 グリーンキウイ 3個",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 298,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "ニュージーランド産 ゴールドキウイ 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 298,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "愛媛県産 キウイフルーツ 5〜6個 袋入",
+     "brand": "",
+     "size": "5〜6個",
+     "price_tax_excluded": 498,
+     "origin": "愛媛県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_kiwi_1.jpg",
+    "fruit_kiwi_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "フルーツヨーグルト",
+    "フルーツサンド"
+   ]
+  },
+  {
+   "base_id": "fruit_la_france",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "洋梨"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "description": "とろけるようななめらかな果肉と、芳醇な香りが楽しめる洋梨ラ・フランスです。軸のまわりが少しやわらかくなったら食べごろのサイン。そのまま切って食べるほか、コンポートやタルトにしても上品な味わいです。",
+   "images": [
+    "fruit_la_france_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "山形県産 ラ・フランス 2個",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 498,
+     "origin": "山形県産"
+    },
+    {
+     "title": "山形県産 ラ・フランス 大玉 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "山形県産"
+    },
+    {
+     "title": "長野県産 ラ・フランス 4〜5個 袋入",
+     "brand": "",
+     "size": "4〜5個",
+     "price_tax_excluded": 898,
+     "origin": "長野県産"
+    }
+   ],
+   "cc_images": [
+    "fruit_la_france_1.jpg",
+    "fruit_la_france_2.jpg"
+   ],
+   "dishes": [
+    "そのまま食べる",
+    "コンポート",
+    "タルト"
+   ]
+  },
+  {
+   "base_id": "fruit_cut_fruit",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "カットフルーツ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "description": "食べやすい大きさにカットした、フォークですぐ食べられるフルーツの詰め合わせです。皮むきや後片付けの手間がなく、朝食や食後のデザートにそのまま出せます。季節のフルーツを少しずつ楽しめるのも魅力です。",
+   "images": [
+    "fruit_cut_fruit_p.jpg"
+   ],
+   "variants": [
+    {
+     "title": "カットフルーツ ミックス（パイン・メロン・キウイ・ぶどう）約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 398,
+     "origin": "国産・外国産"
+    },
+    {
+     "title": "カットパイン 約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 298,
+     "origin": "フィリピン産"
+    },
+    {
+     "title": "カット梨（豊水）約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 298,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "秋のフルーツミックス（梨・柿・ぶどう）約180g",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [
+    "fruit_cut_fruit_1.jpg",
+    "fruit_cut_fruit_2.jpg"
+   ],
+   "dishes": [
+    "デザート",
+    "フルーツヨーグルト",
+    "お弁当のデザート"
+   ]
+  }
+ ]
+}

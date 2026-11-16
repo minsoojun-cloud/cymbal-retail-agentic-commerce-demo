@@ -1,0 +1,3649 @@
+{
+ "category_key": "w_dairy_milk_egg",
+ "items": [
+  {
+   "base_id": "w_dairy_milk_egg_hiragai_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "鶏卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵かけご飯",
+    "目玉焼き",
+    "卵焼き",
+    "オムレツ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏舎の中を自由に歩き回れる平飼いで育った鶏の卵です。ストレスの少ない環境で育ち、黄身はふっくら、白身は弾力があり、卵かけご飯や目玉焼きなど素材の味を楽しむ料理にぴったり。",
+   "image_brief": "A clear plastic egg carton holding pale brown eggs on a bed of straw, plain blank kraft paper label sleeve, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 平飼いたまご Mサイズ 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "Mサイズ 6個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 平飼いたまご Mサイズ 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "Mサイズ 10個入",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 平飼い 赤たまご 6個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "そよかぜ養鶏場 平飼い 赤たまご 10個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "10個入",
+     "price_tax_excluded": 548,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "Cymbal セレクト 平飼いたまご Lサイズ 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "Lサイズ 6個入",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 平飼い 有機飼料たまご 6個入",
+     "brand": "Cymbal オーガニック",
+     "size": "6個入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_hiragai_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_iodine_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "栄養強化卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵かけご飯",
+    "ゆで卵",
+    "親子丼",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "海藻由来の飼料を与えて育てた鶏の、ヨウ素を多く含むたまごです。生臭さが少なくすっきりとした味わいで、卵かけご飯やゆで卵にすると違いがよくわかります。毎日の食卓を少し贅沢に。",
+   "image_brief": "A white pulp egg carton with ten white eggs and a plain blank blue label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ヨウ素たっぷり たまご 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 238,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ヨウ素たっぷり たまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 海藻育ち ヨウ素たまご 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 海藻育ち ヨウ素たまご 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 海のめぐみ ヨウ素卵 Lサイズ 10個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "Lサイズ 10個入",
+     "price_tax_excluded": 498,
+     "origin": "茨城県産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_iodine_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_dha_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "栄養強化卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "目玉焼き",
+    "スクランブルエッグ",
+    "卵焼き",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "魚油などを配合した飼料で育てた鶏の、DHAを含むたまごです。くせのないまろやかな味わいで、毎日の朝食やお弁当のおかずに気軽に使えます。家族みんなで食べたい栄養強化タイプ。",
+   "image_brief": "A clear plastic egg carton of ten white eggs with a plain blank light-blue paper band, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal DHA入りたまご Mサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "Mサイズ 10個入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal DHA入りたまご Mサイズ 6個入",
+     "brand": "Cymbal",
+     "size": "Mサイズ 6個入",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal DHA入り 赤たまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト DHA・ビタミンD入り たまご 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック DHA入りたまご MS〜Lサイズ混合 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "MS〜Lサイズ混合 10個入",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_dha_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_vitamin_e_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "栄養強化卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "目玉焼き",
+    "オムライス",
+    "親子丼",
+    "卵サンド"
+   ],
+   "tax_rate": 8,
+   "description": "ビタミンEを強化した飼料で育てた鶏のたまごです。黄身の色が明るく、オムライスや卵サンドにすると見た目も華やか。クセがなく、いつもの卵料理を手軽にグレードアップできます。",
+   "image_brief": "A clear egg pack of brown eggs with a plain blank pale yellow paper label band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビタミンE強化 たまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 318,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ビタミンE強化 たまご 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 208,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ビタミンE強化 赤たまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト ビタミンE・葉酸入り たまご 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_vitamin_e_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_rich_yolk_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "こだわり卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵かけご飯",
+    "すき焼き",
+    "カルボナーラ",
+    "月見うどん"
+   ],
+   "tax_rate": 8,
+   "description": "パプリカやとうもろこしを配合した飼料で、濃いオレンジ色の黄身に育てたこだわりのたまご。箸でつまめるほど盛り上がる黄身はコクが深く、卵かけご飯やすき焼きのつけだれに最適です。",
+   "image_brief": "A premium black paper egg box with a clear window showing six brown eggs, one cracked open with a deep orange yolk beside it, blank gold label, studio shot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 濃厚黄身 こく旨たまご 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚黄身 こく旨たまご 10個入",
+     "brand": "Cymbal セレクト",
+     "size": "10個入",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 朝焼け黄身たまご 6個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "そよかぜ養鶏場 朝焼け黄身たまご 10個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "10個入",
+     "price_tax_excluded": 628,
+     "origin": "岐阜県産"
+    },
+    {
+     "title": "Cymbal セレクト 卵かけご飯専用 濃厚たまご 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 380,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚黄身 こく旨たまご ギフト箱 20個入",
+     "brand": "Cymbal セレクト",
+     "size": "20個入",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_rich_yolk_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_sakura_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "鶏卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵焼き",
+    "ゆで卵",
+    "親子丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ほんのり桜色の殻が特徴の、さくら色たまご。白玉と赤玉の中間のような優しい色合いで、味は濃すぎず軽すぎずのバランス型。毎日使いしやすい価格の定番卵です。",
+   "image_brief": "A clear plastic carton of ten soft pinkish-beige eggs with a plain blank pink label strip, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さくら色たまご Mサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "Mサイズ 10個入",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal さくら色たまご Lサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "Lサイズ 10個入",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal さくら色たまご Mサイズ 6個入",
+     "brand": "Cymbal",
+     "size": "Mサイズ 6個入",
+     "price_tax_excluded": 168,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 さくら色 朝どりたまご 10個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "10個入",
+     "price_tax_excluded": 298,
+     "origin": "青森県産"
+    },
+    {
+     "title": "Cymbal ベーシック さくら色たまご サイズ混合 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "サイズ混合 10個入",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_sakura_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_ukokkei_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "こだわり卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵かけご飯",
+    "茶碗蒸し",
+    "プリン作り",
+    "ギフト"
+   ],
+   "tax_rate": 8,
+   "description": "希少な烏骨鶏が産んだ小ぶりなたまごです。白身が少なめで黄身の割合が高く、濃厚でまろやかなコクが楽しめます。卵かけご飯や手作りプリンなど、特別な一品に。",
+   "image_brief": "A small wooden-look gift box with paper cushioning holding six small cream-colored eggs, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "そよかぜ養鶏場 烏骨鶏のたまご 4個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "4個入",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 烏骨鶏のたまご 6個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "6個入",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "そよかぜ養鶏場 烏骨鶏のたまご ギフト箱 10個入",
+     "brand": "そよかぜ養鶏場",
+     "size": "10個入",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 烏骨鶏たまご 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_ukokkei_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_organic_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "こだわり卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "目玉焼き",
+    "オムレツ",
+    "卵焼き",
+    "ゆで卵"
+   ],
+   "tax_rate": 8,
+   "description": "有機飼料で育てた鶏のたまごです。飼料にもこだわり、素材本来のやさしい甘みが感じられます。オムレツやゆで卵など、シンプルな料理でじっくり味わいたい方におすすめ。",
+   "image_brief": "A recycled grey pulp egg carton slightly open showing brown eggs, plain blank green paper label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機飼料 たまご 6個入",
+     "brand": "Cymbal オーガニック",
+     "size": "6個入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機飼料 たまご 10個入",
+     "brand": "Cymbal オーガニック",
+     "size": "10個入",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機飼料 平飼い赤たまご 6個入",
+     "brand": "Cymbal オーガニック",
+     "size": "6個入",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機JAS たまご 4個入",
+     "brand": "Cymbal オーガニック",
+     "size": "4個入",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_organic_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_small_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "鶏卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "煮卵",
+    "おでん",
+    "ゆで卵"
+   ],
+   "tax_rate": 8,
+   "description": "若い鶏が産んだ小ぶりなたまごです。黄身がしっかりしていて白身に弾力があり、お弁当のゆで卵やおでんにちょうどいいサイズ。手頃な価格でたっぷり使えます。",
+   "image_brief": "A clear plastic egg carton of small white eggs neatly arranged, plain blank yellow paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 小玉たまご SSサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "SSサイズ 10個入",
+     "price_tax_excluded": 178,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 小玉たまご Sサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "Sサイズ 10個入",
+     "price_tax_excluded": 188,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 初産みたまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 小玉たまご Sサイズ 15個入",
+     "brand": "Cymbal ベーシック",
+     "size": "Sサイズ 15個入",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 小玉 赤たまご Sサイズ 10個入",
+     "brand": "Cymbal",
+     "size": "Sサイズ 10個入",
+     "price_tax_excluded": 208,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_small_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_large_pack_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "鶏卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵焼き",
+    "お菓子作り",
+    "親子丼",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "たっぷり使える大容量パックのたまごです。お菓子作りやまとめて作る卵焼き、家族の多いご家庭の毎日の料理に。経済的で、ストックしておくと安心な定番品です。",
+   "image_brief": "A large clear plastic tray holding twenty white eggs in two rows, plain blank orange label sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック 白たまご 徳用 Mサイズ 20個入",
+     "brand": "Cymbal ベーシック",
+     "size": "Mサイズ 20個入",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 白たまご 徳用 Lサイズ 20個入",
+     "brand": "Cymbal ベーシック",
+     "size": "Lサイズ 20個入",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 白たまご サイズ混合 30個入",
+     "brand": "Cymbal ベーシック",
+     "size": "30個入",
+     "price_tax_excluded": 648,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 赤たまご 徳用 20個入",
+     "brand": "Cymbal ベーシック",
+     "size": "20個入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 白たまご 徳用 LLサイズ 15個入",
+     "brand": "Cymbal",
+     "size": "LLサイズ 15個入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_large_pack_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_liquid_egg",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "液卵・加工卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "卵焼き",
+    "オムレツ",
+    "お菓子作り",
+    "天ぷら衣"
+   ],
+   "tax_rate": 8,
+   "description": "割って溶く手間を省いた殺菌済みの液卵です。ボトルから注ぐだけで計量もかんたん、卵焼きやオムレツ、お菓子作りに便利。殻のゴミが出ないので忙しい日の調理にも重宝します。",
+   "image_brief": "A tall clear plastic bottle filled with smooth yellow liquid egg, white screw cap and a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 殺菌 全卵 液卵 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 殺菌 全卵 液卵 1kg",
+     "brand": "Cymbal",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 殺菌 卵白 液卵 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 殺菌 加糖卵黄 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 業務用 全卵 液卵 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 628,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_liquid_egg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_egg_white_drink",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "液卵・加工卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トレーニング後",
+    "朝食",
+    "スムージー",
+    "間食"
+   ],
+   "tax_rate": 8,
+   "description": "卵白をなめらかに加工した、そのまま飲める卵白ドリンクです。たんぱく質を手軽にとりたい方の朝食や運動後に。プレーンはスムージーに混ぜても使いやすい味わいです。",
+   "image_brief": "A slim white plastic bottle of egg white drink with a plain blank label and white cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 卵白ドリンク プレーン 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卵白ドリンク ヨーグルト風味 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 卵白ドリンク プレーン 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 卵白ドリンク はちみつレモン風味 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_egg_white_drink_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_smoked_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "味付けたまご・ゆでたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ポテトサラダ",
+    "ラーメン",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "半熟に仕上げたゆで卵を桜チップでじっくり燻した燻製たまごです。香ばしいスモークの香りとしっとりした黄身がビールやハイボールのおつまみにぴったり。サラダのトッピングにも。",
+   "image_brief": "Two amber-brown smoked boiled eggs in a clear vacuum pouch with a plain blank kraft label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 燻製たまご 半熟 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 燻製たまご 半熟 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 桜チップ燻製 半熟たまご 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 燻製うずらたまご 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 燻製うずらたまご 黒こしょう 8個入",
+     "brand": "Cymbal セレクト",
+     "size": "8個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_smoked_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_salted_boiled_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "味付けたまご・ゆでたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "おやつ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "殻付きのまま塩味がしみ込んだ塩ゆでたまご。殻をむけばそのまま食べられ、ほどよい塩気でおやつや朝食、小腹が空いたときにも便利。黄身はしっとり固ゆでで、サラダにも使えます。",
+   "image_brief": "A clear plastic bag of white shell-on boiled eggs with a plain blank paper header card, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 塩味ゆでたまご 殻付き 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩味ゆでたまご 殻付き 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩味ゆでたまご 殻付き 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal むき ゆでたまご 5個入",
+     "brand": "Cymbal",
+     "size": "5個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック むき ゆでたまご 業務用 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_salted_boiled_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_tea_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "味付けたまご・ゆでたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "中華粥",
+    "お弁当",
+    "ラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "烏龍茶と八角、しょうゆで煮込んだ台湾風の茶葉たまご。殻のひび模様がきれいで、スパイスの香りが白身の奥までしみています。お粥やラーメン、おつまみに異国の味わいを。",
+   "image_brief": "Marbled brown tea eggs with crackled patterns in a clear plastic cup with dark broth, plain blank label lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 台湾風 茶葉たまご 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾風 茶葉たまご 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 烏龍茶仕込み 茶葉たまご 八角香る 3個入",
+     "brand": "Cymbal セレクト",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 台湾風 茶葉うずらたまご 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_tea_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_poached_eggs",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "温泉卵・ゆで卵"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "エッグベネディクト",
+    "サラダ",
+    "カレー",
+    "丼ぶり"
+   ],
+   "tax_rate": 8,
+   "description": "とろりとした黄身を薄い白身で包んだポーチドエッグ。冷凍なので必要な分だけ温めて使え、サラダやカレー、エッグベネディクトなどのカフェ風メニューがおうちで手軽に楽しめます。",
+   "image_brief": "A white tray with four round poached eggs wrapped in clear film inside a plain blank blue frozen-food box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 冷凍 ポーチドエッグ 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 冷凍 ポーチドエッグ 8個入",
+     "brand": "Cymbal",
+     "size": "8個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 冷凍 半熟ポーチドエッグ ソース付 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 冷凍 ポーチドエッグ 業務用 10個入",
+     "brand": "Cymbal ベーシック",
+     "size": "10個入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_poached_eggs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_pidan",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "ピータン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ピータン豆腐",
+    "中華粥",
+    "前菜",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "アヒルの卵を熟成させた中華食材ピータン。黒く透き通った白身と、ねっとりした黄身の独特のコクが魅力です。ピータン豆腐や中華粥、おつまみの前菜に手軽に使えます。",
+   "image_brief": "Dark translucent century eggs, one halved showing greenish-black jelly and yolk, next to a plain blank paper box, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ピータン 2個入",
+     "brand": "Cymbal",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ピータン 4個入",
+     "brand": "Cymbal",
+     "size": "4個入",
+     "price_tax_excluded": 448,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal ピータン 6個入",
+     "brand": "Cymbal",
+     "size": "6個入",
+     "price_tax_excluded": 628,
+     "origin": "台湾産"
+    },
+    {
+     "title": "Cymbal セレクト とろとろ ピータン 半熟タイプ 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 328,
+     "origin": "台湾産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_pidan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_quail_ajitsuke",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "うずらの卵"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "お弁当",
+    "八宝菜",
+    "串揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "うずらの卵を甘辛いしょうゆだれでじっくり煮込んだ味付けうずら。一口サイズでお弁当のすき間やおつまみに便利です。袋を開ければすぐ食べられ、八宝菜の具にも使えます。",
+   "image_brief": "Small brown soy-marinated quail eggs in a clear stand-up pouch with a plain blank orange label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付けうずらたまご しょうゆ味 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味付けうずらたまご しょうゆ味 20個入",
+     "brand": "Cymbal",
+     "size": "20個入",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味付けうずらたまご 柚子こしょう風味 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 味付けうずらたまご 辛口ラー油 10個入",
+     "brand": "Cymbal",
+     "size": "10個入",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト だし醤油仕込み うずら煮たまご 12個入",
+     "brand": "Cymbal セレクト",
+     "size": "12個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_quail_ajitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_quail_snack",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "うずらの卵"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "お弁当",
+    "行楽"
+   ],
+   "tax_rate": 8,
+   "description": "常温で持ち歩ける個包装のうずらたまごおつまみです。一つずつ包装されているので、行楽やお弁当、仕事の合間のおやつにも便利。ストックしておけばいつでも手軽に楽しめます。",
+   "image_brief": "A clear bag filled with individually wrapped small quail eggs in plain blank silver film, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 個包装 うずらたまご 燻製風味 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 個包装 うずらたまご 塩味 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 個包装 うずらたまご 燻製風味 大袋 30個入",
+     "brand": "Cymbal",
+     "size": "30個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 個包装 うずらたまご カレー風味 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_quail_snack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_ramen_hanjuku_tamago",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "卵",
+    "味付けたまご・ゆでたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメン",
+    "つけ麺",
+    "丼ぶり",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "ラーメン店のトッピングのような、黄身がとろりと流れ出す半熟煮たまご。魚介の旨みを効かせた専用だれに漬け込み、濃いめの味わいです。ラーメンやつけ麺に乗せるだけで本格派に。",
+   "image_brief": "Halved soft-boiled marinated eggs with runny jammy orange yolks in a clear tray, plain blank black label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ラーメン屋さんの半熟煮たまご 魚介醤油 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラーメン屋さんの半熟煮たまご 魚介醤油 4個入",
+     "brand": "Cymbal セレクト",
+     "size": "4個入",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラーメン屋さんの半熟煮たまご 黒マー油 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ラーメン屋さんの半熟煮たまご 味噌 2個入",
+     "brand": "Cymbal セレクト",
+     "size": "2個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_ramen_hanjuku_tamago_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_noko_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "加工乳・特濃"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "カフェオレ",
+    "シチュー",
+    "ミルクティー"
+   ],
+   "tax_rate": 8,
+   "description": "乳脂肪分を高めた、コクたっぷりの濃厚タイプ。ひと口でわかるまろやかさで、そのまま飲むのはもちろん、カフェオレやミルクティー、シチューに使うと味わいがぐっと深まります。",
+   "image_brief": "A tall gable-top paper milk carton in cream white and gold with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 特濃 4.4 加工乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 特濃 4.4 加工乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 特濃 4.4 加工乳 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 濃厚 4.5 牛乳 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 濃厚 4.5 牛乳 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_noko_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_jersey_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "ミルクティー",
+    "プリン作り",
+    "ホットミルク"
+   ],
+   "tax_rate": 8,
+   "description": "ジャージー種の牛から搾った生乳を使った牛乳です。淡いクリーム色で、乳脂肪のコクと自然な甘みが豊か。そのまま飲むのはもちろん、手作りプリンやミルクティーにも贅沢な味わいを。",
+   "image_brief": "A clear glass bottle of rich creamy yellowish milk with a paper cap and plain blank cream label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミルクの丘牧場 ジャージー牛乳 1000ml",
+     "brand": "ミルクの丘牧場",
+     "size": "1000ml",
+     "price_tax_excluded": 448,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "ミルクの丘牧場 ジャージー牛乳 500ml",
+     "brand": "ミルクの丘牧場",
+     "size": "500ml",
+     "price_tax_excluded": 268,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "ミルクの丘牧場 ジャージー牛乳 びん 180ml",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml",
+     "price_tax_excluded": 168,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "Cymbal セレクト ジャージー牛乳 900ml",
+     "brand": "Cymbal セレクト",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト ジャージー牛乳 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 128,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_jersey_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_low_temp_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "コーヒー",
+    "シリアル",
+    "ヨーグルト作り"
+   ],
+   "tax_rate": 8,
+   "description": "65℃でじっくり殺菌した低温殺菌牛乳。生乳に近いさらりとした口当たりと、すっきりした甘みが特徴です。そのまま飲んでおいしさを感じていただきたい成分無調整牛乳です。",
+   "image_brief": "A slim gable-top milk carton in white and pale blue with a plain blank label, cold condensation look, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 低温殺菌牛乳 成分無調整 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 328,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal セレクト 低温殺菌牛乳 成分無調整 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "ミルクの丘牧場 低温殺菌 ノンホモ牛乳 900ml",
+     "brand": "ミルクの丘牧場",
+     "size": "900ml",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "ミルクの丘牧場 低温殺菌 ノンホモ牛乳 びん 180ml",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml",
+     "price_tax_excluded": 148,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_low_temp_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_small_pack_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "お弁当",
+    "おやつ",
+    "シリアル"
+   ],
+   "tax_rate": 8,
+   "description": "使い切りやすい小容量の成分無調整牛乳です。ストロー付きの200mlはお弁当や子どものおやつに、500mlは一人暮らしやちょっと足りないときに便利。冷蔵庫に常備しやすいサイズです。",
+   "image_brief": "Small rectangular white paper milk cartons with blue accents and straws attached, plain blank labels, grouped studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 成分無調整 牛乳 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 成分無調整 牛乳 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 成分無調整 牛乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道 成分無調整牛乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 成分無調整 牛乳 200ml×6本",
+     "brand": "Cymbal ベーシック",
+     "size": "200ml×6本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 成分無調整 牛乳 びん 180ml",
+     "brand": "Cymbal",
+     "size": "180ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_small_pack_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_regional_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "朝食",
+    "シリアル",
+    "カフェオレ"
+   ],
+   "tax_rate": 8,
+   "description": "全国の酪農地帯の生乳を産地ごとにパックした成分無調整牛乳。地域によって異なる風味の違いを飲み比べる楽しさがあります。毎日の一杯を、その日の気分で選んでみてください。",
+   "image_brief": "A row of gable-top milk cartons with different pastel-colored blank labels, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 岩手県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "Cymbal 熊本県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "Cymbal 栃木県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "Cymbal 鳥取県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "鳥取県産"
+    },
+    {
+     "title": "Cymbal 千葉県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal 宮崎県産 生乳100% 牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_regional_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_nonfat_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "無脂肪乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "スムージー",
+    "カフェラテ",
+    "プロテイン"
+   ],
+   "tax_rate": 8,
+   "description": "乳脂肪分を取り除いた、すっきり飲める無脂肪乳。牛乳のおいしさはそのままに軽い後味で、脂質を控えたい方の毎日の一杯に。スムージーやラテにもさっぱり合います。",
+   "image_brief": "A white and light-green gable-top milk carton with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 無脂肪乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 無脂肪乳 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道 無脂肪乳 たんぱく質リッチ 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal ベーシック 無脂肪乳 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_nonfat_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_organic_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "子どものおやつ",
+    "シリアル",
+    "ホットミルク"
+   ],
+   "tax_rate": 8,
+   "description": "有機飼料で育てた牛の生乳だけを使ったオーガニック牛乳。すっきりとした飲み口に、ほどよい甘みとコクがあります。素材にこだわりたいご家庭の毎日の牛乳に。",
+   "image_brief": "A gable-top milk carton in white and leaf-green with a plain blank label, a glass of milk beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機牛乳 成分無調整 1000ml",
+     "brand": "Cymbal オーガニック",
+     "size": "1000ml",
+     "price_tax_excluded": 368,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機牛乳 成分無調整 500ml",
+     "brand": "Cymbal オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 218,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機低脂肪牛乳 1000ml",
+     "brand": "Cymbal オーガニック",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機牛乳 成分無調整 200ml",
+     "brand": "Cymbal オーガニック",
+     "size": "200ml",
+     "price_tax_excluded": 118,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_organic_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_longlife_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "ロングライフ牛乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ストック",
+    "防災備蓄",
+    "料理",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "常温で長期保存できるロングライフ牛乳です。開封前は冷蔵不要なので買い置きや防災備蓄に最適。開けたらいつもの牛乳と同じようにそのまま飲んだり、料理に使ったりできます。",
+   "image_brief": "A brick-shaped aseptic paper milk carton with a plain blank white and blue label and a screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ロングライフ牛乳 成分無調整 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロングライフ牛乳 成分無調整 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロングライフ 低脂肪乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロングライフ牛乳 成分無調整 200ml×24本 ケース",
+     "brand": "Cymbal",
+     "size": "200ml×24本 ケース",
+     "price_tax_excluded": 1880,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ロングライフ牛乳 1000ml×6本 ケース",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml×6本 ケース",
+     "price_tax_excluded": 1380,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_longlife_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_lactose_free_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "カフェラテ",
+    "シリアル",
+    "ホットミルク"
+   ],
+   "tax_rate": 8,
+   "description": "乳糖を分解して、牛乳を飲むとおなかがゴロゴロしがちな方にも飲みやすくした乳飲料です。分解でうまれた自然な甘みがあり、そのまま飲んでもラテにしてもおいしくいただけます。",
+   "image_brief": "A gable-top carton in white and soft purple with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 乳糖分解 ミルク 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳糖分解 ミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳糖分解 ミルク 低脂肪 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 乳糖分解 ミルク 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_lactose_free_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_protein_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "運動後",
+    "朝食",
+    "間食",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "牛乳由来のたんぱく質を強化した高たんぱく乳飲料。脂肪ゼロでもミルクのコクがあり、運動後や朝食のたんぱく質補給に。飲み切りやすいサイズからたっぷりサイズまで揃えました。",
+   "image_brief": "A tall white paper carton with a bold navy blank label and a small screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 高たんぱく ミルク 脂肪ゼロ 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく ミルク 脂肪ゼロ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく ミルク ココア 240ml",
+     "brand": "Cymbal",
+     "size": "240ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく ミルク バナナ 240ml",
+     "brand": "Cymbal",
+     "size": "240ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 高たんぱく ミルク 脂肪ゼロ 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_protein_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_calcium_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "子どものおやつ",
+    "ホットミルク",
+    "シリアル"
+   ],
+   "tax_rate": 8,
+   "description": "カルシウムと鉄分、ビタミンDをプラスした乳飲料です。すっきり飲みやすい味わいで、牛乳が苦手なお子さまや栄養バランスが気になる方の毎日の習慣に。",
+   "image_brief": "A gable-top carton in white and orange with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カルシウム・鉄分プラス ミルク 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カルシウム・鉄分プラス ミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カルシウム・鉄分プラス ミルク 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カルシウム たっぷり 低脂肪ミルク 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 208,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カルシウムプラス ミルク 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_calcium_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_coffee_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お風呂上がり",
+    "朝食",
+    "おやつ",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "昔ながらの甘くてやさしいコーヒー牛乳。生乳をたっぷり使い、コーヒーの香ばしさとミルクのまろやかさをバランスよく仕上げました。お風呂上がりの一杯や休憩のおともに。",
+   "image_brief": "A small glass milk bottle filled with light brown coffee milk with a paper cap and blank label, next to a paper carton, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal コーヒー牛乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒー牛乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal コーヒー牛乳 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミルクの丘牧場 昔なつかし コーヒー牛乳 びん 180ml",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml",
+     "price_tax_excluded": 138,
+     "origin": "岩手県産生乳使用"
+    },
+    {
+     "title": "Cymbal コーヒー牛乳 甘さひかえめ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック コーヒー牛乳 1000ml",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_coffee_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_strawberry_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "お風呂上がり",
+    "デザート代わり"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいいちご果汁とミルクを合わせた、やさしいピンク色のいちごミルク。子どもから大人まで楽しめるなつかしい味わいです。おやつやお風呂上がりのごほうびに。",
+   "image_brief": "A small pink paper carton of strawberry milk with a straw and a plain blank label, a fresh strawberry beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いちごミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごミルク 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いちごミルク 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産いちご果汁入り いちごミルク 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ミルクの丘牧場 いちごミルク びん 180ml",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_strawberry_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_banana_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "スムージー",
+    "運動後"
+   ],
+   "tax_rate": 8,
+   "description": "完熟バナナのまろやかな甘みとミルクを合わせたバナナオレ。とろりとした口当たりで、朝食代わりやおやつにぴったりです。冷やしてそのまま、または凍らせてシャーベット風にも。",
+   "image_brief": "A yellow paper carton of banana milk with a plain blank label next to a ripe banana, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal バナナオレ 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バナナオレ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal バナナオレ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 完熟バナナミルク 果肉入り 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_banana_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_matcha_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "休憩",
+    "和菓子と",
+    "ホット抹茶ラテ"
+   ],
+   "tax_rate": 8,
+   "description": "国産抹茶のほろ苦さとミルクのまろやかさがやさしく調和した抹茶ミルク。甘さは控えめで、和菓子と合わせたり温めて抹茶ラテにしたりと楽しみ方いろいろです。",
+   "image_brief": "A soft green paper carton of matcha milk with a plain blank label, a small mound of matcha powder beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 抹茶ミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶ミルク 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶使用 抹茶ミルク 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 宇治抹茶使用 抹茶ミルク 甘さ控えめ 240ml",
+     "brand": "Cymbal セレクト",
+     "size": "240ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_matcha_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_chocolate_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "ホットチョコ",
+    "運動後"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの香りが豊かなチョコレートミルク。冷やしてそのまま飲むのはもちろん、温めればホットチョコレート風に。子どものおやつにも大人の休憩にもぴったりです。",
+   "image_brief": "A brown paper carton of chocolate milk with a straw and a plain blank label, cocoa beans beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チョコレートミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコレートミルク 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チョコレートミルク 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カカオ香る 濃厚ショコラミルク 300ml",
+     "brand": "Cymbal セレクト",
+     "size": "300ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_chocolate_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_honey_hot_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットミルク",
+    "寝る前",
+    "朝食",
+    "冬のおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "国産はちみつを加えたやさしい甘さのはちみつミルク。電子レンジで温めるだけで、ほっとするホットミルクが楽しめます。寒い季節の朝や、寝る前のリラックスタイムに。",
+   "image_brief": "A cream paper carton of honey milk with a blank golden label beside a steaming mug of milk and a honey dipper, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal はちみつミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつミルク 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産はちみつミルク 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal はちみつジンジャーミルク 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_honey_hot_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_royal_milk_tea",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "乳飲料"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "休憩",
+    "おやつ",
+    "ホットミルクティー",
+    "朝食"
+   ],
+   "tax_rate": 8,
+   "description": "茶葉の香りをしっかり引き出し、ミルクをたっぷり合わせたロイヤルミルクティー。コクがありながら後味はすっきり。冷やしても温めてもおいしく、秋冬はホットがおすすめです。",
+   "image_brief": "A tan paper carton of milk tea with a plain blank label next to a cup of milky tea, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ロイヤルミルクティー 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロイヤルミルクティー 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ロイヤルミルクティー 甘さひかえめ 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト アッサム茶葉 ロイヤルミルクティー 500ml",
+     "brand": "Cymbal セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ほうじ茶ミルクティー 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_royal_milk_tea_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_goat_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "牛乳・乳飲料",
+    "牛乳"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "チャイ",
+    "ホットミルク",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "国内の牧場で育てたヤギの生乳を使ったやぎミルク。さらりとした口当たりで、ほのかな甘みと独特のコクがあります。温めてチャイにしたり、スープに使ったりするのもおすすめです。",
+   "image_brief": "A small white glass bottle of goat milk with a paper cap and a plain blank green label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ミルクの丘牧場 やぎミルク 180ml",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml",
+     "price_tax_excluded": 298,
+     "origin": "長野県産"
+    },
+    {
+     "title": "ミルクの丘牧場 やぎミルク 500ml",
+     "brand": "ミルクの丘牧場",
+     "size": "500ml",
+     "price_tax_excluded": 698,
+     "origin": "長野県産"
+    },
+    {
+     "title": "ミルクの丘牧場 やぎミルク 180ml×3本",
+     "brand": "ミルクの丘牧場",
+     "size": "180ml×3本",
+     "price_tax_excluded": 848,
+     "origin": "長野県産"
+    },
+    {
+     "title": "ミルクの丘牧場 やぎミルク 低温殺菌 900ml",
+     "brand": "ミルクの丘牧場",
+     "size": "900ml",
+     "price_tax_excluded": 1180,
+     "origin": "長野県産"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_goat_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_thick_unadjusted_soy",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "無調整豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豆乳鍋",
+    "スープ",
+    "湯葉作り",
+    "そのまま飲む"
+   ],
+   "tax_rate": 8,
+   "description": "大豆固形分を高めた濃厚な無調整豆乳。大豆本来の甘みとコクがしっかり感じられ、温めると湯葉ができるほどの濃さです。豆乳鍋やポタージュ、手作り豆腐にもおすすめ。",
+   "image_brief": "A brick-style aseptic carton in cream and soybean-green with a blank label, a small bowl of soybeans beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 大豆固形分10% 濃厚無調整豆乳 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 大豆固形分10% 濃厚無調整豆乳 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "まめのわ 国産大豆 特濃 無調整豆乳 900ml",
+     "brand": "まめのわ",
+     "size": "900ml",
+     "price_tax_excluded": 348,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "まめのわ 国産大豆 特濃 無調整豆乳 200ml×3本",
+     "brand": "まめのわ",
+     "size": "200ml×3本",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 大豆固形分10% 濃厚無調整豆乳 1000ml×6本 ケース",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml×6本 ケース",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_thick_unadjusted_soy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_organic_soy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "無調整豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "スムージー",
+    "豆乳ラテ",
+    "シチュー"
+   ],
+   "tax_rate": 8,
+   "description": "有機大豆だけを使ったオーガニック豆乳。すっきりした大豆の甘みで、無調整でも飲みやすい仕上がりです。スムージーやラテ、シチューなど料理にも幅広く使えます。",
+   "image_brief": "A brick-style carton in white and leaf-green with a plain blank label and screw cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オーガニック 有機大豆 無調整豆乳 1000ml",
+     "brand": "Cymbal オーガニック",
+     "size": "1000ml",
+     "price_tax_excluded": 288,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 無調整豆乳 200ml",
+     "brand": "Cymbal オーガニック",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 調製豆乳 1000ml",
+     "brand": "Cymbal オーガニック",
+     "size": "1000ml",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機大豆 調製豆乳 200ml×3本",
+     "brand": "Cymbal オーガニック",
+     "size": "200ml×3本",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_organic_soy_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_caloff_soy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "調製豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "シリアル",
+    "豆乳ラテ",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "糖質とカロリーを抑えた調製豆乳です。豆乳特有の青臭さを抑えたすっきりした味わいで、毎日続けやすいのが魅力。朝食のシリアルやラテにもぴったりです。",
+   "image_brief": "A pale blue brick carton of soy milk with a plain blank label and white cap, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カロリー45%オフ 調製豆乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カロリー45%オフ 調製豆乳 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質50%オフ 調製豆乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 糖質50%オフ 調製豆乳 200ml×3本",
+     "brand": "Cymbal",
+     "size": "200ml×3本",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "まめのわ すっきり 低カロリー豆乳 1000ml",
+     "brand": "まめのわ",
+     "size": "1000ml",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_caloff_soy_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_cooking_soy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "料理用豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豆乳鍋",
+    "グラタン",
+    "クリームシチュー",
+    "担々麺"
+   ],
+   "tax_rate": 8,
+   "description": "加熱しても分離しにくく、料理に使いやすい調理用豆乳。牛乳や生クリームの代わりにグラタンやシチューに使えば、コクがありながらあっさり仕上がります。鍋の季節の豆乳鍋にも。",
+   "image_brief": "A large white brick carton with a plain blank beige label next to a clay pot of creamy soy milk hot pot, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 料理用 豆乳 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 料理用 豆乳 500ml",
+     "brand": "Cymbal",
+     "size": "500ml",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚 料理用豆乳 クリームタイプ 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 料理用 豆乳 業務用 1000ml×2本",
+     "brand": "Cymbal ベーシック",
+     "size": "1000ml×2本",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_cooking_soy_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_black_soy_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "無調整豆乳"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "豆乳ラテ",
+    "黒豆ぜんざい",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "黒大豆を使った、ほんのり紫がかった黒豆豆乳。黒豆ならではの香ばしさとやさしい甘みが楽しめます。そのまま飲むほか、温めてきなこや黒みつを加えるのもおすすめです。",
+   "image_brief": "A dark purple and cream brick carton of black soybean milk with a plain blank label, black soybeans scattered beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "まめのわ 黒豆 無調整豆乳 1000ml",
+     "brand": "まめのわ",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "国産黒大豆使用"
+    },
+    {
+     "title": "まめのわ 黒豆 無調整豆乳 200ml",
+     "brand": "まめのわ",
+     "size": "200ml",
+     "price_tax_excluded": 118,
+     "origin": "国産黒大豆使用"
+    },
+    {
+     "title": "まめのわ 黒豆 調製豆乳 1000ml",
+     "brand": "まめのわ",
+     "size": "1000ml",
+     "price_tax_excluded": 328,
+     "origin": "国産黒大豆使用"
+    },
+    {
+     "title": "まめのわ 黒豆 調製豆乳 200ml×3本",
+     "brand": "まめのわ",
+     "size": "200ml×3本",
+     "price_tax_excluded": 318,
+     "origin": "国産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_black_soy_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_coffee",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "休憩",
+    "朝食",
+    "おやつ",
+    "ホットラテ"
+   ],
+   "tax_rate": 8,
+   "description": "コーヒーと豆乳を合わせた豆乳飲料。豆乳のまろやかさがコーヒーの苦みを包み、すっきり飲めるソイラテ風の味わいです。仕事の合間やおやつの時間に。",
+   "image_brief": "A small brown aseptic carton with a straw and a plain blank coffee-colored label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 コーヒー 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 コーヒー 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 コーヒー 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 カフェラテ 甘さひかえめ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 深煎り ソイラテ 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_coffee_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_tea_flavors",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "休憩",
+    "おやつ",
+    "和菓子と",
+    "ホットで"
+   ],
+   "tax_rate": 8,
+   "description": "お茶の香りを楽しめる豆乳飲料シリーズ。紅茶・抹茶・ほうじ茶など、豆乳のまろやかさと茶葉の香りが合わさったやさしい味わいです。気分で選べる飲みきりサイズ。",
+   "image_brief": "Three small aseptic cartons in tan, green and brown with straws and plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 ほうじ茶 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 チャイ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 紅茶 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 抹茶 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_tea_flavors_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_fruit_flavors",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "バナナ",
+    "もも",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "朝食",
+    "お弁当",
+    "デザート代わり"
+   ],
+   "tax_rate": 8,
+   "description": "果物の風味を加えた、デザート感覚で飲める豆乳飲料。豆乳が苦手な方でも飲みやすい甘酸っぱい味わいです。お弁当に添えたり、おやつ代わりにしたりと手軽に楽しめます。",
+   "image_brief": "A row of small aseptic cartons in yellow, pink and peach colors with straws and plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 いちご 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 白桃 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 マンゴー 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 りんご 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 フルーツミックス 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_fruit_flavors_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_dessert_flavors",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "乳",
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "デザート代わり",
+    "休憩",
+    "凍らせてアイス"
+   ],
+   "tax_rate": 8,
+   "description": "人気のスイーツをイメージした豆乳飲料。プリンや杏仁豆腐、チーズケーキ風味など、豆乳でごほうびデザート気分が味わえます。凍らせてシャーベット風に楽しむのもおすすめ。",
+   "image_brief": "Small aseptic cartons in caramel, white and cream colors with straws and plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 プリン 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 杏仁豆腐 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 チーズケーキ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 ティラミス 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 クッキー＆クリーム 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_dessert_flavors_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_autumn_flavors",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "ホットで",
+    "秋のデザート",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "秋冬限定の味わいを集めた豆乳飲料。焼きいもやモンブラン、かぼちゃなど、ほっくりした甘さが豆乳のまろやかさとよく合います。温めてホットで飲むのもおすすめです。",
+   "image_brief": "Small aseptic cartons in purple, chestnut-brown and orange colors with straws and plain blank labels, autumn leaves beside them, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 焼きいも 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 モンブラン 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 かぼちゃ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 りんごシナモン 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 秋冬アソート 200ml×4本",
+     "brand": "Cymbal",
+     "size": "200ml×4本",
+     "price_tax_excluded": 338,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_autumn_flavors_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_kinako_goma",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝食",
+    "おやつ",
+    "和スイーツと",
+    "ホットで"
+   ],
+   "tax_rate": 8,
+   "description": "黒ごまやきなこ、黒みつなど和素材を合わせた豆乳飲料。香ばしい香りとやさしい甘さで、和菓子との相性も抜群です。朝食やおやつの時間に、ほっと一息つける味わい。",
+   "image_brief": "Small aseptic cartons in black, beige and dark brown with straws and plain blank labels, a small dish of sesame seeds beside them, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 きなこ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 黒みつきなこ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 黒ごま 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 甘酒 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_kinako_goma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_cocoa",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットココア",
+    "おやつ",
+    "朝食",
+    "寝る前"
+   ],
+   "tax_rate": 8,
+   "description": "カカオの香りを効かせたココア味の豆乳飲料。豆乳のまろやかさでしつこくない甘さに仕上げました。冷やしても、レンジで温めてホットココア風にしてもおいしく飲めます。",
+   "image_brief": "A dark brown brick carton of soy cocoa with a plain blank label next to a steaming mug, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豆乳飲料 ココア 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳飲料 ココア 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 438,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト カカオ70% 濃厚ソイショコラ 200ml",
+     "brand": "Cymbal セレクト",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_cocoa_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_soy_ginger_hot",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "豆乳飲料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ホットドリンク",
+    "寒い朝",
+    "寝る前",
+    "休憩"
+   ],
+   "tax_rate": 8,
+   "description": "国産しょうがを加えた、温めて飲むのにぴったりの豆乳飲料。しょうがのピリッとした風味とはちみつのやさしい甘さで、寒い季節の朝やひと休みの時間にほっとできます。",
+   "image_brief": "A cream-colored aseptic carton with a plain blank label beside a steaming mug and a slice of ginger, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホット豆乳 しょうが 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホット豆乳 しょうがはちみつ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 88,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ホット豆乳 しょうが 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 高知県産しょうが ホット豆乳 1000ml",
+     "brand": "Cymbal セレクト",
+     "size": "1000ml",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_soy_ginger_hot_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_almond_milk_plain",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "アーモンドミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "スムージー",
+    "シリアル",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "ローストアーモンドを使った香ばしいアーモンドミルク。砂糖不使用タイプからほんのり甘いオリジナルまで揃え、そのまま飲むほかスムージーやシリアル、スープにも使えます。",
+   "image_brief": "A tall white aseptic carton with a plain blank label in soft beige, roasted almonds beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アーモンドミルク 砂糖不使用 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク オリジナル 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク 砂糖不使用 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク オリジナル 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 538,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Nutsy Grove ローストアーモンドミルク 濃いめ 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "スペイン産アーモンド使用"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_almond_milk_plain_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_almond_milk_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "アーモンドミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド",
+    "バナナ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "休憩",
+    "朝食",
+    "ホットドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンドミルクにカカオやコーヒー、抹茶を合わせたフレーバータイプ。ナッツの香ばしさとフレーバーの相性がよく、軽やかな飲み心地です。気分に合わせて選べます。",
+   "image_brief": "Small aseptic cartons in brown, green and caramel with straws and plain blank labels, almonds scattered nearby, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アーモンドミルク カカオ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク コーヒー 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク 抹茶 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク バナナ 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドミルク カカオ 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_almond_milk_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_oat_milk_plain",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "オーツミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "シリアル",
+    "パンケーキ",
+    "シチュー"
+   ],
+   "tax_rate": 8,
+   "description": "オーツ麦から作った、まろやかな甘みのオーツミルク。乳や大豆を使わず、すっきりした後味で毎日飲みやすいのが特長です。シリアルやパンケーキ、シチューにも使えます。",
+   "image_brief": "A tall cream-colored aseptic carton with a plain blank label next to a small pile of rolled oats, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Verde Oats オーツミルク オリジナル 1000ml",
+     "brand": "Verde Oats",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "スウェーデン産オーツ使用"
+    },
+    {
+     "title": "Verde Oats オーツミルク 砂糖不使用 1000ml",
+     "brand": "Verde Oats",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "スウェーデン産オーツ使用"
+    },
+    {
+     "title": "Cymbal オーツミルク 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーツミルク 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーツミルク 200ml×6本",
+     "brand": "Cymbal",
+     "size": "200ml×6本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_oat_milk_plain_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_oat_milk_barista",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "オーツミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カフェラテ",
+    "カプチーノ",
+    "ミルクティー",
+    "チャイ"
+   ],
+   "tax_rate": 8,
+   "description": "コーヒーとの相性を追求したバリスタ仕様のオーツミルク。きめ細かく泡立ち、エスプレッソの風味を損なわずにまろやかなラテに仕上がります。おうちカフェにおすすめ。",
+   "image_brief": "A dark grey aseptic carton with a plain blank label beside a latte with foam art, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Verde Oats オーツミルク バリスタ 1000ml",
+     "brand": "Verde Oats",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "スウェーデン産オーツ使用"
+    },
+    {
+     "title": "Verde Oats オーツミルク バリスタ 1000ml×6本 ケース",
+     "brand": "Verde Oats",
+     "size": "1000ml×6本 ケース",
+     "price_tax_excluded": 2280,
+     "origin": "スウェーデン産オーツ使用"
+    },
+    {
+     "title": "Cymbal オーツミルク バリスタタイプ 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Verde Oats オーツミルク バリスタ 低糖 1000ml",
+     "brand": "Verde Oats",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "スウェーデン産オーツ使用"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_oat_milk_barista_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_oat_milk_flavor",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "オーツミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "休憩",
+    "朝食",
+    "ホットドリンク"
+   ],
+   "tax_rate": 8,
+   "description": "オーツミルクにチョコレートやコーヒー、キャラメルの風味を加えたフレーバータイプ。オーツ麦のやさしい甘さが生き、おやつ代わりにもぴったりの飲みきりサイズです。",
+   "image_brief": "Small aseptic cartons in chocolate, coffee and caramel colors with straws and plain blank labels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Verde Oats オーツミルク チョコレート 250ml",
+     "brand": "Verde Oats",
+     "size": "250ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Verde Oats オーツミルク コーヒー 250ml",
+     "brand": "Verde Oats",
+     "size": "250ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Verde Oats オーツミルク キャラメル 250ml",
+     "brand": "Verde Oats",
+     "size": "250ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Verde Oats オーツミルク 抹茶 250ml",
+     "brand": "Verde Oats",
+     "size": "250ml",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_oat_milk_flavor_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_rice_coconut_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "その他植物性ミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "そのまま飲む",
+    "スムージー",
+    "カレー",
+    "シリアル"
+   ],
+   "tax_rate": 8,
+   "description": "お米やココナッツから作った植物性ミルク。ライスミルクはやさしい甘みでさらっと飲みやすく、ココナッツミルクドリンクは南国風の香りが楽しめます。乳・大豆を控えたい方の選択肢に。",
+   "image_brief": "Two white aseptic cartons with plain blank labels, one with a small bowl of rice and one with a halved coconut beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ライスミルク 国産米使用 1000ml",
+     "brand": "Cymbal",
+     "size": "1000ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ライスミルク 国産米使用 200ml",
+     "brand": "Cymbal",
+     "size": "200ml",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Nutsy Grove ココナッツミルク ドリンク 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "タイ産ココナッツ使用"
+    },
+    {
+     "title": "Nutsy Grove ココナッツミルク ドリンク 砂糖不使用 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 398,
+     "origin": "タイ産ココナッツ使用"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_rice_coconut_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dairy_milk_egg_nut_blend_milk",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "豆乳",
+    "その他植物性ミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド",
+    "カシューナッツ",
+    "マカダミアナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "スムージー",
+    "グラノーラ",
+    "ラテ",
+    "ポタージュ"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンド・カシューナッツ・マカダミアナッツなど複数のナッツをブレンドしたナッツミルク。クリーミーでコクがあり、スムージーやラテ、ポタージュにも合います。",
+   "image_brief": "A sleek white aseptic carton with a plain blank label in soft brown surrounded by mixed nuts, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Nutsy Grove ミックスナッツミルク 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Nutsy Grove カシューナッツミルク 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Nutsy Grove マカダミアナッツミルク 1000ml",
+     "brand": "Nutsy Grove",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Nutsy Grove ミックスナッツミルク 200ml×3本",
+     "brand": "Nutsy Grove",
+     "size": "200ml×3本",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dairy_milk_egg_nut_blend_milk_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

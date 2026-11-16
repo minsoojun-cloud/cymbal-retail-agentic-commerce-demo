@@ -1,0 +1,708 @@
+{
+ "category_key": "k_kansai_deli",
+ "items": [
+  {
+   "base_id": "k_kansai_dl_butaman",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "豚まん・点心"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "軽食",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "もっちり厚めの皮に、玉ねぎの甘みと豚肉のうま味たっぷりの具を包んだ関西の豚まんです。店内で蒸し上げた温かいものと、ご家庭で温めるチルドタイプをご用意。からしを添えてどうぞ。",
+   "image_brief": "Four plump white steamed pork buns in a bamboo steamer, one torn open showing juicy pork filling, small dab of mustard. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 蒸したて 豚まん 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 蒸したて 豚まん 4個入",
+     "brand": "Cymbal デリ",
+     "size": "4個",
+     "price_tax_excluded": 760,
+     "origin": "店内調理"
+    },
+    {
+     "title": "Cymbal デリ チルド 豚まん 6個入",
+     "brand": "Cymbal デリ",
+     "size": "6個",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 蒸したて 焼売 8個入",
+     "brand": "Cymbal デリ",
+     "size": "8個",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_butaman_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_dote",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "煮込み・どて焼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "おつまみ",
+    "ごはんのおかず"
+   ],
+   "tax_rate": 8,
+   "description": "牛すじとこんにゃくを白みそベースの甘辛いたれで、とろとろになるまで煮込んだ大阪名物のどて焼です。ねぎをたっぷりのせて、ごはんにもお酒にもよく合います。",
+   "image_brief": "A takeaway container of dote-yaki: tender beef tendon and konjac stewed in brown miso sauce, topped with chopped green onions. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 牛すじどて焼 1パック（約200g）",
+     "brand": "Cymbal デリ",
+     "size": "約200g",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 牛すじどて焼 大盛 1パック（約350g）",
+     "brand": "Cymbal デリ",
+     "size": "約350g",
+     "price_tax_excluded": 798,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 牛すじ煮込み ぼっかけ 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_dote_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_kushikatsu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "串カツ・揚げ物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "えび",
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "パーティー",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "牛、豚、えび、うずら、玉ねぎ、れんこんなどを細かいパン粉で揚げた串カツの盛合せです。ソース付き。トースターで軽く温め直すと、揚げたてのサクサク感がよみがえります。",
+   "image_brief": "An assortment of golden deep-fried kushikatsu skewers with fine panko crumbs arranged in a takeaway tray with a small cup of dark sauce and cabbage. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 串カツ盛合せ 8本 ソース付",
+     "brand": "Cymbal デリ",
+     "size": "8本",
+     "price_tax_excluded": 698,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 串カツ盛合せ 12本 ソース付",
+     "brand": "Cymbal デリ",
+     "size": "12本",
+     "price_tax_excluded": 998,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 牛串カツ 5本 ソース付",
+     "brand": "Cymbal デリ",
+     "size": "5本",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_kushikatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_kasu_udon",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "うどん・麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "寒い日"
+   ],
+   "tax_rate": 8,
+   "description": "牛の小腸をカリッと揚げた「油かす」を、関西風のだしで仕立てたうどんにのせた、南河内発祥のかすうどんです。電子レンジで温めるだけで、コク深いだしの味わいが楽しめます。",
+   "image_brief": "A bowl of udon noodles in clear golden dashi broth topped with crispy fried beef offal pieces and chopped green onions, in a takeaway bowl. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] かすうどん 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] きつねうどん 関西風 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_kasu_udon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_nikusui",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "うどん・麺"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "大豆",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食",
+    "二日酔いの朝"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉と半熟玉子、豆腐を、うどん抜きでだしに仕立てた大阪の「肉吸い」。小ごはんとセットで、軽めのお昼ごはんにもどうぞ。",
+   "image_brief": "A bowl of clear golden dashi soup with thin sliced beef, a soft-boiled egg and tofu cubes, topped with green onions, with a small bowl of rice. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 肉吸い 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 肉吸い 小ごはんセット",
+     "brand": "Cymbal デリ",
+     "size": "1セット",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_nikusui_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_okonomiyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "お好み焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "豚肉",
+    "えび",
+    "いか",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夕食",
+    "お昼ごはん",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツたっぷりの生地を鉄板でふっくら焼き上げた、店内調理のお好み焼きです。ソース、マヨネーズ、青のり、かつお節付き。豚玉、ミックス、焼そば入りのモダン焼きをご用意しています。",
+   "image_brief": "A round okonomiyaki savory pancake covered in brown sauce, mayonnaise zigzags, green aonori and bonito flakes, in a takeaway tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] お好み焼き 豚玉 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] お好み焼き ミックス 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] モダン焼き 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_okonomiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_takoyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "たこ焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "だしのきいた生地で外はカリッと、中はとろりと焼き上げた店内調理のたこ焼きです。ソースとマヨネーズのほか、だしで味わう塩・ポン酢味も人気です。",
+   "image_brief": "Golden round takoyaki balls topped with brown sauce, mayonnaise, aonori and dancing bonito flakes, in a boat-shaped takeaway tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] たこ焼き ソース 8個入",
+     "brand": "Cymbal デリ",
+     "size": "8個",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] たこ焼き ソース 12個入",
+     "brand": "Cymbal デリ",
+     "size": "12個",
+     "price_tax_excluded": 558,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] たこ焼き ポン酢しょうゆ 8個入",
+     "brand": "Cymbal デリ",
+     "size": "8個",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_takoyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_akashiyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "たこ焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "卵たっぷりのふんわりやわらかな生地にたこを入れて焼き、温かいだしにつけて味わう、明石焼き風の玉子焼です。だし付き。",
+   "image_brief": "Soft yellow round eggy octopus dumplings arranged on a slanted wooden board with a small bowl of clear dashi broth. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 玉子焼（明石焼き風） だし付 10個入",
+     "brand": "Cymbal デリ",
+     "size": "10個",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_akashiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_negiyaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "お好み焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "牛肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "晩酌",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "青ねぎをたっぷり使い、牛すじこんにゃくを散らして焼いた関西のねぎ焼です。しょうゆとレモンでさっぱりと。",
+   "image_brief": "A flat savory pancake densely packed with chopped green onions, brushed with soy glaze, with a lemon wedge, in a takeaway tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 牛すじ ねぎ焼 しょうゆ味 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_negiyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_sobameshi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "焼きそば・そばめし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "豚肉",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "刻んだ焼きそばとごはんを鉄板でソースと炒め合わせた、神戸・長田発祥のそばめしと、ソース焼きそばです。",
+   "image_brief": "A takeaway container of sobameshi, fried rice mixed with chopped yakisoba noodles in dark sauce, topped with aonori and red ginger. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] そばめし 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] ソース焼きそば 1人前",
+     "brand": "Cymbal デリ",
+     "size": "1人前",
+     "price_tax_excluded": 398,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_sobameshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_dashimaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "卵料理"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "朝ごはん",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "昆布とかつおのだしをたっぷり含ませ、甘さひかえめに焼き上げた京風のだし巻きです。大根おろしを添えて。",
+   "image_brief": "A thick juicy rectangular Japanese dashi rolled omelette sliced into pieces with a mound of grated daikon, in a takeaway tray. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 京風 だし巻き 大根おろし付 1本",
+     "brand": "Cymbal デリ",
+     "size": "1本",
+     "price_tax_excluded": 458,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 京風 だし巻き 九条ねぎ入り 1本",
+     "brand": "Cymbal デリ",
+     "size": "1本",
+     "price_tax_excluded": 498,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_dashimaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_kantodaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "煮込み・どて焼"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "大豆",
+    "牛肉"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "夕食",
+    "晩酌",
+    "寒い日"
+   ],
+   "tax_rate": 8,
+   "description": "牛すじ、大根、玉子、厚揚げ、ごぼう天、たこなどを、昆布とかつおの淡口仕立てのだしで炊いた関西のおでん「関東煮」です。",
+   "image_brief": "A takeaway container of Kansai-style oden in light golden broth with daikon, boiled egg, beef tendon skewer, fried tofu and fish cakes. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 関東煮（関西風おでん） 1〜2人前",
+     "brand": "Cymbal デリ",
+     "size": "1〜2人前",
+     "price_tax_excluded": 598,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] 関東煮（関西風おでん） 3〜4人前",
+     "brand": "Cymbal デリ",
+     "size": "3〜4人前",
+     "price_tax_excluded": 1180,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_kantodaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_kayaku",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "ごはん・おこわ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "お弁当",
+    "夕食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉、にんじん、ごぼう、油揚げ、こんにゃくを、だしと淡口しょうゆで炊き込んだ関西の「かやくご飯」。おにぎりもご用意しています。",
+   "image_brief": "A takeaway container of Japanese mixed rice with chicken, carrot, burdock and fried tofu, and two rice balls of the same rice. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] かやくご飯 1パック",
+     "brand": "Cymbal デリ",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] かやくおにぎり 2個入",
+     "brand": "Cymbal デリ",
+     "size": "2個",
+     "price_tax_excluded": 238,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_kayaku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_ikayaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "粉もん",
+    "いか焼き"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "いか",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "いかを生地に混ぜ込み、鉄板で上下からプレスして焼き上げた大阪のいか焼き。甘辛いソースをぬって、もっちり食感をお楽しみください。",
+   "image_brief": "A thin flat pressed squid pancake folded in half and brushed with glossy dark sauce, on white wax paper. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] いか焼き 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 198,
+     "origin": "店内調理"
+    },
+    {
+     "title": "[店内調理] いか焼き デラ（玉子入り） 1枚",
+     "brand": "Cymbal デリ",
+     "size": "1枚",
+     "price_tax_excluded": 258,
+     "origin": "店内調理"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_ikayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_dl_karaage",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "関西惣菜",
+    "串カツ・揚げ物"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "鶏肉",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "夕食",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆとしょうがで下味をつけた国産鶏ももを、二度揚げでカリッと仕上げたから揚げです。お弁当のおかずや晩酌のお供に。",
+   "image_brief": "A takeaway tray of juicy golden Japanese fried chicken karaage pieces with a lemon wedge. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "[店内調理] 国産鶏 若鶏から揚げ 300g",
+     "brand": "Cymbal デリ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産鶏使用"
+    },
+    {
+     "title": "[店内調理] 国産鶏 若鶏から揚げ 500g",
+     "brand": "Cymbal デリ",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "国産鶏使用"
+    }
+   ],
+   "images": [
+    "k_kansai_dl_karaage_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

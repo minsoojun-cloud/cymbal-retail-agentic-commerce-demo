@@ -1,0 +1,3332 @@
+{
+ "category_key": "y_seasonal_event",
+ "items": [
+  {
+   "base_id": "y_seasonal_event_pumpkin_pudding",
+   "category_path": [
+    "卵・乳製品・豆乳・デザート",
+    "デザート",
+    "季節限定デザート"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    9,
+    10
+   ],
+   "dishes": [
+    "おやつ",
+    "ハロウィンパーティー",
+    "食後のデザート",
+    "お子さまのおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "かぼちゃの甘みをいかした、なめらか食感の秋限定プリンです。ハロウィンのおやつや食後のデザートにぴったり。カラメルとの相性も抜群です。",
+   "image_brief": "Retail packshot of orange pumpkin pudding cups in a clear multipack with a Japanese label reading 'かぼちゃプリン'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産かぼちゃ使用 かぼちゃプリン 70g×3個",
+     "brand": "トップバリュ",
+     "size": "70g×3個",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス かぼちゃプリン 70g×4個",
+     "brand": "トップバリュ ベストプライス",
+     "size": "70g×4個",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産えびすかぼちゃの濃厚パンプキンプリン 1個（110g）",
+     "brand": "トップバリュ セレクト",
+     "size": "110g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃプリン ホイップのせ 1個（120g）",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン かぼちゃプリン ファミリーパック 70g×6個",
+     "brand": "トップバリュ",
+     "size": "70g×6個",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機かぼちゃのプリン 2個入（80g×2）",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "80g×2個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 焼きかぼちゃプリン カラメルソース付 2個入（90g×2）",
+     "brand": "トップバリュ",
+     "size": "90g×2個",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_pumpkin_pudding_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_pumpkin_pie_tart",
+   "category_path": [
+    "お菓子・製菓",
+    "洋菓子・ケーキ",
+    "タルト・パイ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    9,
+    10
+   ],
+   "dishes": [
+    "ハロウィンパーティー",
+    "おやつ",
+    "ティータイム",
+    "食後のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "ほっくり甘いかぼちゃのフィリングをサクサク生地で包んだ、秋限定のパンプキンスイーツです。ハロウィンのパーティーや家族のおやつ時間におすすめです。",
+   "image_brief": "Retail packshot of a golden pumpkin pie slice in a clear dome pack with an orange Japanese label reading 'パンプキンパイ'.",
+   "variants": [
+    {
+     "title": "[店内焼成] 北海道産かぼちゃのパンプキンパイ 1/6カット",
+     "brand": "",
+     "size": "1切",
+     "price_tax_excluded": 258,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "[店内焼成] 北海道産かぼちゃのパンプキンパイ ホール 18cm",
+     "brand": "",
+     "size": "1台（18cm）",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産かぼちゃ使用"
+    },
+    {
+     "title": "トップバリュ パンプキンタルト 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産かぼちゃのパンプキンチーズタルト 1個",
+     "brand": "トップバリュ セレクト",
+     "size": "1個",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃのモンブランタルト 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニパンプキンパイ 個包装 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃクリームのシュークリーム 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_pumpkin_pie_tart_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_halloween_snack_assort",
+   "category_path": [
+    "お菓子・製菓",
+    "詰め合わせ・アソート",
+    "ハロウィンお菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    10
+   ],
+   "dishes": [
+    "ハロウィンパーティー",
+    "おやつ",
+    "子ども会の配布用",
+    "お弁当のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "個包装で配りやすいハロウィン向けのお菓子アソートです。子ども会やご近所への配布、おうちパーティーのテーブルを楽しく彩ります。",
+   "image_brief": "Retail packshot of a large orange-and-purple bag of individually wrapped assorted sweets with pumpkin and bat motifs and Japanese text 'ハロウィン アソート'.",
+   "variants": [
+    {
+     "title": "トップバリュ ハロウィン 個包装お菓子アソート 30袋入",
+     "brand": "トップバリュ",
+     "size": "30袋入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン 個包装お菓子アソート 大袋 60袋入",
+     "brand": "トップバリュ",
+     "size": "60袋入",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン かぼちゃクッキー 個包装 12枚入",
+     "brand": "トップバリュ",
+     "size": "12枚入",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン ミニチョコ アソート 個包装 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン ソフトキャンディ フルーツ味 アソート 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン 小分けスナック 4種アソート 10袋入",
+     "brand": "トップバリュ",
+     "size": "10袋入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン マシュマロ かぼちゃ味 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハロウィン ラムネ 個包装 25袋入",
+     "brand": "トップバリュ",
+     "size": "25袋入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_halloween_snack_assort_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_kuri_gohan_mix",
+   "category_path": [
+    "調味料",
+    "ごはんの素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "栗ご飯",
+    "おにぎり",
+    "お弁当",
+    "秋の献立"
+   ],
+   "tax_rate": 8,
+   "description": "お米と一緒に炊くだけで、ほくほくの栗ご飯が手軽に作れます。秋の献立やお弁当のおにぎりにおすすめ。お吸い物や焼き魚と合わせて季節の食卓に。",
+   "image_brief": "Retail packshot of a stand-up pouch of chestnut rice seasoning showing a bowl of chestnut rice and Japanese text '栗ごはんの素'.",
+   "variants": [
+    {
+     "title": "トップバリュ 栗ごはんの素 2合用（栗入り）",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗ごはんの素 3合用（栗入り）",
+     "brand": "トップバリュ",
+     "size": "3合用",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産栗使用 栗おこわの素 3合用",
+     "brand": "トップバリュ セレクト",
+     "size": "3合用",
+     "price_tax_excluded": 598,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 栗ごはんの素 2合用",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2合用",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗と鶏ごぼうの炊き込みごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ むき栗たっぷり 栗ごはんの素 4合用",
+     "brand": "トップバリュ",
+     "size": "4合用",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 炊き込み用 国産むき栗 水煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_kuri_gohan_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_matsutake_gohan_mix",
+   "category_path": [
+    "調味料",
+    "ごはんの素",
+    "炊き込みご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "松茸ご飯",
+    "お吸い物",
+    "茶碗蒸し",
+    "秋の献立"
+   ],
+   "tax_rate": 8,
+   "description": "松茸の豊かな香りを楽しめる、秋の炊き込みごはんの素とお吸いものです。炊飯器で手軽に作れて、焼き魚や茶碗蒸しと合わせれば秋のごちそうに。",
+   "image_brief": "Retail packshot of a brown pouch of matsutake-flavored rice seasoning with a mushroom illustration and Japanese text '松茸風味ごはんの素'.",
+   "variants": [
+    {
+     "title": "トップバリュ 松茸風味ごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 松茸風味ごはんの素 3合用",
+     "brand": "トップバリュ",
+     "size": "3合用",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産松茸入り 松茸ごはんの素 2合用",
+     "brand": "トップバリュ セレクト",
+     "size": "2合用",
+     "price_tax_excluded": 798,
+     "origin": "国産松茸使用"
+    },
+    {
+     "title": "トップバリュ 松茸風味 お吸いもの 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 松茸風味 お吸いもの 徳用 10袋入",
+     "brand": "トップバリュ",
+     "size": "10袋入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 松茸と舞茸の炊き込みごはんの素 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 松茸風味 茶碗蒸しの素 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2人前×2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_matsutake_gohan_mix_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_kuri_kanroni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・甘露煮",
+    "栗の甘露煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "栗きんとん",
+    "おせち",
+    "栗ご飯",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "シロップでつややかに煮上げた栗の甘露煮です。年末の栗きんとん作りやおせちの彩りに欠かせません。栗ご飯やおやつにも使えます。",
+   "image_brief": "Retail packshot of a glass jar filled with golden glazed chestnuts in syrup with a Japanese label reading '栗甘露煮'.",
+   "variants": [
+    {
+     "title": "トップバリュ 栗甘露煮 瓶 固形量180g",
+     "brand": "トップバリュ",
+     "size": "固形量180g",
+     "price_tax_excluded": 498,
+     "origin": "韓国産栗使用"
+    },
+    {
+     "title": "トップバリュ 栗甘露煮 袋 固形量150g",
+     "brand": "トップバリュ",
+     "size": "固形量150g",
+     "price_tax_excluded": 398,
+     "origin": "韓国産栗使用"
+    },
+    {
+     "title": "トップバリュ セレクト 国産栗 甘露煮 瓶 固形量200g",
+     "brand": "トップバリュ セレクト",
+     "size": "固形量200g",
+     "price_tax_excluded": 1080,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "トップバリュ 割れ栗 甘露煮 きんとん用 固形量300g",
+     "brand": "トップバリュ",
+     "size": "固形量300g",
+     "price_tax_excluded": 498,
+     "origin": "中国産栗使用"
+    },
+    {
+     "title": "トップバリュ 渋皮栗 甘露煮 瓶 固形量170g",
+     "brand": "トップバリュ",
+     "size": "固形量170g",
+     "price_tax_excluded": 698,
+     "origin": "韓国産栗使用"
+    },
+    {
+     "title": "トップバリュ 栗甘露煮 大粒 瓶 固形量330g",
+     "brand": "トップバリュ",
+     "size": "固形量330g",
+     "price_tax_excluded": 898,
+     "origin": "韓国産栗使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 栗甘露煮 袋 固形量250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "固形量250g",
+     "price_tax_excluded": 448,
+     "origin": "中国産栗使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_kuri_kanroni_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_frozen_yaki_imo",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 スイーツ",
+    "冷凍焼き芋"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "朝ごはん",
+    "お弁当",
+    "スイートポテト作り"
+   ],
+   "tax_rate": 8,
+   "description": "じっくり焼き上げたねっとり甘い焼き芋を冷凍しました。レンジで温めてほかほかに、半解凍でひんやりスイーツ感覚でも楽しめます。お子さまのおやつや朝ごはんに。",
+   "image_brief": "Retail packshot of a resealable frozen bag showing whole roasted sweet potatoes split open with golden flesh and Japanese text '冷凍 焼き芋'.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 焼き芋 紅はるか 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 冷凍 焼き芋 紅はるか 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 冷凍 焼き芋 シルクスイート 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ 冷凍 焼き芋 安納芋 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県種子島産"
+    },
+    {
+     "title": "トップバリュ 冷凍 ひとくち焼き芋 紅はるか 個包装 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 498,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 焼き芋スティック 500g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 熟成焼き芋 紅はるか 大 2本入（約500g）",
+     "brand": "トップバリュ セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_frozen_yaki_imo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_hoshi_imo",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "干し芋"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "お弁当のデザート"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいもを蒸して干し上げた、素朴な甘さの干し芋です。軽くあぶるとさらに香ばしく、子どものおやつやお茶うけにぴったりです。",
+   "image_brief": "Retail packshot of a clear bag of flat golden dried sweet potato slices with a Japanese label reading '干し芋'.",
+   "variants": [
+    {
+     "title": "トップバリュ 茨城県産 平干し 干し芋 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ 茨城県産 丸干し 干し芋 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 448,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ セレクト 茨城県産 紅はるか 干し芋 スティック 100g",
+     "brand": "トップバリュ セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "茨城県産"
+    },
+    {
+     "title": "トップバリュ 干し芋 徳用 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 鹿児島県産 紅はるか 干し芋 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機干し芋 100g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 一口 干し芋 個包装 10袋入",
+     "brand": "トップバリュ",
+     "size": "10袋入",
+     "price_tax_excluded": 498,
+     "origin": "茨城県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_hoshi_imo_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_tsukimi_dango",
+   "category_path": [
+    "お菓子・製菓",
+    "和菓子",
+    "だんご"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10
+   ],
+   "dishes": [
+    "お月見",
+    "十五夜",
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "十五夜・十三夜のお月見に供える、もちもちの白いお団子です。あんこやきなこを添えて、家族で秋の夜長を楽しめます。",
+   "image_brief": "Retail packshot of a clear tray of white round rice dumplings stacked in a pyramid with a Japanese label reading 'お月見団子'.",
+   "variants": [
+    {
+     "title": "[店内製造] お月見団子 15個入",
+     "brand": "",
+     "size": "15個入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "[店内製造] お月見団子 こしあん付 10個入",
+     "brand": "",
+     "size": "10個入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ お月見だんご 白 15個入",
+     "brand": "トップバリュ",
+     "size": "15個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お月見 きなこ団子 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お月見 三色だんご 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お月見 うさぎ上用まんじゅう 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] お月見団子 大玉 粒あん付 5個入",
+     "brand": "",
+     "size": "5個入",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_tsukimi_dango_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_nabe_shime_zosui",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "鍋の〆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "小麦",
+    "乳"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋の〆",
+    "雑炊",
+    "寄せ鍋",
+    "水炊き",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "鍋の残りスープに加えるだけで、〆の雑炊やリゾットが手軽に作れます。寄せ鍋や水炊き、豆乳鍋の最後まで家族でおいしく楽しめます。",
+   "image_brief": "Retail packshot of a pouch of hot-pot finishing rice porridge seasoning showing a steaming egg zosui in a donabe and Japanese text '鍋の〆 雑炊'.",
+   "variants": [
+    {
+     "title": "トップバリュ 鍋の〆 たまご雑炊の素 2袋入（2〜3人前×2）",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋の〆 チーズリゾットの素 2袋入",
+     "brand": "トップバリュ",
+     "size": "2〜3人前×2袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋の〆 雑炊セット（国産米ごはん・だし付）2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 鍋の〆 ゆで中華麺 3玉入",
+     "brand": "トップバリュ",
+     "size": "3玉入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋の〆 稲庭風 細うどん 2玉入",
+     "brand": "トップバリュ",
+     "size": "2玉入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ たまご雑炊 4食入",
+     "brand": "トップバリュ",
+     "size": "4食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋用 しゃぶしゃぶもち 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_nabe_shime_zosui_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_nabeyaki_udon",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 うどん・麺類",
+    "鍋焼きうどん"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "えび",
+    "卵"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋焼きうどん",
+    "昼ごはん",
+    "夜食",
+    "寒い日のごはん"
+   ],
+   "tax_rate": 8,
+   "description": "アルミ鍋ごと火にかけるだけで、えび天入りのあつあつ鍋焼きうどんが完成します。寒い日のお昼ごはんや、忙しい日のひとり分ごはんに便利です。",
+   "image_brief": "Retail packshot of a frozen aluminum hot-pot tray of udon topped with shrimp tempura and egg, wrapped in film with Japanese text '鍋焼うどん'.",
+   "variants": [
+    {
+     "title": "トップバリュ 鍋焼うどん アルミ鍋入り えび天付 1食（350g）",
+     "brand": "トップバリュ",
+     "size": "1食（350g）",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋焼うどん アルミ鍋入り 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 鍋焼うどん 1食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1食",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 海老天2本入り 鍋焼うどん 1食",
+     "brand": "トップバリュ セレクト",
+     "size": "1食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレー鍋焼うどん 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 味噌煮込み風 鍋焼うどん 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 具だくさん 鍋焼うどん 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_nabeyaki_udon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_oden_tsuyu",
+   "category_path": [
+    "調味料",
+    "鍋つゆ・鍋の素",
+    "おでんの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "大根の煮物",
+    "煮卵",
+    "鍋の〆"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしがきいた、おでん用のつゆです。大根やたまご、練り物を煮込むだけで、味のしみたおでんが手軽に作れます。",
+   "image_brief": "Retail packshot of a bottle of concentrated oden broth with an illustration of oden in a pot and Japanese text 'おでんつゆ'.",
+   "variants": [
+    {
+     "title": "トップバリュ おでんの素 顆粒 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでんつゆ 濃縮 400ml",
+     "brand": "トップバリュ",
+     "size": "400ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでんつゆ ストレート 3〜4人前 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 関西風 おでんつゆ ストレート 750g",
+     "brand": "トップバリュ",
+     "size": "750g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 静岡風 黒おでんの素 濃縮 300ml",
+     "brand": "トップバリュ",
+     "size": "300ml",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス おでんの素 粉末 2袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "2袋入",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼きあご入り おでんつゆ 濃縮 500ml",
+     "brand": "トップバリュ セレクト",
+     "size": "500ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_oden_tsuyu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_oden_gyusuji_kushi",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "牛すじ串"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "牛すじ煮込み",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "下ゆでしてやわらかく仕上げた、おでん用の牛すじ串です。おでん鍋に入れて温めるだけで、牛のうまみがだしにしみ出します。",
+   "image_brief": "Retail packshot of a vacuum-sealed tray of skewered braised beef tendon pieces with a Japanese label reading 'おでん用 牛すじ串'.",
+   "variants": [
+    {
+     "title": "トップバリュ おでん用 牛すじ串 下ゆで済 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "オーストラリア産牛すじ使用"
+    },
+    {
+     "title": "トップバリュ おでん用 牛すじ串 下ゆで済 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産牛すじ使用"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛すじ串 おでん用 3本入",
+     "brand": "トップバリュ セレクト",
+     "size": "3本入",
+     "price_tax_excluded": 598,
+     "origin": "国産牛すじ使用"
+    },
+    {
+     "title": "トップバリュ 牛すじ串 だし味付け 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産牛すじ使用"
+    },
+    {
+     "title": "[店内調理] 牛すじ串 おでん 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 128,
+     "origin": "オーストラリア産牛すじ使用"
+    },
+    {
+     "title": "トップバリュ おでん用 ボイル牛すじ 串なし 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 448,
+     "origin": "オーストラリア産牛すじ使用"
+    },
+    {
+     "title": "トップバリュ おでん用 鶏つくね串 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 298,
+     "origin": "国産鶏使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_oden_gyusuji_kushi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_oden_mochi_kinchaku",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "もち巾着"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "寄せ鍋",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "油揚げの中におもちを詰めて、かんぴょうで結んだおでん種です。だしを含んだ油揚げととろけるおもちが、子どもにも人気です。",
+   "image_brief": "Retail packshot of a clear tray of fried tofu pouches tied with gourd strips, filled with mochi, with Japanese text 'もち巾着'.",
+   "variants": [
+    {
+     "title": "トップバリュ おでん用 もち巾着 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでん用 もち巾着 8個入",
+     "brand": "トップバリュ",
+     "size": "8個入",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産大豆油揚げ使用 もち巾着 3個入",
+     "brand": "トップバリュ",
+     "size": "3個入",
+     "price_tax_excluded": 298,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "トップバリュ おでん用 餃子巾着 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでん用 きのこ巾着 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おでん用 ミニもち巾着 6個入",
+     "brand": "トップバリュ",
+     "size": "6個入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_oden_mochi_kinchaku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_oden_nerimono_tane",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "おでん種",
+    "巻き物・ちくわぶ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おでん",
+    "煮物",
+    "お弁当",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "おでんに入れたい、ごぼう巻やウインナー巻、ちくわぶなどの定番具材です。好きな種を組み合わせて、わが家だけのおでんを楽しめます。",
+   "image_brief": "Retail packshot of a clear tray holding fish cake rolls wrapped around burdock and sausages with a Japanese label reading 'ごぼう巻・ウインナー巻'.",
+   "variants": [
+    {
+     "title": "トップバリュ ごぼう巻 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ウインナー巻 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ いか巻 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ うずら巻 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごぼう巻・ウインナー巻 詰め合わせ 8本入",
+     "brand": "トップバリュ",
+     "size": "8本入",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ちくわぶ 1本（200g）",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_oden_nerimono_tane_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_toshikoshi_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "そば",
+    "年越しそば"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "そば",
+    "小麦",
+    "えび"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "年越しそば",
+    "天ぷらそば",
+    "にしんそば",
+    "鴨南蛮"
+   ],
+   "tax_rate": 8,
+   "description": "大晦日に家族で味わう、つゆ付きの年越しそばです。えび天やかき揚げをのせて、一年の締めくくりにどうぞ。",
+   "image_brief": "Retail packshot of a chilled pack of fresh soba noodles with a soup sachet and a festive red-and-gold Japanese label reading '年越しそば'.",
+   "variants": [
+    {
+     "title": "トップバリュ 年越しそば 生そば つゆ付 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越しそば 生そば つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 信州産そば粉使用 年越し 二八生そば 4食入",
+     "brand": "トップバリュ セレクト",
+     "size": "4食入",
+     "price_tax_excluded": 698,
+     "origin": "長野県産そば粉使用"
+    },
+    {
+     "title": "トップバリュ 年越し 天ぷらそば えび天・つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越し にしんそば にしん甘露煮付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越しそば ゆでそば つゆ付 3食入",
+     "brand": "トップバリュ",
+     "size": "3食入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越し 鴨南蛮そば 合鴨肉・つゆ付 2食入",
+     "brand": "トップバリュ",
+     "size": "2食入",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_toshikoshi_soba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_frozen_kakiage",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 天ぷら・揚げ物",
+    "かき揚げ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "えび"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "年越しそば",
+    "天ぷらうどん",
+    "天丼",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "年越しそばやうどんにのせるだけの、具だくさんのかき揚げです。トースターやレンジで温めて、手軽に天ぷらそばが楽しめます。",
+   "image_brief": "Retail packshot of a frozen bag showing crispy vegetable and shrimp kakiage tempura discs on soba with Japanese text 'かき揚げ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 野菜かき揚げ 4枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "4枚入（240g）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 えびかき揚げ 4枚入（240g）",
+     "brand": "トップバリュ",
+     "size": "4枚入（240g）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 桜えびかき揚げ 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 大えびのかき揚げ 2枚入",
+     "brand": "トップバリュ セレクト",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ごぼうかき揚げ 4枚入",
+     "brand": "トップバリュ",
+     "size": "4枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 冷凍 かき揚げ 10枚入（500g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10枚入（500g）",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 レンジで揚げたて風 かき揚げ 3枚入",
+     "brand": "トップバリュ",
+     "size": "3枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_frozen_kakiage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_nikuromame",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "黒豆"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "お茶うけ",
+    "ヨーグルトのトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくらつややかに炊き上げた、おせちの定番の黒豆です。重箱に詰めるだけでお正月らしい一品に。お茶うけにもどうぞ。",
+   "image_brief": "Retail packshot of a clear cup of glossy simmered black soybeans in syrup with a red-and-gold Japanese label reading '黒豆'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産黒大豆使用 黒豆 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "トップバリュ 北海道産黒大豆使用 黒豆 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "トップバリュ セレクト 丹波黒大豆 黒豆 150g",
+     "brand": "トップバリュ セレクト",
+     "size": "150g",
+     "price_tax_excluded": 980,
+     "origin": "兵庫県産丹波黒大豆使用"
+    },
+    {
+     "title": "トップバリュ 金箔入り 黒豆 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "トップバリュ 黒豆 ミニカップ 50g×3",
+     "brand": "トップバリュ",
+     "size": "50g×3",
+     "price_tax_excluded": 398,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 黒豆 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国産黒大豆使用"
+    },
+    {
+     "title": "トップバリュ 甘さひかえめ 黒豆 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産黒大豆使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_nikuromame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_dried_kuromame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "黒豆（乾燥）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "黒豆煮",
+    "黒豆ごはん",
+    "黒豆茶"
+   ],
+   "tax_rate": 8,
+   "description": "ご家庭で黒豆を煮たい方向けの乾燥黒大豆です。一晩水に浸してじっくり煮れば、ふっくらしたおせちの黒豆に。黒豆ごはんにも使えます。",
+   "image_brief": "Retail packshot of a clear bag of shiny dried black soybeans with a simple Japanese label reading '黒大豆'.",
+   "variants": [
+    {
+     "title": "北海道産 黒大豆（光黒）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 498,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 黒大豆（光黒）300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "兵庫県産 丹波黒大豆 2L 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "トップバリュ 北海道産 黒豆 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "岡山県産 丹波種 黒大豆 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1580,
+     "origin": "岡山県産"
+    },
+    {
+     "title": "北海道産 黒大豆（いわいくろ）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産"
+    },
+    {
+     "title": "京都府産 丹波黒大豆 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1380,
+     "origin": "京都府産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_dried_kuromame_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_kuri_kinton",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "栗きんとん"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかなさつまいもあんに栗の甘露煮を合わせた、黄金色の栗きんとんです。おせちに詰めるだけで華やかに。子どもにも人気の甘い一品です。",
+   "image_brief": "Retail packshot of a clear cup of golden mashed sweet potato with whole chestnuts and a festive Japanese label reading '栗きんとん'.",
+   "variants": [
+    {
+     "title": "トップバリュ 栗きんとん 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 栗きんとん 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産栗の栗きんとん 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "国産栗使用"
+    },
+    {
+     "title": "トップバリュ 栗きんとん ミニカップ 50g×3",
+     "brand": "トップバリュ",
+     "size": "50g×3",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 栗きんとん 250g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "250g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きんとんの素 さつまいも裏ごし 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産さつまいも使用"
+    },
+    {
+     "title": "トップバリュ 紫いもきんとん 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_kuri_kinton_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_iwai_kazari_kamaboko",
+   "category_path": [
+    "豆腐・納豆・練り物",
+    "かまぼこ",
+    "祝い・飾りかまぼこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お雑煮",
+    "お正月",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "お正月の食卓を華やかに彩る紅白かまぼこや細工かまぼこです。おせちの重箱やお雑煮の具に、切るだけでおめでたい一品になります。",
+   "image_brief": "Retail packshot of red and white kamaboko fish cakes on wooden boards in a festive gift-style pack with Japanese text '紅白かまぼこ'.",
+   "variants": [
+    {
+     "title": "トップバリュ 紅白かまぼこ 2本組（紅・白 各165g）",
+     "brand": "トップバリュ",
+     "size": "165g×2本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 小田原風 特選 紅白かまぼこ 2本組",
+     "brand": "トップバリュ セレクト",
+     "size": "2本組",
+     "price_tax_excluded": 1580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 飾りかまぼこ 日の出 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 飾りかまぼこ 松竹梅 3種セット",
+     "brand": "トップバリュ",
+     "size": "3種セット",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニ紅白かまぼこ 2本組（各80g）",
+     "brand": "トップバリュ",
+     "size": "80g×2本",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶴亀 細工かまぼこ 1本",
+     "brand": "トップバリュ",
+     "size": "1本",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 紅白かまぼこ 2本組（各140g）",
+     "brand": "トップバリュ ベストプライス",
+     "size": "140g×2本",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_iwai_kazari_kamaboko_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_tazukuri",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "田作り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "晩酌",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛いたれでからめた、香ばしい田作りです。五穀豊穣を願うおせちの祝い肴として、重箱に欠かせない一品。晩酌のおつまみにも合います。",
+   "image_brief": "Retail packshot of a clear tray of glossy candied small dried sardines with sesame and a festive Japanese label reading '田作り'.",
+   "variants": [
+    {
+     "title": "トップバリュ 田作り 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 田作り 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アーモンド入り 田作り 60g",
+     "brand": "トップバリュ",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産片口いわし使用 田作り 80g",
+     "brand": "トップバリュ セレクト",
+     "size": "80g",
+     "price_tax_excluded": 698,
+     "origin": "国産片口いわし使用"
+    },
+    {
+     "title": "トップバリュ 田作り用 ごまめ 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 田作り ミニカップ 20g×3",
+     "brand": "トップバリュ",
+     "size": "20g×3",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_tazukuri_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_kobumaki",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "昆布巻"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "ごはんのおかず",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく煮含めた昆布で魚を巻いた、おせちの定番・昆布巻です。「よろこぶ」に通じる縁起物として、重箱の彩りに。",
+   "image_brief": "Retail packshot of a vacuum pack of kelp rolls tied with gourd strips showing herring inside and Japanese text 'にしん昆布巻'.",
+   "variants": [
+    {
+     "title": "トップバリュ にしん昆布巻 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鮭昆布巻 4本入",
+     "brand": "トップバリュ",
+     "size": "4本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産昆布 にしん昆布巻 6本入",
+     "brand": "トップバリュ セレクト",
+     "size": "6本入",
+     "price_tax_excluded": 798,
+     "origin": "北海道産昆布使用"
+    },
+    {
+     "title": "トップバリュ ミニ昆布巻 にしん 10本入",
+     "brand": "トップバリュ",
+     "size": "10本入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たらこ昆布巻 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごぼう昆布巻 5本入",
+     "brand": "トップバリュ",
+     "size": "5本入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_kobumaki_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_kohaku_namasu",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "紅白なます"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "箸休め",
+    "焼き魚の付け合わせ"
+   ],
+   "tax_rate": 8,
+   "description": "大根とにんじんを甘酢で和えた、さっぱりとした紅白なますです。こってりしたおせちの箸休めや、焼き魚の付け合わせにもおすすめです。",
+   "image_brief": "Retail packshot of a clear cup of julienned white daikon and orange carrot in sweet vinegar with a Japanese label reading '紅白なます'.",
+   "variants": [
+    {
+     "title": "トップバリュ 紅白なます 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 紅白なます 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ゆず入り 紅白なます 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 国産大根の紅白なます 約200g",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 298,
+     "origin": "国産大根使用"
+    },
+    {
+     "title": "トップバリュ 菊花かぶ 甘酢漬け 4個入",
+     "brand": "トップバリュ",
+     "size": "4個入",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産大根・にんじん 柚子香る紅白なます 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_kohaku_namasu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_sudako",
+   "category_path": [
+    "お魚・水産加工品",
+    "いか・たこ",
+    "酢だこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "酢の物",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "甘酢でさっぱり仕上げた紅白の酢だこです。切ってそのままおせちに詰めたり、きゅうりと合わせて酢の物にしても楽しめます。",
+   "image_brief": "Retail packshot of red-edged vinegared octopus tentacles on a tray with film wrap and Japanese label text '酢だこ'.",
+   "variants": [
+    {
+     "title": "北海道産 酢だこ 足 約150g",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "北海道産 酢だこ 足 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ 酢だこ スライス 80g",
+     "brand": "トップバリュ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "モーリタニア産"
+    },
+    {
+     "title": "トップバリュ ベストプライス 酢だこ 足 120g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "モロッコ産"
+    },
+    {
+     "title": "北海道産 酢だこ 足 1本（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 980,
+     "origin": "北海道産"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産真だこ 酢だこ 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "北海道産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_sudako_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_osechi_ebi_umani",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 おせち・正月料理",
+    "えびのうま煮"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "お祝い"
+   ],
+   "tax_rate": 8,
+   "description": "長寿を願う縁起物として、おせちに欠かせない有頭えびのうま煮です。解凍して詰めるだけで、重箱がぱっと華やかになります。",
+   "image_brief": "Retail packshot of a frozen tray of bright red head-on simmered prawns arranged in a row with a festive Japanese label reading '有頭えびのうま煮'.",
+   "variants": [
+    {
+     "title": "トップバリュ 有頭えびのうま煮 6尾入",
+     "brand": "トップバリュ",
+     "size": "6尾入",
+     "price_tax_excluded": 798,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "トップバリュ 有頭えびのうま煮 10尾入",
+     "brand": "トップバリュ",
+     "size": "10尾入",
+     "price_tax_excluded": 1280,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "トップバリュ セレクト 大有頭えびのうま煮 4尾入",
+     "brand": "トップバリュ セレクト",
+     "size": "4尾入",
+     "price_tax_excluded": 980,
+     "origin": "インドネシア産えび使用"
+    },
+    {
+     "title": "トップバリュ 有頭えび 塩焼き 6尾入",
+     "brand": "トップバリュ",
+     "size": "6尾入",
+     "price_tax_excluded": 798,
+     "origin": "ベトナム産えび使用"
+    },
+    {
+     "title": "トップバリュ 小えびのうま煮 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "タイ産えび使用"
+    },
+    {
+     "title": "トップバリュ えびの艶煮 個包装 5尾入",
+     "brand": "トップバリュ",
+     "size": "5尾入",
+     "price_tax_excluded": 698,
+     "origin": "ベトナム産えび使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_osechi_ebi_umani_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_marumochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "もち",
+    "丸もち"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "おしるこ",
+    "焼きもち",
+    "お正月"
+   ],
+   "tax_rate": 8,
+   "description": "関西風のお雑煮に欠かせない、丸い形のおもちです。煮くずれしにくく、焼いても煮てもなめらかな食感。おしるこやぜんざいにも合います。",
+   "image_brief": "Retail packshot of a clear bag of individually wrapped round white rice cakes with a Japanese label reading '丸もち'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産水稲もち米100% 丸もち 1kg",
+     "brand": "トップバリュ",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 国産水稲もち米100% 丸もち 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 458,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 個包装 丸もち 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ セレクト 新潟県産こがねもち 丸もち 600g",
+     "brand": "トップバリュ セレクト",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "新潟県産もち米使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス 丸もち 800g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "800g",
+     "price_tax_excluded": 598,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ お雑煮用 小丸もち 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ よもぎ入り 丸もち 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 黒豆入り 豆もち 400g",
+     "brand": "トップバリュ",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_marumochi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_kagami_mochi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "もち",
+    "鏡もち"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "お正月飾り",
+    "鏡開き",
+    "おしるこ",
+    "お雑煮"
+   ],
+   "tax_rate": 8,
+   "description": "年神様をお迎えするお正月飾りの鏡もちです。中のおもちは個包装なので、鏡開きのあとはおしるこやお雑煮でおいしくいただけます。",
+   "image_brief": "Retail packshot of a plastic two-tier kagami mochi container topped with an orange-colored decoration, with Japanese text '鏡もち'.",
+   "variants": [
+    {
+     "title": "トップバリュ 鏡もち 個包装もち入り 2号（約90g）",
+     "brand": "トップバリュ",
+     "size": "2号（約90g）",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 鏡もち 個包装もち入り 3号（約165g）",
+     "brand": "トップバリュ",
+     "size": "3号（約165g）",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 鏡もち 個包装もち入り 5号（約330g）",
+     "brand": "トップバリュ",
+     "size": "5号（約330g）",
+     "price_tax_excluded": 698,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 鏡もち 個包装もち入り 7号（約495g）",
+     "brand": "トップバリュ",
+     "size": "7号（約495g）",
+     "price_tax_excluded": 980,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ 鏡もち 飾り付き 10号（約825g）",
+     "brand": "トップバリュ",
+     "size": "10号（約825g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ ミニ鏡もち 1.5号（約70g）",
+     "brand": "トップバリュ",
+     "size": "1.5号（約70g）",
+     "price_tax_excluded": 248,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "トップバリュ セレクト 国産水稲もち米 生鏡もち 2段 約500g",
+     "brand": "トップバリュ セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1280,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_kagami_mochi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_frozen_osechi_jubako",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おせち・正月料理",
+    "おせち料理"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "お祝い",
+    "年始の来客"
+   ],
+   "tax_rate": 8,
+   "description": "黒豆や伊達巻、えびのうま煮など定番の品を詰め合わせた冷凍おせちです。冷蔵庫で解凍するだけで、元日の食卓が華やかに整います。",
+   "image_brief": "Retail packshot of a black lacquer-style jubako box filled with colorful osechi dishes, wrapped in clear film with a gold Japanese label reading 'おせち'.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍おせち 和風 一段重 2〜3人前 18品",
+     "brand": "トップバリュ",
+     "size": "一段重 18品",
+     "price_tax_excluded": 9800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍おせち 和洋 二段重 3〜4人前 30品",
+     "brand": "トップバリュ",
+     "size": "二段重 30品",
+     "price_tax_excluded": 16800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍おせち 和洋中 三段重 4〜5人前 40品",
+     "brand": "トップバリュ セレクト",
+     "size": "三段重 40品",
+     "price_tax_excluded": 24800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍おせち 個食盛り 1人前 15品",
+     "brand": "トップバリュ",
+     "size": "1人前 15品",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍おせち 洋風 一段重 2〜3人前 20品",
+     "brand": "トップバリュ",
+     "size": "一段重 20品",
+     "price_tax_excluded": 9800,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍おせち 和風 二段重 3〜4人前 27品",
+     "brand": "トップバリュ",
+     "size": "二段重 27品",
+     "price_tax_excluded": 15800,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_frozen_osechi_jubako_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_amazake",
+   "category_path": [
+    "飲料・水",
+    "甘酒・和風飲料",
+    "甘酒"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "朝ごはん",
+    "おやつ",
+    "初詣のあと",
+    "ひなたぼっこのおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "米麹から作ったやさしい甘さの甘酒です。冬は温めて、ほっとひと息つきたいときに。朝ごはんや家族のおやつ時間にもどうぞ。",
+   "image_brief": "Retail packshot of a white paper carton of rice koji amazake with a steaming cup illustration and Japanese text '米麹の甘酒'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米使用 米麹の甘酒 1000ml",
+     "brand": "トップバリュ",
+     "size": "1000ml",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 米麹の甘酒 125ml×6本",
+     "brand": "トップバリュ",
+     "size": "125ml×6本",
+     "price_tax_excluded": 498,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 米麹の甘酒 生姜入り 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 酒粕の甘酒 2倍濃縮 500ml",
+     "brand": "トップバリュ",
+     "size": "500ml",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機米麹 甘酒 500ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "500ml",
+     "price_tax_excluded": 448,
+     "origin": "国産有機米使用"
+    },
+    {
+     "title": "トップバリュ 米麹の甘酒 190g缶×6本",
+     "brand": "トップバリュ",
+     "size": "190g×6本",
+     "price_tax_excluded": 598,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "トップバリュ 米麹の甘酒 ゆず風味 125ml×3本",
+     "brand": "トップバリュ",
+     "size": "125ml×3本",
+     "price_tax_excluded": 258,
+     "origin": "国産米使用"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_amazake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_zenzai_oshiruko",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "あずき・甘納豆",
+    "ぜんざい・おしるこ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おしるこ",
+    "鏡開き",
+    "冬至のいとこ煮",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆をふっくら炊いたぜんざい・おしるこです。焼いたおもちや白玉を入れるだけで、寒い日のおやつや鏡開きにぴったりです。",
+   "image_brief": "Retail packshot of a pouch of sweet red bean soup with an illustration of a bowl with toasted mochi and Japanese text 'ぜんざい'.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産小豆使用 ぜんざい 160g×2袋",
+     "brand": "トップバリュ",
+     "size": "160g×2袋",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "トップバリュ 北海道産小豆使用 おしるこ こしあん 160g×2袋",
+     "brand": "トップバリュ",
+     "size": "160g×2袋",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "トップバリュ 北海道産小豆使用 ゆであずき 缶 430g",
+     "brand": "トップバリュ",
+     "size": "430g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産小豆使用"
+    },
+    {
+     "title": "トップバリュ 白玉入り ぜんざい カップ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ おしるこ もち入り 4食入",
+     "brand": "トップバリュ",
+     "size": "4食入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道十勝産小豆 ぜんざい 2袋入",
+     "brand": "トップバリュ セレクト",
+     "size": "2袋入",
+     "price_tax_excluded": 398,
+     "origin": "北海道十勝産小豆使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス ゆであずき 缶 190g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "190g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_zenzai_oshiruko_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_fresh_yuzu",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "ゆず"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "鍋",
+    "紅白なます",
+    "お吸い物",
+    "冬至",
+    "ゆず大根"
+   ],
+   "tax_rate": 8,
+   "description": "さわやかな香りが魅力の旬のゆずです。皮を刻んでお吸い物や茶碗蒸しに、果汁は鍋のぽん酢やなますに。冬至のゆず湯にも使えます。",
+   "image_brief": "Retail packshot of bright yellow yuzu citrus fruits in a small net bag with a Japanese label reading 'ゆず'.",
+   "variants": [
+    {
+     "title": "高知県産 ゆず 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 298,
+     "origin": "高知県産"
+    },
+    {
+     "title": "高知県産 ゆず 4個入",
+     "brand": "",
+     "size": "4個入",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "徳島県産 ゆず 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 398,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "高知県産 ゆず 訳あり 約500g（6〜8個）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 598,
+     "origin": "高知県産"
+    },
+    {
+     "title": "宮崎県産 ゆず 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 158,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "高知県産 ゆず 冬至用 大玉 3個入",
+     "brand": "",
+     "size": "3個入",
+     "price_tax_excluded": 498,
+     "origin": "高知県産"
+    },
+    {
+     "title": "愛媛県産 ゆず 2個入",
+     "brand": "",
+     "size": "2個入",
+     "price_tax_excluded": 278,
+     "origin": "愛媛県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_fresh_yuzu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_roast_chicken",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "ローストチキン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "ホームパーティー",
+    "誕生日",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "皮はパリッと、中はジューシーに焼き上げたクリスマスのローストチキンです。食卓の主役にぴったりで、残りはサンドイッチやサラダにも活用できます。",
+   "image_brief": "Retail packshot of a glossy golden whole roast chicken in a clear dome container with a red Japanese label reading 'ローストチキン'.",
+   "variants": [
+    {
+     "title": "[店内調理] 国産若鶏 丸焼きローストチキン 1羽（約1kg）",
+     "brand": "",
+     "size": "1羽（約1kg）",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 ハーフローストチキン 半羽（約500g）",
+     "brand": "",
+     "size": "半羽（約500g）",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 丸鶏ローストチキン ハーブ＆ガーリック 1羽（約900g）",
+     "brand": "トップバリュ",
+     "size": "1羽（約900g）",
+     "price_tax_excluded": 1980,
+     "origin": "ブラジル産鶏肉使用"
+    },
+    {
+     "title": "トップバリュ セレクト 国産銘柄鶏 丸焼きローストチキン 1羽（約1.2kg）",
+     "brand": "トップバリュ セレクト",
+     "size": "1羽（約1.2kg）",
+     "price_tax_excluded": 3980,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 骨付きもも ローストチキン 1本",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 骨付きもも ローストチキン 3本入",
+     "brand": "",
+     "size": "3本入",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "[店内調理] 国産若鶏 手羽元ローストチキン 6本入",
+     "brand": "",
+     "size": "6本入",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_roast_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_raw_whole_chicken",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "丸鶏・パーティー用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "ローストチキン",
+    "クリスマス",
+    "参鶏湯",
+    "鶏ガラスープ"
+   ],
+   "tax_rate": 8,
+   "description": "オーブンで焼いて手作りローストチキンにしたい方向けの丸鶏や骨付き肉です。クリスマスのごちそうはもちろん、参鶏湯やスープにも使えます。",
+   "image_brief": "Retail packshot of a whole raw chicken on a white tray wrapped in film with a Japanese price label reading '丸鶏 中抜き'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産若鶏 丸鶏 中抜き 1羽（約1.5kg）",
+     "brand": "",
+     "size": "1羽（約1.5kg）",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏 丸鶏 中抜き 小 1羽（約1.1kg）",
+     "brand": "",
+     "size": "1羽（約1.1kg）",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 丸鶏 中抜き 1羽（約1.3kg）",
+     "brand": "",
+     "size": "1羽（約1.3kg）",
+     "price_tax_excluded": 998,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏 丸鶏 中抜き 1羽（約1.4kg）",
+     "brand": "",
+     "size": "1羽（約1.4kg）",
+     "price_tax_excluded": 2980,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏 骨付きもも ローストチキン用 2本入（約600g）",
+     "brand": "",
+     "size": "2本入（約600g）",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産若鶏 半身 1枚（約700g）",
+     "brand": "",
+     "size": "1枚（約700g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 合鴨ロース 生 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_raw_whole_chicken_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_sponge_cake_base",
+   "category_path": [
+    "お菓子・製菓",
+    "製菓材料",
+    "スポンジケーキ台"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマスケーキ",
+    "いちごのショートケーキ",
+    "誕生日ケーキ",
+    "手作りおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "クリームとフルーツを挟むだけで、手作りケーキが手軽に完成するスポンジ台です。クリスマスや誕生日に、子どもと一緒にデコレーションを楽しめます。",
+   "image_brief": "Retail packshot of a round golden sponge cake base in a clear plastic case with a Japanese label reading 'スポンジケーキ 5号'.",
+   "variants": [
+    {
+     "title": "トップバリュ スポンジケーキ 5号（15cm）2枚スライス",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スポンジケーキ 6号（18cm）2枚スライス",
+     "brand": "トップバリュ",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スポンジケーキ ココア 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ロールケーキ用 スポンジシート 2枚入",
+     "brand": "トップバリュ",
+     "size": "2枚入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スポンジケーキ 4号（12cm）2枚スライス",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小麦使用 しっとりスポンジケーキ 6号（18cm）",
+     "brand": "トップバリュ セレクト",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 698,
+     "origin": "北海道産小麦使用"
+    },
+    {
+     "title": "トップバリュ スポンジケーキ 3枚スライス 6号（18cm）",
+     "brand": "トップバリュ",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_sponge_cake_base_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_fresh_strawberry",
+   "category_path": [
+    "野菜・果物",
+    "果物",
+    "いちご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "dishes": [
+    "クリスマスケーキ",
+    "ショートケーキ",
+    "おやつ",
+    "朝ごはん",
+    "いちご大福"
+   ],
+   "tax_rate": 8,
+   "description": "甘みと酸味のバランスがよい冬いちごです。クリスマスケーキのデコレーションはもちろん、そのままデザートや朝ごはんのヨーグルトにも。",
+   "image_brief": "Retail packshot of a clear plastic pack of glossy red strawberries neatly arranged with a Japanese label reading 'いちご'.",
+   "variants": [
+    {
+     "title": "栃木県産 いちご（とちおとめ）1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "福岡県産 いちご（あまおう）1パック（約270g）",
+     "brand": "",
+     "size": "約270g",
+     "price_tax_excluded": 1080,
+     "origin": "福岡県産"
+    },
+    {
+     "title": "佐賀県産 いちご（いちごさん）1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 898,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "栃木県産 いちご（とちあいか）1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 848,
+     "origin": "栃木県産"
+    },
+    {
+     "title": "静岡県産 いちご（紅ほっぺ）1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 798,
+     "origin": "静岡県産"
+    },
+    {
+     "title": "熊本県産 いちご（ゆうべに）1パック（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 748,
+     "origin": "熊本県産"
+    },
+    {
+     "title": "国産 ケーキ用 小粒いちご 1パック（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "福岡県産 いちご（あまおう）大粒 2パック（約540g）",
+     "brand": "",
+     "size": "約540g",
+     "price_tax_excluded": 1980,
+     "origin": "福岡県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_fresh_strawberry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_cake_decoration",
+   "category_path": [
+    "お菓子・製菓",
+    "製菓材料",
+    "ケーキデコレーション"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマスケーキ",
+    "誕生日ケーキ",
+    "手作りクッキー",
+    "おやつ作り"
+   ],
+   "tax_rate": 8,
+   "description": "手作りケーキをかわいく仕上げるデコレーション材料です。チョコペンやアラザンで、子どもと一緒にクリスマスケーキ作りを楽しめます。",
+   "image_brief": "Retail packshot of a small clear shaker bottle of colorful sprinkles next to chocolate pens, with Japanese label text 'デコレーション'.",
+   "variants": [
+    {
+     "title": "トップバリュ チョコスプレー カラフル 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ アラザン 銀 30g",
+     "brand": "トップバリュ",
+     "size": "30g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チョコペン ホワイト 3本入",
+     "brand": "トップバリュ",
+     "size": "3本入",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ メッセージ ホワイトチョコプレート 1枚",
+     "brand": "トップバリュ",
+     "size": "1枚",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 製菓用 ミルクチョコレート 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クリスマス デコレーションシュガー ツリー・星 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 製菓用 純ココアパウダー 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_cake_decoration_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_frozen_christmas_cake",
+   "category_path": [
+    "冷凍食品・アイス",
+    "冷凍 スイーツ",
+    "クリスマスケーキ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "ホームパーティー",
+    "食後のデザート",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "冷蔵庫で解凍するだけで食べられる、クリスマス向けの冷凍ケーキです。ブッシュドノエルやショートケーキなど、家族の好みに合わせて選べます。",
+   "image_brief": "Retail packshot of a chocolate log cake with festive decorations in a clear-window gift box with Japanese text 'ブッシュドノエル'.",
+   "variants": [
+    {
+     "title": "トップバリュ 冷凍 ブッシュドノエル チョコレート 約14cm",
+     "brand": "トップバリュ",
+     "size": "約14cm",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 いちごのショートケーキ 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 2480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 いちごのショートケーキ 4号（12cm）",
+     "brand": "トップバリュ",
+     "size": "4号（12cm）",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 冷凍 北海道産生クリームのショートケーキ 6号（18cm）",
+     "brand": "トップバリュ セレクト",
+     "size": "6号（18cm）",
+     "price_tax_excluded": 3980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ガトーショコラ 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ベイクドチーズケーキ 5号（15cm）",
+     "brand": "トップバリュ",
+     "size": "5号（15cm）",
+     "price_tax_excluded": 1680,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 冷凍 ミニ ブッシュドノエル 2個入",
+     "brand": "トップバリュ",
+     "size": "2個入",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_frozen_christmas_cake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_stollen",
+   "category_path": [
+    "パン・シリアル・ジャム・はちみつ",
+    "菓子パン",
+    "シュトーレン・パネトーネ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳",
+    "くるみ"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "ティータイム",
+    "朝ごはん",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ドライフルーツとナッツをたっぷり練り込んだ、クリスマスを待つ間に少しずつ楽しむシュトーレンです。薄く切って紅茶やコーヒーと一緒にどうぞ。",
+   "image_brief": "Retail packshot of a powdered-sugar-coated stollen loaf in a clear bag with a red ribbon and Japanese text 'シュトーレン'.",
+   "variants": [
+    {
+     "title": "トップバリュ シュトーレン 1本（約350g）",
+     "brand": "トップバリュ",
+     "size": "約350g",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニシュトーレン 1本（約150g）",
+     "brand": "トップバリュ",
+     "size": "約150g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 洋酒香る シュトーレン 約500g",
+     "brand": "トップバリュ セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スライス シュトーレン 個包装 6切入",
+     "brand": "トップバリュ",
+     "size": "6切入",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ パネトーネ 1個（約300g）",
+     "brand": "トップバリュ",
+     "size": "約300g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 抹茶 シュトーレン 約250g",
+     "brand": "トップバリュ",
+     "size": "約250g",
+     "price_tax_excluded": 980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内焼成] シュトーレン 1/2カット",
+     "brand": "",
+     "size": "1/2カット",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_stollen_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_shanmery",
+   "category_path": [
+    "飲料・水",
+    "炭酸飲料",
+    "シャンメリー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "ホームパーティー",
+    "お祝い",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "子どもも一緒に乾杯できる、ノンアルコールのシャンメリーです。クリスマスや誕生日のパーティーを華やかに盛り上げます。",
+   "image_brief": "Retail packshot of a champagne-style bottle with a gold foil cap and a festive Japanese label reading 'シャンメリー'.",
+   "variants": [
+    {
+     "title": "トップバリュ シャンメリー マスカット 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シャンメリー 白ぶどう 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シャンメリー いちご 360ml",
+     "brand": "トップバリュ",
+     "size": "360ml",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シャンメリー りんご 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シャンメリー ゴールド 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シャンメリー ピーチ 270ml",
+     "brand": "トップバリュ",
+     "size": "270ml",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機ぶどう スパークリングジュース 750ml",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "イタリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_shanmery_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_sparkling_wine",
+   "category_path": [
+    "お酒・ノンアルコール",
+    "ワイン",
+    "スパークリングワイン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "晩酌",
+    "ホームパーティー",
+    "年末年始"
+   ],
+   "tax_rate": 10,
+   "description": "クリスマスや年末年始の乾杯にぴったりのスパークリングワインです。ローストチキンやオードブルと合わせて、大人のパーティーを楽しめます。",
+   "image_brief": "Retail packshot of a dark green sparkling wine bottle with foil-wrapped neck and a simple Japanese label reading 'スパークリングワイン'.",
+   "variants": [
+    {
+     "title": "トップバリュ スペイン産 カヴァ ブリュット 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 1078,
+     "origin": "スペイン産"
+    },
+    {
+     "title": "トップバリュ チリ産 スパークリングワイン 白 辛口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 698,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ イタリア産 スプマンテ 甘口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 878,
+     "origin": "イタリア産"
+    },
+    {
+     "title": "トップバリュ セレクト フランス産 クレマン ブリュット 750ml",
+     "brand": "トップバリュ セレクト",
+     "size": "750ml",
+     "price_tax_excluded": 1980,
+     "origin": "フランス産"
+    },
+    {
+     "title": "トップバリュ チリ産 スパークリングワイン ロゼ やや甘口 750ml",
+     "brand": "トップバリュ",
+     "size": "750ml",
+     "price_tax_excluded": 748,
+     "origin": "チリ産"
+    },
+    {
+     "title": "トップバリュ 山梨県産ぶどう使用 スパークリングワイン 白 720ml",
+     "brand": "トップバリュ",
+     "size": "720ml",
+     "price_tax_excluded": 1280,
+     "origin": "山梨県産ぶどう使用"
+    },
+    {
+     "title": "トップバリュ ベストプライス スパークリングワイン 白 375ml",
+     "brand": "トップバリュ ベストプライス",
+     "size": "375ml",
+     "price_tax_excluded": 398,
+     "origin": "チリ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_sparkling_wine_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_seasonal_event_party_hors_doeuvre",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "クリスマス・パーティー",
+    "オードブル"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "年末年始",
+    "ホームパーティー",
+    "誕生日"
+   ],
+   "tax_rate": 8,
+   "description": "唐揚げやえびフライ、ローストビーフなど人気のおかずを盛り合わせたパーティーオードブルです。取り分けやすく、家族や親戚が集まる年末年始にも重宝します。",
+   "image_brief": "Retail packshot of a large black party platter with fried chicken, shrimp fries, roast beef and salad under a clear lid, with Japanese label text 'オードブル'.",
+   "variants": [
+    {
+     "title": "[店内調理] パーティーオードブル 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] パーティーオードブル 5〜6人前",
+     "brand": "",
+     "size": "5〜6人前",
+     "price_tax_excluded": 4580,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 揚げ物オードブル（唐揚げ・えびフライ・ポテト）2〜3人前",
+     "brand": "",
+     "size": "2〜3人前",
+     "price_tax_excluded": 1980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 洋風オードブル ローストビーフ入り 3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 3480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] 中華オードブル（エビチリ・春巻・焼売）3〜4人前",
+     "brand": "",
+     "size": "3〜4人前",
+     "price_tax_excluded": 2980,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内調理] ミニオードブル 1〜2人前",
+     "brand": "",
+     "size": "1〜2人前",
+     "price_tax_excluded": 1280,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内仕上げ] 寿司とオードブルのパーティーセット 4人前",
+     "brand": "",
+     "size": "4人前",
+     "price_tax_excluded": 4980,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_seasonal_event_party_hors_doeuvre_p.jpg"
+   ]
+  }
+ ]
+}

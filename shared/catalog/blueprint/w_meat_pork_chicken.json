@@ -1,0 +1,4355 @@
+{
+ "category_key": "w_meat_pork_chicken",
+ "items": [
+  {
+   "base_id": "w_meat_pork_chicken_pork_kataloin_kiriotoshi_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "肩ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "生姜焼き",
+    "豚丼",
+    "野菜炒め",
+    "肉じゃが"
+   ],
+   "tax_rate": 8,
+   "description": "赤身と脂のバランスがよい肩ロースを使いやすい切り落としにしました。カナダ産・メキシコ産など輸入豚ならではのお手頃価格で、炒め物や煮物、豚丼までたっぷり使えます。家族の多いご家庭の毎日のおかずに。",
+   "image_brief": "Irregular slices of pink pork shoulder loin with marbled fat piled in a white foam tray under clear wrap, plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚肩ロース 切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース 切り落とし 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚肩ロース 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚肩ロース 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚肩ロース 切り落とし 大容量 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 1380,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kataloin_kiriotoshi_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_kataloin_tonteki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "肩ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "トンテキ",
+    "ポークソテー",
+    "豚の味噌漬け焼き",
+    "ポークチャップ"
+   ],
+   "tax_rate": 8,
+   "description": "厚さ約1.5cmにカットした肩ロースのトンテキ用。あらかじめ筋切りしてあるので焼き縮みしにくく、ジューシーに仕上がります。にんにくを効かせた濃いめのソースでがっつり食べたい日のメインディッシュにどうぞ。",
+   "image_brief": "Two thick-cut pork shoulder loin steaks with scored edges laid side by side in a black tray under clear film, blank white label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚肩ロース トンテキ用 筋切り済み 2枚（約240g）",
+     "brand": "",
+     "size": "2枚（約240g）",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚肩ロース トンテキ用 筋切り済み 4枚（約480g）",
+     "brand": "",
+     "size": "4枚（約480g）",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース トンテキ用 2枚（約260g）",
+     "brand": "",
+     "size": "2枚（約260g）",
+     "price_tax_excluded": 458,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚肩ロース トンテキ用 3枚（約360g）",
+     "brand": "",
+     "size": "3枚（約360g）",
+     "price_tax_excluded": 598,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "Cymbal セレクト 豚肩ロース 極厚トンテキ用 2cm 2枚（約320g）",
+     "brand": "Cymbal セレクト",
+     "size": "2枚（約320g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kataloin_tonteki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_kataloin_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "豚しゃぶ鍋",
+    "常夜鍋",
+    "冷しゃぶサラダ",
+    "肉巻き"
+   ],
+   "tax_rate": 8,
+   "description": "ほどよく脂がのった肩ロースを1.5mmの薄さにスライス。さっとくぐらせるだけでやわらかく、脂の甘みが楽しめます。寒い季節の常夜鍋やしゃぶしゃぶに最適で、ほうれん草やレタスとの相性も抜群です。",
+   "image_brief": "Thinly sliced pork shoulder loin arranged in neat overlapping folds on a round black tray with clear lid, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚肩ロース しゃぶしゃぶ用 大盛 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 928,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚肩ロース しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 780,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kataloin_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_loin_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "生姜焼き",
+    "回鍋肉",
+    "豚汁",
+    "冷しゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "上質なロースの端材部分を手頃な切り落としに。形は不揃いでも、やわらかな肉質とさっぱりとした脂はそのまま。炒め物や汁物、冷しゃぶまで幅広く使えるお値打ち品です。",
+   "image_brief": "Loose pale pink pork loin trimmings with thin fat edges heaped in a white tray wrapped in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚ロース 切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ロース 切り落とし 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 958,
+     "origin": "国産"
+    },
+    {
+     "title": "メキシコ産 豚ロース 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "カナダ産 豚ロース 切り落とし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_loin_kiriotoshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_loin_block_roast",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ロース"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "ローストポーク",
+    "煮豚",
+    "チャーシュー",
+    "ポークソテー"
+   ],
+   "tax_rate": 8,
+   "description": "脂の層がきれいについたロースのかたまり肉。オーブンでじっくり焼くローストポークや、煮汁で煮込むチャーシューにぴったりです。年末年始や持ち寄りパーティーのごちそう作りに重宝します。",
+   "image_brief": "A rectangular block of pork loin with a white fat cap on top resting in a black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚ロース ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ロース ブロック 大 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 2080,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ロース ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 898,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚ロース ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1180,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal セレクト 豚ロース ローストポーク用 ネット巻き 約500g",
+     "brand": "Cymbal セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_loin_block_roast_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_loin_gokuatsu_tonkatsu_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "ポークソテー",
+    "カツ丼",
+    "ミラノ風カツレツ"
+   ],
+   "tax_rate": 8,
+   "description": "厚さ約2cmの極厚カット。輸入豚ならではの手頃さで、専門店のような分厚いとんかつがご家庭で楽しめます。低温でじっくり揚げると肉汁たっぷりに。ソテーやカツレツにも向きます。",
+   "image_brief": "Two very thick pork loin chops with white fat rims side by side on a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "メキシコ産 豚ロース 極厚とんかつ用 2枚（約360g）",
+     "brand": "",
+     "size": "2枚（約360g）",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "カナダ産 豚ロース 極厚とんかつ用 2枚（約360g）",
+     "brand": "",
+     "size": "2枚（約360g）",
+     "price_tax_excluded": 678,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚ロース 極厚とんかつ用 2枚（約380g）",
+     "brand": "",
+     "size": "2枚（約380g）",
+     "price_tax_excluded": 748,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚ロース とんかつ用 4枚入 4枚（約480g）",
+     "brand": "",
+     "size": "4枚（約480g）",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "国産 豚ロース 極厚とんかつ用 2枚（約360g）",
+     "brand": "",
+     "size": "2枚（約360g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_loin_gokuatsu_tonkatsu_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_hire_block_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ヒレ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレカツ",
+    "ポークピカタ",
+    "ヒレステーキ",
+    "酢豚"
+   ],
+   "tax_rate": 8,
+   "description": "脂肪が少なくきめ細やかでやわらかなヒレをブロックのままお届け。好みの厚さに切ってヒレカツやピカタ、ソテーに。高たんぱくで脂控えめな部位を探している方にもおすすめです。",
+   "image_brief": "A long cylindrical lean pork tenderloin lying diagonally in a black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚ヒレ ブロック 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 778,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚ヒレ ブロック 約450g",
+     "brand": "",
+     "size": "約450g",
+     "price_tax_excluded": 798,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚ヒレ ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "カナダ産 豚ヒレ ブロック 2本入 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1298,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_hire_block_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_hire_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ヒレ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレステーキ",
+    "ポークソテー",
+    "ポークマリネ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ヒレを約2cmの輪切りにしたステーキ用。焼き時間が短く、しっとりやわらかに仕上がります。塩こしょうでシンプルに、またはきのこソースや粒マスタードを添えて。小さめサイズでお弁当にも使えます。",
+   "image_brief": "Round medallions of lean pork tenderloin arranged in two rows on a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚ヒレ ステーキ用 輪切り 6切（約240g）",
+     "brand": "",
+     "size": "6切（約240g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ヒレ ステーキ用 輪切り 12切（約480g）",
+     "brand": "",
+     "size": "12切（約480g）",
+     "price_tax_excluded": 1350,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚ヒレ ステーキ用 8切（約300g）",
+     "brand": "",
+     "size": "8切（約300g）",
+     "price_tax_excluded": 598,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 豚ヒレ ステーキ用 厚切り 4切（約240g）",
+     "brand": "Cymbal セレクト",
+     "size": "4切（約240g）",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_hire_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_bara_kakuni_cut",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "豚の角煮",
+    "東坡肉",
+    "ラフテー",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "三枚肉を約4cm角にカットした角煮用。皮なし・下処理済みで、下茹でから煮込みまで手間なく進められます。とろけるような角煮はもちろん、沖縄風ラフテーや冬のおでん種にもおすすめです。",
+   "image_brief": "Large cubes of layered pork belly showing alternating fat and lean stripes arranged in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚バラ 角煮用 カット 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚バラ 角煮用 カット 徳用 700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "デンマーク産 豚バラ 角煮用 カット 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚バラ 角煮用 カット 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 バラ 角煮用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_bara_kakuni_cut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_bara_samgyeopsal",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サムギョプサル",
+    "焼肉",
+    "ポッサム",
+    "BBQ"
+   ],
+   "tax_rate": 8,
+   "description": "厚さ約8mmにカットした豚バラのサムギョプサル用。ホットプレートでカリッと焼いて、サンチュやキムチと一緒に包んで召し上がれ。脂の香ばしさが際立ち、家族や友人とのホームパーティーが盛り上がります。",
+   "image_brief": "Long thick strips of pork belly with clear fat and meat layers laid parallel in a black rectangular tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚バラ サムギョプサル用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚バラ サムギョプサル用 大 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1350,
+     "origin": "国産"
+    },
+    {
+     "title": "デンマーク産 豚バラ サムギョプサル用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚バラ サムギョプサル用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_bara_samgyeopsal_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_bara_usugiri_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "バラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉野菜炒め",
+    "豚キムチ",
+    "お好み焼き",
+    "豚汁",
+    "ミルフィーユ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "使い勝手のよい豚バラ薄切りを輸入豚でお手頃に。炒めると脂からうま味が出て、野菜炒めや豚キムチがおいしく仕上がります。たっぷり入った大容量パックは小分け冷凍にも便利です。",
+   "image_brief": "Rolled thin slices of pork belly with white fat stripes lined up in rows in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "デンマーク産 豚バラ 薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚バラ 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "カナダ産 豚バラ 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 438,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚バラ 薄切り 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1080,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚バラ 薄切り 冷凍 バラ凍結 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_bara_usugiri_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_momo_shogayaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "もも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "生姜焼き",
+    "ポークチャップ",
+    "豚肉の甘辛炒め",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "脂身の少ない豚ももを生姜焼きにちょうどよい厚さにスライスしました。さっぱり食べたい方やカロリーが気になる方にも。片栗粉を薄くまぶして焼くと、やわらかく仕上がります。",
+   "image_brief": "Medium-thick slices of lean pink pork leg fanned out in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚もも 生姜焼き用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚もも 生姜焼き用 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 868,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも 生姜焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚もも 生姜焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 388,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_momo_shogayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_momo_tonkatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんかつ",
+    "ポークピカタ",
+    "チキン南蛮風",
+    "カツサンド"
+   ],
+   "tax_rate": 8,
+   "description": "赤身中心の豚ももを使ったとんかつ用。脂身が少なく、さっくり軽い食べ心地に揚がります。たたいて薄くのばせばカツレツやピカタにも。お弁当のカツサンド作りにも重宝します。",
+   "image_brief": "Four oval lean pork leg cutlets neatly overlapping on a white tray under clear wrap, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚もも とんかつ用 3枚（約270g）",
+     "brand": "",
+     "size": "3枚（約270g）",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚もも とんかつ用 6枚（約540g）",
+     "brand": "",
+     "size": "6枚（約540g）",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも とんかつ用 4枚（約400g）",
+     "brand": "",
+     "size": "4枚（約400g）",
+     "price_tax_excluded": 548,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚もも とんかつ用 4枚（約400g）",
+     "brand": "",
+     "size": "4枚（約400g）",
+     "price_tax_excluded": 528,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_momo_tonkatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_momo_chashu_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "もも"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーシュー",
+    "煮豚",
+    "ゆで豚",
+    "ラーメンの具"
+   ],
+   "tax_rate": 8,
+   "description": "赤身の多い豚ももをチャーシュー用にネットで巻いたかたまり肉。形が崩れにくく、切り口もきれいに仕上がります。しょうゆだれでじっくり煮込んで、ラーメンや炒飯の具、おつまみにどうぞ。",
+   "image_brief": "A cylindrical pork leg roast tied with white elastic netting placed in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚もも チャーシュー用 ネット巻き 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚もも チャーシュー用 ネット巻き 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1530,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚もも チャーシュー用 ネット巻き 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 豚肩ロース 煮豚用 ネット巻き 約500g",
+     "brand": "Cymbal セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_momo_chashu_block_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_spareribs_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "スペアリブ・豚トロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "BBQスペアリブ",
+    "スペアリブのオーブン焼き",
+    "排骨",
+    "マーマレード煮"
+   ],
+   "tax_rate": 8,
+   "description": "骨付きのバラ肉を食べやすい長さにカットしたスペアリブ。輸入豚でボリュームたっぷりなのにお手頃です。漬けだれに一晩漬けてオーブンで焼けば、クリスマスやパーティーの主役になります。",
+   "image_brief": "Several bone-in pork sparerib pieces with meaty layers arranged in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚スペアリブ カット 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚スペアリブ カット 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚スペアリブ カット 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 748,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚スペアリブ カット 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1298,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚スペアリブ 冷凍 ハーフカット 700g",
+     "brand": "Cymbal ベーシック",
+     "size": "700g",
+     "price_tax_excluded": 898,
+     "origin": "デンマーク産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_spareribs_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_backribs",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "スペアリブ・豚トロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "BBQバックリブ",
+    "オーブン焼き",
+    "スモークリブ",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "ロースの骨まわりのバックリブを一枚肉のままお届け。スペアリブよりも身がやわらかく、骨離れのよさが魅力です。低温でじっくり焼いてBBQソースをからめれば、アメリカンなごちそうに。",
+   "image_brief": "A full rack of pork back ribs with curved bones lying flat in a long black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚バックリブ 1ラック 約800g",
+     "brand": "",
+     "size": "約800g",
+     "price_tax_excluded": 1280,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚バックリブ 1ラック 約700g",
+     "brand": "",
+     "size": "約700g",
+     "price_tax_excluded": 1180,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚バックリブ ハーフラック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 698,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚バックリブ 2ラック 約1.5kg",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 2280,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_backribs_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_nankotsu_paika",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "豚足・その他部位"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーコー",
+    "軟骨の煮込み",
+    "ソーキ風煮",
+    "唐揚げ"
+   ],
+   "tax_rate": 8,
+   "description": "豚バラの軟骨部分を含んだパイカ。長時間煮込むと軟骨までとろりとやわらかくなり、コラーゲンたっぷりの濃厚な味わいに。沖縄風の煮込みや中華風の甘辛煮、圧力鍋料理におすすめです。",
+   "image_brief": "Chunks of pork belly with visible white cartilage pieces piled in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚軟骨（パイカ） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚軟骨（パイカ） 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "デンマーク産 豚軟骨（パイカ） 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 428,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "国産 豚軟骨 煮込み用 カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_nankotsu_paika_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_tonsoku_boil",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "豚足・その他部位"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "豚足の煮込み",
+    "豚足の焼き物",
+    "沖縄風てびち",
+    "おでん"
+   ],
+   "tax_rate": 8,
+   "description": "下茹で済みでくさみの少ない豚足を半割りに。そのまま酢味噌でも、甘辛く煮込んでも楽しめます。ぷるぷるの食感とコラーゲン質が特徴で、冬のおでんやてびち汁にもぴったりです。",
+   "image_brief": "Two halved boiled pork trotters with pale glossy skin vacuum-packed in a clear bag on a white tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚足 ボイル 半割り 2本分（約500g）",
+     "brand": "",
+     "size": "2本分（約500g）",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚足 ボイル 半割り 4本分（約1kg）",
+     "brand": "",
+     "size": "4本分（約1kg）",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚足 生 2本（約600g）",
+     "brand": "",
+     "size": "2本（約600g）",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚足 ボイル 輪切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 豚足 甘辛煮込み用 カット 冷凍 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_tonsoku_boil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_tan",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "豚足・その他部位"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚タン塩焼き",
+    "タンシチュー",
+    "焼肉",
+    "煮込み"
+   ],
+   "tax_rate": 8,
+   "description": "豚の舌をスライスした焼肉用の豚タン。牛タンよりも手頃で、コリッとした歯切れのよさとあっさりした味わいが魅力です。塩・こしょうとレモンでシンプルに焼くのがおすすめ。",
+   "image_brief": "Round thin slices of pinkish pork tongue fanned out in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚タン スライス 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚タン スライス 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "デンマーク産 豚タン スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "国産 豚タン ブロック 煮込み用 1本（約300g）",
+     "brand": "",
+     "size": "1本（約300g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_tan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_hatsu_gatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "ホルモン・レバー"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "もつ焼き",
+    "ハツの炒め物",
+    "ガツ刺し風和え物",
+    "もつ煮"
+   ],
+   "tax_rate": 8,
+   "description": "豚の心臓(ハツ)や胃袋(ガツ)など、もつ焼き屋さんでおなじみの部位を下処理済みでご用意。ハツはプリッとした歯ごたえ、ガツはコリコリ食感が楽しめます。炒め物や和え物、もつ煮にどうぞ。",
+   "image_brief": "Sliced dark-red pork heart and pale boiled pork stomach strips in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚ハツ スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ガツ ボイル スライス 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ハツ 丸 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚ガツ ボイル 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚コブクロ ボイル 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_hatsu_gatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_kashira",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "もつ焼き",
+    "焼肉",
+    "カシラの味噌炒め",
+    "串焼き"
+   ],
+   "tax_rate": 8,
+   "description": "豚の頬からこめかみにかけてのカシラ肉。適度な弾力と濃いうま味があり、焼き鳥屋さんのもつ焼きの定番部位です。ひと口大にカットしてあるので、串に刺したり、焼肉や炒め物にそのまま使えます。",
+   "image_brief": "Bite-size chunks of dark pink pork cheek meat piled in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚カシラ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚カシラ 焼肉用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 758,
+     "origin": "国産"
+    },
+    {
+     "title": "デンマーク産 豚カシラ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "国産 豚カシラ 串打ち済み（生） 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kashira_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_koma_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "こま切れ・切り落とし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "豚汁",
+    "焼きそば",
+    "カレー",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "いろいろな部位を食べやすくカットした輸入豚のこま切れ。手頃な価格で量が多く、カレーや焼きそば、炒め物など毎日の料理に気兼ねなく使えます。使う分ずつ小分け冷凍すると便利です。",
+   "image_brief": "Small mixed pork pieces with some fat heaped generously in a large white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚こま切れ 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚こま切れ 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 458,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚こま切れ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 368,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚こま切れ 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1080,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚こま切れ 冷凍 バラ凍結 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 898,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_koma_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_branded_kataloin_shogayaki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "銘柄豚・黒豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "生姜焼き",
+    "豚丼",
+    "冷しゃぶ",
+    "肉巻きおにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "各地の契約農場で育てられた産地指定の銘柄豚を、生姜焼き用の肩ロースで食べ比べ。肉のきめが細かく、脂に甘みとコクがあるのが特徴です。いつもの生姜焼きをワンランク上の味わいに。",
+   "image_brief": "Medium slices of glossy pork shoulder loin arranged in overlapping rows on a black tray with a plain blank sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "千葉県産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "群馬県産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "群馬県産"
+    },
+    {
+     "title": "宮崎県産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 618,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "北海道産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 628,
+     "origin": "北海道産"
+    },
+    {
+     "title": "山形県産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 638,
+     "origin": "山形県産"
+    },
+    {
+     "title": "茨城県産 銘柄豚 肩ロース 生姜焼き用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "茨城県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_branded_kataloin_shogayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_kurobuta_bara_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "銘柄豚・黒豚"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "黒豚しゃぶしゃぶ",
+    "黒豚の豚汁",
+    "ミルフィーユ鍋",
+    "冷しゃぶ"
+   ],
+   "tax_rate": 8,
+   "description": "黒豚のバラ肉をしゃぶしゃぶ用に薄くスライス。脂が軽やかで口溶けがよく、さっとお湯にくぐらせると上品な甘みが広がります。冬の鍋やおもてなしのしゃぶしゃぶにおすすめです。",
+   "image_brief": "Paper-thin slices of black pork belly with fine fat marbling neatly folded on a round lacquer-style black tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "鹿児島県産 黒豚 バラ しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒豚 バラ しゃぶしゃぶ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒豚 バラ しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 768,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "Cymbal セレクト 鹿児島県産 黒豚 バラ しゃぶしゃぶ用 贈答パック 500g",
+     "brand": "Cymbal セレクト",
+     "size": "500g",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kurobuta_bara_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_kataloin_block_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "角切り・ブロック"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "煮豚",
+    "ポットロースト",
+    "ポークビーンズ",
+    "酢豚"
+   ],
+   "tax_rate": 8,
+   "description": "うま味の濃い肩ロースを大きなかたまりで。輸入豚でボリュームがありながらお手頃です。煮豚やオーブン焼き、カットして酢豚やポークビーンズなど、家族みんなで楽しむ煮込み料理に向きます。",
+   "image_brief": "A large marbled pork shoulder loin block sitting in a deep black tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚肩ロース ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 798,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "デンマーク産 豚肩ロース ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 948,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "メキシコ産 豚肩ロース ブロック 約600g",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 898,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "カナダ産 豚肩ロース ブロック 大 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1480,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_kataloin_block_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_hire_katsu_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "とんかつ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ヒレカツ",
+    "ヒレカツ丼",
+    "カツサンド",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "ヒレ肉を約1.5cmにカットしたヒレカツ用。輸入豚の手頃さで、やわらかくジューシーなヒレカツが気軽に楽しめます。小ぶりなサイズで揚げ時間も短く、お弁当やカツサンドにも便利です。",
+   "image_brief": "Oval medallions of lean pork tenderloin cut for cutlets arranged in rows in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚ヒレ ヒレカツ用 8切（約300g）",
+     "brand": "",
+     "size": "8切（約300g）",
+     "price_tax_excluded": 548,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚ヒレ ヒレカツ用 10切（約400g）",
+     "brand": "",
+     "size": "10切（約400g）",
+     "price_tax_excluded": 648,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚ヒレ ヒレカツ用 8切（約320g）",
+     "brand": "",
+     "size": "8切（約320g）",
+     "price_tax_excluded": 598,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚ヒレ ヒレカツ用 徳用 16切（約600g）",
+     "brand": "",
+     "size": "16切（約600g）",
+     "price_tax_excluded": 998,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_hire_katsu_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_momo_shabu_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "冷しゃぶ",
+    "豚しゃぶサラダ",
+    "肉巻き",
+    "しゃぶしゃぶ鍋"
+   ],
+   "tax_rate": 8,
+   "description": "赤身の多い豚ももを薄くスライスした輸入豚のしゃぶしゃぶ用。脂が少なくさっぱりしているので、冷しゃぶサラダや野菜の肉巻きに最適です。大容量パックは家族での鍋にもたっぷり使えます。",
+   "image_brief": "Thin lean pork leg slices folded neatly in rows on a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚もも しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚もも しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 418,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚もも しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 438,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚もも しゃぶしゃぶ用 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_momo_shabu_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_ude_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "こま切れ・切り落とし"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚汁",
+    "カレー",
+    "肉じゃが",
+    "回鍋肉"
+   ],
+   "tax_rate": 8,
+   "description": "ほどよく赤身と脂が混ざった豚うで(肩)肉の切り落とし。煮込むと味がしみやすく、豚汁やカレー、肉じゃがにうま味をしっかり添えてくれます。お手頃な価格で毎日の献立に取り入れやすい部位です。",
+   "image_brief": "Pieces of pork shoulder with light fat marbling heaped in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚うで 切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚うで 切り落とし 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 858,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚うで 切り落とし 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚うで 切り落とし 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 438,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_ude_kiriotoshi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_pork_toro_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "豚肉",
+    "スペアリブ・豚トロ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "豚トロ塩焼き",
+    "焼肉",
+    "豚トロ丼",
+    "ねぎ塩炒め"
+   ],
+   "tax_rate": 8,
+   "description": "1頭からわずかしか取れない首まわりの豚トロを輸入豚でお手頃に。きめ細かな脂がサクッとした歯ざわりで、焼くと香ばしい甘みが広がります。塩・こしょうとレモンでシンプルに味わって。",
+   "image_brief": "Slices of pork jowl with fine white fat marbling spread in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚トロ 焼肉用 180g",
+     "brand": "",
+     "size": "180g",
+     "price_tax_excluded": 448,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚トロ 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚トロ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 518,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚トロ ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 898,
+     "origin": "カナダ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_pork_toro_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_momo_brazil_frozen",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "輸入鶏肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "チキンカレー",
+    "照り焼き",
+    "親子丼"
+   ],
+   "tax_rate": 8,
+   "description": "ブラジル産鶏もも肉の大容量冷凍パック。1枚ずつバラ凍結しているので、使う分だけ取り出せます。唐揚げやカレーなどボリュームたっぷりのおかずをお手頃に作れる、まとめ買いの定番です。",
+   "image_brief": "Large clear resealable freezer bag filled with individually frozen chicken thigh fillets, plain blank label, white background packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラジル産 鶏もも肉 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏もも肉 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏もも肉 唐揚げカット 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 748,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏もも肉 冷凍 バラ凍結 2kg",
+     "brand": "Cymbal ベーシック",
+     "size": "2kg",
+     "price_tax_excluded": 1380,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "タイ産 鶏もも肉 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 728,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_momo_brazil_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_mune_brazil_frozen",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "輸入鶏肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダチキン",
+    "チキン南蛮",
+    "鶏ハム",
+    "棒棒鶏"
+   ],
+   "tax_rate": 8,
+   "description": "高たんぱくで脂の少ないブラジル産鶏むね肉の冷凍大袋。下ごしらえ済みで1枚ずつ取り出せます。鶏ハムやサラダチキンの作り置き、チキン南蛮などにたっぷり使えて家計にやさしい一品です。",
+   "image_brief": "Big clear freezer bag of frosted skinless chicken breast fillets, blank paper label, packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラジル産 鶏むね肉 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 998,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏むね肉 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏むね肉 皮なし 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1180,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏むね肉 一口カット 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 628,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏むね肉 冷凍 バラ凍結 2kg",
+     "brand": "Cymbal ベーシック",
+     "size": "2kg",
+     "price_tax_excluded": 1080,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_mune_brazil_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_momo_kawanashi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "筑前煮",
+    "チキンソテー",
+    "鶏の煮物"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ももの皮と余分な脂を取り除いた皮なしタイプ。下処理の手間が省け、脂っこさを抑えたヘルシーなおかずが作れます。煮物や親子丼、離乳食後期の取り分けにも使いやすいのが魅力です。",
+   "image_brief": "Skinless pink chicken thigh fillets laid flat in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏もも 皮なし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも 皮なし 一口カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも 皮なし 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もも 皮なし 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_momo_kawanashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_momo_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "チキンステーキ",
+    "パリパリチキン",
+    "チキン南蛮",
+    "照り焼き"
+   ],
+   "tax_rate": 8,
+   "description": "鶏もも肉を厚みが均一になるよう開き、筋切りまで済ませたステーキ用。皮目から焼くだけでパリッと香ばしく、中はジューシーに仕上がります。クリスマスの食卓や、忙しい日の手早いメインにどうぞ。",
+   "image_brief": "Two butterflied chicken thighs with golden-white skin facing up flat in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏もも ステーキ用 筋切り済み 2枚（約500g）",
+     "brand": "",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも ステーキ用 筋切り済み 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もも ステーキ用 2枚（約500g）",
+     "brand": "",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 548,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏 もも ステーキ用 2枚（約500g）",
+     "brand": "",
+     "size": "2枚（約500g）",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_momo_steak_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_momo_yakitori_cut",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "焼き鳥用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "鶏の塩焼き",
+    "炭火焼き",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "焼き鳥にちょうどよい2.5cm角にカットした鶏もも肉。お好みで竹串に刺してグリルやホットプレートで焼けば、おうち焼き鳥が手軽に楽しめます。串なしでそのまま炒め物にも使えます。",
+   "image_brief": "Uniform small cubes of raw chicken thigh with skin piled in a white tray beside a few bamboo skewers, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏もも 焼き鳥用カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも 焼き鳥用カット 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 868,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もも 焼き鳥用カット 竹串付 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もも 焼き鳥用カット 冷凍 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_momo_yakitori_cut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_mune_karaage_cut",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "竜田揚げ",
+    "チキンナゲット",
+    "甘酢あん"
+   ],
+   "tax_rate": 8,
+   "description": "鶏むね肉を揚げ物にぴったりの大きさにカット。下味をつけてそのまま揚げれば、さっぱりジューシーな唐揚げに。もも肉より脂が少なく、たくさん食べたい育ち盛りのご家庭にもおすすめです。",
+   "image_brief": "Chunky pieces of raw skin-on chicken breast heaped in a white tray under clear wrap, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏むね 唐揚げ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 338,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏むね 唐揚げ用 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏むね 唐揚げ用 皮なし 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏むね 唐揚げ用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 398,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_mune_karaage_cut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_mune_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏しゃぶ",
+    "鶏むねの冷しゃぶ",
+    "鶏南蛮そば",
+    "水炊き"
+   ],
+   "tax_rate": 8,
+   "description": "鶏むね肉を2mmほどの薄さにスライスした鍋・しゃぶしゃぶ用。火の通りが早く、しっとりやわらかな食感に。ポン酢やごまだれでさっぱりと。冬の鶏しゃぶ鍋やヘルシー志向の方の常備食材にどうぞ。",
+   "image_brief": "Thin pale slices of chicken breast arranged in overlapping fans on a round black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏むね しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏むね しゃぶしゃぶ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "岩手県産 銘柄鶏 むね しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 428,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "ブラジル産 鶏むね しゃぶしゃぶ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_mune_shabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_sasami_sujinashi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "ささみ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ささみフライ",
+    "ささみの梅しそ巻き",
+    "棒棒鶏",
+    "ささみチーズカツ"
+   ],
+   "tax_rate": 8,
+   "description": "面倒な筋取りを済ませた筋なしささみ。すぐに調理できるので、忙しい日の時短に役立ちます。高たんぱく・低脂肪で、サラダやフライ、梅しそ巻きなど、さっぱりしたおかずを楽しみたい方に。",
+   "image_brief": "Six clean pale chicken tenderloins without tendons lined up in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏ささみ 筋なし 4本入（約200g）",
+     "brand": "",
+     "size": "4本入（約200g）",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ささみ 筋なし 8本入（約400g）",
+     "brand": "",
+     "size": "8本入（約400g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ささみ 筋なし 開き 5本入（約250g）",
+     "brand": "",
+     "size": "5本入（約250g）",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 銘柄鶏 ささみ 筋なし 4本入（約200g）",
+     "brand": "",
+     "size": "4本入（約200g）",
+     "price_tax_excluded": 458,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_sasami_sujinashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_sasami_frozen",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "ささみ"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "蒸し鶏",
+    "ささみサラダ",
+    "ささみフライ",
+    "作り置き"
+   ],
+   "tax_rate": 8,
+   "description": "1本ずつバラ凍結したささみの大袋。必要な本数だけ取り出せ、ストックしておくと毎日の食事作りに便利です。電子レンジ蒸しや茹でささみにして、サラダやお弁当、作り置きおかずに活躍します。",
+   "image_brief": "Clear zip-top freezer bag full of frosted individually frozen chicken tenderloins, blank label, white background packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏ささみ 冷凍 バラ凍結 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏ささみ 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏ささみ 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏ささみ 筋なし 冷凍 800g",
+     "brand": "Cymbal ベーシック",
+     "size": "800g",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_sasami_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_tebamoto_tokuyo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽元・手羽先"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽元のさっぱり煮",
+    "ポトフ",
+    "フライドチキン",
+    "参鶏湯風スープ"
+   ],
+   "tax_rate": 8,
+   "description": "骨からいいだしが出る手羽元をたっぷり詰めた徳用パック。お酢で煮るさっぱり煮やカレー、スープなど煮込み料理に最適です。輸入品やバラ凍結品もそろえ、まとめ買いや作り置きにも便利です。",
+   "image_brief": "Many bone-in chicken drumsticks packed tightly in a large white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏手羽元 徳用 16本入（約1kg）",
+     "brand": "",
+     "size": "16本入（約1kg）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽元 少量 4本入（約250g）",
+     "brand": "",
+     "size": "4本入（約250g）",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽元 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽元 冷凍 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1080,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏手羽元 冷凍 バラ凍結 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 648,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_tebamoto_tokuyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_tebamoto_tulip",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽元・手羽先"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "チューリップ唐揚げ",
+    "手羽元のグリル",
+    "パーティー料理",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "手羽元の肉を骨の先へ寄せてチューリップ型に整えたり、骨を外して開いたりした加工済みタイプ。揚げるだけでパーティー映えする一品に。お子さまも手に持って食べやすいサイズです。",
+   "image_brief": "Raw chicken drumettes shaped into tulip lollipops with exposed bone ends arranged in a circle on a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏手羽元 チューリップ 8本入（約320g）",
+     "brand": "",
+     "size": "8本入（約320g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽元 チューリップ 16本入（約640g）",
+     "brand": "",
+     "size": "16本入（約640g）",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽元 チューリップ 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 998,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏手羽元 骨抜き 開き 6本分（約250g）",
+     "brand": "",
+     "size": "6本分（約250g）",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_tebamoto_tulip_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_tebasaki_tokuyo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽元・手羽先"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽先の唐揚げ",
+    "手羽先の甘辛揚げ",
+    "手羽先の塩焼き",
+    "鶏スープ"
+   ],
+   "tax_rate": 8,
+   "description": "コラーゲン豊富な手羽先の大容量パック。カリッと揚げて甘辛だれをからめれば、ビールに合う名物風の手羽先に。焼いても煮ても楽しめ、骨からとれるだしはスープにも活躍します。",
+   "image_brief": "Rows of raw chicken wings with pale skin arranged in a wide white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏手羽先 徳用 12本入（約700g）",
+     "brand": "",
+     "size": "12本入（約700g）",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽先 徳用 20本入（約1.2kg）",
+     "brand": "",
+     "size": "20本入（約1.2kg）",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽先 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏手羽先 先端カット済み 8本入（約400g）",
+     "brand": "",
+     "size": "8本入（約400g）",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_tebasaki_tokuyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_tebanaka_half",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽中"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽中の唐揚げ",
+    "レモン塩焼き",
+    "甘辛煮",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "手羽中を骨に沿って縦半分にカットしたハーフカット。火の通りが早く、食べやすいのでお子さまやお弁当にもぴったりです。唐揚げや甘辛煮、レモン塩焼きなど、手軽に一品作れます。",
+   "image_brief": "Small halved chicken mid-wing pieces showing thin bones arranged neatly in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏手羽中 ハーフカット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏手羽中 ハーフカット 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽中 ハーフカット 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏手羽中 ハーフカット 塩こしょう焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_tebanaka_half_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_tebanaka_frozen",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽中"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽中の唐揚げ",
+    "オーブン焼き",
+    "ホットウィング",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "1本ずつバラ凍結した手羽中の冷凍大袋。オーブン焼きやスパイシーなホットウィングなど、パーティー料理にも重宝します。必要な分だけ取り出して解凍でき、まとめ買いに便利です。",
+   "image_brief": "Large clear freezer bag of frosted chicken mid-wings, plain blank label, packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラジル産 鶏手羽中 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽中 冷凍 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏手羽中 冷凍 バラ凍結 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏手羽中 冷凍 バラ凍結 1.5kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.5kg",
+     "price_tax_excluded": 1280,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_tebanaka_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_sunagimo_ginkawa_nashi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "レバー・砂肝"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "砂肝のアヒージョ",
+    "砂肝ポン酢",
+    "砂肝のガーリック炒め",
+    "焼き鳥"
+   ],
+   "tax_rate": 8,
+   "description": "砂肝の硬い銀皮を取り除き、食べやすくスライスした下処理済みタイプ。コリコリとした食感を手軽に楽しめます。にんにく炒めやアヒージョ、さっと茹でてポン酢和えなどおつまみに最適です。",
+   "image_brief": "Thin slices of trimmed dark-red chicken gizzard piled in a small white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏砂肝 銀皮取り スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏砂肝 銀皮取り スライス 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏砂肝 銀皮取り 丸 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏砂肝 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_sunagimo_ginkawa_nashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_kimo_hatsu_tsuki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "レバー・砂肝"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "レバニラ炒め",
+    "鶏レバーの甘辛煮",
+    "レバーペースト",
+    "焼き鳥"
+   ],
+   "tax_rate": 8,
+   "description": "鶏レバーとハツが一緒になった「きも」。新鮮なうちにパックしているので臭みが少なく、甘辛煮やレバニラ炒めがおいしく作れます。鉄分を含む食材として、日々の献立に取り入れやすい一品です。",
+   "image_brief": "Glossy dark-red chicken livers with attached hearts in a white tray under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏きも（レバー・ハツ付き） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏きも（レバー・ハツ付き） 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏レバー 下処理済み カット 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "岩手県産 銘柄鶏 きも 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "岩手県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_kimo_hatsu_tsuki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_hatsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "焼き鳥用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥 ハツ",
+    "ハツの塩炒め",
+    "ハツのアヒージョ",
+    "ハツのしょうゆ煮"
+   ],
+   "tax_rate": 8,
+   "description": "鶏の心臓「ハツ」だけを集めたパック。プリッとした弾力のある食感と、レバーよりあっさりしたうま味が特徴です。塩焼きや串焼き、ガーリック炒めなど、おつまみ作りに気軽に使えます。",
+   "image_brief": "Small heart-shaped deep red chicken hearts clustered in a little white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏ハツ 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ハツ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ハツ 開き 下処理済み 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ハツ 串打ち済み（生） 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_hatsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_bonjiri",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "焼き鳥用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥 ぼんじり",
+    "ぼんじりの塩焼き",
+    "ぼんじりポン酢",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "1羽からわずかしか取れない尾の付け根部分、ぼんじり。脂がたっぷりのってジューシーで、焼くと外はカリッと中はぷりぷりに。塩焼きやポン酢で、晩酌のおつまみにおすすめの希少部位です。",
+   "image_brief": "Small plump triangular pieces of chicken tail meat with glistening fat in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏ぼんじり 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ぼんじり 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ぼんじり 串打ち済み（生） 5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ぼんじり 冷凍 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_bonjiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_seseri",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "焼き鳥用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥 せせり",
+    "せせりの塩焼き",
+    "せせりのねぎ塩炒め",
+    "ゆずこしょう焼き"
+   ],
+   "tax_rate": 8,
+   "description": "よく動く首まわりの希少な肉、せせり。弾力があり、噛むほどに脂のうま味があふれます。塩・こしょうでシンプルに焼いたり、ねぎ塩やゆずこしょうで味付けしたりと、おつまみにぴったりです。",
+   "image_brief": "Long narrow strips of pink chicken neck meat piled in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏せせり 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏せせり 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 668,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 銘柄鶏 せせり 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 若鶏せせり 冷凍 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_seseri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_yagen_nankotsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鶏皮・なんこつ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "なんこつ唐揚げ",
+    "なんこつ焼き",
+    "つくね",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "むね肉の先端にあるやげん軟骨。コリコリとした歯ごたえが楽しく、唐揚げにすると居酒屋気分のおつまみに。細かく刻んでつくねに混ぜれば食感のアクセントになります。",
+   "image_brief": "Small white chicken breast cartilage pieces with a bit of meat heaped in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏やげん軟骨 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏やげん軟骨 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏やげん軟骨 冷凍 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏やげん軟骨 唐揚げ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_yagen_nankotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_hiza_nankotsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鶏皮・なんこつ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "なんこつ唐揚げ",
+    "なんこつの塩炒め",
+    "ガーリック焼き",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏のひざ部分にあるひざ軟骨。やげん軟骨よりも肉が少なく、ザクザクとした独特の食感が魅力です。片栗粉をまぶしてカラッと揚げれば、香ばしいおつまみに。",
+   "image_brief": "Round white chicken knee cartilage pieces heaped in a small black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏ひざ軟骨 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏ひざ軟骨 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏ひざ軟骨 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "タイ産 鶏ひざ軟骨 冷凍 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "タイ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_hiza_nankotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_momiji",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "丸鶏・鶏ガラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏白湯スープ",
+    "ラーメンスープ",
+    "もみじの煮込み",
+    "水炊き"
+   ],
+   "tax_rate": 8,
+   "description": "下処理済みの鶏の足「もみじ」。煮込むとゼラチン質がたっぷり溶け出し、とろりと濃厚な鶏白湯スープに仕上がります。自家製ラーメンスープや冬の水炊きのだしとりにおすすめです。",
+   "image_brief": "Cleaned pale chicken feet arranged in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏もみじ（鶏足） 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もみじ（鶏足） 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏もみじ 爪カット済み 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もみじ 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_momiji_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_torigara",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "丸鶏・鶏ガラ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鶏ガラスープ",
+    "ラーメン",
+    "雑炊",
+    "鍋のだし"
+   ],
+   "tax_rate": 8,
+   "description": "スープのだしとりに欠かせない鶏ガラ。じっくり煮出すと澄んだ黄金色のスープがとれ、ラーメンや鍋、雑炊のベースとして料理全体を格上げしてくれます。寒い季節の手作りスープにどうぞ。",
+   "image_brief": "Two raw chicken carcasses with rib cage visible in a white tray wrapped in clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 若鶏 鶏ガラ 2羽分（約600g）",
+     "brand": "",
+     "size": "2羽分（約600g）",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 鶏ガラ 4羽分（約1.2kg）",
+     "brand": "",
+     "size": "4羽分（約1.2kg）",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 鶏ガラ 半割り 2羽分（約600g）",
+     "brand": "",
+     "size": "2羽分（約600g）",
+     "price_tax_excluded": 218,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 地鶏 鶏ガラ 2羽分（約700g）",
+     "brand": "",
+     "size": "2羽分（約700g）",
+     "price_tax_excluded": 398,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "国産 親鶏 鶏ガラ 2羽分（約800g）",
+     "brand": "",
+     "size": "2羽分（約800g）",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_torigara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_honetsuki_momo_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "骨付き肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "ローストチキン",
+    "フライドチキン",
+    "タンドリーチキン",
+    "クリスマスディナー"
+   ],
+   "tax_rate": 8,
+   "description": "クリスマスに大人気の骨付きもも肉を、手頃な冷凍品で。1本ずつ包装しているので解凍しやすく、オーブンでこんがり焼けば華やかなローストチキンに。タンドリーチキンにもおすすめです。",
+   "image_brief": "Two frozen bone-in chicken legs individually wrapped in clear film inside a white box tray, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラジル産 若鶏骨付きもも 冷凍 2本入（約600g）",
+     "brand": "",
+     "size": "2本入（約600g）",
+     "price_tax_excluded": 598,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 若鶏骨付きもも 冷凍 4本入（約1.2kg）",
+     "brand": "",
+     "size": "4本入（約1.2kg）",
+     "price_tax_excluded": 1080,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 若鶏骨付きもも 冷凍 徳用 6本入（約1.8kg）",
+     "brand": "",
+     "size": "6本入（約1.8kg）",
+     "price_tax_excluded": 1580,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 若鶏骨付きもも 冷凍 2本入（約600g）",
+     "brand": "",
+     "size": "2本入（約600g）",
+     "price_tax_excluded": 880,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal セレクト 若鶏骨付きもも ローストチキン用 冷凍 2本入（約640g）",
+     "brand": "Cymbal セレクト",
+     "size": "2本入（約640g）",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_honetsuki_momo_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_maru_import_frozen",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "丸鶏・パーティー用"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    12
+   ],
+   "dishes": [
+    "丸鶏のローストチキン",
+    "参鶏湯",
+    "丸鶏のスープ煮",
+    "クリスマスパーティー"
+   ],
+   "tax_rate": 8,
+   "description": "内臓を取り除いた冷凍の丸鶏。オーブンで丸ごと焼けば、クリスマスや誕生日のテーブルが一気に華やぎます。小ぶりサイズは家庭用オーブンにも入りやすく、参鶏湯風の煮込みにも使えます。",
+   "image_brief": "A whole frozen plucked chicken shrink-wrapped tightly in clear plastic on a white surface, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ブラジル産 丸鶏 中抜き 冷凍 1羽（約1.2kg）",
+     "brand": "",
+     "size": "1羽（約1.2kg）",
+     "price_tax_excluded": 1180,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 丸鶏 中抜き 冷凍 1羽（約1.6kg）",
+     "brand": "",
+     "size": "1羽（約1.6kg）",
+     "price_tax_excluded": 1480,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 丸鶏 小ぶり 冷凍 1羽（約900g）",
+     "brand": "",
+     "size": "1羽（約900g）",
+     "price_tax_excluded": 980,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "Cymbal 丸鶏 ローストチキン用 たこ糸巻き 冷凍 1羽（約1.3kg）",
+     "brand": "Cymbal",
+     "size": "1羽（約1.3kg）",
+     "price_tax_excluded": 1580,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 ひな鶏 丸 冷凍 1羽（約600g）",
+     "brand": "",
+     "size": "1羽（約600g）",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_maru_import_frozen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_meigara_mune",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏むねのソテー",
+    "鶏ハム",
+    "チキン南蛮",
+    "棒棒鶏"
+   ],
+   "tax_rate": 8,
+   "description": "各地で飼料や飼育方法にこだわって育てられた銘柄鶏のむね肉を、産地違いでご用意。しっとりやわらかく、むね肉とは思えないジューシーさとうま味が楽しめます。シンプルな塩焼きでも満足感のある味わいです。",
+   "image_brief": "A single plump skin-on chicken breast in a black tray with clear film and a plain blank sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岩手県産 銘柄鶏 むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 銘柄鶏 むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 398,
+     "origin": "青森県産"
+    },
+    {
+     "title": "徳島県産 銘柄鶏 むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 418,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "鹿児島県産 銘柄鶏 むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 銘柄鶏 むね肉 2枚入 2枚（約600g）",
+     "brand": "",
+     "size": "2枚（約600g）",
+     "price_tax_excluded": 768,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "北海道産 銘柄鶏 むね肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 428,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_meigara_mune_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_meigara_momo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チキンソテー",
+    "唐揚げ",
+    "照り焼き",
+    "親子丼"
+   ],
+   "tax_rate": 8,
+   "description": "飼料や飼育環境にこだわった銘柄鶏のもも肉を産地違いで比べられます。皮はパリッと、身はぷりっとジューシーで、いつもの唐揚げや照り焼きがワンランク上の味わいに。",
+   "image_brief": "A single skin-on chicken thigh with plump texture in a black tray with clear film and blank sticker, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岩手県産 銘柄鶏 もも肉 1枚（約280g）",
+     "brand": "",
+     "size": "1枚（約280g）",
+     "price_tax_excluded": 528,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "青森県産 銘柄鶏 もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 528,
+     "origin": "青森県産"
+    },
+    {
+     "title": "徳島県産 銘柄鶏 もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 548,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "宮崎県産 銘柄鶏 もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "1枚（約300g）",
+     "price_tax_excluded": 538,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "北海道産 銘柄鶏 もも肉 2枚入 2枚（約600g）",
+     "brand": "",
+     "size": "2枚（約600g）",
+     "price_tax_excluded": 1080,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_meigara_momo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_meigara_tebamoto",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "手羽元の煮込み",
+    "手羽元のオーブン焼き",
+    "ポトフ",
+    "スープカレー"
+   ],
+   "tax_rate": 8,
+   "description": "うま味の濃い銘柄鶏の手羽元を産地違いで。煮込むと身が骨からほろりと外れ、濃厚なだしがスープに溶け出します。ポトフやスープカレー、甘辛煮など、ひと手間かけたいおかずにぴったりです。",
+   "image_brief": "Bone-in chicken drumsticks with golden skin lined up in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "岩手県産 銘柄鶏 手羽元 6本入（約360g）",
+     "brand": "",
+     "size": "6本入（約360g）",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "徳島県産 銘柄鶏 手羽元 6本入（約360g）",
+     "brand": "",
+     "size": "6本入（約360g）",
+     "price_tax_excluded": 418,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏 手羽元 6本入（約360g）",
+     "brand": "",
+     "size": "6本入（約360g）",
+     "price_tax_excluded": 448,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 銘柄鶏 手羽元 徳用 12本入（約720g）",
+     "brand": "",
+     "size": "12本入（約720g）",
+     "price_tax_excluded": 758,
+     "origin": "宮崎県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_meigara_tebamoto_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_jidori_assort",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "地鶏・銘柄鶏"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "地鶏の炭火焼き",
+    "水炊き",
+    "地鶏の塩焼き",
+    "鶏すき"
+   ],
+   "tax_rate": 8,
+   "description": "じっくり長く飼育された地鶏ならではの、しっかりとした歯ごたえと濃いうま味。むね肉や手羽先、鍋用の切り身などをそろえました。冬の水炊きや鶏すき、炭火焼き風のおつまみにどうぞ。",
+   "image_brief": "Firm dark-pink free-range chicken pieces with yellowish skin in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "宮崎県産 地鶏 むね肉 1枚（約230g）",
+     "brand": "",
+     "size": "1枚（約230g）",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "宮崎県産 地鶏 手羽先 4本入（約240g）",
+     "brand": "",
+     "size": "4本入（約240g）",
+     "price_tax_excluded": 598,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "秋田県産 地鶏 むね肉 1枚（約250g）",
+     "brand": "",
+     "size": "1枚（約250g）",
+     "price_tax_excluded": 898,
+     "origin": "秋田県産"
+    },
+    {
+     "title": "徳島県産 地鶏 鍋用 切り身 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "徳島県産"
+    },
+    {
+     "title": "鹿児島県産 地鶏 炭火焼き用 カット 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_jidori_assort_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_chicken_oyadori_momo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "親鶏の炭火焼き",
+    "親鶏の煮込み",
+    "鶏スープ",
+    "鶏めし"
+   ],
+   "tax_rate": 8,
+   "description": "産卵を終えた親鶏のもも肉。若鶏よりかために締まった肉質で、噛むほどにあふれる濃いうま味が魅力です。こんがり焼いてかぶりつくのはもちろん、煮込みや炊き込みご飯にすると風味豊かに仕上がります。",
+   "image_brief": "Darker red firm chicken thigh pieces with yellowish fat in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 親鶏 もも肉 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 親鶏 もも肉 骨付き 1本（約350g）",
+     "brand": "",
+     "size": "1本（約350g）",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 親鶏 もも肉 一口カット 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 親鶏 もも肉 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_chicken_oyadori_momo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_gyu7_buta3",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ミートソース",
+    "メンチカツ",
+    "ロールキャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉を多めに配合した牛7:豚3の合いびき肉。牛肉のコクと肉らしい味わいがしっかり感じられ、肉汁たっぷりのハンバーグやボロネーゼにおすすめです。",
+   "image_brief": "Coarse reddish ground beef and pork mixture shaped in a neat mound in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "牛豚合いびき肉（牛7:豚3） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 458,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "牛豚合いびき肉（牛7:豚3） 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 868,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "輸入 牛豚合いびき肉（牛7:豚3） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "オーストラリア産牛・カナダ産豚"
+    },
+    {
+     "title": "Cymbal セレクト 牛豚合いびき肉（牛7:豚3） 粗挽き 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 558,
+     "origin": "国産牛・国産豚"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_gyu7_buta3_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_buta7_gyu3",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "麻婆なす",
+    "肉そぼろ",
+    "コロッケ",
+    "ハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉を多めにした豚7:牛3の合いびき肉。やわらかくジューシーで、豚のうま味がよく出るので和風・中華のおかずにも合わせやすいバランスです。お手頃価格で毎日の料理に気軽に使えます。",
+   "image_brief": "Pinkish fine ground pork and beef mixture laid flat in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "豚牛合いびき肉（豚7:牛3） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚・輸入牛"
+    },
+    {
+     "title": "豚牛合いびき肉（豚7:牛3） 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 798,
+     "origin": "国産豚・輸入牛"
+    },
+    {
+     "title": "輸入 豚牛合いびき肉（豚7:牛3） 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "カナダ産豚・オーストラリア産牛"
+    },
+    {
+     "title": "Cymbal ベーシック 豚牛合いびき肉（豚7:牛3） 冷凍 パラパラタイプ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "輸入豚・輸入牛"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_buta7_gyu3_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_hamburg_arabiki",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ハンバーガーパティ",
+    "ミートローフ",
+    "ロコモコ"
+   ],
+   "tax_rate": 8,
+   "description": "ハンバーグ作りのために粗めに挽いた牛5:豚5の合いびき肉。肉の粒感が残り、噛むたびに肉汁があふれる食べごたえのある仕上がりに。手ごねハンバーグやパティを本格的に作りたい方に。",
+   "image_brief": "Very coarse chunky ground meat with visible fat specks heaped in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "牛豚合いびき肉 粗挽き ハンバーグ用（牛5:豚5） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 528,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "牛豚合いびき肉 粗挽き ハンバーグ用（牛5:豚5） 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 998,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "輸入 牛豚合いびき肉 粗挽き ハンバーグ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産牛・メキシコ産豚"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛・黒豚 合いびき肉 粗挽き 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_hamburg_arabiki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_frozen_parapara",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷凍食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ミートソース",
+    "タコライス",
+    "キーマカレー",
+    "ドライカレー"
+   ],
+   "tax_rate": 8,
+   "description": "パラパラに凍結した輸入の合いびき肉の冷凍大袋。使いたい分だけ振り出せるので、解凍の手間なくそのまま炒められます。ミートソースやキーマカレーの作り置きに便利です。",
+   "image_brief": "Resealable clear freezer pouch of loose crumbly frozen ground meat, blank label, white background packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛豚合いびき肉 冷凍 パラパラ 800g",
+     "brand": "Cymbal",
+     "size": "800g",
+     "price_tax_excluded": 898,
+     "origin": "輸入牛・輸入豚"
+    },
+    {
+     "title": "Cymbal 牛豚合いびき肉 冷凍 パラパラ 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 478,
+     "origin": "輸入牛・輸入豚"
+    },
+    {
+     "title": "Cymbal ベーシック 牛豚合いびき肉 冷凍 パラパラ 大容量 1.5kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1.5kg",
+     "price_tax_excluded": 1580,
+     "origin": "輸入牛・輸入豚"
+    },
+    {
+     "title": "ブラジル産牛・カナダ産豚 合いびき肉 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1080,
+     "origin": "ブラジル産牛・カナダ産豚"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_frozen_parapara_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_kokusan_gyu6_tokuyo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ミートソース",
+    "コロッケ",
+    "ピーマンの肉詰め"
+   ],
+   "tax_rate": 8,
+   "description": "国産牛と国産豚を牛6:豚4で合わせた合いびき肉の大容量パック。週末の作り置きや大家族のハンバーグ作りにたっぷり使えます。小分けして冷凍しておけば、平日の料理がぐっと楽になります。",
+   "image_brief": "Large white tray piled with reddish ground meat mixture under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 牛豚合いびき肉（牛6:豚4） 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1080,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "国産 牛豚合いびき肉（牛6:豚4） 大容量 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1780,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "国産 牛豚合いびき肉（牛6:豚4） 小分け 150g×3",
+     "brand": "",
+     "size": "150g×3",
+     "price_tax_excluded": 868,
+     "origin": "国産牛・国産豚"
+    },
+    {
+     "title": "国産 牛豚合いびき肉（牛6:豚4） 冷凍 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1380,
+     "origin": "国産牛・国産豚"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_kokusan_gyu6_tokuyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_aibiki_tori_buta",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "合いびき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏豚つくね",
+    "餃子",
+    "肉団子",
+    "そぼろ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉と豚肉を合わせた合いびき肉。豚肉のコクに鶏肉のあっさり感が加わり、つくねや肉団子がふんわりやわらかに仕上がります。和風の味付けや中華風の点心にもよく合います。",
+   "image_brief": "Pale pink mixed ground chicken and pork in a shallow white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 鶏豚合いびき肉（鶏5:豚5） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏豚合いびき肉（鶏5:豚5） 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏豚合いびき肉（鶏7:豚3） 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 318,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal ベーシック 鶏豚合いびき肉 冷凍 パラパラ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産鶏・カナダ産豚"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_aibiki_tori_buta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_tori_mune_hikiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "鶏ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏そぼろ",
+    "つくね",
+    "鶏団子スープ",
+    "ヘルシーハンバーグ"
+   ],
+   "tax_rate": 8,
+   "description": "鶏むね肉だけを挽いたあっさりタイプのひき肉。脂が少なくさっぱりした味わいで、そぼろやつくね、鶏団子スープに最適です。脂質を控えたい方や、小さなお子さまのおかずにも使いやすい一品です。",
+   "image_brief": "Pale pink finely ground chicken breast spread flat in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 鶏むねひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏むねひき肉 徳用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏むねひき肉 皮なし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏むねひき肉 冷凍 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_tori_mune_hikiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_tori_hikiniku_nankotsu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "鶏ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "軟骨入りつくね",
+    "鶏団子鍋",
+    "鶏つくね串",
+    "照り焼きつくね"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ひき肉に細かく刻んだやげん軟骨を混ぜ込みました。コリコリ食感がアクセントになり、焼くだけで居酒屋風のつくねに。鍋の鶏団子にしても食べごたえがあり、寒い季節に重宝します。",
+   "image_brief": "Ground chicken flecked with small white cartilage bits in a shallow white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 鶏ひき肉 軟骨入り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏ひき肉 軟骨入り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 鶏ひき肉 軟骨入り 粗挽き 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "Cymbal 鶏ひき肉 軟骨入り つくね用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_tori_hikiniku_nankotsu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_tori_hikiniku_mix_tokuyo",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "鶏ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "鶏そぼろ丼",
+    "ガパオライス",
+    "麻婆豆腐",
+    "餃子"
+   ],
+   "tax_rate": 8,
+   "description": "もも肉とむね肉をバランスよく合わせた鶏ひき肉の徳用・輸入パック。ほどよいコクとあっさり感で幅広い料理に合い、まとめて作るそぼろやガパオライスにたっぷり使えます。",
+   "image_brief": "Large white tray heaped with light pink ground chicken under clear film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 鶏ひき肉（もも・むね）徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏ひき肉 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 378,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "ブラジル産 鶏ひき肉 冷凍 パラパラ 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "国産 鶏ひき肉（もも・むね） 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 358,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_tori_hikiniku_mix_tokuyo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_buta_akami_hikiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "豚ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "肉団子",
+    "ワンタン",
+    "ロールキャベツ",
+    "麻婆豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "脂身の少ない豚もも肉を中心に挽いた赤身ひき肉。さっぱりとした味わいで、肉団子やロールキャベツがあっさり仕上がります。炒めても脂が出にくく、ヘルシーなおかず作りにおすすめです。",
+   "image_brief": "Lean bright pink ground pork in a smooth layer in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産 豚赤身ひき肉（もも） 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 豚赤身ひき肉（もも） 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 628,
+     "origin": "国産"
+    },
+    {
+     "title": "カナダ産 豚赤身ひき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 358,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal セレクト 豚赤身ひき肉 脂肪控えめ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_buta_akami_hikiniku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_buta_hikiniku_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "豚ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "餃子",
+    "麻婆豆腐",
+    "担々麺",
+    "肉みそ"
+   ],
+   "tax_rate": 8,
+   "description": "カナダ産・メキシコ産などの輸入豚を使った豚ひき肉。お手頃価格でたっぷり入り、餃子作りや麻婆豆腐、肉みその作り置きなどに気兼ねなく使えます。冷凍保存して少しずつ使うのもおすすめです。",
+   "image_brief": "Light pink ground pork piled in a large white tray under clear wrap, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "カナダ産 豚ひき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 328,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "メキシコ産 豚ひき肉 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 418,
+     "origin": "メキシコ産"
+    },
+    {
+     "title": "デンマーク産 豚ひき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 338,
+     "origin": "デンマーク産"
+    },
+    {
+     "title": "カナダ産 豚ひき肉 徳用 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 998,
+     "origin": "カナダ産"
+    },
+    {
+     "title": "Cymbal ベーシック 豚ひき肉 冷凍 パラパラ 500g",
+     "brand": "Cymbal ベーシック",
+     "size": "500g",
+     "price_tax_excluded": 498,
+     "origin": "メキシコ産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_buta_hikiniku_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_gyu_hikiniku_import",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "牛ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "タコライス",
+    "チリコンカン",
+    "ボロネーゼ",
+    "ハンバーガー"
+   ],
+   "tax_rate": 8,
+   "description": "輸入牛を使った牛100%のひき肉。牛肉らしいしっかりした風味で、タコライスやチリコンカン、ボロネーゼなど洋風の料理によく合います。手頃な価格でボリュームのある料理を作りたいときに。",
+   "image_brief": "Deep red ground beef in a neat rectangle in a white tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "オーストラリア産 牛ひき肉 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛ひき肉 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 868,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛ひき肉 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 578,
+     "origin": "米国産"
+    },
+    {
+     "title": "ニュージーランド産 牛ひき肉 冷凍 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1180,
+     "origin": "ニュージーランド産"
+    },
+    {
+     "title": "Cymbal 牛ひき肉 冷凍 パラパラ 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_gyu_hikiniku_import_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_meat_pork_chicken_gyu_akami_arabiki_hikiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "ひき肉",
+    "牛ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハンバーガーパティ",
+    "ステーキハンバーグ",
+    "ミートボール",
+    "ラグーソース"
+   ],
+   "tax_rate": 8,
+   "description": "脂の少ない赤身部位を粗く挽いた牛赤身ひき肉。肉そのものの味わいが濃く、パティにすればステーキのような食べごたえに。牛肉のうま味を生かしたい本格派の料理にどうぞ。",
+   "image_brief": "Coarsely ground lean beef with dark red granules mounded in a black tray under film, blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "国産牛 赤身ひき肉 粗挽き 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 赤身ひき肉 粗挽き 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1150,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛赤身ひき肉 粗挽き 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal セレクト 黒毛和牛 赤身ひき肉 粗挽き 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "images": [
+    "w_meat_pork_chicken_gyu_akami_arabiki_hikiniku_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

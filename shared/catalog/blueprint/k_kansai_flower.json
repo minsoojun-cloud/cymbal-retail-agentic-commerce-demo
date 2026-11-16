@@ -1,0 +1,594 @@
+{
+ "category_key": "k_kansai_flower",
+ "items": [
+  {
+   "base_id": "k_kansai_fl_butsuka",
+   "category_path": [
+    "花・園芸",
+    "仏花・供花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お彼岸",
+    "お盆",
+    "月命日"
+   ],
+   "tax_rate": 10,
+   "description": "小菊やスプレー菊、カーネーション、りんどうなどを組み合わせた仏花です。お仏壇やお墓参りに、左右一対でもご用意しています。水揚げ済みで日持ちのよい花材を選んでいます。",
+   "image_brief": "A pair of Japanese Buddhist altar flower bunches with white and yellow chrysanthemums, purple statice and green leaves, wrapped in clear film. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 仏花 小菊 1束",
+     "brand": "Cymbal フラワー",
+     "size": "1束",
+     "price_tax_excluded": 398,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 仏花 小菊 1対（2束）",
+     "brand": "Cymbal フラワー",
+     "size": "2束",
+     "price_tax_excluded": 698,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 仏花 スプレー菊 大 1束",
+     "brand": "Cymbal フラワー",
+     "size": "1束",
+     "price_tax_excluded": 598,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 墓参り用 仏花 1対（2束）",
+     "brand": "Cymbal フラワー",
+     "size": "2束",
+     "price_tax_excluded": 798,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_butsuka_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_bouquet",
+   "category_path": [
+    "花・園芸",
+    "花束・アレンジメント"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "誕生日",
+    "記念日",
+    "お礼"
+   ],
+   "tax_rate": 10,
+   "description": "季節の花を使って店内でお作りする花束です。お誕生日や記念日、ちょっとしたお礼やお見舞いに。サイズに合わせてお選びください。",
+   "image_brief": "A colourful hand-tied bouquet of seasonal flowers, roses, gerberas and lisianthus, wrapped in plain kraft and clear paper with a plain ribbon. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 季節の花束 S",
+     "brand": "Cymbal フラワー",
+     "size": "S",
+     "price_tax_excluded": 980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 季節の花束 M",
+     "brand": "Cymbal フラワー",
+     "size": "M",
+     "price_tax_excluded": 1980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 季節の花束 L",
+     "brand": "Cymbal フラワー",
+     "size": "L",
+     "price_tax_excluded": 2980,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_bouquet_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_arrangement",
+   "category_path": [
+    "花・園芸",
+    "花束・アレンジメント"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "お供え",
+    "お見舞い"
+   ],
+   "tax_rate": 10,
+   "description": "そのまま飾れるアレンジメント。オアシスに挿してあるので、花瓶いらずでお水を足すだけ。お祝いやお供えにも。",
+   "image_brief": "A small round flower arrangement in a plain white basket with pink roses, carnations and greenery. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー フラワーアレンジメント ピンク系 S",
+     "brand": "Cymbal フラワー",
+     "size": "S",
+     "price_tax_excluded": 1980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー フラワーアレンジメント 白系 お供え M",
+     "brand": "Cymbal フラワー",
+     "size": "M",
+     "price_tax_excluded": 2980,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_arrangement_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_rose",
+   "category_path": [
+    "花・園芸",
+    "切り花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "インテリア",
+    "プレゼント"
+   ],
+   "tax_rate": 10,
+   "description": "店頭で水揚げしたバラの切り花です。スタンダードな赤やピンクのほか、季節の色をそろえています。",
+   "image_brief": "Five long-stemmed red roses tied loosely with a plain band, fresh green leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "attributes": {
+    "color": "赤・ピンク"
+   },
+   "variants": [
+    {
+     "title": "Cymbal フラワー バラ 5本 赤",
+     "brand": "Cymbal フラワー",
+     "size": "5本",
+     "price_tax_excluded": 698,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー バラ 5本 ピンク",
+     "brand": "Cymbal フラワー",
+     "size": "5本",
+     "price_tax_excluded": 698,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー スプレーバラ 3本 ミックス",
+     "brand": "Cymbal フラワー",
+     "size": "3本",
+     "price_tax_excluded": 598,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_rose_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_gerbera",
+   "category_path": [
+    "花・園芸",
+    "切り花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "インテリア"
+   ],
+   "tax_rate": 10,
+   "description": "明るい色合いで、テーブルに飾るだけで華やかになるガーベラの切り花です。",
+   "image_brief": "Five gerberas in orange, pink and yellow tied loosely, long green stems. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "attributes": {
+    "color": "ミックス"
+   },
+   "variants": [
+    {
+     "title": "Cymbal フラワー ガーベラ 5本 ミックス",
+     "brand": "Cymbal フラワー",
+     "size": "5本",
+     "price_tax_excluded": 498,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_gerbera_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_carnation",
+   "category_path": [
+    "花・園芸",
+    "切り花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "インテリア",
+    "母の日"
+   ],
+   "tax_rate": 10,
+   "description": "花持ちのよいカーネーション。単色でもミックスでも飾りやすい定番の切り花です。",
+   "image_brief": "A loose bunch of ten carnations in pink and red. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー カーネーション 10本 ミックス",
+     "brand": "Cymbal フラワー",
+     "size": "10本",
+     "price_tax_excluded": 598,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー カーネーション 5本 ピンク",
+     "brand": "Cymbal フラワー",
+     "size": "5本",
+     "price_tax_excluded": 348,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_carnation_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_kogiku",
+   "category_path": [
+    "花・園芸",
+    "切り花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "仏花づくり",
+    "インテリア"
+   ],
+   "tax_rate": 10,
+   "description": "日持ちのよい小菊とスプレー菊の切り花。仏花づくりやご家庭の一輪挿しにも。",
+   "image_brief": "A bunch of small yellow and white pompon chrysanthemums with green leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 小菊 1束 黄",
+     "brand": "Cymbal フラワー",
+     "size": "1束",
+     "price_tax_excluded": 298,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 小菊 1束 白",
+     "brand": "Cymbal フラワー",
+     "size": "1束",
+     "price_tax_excluded": 298,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_kogiku_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_cyclamen",
+   "category_path": [
+    "花・園芸",
+    "鉢花"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "お歳暮",
+    "冬のインテリア"
+   ],
+   "tax_rate": 10,
+   "description": "冬の鉢花の代表、シクラメン。明るい窓辺に置き、土の表面が乾いたら鉢の縁から水やりしてください。",
+   "image_brief": "A potted cyclamen with upswept magenta flowers and heart-shaped marbled leaves in a plain white pot. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー シクラメン 5号鉢 赤",
+     "brand": "Cymbal フラワー",
+     "size": "5号鉢",
+     "price_tax_excluded": 1980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー シクラメン 5号鉢 ピンク",
+     "brand": "Cymbal フラワー",
+     "size": "5号鉢",
+     "price_tax_excluded": 1980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー ミニシクラメン 3号鉢",
+     "brand": "Cymbal フラワー",
+     "size": "3号鉢",
+     "price_tax_excluded": 598,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_cyclamen_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_poinsettia",
+   "category_path": [
+    "花・園芸",
+    "鉢花"
+   ],
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "クリスマス",
+    "冬のインテリア"
+   ],
+   "tax_rate": 10,
+   "description": "クリスマスシーズンを彩るポインセチア。寒さに弱いので、室内の暖かい場所で育ててください。",
+   "image_brief": "A potted red poinsettia with bright red bracts and green leaves in a plain white pot. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー ポインセチア 5号鉢 赤",
+     "brand": "Cymbal フラワー",
+     "size": "5号鉢",
+     "price_tax_excluded": 1580,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー ポインセチア 3.5号鉢 赤",
+     "brand": "Cymbal フラワー",
+     "size": "3.5号鉢",
+     "price_tax_excluded": 798,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_poinsettia_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_orchid",
+   "category_path": [
+    "花・園芸",
+    "鉢花"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "贈り物"
+   ],
+   "tax_rate": 10,
+   "description": "上品な花姿で、贈り物にも喜ばれるミディ胡蝶蘭。花が長く楽しめます。",
+   "image_brief": "A potted miniature white phalaenopsis orchid with arching flower spikes in a plain white ceramic pot. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー ミディ胡蝶蘭 2本立ち 白",
+     "brand": "Cymbal フラワー",
+     "size": "2本立ち",
+     "price_tax_excluded": 4980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー ミディ胡蝶蘭 2本立ち ピンク",
+     "brand": "Cymbal フラワー",
+     "size": "2本立ち",
+     "price_tax_excluded": 4980,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_orchid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_foliage",
+   "category_path": [
+    "花・園芸",
+    "観葉植物"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "インテリア",
+    "新生活"
+   ],
+   "tax_rate": 10,
+   "description": "育てやすく、お部屋にみどりを添える観葉植物です。直射日光を避けた明るい場所に置いてください。",
+   "image_brief": "Two small potted foliage plants, a golden pothos and a small rubber plant, in plain white pots. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 観葉植物 ポトス 3号鉢",
+     "brand": "Cymbal フラワー",
+     "size": "3号鉢",
+     "price_tax_excluded": 598,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 観葉植物 ゴムの木 4号鉢",
+     "brand": "Cymbal フラワー",
+     "size": "4号鉢",
+     "price_tax_excluded": 980,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 観葉植物 サンスベリア 4号鉢",
+     "brand": "Cymbal フラワー",
+     "size": "4号鉢",
+     "price_tax_excluded": 1280,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_foliage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_seasonal_pot",
+   "category_path": [
+    "花・園芸",
+    "鉢花"
+   ],
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "ガーデニング",
+    "玄関"
+   ],
+   "tax_rate": 10,
+   "description": "季節ごとに入れ替わる、手軽に楽しめる小さな鉢花。ベランダや玄関先を明るく彩ります。",
+   "image_brief": "Three small potted flowering plants, pansies and violas in purple and yellow, in plain black plastic pots. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 季節の鉢花 パンジー 3号ポット",
+     "brand": "Cymbal フラワー",
+     "size": "3号",
+     "price_tax_excluded": 198,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 季節の鉢花 ビオラ 3号ポット",
+     "brand": "Cymbal フラワー",
+     "size": "3号",
+     "price_tax_excluded": 178,
+     "origin": "国内産"
+    },
+    {
+     "title": "Cymbal フラワー 季節の鉢花 葉ボタン 4号ポット",
+     "brand": "Cymbal フラワー",
+     "size": "4号",
+     "price_tax_excluded": 298,
+     "origin": "国内産"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_seasonal_pot_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_soil",
+   "category_path": [
+    "花・園芸",
+    "園芸用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ガーデニング",
+    "ベランダ菜園"
+   ],
+   "tax_rate": 10,
+   "description": "草花や野菜づくりに使える、元肥入りの培養土と液体肥料です。ベランダ菜園やプランターに。",
+   "image_brief": "A plain unprinted plastic bag of potting soil and a plain white bottle of liquid fertilizer side by side. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 草花・野菜用 培養土 5L",
+     "brand": "Cymbal フラワー",
+     "size": "5L",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フラワー 草花・野菜用 培養土 14L",
+     "brand": "Cymbal フラワー",
+     "size": "14L",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フラワー 液体肥料 草花用 500mL",
+     "brand": "Cymbal フラワー",
+     "size": "500mL",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_soil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_fl_vase",
+   "category_path": [
+    "花・園芸",
+    "園芸用品"
+   ],
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "インテリア"
+   ],
+   "tax_rate": 10,
+   "description": "切り花を長持ちさせる延命剤と、シンプルなガラスの花瓶です。",
+   "image_brief": "A simple clear glass cylinder flower vase and a small plain white bottle of cut flower food. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フラワー 切り花延命剤 100mL",
+     "brand": "Cymbal フラワー",
+     "size": "100mL",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal フラワー ガラス花瓶 シリンダー 高さ20cm",
+     "brand": "Cymbal フラワー",
+     "size": "1個",
+     "price_tax_excluded": 698,
+     "origin": "中国製"
+    }
+   ],
+   "images": [
+    "k_kansai_fl_vase_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

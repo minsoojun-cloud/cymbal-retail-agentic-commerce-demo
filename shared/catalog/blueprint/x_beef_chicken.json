@@ -1,0 +1,2453 @@
+{
+ "category_key": "x_beef_chicken",
+ "items": [
+  {
+   "base_id": "x_beef_chicken_beef_chuck_roll_yakiniku",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "焼肉丼",
+    "ビビンバ",
+    "野菜炒め"
+   ],
+   "description": "きめ細かくほどよく脂ののった牛肩ロースを焼肉用にカットしました。ホットプレートでの焼肉はもちろん、焼肉丼やビビンバにもおすすめです。",
+   "image_brief": "Clear-lidded black tray of marbled beef chuck roll slices fanned out for yakiniku with a label reading '牛肩ロース 焼肉用'.",
+   "variants": [
+    {
+     "title": "国産牛 肩ロース 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 肩ロース 焼肉用 350g",
+     "brand": "",
+     "size": "350g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース 焼肉用 500g（大容量）",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1680,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛肩ロース 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 848,
+     "origin": "米国産"
+    },
+    {
+     "title": "タスマニア産 牛肩ロース 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産（タスマニア）"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 肩ロース 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1980,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_chuck_roll_yakiniku_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_chuck_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "ガーリックライス",
+    "お弁当のおかず"
+   ],
+   "description": "旨みの濃い肩ロースを厚めにカットしたステーキ用です。塩こしょうで焼いてステーキ丼にしたり、薄く切ってお弁当のおかずにも使えます。",
+   "image_brief": "Black tray holding thick-cut beef chuck steaks under clear film with a label reading '牛肩ロース ステーキ用'.",
+   "variants": [
+    {
+     "title": "オーストラリア産 牛肩ロース ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース ステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1380,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛肩ロース ステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 648,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛肩ロース ステーキ用 2枚（約360g）",
+     "brand": "",
+     "size": "約360g",
+     "price_tax_excluded": 1280,
+     "origin": "米国産"
+    },
+    {
+     "title": "国産牛 肩ロース ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 肩ロース ステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 2480,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_chuck_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_sirloin_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "ステーキ丼",
+    "ローストビーフ風",
+    "誕生日のごちそう"
+   ],
+   "description": "やわらかく甘みのある脂が特徴のサーロインをステーキ用にカットしました。週末のごちそうや家族の誕生日に、シンプルな塩こしょうで焼いてお召し上がりください。",
+   "image_brief": "Premium black tray with two marbled sirloin steaks and a gold label reading 'サーロインステーキ用'.",
+   "variants": [
+    {
+     "title": "国産牛 サーロインステーキ用 1枚（約180g）",
+     "brand": "",
+     "size": "約180g",
+     "price_tax_excluded": 2380,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 サーロインステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 3480,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "オーストラリア産 牛サーロイン ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛サーロイン ステーキ用 2枚（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 2080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛サーロイン ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 1180,
+     "origin": "米国産"
+    },
+    {
+     "title": "トップバリュ セレクト 黒毛和牛 サーロインステーキ 2枚（約300g）",
+     "brand": "トップバリュ セレクト",
+     "size": "約300g",
+     "price_tax_excluded": 6980,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_sirloin_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_round_steak",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ステーキ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ステーキ",
+    "サイコロステーキ",
+    "ステーキ丼",
+    "お弁当のおかず"
+   ],
+   "description": "脂身が少なくさっぱりとした赤身の牛ももを、ステーキ用・サイコロステーキ用にカットしました。焼きすぎないのがやわらかく仕上げるコツです。",
+   "image_brief": "Black tray of lean red beef round steaks under clear film with a label reading '牛もも ステーキ用'.",
+   "variants": [
+    {
+     "title": "国産牛 もも ステーキ用 1枚（約150g）",
+     "brand": "",
+     "size": "約150g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 もも ステーキ用 2枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1880,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛もも ステーキ用 1枚（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 548,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも ステーキ用 3枚（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛もも ステーキ用 2枚（約360g）",
+     "brand": "",
+     "size": "約360g",
+     "price_tax_excluded": 1080,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 もも ステーキ用 1枚（約120g）",
+     "brand": "",
+     "size": "約120g",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産牛 もも サイコロステーキ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_round_steak_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_roast_beef_block",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストビーフ",
+    "ローストビーフ丼",
+    "ビーフシチュー",
+    "ステーキ"
+   ],
+   "description": "ローストビーフ作りにぴったりな赤身の牛ももブロックです。フライパンや炊飯器で手軽に作れ、ローストビーフ丼やおもてなし料理に活躍します。",
+   "image_brief": "Clear vacuum-style tray with a single lean beef round block and a label reading 'ローストビーフ用ブロック'.",
+   "variants": [
+    {
+     "title": "オーストラリア産 牛もも ローストビーフ用ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも ローストビーフ用ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1480,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛もも ローストビーフ用ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1280,
+     "origin": "米国産"
+    },
+    {
+     "title": "国産牛 もも ローストビーフ用ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 もも ローストビーフ用ブロック 約250g",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産牛 ランプ ローストビーフ用ブロック 約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 1980,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_roast_beef_block_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_curry_cubes",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ビーフカレー",
+    "ビーフシチュー",
+    "ハヤシライス",
+    "肉じゃが"
+   ],
+   "description": "煮込み料理に使いやすい大きさにカットした牛肉の角切りです。じっくり煮込むとほろほろにやわらかくなり、ビーフカレーやビーフシチューがごちそうに仕上がります。",
+   "image_brief": "Black tray filled with cubed beef pieces under clear film and a label reading 'カレー・シチュー用角切り'.",
+   "variants": [
+    {
+     "title": "国産牛 もも カレー用角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 もも カレー用角切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛もも カレー・シチュー用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも カレー・シチュー用角切り 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛肩 シチュー用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 748,
+     "origin": "米国産"
+    },
+    {
+     "title": "国産牛 バラ 煮込み用角切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 肩 カレー用角切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_curry_cubes_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_shank_stew",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "ブロック・角切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ビーフシチュー",
+    "ポトフ",
+    "ビーフカレー",
+    "牛すね肉の煮込み"
+   ],
+   "description": "コラーゲンを含むすじが入った牛すね肉で、煮込むほどにとろけるような食感になります。ビーフシチューやポトフ、牛すねの赤ワイン煮込みにおすすめです。",
+   "image_brief": "Black tray of deep red beef shank chunks with visible sinew and a label reading '牛すね 煮込み用'.",
+   "variants": [
+    {
+     "title": "国産牛 すね 煮込み用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 980,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 すね 煮込み用ブロック 約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛すね 煮込み用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛すね 煮込み用 800g（大容量）",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 1480,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛すね シチュー用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 848,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 すね 煮込み用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1380,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_shank_stew_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_tendon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛すじ・ホルモン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛すじ煮込み",
+    "おでん",
+    "どて煮",
+    "牛すじカレー"
+   ],
+   "description": "下ゆでしてから煮込むと、ぷるぷるとした食感と濃い旨みが楽しめる牛すじです。牛すじ煮込みやおでん、牛すじカレーに使えます。",
+   "image_brief": "Clear tray of pale beef tendon pieces under film with a label reading '牛すじ'.",
+   "variants": [
+    {
+     "title": "国産牛 牛すじ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 牛すじ 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛すじ 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛すじ 1kg（大容量）",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛すじ 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 568,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 牛すじ 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 898,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "トップバリュ 下ゆで済み 牛すじ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造（オーストラリア産牛肉使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_tendon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_tongue",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛タン"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ねぎ塩牛タン",
+    "タンシチュー",
+    "牛タン丼"
+   ],
+   "description": "コリコリとした歯ごたえが人気の牛タンです。薄切りはねぎ塩をのせて焼肉に、ブロックはじっくり煮込んでタンシチューにどうぞ。",
+   "image_brief": "Black tray with neatly overlapping thin pink beef tongue slices and a label reading '牛タン 焼肉用'.",
+   "variants": [
+    {
+     "title": "米国産 牛タン 焼肉用 薄切り 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 698,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛タン 焼肉用 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1380,
+     "origin": "米国産"
+    },
+    {
+     "title": "オーストラリア産 牛タン 焼肉用 薄切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛タン 厚切り 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1080,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛 牛タン 焼肉用 薄切り 100g",
+     "brand": "",
+     "size": "100g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "米国産 牛タン ブロック（シチュー用）約500g",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 3480,
+     "origin": "米国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_tongue_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_harami",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "ハラミステーキ",
+    "焼肉丼",
+    "ビビンバ"
+   ],
+   "description": "やわらかくジューシーな味わいの牛ハラミです。焼肉はもちろん、ブロックはステーキにしても楽しめます。",
+   "image_brief": "Black tray of glossy dark-red beef skirt slices with a label reading '牛ハラミ 焼肉用'.",
+   "variants": [
+    {
+     "title": "米国産 牛ハラミ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛ハラミ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1380,
+     "origin": "米国産"
+    },
+    {
+     "title": "オーストラリア産 牛ハラミ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛ハラミ ブロック 約400g",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 1580,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛 ハラミ 焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "ニュージーランド産 牛ハラミ 焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 748,
+     "origin": "ニュージーランド産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_harami_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_belly_karubi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "焼肉用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "カルビ丼",
+    "クッパ",
+    "ビビンバ"
+   ],
+   "description": "ほどよい脂の甘みが楽しめる牛バラ（カルビ）の焼肉用です。たれで焼いてカルビ丼にすれば、ごはんがすすむ一品になります。",
+   "image_brief": "Black tray with marbled beef short rib slices arranged in rows and a label reading '牛カルビ 焼肉用'.",
+   "variants": [
+    {
+     "title": "国産牛 バラ（カルビ）焼肉用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 バラ（カルビ）焼肉用 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1680,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "オーストラリア産 牛バラ（カルビ）焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛バラ（カルビ）焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 848,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛バラ（カルビ）焼肉用 500g（大容量）",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1580,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛中落ちカルビ 焼肉用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "米国産"
+    },
+    {
+     "title": "オーストラリア産 牛骨付きカルビ 焼肉用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1280,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_belly_karubi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_belly_gyudon",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "薄切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "肉豆腐",
+    "肉じゃが",
+    "すき焼き",
+    "しぐれ煮"
+   ],
+   "description": "脂の甘みがたれによくなじむ牛バラの薄切りです。玉ねぎと一緒に甘辛く煮て牛丼に、肉豆腐や肉じゃがにも手軽に使えます。",
+   "image_brief": "Clear-lidded tray of thinly sliced fatty beef belly loosely folded with a label reading '牛バラ 牛丼用'.",
+   "variants": [
+    {
+     "title": "米国産 牛バラ 牛丼用 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 548,
+     "origin": "米国産"
+    },
+    {
+     "title": "米国産 牛バラ 牛丼用 薄切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1048,
+     "origin": "米国産"
+    },
+    {
+     "title": "オーストラリア産 牛バラ 牛丼用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 748,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "国産牛 バラ 牛丼用 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "米国産 牛バラ 薄切り（すき焼き・肉豆腐用）300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "カナダ産 牛バラ 牛丼用 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 778,
+     "origin": "カナダ産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_belly_gyudon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_round_thin",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "薄切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "青椒肉絲",
+    "牛肉とごぼうのしぐれ煮",
+    "ハヤシライス",
+    "野菜炒め"
+   ],
+   "description": "赤身中心で脂がしつこくない牛ももの薄切りです。肉じゃがやハヤシライス、細切りは青椒肉絲など炒め物に使いやすい形状です。",
+   "image_brief": "Black tray of lean thin beef round slices neatly laid out with a label reading '牛もも 薄切り'.",
+   "variants": [
+    {
+     "title": "国産牛 もも 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 もも 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛もも 薄切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 648,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛もも 薄切り 500g（大容量）",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 1248,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛もも 薄切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 もも 薄切り 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産牛 もも 細切り（青椒肉絲・炒め物用）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1028,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_round_thin_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_shabu",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "すき焼き・しゃぶしゃぶ用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "しゃぶしゃぶ",
+    "すき焼き",
+    "冷しゃぶ",
+    "牛肉の野菜巻き"
+   ],
+   "description": "鍋の季節に欠かせない、しゃぶしゃぶ・すき焼き用の牛肉です。さっと火を通してぽん酢やごまだれで、すき焼きなら割下で煮て溶き卵でどうぞ。",
+   "image_brief": "Wide shallow tray with paper-thin beef slices fanned in a circle and a label reading 'しゃぶしゃぶ用'.",
+   "variants": [
+    {
+     "title": "国産牛 もも しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1180,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 肩ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1780,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 肩ロース しゃぶしゃぶ用 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 2480,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "オーストラリア産 牛肩ロース しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛バラ しゃぶしゃぶ用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 798,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 もも すき焼き用 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 2280,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産牛 もも すき焼き用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1580,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_shabu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_wagyu_kiriotoshi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "切り落とし・こま切れ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "肉じゃが",
+    "牛丼",
+    "すき焼き",
+    "肉豆腐",
+    "しぐれ煮"
+   ],
+   "description": "黒毛和牛のさまざまな部位を食べやすくカットした切り落としです。和牛ならではの甘みとコクで、いつもの肉じゃがや牛丼がワンランク上の味わいになります。",
+   "image_brief": "Black tray with a gold border holding mixed marbled wagyu slices and a label reading '黒毛和牛 切り落とし'.",
+   "variants": [
+    {
+     "title": "鹿児島県産 黒毛和牛 切り落とし 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 切り落とし 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 1780,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 切り落とし 400g（大容量）",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 2780,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 黒毛和牛 切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1480,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "佐賀県産 黒毛和牛 切り落とし 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1580,
+     "origin": "佐賀県産"
+    },
+    {
+     "title": "トップバリュ セレクト 黒毛和牛 切り落とし 300g",
+     "brand": "トップバリュ セレクト",
+     "size": "300g",
+     "price_tax_excluded": 2180,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_wagyu_kiriotoshi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_beef_ground",
+   "category_path": [
+    "お肉・お肉加工品",
+    "牛肉",
+    "牛ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーグ",
+    "ミートソース",
+    "そぼろ",
+    "キーマカレー",
+    "コロッケ"
+   ],
+   "description": "牛肉100%のひき肉で、肉の旨みをしっかり感じられます。ハンバーグやミートソース、キーマカレーや牛そぼろに使えます。",
+   "image_brief": "Black tray of fresh red ground beef pressed flat under clear film with a label reading '牛ひき肉'.",
+   "variants": [
+    {
+     "title": "国産牛 ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "国産牛 ひき肉 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 1348,
+     "origin": "国産"
+    },
+    {
+     "title": "オーストラリア産 牛ひき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "オーストラリア産 牛ひき肉 600g（大容量）",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 1148,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "米国産 牛ひき肉 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 618,
+     "origin": "米国産"
+    },
+    {
+     "title": "鹿児島県産 黒毛和牛 ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1080,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "国産牛 あらびき ひき肉（ハンバーグ用）300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 1048,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_beef_ground_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_seasoned_beef_karubi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "牛肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼肉",
+    "カルビ丼",
+    "牛丼",
+    "ビビンバ",
+    "お弁当のおかず"
+   ],
+   "description": "牛肉をたれに漬け込んであるので、フライパンで焼くだけで味がきまります。忙しい日の焼肉丼やお弁当のおかずに便利です。",
+   "image_brief": "Tray of sauce-marinated beef slices with sesame seeds under clear film and a red label reading '焼肉のたれ漬け'.",
+   "variants": [
+    {
+     "title": "トップバリュ 牛カルビ 焼肉のたれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国内加工（米国産牛肉使用）"
+    },
+    {
+     "title": "トップバリュ 牛カルビ 焼肉のたれ漬け 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 1480,
+     "origin": "国内加工（米国産牛肉使用）"
+    },
+    {
+     "title": "トップバリュ 牛カルビ 塩だれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 798,
+     "origin": "国内加工（米国産牛肉使用）"
+    },
+    {
+     "title": "トップバリュ 牛ハラミ 焼肉のたれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "国内加工（米国産牛肉使用）"
+    },
+    {
+     "title": "トップバリュ 牛ハラミ にんにく塩だれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "国内加工（米国産牛肉使用）"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 カルビ 秘伝だれ漬け 250g",
+     "brand": "トップバリュ セレクト",
+     "size": "250g",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 牛肉と玉ねぎの牛丼用 たれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "国内加工（オーストラリア産牛肉使用）"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_seasoned_beef_karubi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_thigh_karaage_cut",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "竜田揚げ",
+    "チキン南蛮",
+    "お弁当のおかず"
+   ],
+   "description": "唐揚げに使いやすい大きめサイズにカットした若鶏もも肉です。下味をつけて揚げるだけなので、唐揚げや竜田揚げが手早く作れます。",
+   "image_brief": "Black tray of large bite-size raw chicken thigh pieces under clear film with a label reading '若鶏もも 唐揚げ用'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏もも 唐揚げ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも 唐揚げ用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 798,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも 唐揚げ用 1kg（大容量）",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏もも 唐揚げ用 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "ブラジル産 鶏もも 唐揚げ用 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 548,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "宮崎県産 若鶏もも 唐揚げ用 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_thigh_karaage_cut_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_thigh_bite_size",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "筑前煮",
+    "チキンカレー",
+    "野菜炒め",
+    "茶碗蒸し"
+   ],
+   "description": "包丁いらずですぐ使える一口大の鶏もも肉です。親子丼や筑前煮、チキンカレーなど、毎日のおかず作りの時短に役立ちます。",
+   "image_brief": "Clear tray of small diced raw chicken thigh pieces with a label reading '若鶏もも 一口大カット'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏もも 一口大カット 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも 一口大カット 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "岩手県産 若鶏もも 親子丼用 小間切れ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "鹿児島県産 若鶏もも 一口大カット 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 528,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも・むね 一口大ミックス 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もも 一口大カット 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 448,
+     "origin": "ブラジル産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_thigh_bite_size_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_thigh_value_pack",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "照り焼きチキン",
+    "唐揚げ",
+    "チキンソテー",
+    "親子丼",
+    "チキンカレー"
+   ],
+   "description": "使い勝手のよい若鶏もも肉の複数枚入り・徳用パックです。照り焼きやチキンソテーに、使い切れない分は小分けにして冷凍保存できます。",
+   "image_brief": "Large black tray with several whole raw chicken thighs under clear film and a yellow '徳用' label reading '若鶏もも肉'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏もも肉 2枚入（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも肉 徳用 4枚入（約1.2kg）",
+     "brand": "",
+     "size": "約1.2kg",
+     "price_tax_excluded": 1680,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも肉 徳用 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 2680,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏もも肉 徳用 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "宮崎県産 若鶏もも肉 照り焼き用 2枚入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 848,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "青森県産 若鶏もも肉 ステーキ用 1枚（約280g）",
+     "brand": "",
+     "size": "約280g",
+     "price_tax_excluded": 498,
+     "origin": "青森県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_thigh_value_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_premium_chicken_thigh",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "もも肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "チキンソテー",
+    "照り焼きチキン",
+    "親子丼",
+    "水炊き",
+    "焼き鳥"
+   ],
+   "description": "飼育方法や品種にこだわった赤鶏・地鶏・銘柄鶏のもも肉です。しっかりとした歯ごたえと濃い旨みがあり、シンプルなチキンソテーや親子丼で味わいが引き立ちます。",
+   "image_brief": "Kraft-accented tray with a whole raw chicken thigh with golden skin and a label reading '赤鶏もも肉'.",
+   "variants": [
+    {
+     "title": "鹿児島県産 赤鶏もも肉 1枚（約280g）",
+     "brand": "",
+     "size": "約280g",
+     "price_tax_excluded": 598,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏もも肉 2枚入（約560g）",
+     "brand": "",
+     "size": "約560g",
+     "price_tax_excluded": 1148,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 地鶏もも肉 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 980,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "愛知県産 名古屋コーチン もも肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 1280,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "岩手県産 ハーブ育ち 銘柄鶏 もも肉 1枚（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 648,
+     "origin": "岩手県産"
+    },
+    {
+     "title": "トップバリュ セレクト 国産 銘柄鶏 もも肉 2枚入（約500g）",
+     "brand": "トップバリュ セレクト",
+     "size": "約500g",
+     "price_tax_excluded": 1080,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_premium_chicken_thigh_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_breast_skinless",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "蒸し鶏",
+    "棒棒鶏",
+    "鶏ハム",
+    "チキン南蛮",
+    "鶏むね肉のピカタ"
+   ],
+   "description": "あらかじめ皮を取り除いた若鶏むね肉です。脂が少なくあっさりしているので、蒸し鶏や棒棒鶏、鶏ハムなど幅広い料理に使えます。",
+   "image_brief": "Black tray of pale pink skinless chicken breasts under clear film with a label reading '若鶏むね肉 皮なし'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 皮なし 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 皮なし 2枚入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 皮なし 徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1048,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 若鶏むね肉 皮なし 2枚入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 598,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "ブラジル産 鶏むね肉 皮なし 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1180,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏むね肉 皮なし 1枚（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_breast_skinless_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_breast_sogi",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鶏むね肉の照り焼き",
+    "唐揚げ",
+    "鶏チリ",
+    "野菜炒め",
+    "親子丼"
+   ],
+   "description": "火が通りやすいように薄くそぎ切りにした若鶏むね肉です。片栗粉をまぶして焼けばしっとり仕上がり、照り焼きや炒め物がすぐに作れます。",
+   "image_brief": "Clear tray of thin diagonally sliced raw chicken breast pieces with a label reading '若鶏むね そぎ切り'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏むね そぎ切り 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね そぎ切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 518,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね 皮なし そぎ切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 418,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね 一口大カット（唐揚げ用）400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね 細切り（炒め物用）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 278,
+     "origin": "国産"
+    },
+    {
+     "title": "岩手県産 若鶏むね そぎ切り 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "岩手県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_breast_sogi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_breast_value_pack",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "むね肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "唐揚げ",
+    "鶏ハム",
+    "チキンカツ",
+    "よだれ鶏",
+    "お弁当のおかず"
+   ],
+   "description": "お手頃価格でたっぷり使える若鶏むね肉の徳用パックです。唐揚げやチキンカツ、作り置きの鶏ハムなど家族のおかずに大活躍します。",
+   "image_brief": "Large tray stacked with several raw chicken breasts under clear film and a yellow '徳用' label reading '若鶏むね肉'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 2枚入（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 528,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 徳用 約1.2kg",
+     "brand": "",
+     "size": "約1.2kg",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏むね肉 徳用 約2kg",
+     "brand": "",
+     "size": "約2kg",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏むね肉 徳用 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 980,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "宮崎県産 若鶏むね肉 徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 848,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "鹿児島県産 若鶏むね肉 徳用 約1.5kg",
+     "brand": "",
+     "size": "約1.5kg",
+     "price_tax_excluded": 1180,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_breast_value_pack_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_ground",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鶏ひき肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鶏そぼろ",
+    "つくね",
+    "肉団子",
+    "麻婆豆腐",
+    "かぼちゃのそぼろ煮"
+   ],
+   "description": "もも・むねから選べる鶏ひき肉です。三色そぼろ丼やつくね、かぼちゃのそぼろあんかけなど、やさしい味わいの料理に向いています。",
+   "image_brief": "Black tray of pale pink ground chicken pressed flat under clear film with a label reading '鶏ひき肉'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉（もも）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉（もも）400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 568,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉（むね）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉（むね）400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉 徳用 800g",
+     "brand": "",
+     "size": "800g",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏ひき肉 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ひき肉（軟骨入り）200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 328,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_ground_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_wing_middle",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "手羽中"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "手羽中の甘辛煮",
+    "手羽中の唐揚げ",
+    "鶏スープ",
+    "さっぱり煮",
+    "お弁当のおかず"
+   ],
+   "description": "食べやすいサイズで骨からおいしいだしが出る若鶏手羽中です。甘辛煮や唐揚げ、お酢で煮るさっぱり煮にもおすすめです。",
+   "image_brief": "Black tray with rows of raw chicken wing middles under clear film and a label reading '若鶏手羽中'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏手羽中 10本入（約250g）",
+     "brand": "",
+     "size": "約250g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏手羽中 20本入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 748,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏手羽中 ハーフ（スペアリブ）約300g",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏手羽中 徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1380,
+     "origin": "国産"
+    },
+    {
+     "title": "ブラジル産 鶏手羽中 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 898,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "宮崎県産 若鶏手羽中 15本入（約380g）",
+     "brand": "",
+     "size": "約380g",
+     "price_tax_excluded": 598,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_wing_middle_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_liver",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "レバー・砂肝"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "レバニラ炒め",
+    "鶏レバーの甘辛煮",
+    "焼き鳥",
+    "レバーの唐揚げ"
+   ],
+   "description": "新鮮な若鶏のレバーとハツです。牛乳や水にさらして下処理し、レバニラ炒めや生姜をきかせた甘辛煮にどうぞ。",
+   "image_brief": "Clear tray of glossy deep-red raw chicken livers with a label reading '若鶏レバー'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏レバー 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏レバー 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 368,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏レバー（ハツ付き）250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏ハツ 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 若鶏レバー 下処理済 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 若鶏レバー 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 288,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_liver_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_gizzard",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "レバー・砂肝"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "砂肝のにんにく炒め",
+    "砂肝のアヒージョ",
+    "焼き鳥",
+    "砂肝のポン酢和え"
+   ],
+   "description": "コリコリとした食感が楽しい若鶏の砂肝です。にんにく炒めや塩焼き、さっとゆでてポン酢和えにすると手軽な一品になります。",
+   "image_brief": "Black tray of raw chicken gizzards under clear film with a label reading '若鶏砂肝'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏砂肝 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏砂肝 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏砂肝 スライス 150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 若鶏砂肝 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 398,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "鹿児島県産 若鶏砂肝 徳用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 728,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "ブラジル産 鶏砂肝 1kg",
+     "brand": "",
+     "size": "1kg",
+     "price_tax_excluded": 798,
+     "origin": "ブラジル産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_gizzard_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_leg_bone_in",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "骨付き肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ローストチキン",
+    "チキンレッグの照り焼き",
+    "スープカレー",
+    "ポトフ"
+   ],
+   "description": "骨付きならではの旨みとジューシーさが楽しめる若鶏骨付きもも肉です。オーブンでローストチキンにしたり、スープカレーやポトフの具にもおすすめです。",
+   "image_brief": "Black tray with whole raw bone-in chicken legs under clear film and a label reading '若鶏骨付きもも'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏骨付きもも 1本（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 398,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏骨付きもも 2本入（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 768,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏骨付きもも 4本入（約1.2kg）",
+     "brand": "",
+     "size": "約1.2kg",
+     "price_tax_excluded": 1480,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏骨付きもも 1本（約280g）",
+     "brand": "",
+     "size": "約280g",
+     "price_tax_excluded": 498,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "ブラジル産 鶏骨付きもも 2本入（約600g）",
+     "brand": "",
+     "size": "約600g",
+     "price_tax_excluded": 498,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "宮崎県産 若鶏骨付きもも ローストチキン用 2本入（約560g）",
+     "brand": "",
+     "size": "約560g",
+     "price_tax_excluded": 798,
+     "origin": "宮崎県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_leg_bone_in_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_bone_in_nabe",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鍋用・ぶつ切り"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "水炊き",
+    "鶏鍋",
+    "参鶏湯風スープ",
+    "筑前煮",
+    "鶏ガラスープ"
+   ],
+   "description": "骨付きのままぶつ切りにした鍋用の鶏肉です。水炊きや鶏鍋にすると骨から濃厚なだしが出て、〆の雑炊まで楽しめます。",
+   "image_brief": "Clear tray of bone-in chicken chunks for hot pot with a label reading '水炊き用 ぶつ切り'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏もも ぶつ切り（骨付き）400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏もも ぶつ切り（骨付き）700g",
+     "brand": "",
+     "size": "700g",
+     "price_tax_excluded": 898,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏 水炊き用 ぶつ切りミックス 500g",
+     "brand": "",
+     "size": "500g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏 水炊き用 ぶつ切り 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 698,
+     "origin": "鹿児島県産"
+    },
+    {
+     "title": "宮崎県産 若鶏 骨付きぶつ切り 鍋用 600g",
+     "brand": "",
+     "size": "600g",
+     "price_tax_excluded": 748,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "[鮮度+] 国産 鶏ガラ（スープ用）1羽分",
+     "brand": "",
+     "size": "1羽分",
+     "price_tax_excluded": 198,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_bone_in_nabe_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_sasami_value",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "ささみ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ささみフライ",
+    "ささみの梅しそ巻き",
+    "棒棒鶏",
+    "ささみのサラダ",
+    "お弁当のおかず"
+   ],
+   "description": "たっぷり入ったお得な若鶏ささみの徳用パックです。ささみフライや梅しそ巻き、ゆでてサラダや和え物にと使い道が広がります。",
+   "image_brief": "Large black tray with many raw chicken tenderloins lined up under clear film and a yellow '徳用' label reading '若鶏ささみ'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏ささみ 徳用 10本入（約500g）",
+     "brand": "",
+     "size": "約500g",
+     "price_tax_excluded": 698,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏ささみ 徳用 約1kg",
+     "brand": "",
+     "size": "約1kg",
+     "price_tax_excluded": 1280,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏ささみ 筋なし 6本入（約300g）",
+     "brand": "",
+     "size": "約300g",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 若鶏ささみ 8本入（約400g）",
+     "brand": "",
+     "size": "約400g",
+     "price_tax_excluded": 598,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "ブラジル産 鶏ささみ 2kg",
+     "brand": "",
+     "size": "2kg",
+     "price_tax_excluded": 1580,
+     "origin": "ブラジル産"
+    },
+    {
+     "title": "鹿児島県産 赤鶏ささみ 4本入（約200g）",
+     "brand": "",
+     "size": "約200g",
+     "price_tax_excluded": 368,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_sasami_value_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_skin_cartilage",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "鶏皮・なんこつ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鶏皮ポン酢",
+    "なんこつ唐揚げ",
+    "焼き鳥",
+    "鶏皮の甘辛煮"
+   ],
+   "description": "パリッと焼いても煮てもおいしい鶏皮と、コリコリ食感のなんこつです。鶏皮ポン酢やなんこつの唐揚げなど、晩ごはんのもう一品におすすめです。",
+   "image_brief": "Clear tray of raw chicken skin pieces under film with a label reading '若鶏皮'.",
+   "variants": [
+    {
+     "title": "[鮮度+] 国産 若鶏皮 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 148,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏皮 400g",
+     "brand": "",
+     "size": "400g",
+     "price_tax_excluded": 268,
+     "origin": "国産"
+    },
+    {
+     "title": "宮崎県産 若鶏皮 300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 218,
+     "origin": "宮崎県産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏なんこつ（やげん）150g",
+     "brand": "",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "国産"
+    },
+    {
+     "title": "[鮮度+] 国産 若鶏なんこつ（やげん）300g",
+     "brand": "",
+     "size": "300g",
+     "price_tax_excluded": 468,
+     "origin": "国産"
+    },
+    {
+     "title": "鹿児島県産 若鶏ひざなんこつ 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "鹿児島県産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_skin_cartilage_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_chicken_yakitori_skewers",
+   "category_path": [
+    "お肉・お肉加工品",
+    "鶏肉",
+    "焼き鳥用"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "焼き鳥",
+    "焼き鳥丼",
+    "お弁当のおかず",
+    "おつまみ"
+   ],
+   "description": "国産若鶏を串に刺した生の焼き鳥です。フライパンやグリルで焼くだけで、塩でもたれでもお好みの味付けで楽しめます。",
+   "image_brief": "Black tray with raw chicken skewers lined up side by side under clear film and a label reading 'ねぎま串（生）'.",
+   "variants": [
+    {
+     "title": "国産 若鶏 ねぎま串（生）5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 498,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 ねぎま串（生）10本入",
+     "brand": "",
+     "size": "10本入",
+     "price_tax_excluded": 968,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 もも串（生）5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 478,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 皮串（生）5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 378,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 砂肝串（生）5本入",
+     "brand": "",
+     "size": "5本入",
+     "price_tax_excluded": 428,
+     "origin": "国産"
+    },
+    {
+     "title": "国産 若鶏 焼き鳥串 盛り合わせ（生）10本入",
+     "brand": "",
+     "size": "10本入",
+     "price_tax_excluded": 948,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_chicken_yakitori_skewers_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_seasoned_chicken_thigh",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "照り焼きチキン",
+    "唐揚げ",
+    "鶏の味噌焼き",
+    "照り焼き丼",
+    "お弁当のおかず"
+   ],
+   "description": "国産鶏もも肉をたれや下味に漬け込んであるので、焼くだけ・揚げるだけで味がきまります。照り焼きチキンや唐揚げが手早く作れ、忙しい日の夕飯やお弁当に便利です。",
+   "image_brief": "Tray of glossy sauce-marinated chicken thighs under clear film with a label reading '鶏もも 照り焼き用 たれ漬け'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏もも 照り焼き用 たれ漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏もも 照り焼き用 たれ漬け 500g",
+     "brand": "トップバリュ",
+     "size": "500g",
+     "price_tax_excluded": 998,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏もも 唐揚げ用 しょうゆ下味付き 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏もも 唐揚げ用 塩にんにく下味付き 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏もも 甘辛ヤンニョム漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏もも 味噌漬け 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 548,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_seasoned_chicken_thigh_p.jpg"
+   ]
+  },
+  {
+   "base_id": "x_beef_chicken_seasoned_chicken_breast",
+   "category_path": [
+    "お肉・お肉加工品",
+    "味付け肉",
+    "鶏肉"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "鶏むね肉のソテー",
+    "塩麹チキン",
+    "鶏むね肉の唐揚げ",
+    "サラダ",
+    "お弁当のおかず"
+   ],
+   "description": "国産鶏むね肉を塩麹やハーブソルトに漬け込みました。焼くだけでしっとりやわらかく仕上がり、ソテーやサラダのトッピングにも使えます。",
+   "image_brief": "Tray of seasoned chicken breast pieces with visible herbs under clear film and a label reading '鶏むね 塩麹漬け'.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産鶏むね 塩麹漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね 塩麹漬け 600g",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 848,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね レモンペッパー漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね ハーブソルト漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね ゆず塩漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 458,
+     "origin": "国産"
+    },
+    {
+     "title": "トップバリュ 国産鶏むね ねぎ塩だれ漬け 300g",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 468,
+     "origin": "国産"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "x_beef_chicken_seasoned_chicken_breast_p.jpg"
+   ]
+  }
+ ]
+}

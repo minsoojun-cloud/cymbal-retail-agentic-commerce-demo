@@ -1,0 +1,4447 @@
+{
+ "category_key": "w_snack_savory",
+ "items": [
+  {
+   "base_id": "w_snack_savory_potato_consomme",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "パーティー",
+    "映画鑑賞のお供"
+   ],
+   "tax_rate": 8,
+   "description": "野菜とブイヨンのうまみを重ねたコンソメ味のポテトチップス。じゃがいもの甘みとほんのり香るオニオンが後を引き、子どもから大人まで家族みんなで楽しめる定番の味です。食べきりサイズから大袋まで揃えました。",
+   "image_brief": "A pillow-shaped snack bag in warm red with a blank label area, a few golden potato chips dusted with seasoning in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ベーシック ポテトチップス コンソメ味 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトチップス コンソメ味 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal ポテトチップス コンソメ味 ミニ 20g×6袋",
+     "brand": "Cymbal",
+     "size": "20g×6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 濃厚ブイヨン コンソメポテトチップス 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産じゃがいも使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_consomme_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_norishio",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お弁当のおとも",
+    "ドライブのお供"
+   ],
+   "tax_rate": 8,
+   "description": "青のりの磯の香りとまろやかな塩味がじゃがいもによく合う、のり塩味のポテトチップス。シンプルながら飽きのこない味わいで、つい手が伸びるひと品です。瀬戸内産青のりを使ったこだわりタイプもご用意しました。",
+   "image_brief": "A green pillow snack bag with a plain blank label, potato chips sprinkled with flecks of green aonori seaweed in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポテトチップス のり塩 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 118,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトチップス のり塩 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトチップス のり塩 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内産青のり使用 のり塩ポテトチップス 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "瀬戸内産青のり使用"
+    },
+    {
+     "title": "Cymbal ポテトチップス のり塩 ミニ 20g×6袋",
+     "brand": "Cymbal",
+     "size": "20g×6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_norishio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_bbq",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "りんご",
+    "牛肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "おつまみ",
+    "スポーツ観戦"
+   ],
+   "tax_rate": 8,
+   "description": "スモーキーな香りと甘辛いソースのうまみを効かせたバーベキュー味のポテトチップス。りんごやオニオンの甘みに、ほんのりスパイスが効いた濃いめの味わいで、ビールやコーラとの相性も抜群です。",
+   "image_brief": "A dark brown and orange snack bag with a blank label, reddish seasoned potato chips piled beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポテトチップス バーベキュー味 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトチップス バーベキュー味 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトチップス バーベキュー味 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト スモークハニー バーベキューポテトチップス 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "カリット製菓 ホットバーベキュー ポテトチップス 辛口 75g",
+     "brand": "カリット製菓",
+     "size": "75g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_bbq_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_atsugiri",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "通常よりぐっと厚めにスライスしてじっくり揚げた厚切りポテトチップス。ザクッとした力強い食感と、噛むほどに広がるじゃがいもの風味が魅力です。シンプルな塩味から黒こしょう、わさび風味まで晩酌のお供にもぴったり。",
+   "image_brief": "A matte black stand-up snack bag with a blank label, thick ridgeless potato chips stacked in front showing their thickness, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 厚切りポテトチップス しお味 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal 厚切りポテトチップス 黒こしょう味 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal 厚切りポテトチップス わさび味 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 極厚切り 岩塩ポテトチップス 65g",
+     "brand": "Cymbal セレクト",
+     "size": "65g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal 厚切りポテトチップス しお味 大袋 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国産じゃがいも使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_atsugiri_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_wavy",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ディップスナック",
+    "パーティー",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "波型カットでザクザク感を楽しめるギザギザポテトチップス。溝にしっかり味がからみ、ディップをすくっても割れにくいのが特長です。サワークリームやサルサを添えたパーティーにもおすすめ。うすしおやチーズなど味違いで揃えました。",
+   "image_brief": "A yellow snack bag with a blank label, crinkle-cut wavy potato chips fanned out in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ギザギザポテトチップス うすしお味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギザギザポテトチップス チェダーチーズ味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギザギザポテトチップス サワークリームオニオン味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ギザギザポテトチップス しお味 55g",
+     "brand": "Cymbal ベーシック",
+     "size": "55g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ギザギザポテトチップス うすしお味 大袋 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_wavy_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_kettle",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "ランチのお供"
+   ],
+   "tax_rate": 8,
+   "description": "皮付きのじゃがいもを釜で少しずつ揚げたケトル製法のハードポテトチップス。カリッと堅い歯ごたえと香ばしさが特長で、噛むほどにじゃがいも本来の味わいが広がります。素材の味を楽しみたい大人のおやつに。",
+   "image_brief": "A kraft-paper style stand-up pouch with a blank label, rustic skin-on hard-fried potato chips with golden curled edges in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 皮付き ケトルポテトチップス 岩塩 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal セレクト 皮付き ケトルポテトチップス ブラックペッパー 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "ハマカゼ食品 釜揚げ堅焼きポテト しお味 60g",
+     "brand": "ハマカゼ食品",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ハマカゼ食品 釜揚げ堅焼きポテト しょうゆ味 60g",
+     "brand": "ハマカゼ食品",
+     "size": "60g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機じゃがいもの ケトルチップス 海塩 60g",
+     "brand": "Cymbal オーガニック",
+     "size": "60g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_kettle_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_shoyu",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "甘めのしょうゆだれの香ばしさがじゃがいもにしみ込んだ、しょうゆ味のポテトチップス。どこか懐かしい和風の味わいで、お茶うけにもおつまみにもなります。バター風味や甘口九州しょうゆなど地域色ある味も揃えました。",
+   "image_brief": "A deep brown snack bag with a blank label, glossy soy-seasoned potato chips piled in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポテトチップス しょうゆ味 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトチップス しょうゆバター味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 甘口九州しょうゆ ポテトチップス 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "九州産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトチップス しょうゆ味 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポテトチップス しょうゆ味 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_shoyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_stacked",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "アウトドア",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "形のそろった成型ポテトチップスを筒型容器に詰めました。割れにくく持ち運びやすいので、ピクニックや旅行のお供に便利です。軽い食感で、しお・サワークリーム・ピザなど気分に合わせて選べます。",
+   "image_brief": "A tall cylindrical snack canister in solid red with a blank wrap label and a clear lid, a short stack of saddle-shaped potato crisps beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 筒入り成型ポテトチップス うすしお 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "マレーシア製造"
+    },
+    {
+     "title": "Cymbal 筒入り成型ポテトチップス サワークリームオニオン 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "マレーシア製造"
+    },
+    {
+     "title": "Cymbal 筒入り成型ポテトチップス ピザ味 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "マレーシア製造"
+    },
+    {
+     "title": "Cymbal ベーシック 筒入り成型ポテトチップス しお味 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "マレーシア製造"
+    },
+    {
+     "title": "Cymbal 筒入り成型ポテトチップス ミニ 3種 40g×3本",
+     "brand": "Cymbal",
+     "size": "40g×3本",
+     "price_tax_excluded": 278,
+     "origin": "マレーシア製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_stacked_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_stick",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "お弁当のおとも"
+   ],
+   "tax_rate": 8,
+   "description": "マッシュしたじゃがいもをカリッと揚げたスティック状のポテトスナック。ザクッ、ホクッとした食感が楽しく、カップ入りで手を汚さずに食べられます。サラダ味やチーズ味、じゃがバター味など選ぶ楽しさのあるラインナップです。",
+   "image_brief": "A short paper snack cup with a peel-off foil lid and blank label, crunchy potato sticks poking out of the open cup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カップ ポテトスティック サラダ味 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カップ ポテトスティック チーズ味 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カップ ポテトスティック じゃがバター味 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 袋入り ポテトスティック しお味 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カップ ポテトスティック サラダ味 3個パック 55g×3個",
+     "brand": "Cymbal",
+     "size": "55g×3個",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_stick_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_potato_sour_cream",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポテトチップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "おつまみ",
+    "ワインのお供"
+   ],
+   "tax_rate": 8,
+   "description": "コクのあるサワークリームと香ばしいオニオンを合わせた洋風ポテトチップス。まろやかな酸味がじゃがいもの甘さを引き立て、ワインやハイボールにもよく合います。ホームパーティーのテーブルにも。",
+   "image_brief": "A light blue snack bag with a blank label, potato chips coated with white creamy seasoning and green herb flecks in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポテトチップス サワークリームオニオン味 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ハーブ香る サワークリーム&チャイブ ポテトチップス 65g",
+     "brand": "Cymbal セレクト",
+     "size": "65g",
+     "price_tax_excluded": 178,
+     "origin": "北海道産じゃがいも使用"
+    },
+    {
+     "title": "Cymbal ポテトチップス サワークリームオニオン味 大袋 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポテトチップス オニオン味 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "カリット製菓 ガーリックサワー ポテトチップス 70g",
+     "brand": "カリット製菓",
+     "size": "70g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_potato_sour_cream_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_veg_chips",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "野菜チップス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おやつ",
+    "サラダトッピング",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "さつまいも・かぼちゃ・れんこん・いんげんなどの野菜を薄くスライスしてカリッと仕上げた野菜チップス。素材の自然な甘みと色合いが楽しく、サラダのトッピングにも使えます。秋冬の根菜をたっぷり味わえます。",
+   "image_brief": "A clear-window stand-up pouch with a blank label showing colorful vegetable chips of sweet potato, pumpkin and lotus root slices, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミックス野菜チップス 5種 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さつまいもチップス 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産さつまいも使用"
+    },
+    {
+     "title": "Cymbal れんこんチップス 塩味 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 278,
+     "origin": "国産れんこん使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産根菜チップス ごぼう・れんこん・にんじん 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "Cymbal かぼちゃチップス 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_veg_chips_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_corn_puff_cheese",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "コーンスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり軽いコーンパフに濃厚なチーズパウダーをたっぷりまぶしました。口の中でサクッとほどける食感で、小さなお子さまにも食べやすいスナックです。大袋やミニ袋でシーンに合わせて選べます。",
+   "image_brief": "An orange snack bag with a blank label, puffy curly corn snacks coated in bright orange cheese powder in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズコーンパフ 75g",
+     "brand": "Cymbal",
+     "size": "75g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック チーズコーンパフ 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズコーンパフ 大袋 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズコーンパフ ミニ 15g×8袋",
+     "brand": "Cymbal",
+     "size": "15g×8袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト ゴーダ&チェダー 濃厚チーズコーンパフ 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_corn_puff_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_corn_curry_curl",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "コーンスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "くるんとしたカール形のコーンスナックに、スパイス香るカレー味をまとわせました。軽い食感とピリッとした刺激がクセになり、ついもう一つと手が伸びます。甘口から辛口まで揃え、家族で楽しめます。",
+   "image_brief": "A yellow and brown snack bag with a blank label, curled corn snacks dusted with golden curry powder in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal カールコーンスナック カレー味 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カールコーンスナック 甘口カレー味 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カールコーンスナック 激辛カレー味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック カールコーンスナック カレー味 45g",
+     "brand": "Cymbal ベーシック",
+     "size": "45g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal カールコーンスナック チーズ味 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_corn_curry_curl_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_corn_stick_dagashi",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "コーンスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "駄菓子",
+    "おやつ",
+    "子ども会"
+   ],
+   "tax_rate": 8,
+   "description": "1本ずつ個包装された筒状のコーンスティックスナック。サクッと軽い食感で、めんたい・チーズ・コーンポタージュなど味のバリエーションが豊富です。子ども会や配り菓子、ちょっとしたおやつに便利な大容量パックもあります。",
+   "image_brief": "A bundle of individually wrapped long tubular corn puff sticks in colorful blank wrappers tied together, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スティックコーンスナック めんたい味 30本入",
+     "brand": "Cymbal",
+     "size": "30本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックコーンスナック チーズ味 30本入",
+     "brand": "Cymbal",
+     "size": "30本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックコーンスナック 5種アソート 30本入",
+     "brand": "Cymbal",
+     "size": "30本入",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック スティックコーンスナック サラダ味 10本入",
+     "brand": "Cymbal ベーシック",
+     "size": "10本入",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal スティックコーンスナック やさいサラダ味 15本入",
+     "brand": "Cymbal",
+     "size": "15本入",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_corn_stick_dagashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_corn_nacho_chips",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "コーンスナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "パーティー",
+    "ナチョス",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "三角形のコーンチップスに濃厚なナチョチーズ味をたっぷりまぶしました。パリッと香ばしい食感で、サルサやワカモレを添えればパーティーの一品に。チリ味やライム味などのアレンジ味も揃えています。",
+   "image_brief": "A red and yellow snack bag with a blank label, triangular corn chips with cheesy orange seasoning arranged in front with a small bowl of red salsa, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ナチョチーズ コーンチップス 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "メキシコ産コーン使用"
+    },
+    {
+     "title": "Cymbal スパイシーチリ コーンチップス 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "メキシコ産コーン使用"
+    },
+    {
+     "title": "Cymbal ライム&ソルト コーンチップス 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "メキシコ産コーン使用"
+    },
+    {
+     "title": "Cymbal セレクト ブルーコーン コーンチップス シーソルト 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ナチョチーズ コーンチップス 大袋 230g",
+     "brand": "Cymbal",
+     "size": "230g",
+     "price_tax_excluded": 348,
+     "origin": "メキシコ産コーン使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_corn_nacho_chips_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_wheat_ramen_snack",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "小麦スナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "鶏肉",
+    "ごま",
+    "豚肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "サラダトッピング",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "細く揚げた中華めんにチキンだしのうまみをしみ込ませた、ポリポリ食感のラーメンスナック。そのままおやつにはもちろん、サラダや冷ややっこのトッピングにも使えます。食べきりの小袋がたくさん入った便利なパックも。",
+   "image_brief": "A yellow snack bag with a blank label, short crispy fried noodle bits scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ラーメンスナック チキン味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラーメンスナック チキン味 小袋 18g×8袋",
+     "brand": "Cymbal",
+     "size": "18g×8袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ラーメンスナック しょうゆとんこつ味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ラーメンスナック チキン味 45g",
+     "brand": "Cymbal ベーシック",
+     "size": "45g",
+     "price_tax_excluded": 58,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 太めん ラーメンスナック ガーリック味 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_wheat_ramen_snack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_wheat_onion_ring",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "小麦スナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "リング形に焼き上げた小麦スナックに、香ばしいオニオンとフライドガーリックの風味をきかせました。サクサクと軽い歯ざわりで、ビールのお供やパーティーの取り分けにも最適です。",
+   "image_brief": "A golden yellow snack bag with a blank label, ring-shaped onion-flavored wheat snacks in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal オニオンリングスナック 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オニオンリングスナック ガーリック味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック オニオンリングスナック 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オニオンリングスナック 大袋 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal オニオンリングスナック 小袋 15g×6袋",
+     "brand": "Cymbal",
+     "size": "15g×6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_wheat_onion_ring_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_wheat_fried_pasta",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "小麦スナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ワインのお供",
+    "サラダトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "ショートパスタをカラッと揚げて、トマトやバジル、チーズで味付けしたイタリアン風スナック。カリカリと軽快な食感で、ワインのお供やスープ・サラダのクルトン代わりにも重宝します。",
+   "image_brief": "A clear stand-up pouch with a blank label filled with fried penne and fusilli pasta seasoned red and green, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 揚げパスタスナック トマトバジル味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げパスタスナック 粉チーズ味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げパスタスナック ペペロンチーノ味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 揚げパスタスナック トリュフ塩味 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げパスタスナック 3種アソート 15g×6袋",
+     "brand": "Cymbal",
+     "size": "15g×6袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_wheat_fried_pasta_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ika_tempura_snack",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "小麦スナック"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "いか",
+    "大豆",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "いかのうまみを練り込んだ衣をサクッと揚げた、いか天ぷら風スナック。甘辛いしょうゆ味が後を引き、ビールや日本酒のおつまみにぴったりです。ピリ辛味やマヨ風味も揃えた酒席の定番。",
+   "image_brief": "An orange snack bag with a blank label, golden fried squid tempura bits with a crispy batter surface piled in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いか天スナック 甘辛しょうゆ味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いか天スナック ピリ辛味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いか天スナック マヨ風味 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック いか天スナック しお味 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いか天スナック 大袋 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ika_tempura_snack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_shrimp_chips_asian",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "えびせん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "中華前菜",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "えびを練り込んだ生地をふくらむように揚げた、アジアンスタイルのえびチップス。ふわっと軽い口どけとえびの香ばしさが魅力で、中華料理の前菜やエスニック料理の添え物にもぴったりです。",
+   "image_brief": "A pink and white snack bag with a blank label, large puffy pastel-colored prawn crackers spilling in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal アジアン えびチップス 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal アジアン えびチップス スイートチリ味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 138,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト えびたっぷり えびチップス 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal カラフル えびチップス 揚げる前の乾燥タイプ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 258,
+     "origin": "インドネシア製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびチップス 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 88,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_shrimp_chips_asian_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_shrimp_mayo_snack",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "えびせん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "えびの香ばしさにまろやかなマヨネーズ風味を合わせた、スティック形の揚げスナック。サクッと軽い食感で、子どもにも人気の甘じょっぱい味わいです。わさびマヨや明太マヨも揃えました。",
+   "image_brief": "A white and pink snack bag with a blank label, short shrimp-flavored fried snack sticks with creamy seasoning in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびマヨスナック 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびマヨスナック わさびマヨ味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびマヨスナック 明太マヨ味 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびマヨスナック 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal えびマヨスナック 大袋 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_shrimp_mayo_snack_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_pretzel_twist",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "プレッツェル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "ディップスナック"
+   ],
+   "tax_rate": 8,
+   "description": "伝統的な結び目の形をした一口サイズのツイストプレッツェル。カリッと堅めの歯ざわりに岩塩がアクセントになり、ディップやチーズとも好相性です。ハニーマスタード味やチョコがけなど味違いもご用意しました。",
+   "image_brief": "A clear stand-up pouch with a blank label filled with small knot-shaped brown pretzels studded with salt crystals, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミニツイストプレッツェル 岩塩 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ミニツイストプレッツェル ハニーマスタード味 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ミニツイストプレッツェル ミルクチョコがけ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal セレクト サワードウ ツイストプレッツェル 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal ベーシック ミニツイストプレッツェル しお味 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_pretzel_twist_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_popcorn_caramel",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポップコーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "映画鑑賞のお供",
+    "おやつ",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいキャラメルソースでまんべんなくコーティングしたポップコーン。カリッとした甘さとバターのコクが楽しめ、おうち映画やパーティーにぴったりです。塩キャラメルや発酵バター仕立てもあります。",
+   "image_brief": "A tall striped popcorn bag with a blank label, glossy amber caramel-coated popcorn overflowing at the top, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キャラメルポップコーン 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 塩キャラメルポップコーン 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 発酵バター キャラメルポップコーン 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キャラメルポップコーン 大袋 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal キャラメルポップコーン ミニ 15g×6袋",
+     "brand": "Cymbal",
+     "size": "15g×6袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_popcorn_caramel_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_popcorn_microwave",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポップコーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "映画鑑賞のお供",
+    "ホームパーティー",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "電子レンジで約3分加熱するだけで、できたてのポップコーンが楽しめる袋入りタイプ。はじける音と香りでおうち時間が盛り上がります。フライパンで作るポップコーン豆も揃え、手作りの楽しさも味わえます。",
+   "image_brief": "A flat folded microwave popcorn paper bag with a plain blank label next to a white bowl of freshly popped popcorn, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 電子レンジポップコーン バター味 80g×3袋",
+     "brand": "Cymbal",
+     "size": "80g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産コーン使用"
+    },
+    {
+     "title": "Cymbal 電子レンジポップコーン しお味 80g×3袋",
+     "brand": "Cymbal",
+     "size": "80g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産コーン使用"
+    },
+    {
+     "title": "Cymbal 電子レンジポップコーン キャラメル味 80g×3袋",
+     "brand": "Cymbal",
+     "size": "80g×3袋",
+     "price_tax_excluded": 328,
+     "origin": "アメリカ産コーン使用"
+    },
+    {
+     "title": "Cymbal ベーシック 電子レンジポップコーン バター味 90g",
+     "brand": "Cymbal ベーシック",
+     "size": "90g",
+     "price_tax_excluded": 108,
+     "origin": "アメリカ産コーン使用"
+    },
+    {
+     "title": "Cymbal ポップコーン豆 フライパン用 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_popcorn_microwave_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_popcorn_shoyu_butter",
+   "category_path": [
+    "お菓子・製菓",
+    "スナック菓子",
+    "ポップコーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "映画鑑賞のお供"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいしょうゆとバターのコクをからめた和風ポップコーン。甘じょっぱい味わいが後を引き、ビールのお供にもおすすめです。のり塩味やチーズ味など、食感の軽いポップコーンならではの味違いを揃えました。",
+   "image_brief": "A brown and cream snack bag with a blank label, popcorn glazed with soy-butter seasoning in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポップコーン しょうゆバター味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポップコーン のり塩味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポップコーン 濃厚チーズ味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ポップコーン しょうゆバター味 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポップコーン しょうゆバター味 大袋 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 238,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_popcorn_shoyu_butter_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_zarame_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "来客のおもてなし",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼いたうるち米のせんべいに、しょうゆだれとざらめ糖をからめました。表面のざらめのシャリッとした食感と甘じょっぱい味わいが楽しめます。個包装なのでお茶うけや来客用にも便利です。",
+   "image_brief": "A clear plastic tray bag with a blank label showing round brown rice crackers sparkling with coarse sugar crystals, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ざらめせんべい 個包装 14枚入",
+     "brand": "Cymbal",
+     "size": "14枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック ざらめせんべい 10枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "10枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 手焼き風 大判ざらめせんべい 8枚入",
+     "brand": "Cymbal セレクト",
+     "size": "8枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産うるち米使用"
+    },
+    {
+     "title": "Cymbal ひとくち ざらめせんべい 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ざらめせんべい 大袋 個包装 24枚入",
+     "brand": "Cymbal",
+     "size": "24枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_zarame_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_nori_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆ味のせんべいにパリッとした焼き海苔を巻いた、海苔巻きせんべい。海苔の香りと香ばしい醤油が一体となった、老若男女に愛される定番の味わいです。ひと口サイズや大判タイプも揃えました。",
+   "image_brief": "A blank-labeled plastic bag of square rice crackers each wrapped with a strip of dark green nori seaweed, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 海苔巻きせんべい 個包装 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ひとくち海苔巻きあられ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 有明海産海苔使用 海苔巻きせんべい 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 398,
+     "origin": "有明海産海苔使用"
+    },
+    {
+     "title": "Cymbal ベーシック 海苔巻きせんべい 8枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "8枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 海苔巻きせんべい 大袋 個包装 22枚入",
+     "brand": "Cymbal",
+     "size": "22枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_nori_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_nure_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "おみやげ"
+   ],
+   "tax_rate": 8,
+   "description": "焼き上げたせんべいを熱いうちにしょうゆだれにくぐらせた、しっとりやわらかなぬれせんべい。噛むほどにしょうゆのうまみがあふれ、歯ごたえの強いせんべいが苦手な方にもおすすめです。甘口・ざらめ風味もあります。",
+   "image_brief": "A clear bag with a blank label holding dark, glossy, soft soy-soaked rice crackers stacked flat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぬれせんべい しょうゆ味 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ぬれせんべい 甘口 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ぬれせんべい ざらめ風味 8枚入",
+     "brand": "Cymbal",
+     "size": "8枚入",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 濃口しょうゆ仕込み 本ぬれせんべい 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 498,
+     "origin": "千葉県製造"
+    },
+    {
+     "title": "Cymbal ひとくちぬれせんべい 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_nure_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_katayaki_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "うるち米の生地をしっかりと焼き締めた、歯ごたえのある堅焼きせんべい。バリッと割れる心地よい音と、醤油の焦げた香ばしさが魅力です。ごま入りや唐辛子入りもあり、緑茶とともにどうぞ。",
+   "image_brief": "A blank-labeled clear bag of thick, hard, dark brown round rice crackers with a rough grilled surface, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 堅焼きせんべい しょうゆ 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 堅焼きせんべい ごま入り 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 堅焼きせんべい 唐辛子 10枚入",
+     "brand": "Cymbal",
+     "size": "10枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 炭火手焼き 堅焼きせんべい 6枚入",
+     "brand": "Cymbal セレクト",
+     "size": "6枚入",
+     "price_tax_excluded": 398,
+     "origin": "埼玉県製造"
+    },
+    {
+     "title": "Cymbal ベーシック 堅焼きせんべい しょうゆ 6枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "6枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_katayaki_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_salad_usuyaki",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "子どものおやつ"
+   ],
+   "tax_rate": 8,
+   "description": "薄く焼き上げたせんべいに、まろやかな塩味をまとわせたサラダせんべい。パリッと軽い食感で、小さなお子さまから年配の方まで食べやすい味わいです。個包装で配りやすいのもうれしいポイント。",
+   "image_brief": "A pale cream blank-labeled bag of thin round light-colored rice crackers with a subtle glossy sheen, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 薄焼きサラダせんべい 個包装 20枚入",
+     "brand": "Cymbal",
+     "size": "20枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック 薄焼きサラダせんべい 14枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "14枚入",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 薄焼きサラダせんべい 大袋 個包装 36枚入",
+     "brand": "Cymbal",
+     "size": "36枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内の塩 薄焼きサラダせんべい 16枚入",
+     "brand": "Cymbal セレクト",
+     "size": "16枚入",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ミニ サラダせんべい 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 158,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_salad_usuyaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_age_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "揚げせんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "米の生地をサクッと揚げて、甘辛いしょうゆだれをからめた揚げせんべい。ほどよい油のコクとふんわり軽い食感で、子どもにも大人にも人気のひと品です。塩味や黒こしょう味など、いろいろな味が楽しめます。",
+   "image_brief": "A blank-labeled clear bag of puffy golden-brown fried rice crackers with a sweet soy glaze, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 揚げせんべい 甘辛しょうゆ 個包装 18枚入",
+     "brand": "Cymbal",
+     "size": "18枚入",
+     "price_tax_excluded": 228,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 揚げせんべい しお味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 178,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 揚げせんべい 黒こしょう味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 178,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック 揚げせんべい 甘辛しょうゆ 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 揚げせんべい 大袋 個包装 32枚入",
+     "brand": "Cymbal",
+     "size": "32枚入",
+     "price_tax_excluded": 378,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_age_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_sweet_salty_agemochi",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "揚げせんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "子どものおやつ",
+    "配り菓子"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり揚げた米菓に、甘じょっぱいパウダーをまんべんなくまぶしました。口に入れるとほろっとほどける軽さで、ついつい止まらなくなる味わいです。個包装の大袋は家族のおやつや配り菓子にも便利。",
+   "image_brief": "A bright orange blank-labeled snack bag with individually wrapped small fried rice crackers dusted in sweet-savory powder spilling out, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 甘じょっぱパウダー揚げ米菓 個包装 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 甘じょっぱパウダー揚げ米菓 大袋 260g",
+     "brand": "Cymbal",
+     "size": "260g",
+     "price_tax_excluded": 358,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 甘じょっぱパウダー揚げ米菓 うめ味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック 甘じょっぱパウダー揚げ米菓 90g",
+     "brand": "Cymbal ベーシック",
+     "size": "90g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 甘じょっぱパウダー揚げ米菓 ミニ 10g×10袋",
+     "brand": "Cymbal",
+     "size": "10g×10袋",
+     "price_tax_excluded": 258,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_sweet_salty_agemochi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_milk_sugar_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "サクッと軽い塩味のせんべいに、ミルク風味の甘い蜜をふんわりかけました。雪のような見た目と、甘さと塩気が溶け合うやさしい味わいが魅力です。コーヒーや紅茶とも相性のよい洋風せんべいです。",
+   "image_brief": "A pale blue blank-labeled bag of round rice crackers topped with a snowy white milk sugar glaze, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミルクシュガーがけ せんべい 個包装 20枚入",
+     "brand": "Cymbal",
+     "size": "20枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ミルクシュガーがけ せんべい いちごみるく 16枚入",
+     "brand": "Cymbal",
+     "size": "16枚入",
+     "price_tax_excluded": 248,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道練乳使用 ミルクシュガーせんべい 16枚入",
+     "brand": "Cymbal セレクト",
+     "size": "16枚入",
+     "price_tax_excluded": 348,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック ミルクシュガーがけ せんべい 12枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "12枚入",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミルクシュガーがけ せんべい 大袋 36枚入",
+     "brand": "Cymbal",
+     "size": "36枚入",
+     "price_tax_excluded": 398,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_milk_sugar_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ebi_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "えびせんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "お茶うけ",
+    "おみやげ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "えびをたっぷり使い、薄くパリッと焼き上げたえびせんべい。口に広がる豊かなえびの香りと上品な塩味が特長で、贈答やおもてなしにも向く味わいです。姿焼き風や色とりどりのアソートもご用意。",
+   "image_brief": "A blank-labeled rectangular gift box with an open lid showing thin pink and cream shrimp rice crackers with visible whole shrimp pressed in, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal えびせんべい 個包装 16枚入",
+     "brand": "Cymbal",
+     "size": "16枚入",
+     "price_tax_excluded": 298,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "Cymbal セレクト えび姿焼き せんべい 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 498,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "Cymbal えびせんべい 5種アソート 個包装 30枚入",
+     "brand": "Cymbal",
+     "size": "30枚入",
+     "price_tax_excluded": 698,
+     "origin": "愛知県製造"
+    },
+    {
+     "title": "Cymbal ベーシック えびせんべい 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト えびせんべい 詰め合わせ 化粧箱 48枚入",
+     "brand": "Cymbal セレクト",
+     "size": "48枚入",
+     "price_tax_excluded": 1480,
+     "origin": "愛知県製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ebi_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_kuromame_okaki",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "おかき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お茶うけ",
+    "おやつ",
+    "おもてなし"
+   ],
+   "tax_rate": 8,
+   "description": "国産もち米の生地に、ふっくら炒った黒豆をたっぷり練り込んで焼いた黒豆おかき。香ばしいおかきと黒豆のほっくりした甘みが調和します。冬のお茶うけや年末年始のおもてなしにもどうぞ。",
+   "image_brief": "A blank-labeled clear bag of rectangular golden rice crackers studded with whole black soybeans, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒豆おかき 個包装 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒大豆使用 黒豆おかき 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 498,
+     "origin": "丹波産黒大豆使用"
+    },
+    {
+     "title": "Cymbal ひとくち黒豆おかき 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal ベーシック 黒豆おかき 8枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "8枚入",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 黒豆おかき 大袋 個包装 24枚入",
+     "brand": "Cymbal",
+     "size": "24枚入",
+     "price_tax_excluded": 498,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_kuromame_okaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_shio_age_okaki",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "おかき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆",
+    "ごま",
+    "えび"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おつまみ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "もち米の生地をカラッと揚げ、粗塩でシンプルに仕上げた揚げおかき。サクッと軽い口当たりと、もち米の香ばしさが際立つ素朴な味わいです。青のり・ごま・えびなど風味違いもそろえ、お茶にもお酒にも合います。",
+   "image_brief": "A blank-labeled clear bag of irregular puffed golden fried rice-cake crackers with visible salt flakes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 揚げおかき 塩味 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 揚げおかき 青のり味 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 揚げおかき 黒ごま入り 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 揚げおかき えび入り 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 218,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 藻塩仕上げ 揚げおかき 90g",
+     "brand": "Cymbal セレクト",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal 揚げおかき 塩味 個包装 20袋入",
+     "brand": "Cymbal",
+     "size": "20袋入",
+     "price_tax_excluded": 398,
+     "origin": "国産もち米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_shio_age_okaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_cheese_okaki",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "おかき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ワインのお供",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクのおかきにチーズ風味を合わせた洋風おかき。チーズのコクともち米の香ばしさが絶妙で、ワインやビールにも合うおつまみ米菓です。チーズクリームを挟んだサンドタイプもご用意しました。",
+   "image_brief": "A yellow blank-labeled bag of bite-size rice crackers coated with cheese powder, some sandwiching a cheese cream layer, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal チーズおかき 個包装 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 228,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal チーズサンドおかき 個包装 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal チーズおかき ブラックペッパー 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道チーズ使用 チーズおかき 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal ベーシック チーズおかき 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_cheese_okaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ume_zarame_arare",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "あられ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "小粒のあられを、甘酸っぱい梅とざらめ糖でコーティングしました。カリッとした食感と梅のさわやかな風味が楽しく、甘いもの好きにも喜ばれるあられです。食べきりの小袋タイプも揃えています。",
+   "image_brief": "A blank-labeled clear bag of small round rice puffs coated pink and white with sugar crystals, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 梅ざらめあられ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal 梅ざらめあられ 小袋 10g×10袋",
+     "brand": "Cymbal",
+     "size": "10g×10袋",
+     "price_tax_excluded": 278,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 紀州南高梅使用 梅ざらめあられ 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "和歌山県産梅使用"
+    },
+    {
+     "title": "Cymbal ベーシック ざらめあられ 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 梅しそあられ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ume_zarame_arare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_wasabi_arare",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "あられ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "ツンとくるわさびの辛さとしょうゆの香ばしさが効いた、大人のためのわさびあられ。小粒でつまみやすく、日本酒や焼酎のお供に最適です。辛さを控えた食べやすいタイプから激辛タイプまで揃えました。",
+   "image_brief": "A pale green blank-labeled bag of small bite-size rice crackers dusted green with wasabi powder, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal わさびあられ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal わさびあられ 激辛 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal セレクト 本わさび使用 わさびあられ 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "静岡県産わさび使用"
+    },
+    {
+     "title": "Cymbal ベーシック わさびあられ 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal わさびあられ 小袋 12g×8袋",
+     "brand": "Cymbal",
+     "size": "12g×8袋",
+     "price_tax_excluded": 268,
+     "origin": "国産米使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_wasabi_arare_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_kakinotane_flavors",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "柿の種"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "落花生"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛い柿の種に、梅やわさび、カレーなど個性的な味付けをほどこした味違いシリーズ。ピーナッツ入りで、辛さと香ばしさのバランスがよく、晩酌のおつまみや気分転換のおやつにぴったりです。",
+   "image_brief": "A blank-labeled stand-up pouch with small crescent-shaped spicy rice crackers mixed with peanuts in green, pink and yellow tints in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 柿の種 カレー味 ピーナッツ入り 30g×6袋",
+     "brand": "Cymbal",
+     "size": "30g×6袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 柿の種 3種アソート ピーナッツ入り 28g×9袋",
+     "brand": "Cymbal",
+     "size": "28g×9袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 辛口 柿の種 激辛唐辛子 ピーナッツ入り 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_kakinotane_flavors_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ware_senbei_value",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "えび",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "お徳用"
+   ],
+   "tax_rate": 8,
+   "description": "製造工程で割れたり欠けたりしたせんべいを集めたお徳用パック。しょうゆ・ごま・えび・海苔などさまざまな味が入り、品質はそのままにお手頃価格で楽しめます。家族みんなのおやつに気軽にどうぞ。",
+   "image_brief": "A large blank-labeled clear bag stuffed with broken pieces of assorted rice crackers in various shades of brown, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal お徳用 割れせんべい アソート 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal お徳用 割れせんべい しょうゆ味 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国産米使用"
+    },
+    {
+     "title": "Cymbal ベーシック お徳用 割れせんべい 250g",
+     "brand": "Cymbal ベーシック",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal お徳用 割れおかき アソート 280g",
+     "brand": "Cymbal",
+     "size": "280g",
+     "price_tax_excluded": 298,
+     "origin": "国産もち米使用"
+    },
+    {
+     "title": "Cymbal セレクト 職人手焼き 割れせんべい 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "埼玉県製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ware_senbei_value_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_goma_senbei",
+   "category_path": [
+    "お菓子・製菓",
+    "米菓",
+    "せんべい"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶うけ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "ごまや大豆をたっぷり練り込んで薄く焼いた、香ばしい豆・ごませんべい。素朴な生地に黒ごまや白ごまの風味が豊かに広がります。パリッと軽く、お茶うけにぴったりの昔ながらの味わいです。",
+   "image_brief": "A blank-labeled clear bag of thin round crackers densely speckled with black sesame seeds, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒ごませんべい 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 白ごませんべい 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 大豆せんべい 12枚入",
+     "brand": "Cymbal",
+     "size": "12枚入",
+     "price_tax_excluded": 228,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 金ごま 薄焼きせんべい 10枚入",
+     "brand": "Cymbal セレクト",
+     "size": "10枚入",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ごませんべい 8枚入",
+     "brand": "Cymbal ベーシック",
+     "size": "8枚入",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_goma_senbei_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_cashew",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "カシューナッツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "カシューナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "炒め物",
+    "サラダトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "ほんのり甘くやわらかな歯ごたえのカシューナッツ。素焼きや有塩のほか、鶏肉との炒め物などにも使いやすい大袋もあります。小腹がすいたときやお酒のおつまみに、手軽に楽しめます。",
+   "image_brief": "A clear stand-up zip pouch with a blank label filled with pale golden kidney-shaped cashew nuts, a few loose in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 素焼きカシューナッツ 食塩不使用 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal ロースト カシューナッツ 有塩 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 398,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal セレクト 大粒 ローストカシューナッツ 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 498,
+     "origin": "ベトナム産"
+    },
+    {
+     "title": "Cymbal ベーシック カシューナッツ 有塩 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "インド産"
+    },
+    {
+     "title": "Cymbal 素焼きカシューナッツ 大袋 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 1180,
+     "origin": "ベトナム産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_cashew_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_pistachio",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ピスタチオ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ワインのお供",
+    "製菓"
+   ],
+   "tax_rate": 8,
+   "description": "殻付きのままローストしたピスタチオ。鮮やかな緑の実は香ばしくコクがあり、ナッツの女王とも呼ばれる味わいです。殻をむきながら楽しむ時間もおつまみの醍醐味。むき実タイプは製菓にも。",
+   "image_brief": "A clear stand-up zip pouch with a blank label filled with roasted in-shell pistachios showing green kernels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 殻付きピスタチオ 有塩 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal 殻付きピスタチオ 有塩 大袋 250g",
+     "brand": "Cymbal",
+     "size": "250g",
+     "price_tax_excluded": 898,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal セレクト 殻付きピスタチオ 低塩 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 598,
+     "origin": "イラン産"
+    },
+    {
+     "title": "Cymbal むき実ピスタチオ 素焼き 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ベーシック 殻付きピスタチオ 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "アメリカ産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_pistachio_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_macadamia",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "マカダミアナッツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "マカダミアナッツ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "製菓"
+   ],
+   "tax_rate": 8,
+   "description": "丸く大粒でまろやかなコクのあるマカダミアナッツ。サクッとした独特の歯ざわりと、バターのような濃厚な風味が楽しめます。有塩タイプはおつまみに、素焼きタイプは製菓やトッピングにどうぞ。",
+   "image_brief": "A clear stand-up zip pouch with a blank label holding round creamy-white macadamia nuts, a few placed in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ローストマカダミアナッツ 有塩 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal 素焼きマカダミアナッツ 食塩不使用 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal セレクト 大粒 ハワイ産マカダミアナッツ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal ベーシック マカダミアナッツ 有塩 40g",
+     "brand": "Cymbal ベーシック",
+     "size": "40g",
+     "price_tax_excluded": 248,
+     "origin": "オーストラリア産"
+    },
+    {
+     "title": "Cymbal マカダミアナッツ ハニーロースト 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "オーストラリア産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_macadamia_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_rakkasei_shell",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "落花生"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "秋に収穫した落花生を殻付きのまま香ばしく煎り上げました。殻を割るとふっくら大粒の実があらわれ、甘みとコクのある味わいが楽しめます。新豆の季節ならではの香りをぜひ味わってください。",
+   "image_brief": "A clear plastic bag with a blank label filled with beige in-shell roasted peanuts, a few cracked open in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "殻付き煎り落花生 千葉半立 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "殻付き煎り落花生 ナカテユタカ 250g",
+     "brand": "",
+     "size": "250g",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "殻付き煎り落花生 おおまさり 200g",
+     "brand": "",
+     "size": "200g",
+     "price_tax_excluded": 798,
+     "origin": "千葉県産"
+    },
+    {
+     "title": "Cymbal 殻付き煎り落花生 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 498,
+     "origin": "中国産"
+    },
+    {
+     "title": "Cymbal セレクト 千葉県産 むき落花生 素煎り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_rakkasei_shell_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_giant_corn",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ジャイアントコーン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "大粒のとうもろこしを揚げて塩味をつけたジャイアントコーン。カリッ、ザクッとした豪快な歯ごたえと、香ばしいコーンの風味がクセになります。ガーリック味やバターしょうゆ味もそろえ、お酒のお供に好評です。",
+   "image_brief": "A clear stand-up zip pouch with a blank label filled with large golden roasted corn kernels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ジャイアントコーン しお味 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "ペルー産コーン使用"
+    },
+    {
+     "title": "Cymbal ジャイアントコーン ガーリック味 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "ペルー産コーン使用"
+    },
+    {
+     "title": "Cymbal ジャイアントコーン バターしょうゆ味 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "ペルー産コーン使用"
+    },
+    {
+     "title": "Cymbal ベーシック ジャイアントコーン しお味 60g",
+     "brand": "Cymbal ベーシック",
+     "size": "60g",
+     "price_tax_excluded": 118,
+     "origin": "ペルー産コーン使用"
+    },
+    {
+     "title": "Cymbal ジャイアントコーン しお味 大袋 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "ペルー産コーン使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_giant_corn_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_honey_almond",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "味付けアーモンド"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "おつまみ",
+    "コーヒーのお供"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしくローストしたアーモンドに、はちみつと砂糖をからめて塩でキリッと仕上げたハニーローストアーモンド。甘じょっぱい味わいで、コーヒーのお供やちょっとしたおやつにぴったりです。わさび味やキャラメル味も。",
+   "image_brief": "A clear stand-up zip pouch with a blank label holding shiny honey-glazed almonds with sugar crystals, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ハニーローストアーモンド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産アーモンド使用"
+    },
+    {
+     "title": "Cymbal わさびアーモンド 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産アーモンド使用"
+    },
+    {
+     "title": "Cymbal 塩キャラメルアーモンド 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産アーモンド使用"
+    },
+    {
+     "title": "Cymbal セレクト スモークアーモンド 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産アーモンド使用"
+    },
+    {
+     "title": "Cymbal ハニーローストアーモンド 小袋 18g×8袋",
+     "brand": "Cymbal",
+     "size": "18g×8袋",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ産アーモンド使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_honey_almond_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_salted_mix_nuts",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ミックスナッツ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "アーモンド",
+    "カシューナッツ",
+    "マカダミアナッツ",
+    "くるみ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "パーティー"
+   ],
+   "tax_rate": 8,
+   "description": "アーモンド・カシューナッツ・マカダミアナッツ・くるみをロースト後に軽く塩味をつけた、おつまみ向けのミックスナッツ。食感や風味の違いを一度に楽しめ、お酒のお供やパーティーのテーブルに便利です。",
+   "image_brief": "A clear stand-up zip pouch with a blank label showing a colorful mix of almonds, cashews, macadamias and walnuts, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal おつまみミックスナッツ 4種 有塩 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 498,
+     "origin": "外国産"
+    },
+    {
+     "title": "Cymbal おつまみミックスナッツ 4種 有塩 大袋 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 1280,
+     "origin": "外国産"
+    },
+    {
+     "title": "Cymbal セレクト プレミアムミックスナッツ 6種 有塩 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 798,
+     "origin": "外国産"
+    },
+    {
+     "title": "Cymbal おつまみミックスナッツ 4種 小袋 20g×10袋",
+     "brand": "Cymbal",
+     "size": "20g×10袋",
+     "price_tax_excluded": 598,
+     "origin": "外国産"
+    },
+    {
+     "title": "Cymbal ベーシック ミックスナッツ 有塩 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 278,
+     "origin": "外国産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_salted_mix_nuts_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_walnut_flavored",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "味付けくるみ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "くるみ",
+    "乳"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おやつ",
+    "コーヒーのお供",
+    "サラダトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしいくるみを、キャラメルやメープル、塩バターで味付けしました。ほろ苦いくるみのコクに甘さが重なり、おやつやコーヒーのお供にぴったり。サラダやヨーグルトのトッピングにもおすすめです。",
+   "image_brief": "A clear stand-up zip pouch with a blank label holding walnut halves coated in a glossy caramel glaze, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal キャラメリゼくるみ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産くるみ使用"
+    },
+    {
+     "title": "Cymbal メープルくるみ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産くるみ使用"
+    },
+    {
+     "title": "Cymbal 塩バターくるみ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ産くるみ使用"
+    },
+    {
+     "title": "Cymbal セレクト 黒糖くるみ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産くるみ使用"
+    },
+    {
+     "title": "Cymbal キャラメリゼくるみ 小袋 15g×7袋",
+     "brand": "Cymbal",
+     "size": "15g×7袋",
+     "price_tax_excluded": 398,
+     "origin": "アメリカ産くるみ使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_walnut_flavored_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_hazelnut_pecan",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ナッツ各種"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "製菓",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "ヘーゼルナッツ、ピーカンナッツ、ブラジルナッツなど、ふだん手に取りにくいナッツを素焼きで揃えました。それぞれの香ばしさや食感の違いを楽しめ、製菓材料としても活躍します。ナッツ好きの方に。",
+   "image_brief": "A row of three clear zip pouches with blank labels containing round hazelnuts, ridged pecans and large brazil nuts, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 素焼きヘーゼルナッツ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ産"
+    },
+    {
+     "title": "Cymbal 素焼きピーカンナッツ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal 素焼きブラジルナッツ 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "ボリビア産"
+    },
+    {
+     "title": "Cymbal セレクト 素焼きピーカンナッツ 大粒 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 798,
+     "origin": "アメリカ産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機素焼きヘーゼルナッツ 70g",
+     "brand": "Cymbal オーガニック",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_hazelnut_pecan_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_peanut_flavored",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "ピーナッツ・落花生"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "皮付きのまま揚げた香ばしいピーナッツに、ガーリックやしょうゆ、ピリ辛などの味付けをしました。カリッと軽い歯ざわりで、ビールのおつまみにぴったり。国産落花生の塩ゆで風タイプも揃えています。",
+   "image_brief": "A clear stand-up pouch with a blank label filled with red-skinned fried peanuts with garlic chips, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ガーリックピーナッツ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産落花生使用"
+    },
+    {
+     "title": "Cymbal しょうゆピーナッツ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産落花生使用"
+    },
+    {
+     "title": "Cymbal ピリ辛 唐辛子ピーナッツ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産落花生使用"
+    },
+    {
+     "title": "Cymbal 皮付き揚げピーナッツ しお味 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "中国産落花生使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産 塩ゆで風 落花生 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "千葉県産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_peanut_flavored_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ikari_mame",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "豆菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "皮付きのそら豆をカリッと揚げて塩味をつけた、いかり豆。ザクッとした歯ごたえと、噛むほどに広がるそら豆の香ばしさが魅力です。むき豆タイプやのり塩味もあり、お酒のお供に人気の豆菓子です。",
+   "image_brief": "A blank-labeled clear bag of fried broad beans with split brown skins, a few loose in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いかり豆 しお味 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "中国産そら豆使用"
+    },
+    {
+     "title": "Cymbal むきそら豆フライ しお味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産そら豆使用"
+    },
+    {
+     "title": "Cymbal むきそら豆フライ のり塩 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国産そら豆使用"
+    },
+    {
+     "title": "Cymbal ベーシック いかり豆 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いかり豆 小袋 15g×8袋",
+     "brand": "Cymbal",
+     "size": "15g×8袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ikari_mame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_koromo_mame",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "豆菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "落花生",
+    "小麦",
+    "大豆",
+    "えび",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "お茶うけ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "ピーナッツをカリッとした衣で包んで焼き上げた衣がけ豆菓子。しょうゆ、えび、カレーなど味のバリエーションが豊富で、ポリポリと止まらない食感が魅力です。個包装の詰め合わせはお茶うけや配り菓子にも。",
+   "image_brief": "A blank-labeled clear bag filled with round crunchy coated peanuts in brown, pink, white and green tones, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 衣がけピーナッツ 5種アソート 個包装 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 衣がけピーナッツ しょうゆ味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 衣がけピーナッツ えび味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 衣がけピーナッツ カレー味 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豆乳衣がけピーナッツ 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 衣がけピーナッツ しょうゆ味 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_koromo_mame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_wasabi_peas",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "豆菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "えんどう豆にわさび風味の衣をからめて焼き上げた、緑色が鮮やかなわさび豆。ツーンと鼻に抜ける辛さと、ポリッとした食感がクセになるおつまみです。辛さ控えめタイプと激辛タイプから選べます。",
+   "image_brief": "A blank-labeled clear bag filled with small round bright green wasabi-coated peas, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal わさび豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal わさび豆 激辛 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal わさび豆 マイルド 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック わさび豆 70g",
+     "brand": "Cymbal ベーシック",
+     "size": "70g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal わさび豆 小袋 12g×8袋",
+     "brand": "Cymbal",
+     "size": "12g×8袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_wasabi_peas_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_iri_daizu",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "豆菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おやつ",
+    "節分",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "大豆をじっくり煎り上げた香ばしい炒り大豆。カリッと軽い歯ごたえと大豆本来の甘みが楽しめる、素朴で飽きのこない豆菓子です。黒大豆や青大豆もあり、毎日のおやつにも節分の豆まきにも使えます。",
+   "image_brief": "A blank-labeled clear bag of round golden roasted soybeans, a small plain wooden box beside it filled with beans, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 炒り大豆 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 158,
+     "origin": "国産大豆使用"
+    },
+    {
+     "title": "Cymbal 炒り黒大豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 炒り青大豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国産青大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 大粒炒り大豆 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産大豆使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機炒り大豆 80g",
+     "brand": "Cymbal オーガニック",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_iri_daizu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_sweet_coated_beans",
+   "category_path": [
+    "お菓子・製菓",
+    "ナッツ・豆菓子",
+    "豆菓子"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳",
+    "大豆",
+    "落花生"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お茶うけ",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "黒豆やそら豆に、黒糖やきなこの甘い衣をかけて焼き上げた甘口の豆菓子。ほっこりやさしい甘さと豆の香ばしさが調和し、熱いお茶にぴったりです。秋冬のこたつのお供にもおすすめです。",
+   "image_brief": "A blank-labeled clear bag of beans coated in brown sugar and soybean flour, dusty beige and dark brown, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黒糖そら豆 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きなこ黒豆 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 抹茶衣がけ大豆 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄県産黒糖使用 黒糖ピーナッツ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 衣がけ甘豆 80g",
+     "brand": "Cymbal ベーシック",
+     "size": "80g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_sweet_coated_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_sakiika",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "さきいか"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "いか",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "マヨネーズ添え"
+   ],
+   "tax_rate": 8,
+   "description": "いかを味付けして細く裂いた定番のさきいか。噛むほどにいかのうまみと甘みがじんわり広がり、ビールや日本酒によく合います。やわらかタイプや太切りタイプ、徳用の大袋まで揃えました。",
+   "image_brief": "A clear stand-up zip pouch with a blank label filled with pale shredded seasoned squid strands, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さきいか 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal やわらかさきいか 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 太切り さきいか 45g",
+     "brand": "Cymbal セレクト",
+     "size": "45g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さきいか 徳用 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック さきいか 35g",
+     "brand": "Cymbal ベーシック",
+     "size": "35g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_sakiika_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_ikakun",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "いかくん"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "いか",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "いかをスモークして香りよく仕上げたいかくん。燻製ならではの芳ばしい香りと、ほどよい甘じょっぱさがお酒によく合います。ソフトな輪切りタイプや裂いたくんさきタイプなど、好みの食感で選べます。",
+   "image_brief": "A clear zip pouch with a blank label holding smoked squid rings with reddish-brown edges, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いかくん 輪切り 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal くんさきいか 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 桜チップ燻製 いかくん 45g",
+     "brand": "Cymbal セレクト",
+     "size": "45g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック いかくん 輪切り 30g",
+     "brand": "Cymbal ベーシック",
+     "size": "30g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いかくん 輪切り 徳用 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_ikakun_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_atarime",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "あたりめ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "いか"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "炙り"
+   ],
+   "tax_rate": 8,
+   "description": "するめいかを丸ごと乾燥させた無添加のあたりめ。軽く炙ると香ばしさが際立ち、噛むほどにいか本来のうまみが楽しめます。食べやすい細切りタイプや、げそタイプもご用意しました。",
+   "image_brief": "A clear flat bag with a blank label holding a whole dried flattened squid, with a few torn strips laid in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あたりめ 姿 2枚入",
+     "brand": "Cymbal",
+     "size": "2枚入",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 細切りあたりめ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 するめいか使用 あたりめ 1枚",
+     "brand": "Cymbal セレクト",
+     "size": "1枚",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal げそあたりめ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 細切りあたりめ 20g",
+     "brand": "Cymbal ベーシック",
+     "size": "20g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_atarime_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_beef_jerky",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "ジャーキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆",
+    "りんご"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "アウトドア",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "牛もも肉を秘伝のたれに漬け込み、じっくり乾燥させたビーフジャーキー。噛むほどに肉のうまみとスパイスの香りがあふれ、ビールやハイボールにぴったりです。ペッパー味や辛口タイプも揃えました。",
+   "image_brief": "A matte dark brown zip pouch with a blank label and clear window showing strips of dark red beef jerky, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ビーフジャーキー しょうゆ味 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフジャーキー ブラックペッパー 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフジャーキー 辛口ホット 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 厚切り ビーフジャーキー 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ビーフジャーキー 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_beef_jerky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_pork_jerky",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "ジャーキー"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉",
+    "牛肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "アウトドア"
+   ],
+   "tax_rate": 8,
+   "description": "国産豚肉を甘辛のしょうゆだれで仕上げたポークジャーキー。ビーフよりもやわらかく、しっとりとした食感と脂の甘みが楽しめます。チキンジャーキーやサラミスティックも揃えたおつまみ肉のシリーズです。",
+   "image_brief": "A clear zip pouch with a blank label holding glossy reddish strips of pork jerky, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポークジャーキー 甘辛しょうゆ 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal チキンジャーキー 黒こしょう 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal サラミスティック 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 炭火焼き ポークジャーキー 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック ポークジャーキー 25g",
+     "brand": "Cymbal ベーシック",
+     "size": "25g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_pork_jerky_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_cheese_cod",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "チーズおつまみ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳",
+    "大豆",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "たらのすり身シートでチーズをサンドし、食べやすくカットしたたらチーズ。たらのうまみとまろやかなチーズの塩味が絶妙で、ワインやビールにもよく合います。カマンベールや明太風味も揃えました。",
+   "image_brief": "A clear zip pouch with a blank label holding thin sticks of yellow cheese sandwiched between white fish sheets, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal たらチーズ 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たらチーズ カマンベール入り 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たらチーズ 明太風味 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal たらチーズ 徳用 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック たらチーズ 35g",
+     "brand": "Cymbal ベーシック",
+     "size": "35g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_cheese_cod_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_baked_cheese",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "チーズおつまみ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ワインのお供",
+    "サラダトッピング"
+   ],
+   "tax_rate": 8,
+   "description": "チーズだけを焼き固めてカリッと仕上げた焼きチーズ。凝縮したチーズのコクとスナックのような軽い食感が楽しめます。ワインのお供はもちろん、サラダやスープのトッピングにもおすすめです。",
+   "image_brief": "A small blank-labeled stand-up pouch next to crunchy golden baked cheese crisps scattered in front, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きチーズ ゴーダ 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼きチーズ チェダー 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 焼きチーズ パルミジャーノ 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア産チーズ使用"
+    },
+    {
+     "title": "Cymbal 焼きチーズ ブラックペッパー 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼きチーズ 小袋 6g×6袋",
+     "brand": "Cymbal",
+     "size": "6g×6袋",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_baked_cheese_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_hotate_himo",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "炊き込みご飯"
+   ],
+   "tax_rate": 8,
+   "description": "ほたての貝ひもを甘辛く味付けして乾燥させた珍味。コリコリとした独特の歯ごたえと、噛むほど広がる貝のうまみが楽しめます。日本酒や焼酎のお供に。小さく刻んで炊き込みご飯に加えるのもおすすめです。",
+   "image_brief": "A clear zip pouch with a blank label holding dried seasoned scallop mantle strips in amber tones, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼きほたて貝ひも 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal ほたて貝ひも 七味 40g",
+     "brand": "Cymbal",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 焼きほたて 貝柱 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 698,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal 焼きほたて貝ひも 徳用 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 898,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal ベーシック ほたて貝ひも 20g",
+     "brand": "Cymbal ベーシック",
+     "size": "20g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_hotate_himo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_kuki_wakame",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "肉厚の茎わかめを梅酢や塩で味付けした、コリコリ食感のおつまみ。さっぱりとした酸味で口の中がリフレッシュでき、軽いおやつとしても人気です。食べきりの小袋タイプも揃えています。",
+   "image_brief": "A clear zip pouch with a blank label holding dark green chunks of seasoned seaweed stems dusted with white salt, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 茎わかめ 梅しそ味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国産わかめ使用"
+    },
+    {
+     "title": "Cymbal 茎わかめ うす塩味 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 198,
+     "origin": "国産わかめ使用"
+    },
+    {
+     "title": "Cymbal セレクト 三陸産 茎わかめ 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 298,
+     "origin": "三陸産"
+    },
+    {
+     "title": "Cymbal 茎わかめ 小袋 8g×10袋",
+     "brand": "Cymbal",
+     "size": "8g×10袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 茎わかめ 梅しそ味 50g",
+     "brand": "Cymbal ベーシック",
+     "size": "50g",
+     "price_tax_excluded": 118,
+     "origin": "中国産わかめ使用"
+    }
+   ],
+   "images": [
+    "w_snack_savory_kuki_wakame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_kozakana_ebi",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "かに"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "晩酌",
+    "おやつ"
+   ],
+   "tax_rate": 8,
+   "description": "小えびや小がにを丸ごとカラッと揚げて、塩で香ばしく仕上げた姿揚げ。殻ごとサクサク食べられ、甲殻類ならではの香りが口いっぱいに広がります。ビールのお供にぴったりのおつまみです。",
+   "image_brief": "A clear zip pouch with a blank label holding small whole fried red shrimp and tiny crabs, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 小えび姿揚げ しお味 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 小がに唐揚げ 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 小えび姿揚げ ピリ辛 35g",
+     "brand": "Cymbal",
+     "size": "35g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内産 小えび素揚げ 30g",
+     "brand": "Cymbal セレクト",
+     "size": "30g",
+     "price_tax_excluded": 398,
+     "origin": "瀬戸内産えび使用"
+    },
+    {
+     "title": "Cymbal ベーシック 小えび姿揚げ 20g",
+     "brand": "Cymbal ベーシック",
+     "size": "20g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_kozakana_ebi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_goma_iwashi",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま",
+    "大豆",
+    "小麦",
+    "アーモンド"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "おやつ",
+    "お茶うけ"
+   ],
+   "tax_rate": 8,
+   "description": "片口いわしを甘辛く炊き、ごまをまぶしてカリッと仕上げたおつまみ。骨ごと食べられ、香ばしさとほどよい甘さで子どものおやつにも晩酌にも向いています。アーモンド入りタイプもあります。",
+   "image_brief": "A clear zip pouch with a blank label holding small dried sardines glazed brown and sprinkled with sesame seeds, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごまいわし 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal アーモンドいわし ごま風味 60g",
+     "brand": "Cymbal",
+     "size": "60g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 瀬戸内産 片口いわし 甘辛炊き 50g",
+     "brand": "Cymbal セレクト",
+     "size": "50g",
+     "price_tax_excluded": 398,
+     "origin": "瀬戸内産"
+    },
+    {
+     "title": "Cymbal ごまいわし 小袋 6g×10袋",
+     "brand": "Cymbal",
+     "size": "6g×10袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ごまいわし 35g",
+     "brand": "Cymbal ベーシック",
+     "size": "35g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_snack_savory_goma_iwashi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_snack_savory_fish_chips",
+   "category_path": [
+    "お菓子・製菓",
+    "おつまみ・珍味",
+    "珍味"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば",
+    "さけ",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11
+   ],
+   "dishes": [
+    "おつまみ",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "魚の切り身を薄く伸ばして焼き上げた、パリパリ食感のフィッシュチップス。さばや鮭ならではのうまみとほどよい塩気があり、ビールやハイボールのおつまみにぴったりです。脂ののる秋冬におすすめ。",
+   "image_brief": "A clear zip pouch with a blank label holding thin crispy golden fish chips with a silvery sheen, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さばチップス しお味 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal さばチップス 黒こしょう味 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal 鮭チップス 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "Cymbal かつおチップス 30g",
+     "brand": "Cymbal",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 金華さば チップス 25g",
+     "brand": "Cymbal セレクト",
+     "size": "25g",
+     "price_tax_excluded": 398,
+     "origin": "宮城県産"
+    }
+   ],
+   "images": [
+    "w_snack_savory_fish_chips_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

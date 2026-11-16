@@ -1,0 +1,3062 @@
+{
+ "category_key": "y_rice_retort",
+ "items": [
+  {
+   "base_id": "y_rice_retort_retort_gyudon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "牛丼",
+    "お昼ごはん",
+    "忙しい日の夕食",
+    "ローリングストック"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛いつゆで牛肉と玉ねぎを煮込んだレトルトの牛丼の具です。温めてごはんにのせるだけで、手早く牛丼が完成します。紅しょうがや温泉卵を添えるのもおすすめです。",
+   "image_brief": "Retort pouch box with a photo of a beef bowl topped with simmered beef and onion over rice, label 「牛丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 牛丼の具 レトルト 160g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛丼の具 レトルト 180g×3袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛使用 牛丼の具 レトルト 160g",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛丼の具 つゆだく レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛すき丼の具 しらたき入り レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 牛丼の具 ミニサイズ レトルト 120g×4袋",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 牛丼の具 レトルト 160g×5袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "800g",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_gyudon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_chukadon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "中華丼",
+    "あんかけ焼きそば",
+    "お昼ごはん",
+    "忙しい日の夕食"
+   ],
+   "tax_rate": 8,
+   "description": "白菜やにんじん、きくらげなどの野菜にえびやうずら卵を加えた、とろみのある中華丼の具です。ごはんにかけて中華丼に、焼きそばにかければあんかけ焼きそばになります。",
+   "image_brief": "Retort pouch box showing a Chinese-style rice bowl with glossy vegetable and shrimp ankake sauce, label 「中華丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 中華丼の具 レトルト 180g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華丼の具 うずら卵入り レトルト 210g",
+     "brand": "トップバリュ",
+     "size": "210g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華丼の具 レトルト 180g×3袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 海鮮中華丼の具 えび・いか・ほたて入り 220g",
+     "brand": "トップバリュ セレクト",
+     "size": "220g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産野菜使用 中華丼の具 レトルト 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 八宝菜丼の具 レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_chukadon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_oyakodon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "親子丼",
+    "他人丼",
+    "お昼ごはん",
+    "子どもの昼食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉と玉ねぎをだしの効いたつゆで煮て、ふんわり卵でとじたレトルトの親子丼の具です。温めてごはんにのせるだけで、手軽にやさしい味の親子丼が楽しめます。",
+   "image_brief": "Retort pouch box with a photo of oyakodon showing chicken and soft egg on rice garnished with mitsuba, label 「親子丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 親子丼の具 レトルト 180g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産鶏使用 親子丼の具 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 親子丼の具 レトルト 180g×3袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 比内地鶏使用 親子丼の具 170g",
+     "brand": "トップバリュ セレクト",
+     "size": "170g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 玉子丼の具 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カツ丼の具 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 木の葉丼の具 かまぼこ入り レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_oyakodon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_hayashi",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "ハヤシ・シチュー（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ハヤシライス",
+    "オムハヤシ",
+    "お昼ごはん",
+    "忙しい日の夕食"
+   ],
+   "tax_rate": 8,
+   "description": "牛肉と玉ねぎをデミグラスソースでじっくり煮込んだレトルトのハヤシです。温めてごはんにかければハヤシライスに、オムライスにかければオムハヤシにもなります。",
+   "image_brief": "Retort pouch box with a photo of hayashi rice in rich brown demi-glace beef sauce, label 「ハヤシ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス ハヤシ レトルト 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハヤシ 牛肉とマッシュルーム入り レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛使用 ハヤシビーフ 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ハヤシ レトルト 200g×3袋",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ トマトたっぷりハヤシ レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ こども向け ハヤシ 甘口 100g×2袋",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_hayashi_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_mabodon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "麻婆丼",
+    "麻婆豆腐",
+    "お昼ごはん",
+    "忙しい日の夕食"
+   ],
+   "tax_rate": 8,
+   "description": "豚ひき肉と豆腐を豆板醤の効いたソースで仕上げたレトルトの麻婆丼の具です。温めてごはんにかけるだけで本格的な麻婆丼に。ねぎや花椒を足すと風味がさらに引き立ちます。",
+   "image_brief": "Retort pouch box showing mapo tofu with red chili sauce over white rice, label 「麻婆丼の具」.",
+   "variants": [
+    {
+     "title": "トップバリュ 麻婆丼の具 中辛 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆丼の具 辛口 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆丼の具 甘口 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆なす丼の具 レトルト 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 四川風 麻婆丼の具 花椒入り 170g",
+     "brand": "トップバリュ セレクト",
+     "size": "170g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麻婆丼の具 中辛 レトルト 180g×3袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_mabodon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_tenshinhan",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "丼の具（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "天津飯",
+    "かに玉",
+    "あんかけ",
+    "お昼ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "甘酢しょうゆ味のとろみあんをレトルトパウチに詰めた天津飯のあんです。ふんわり焼いたかに玉や卵焼きにかけるだけで、手軽にお店のような天津飯が作れます。",
+   "image_brief": "Retort pouch box showing a fluffy egg omelet on rice covered with glossy amber sauce, label 「天津飯のあん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 天津飯のあん 甘酢しょうゆ味 2人前 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天津飯のあん 塩味 2人前 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天津飯のあん ケチャップ味 2人前 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かに玉の素 甘酢あん付 3〜4人前",
+     "brand": "トップバリュ",
+     "size": "3〜4人前",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天津飯のあん 甘酢しょうゆ味 2人前×3袋",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 帆立だし 天津飯のあん 2人前 170g",
+     "brand": "トップバリュ セレクト",
+     "size": "170g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_tenshinhan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_cream_stew",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "ハヤシ・シチュー（レトルト）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "クリームシチュー",
+    "ドリア",
+    "グラタン",
+    "お昼ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉とじゃがいも、にんじんをまろやかなホワイトソースで煮込んだレトルトのシチューです。温めるだけでそのまま一品に。ごはんにかけてチーズをのせ、焼いてドリア風にもできます。",
+   "image_brief": "Retort pouch box with a photo of creamy white chicken stew with potato and carrot in a bowl, label 「クリームシチュー」.",
+   "variants": [
+    {
+     "title": "トップバリュ クリームシチュー 北海道産牛乳使用 レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ビーフシチュー レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産牛 ビーフシチュー 赤ワイン仕立て 200g",
+     "brand": "トップバリュ セレクト",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス クリームシチュー レトルト 200g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "200g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃのクリームシチュー レトルト 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クリームシチュー レトルト 200g×3袋",
+     "brand": "トップバリュ",
+     "size": "600g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_cream_stew_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_corn_cream_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "レトルトスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パンのお供",
+    "お弁当（スープジャー）",
+    "グラタン"
+   ],
+   "tax_rate": 8,
+   "description": "とうもろこしの甘みを生かした、なめらかなレトルトのコーンクリームスープです。温めるだけで朝ごはんやパンのお供に。グラタンやドリアのソースとしてもアレンジできます。",
+   "image_brief": "Stand-up retort soup pouch showing a bowl of yellow corn cream soup with corn kernels, label 「コーンクリームスープ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 北海道産スイートコーン使用 コーンクリームスープ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス コーンクリームスープ 160g×3袋",
+     "brand": "トップバリュ ベストプライス",
+     "size": "480g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ じゃがいもの冷製ポタージュ ヴィシソワーズ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃのポタージュ レトルト 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道 とうもろこしの濃厚ポタージュ 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック コーンスープ 160g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "160g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_corn_cream_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_minestrone",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "レトルトスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "スープパスタ",
+    "お弁当（スープジャー）",
+    "夕食のスープ"
+   ],
+   "tax_rate": 8,
+   "description": "トマトベースに玉ねぎ、にんじん、キャベツ、豆などの具材がたっぷり入ったレトルトスープです。温めるだけで1品増やせ、ゆでたパスタを加えればスープパスタにもなります。",
+   "image_brief": "Stand-up retort soup pouch showing a bowl of red tomato vegetable soup with beans and pasta, label 「ミネストローネ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 具だくさん ミネストローネ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 具だくさん ミネストローネ 180g×3袋",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 428,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 8種野菜のポトフ レトルト 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ボルシチ風 ビーツと牛肉のスープ 180g",
+     "brand": "トップバリュ",
+     "size": "180g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産野菜 オニオングラタンスープ 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス トマトスープ 160g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "160g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_minestrone_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_clam_chowder",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "レトルトスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パンのお供",
+    "グラタン",
+    "シーフードドリア"
+   ],
+   "tax_rate": 8,
+   "description": "あさりのうまみとじゃがいも、玉ねぎを生クリームで仕上げたレトルトのクラムチャウダーです。温めてパンと一緒に朝ごはんに。グラタンやドリアのソースにも使えます。",
+   "image_brief": "Stand-up retort soup pouch showing a bowl of creamy white clam chowder with clams and potato cubes, label 「クラムチャウダー」.",
+   "variants": [
+    {
+     "title": "トップバリュ あさりたっぷり クラムチャウダー 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クラムチャウダー 160g×3袋",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ マンハッタン風 トマトクラムチャウダー 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産ほたて使用 帆立のチャウダー 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鮭とじゃがいものチャウダー 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス クラムチャウダー 150g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "150g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_clam_chowder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_retort_okayu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "レトルト食品",
+    "おかゆ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "夜食",
+    "七草がゆ",
+    "ローリングストック"
+   ],
+   "tax_rate": 8,
+   "description": "国産米をじっくり炊き上げたレトルトのおかゆです。電子レンジや湯せんで温めるだけで、やさしい味わいのおかゆがすぐに用意できます。梅干しや塩昆布を添えて朝ごはんや夜食にどうぞ。",
+   "image_brief": "Retort rice porridge pouch with a photo of soft white rice porridge in a bowl topped with umeboshi, label 「白がゆ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米使用 白がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 108,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 梅がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 鮭がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 小豆がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 七草がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 白がゆ 250g×6袋",
+     "brand": "トップバリュ",
+     "size": "1.5kg",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち麦入り 白がゆ 250g",
+     "brand": "トップバリュ",
+     "size": "250g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_retort_okayu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_noodle_shoyu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "休日のランチ",
+    "ローリングストック"
+   ],
+   "tax_rate": 8,
+   "description": "鶏ガラと野菜のうまみが効いた、昔ながらのしょうゆ味のカップラーメンです。お湯を注いで3分で完成。ねぎやゆで卵をのせると、さらに満足感のある一杯になります。",
+   "image_brief": "Tall styrofoam-free paper cup noodle with lid photo of soy-sauce ramen with egg and green onion, label 「しょうゆラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス しょうゆラーメン カップ 76g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "76g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しょうゆラーメン カップ 76g×3食",
+     "brand": "トップバリュ",
+     "size": "228g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏だし しょうゆラーメン 縦型カップ 70g",
+     "brand": "トップバリュ",
+     "size": "70g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 中華そば 煮干しだし しょうゆ カップ 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 醤油らーめん ノンフライ麺 カップ 95g",
+     "brand": "トップバリュ セレクト",
+     "size": "95g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス しょうゆラーメン カップ 76g×12食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "912g",
+     "price_tax_excluded": 1078,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_noodle_shoyu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_noodle_seafood",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "かに",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "休日のランチ",
+    "ローリングストック"
+   ],
+   "tax_rate": 8,
+   "description": "えびやいか、キャベツなどの具材が入った、魚介のうまみたっぷりのシーフード味カップラーメンです。お湯を注いで3分。コクのあるスープでお昼ごはんや夜食にぴったりです。",
+   "image_brief": "Tall paper cup noodle with lid photo of creamy seafood ramen with shrimp, squid and cabbage, label 「シーフードラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス シーフードヌードル カップ 75g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "75g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シーフードヌードル カップ 75g×3食",
+     "brand": "トップバリュ",
+     "size": "225g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ シーフードヌードル ミニ カップ 37g",
+     "brand": "トップバリュ",
+     "size": "37g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 海鮮ちゃんぽん カップ 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チリトマト シーフードヌードル カップ 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス シーフードヌードル カップ 75g×12食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "900g",
+     "price_tax_excluded": 1078,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_noodle_seafood_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_noodle_curry",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "残ったスープでカレーリゾット",
+    "ローリングストック"
+   ],
+   "tax_rate": 8,
+   "description": "スパイスの香りとまろやかなコクのカレー味カップラーメンです。お湯を注いで3分で完成。残ったスープにごはんを入れてカレー雑炊風に楽しむのもおすすめです。",
+   "image_brief": "Tall paper cup noodle with lid photo of curry ramen with potato and meat pieces, label 「カレーヌードル」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス カレーヌードル カップ 82g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "82g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーヌードル カップ 82g×3食",
+     "brand": "トップバリュ",
+     "size": "246g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーうどん カップ 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 欧風カレーヌードル チーズ入り カップ 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ スパイスカレーヌードル 辛口 カップ 82g",
+     "brand": "トップバリュ",
+     "size": "82g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーヌードル ミニ カップ 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_noodle_curry_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_noodle_big",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "夜食",
+    "部活帰りの補食",
+    "休日のランチ"
+   ],
+   "tax_rate": 8,
+   "description": "麺もスープもたっぷりの大盛りサイズのカップラーメンです。とんこつ、みそ、塩など食べ応えのある味をそろえました。お湯を注いで手軽にしっかり食べたいときにどうぞ。",
+   "image_brief": "Wide large bowl-type cup noodle with lid photo of rich tonkotsu ramen with chashu-style topping, label 「大盛 とんこつラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 大盛 とんこつラーメン どんぶり型カップ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大盛 みそラーメン どんぶり型カップ 125g",
+     "brand": "トップバリュ",
+     "size": "125g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大盛 塩ラーメン どんぶり型カップ 115g",
+     "brand": "トップバリュ",
+     "size": "115g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大盛 背脂しょうゆラーメン どんぶり型カップ 120g",
+     "brand": "トップバリュ",
+     "size": "120g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 大盛 担々麺 どんぶり型カップ 125g",
+     "brand": "トップバリュ",
+     "size": "125g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 大盛 とんこつラーメン どんぶり型カップ 110g×12食",
+     "brand": "トップバリュ ベストプライス",
+     "size": "1.32kg",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_noodle_big_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_noodle_mini",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "ミニカップ麺"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夜食",
+    "おやつ",
+    "おにぎりのお供",
+    "お弁当のお供"
+   ],
+   "tax_rate": 8,
+   "description": "おにぎりやパンと合わせやすい、食べきりサイズのミニカップ麺です。しょうゆ、シーフード、きつねうどんなど家族の好みに合わせて選べます。ちょっと小腹がすいたときにも便利です。",
+   "image_brief": "Multipack of small mini cup noodles shrink-wrapped together with lid photos of ramen and udon, label 「ミニカップ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ミニカップ しょうゆラーメン 36g",
+     "brand": "トップバリュ",
+     "size": "36g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ シーフード味 37g",
+     "brand": "トップバリュ",
+     "size": "37g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ きつねうどん 41g",
+     "brand": "トップバリュ",
+     "size": "41g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ 天ぷらそば 45g",
+     "brand": "トップバリュ",
+     "size": "45g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ 4種アソート 12食入",
+     "brand": "トップバリュ",
+     "size": "12食",
+     "price_tax_excluded": 798,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ みそラーメン 38g",
+     "brand": "トップバリュ",
+     "size": "38g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ミニカップ とんこつラーメン 37g",
+     "brand": "トップバリュ",
+     "size": "37g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_noodle_mini_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_yakisoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップ焼そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼きそば",
+    "お昼ごはん",
+    "夜食",
+    "休日のランチ"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注いで湯切りし、ソースを混ぜるだけで完成するカップ焼そばです。キャベツ入りで、青のりやマヨネーズを足せば屋台風の味わいに。休日のお昼ごはんにもぴったりです。",
+   "image_brief": "Square flat cup yakisoba container with lid photo of sauce-coated noodles with cabbage and aonori, label 「ソース焼そば」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス カップ焼そば ソース味 100g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "100g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば ソース味 からしマヨ付 112g",
+     "brand": "トップバリュ",
+     "size": "112g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば 塩だれ味 104g",
+     "brand": "トップバリュ",
+     "size": "104g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば 大盛 ソース味 167g",
+     "brand": "トップバリュ",
+     "size": "167g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば 旨辛 油そば風 110g",
+     "brand": "トップバリュ",
+     "size": "110g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば ソース味 100g×3食",
+     "brand": "トップバリュ",
+     "size": "300g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ焼そば 和風しょうゆ バター風味 105g",
+     "brand": "トップバリュ",
+     "size": "105g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_yakisoba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_kitsune_udon",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "きつねうどん",
+    "お昼ごはん",
+    "夜食",
+    "寒い日のランチ"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくら甘く煮たお揚げとかつお・昆布だしのつゆが味わえるカップのきつねうどんです。お湯を注いで5分。卵やねぎを足して、寒い日のお昼ごはんにも重宝します。",
+   "image_brief": "Round bowl-type cup udon with lid photo of thick udon noodles topped with a sweet fried tofu sheet, label 「きつねうどん」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス きつねうどん カップ 92g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "92g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きつねうどん 関西風だし カップ 96g",
+     "brand": "トップバリュ",
+     "size": "96g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ きつねうどん カップ 96g×3食",
+     "brand": "トップバリュ",
+     "size": "288g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カレーきつねうどん カップ 95g",
+     "brand": "トップバリュ",
+     "size": "95g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 肉うどん 甘辛牛肉入り カップ 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋焼き風うどん アルミ容器入り 1食",
+     "brand": "トップバリュ",
+     "size": "1食",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_kitsune_udon_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_tempura_soba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "カップうどん・そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "えび",
+    "そば",
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "年越しそば",
+    "天ぷらそば",
+    "お昼ごはん",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "サクサクの天ぷらとかつおだしの効いたつゆが楽しめるカップの天ぷらそばです。お湯を注いで3分で完成。年越しそばや、ちょっとしたお昼ごはんにも便利です。",
+   "image_brief": "Round bowl-type cup soba with lid photo of buckwheat noodles in dark broth topped with a crispy tempura disk, label 「天ぷらそば」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 天ぷらそば カップ 96g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "96g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ えび天ぷら入り 天ぷらそば カップ 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 天ぷらそば カップ 96g×3食",
+     "brand": "トップバリュ",
+     "size": "288g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鴨だしそば カップ 88g",
+     "brand": "トップバリュ",
+     "size": "88g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ たぬきそば 揚げ玉入り カップ 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 年越し 天ぷらそば カップ 2食入",
+     "brand": "トップバリュ",
+     "size": "2食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_tempura_soba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_cup_harusame_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "カップ麺",
+    "春雨スープ・カップスープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "夜食",
+    "お弁当のお供",
+    "朝ごはん",
+    "おにぎりのお供"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注ぐだけで食べられる、つるっとした春雨入りのカップスープです。酸辣湯やわかめ、担々風など味のバリエーションも豊富。おにぎりやお弁当のお供にちょうどいいサイズです。",
+   "image_brief": "Small paper cup soup with lid photo of glass noodles in soup with egg and vegetables, label 「春雨スープ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 春雨スープ 酸辣湯 カップ 18g",
+     "brand": "トップバリュ",
+     "size": "18g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春雨スープ わかめ カップ 16g",
+     "brand": "トップバリュ",
+     "size": "16g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春雨スープ 担々風 カップ 20g",
+     "brand": "トップバリュ",
+     "size": "20g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春雨スープ かきたま カップ 17g",
+     "brand": "トップバリュ",
+     "size": "17g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春雨スープ 5種アソート 10食入（袋タイプ）",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 春雨スープ チゲ風 カップ 18g",
+     "brand": "トップバリュ",
+     "size": "18g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_cup_harusame_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_bag_ramen_shio",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "塩ラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "塩ラーメン",
+    "お昼ごはん",
+    "夜食",
+    "野菜たっぷりラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "ごまの香りとあっさり塩スープが特長の袋入りインスタントラーメンです。キャベツやもやしを炒めてのせれば、野菜たっぷりの一杯に。家族のお昼ごはんに手軽に作れます。",
+   "image_brief": "Five-pack bundle of instant ramen bags with a photo of clear salt-based ramen topped with vegetables and corn, label 「塩ラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ ゆず塩ラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ごま香る 塩ラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 塩ラーメン 1食 85g",
+     "brand": "トップバリュ",
+     "size": "85g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道 塩ラーメン ノンフライ麺 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "3食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏だし 塩ラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 塩ラーメン 3食入",
+     "brand": "トップバリュ",
+     "size": "3食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_bag_ramen_shio_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_bag_ramen_tonkotsu",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "とんこつラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "とんこつラーメン",
+    "お昼ごはん",
+    "夜食",
+    "替え玉ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "豚骨のコクがしっかり感じられる、細めの麺の袋入りとんこつラーメンです。紅しょうがやねぎ、ゆで卵をのせれば本格的な味わいに。家族そろってのお昼ごはんにどうぞ。",
+   "image_brief": "Five-pack bundle of instant ramen bags with a photo of milky white pork bone ramen with green onion and red pickled ginger, label 「とんこつラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 豚骨しょうゆラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 博多風 とんこつラーメン 細麺 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ とんこつラーメン 1食 87g",
+     "brand": "トップバリュ",
+     "size": "87g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 九州 とんこつラーメン ノンフライ麺 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "3食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 熊本風 黒マー油とんこつラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 棒状 とんこつラーメン 2人前 170g",
+     "brand": "トップバリュ",
+     "size": "170g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_bag_ramen_tonkotsu_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_bag_ramen_miso",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "みそラーメン"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "みそラーメン",
+    "お昼ごはん",
+    "野菜炒めのせラーメン",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "炒め野菜との相性が良い、コクのあるみそ味の袋入りラーメンです。もやしやコーン、バターをのせれば北海道風の一杯に。寒い日のお昼ごはんにもぴったりです。",
+   "image_brief": "Five-pack bundle of instant ramen bags with a photo of miso ramen topped with bean sprouts, corn and butter, label 「みそラーメン」.",
+   "variants": [
+    {
+     "title": "トップバリュ 味噌バター風味ラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 合わせみそ ラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ みそラーメン 1食 90g",
+     "brand": "トップバリュ",
+     "size": "90g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 札幌 みそラーメン ノンフライ麺 3食入",
+     "brand": "トップバリュ セレクト",
+     "size": "3食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 旨辛 みそラーメン 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 担々麺 袋麺 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_bag_ramen_miso_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_bag_instant_yakisoba",
+   "category_path": [
+    "お米・麺・インスタント",
+    "袋麺",
+    "インスタント焼そば"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "焼きそば",
+    "お昼ごはん",
+    "ホットプレート",
+    "キャンプごはん"
+   ],
+   "tax_rate": 8,
+   "description": "フライパンで野菜と炒めるだけで作れる、粉末ソース付きの袋入りインスタント焼そばです。豚こまやキャベツを加えて具だくさんに。休日のお昼ごはんやホットプレート料理にも便利です。",
+   "image_brief": "Five-pack bundle of instant yakisoba bags with a photo of stir-fried sauce noodles with cabbage and pork, label 「ソース焼そば」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 即席焼そば ソース味 5食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席焼そば 塩味 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席焼そば ソース味 1食 100g",
+     "brand": "トップバリュ",
+     "size": "100g",
+     "price_tax_excluded": 78,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席焼そば オイスターソース味 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席 皿うどん 揚げ麺 2人前",
+     "brand": "トップバリュ",
+     "size": "2人前",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席焼そば 和風しょうゆ味 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_bag_instant_yakisoba_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_instant_miso_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当のお供",
+    "夜食",
+    "定食の汁物"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注ぐだけで、だしの効いたみそ汁ができる生みそタイプの即席みそ汁です。わかめ、とうふ、ねぎなど定番の具を詰め合わせ。忙しい朝ごはんやお弁当のお供に重宝します。",
+   "image_brief": "Bag of individually packed instant miso soup sachets with a photo of miso soup with tofu and wakame in a lacquer bowl, label 「生みそタイプ みそ汁」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス 生みそタイプ みそ汁 わかめ 10食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10食",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生みそタイプ みそ汁 とうふ 10食入",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 生みそタイプ みそ汁 3種アソート 20食入",
+     "brand": "トップバリュ",
+     "size": "20食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 生みそタイプ みそ汁 わかめ 10食入",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 赤だし 生みそタイプ みそ汁 なめこ 8食入",
+     "brand": "トップバリュ",
+     "size": "8食",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 白みそ仕立て 生みそタイプ みそ汁 油揚げ 8食入",
+     "brand": "トップバリュ",
+     "size": "8食",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ ベストプライス 生みそタイプ みそ汁 6種アソート 30食入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "30食",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_instant_miso_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_freeze_dried_miso_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当のお供",
+    "夜食",
+    "定食の汁物"
+   ],
+   "tax_rate": 8,
+   "description": "具材の形と食感を生かしたフリーズドライのみそ汁です。お椀に入れてお湯を注ぐだけで、なすやほうれん草、豆腐などの具がふっくら戻ります。ブロックタイプで保存しやすいのも魅力です。",
+   "image_brief": "Box of freeze-dried miso soup blocks with one block shown beside a bowl of miso soup with eggplant, label 「フリーズドライ みそ汁」.",
+   "variants": [
+    {
+     "title": "トップバリュ フリーズドライ みそ汁 なす 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ みそ汁 ほうれん草 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ みそ汁 とうふ 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ みそ汁 5種アソート 10食入",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 598,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト フリーズドライ 合わせみそ汁 国産具材 5食入",
+     "brand": "トップバリュ セレクト",
+     "size": "5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ みそ汁 野菜たっぷり 1食 12g",
+     "brand": "トップバリュ",
+     "size": "12g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_freeze_dried_miso_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_freeze_dried_tonjiru",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "豚汁",
+    "朝ごはん",
+    "お弁当（スープジャー）",
+    "おにぎりのお供"
+   ],
+   "tax_rate": 8,
+   "description": "豚肉とごぼう、にんじん、大根など具だくさんのフリーズドライ豚汁です。お湯を注ぐだけで食べ応えのある一杯に。おにぎりと合わせて、手軽な朝ごはんやお昼ごはんにどうぞ。",
+   "image_brief": "Box of freeze-dried tonjiru blocks shown beside a bowl of hearty pork and root vegetable miso soup, label 「具だくさん 豚汁」.",
+   "variants": [
+    {
+     "title": "トップバリュ フリーズドライ 具だくさん豚汁 1食 16g",
+     "brand": "トップバリュ",
+     "size": "16g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 具だくさん豚汁 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ けんちん汁 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 粕汁 3食入",
+     "brand": "トップバリュ",
+     "size": "3食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 即席 豚汁 生みそタイプ 6食入",
+     "brand": "トップバリュ",
+     "size": "6食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 具だくさん豚汁 10食入",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 848,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_freeze_dried_tonjiru_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_instant_shijimi_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "即席みそ汁"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "晩酌のしめ",
+    "定食の汁物",
+    "お弁当のお供"
+   ],
+   "tax_rate": 8,
+   "description": "しじみやあさりのうまみが溶け出した即席の貝のみそ汁です。お湯を注ぐだけで、だしの香り豊かな一杯が完成。朝ごはんや焼き魚の定食に添える汁物として便利です。",
+   "image_brief": "Bag of instant shellfish miso soup sachets with a photo of miso soup with small shijimi clams in a bowl, label 「しじみ汁」.",
+   "variants": [
+    {
+     "title": "トップバリュ しじみ汁 生みそタイプ 8食入",
+     "brand": "トップバリュ",
+     "size": "8食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ あさり汁 生みそタイプ 6食入",
+     "brand": "トップバリュ",
+     "size": "6食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しじみ汁 減塩 生みそタイプ 8食入",
+     "brand": "トップバリュ",
+     "size": "8食",
+     "price_tax_excluded": 318,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 宍道湖産しじみ使用 しじみ汁 5食入",
+     "brand": "トップバリュ セレクト",
+     "size": "5食",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しじみ汁 すまし仕立て 6食入",
+     "brand": "トップバリュ",
+     "size": "6食",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ しじみ汁 生みそタイプ 16食入",
+     "brand": "トップバリュ",
+     "size": "16食",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_instant_shijimi_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_corn_potage_powder",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "カップスープ・ポタージュ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "パンのお供",
+    "おやつ",
+    "グラタン"
+   ],
+   "tax_rate": 8,
+   "description": "お湯を注いで混ぜるだけで、まろやかなコーンポタージュができる粉末スープです。とうもろこしの甘みとクリーミーなコクで、パンの朝ごはんにぴったり。牛乳で溶けばさらに濃厚になります。",
+   "image_brief": "Box of individually packed powdered soup sachets with a photo of a mug of creamy corn potage with croutons, label 「コーンポタージュ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス コーンポタージュ 8袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 北海道産スイートコーン使用 コーンポタージュ 8袋入",
+     "brand": "トップバリュ",
+     "size": "8袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンポタージュ 30袋入 徳用",
+     "brand": "トップバリュ",
+     "size": "30袋",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ クリーミーポタージュ 8袋入",
+     "brand": "トップバリュ",
+     "size": "8袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ かぼちゃポタージュ 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ じゃがいもポタージュ 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ コーンポタージュ クルトン入り 5袋入",
+     "brand": "トップバリュ",
+     "size": "5袋",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_corn_potage_powder_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_wakame_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "わかめスープ・中華スープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "焼肉のお供",
+    "お弁当のお供",
+    "ラーメンスープ代わり"
+   ],
+   "tax_rate": 8,
+   "description": "ごまとねぎの香りが広がる、わかめたっぷりの即席スープです。お湯を注ぐだけで、チャーハンや焼肉、餃子の献立にぴったりの1品に。小分け包装で使いやすいのも魅力です。",
+   "image_brief": "Bag of individually packed instant seaweed soup sachets with a photo of clear soup filled with wakame and sesame, label 「わかめスープ」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス わかめスープ 10袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "10袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 三陸産わかめ使用 わかめスープ 8袋入",
+     "brand": "トップバリュ",
+     "size": "8袋",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ わかめスープ 30袋入 徳用",
+     "brand": "トップバリュ",
+     "size": "30袋",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 減塩 わかめスープ 10袋入",
+     "brand": "トップバリュ",
+     "size": "10袋",
+     "price_tax_excluded": 218,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ わかめスープ 3種アソート（ごま・オニオン・わかめ）15袋入",
+     "brand": "トップバリュ",
+     "size": "15袋",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ カップ わかめスープ 7.5g×5食",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_wakame_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_chuka_egg_soup",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "わかめスープ・中華スープ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "卵",
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "チャーハン",
+    "餃子",
+    "朝ごはん",
+    "中華献立"
+   ],
+   "tax_rate": 8,
+   "description": "ふんわり卵とねぎが入った中華風のフリーズドライスープです。お湯を注ぐだけで、チャーハンや餃子、麻婆豆腐の献立にもう1品添えられます。中華だしのやさしい味わいです。",
+   "image_brief": "Box of freeze-dried soup blocks shown beside a bowl of Chinese egg drop soup with green onion, label 「中華たまごスープ」.",
+   "variants": [
+    {
+     "title": "トップバリュ フリーズドライ 中華たまごスープ 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 中華たまごスープ 10食入",
+     "brand": "トップバリュ",
+     "size": "10食",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 酸辣湯 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 卵とトマトのスープ 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ ふかひれ風 中華スープ 4食入",
+     "brand": "トップバリュ",
+     "size": "4食",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 玉ねぎとたまごのスープ 1食 6g",
+     "brand": "トップバリュ",
+     "size": "6g",
+     "price_tax_excluded": 68,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_chuka_egg_soup_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_osuimono",
+   "category_path": [
+    "お米・麺・インスタント",
+    "インスタントスープ・みそ汁",
+    "お吸いもの"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "茶碗蒸し",
+    "お吸いもの",
+    "ちらし寿司"
+   ],
+   "tax_rate": 8,
+   "description": "かつおと昆布のだしが香る、上品な味わいの即席お吸いものです。お湯を注ぐだけで完成し、ちらし寿司や和食の献立にぴったり。茶碗蒸しの卵液やおにぎりのだし茶漬けにも使えます。",
+   "image_brief": "Small box of instant clear soup sachets with a photo of a lacquer bowl of clear broth with fu, mitsuba and seaweed, label 「お吸いもの」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス お吸いもの 8袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 松茸風味 お吸いもの 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お吸いもの 手まり麩入り 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ はまぐり風味 お吸いもの 4袋入",
+     "brand": "トップバリュ",
+     "size": "4袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お吸いもの 30袋入 徳用",
+     "brand": "トップバリュ",
+     "size": "30袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ かきたま汁 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_osuimono_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_ochazuke",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "お茶漬け"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お茶漬け",
+    "夜食",
+    "朝ごはん",
+    "晩酌のしめ"
+   ],
+   "tax_rate": 8,
+   "description": "あられと海苔の香ばしさが楽しめるお茶漬けの素です。ごはんにかけてお湯やお茶を注ぐだけで、さらさらと食べられます。夜食や晩酌のしめ、食欲がない朝ごはんにもぴったりです。",
+   "image_brief": "Small box of ochazuke seasoning sachets with a photo of rice in green tea topped with nori, arare and salmon flakes, label 「お茶漬け」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス お茶づけ海苔 8袋入",
+     "brand": "トップバリュ ベストプライス",
+     "size": "8袋",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ さけ茶づけ 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 梅干茶づけ 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ わさび茶づけ 6袋入",
+     "brand": "トップバリュ",
+     "size": "6袋",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ お茶づけ 4種アソート 20袋入",
+     "brand": "トップバリュ",
+     "size": "20袋",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 焼あご入り だし茶漬け 4袋入",
+     "brand": "トップバリュ セレクト",
+     "size": "4袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鯛茶漬け フリーズドライ 3食入",
+     "brand": "トップバリュ",
+     "size": "3食",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_ochazuke_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_zosui_no_moto",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "雑炊・おじやの素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "かに",
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "雑炊",
+    "鍋のしめ",
+    "夜食",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "ごはんと水を加えて煮るだけで、だしの効いた雑炊ができる素です。卵を落とせばふんわり仕上がり、鍋のしめにも使えます。寒い日の朝ごはんや夜食にやさしい一品です。",
+   "image_brief": "Small box of zosui soup base sachets with a photo of rice porridge with egg and green onion in an earthenware pot, label 「雑炊の素」.",
+   "variants": [
+    {
+     "title": "トップバリュ 雑炊の素 鶏だし 2人前×3袋",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 雑炊の素 かに 2人前×3袋",
+     "brand": "トップバリュ",
+     "size": "3袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 雑炊の素 ふぐ風味 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2袋",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 玉子雑炊 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ フリーズドライ 鮭雑炊 5食入",
+     "brand": "トップバリュ",
+     "size": "5食",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鍋のしめ 雑炊スープ 濃縮 2回分",
+     "brand": "トップバリュ",
+     "size": "2回分",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ チーズリゾットの素 2人前×2袋",
+     "brand": "トップバリュ",
+     "size": "2袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_zosui_no_moto_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_mazegohan_no_moto",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "混ぜご飯の素"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "混ぜご飯",
+    "おにぎり",
+    "お弁当",
+    "運動会のお弁当"
+   ],
+   "tax_rate": 8,
+   "description": "炊きたてのごはんに混ぜるだけで、彩りのよい混ぜご飯ができる素です。わかめや梅しそ、五目など種類も豊富。おにぎりにすれば、お弁当や運動会にもぴったりです。",
+   "image_brief": "Stand-up pouch of dried mix-in rice seasoning with a photo of onigiri made with wakame rice, label 「混ぜご飯の素 わかめ」.",
+   "variants": [
+    {
+     "title": "トップバリュ 混ぜご飯の素 わかめ 31g",
+     "brand": "トップバリュ",
+     "size": "31g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 混ぜご飯の素 梅しそ 26g",
+     "brand": "トップバリュ",
+     "size": "26g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 混ぜご飯の素 鮭わかめ 28g",
+     "brand": "トップバリュ",
+     "size": "28g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五目混ぜご飯の素 レトルト 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 菜めしの素 大根葉 25g",
+     "brand": "トップバリュ",
+     "size": "25g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 鶏そぼろ混ぜご飯の素 レトルト 2合用",
+     "brand": "トップバリュ",
+     "size": "2合用",
+     "price_tax_excluded": 268,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 混ぜご飯の素 わかめ 徳用 75g",
+     "brand": "トップバリュ",
+     "size": "75g",
+     "price_tax_excluded": 328,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_mazegohan_no_moto_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_furikake",
+   "category_path": [
+    "お米・麺・インスタント",
+    "お茶漬け・ふりかけ・ごはんの素",
+    "ふりかけ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "卵",
+    "乳"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "朝ごはん",
+    "おにぎり",
+    "子どもの朝食"
+   ],
+   "tax_rate": 8,
+   "description": "ごはんにかけるだけで食が進む定番のふりかけです。のりたま、おかか、さけなど子どもも大人も好きな味をそろえました。お弁当や朝ごはん、おにぎりの具にも活躍します。",
+   "image_brief": "Stand-up zipper pouch of rice seasoning with a photo of white rice sprinkled with egg and seaweed furikake, label 「のりたま」.",
+   "variants": [
+    {
+     "title": "トップバリュ ベストプライス のりたまふりかけ 50g",
+     "brand": "トップバリュ ベストプライス",
+     "size": "50g",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ おかかふりかけ 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ さけふりかけ 40g",
+     "brand": "トップバリュ",
+     "size": "40g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 小袋ふりかけ 5種アソート 20袋入",
+     "brand": "トップバリュ",
+     "size": "20袋",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ やわらかふりかけ 鮭わかめ ソフトタイプ 50g",
+     "brand": "トップバリュ",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産具材 しらすとごまのふりかけ 30g",
+     "brand": "トップバリュ セレクト",
+     "size": "30g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ のりたまふりかけ 徳用 200g",
+     "brand": "トップバリュ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_furikake_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_microwave_gomoku_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "味付けご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "お昼ごはん",
+    "おにぎり",
+    "夜食"
+   ],
+   "tax_rate": 8,
+   "description": "鶏肉やにんじん、ごぼうなどの具を一緒に炊き込んだ電子レンジ対応の五目ごはんです。温めるだけで具だくさんの炊き込みご飯が食べられ、おにぎりやお弁当にも便利です。",
+   "image_brief": "Microwaveable plastic rice tray with film lid showing seasoned rice with chicken, carrot and burdock, label 「五目ごはん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産米使用 五目ごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 五目ごはん 160g×3食",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 鶏ごぼうごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 きのこごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 わかめごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 国産米 鯛めし 160g",
+     "brand": "トップバリュ セレクト",
+     "size": "160g",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産米使用 栗ごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_microwave_gomoku_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_microwave_sekihan",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "赤飯・おこわ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お祝い",
+    "お弁当",
+    "おにぎり",
+    "行事食"
+   ],
+   "tax_rate": 8,
+   "description": "国産もち米とささげをふっくら炊き上げた電子レンジ対応の赤飯です。温めてごま塩をふるだけで、お祝いの日や行事の食卓にすぐに用意できます。おにぎりにしてお弁当にもどうぞ。",
+   "image_brief": "Microwaveable plastic rice tray with film lid showing red bean sticky rice with a sesame salt sachet, label 「お赤飯」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産もち米使用 お赤飯 ごま塩付 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち米使用 お赤飯 ごま塩付 160g×2食",
+     "brand": "トップバリュ",
+     "size": "320g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち米使用 山菜おこわ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち米使用 栗おこわ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち米使用 五目おこわ 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ セレクト 北海道産小豆使用 お赤飯 180g",
+     "brand": "トップバリュ セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_microwave_sekihan_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_microwave_genmai",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "玄米・雑穀ご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "カレー",
+    "おにぎり"
+   ],
+   "tax_rate": 8,
+   "description": "国産玄米をやわらかく炊き上げた電子レンジ対応の玄米ごはんです。温めるだけで、プチプチとした食感と香ばしさが楽しめます。カレーや和食の献立にも合わせやすい味わいです。",
+   "image_brief": "Microwaveable plastic rice tray with film lid showing light brown cooked brown rice, label 「玄米ごはん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産玄米100% 玄米ごはん 160g",
+     "brand": "トップバリュ",
+     "size": "160g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米100% 玄米ごはん 160g×3食",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 378,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米100% 玄米ごはん 小盛 120g×4食",
+     "brand": "トップバリュ",
+     "size": "480g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ グリーンアイ オーガニック 有機玄米ごはん 160g",
+     "brand": "トップバリュ グリーンアイ オーガニック",
+     "size": "160g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産玄米100% 玄米ごはん 160g×6食",
+     "brand": "トップバリュ",
+     "size": "960g",
+     "price_tax_excluded": 728,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 五分づき米ごはん 国産米 180g×3食",
+     "brand": "トップバリュ",
+     "size": "540g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_microwave_genmai_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_microwave_mochimugi_rice",
+   "category_path": [
+    "お米・麺・インスタント",
+    "パックご飯・レンジご飯",
+    "玄米・雑穀ご飯"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "朝ごはん",
+    "お弁当",
+    "カレー",
+    "麦とろごはん"
+   ],
+   "tax_rate": 8,
+   "description": "国産米にもち麦や雑穀を合わせて炊き上げた、電子レンジ対応のパックごはんです。プチプチもちもちの食感で、カレーや麦とろごはん、お弁当にも合います。",
+   "image_brief": "Microwaveable plastic rice tray with film lid showing white rice mixed with plump barley grains, label 「もち麦ごはん」.",
+   "variants": [
+    {
+     "title": "トップバリュ 国産もち麦入り もち麦ごはん 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち麦入り もち麦ごはん 150g",
+     "brand": "トップバリュ",
+     "size": "150g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 十六穀米ごはん パック 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 麦ごはん 押し麦入り 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 358,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 国産もち麦入り もち麦ごはん 150g×6食",
+     "brand": "トップバリュ",
+     "size": "900g",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "トップバリュ 黒米入り 雑穀ごはん 150g×3食",
+     "brand": "トップバリュ",
+     "size": "450g",
+     "price_tax_excluded": 418,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_microwave_mochimugi_rice_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_deli_onigiri",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・お寿司",
+    "おにぎり"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦",
+    "卵"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "朝ごはん",
+    "お弁当",
+    "部活の補食"
+   ],
+   "tax_rate": 8,
+   "description": "店内で一つずつ握った、パリッとした海苔で巻くおにぎりです。鮭や梅、昆布、ツナマヨなど定番の具をそろえました。朝ごはんやお昼ごはん、子どもの部活の補食にもぴったりです。",
+   "image_brief": "Triangle onigiri in a clear film wrapper with separate nori, showing rice and filling with a small label 「手巻おにぎり 紅鮭」.",
+   "variants": [
+    {
+     "title": "[店内製造] 手巻おにぎり 紅鮭 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 手巻おにぎり 紀州南高梅 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 128,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 手巻おにぎり ツナマヨネーズ 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 手巻おにぎり 北海道産昆布佃煮 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 118,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 手巻おにぎり 辛子明太子 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 手巻おにぎり 塩むすび 1個",
+     "brand": "",
+     "size": "1個",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] おにぎり 3個パック（鮭・梅・昆布）",
+     "brand": "",
+     "size": "3個",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 焼きおにぎり しょうゆ味 2個入",
+     "brand": "",
+     "size": "2個",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_deli_onigiri_p.jpg"
+   ]
+  },
+  {
+   "base_id": "y_rice_retort_deli_inari_sushi",
+   "category_path": [
+    "お惣菜・ミールキット",
+    "おにぎり・お寿司",
+    "いなり・巻き寿司"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "小麦"
+   ],
+   "season_months": [],
+   "dishes": [
+    "お昼ごはん",
+    "運動会",
+    "行楽弁当",
+    "お彼岸"
+   ],
+   "tax_rate": 8,
+   "description": "甘辛く煮た油揚げに、ごまを混ぜた酢飯を詰めたいなり寿司です。お昼ごはんや行楽弁当、お彼岸のおもてなしにもぴったり。家族で分けやすいパック入りです。",
+   "image_brief": "Clear plastic tray of golden sweet tofu-pouch sushi arranged in rows with a small label 「いなり寿司」.",
+   "variants": [
+    {
+     "title": "[店内製造] いなり寿司 5個入",
+     "brand": "",
+     "size": "5個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 五目いなり寿司 4個入",
+     "brand": "",
+     "size": "4個",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] いなり寿司 10個入",
+     "brand": "",
+     "size": "10個",
+     "price_tax_excluded": 748,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] かんぴょう巻 2本入",
+     "brand": "",
+     "size": "2本",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] いなりと太巻き 助六寿司 1人前",
+     "brand": "",
+     "size": "1人前",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "[店内製造] 太巻き寿司 1本（8切）",
+     "brand": "",
+     "size": "1本",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "cc_images": [],
+   "images": [
+    "y_rice_retort_deli_inari_sushi_p.jpg"
+   ]
+  }
+ ]
+}

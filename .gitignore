@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+.env
+install/config.env
+install/.state/
+shared/*/DEPLOYMENT.env
+video/
+*/video/
+*.mp4
+*.webm
+.DS_Store

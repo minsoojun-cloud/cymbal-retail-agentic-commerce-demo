@@ -1,0 +1,815 @@
+{
+ "category_key": "k_kansai_local_veg",
+ "items": [
+  {
+   "base_id": "k_kansai_lv_komatsuna",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おひたし",
+    "炒め物",
+    "みそ汁"
+   ],
+   "tax_rate": 8,
+   "description": "シャキッとした歯ざわりの小松菜です。おひたし、炒め物、みそ汁の具に。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A fresh bunch of bright green komatsuna leafy greens tied with a plain paper band. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 小松菜 1束（生産者：西村農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 158,
+     "origin": "大阪府産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 小松菜 大束（生産者：西村農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "大束",
+     "price_tax_excluded": 238,
+     "origin": "大阪府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_komatsuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_kikuna",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "dishes": [
+    "すき焼き",
+    "鍋",
+    "白和え"
+   ],
+   "tax_rate": 8,
+   "description": "関西では「菊菜」と呼ばれる春菊です。香りがよく、すき焼きや鍋、白和えに欠かせません。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A fresh bunch of shungiku chrysanthemum greens with serrated leaves tied with a plain paper band. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 菊菜 1束（生産者：森田ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 178,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_kikuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_mizuna",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "はりはり鍋",
+    "サラダ",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "京都で古くから育てられてきた水菜。シャキシャキの食感で、はりはり鍋やサラダに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A tall bunch of feathery bright green mizuna greens with white stems. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 京水菜 1束（生産者：北川さんちの畑）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 198,
+     "origin": "京都府産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 京水菜 サラダ用 小束（生産者：北川さんちの畑）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "小束",
+     "price_tax_excluded": 128,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_mizuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_mibuna",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "漬物",
+    "おひたし",
+    "鍋"
+   ],
+   "tax_rate": 8,
+   "description": "京都の伝統野菜、壬生菜。ピリッとした辛みとさわやかな香りで、漬物やおひたし、鍋物に。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bunch of mibuna Japanese greens with long smooth narrow green leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 壬生菜 1束（生産者：北川さんちの畑）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 198,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_mibuna_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_spinach",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おひたし",
+    "ごま和え",
+    "ソテー"
+   ],
+   "tax_rate": 8,
+   "description": "根元が赤く甘みのあるほうれん草です。おひたし、ごま和え、ソテーに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bunch of fresh spinach with pink-red roots and dark green leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ ほうれん草 1束（生産者：岡本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 178,
+     "origin": "奈良県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_spinach_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_hakusai",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "鍋",
+    "浅漬け",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "ずっしり重く、葉がぎっしり詰まった白菜です。鍋物や浅漬け、煮物に。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A whole napa cabbage and a half napa cabbage cut showing tightly packed pale leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 白菜 1玉（生産者：藤井農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1玉",
+     "price_tax_excluded": 298,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 白菜 1/2カット（生産者：藤井農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1/2個",
+     "price_tax_excluded": 168,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_hakusai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_daikon",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "関東煮",
+    "ぶり大根",
+    "大根おろし"
+   ],
+   "tax_rate": 8,
+   "description": "みずみずしく甘みのある大根。関東煮やぶり大根、大根おろしに。葉付きでお届けします。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A whole white daikon radish with fresh green leaves attached and a half-cut daikon. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 葉付き大根 1本（生産者：中谷ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1本",
+     "price_tax_excluded": 198,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 大根 1/2カット（生産者：中谷ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1/2本",
+     "price_tax_excluded": 108,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_daikon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_kintoki",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お雑煮",
+    "おせち",
+    "煮しめ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかな赤色が特長の金時にんじん。甘みが強く、お雑煮やおせち、煮しめに彩りを添えます。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bundle of long deep-red kintoki carrots with a few leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 金時にんじん 2本（生産者：小西農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "2本",
+     "price_tax_excluded": 238,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_kintoki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_kabu",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "根菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "浅漬け",
+    "みそ汁",
+    "千枚漬け作り"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかで甘いかぶ。葉も一緒に、浅漬けやみそ汁、炊いたんに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bunch of small round white turnips with fresh green leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ かぶ 3個（生産者：宮本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "3個",
+     "price_tax_excluded": 198,
+     "origin": "滋賀県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 聖護院かぶ 1個（生産者：北川さんちの畑）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1個",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_kabu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_satoimo",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "いも類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "煮物",
+    "けんちん汁",
+    "関東煮"
+   ],
+   "tax_rate": 8,
+   "description": "ねっとりとした食感の里いも。煮っころがしやけんちん汁、関東煮に。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A small pile of brown hairy satoimo taro roots, one peeled showing white flesh. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 里いも 1袋（生産者：岡本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1袋",
+     "price_tax_excluded": 298,
+     "origin": "奈良県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_satoimo_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_satsuma",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "いも類"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "焼きいも",
+    "天ぷら",
+    "大学いも"
+   ],
+   "tax_rate": 8,
+   "description": "ほくほく甘いさつまいも。焼きいもや天ぷら、大学いもに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "Three purple-red sweet potatoes, one cut showing yellow flesh. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ さつまいも 1袋（生産者：藤井農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1袋",
+     "price_tax_excluded": 298,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_satsuma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_cabbage",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "葉物野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お好み焼き",
+    "千切り",
+    "炒め物"
+   ],
+   "tax_rate": 8,
+   "description": "葉がやわらかく甘いキャベツ。お好み焼きやたこ焼き、千切りに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A whole fresh green cabbage head with a half-cut cabbage beside it. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ キャベツ 1玉（生産者：中谷ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1玉",
+     "price_tax_excluded": 228,
+     "origin": "兵庫県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ キャベツ 1/2カット（生産者：中谷ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1/2個",
+     "price_tax_excluded": 128,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_cabbage_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_broccoli",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "お弁当",
+    "シチュー"
+   ],
+   "tax_rate": 8,
+   "description": "つぼみがぎゅっと締まったブロッコリー。ゆでてサラダやお弁当に。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A fresh deep green broccoli head with tight florets. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ ブロッコリー 1株（生産者：森田ファーム）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1株",
+     "price_tax_excluded": 198,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_broccoli_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_minitomato",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "果菜・花菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "お弁当",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "甘みと酸味のバランスがよいミニトマト。お弁当やサラダに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A clear plastic pack of shiny red cherry tomatoes with green calyxes. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ ミニトマト 1パック（生産者：小西農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1パック",
+     "price_tax_excluded": 298,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ カラフルミニトマト 1パック（生産者：小西農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1パック",
+     "price_tax_excluded": 348,
+     "origin": "奈良県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_minitomato_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_negi_aona",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "香味野菜"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "うどん",
+    "ねぎ焼",
+    "薬味"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく香りのよい青ねぎ。うどんやお好み焼き、ねぎ焼に欠かせない関西の定番です。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bunch of slender green onions with long hollow green tops. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 青ねぎ 1束（生産者：宮本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 158,
+     "origin": "滋賀県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_negi_aona_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_shiitake",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "きのこ"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "網焼き",
+    "天ぷら",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "原木で育てた肉厚のしいたけ。網焼き、天ぷら、炊いたんに。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A tray of thick fresh brown shiitake mushrooms with white gills visible. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 原木しいたけ 1パック（生産者：丹波山里きのこ園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1パック",
+     "price_tax_excluded": 398,
+     "origin": "京都府産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_shiitake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_kuromame_edamame",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "豆類"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11
+   ],
+   "dishes": [
+    "おつまみ",
+    "塩ゆで"
+   ],
+   "tax_rate": 8,
+   "description": "秋の短い期間だけ出回る、黒大豆の枝豆。粒が大きく、こくのある甘みが特長です。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A bunch of large fuzzy edamame pods on branches with dark-tinged beans. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 黒大豆の枝豆 枝付き 1束（生産者：丹波山里農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1束",
+     "price_tax_excluded": 598,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_kuromame_edamame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_egg_local",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "地元のたまご"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "卵かけごはん",
+    "だし巻き"
+   ],
+   "tax_rate": 8,
+   "description": "地元の養鶏場から毎朝届く、産みたてのたまごです。黄身の色が濃く、卵かけごはんにもおすすめ。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A clear pack of ten brown fresh eggs. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 産みたて たまご 10個入（生産者：やまびこ養鶏場）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "10個",
+     "price_tax_excluded": 298,
+     "origin": "兵庫県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_egg_local_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_persimmon",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "果物"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "デザート",
+    "白和え"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと甘い地元の柿。そのままはもちろん、白和えやサラダにも。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "Four glossy orange persimmons with green calyx leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 富有柿 4個（生産者：岡本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "4個",
+     "price_tax_excluded": 498,
+     "origin": "奈良県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 富有柿 1個（生産者：岡本農園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1個",
+     "price_tax_excluded": 138,
+     "origin": "奈良県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_persimmon_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "k_kansai_lv_mikan",
+   "category_path": [
+    "野菜・果物",
+    "地元やさい市場",
+    "果物"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おやつ",
+    "デザート"
+   ],
+   "tax_rate": 8,
+   "description": "甘みと酸味のバランスがよい、地元和歌山のみかん。皮がむきやすく、おやつにぴったり。関西近郊の契約生産者が朝採れした野菜を、その日のうちに店頭へ並べる「Cymbal 地元やさい市場」のコーナー商品です。生産者名を表示しており、鮮度と味わいにこだわっています。",
+   "image_brief": "A small net-free pile of bright orange mandarin oranges with a few leaves. Plain white or blank packaging only, absolutely no text, letters, numbers, logos or price stickers, studio packshot on a pure white seamless background.",
+   "labels": [
+    "生産者直送"
+   ],
+   "variants": [
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 有田みかん 1袋（生産者：海南みかん園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "1袋",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産"
+    },
+    {
+     "title": "Cymbal 地元やさい市場 朝採れ 有田みかん 箱 2.5kg（生産者：海南みかん園）",
+     "brand": "Cymbal 地元やさい市場",
+     "size": "2.5kg",
+     "price_tax_excluded": 1980,
+     "origin": "和歌山県産"
+    }
+   ],
+   "images": [
+    "k_kansai_lv_mikan_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}

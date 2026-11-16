@@ -1,0 +1,4199 @@
+{
+ "category_key": "w_dry_canned",
+ "items": [
+  {
+   "base_id": "w_dry_canned_white_tuna_solid",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ツナサラダ",
+    "サンドイッチ",
+    "ニソワーズサラダ",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "びんながまぐろを使ったホワイトツナのソリッドタイプ。身が白くしっとりとしていて、大きめの塊のままサラダやサンドイッチに使うと食べ応え十分。上品な味わいで、ちょっと贅沢な一皿に仕上がります。",
+   "image_brief": "A short round silver tuna can with a pull-tab lid and a plain cream-colored blank paper label, shown next to an opened can revealing a solid block of pale white tuna, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト ホワイトツナ ソリッド 油漬 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト ホワイトツナ ソリッド 油漬 70g×3缶",
+     "brand": "Cymbal セレクト",
+     "size": "70g×3缶",
+     "price_tax_excluded": 698,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト ホワイトツナ ソリッド 水煮 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "シーブリーズフーズ びんなが ホワイトツナ ソリッド 綿実油漬 80g",
+     "brand": "シーブリーズフーズ",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "静岡県製造"
+    },
+    {
+     "title": "シーブリーズフーズ びんなが ホワイトツナ ソリッド 綿実油漬 80g×4缶",
+     "brand": "シーブリーズフーズ",
+     "size": "80g×4缶",
+     "price_tax_excluded": 1180,
+     "origin": "静岡県製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_white_tuna_solid_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_katsuo_tuna_nonoil",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ツナサラダ",
+    "おにぎり",
+    "ツナマヨ",
+    "和え物"
+   ],
+   "tax_rate": 8,
+   "description": "かつおを使い、油を加えずに仕上げたノンオイルタイプのツナ。さっぱりとした味わいで、カロリーや脂質が気になる方のサラダや和え物にぴったり。汁ごと使えばスープの旨みにもなります。",
+   "image_brief": "A stack of three small flat silver tuna cans with plain light-blue blank labels bound with clear shrink film, studio packshot on white.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かつおツナ ノンオイル フレーク 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal かつおツナ ノンオイル フレーク 70g×6缶",
+     "brand": "Cymbal",
+     "size": "70g×6缶",
+     "price_tax_excluded": 578,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック かつおツナ ノンオイル フレーク 70g×4缶",
+     "brand": "Cymbal ベーシック",
+     "size": "70g×4缶",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal かつおツナ ノンオイル 食塩不使用 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 318,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "シーブリーズフーズ 国産かつお ノンオイルツナ 70g×3缶",
+     "brand": "シーブリーズフーズ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "静岡県製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_katsuo_tuna_nonoil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_tuna_chunk_oil",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "カレー",
+    "炊き込みご飯",
+    "肉じゃが風",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "ほぐしすぎない大きめのチャンク（ブロック）タイプのツナ油漬。煮物や炊き込みご飯に入れても身が崩れにくく、具材感がしっかり残ります。まとめ買いしやすい大容量缶もご用意しました。",
+   "image_brief": "An opened silver tuna can showing chunky pieces of tuna in oil beside an unopened can with a plain yellow blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ライトツナ チャンク 油漬 140g",
+     "brand": "Cymbal",
+     "size": "140g",
+     "price_tax_excluded": 278,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ベーシック ツナ チャンク 大容量 油漬 1kg",
+     "brand": "Cymbal ベーシック",
+     "size": "1kg",
+     "price_tax_excluded": 1680,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト きはだまぐろ ブロック 油漬 80g",
+     "brand": "Cymbal セレクト",
+     "size": "80g",
+     "price_tax_excluded": 258,
+     "origin": "静岡県製造"
+    },
+    {
+     "title": "Cymbal セレクト きはだまぐろ ブロック 油漬 80g×3缶",
+     "brand": "Cymbal セレクト",
+     "size": "80g×3缶",
+     "price_tax_excluded": 748,
+     "origin": "静岡県製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_tuna_chunk_oil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_tuna_seasoned",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "ツナ缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "ツナご飯",
+    "そうめんのせ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "しょうゆベースで甘辛く味付けしたツナ缶。開けてそのままご飯にのせるだけで一品になり、おにぎりの具や混ぜご飯にもおすすめ。しょうが入りやピリ辛など味違いも揃えました。",
+   "image_brief": "Three small round cans with plain brown blank labels, one opened showing glossy soy-simmered tuna flakes, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal まぐろ味付 フレーク しょうゆ味 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 328,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal まぐろ味付 フレーク しょうが入り 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal まぐろ味付 フレーク ピリ辛 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 348,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "シーブリーズフーズ かつお甘辛煮 ツナフレーク 70g",
+     "brand": "シーブリーズフーズ",
+     "size": "70g",
+     "price_tax_excluded": 158,
+     "origin": "静岡県製造"
+    },
+    {
+     "title": "シーブリーズフーズ かつお甘辛煮 ツナフレーク 70g×3缶",
+     "brand": "シーブリーズフーズ",
+     "size": "70g×3缶",
+     "price_tax_excluded": 448,
+     "origin": "静岡県製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_tuna_seasoned_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_tuna_olive_oil",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ツナ（オリーブオイル漬）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "ブルスケッタ",
+    "グリーンサラダ",
+    "ピザ"
+   ],
+   "tax_rate": 8,
+   "description": "エクストラバージンオリーブオイルに漬け込んだ洋風ツナ。オイルごとパスタに絡めれば手軽に本格的な味わいに。フルーティーなオイルの香りで、サラダやブルスケッタにもよく合います。",
+   "image_brief": "A slim glass jar of tuna chunks submerged in golden olive oil with a plain white blank label and a metal lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ツナ エクストラバージンオリーブオイル漬 瓶 190g",
+     "brand": "ボスコヴェルデ",
+     "size": "190g",
+     "price_tax_excluded": 598,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ ツナ エクストラバージンオリーブオイル漬 缶 80g",
+     "brand": "ボスコヴェルデ",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ ツナ エクストラバージンオリーブオイル漬 缶 80g×3缶",
+     "brand": "ボスコヴェルデ",
+     "size": "80g×3缶",
+     "price_tax_excluded": 848,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "Cymbal セレクト ツナ オリーブオイル漬 レモン&ハーブ 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 238,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト ツナ オリーブオイル漬 ガーリック 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 238,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_tuna_olive_oil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_saba_shoyu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "さば缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "そのままおかず",
+    "さば大根",
+    "混ぜご飯",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさばをしょうゆと砂糖で甘辛く煮付けた味付缶。骨までやわらかく、温めるだけでご飯がすすむおかずに。大根と一緒に煮ればさば大根も手軽に作れます。",
+   "image_brief": "A tall round silver can of seasoned mackerel with a plain dark-brown blank label, next to a small dish of glossy soy-simmered mackerel pieces, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 さば味付 しょうゆ煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal 国産 さば味付 しょうゆ煮 150g×3缶",
+     "brand": "Cymbal",
+     "size": "150g×3缶",
+     "price_tax_excluded": 578,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal ベーシック さば味付 しょうゆ煮 190g",
+     "brand": "Cymbal ベーシック",
+     "size": "190g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベイ缶詰 北海道産 寒さば しょうゆ煮 190g",
+     "brand": "ノースベイ缶詰",
+     "size": "190g",
+     "price_tax_excluded": 348,
+     "origin": "北海道産さば使用"
+    },
+    {
+     "title": "ノースベイ缶詰 金華さば 醤油煮 170g",
+     "brand": "ノースベイ缶詰",
+     "size": "170g",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産さば使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_saba_shoyu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_saba_western",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "さば缶（洋風）"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば"
+   ],
+   "season_months": [],
+   "dishes": [
+    "さばトマトパスタ",
+    "アヒージョ",
+    "バゲット",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "国産さばを洋風に仕立てたシリーズ。オリーブオイル漬やトマト煮、レモン&バジルなど、パスタやサラダにそのまま使える味付けです。おしゃれなおつまみやワインのお供にも。",
+   "image_brief": "A rectangular flat tin with rounded corners and a plain olive-green blank paper sleeve, beside an opened tin of mackerel fillets in oil, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト 国産さば オリーブオイル漬 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産さば トマト煮 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産さば レモン&バジル 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 318,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal セレクト 国産さば ガーリックペッパー 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 318,
+     "origin": "国産さば使用"
+    },
+    {
+     "title": "Cymbal さば オリーブオイル漬 170g",
+     "brand": "Cymbal",
+     "size": "170g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_saba_western_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_iwashi_ajitsuke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "いわし缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "そのままおかず",
+    "混ぜご飯",
+    "卵とじ",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "まいわしをしょうゆと生姜でじっくり煮付けた味付缶。骨までやわらかく、カルシウム源としても手軽です。しょうが煮や梅煮など、ご飯に合う和風の味付けを揃えました。",
+   "image_brief": "A round silver can of seasoned sardines with a plain navy-blue blank label and a small bowl of soy-simmered sardines beside it, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 いわし味付 しょうゆ煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 168,
+     "origin": "国産いわし使用"
+    },
+    {
+     "title": "Cymbal 国産 いわし しょうが煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産いわし使用"
+    },
+    {
+     "title": "Cymbal 国産 いわし 梅煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 188,
+     "origin": "国産いわし使用"
+    },
+    {
+     "title": "ノースベイ缶詰 銚子港水揚げ いわし醤油煮 100g",
+     "brand": "ノースベイ缶詰",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "千葉県産いわし使用"
+    },
+    {
+     "title": "Cymbal ベーシック いわし味付 しょうゆ煮 150g×3缶",
+     "brand": "Cymbal ベーシック",
+     "size": "150g×3缶",
+     "price_tax_excluded": 448,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_iwashi_ajitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_iwashi_kabayaki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "かば焼缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "かば焼丼",
+    "お弁当",
+    "おにぎり",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "香ばしく焼き上げたいわしを、甘辛いたれで仕上げたかば焼缶。温かいご飯にのせて山椒を振れば、手軽なかば焼丼のできあがり。お弁当のおかずにも重宝します。",
+   "image_brief": "A flat oval tin with a plain amber blank label beside an opened tin showing glazed grilled sardine fillets in thick sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いわし かば焼 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いわし かば焼 100g×3缶",
+     "brand": "Cymbal",
+     "size": "100g×3缶",
+     "price_tax_excluded": 488,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック いわし かば焼 100g",
+     "brand": "Cymbal ベーシック",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "ノースベイ缶詰 国産 真いわし かば焼 山椒入り 100g",
+     "brand": "ノースベイ缶詰",
+     "size": "100g",
+     "price_tax_excluded": 258,
+     "origin": "国産いわし使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_iwashi_kabayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sanma_kabayaki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "かば焼缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "さんま丼",
+    "お弁当",
+    "卵とじ",
+    "混ぜご飯"
+   ],
+   "tax_rate": 8,
+   "description": "脂ののったさんまを焼き上げ、甘辛いたれでふっくら仕上げた蒲焼缶。ご飯にのせて丼にしたり、卵でとじたりと使い道いろいろ。秋の味覚を一年中手軽に楽しめます。",
+   "image_brief": "A short oval tin with a plain deep-red blank label next to a small plate of glossy grilled saury fillets in sweet soy glaze, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal さんま 蒲焼 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さんま 蒲焼 100g×3缶",
+     "brand": "Cymbal",
+     "size": "100g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal さんま 蒲焼 骨までやわらか 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベイ缶詰 北海道産 さんま 蒲焼 100g",
+     "brand": "ノースベイ缶詰",
+     "size": "100g",
+     "price_tax_excluded": 278,
+     "origin": "北海道産さんま使用"
+    },
+    {
+     "title": "Cymbal ベーシック さんま 蒲焼 75g×3缶",
+     "brand": "Cymbal ベーシック",
+     "size": "75g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sanma_kabayaki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sanma_ajitsuke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "さんま缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "そのままおかず",
+    "混ぜご飯",
+    "大根おろし添え",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "秋に水揚げされたさんまを、しょうゆ味や味噌味で骨までやわらかく煮込みました。ふっくらした身に味がしっかり染みています。大根おろしを添えれば立派な一品に。",
+   "image_brief": "A tall round can with a plain charcoal-gray blank label and a small dish of simmered saury chunks, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 さんま味付 しょうゆ煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産さんま使用"
+    },
+    {
+     "title": "Cymbal 国産 さんま 味噌煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 178,
+     "origin": "国産さんま使用"
+    },
+    {
+     "title": "Cymbal 国産 さんま 水煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 168,
+     "origin": "国産さんま使用"
+    },
+    {
+     "title": "ノースベイ缶詰 根室港 さんま 醤油煮 180g",
+     "brand": "ノースベイ缶詰",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産さんま使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sanma_ajitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sake_nakabone",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "鮭缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "そのまま",
+    "混ぜご飯",
+    "鮭大根",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "鮭の中骨部分を、骨までほろほろにやわらかく水煮しました。そのままでも、ほぐしてご飯に混ぜても美味しく、カルシウム源として手軽に取り入れられます。大根や白菜との煮物にも。",
+   "image_brief": "A round silver can with a plain salmon-pink blank label next to an opened can showing tender salmon backbone pieces in broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 鮭中骨 水煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "Cymbal 北海道産 鮭中骨 水煮 150g×3缶",
+     "brand": "Cymbal",
+     "size": "150g×3缶",
+     "price_tax_excluded": 698,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "ノースベイ缶詰 鮭中骨 水煮 化学調味料不使用 180g",
+     "brand": "ノースベイ缶詰",
+     "size": "180g",
+     "price_tax_excluded": 328,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "ノースベイ缶詰 鮭中骨 味噌煮 170g",
+     "brand": "ノースベイ缶詰",
+     "size": "170g",
+     "price_tax_excluded": 328,
+     "origin": "北海道産さけ使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sake_nakabone_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sake_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "鮭缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "鮭フレークご飯",
+    "ちゃんちゃん焼き風",
+    "グラタン",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "鮭の身を皮や骨ごと水煮にした缶詰。素材そのものの味わいで、ほぐしてサラダやグラタン、炊き込みご飯の具に幅広く使えます。紅鮭はきれいな色で食卓を華やかにします。",
+   "image_brief": "A short squat can with a plain coral-orange blank label beside an opened can showing chunks of pink salmon meat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 さけ水煮 180g",
+     "brand": "Cymbal",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "Cymbal 北海道産 さけ水煮 90g",
+     "brand": "Cymbal",
+     "size": "90g",
+     "price_tax_excluded": 238,
+     "origin": "北海道産さけ使用"
+    },
+    {
+     "title": "Cymbal セレクト 紅鮭 水煮 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 548,
+     "origin": "ロシア産紅鮭使用"
+    },
+    {
+     "title": "Cymbal ベーシック ピンクサーモン 水煮 213g",
+     "brand": "Cymbal ベーシック",
+     "size": "213g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ産さけ使用"
+    },
+    {
+     "title": "ノースベイ缶詰 時鮭 水煮 骨取り 150g",
+     "brand": "ノースベイ缶詰",
+     "size": "150g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産さけ使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sake_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_salmon_flake_jar",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "ごはんのお供",
+    "鮭フレーク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さけ"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おにぎり",
+    "お茶漬け",
+    "お弁当",
+    "チャーハン"
+   ],
+   "tax_rate": 8,
+   "description": "焼いた鮭を丁寧にほぐして瓶に詰めた鮭フレーク。ほどよい塩加減でご飯にそのまま、おにぎりやお茶漬け、チャーハンにも。紅鮭やいくら入りなど食べ比べも楽しめます。",
+   "image_brief": "A small clear glass jar filled with flaky pink salmon with a red metal screw cap and a plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 焼鮭フレーク 瓶 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 焼鮭フレーク 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紅鮭フレーク 瓶 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト いくら入り 鮭フレーク 瓶 60g",
+     "brand": "Cymbal セレクト",
+     "size": "60g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック 鮭フレーク ほぐし 110g",
+     "brand": "Cymbal ベーシック",
+     "size": "110g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_salmon_flake_jar_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_asari_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "貝の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ボンゴレ",
+    "クラムチャウダー",
+    "深川めし",
+    "みそ汁"
+   ],
+   "tax_rate": 8,
+   "description": "ふっくらしたあさりのむき身を水煮にした缶詰。旨みたっぷりの煮汁ごと使えば、ボンゴレやクラムチャウダー、深川めしが手軽に本格的な味わいに。砂抜き不要で便利です。",
+   "image_brief": "A short round can with a plain pale-blue blank label next to an opened can showing small plump clam meats in cloudy broth, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal あさり水煮 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 248,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal あさり水煮 65g",
+     "brand": "Cymbal",
+     "size": "65g",
+     "price_tax_excluded": 158,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal あさり水煮 130g×3缶",
+     "brand": "Cymbal",
+     "size": "130g×3缶",
+     "price_tax_excluded": 698,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 あさり水煮 125g",
+     "brand": "Cymbal セレクト",
+     "size": "125g",
+     "price_tax_excluded": 498,
+     "origin": "国産あさり使用"
+    },
+    {
+     "title": "Cymbal ベーシック あさり水煮 徳用 400g",
+     "brand": "Cymbal ベーシック",
+     "size": "400g",
+     "price_tax_excluded": 598,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_asari_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_hotate_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "貝の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "炊き込みご飯",
+    "サラダ",
+    "中華スープ",
+    "茶碗蒸し"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産ほたて貝柱をほぐして水煮にしました。甘みのある身と旨みたっぷりの汁は、炊き込みご飯やあんかけ、中華スープにおすすめ。年末年始のちょっと贅沢な料理にも。",
+   "image_brief": "A round can with a plain ivory blank label next to a small glass bowl of shredded scallop meat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 ほたて貝柱 水煮 フレーク 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal 北海道産 ほたて貝柱 水煮 フレーク 125g",
+     "brand": "Cymbal",
+     "size": "125g",
+     "price_tax_excluded": 598,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 ほたて貝柱 水煮 ホール 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 1280,
+     "origin": "北海道産ほたて使用"
+    },
+    {
+     "title": "ノースベイ缶詰 オホーツク ほたて貝柱 水煮 割り身 105g",
+     "brand": "ノースベイ缶詰",
+     "size": "105g",
+     "price_tax_excluded": 798,
+     "origin": "北海道産ほたて使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_hotate_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_kani_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "かに缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "かに"
+   ],
+   "season_months": [
+    11,
+    12
+   ],
+   "dishes": [
+    "かに玉",
+    "かに炒飯",
+    "サラダ",
+    "お正月料理"
+   ],
+   "tax_rate": 8,
+   "description": "紅ずわいがにの身をほぐして詰めたかに缶。かに玉や炒飯、サラダに加えるだけで華やかなごちそうに。脚肉入りの上級品は年末年始の贈りものやおせちにもおすすめです。",
+   "image_brief": "A short wide round can with a plain red-and-white blank label next to an opened can showing shredded red crab meat on parchment, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 紅ずわいがに ほぐし身 55g",
+     "brand": "Cymbal",
+     "size": "55g",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 紅ずわいがに ほぐし身 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 898,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 紅ずわいがに 脚肉入り 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 1480,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベイ缶詰 かにほぐし身 フレーク 110g",
+     "brand": "ノースベイ缶詰",
+     "size": "110g",
+     "price_tax_excluded": 698,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_kani_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_ika_ajitsuke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "いか缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "いか",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "いか大根",
+    "炊き込みご飯",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかいいかをしょうゆベースのたれで煮付けた味付缶。噛むほどに旨みが広がり、おつまみや一品おかずにぴったり。大根と一緒に温めれば手軽ないか大根に。",
+   "image_brief": "A small round can with a plain cream blank label beside a dish of sliced squid rings in soy glaze, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal いか味付 しょうゆ煮 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いか味付 しょうゆ煮 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 698,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal いか 生姜煮 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 258,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ノースベイ缶詰 函館 するめいか 醤油煮 80g",
+     "brand": "ノースベイ缶詰",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産いか使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_ika_ajitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_akagai_ajitsuke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "貝の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "酢の物",
+    "炊き込みご飯",
+    "晩酌"
+   ],
+   "tax_rate": 8,
+   "description": "赤貝（さるぼう）をしょうゆと砂糖で甘辛く煮付けた昔ながらの味付缶。コリッとした歯ごたえと濃いめの味つけで、晩酌のおつまみや、ご飯のお供に人気です。",
+   "image_brief": "A small round silver can with a plain maroon blank label next to a dish of dark soy-simmered ark clams, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 赤貝 味付 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 178,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 赤貝 味付 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 498,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 赤貝 味付 ピリ辛 70g",
+     "brand": "Cymbal",
+     "size": "70g",
+     "price_tax_excluded": 188,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シーブリーズフーズ 赤貝 味付 大粒 130g",
+     "brand": "シーブリーズフーズ",
+     "size": "130g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_akagai_ajitsuke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_kaki_shoyu_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "貝の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "かきご飯",
+    "おつまみ",
+    "炒めもの",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "ぷりっとした牡蠣をしょうゆで甘辛く煮付けた缶詰。牡蠣の旨みが凝縮されていて、炊き込みご飯の具やおつまみにぴったり。旬の冬に味わいたい、手軽なごちそう缶です。",
+   "image_brief": "A flat rectangular tin with a plain dark-green blank label beside an opened tin showing plump glossy brown oysters, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal かき しょうゆ煮 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 広島県産 かき しょうゆ煮 85g",
+     "brand": "Cymbal セレクト",
+     "size": "85g",
+     "price_tax_excluded": 598,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "Cymbal セレクト 広島県産 かき アヒージョ 85g",
+     "brand": "Cymbal セレクト",
+     "size": "85g",
+     "price_tax_excluded": 598,
+     "origin": "広島県産かき使用"
+    },
+    {
+     "title": "シーブリーズフーズ 三陸産 かき 甘辛煮 70g",
+     "brand": "シーブリーズフーズ",
+     "size": "70g",
+     "price_tax_excluded": 498,
+     "origin": "宮城県産かき使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_kaki_shoyu_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_mussel_olive",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ムール貝・貝の洋風缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パエリア",
+    "パスタ",
+    "ワインのおつまみ",
+    "サラダ"
+   ],
+   "tax_rate": 8,
+   "description": "ムール貝のむき身をオリーブオイルやエスカベッシュ風のソースに漬け込んだ洋風缶。そのままワインのおつまみに、パエリアやパスタに加えて海の香りをプラスできます。",
+   "image_brief": "A rectangular flat tin with a plain teal blank paper sleeve beside an opened tin showing orange mussel meats in oil, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ムール貝 オリーブオイル漬 111g",
+     "brand": "ボスコヴェルデ",
+     "size": "111g",
+     "price_tax_excluded": 398,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ ムール貝 エスカベッシュ 111g",
+     "brand": "ボスコヴェルデ",
+     "size": "111g",
+     "price_tax_excluded": 428,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ ムール貝 トマトソース 111g",
+     "brand": "ボスコヴェルデ",
+     "size": "111g",
+     "price_tax_excluded": 428,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "Cymbal ムール貝 むき身 水煮 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 298,
+     "origin": "チリ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_mussel_olive_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_smoked_fish_oil",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "スモークオイスター・燻製缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "さば"
+   ],
+   "season_months": [
+    9,
+    10,
+    11
+   ],
+   "dishes": [
+    "おつまみ",
+    "サンドイッチ",
+    "サラダ",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "青魚を桜のチップで燻製にしてからオリーブオイルに漬けた燻製缶。スモーキーな香りと程よい脂が楽しめ、バゲットにのせても、パスタやポテトサラダに加えても美味しい一品です。",
+   "image_brief": "A flat rectangular tin with rounded corners and a plain brown kraft blank label, an opened tin beside it showing smoked fish fillets in oil, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal セレクト さんま燻製 オリーブオイル漬 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト いわし燻製 オリーブオイル漬 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト さば燻製 オリーブオイル漬 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "シーブリーズフーズ 三陸 さんまの燻製 オイル漬 90g",
+     "brand": "シーブリーズフーズ",
+     "size": "90g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_smoked_fish_oil_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_chicken_sasami_flake",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "サンドイッチ",
+    "棒棒鶏",
+    "冷やし中華"
+   ],
+   "tax_rate": 8,
+   "description": "国産鶏のささみをほぐして水煮にしたチキンフレーク。高たんぱくで脂質が少なく、サラダやサンドイッチにそのまま使えます。下ごしらえいらずで、忙しい日の時短食材に。",
+   "image_brief": "Three small round cans with plain white-and-green blank labels bound together, one opened showing shredded white chicken breast meat, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 とりささみ フレーク 食塩無添加 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal 国産 とりささみ フレーク 70g×3缶",
+     "brand": "Cymbal",
+     "size": "70g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal 国産 とりささみ フレーク 70g×6缶",
+     "brand": "Cymbal",
+     "size": "70g×6缶",
+     "price_tax_excluded": 768,
+     "origin": "国産鶏肉使用"
+    },
+    {
+     "title": "Cymbal ベーシック チキンフレーク 水煮 80g×3缶",
+     "brand": "Cymbal ベーシック",
+     "size": "80g×3缶",
+     "price_tax_excluded": 328,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 とりむね ほぐし身 オリーブオイル漬 70g",
+     "brand": "Cymbal セレクト",
+     "size": "70g",
+     "price_tax_excluded": 198,
+     "origin": "国産鶏肉使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_chicken_sasami_flake_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_gyusuji_nikomi",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "牛肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "おつまみ",
+    "牛すじ丼",
+    "おでん",
+    "カレーの具"
+   ],
+   "tax_rate": 8,
+   "description": "牛すじをしょうゆベースで甘辛くとろとろに煮込んだ缶詰。プルプルの食感と濃いめの味わいで、そのままおつまみに、ご飯にのせて丼にも。おでんやカレーに加えればコクが増します。",
+   "image_brief": "A medium round can with a plain dark-brown blank label next to a small bowl of tender simmered beef tendon in glossy sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 牛すじ煮込み しょうゆ味 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牛すじ煮込み 味噌味 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 牛すじ煮込み ピリ辛 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産牛すじ 土手煮 160g",
+     "brand": "Cymbal セレクト",
+     "size": "160g",
+     "price_tax_excluded": 498,
+     "origin": "国産牛肉使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_gyusuji_nikomi_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_buta_kakuni_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "豚肉",
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "角煮丼",
+    "おつまみ",
+    "ラーメンの具",
+    "中華まん"
+   ],
+   "tax_rate": 8,
+   "description": "豚ばら肉をじっくり煮込み、甘辛いたれで仕上げた角煮缶。箸で切れるほどやわらかく、温めるだけで本格的な角煮が楽しめます。ご飯にのせても、ラーメンの具にも。",
+   "image_brief": "A short wide can with a plain amber-brown blank label beside an opened can showing cubes of glossy braised pork belly, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 豚角煮 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 豚角煮 黒酢仕立て 160g",
+     "brand": "Cymbal",
+     "size": "160g",
+     "price_tax_excluded": 368,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産豚 とろとろ角煮 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 498,
+     "origin": "国産豚肉使用"
+    },
+    {
+     "title": "Cymbal セレクト 沖縄風 ラフテー 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 548,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_buta_kakuni_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_pork_beans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ポークビーンズ・ベイクドビーンズ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "豚肉",
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ポークビーンズ",
+    "トースト",
+    "イングリッシュブレックファスト",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "白いんげん豆をトマトソースで甘く煮込んだベイクドビーンズと、豚肉と大豆を加えたポークビーンズ。トーストにのせたり、朝食のプレートに添えたり。温めるだけで洋風の一品に。",
+   "image_brief": "A tall round can with a plain tomato-red blank label next to a small bowl of baked beans in tomato sauce, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ポークビーンズ 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ポークビーンズ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "ボスコヴェルデ ベイクドビーンズ トマトソース 415g",
+     "brand": "ボスコヴェルデ",
+     "size": "415g",
+     "price_tax_excluded": 198,
+     "origin": "イギリス製造"
+    },
+    {
+     "title": "ボスコヴェルデ ベイクドビーンズ 減糖タイプ 415g",
+     "brand": "ボスコヴェルデ",
+     "size": "415g",
+     "price_tax_excluded": 218,
+     "origin": "イギリス製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_pork_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_vienna_sausage_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "肉の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "豚肉",
+    "鶏肉"
+   ],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ポトフ",
+    "ホットドッグ",
+    "非常食"
+   ],
+   "tax_rate": 8,
+   "description": "ひと口サイズのウインナーをブイヨンで煮込んだ缶詰。開けてすぐ食べられ、ポトフや炒め物に加えても便利です。長期保存がきくので、ローリングストックの非常食にもおすすめ。",
+   "image_brief": "A small round can with a plain orange blank label beside an opened can showing rows of small pale cocktail sausages, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ウインナーソーセージ ブイヨン煮 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ウインナーソーセージ ブイヨン煮 130g×3缶",
+     "brand": "Cymbal",
+     "size": "130g×3缶",
+     "price_tax_excluded": 558,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ウインナーソーセージ チキン 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 178,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "シーブリーズフーズ スモークウインナー 缶 200g",
+     "brand": "シーブリーズフーズ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_vienna_sausage_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_cream_corn",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "コーン缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "コーンポタージュ",
+    "コーンスープ",
+    "グラタン",
+    "コロッケ"
+   ],
+   "tax_rate": 8,
+   "description": "スイートコーンを裏ごしした粒入りのクリームスタイル。牛乳でのばすだけで甘くなめらかなコーンスープが作れます。グラタンやコロッケ、パンケーキの生地にも使えます。",
+   "image_brief": "A tall round can with a plain sunny-yellow blank label next to a white bowl of creamy corn soup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal クリームコーン 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 118,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal クリームコーン 435g",
+     "brand": "Cymbal",
+     "size": "435g",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal クリームコーン 190g×3缶",
+     "brand": "Cymbal",
+     "size": "190g×3缶",
+     "price_tax_excluded": 338,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 クリームスタイルコーン 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 238,
+     "origin": "北海道産とうもろこし使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 クリームコーン 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_cream_corn_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_corn_pouch",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "コーン缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "コーンサラダ",
+    "バターコーン",
+    "コーンご飯",
+    "ピザ"
+   ],
+   "tax_rate": 8,
+   "description": "缶切りいらずで使いやすいパウチ入りのスイートコーン。水を加えず蒸し上げているので、粒の甘みと食感がしっかり残っています。サラダやバターコーン、コーンご飯にどうぞ。",
+   "image_brief": "Three small flat stand-up retort pouches in pale yellow with blank labels, one opened showing bright yellow corn kernels, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal スイートコーン 粒 パウチ 120g×3袋",
+     "brand": "Cymbal",
+     "size": "120g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal スイートコーン 粒 パウチ 50g×3袋",
+     "brand": "Cymbal",
+     "size": "50g×3袋",
+     "price_tax_excluded": 168,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 蒸しとうもろこし 粒 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産とうもろこし使用"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 スイートコーン パウチ 125g",
+     "brand": "Cymbal オーガニック",
+     "size": "125g",
+     "price_tax_excluded": 228,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_corn_pouch_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_baby_corn",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "ヤングコーン水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "八宝菜",
+    "サラダ",
+    "中華炒め",
+    "ピクルス"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかくコリッとした食感のヤングコーンを水煮にしました。八宝菜や中華炒め、サラダの彩りに便利。下ゆで不要でそのまま使えます。",
+   "image_brief": "A clear glass jar of pale yellow baby corn cobs in liquid with a plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ヤングコーン 水煮 缶 425g（固形量200g）",
+     "brand": "Cymbal",
+     "size": "425g（固形量200g）",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ヤングコーン 水煮 パウチ 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ヤングコーン カット 水煮 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 148,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト ヤングコーン ホール 瓶 300g",
+     "brand": "Cymbal セレクト",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_baby_corn_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_white_asparagus",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "アスパラガス缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "サラダ",
+    "オードブル",
+    "グラタン",
+    "ポタージュ"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく仕上げたホワイトアスパラガスの缶詰・瓶詰。そのままマヨネーズを添えてサラダやオードブルに。ほどよい甘みと香りで、おもてなしの前菜にもおすすめです。",
+   "image_brief": "A tall slim glass jar filled with straight white asparagus spears in brine with a plain cream blank label and a gold lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ホワイトアスパラガス 缶 250g（固形量150g）",
+     "brand": "Cymbal",
+     "size": "250g（固形量150g）",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト ホワイトアスパラガス 瓶 330g",
+     "brand": "Cymbal セレクト",
+     "size": "330g",
+     "price_tax_excluded": 498,
+     "origin": "ペルー製造"
+    },
+    {
+     "title": "Cymbal セレクト ホワイトアスパラガス 極太 瓶 330g",
+     "brand": "Cymbal セレクト",
+     "size": "330g",
+     "price_tax_excluded": 698,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "Cymbal ホワイトアスパラガス チップス 缶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_white_asparagus_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_green_peas",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "野菜の缶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "グリーンピースご飯",
+    "シューマイ",
+    "オムライス",
+    "ミックス野菜炒め"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかな緑色のグリーンピースを水煮にしました。シューマイやオムライスの彩り、豆ご飯に便利です。人参やコーンと合わせたミックスベジタブル缶もご用意。",
+   "image_brief": "A small round can with a plain green blank label next to a small dish of bright green peas, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal グリーンピース 水煮 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 98,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal グリーンピース 水煮 85g×3缶",
+     "brand": "Cymbal",
+     "size": "85g×3缶",
+     "price_tax_excluded": 278,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミックスベジタブル 水煮 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 138,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 グリーンピース 水煮 110g",
+     "brand": "Cymbal セレクト",
+     "size": "110g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_canned_green_peas_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_cherry_tomato_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "トマト缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トマトパスタ",
+    "ラタトゥイユ",
+    "煮込みハンバーグ",
+    "アクアパッツァ"
+   ],
+   "tax_rate": 8,
+   "description": "甘みの強いミニトマトを丸ごと詰めたチェリートマト缶。煮込んでもトマトの形が残り、パスタやアクアパッツァの見た目を華やかにします。酸味がまろやかで、そのままでも美味しくいただけます。",
+   "image_brief": "A tall round can with a plain red blank label beside an opened can full of small whole cherry tomatoes in juice, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ チェリートマト ホール 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ チェリートマト ホール 缶 400g×3缶",
+     "brand": "ボスコヴェルデ",
+     "size": "400g×3缶",
+     "price_tax_excluded": 568,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 チェリートマト 缶 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ 黄色いチェリートマト 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_cherry_tomato_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_tomato_carton",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "缶詰",
+    "トマト缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "トマトソース",
+    "ミネストローネ",
+    "カレー",
+    "ロールキャベツ"
+   ],
+   "tax_rate": 8,
+   "description": "缶ではなく紙パックや瓶に詰めたトマト。開けやすく捨てやすいので、毎日の料理に気軽に使えます。こしたなめらかなパッサータや、細かく刻んだダイスタイプなど用途で選べます。",
+   "image_brief": "A rectangular paper carton with a screw cap in plain red-and-white blank design, next to a bowl of tomato passata, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal トマトパッサータ 紙パック 500g",
+     "brand": "Cymbal",
+     "size": "500g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal トマトパッサータ 瓶 690g",
+     "brand": "Cymbal",
+     "size": "690g",
+     "price_tax_excluded": 298,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ダイストマト 紙パック 390g",
+     "brand": "Cymbal",
+     "size": "390g",
+     "price_tax_excluded": 178,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 トマトパッサータ 瓶 680g",
+     "brand": "Cymbal オーガニック",
+     "size": "680g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 完熟トマト ストレート 紙パック 380g",
+     "brand": "Cymbal セレクト",
+     "size": "380g",
+     "price_tax_excluded": 348,
+     "origin": "国産トマト使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_tomato_carton_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_ginnan_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "ぎんなん水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "茶碗蒸し",
+    "がんもどき",
+    "炊き込みご飯",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "下ごしらえ済みで殻をむく手間がいらないぎんなん水煮。鮮やかな色ともっちりした食感で、茶碗蒸しや炊き込みご飯の彩りに便利です。秋冬の和食やおせちにもどうぞ。",
+   "image_brief": "A small clear retort pouch of bright yellow-green ginkgo nuts with a plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ぎんなん水煮 パウチ 50g",
+     "brand": "Cymbal",
+     "size": "50g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ぎんなん水煮 缶 85g",
+     "brand": "Cymbal",
+     "size": "85g",
+     "price_tax_excluded": 248,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 愛知県産 ぎんなん水煮 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "愛知県産"
+    },
+    {
+     "title": "Cymbal セレクト 大分県産 ぎんなん水煮 40g",
+     "brand": "Cymbal セレクト",
+     "size": "40g",
+     "price_tax_excluded": 398,
+     "origin": "大分県産"
+    }
+   ],
+   "images": [
+    "w_dry_canned_ginnan_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sansai_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "山菜水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "山菜そば",
+    "山菜おこわ",
+    "炊き込みご飯",
+    "煮物"
+   ],
+   "tax_rate": 8,
+   "description": "わらびやぜんまい、ふきなどの山菜を下ゆでして水煮にしました。アク抜き不要で、山菜そばやおこわ、煮物にすぐ使えます。単品のわらびやふきもご用意しています。",
+   "image_brief": "A clear plastic retort pouch filled with mixed brown-green mountain vegetables in liquid with a plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 山菜ミックス 水煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal わらび 水煮 120g",
+     "brand": "Cymbal",
+     "size": "120g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ふき 水煮 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 山菜ミックス 水煮 120g",
+     "brand": "Cymbal セレクト",
+     "size": "120g",
+     "price_tax_excluded": 348,
+     "origin": "山形県産"
+    },
+    {
+     "title": "Cymbal ぜんまい 水煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sansai_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_nameko_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "きのこ水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "なめこ汁",
+    "おろし和え",
+    "炊き込みご飯",
+    "あんかけ"
+   ],
+   "tax_rate": 8,
+   "description": "ぬめりと食感が楽しいなめこやきのこを水煮にしました。みそ汁や大根おろし和え、あんかけに。冷蔵品より日持ちするので、買い置きに便利です。",
+   "image_brief": "A clear glass jar filled with glossy orange-brown nameko mushrooms in liquid with a plain white blank label and gold lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal なめこ水煮 瓶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ミックスきのこ水煮 パウチ 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ふくろたけ 水煮 缶 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 大粒なめこ 水煮 瓶 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 348,
+     "origin": "山形県産"
+    }
+   ],
+   "images": [
+    "w_dry_canned_nameko_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_renkon_mizuni",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "根菜水煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    10,
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "筑前煮",
+    "きんぴら",
+    "煮しめ",
+    "おせち"
+   ],
+   "tax_rate": 8,
+   "description": "れんこんやごぼう、里芋などの根菜を下ゆでして水煮にしました。皮むきやアク抜きの手間が省け、筑前煮やきんぴらがすぐに作れます。年末の煮しめ作りにもおすすめです。",
+   "image_brief": "A clear plastic pouch of sliced lotus root and cut burdock in liquid with a plain beige blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ごぼう 水煮 ささがき 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 里いも 水煮 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 248,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 筑前煮の具 水煮 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 れんこん 水煮 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "国産"
+    }
+   ],
+   "images": [
+    "w_dry_canned_renkon_mizuni_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_uzura_egg",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "水煮・缶詰",
+    "うずら卵水煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "卵"
+   ],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "八宝菜",
+    "おでん",
+    "串揚げ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "殻をむく手間がいらない、うずら卵の水煮。八宝菜や中華丼、おでんの具に加えるだけで見た目も華やかになります。お弁当のおかずやピック刺しにも便利です。",
+   "image_brief": "A clear plastic pouch filled with small peeled white quail eggs in liquid with a plain yellow blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal うずら卵 水煮 缶 12個入",
+     "brand": "Cymbal",
+     "size": "12個入",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 うずら卵 燻製 6個入",
+     "brand": "Cymbal セレクト",
+     "size": "6個入",
+     "price_tax_excluded": 248,
+     "origin": "愛知県製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_uzura_egg_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_coconut_milk",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ココナッツミルク"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "グリーンカレー",
+    "トムカーガイ",
+    "タピオカデザート",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "完熟ココナッツの果肉から搾ったココナッツミルク。グリーンカレーやトムカーガイなどのエスニック料理に欠かせない、コクと甘い香りが特徴です。デザートやドリンクにも。",
+   "image_brief": "A tall round can with a plain white-and-green blank label next to a half coconut and a small bowl of white coconut milk, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ココナッツミルク 400ml",
+     "brand": "Cymbal",
+     "size": "400ml",
+     "price_tax_excluded": 198,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal ココナッツミルク 165ml",
+     "brand": "Cymbal",
+     "size": "165ml",
+     "price_tax_excluded": 118,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ココナッツミルク 400ml",
+     "brand": "Cymbal オーガニック",
+     "size": "400ml",
+     "price_tax_excluded": 348,
+     "origin": "スリランカ製造"
+    },
+    {
+     "title": "Cymbal セレクト ココナッツクリーム 濃厚 400ml",
+     "brand": "Cymbal セレクト",
+     "size": "400ml",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_coconut_milk_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_yude_azuki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "あずき・甘納豆",
+    "ゆであずき"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ぜんざい",
+    "おしるこ",
+    "トースト",
+    "白玉あずき"
+   ],
+   "tax_rate": 8,
+   "description": "北海道産小豆をふっくらと甘く炊き上げたゆであずき缶。温めて白玉や餅を入れれば手軽にぜんざいが楽しめます。トーストやアイス、かき氷のトッピングにも。",
+   "image_brief": "A tall round can with a plain deep-red blank label beside a small bowl of sweet red beans with white mochi, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産小豆使用 ゆであずき 430g",
+     "brand": "Cymbal",
+     "size": "430g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 北海道産小豆使用 ゆであずき 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 168,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ゆであずき 甘さひかえめ 430g",
+     "brand": "Cymbal",
+     "size": "430g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal ベーシック ゆであずき 430g",
+     "brand": "Cymbal ベーシック",
+     "size": "430g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 十勝産 大納言 ゆであずき 400g",
+     "brand": "Cymbal セレクト",
+     "size": "400g",
+     "price_tax_excluded": 498,
+     "origin": "北海道十勝産小豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_yude_azuki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_nimame_kintoki",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "煮豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "お弁当",
+    "常備菜",
+    "おせち",
+    "朝ごはん"
+   ],
+   "tax_rate": 8,
+   "description": "金時豆やうずら豆、白花豆をふっくら甘く炊き上げた煮豆。開けてすぐ食べられ、お弁当や常備菜に重宝します。素材の豆の風味を大切に、やさしい甘さで仕上げました。",
+   "image_brief": "A small clear plastic tray of glossy sweet simmered red kidney beans sealed with film and a plain blank paper band, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 うずら豆 煮豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "北海道産豆使用"
+    },
+    {
+     "title": "Cymbal 北海道産 白花豆 煮豆 130g",
+     "brand": "Cymbal",
+     "size": "130g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産豆使用"
+    },
+    {
+     "title": "Cymbal 五目豆 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 北海道産 大正金時 ふっくら煮豆 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 298,
+     "origin": "北海道産豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_nimame_kintoki_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_kuromame_nimame",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆類",
+    "黒豆煮"
+   ],
+   "storage_type": "冷蔵食品",
+   "allergens": [
+    "大豆"
+   ],
+   "season_months": [
+    11,
+    12,
+    1
+   ],
+   "dishes": [
+    "おせち",
+    "お正月",
+    "お茶請け",
+    "黒豆パン"
+   ],
+   "tax_rate": 8,
+   "description": "黒大豆をしわなくふっくらと甘く煮含めた黒豆。おせちの定番として、年末年始の食卓に欠かせない一品です。丹波産の大粒タイプや、使い切りの小分けパックも揃えました。",
+   "image_brief": "A clear plastic tray of glossy black soybeans in syrup sealed with film beside a lacquered small bowl, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 北海道産 黒豆煮 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 248,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 北海道産 黒豆煮 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 448,
+     "origin": "北海道産黒大豆使用"
+    },
+    {
+     "title": "Cymbal 黒豆煮 小分け 60g×3袋",
+     "brand": "Cymbal",
+     "size": "60g×3袋",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒 黒豆煮 大粒 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 980,
+     "origin": "兵庫県産黒大豆使用"
+    },
+    {
+     "title": "Cymbal セレクト 丹波黒 黒豆煮 金箔入り 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 1280,
+     "origin": "兵庫県産黒大豆使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_kuromame_nimame_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_white_beans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆・豆の水煮",
+    "白いんげん豆・大福豆"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ミネストローネ",
+    "カスレ",
+    "白いんげんサラダ",
+    "ポタージュ"
+   ],
+   "tax_rate": 8,
+   "description": "白いんげん豆をやわらかく水煮にしました。ほっくりとした食感とクセのない味わいで、ミネストローネやカスレ、サラダ、ポタージュなど洋風料理に重宝します。",
+   "image_brief": "A round can with a plain ivory blank label next to a small bowl of creamy white cannellini beans, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ 白いんげん豆 水煮 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ クランベリービーンズ 水煮 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 198,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal 北海道産 大福豆 水煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "北海道産"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 白いんげん豆 水煮 缶 400g",
+     "brand": "Cymbal オーガニック",
+     "size": "400g",
+     "price_tax_excluded": 278,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_white_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_black_beans",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "豆・豆の水煮",
+    "黒いんげん豆・その他"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ブラックビーンズライス",
+    "タコス",
+    "サラダ",
+    "スープ"
+   ],
+   "tax_rate": 8,
+   "description": "中南米料理でおなじみの黒いんげん豆（ブラックビーンズ）や、つぶして炒めたリフライドビーンズ。タコスやブリトー、サラダのトッピングにぴったりです。",
+   "image_brief": "A round can with a plain black blank label beside a small bowl of glossy black beans, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ブラックビーンズ 水煮 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 228,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ブラックビーンズ 水煮 380g",
+     "brand": "Cymbal オーガニック",
+     "size": "380g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "ボスコヴェルデ リフライドビーンズ 缶 430g",
+     "brand": "ボスコヴェルデ",
+     "size": "430g",
+     "price_tax_excluded": 348,
+     "origin": "メキシコ製造"
+    },
+    {
+     "title": "Cymbal 黒いんげん豆 ドライパック 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 158,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_black_beans_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_mikan_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "みかん缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "フルーツポンチ",
+    "みかんゼリー",
+    "ヨーグルトのせ",
+    "杏仁豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "国産みかんの房をひとつずつ丁寧にむいて、シロップに漬けました。つるんとした食感とやさしい甘さで、そのままはもちろんゼリーやフルーツポンチにも。果汁仕立てのタイプも揃えました。",
+   "image_brief": "A round can with a plain orange blank label beside a glass dessert bowl of peeled mandarin orange segments in syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 みかん シラップづけ 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 168,
+     "origin": "国産みかん使用"
+    },
+    {
+     "title": "Cymbal 国産 みかん シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 298,
+     "origin": "国産みかん使用"
+    },
+    {
+     "title": "Cymbal ベーシック みかん シラップづけ 425g",
+     "brand": "Cymbal ベーシック",
+     "size": "425g",
+     "price_tax_excluded": 198,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 国産 みかん 果汁づけ 295g",
+     "brand": "Cymbal",
+     "size": "295g",
+     "price_tax_excluded": 248,
+     "origin": "国産みかん使用"
+    },
+    {
+     "title": "Cymbal セレクト 有田みかん 果汁づけ 瓶 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 498,
+     "origin": "和歌山県産みかん使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_mikan_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_yellow_peach_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "もも缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "フルーツポンチ",
+    "パフェ",
+    "タルト",
+    "ヨーグルトのせ"
+   ],
+   "tax_rate": 8,
+   "description": "しっかりした果肉と濃い甘さが特徴の黄桃缶。半割りやスライスで、そのままデザートにはもちろん、タルトやパフェのトッピング、ゼリー作りにも重宝します。",
+   "image_brief": "A tall round can with a plain golden-yellow blank label next to a glass bowl of yellow peach halves in syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 黄桃 2つ割り シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 248,
+     "origin": "南アフリカ製造"
+    },
+    {
+     "title": "Cymbal 黄桃 2つ割り シラップづけ 820g",
+     "brand": "Cymbal",
+     "size": "820g",
+     "price_tax_excluded": 448,
+     "origin": "南アフリカ製造"
+    },
+    {
+     "title": "Cymbal 黄桃 スライス シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 248,
+     "origin": "ギリシャ製造"
+    },
+    {
+     "title": "Cymbal ベーシック 黄桃 ダイスカット 220g",
+     "brand": "Cymbal ベーシック",
+     "size": "220g",
+     "price_tax_excluded": 128,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 黄桃 シラップづけ 425g",
+     "brand": "Cymbal セレクト",
+     "size": "425g",
+     "price_tax_excluded": 548,
+     "origin": "山形県産もも使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_yellow_peach_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_white_peach_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "もも缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [
+    7,
+    8
+   ],
+   "dishes": [
+    "白桃パフェ",
+    "コンポート",
+    "ゼリー",
+    "お見舞い"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかくみずみずしい白桃を、果肉の香りを生かしてシロップ漬けにしました。上品な甘さでそのまま冷やして食べても、ゼリーやパフェに使っても美味しくいただけます。",
+   "image_brief": "A round can with a plain pale-pink blank label beside a crystal bowl of glossy white peach halves, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 白桃 2つ割り シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 国産 白桃 シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 498,
+     "origin": "国産もも使用"
+    },
+    {
+     "title": "Cymbal セレクト 岡山県産 白桃 シラップづけ 425g",
+     "brand": "Cymbal セレクト",
+     "size": "425g",
+     "price_tax_excluded": 898,
+     "origin": "岡山県産もも使用"
+    },
+    {
+     "title": "Cymbal セレクト 福島県産 白桃 シラップづけ 425g",
+     "brand": "Cymbal セレクト",
+     "size": "425g",
+     "price_tax_excluded": 798,
+     "origin": "福島県産もも使用"
+    },
+    {
+     "title": "Cymbal 白桃 シラップづけ 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 168,
+     "origin": "中国製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_white_peach_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_pineapple_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "パイン缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "酢豚",
+    "フルーツポンチ",
+    "パイナップルケーキ",
+    "ハワイアンピザ"
+   ],
+   "tax_rate": 8,
+   "description": "甘酸っぱいパイナップルを輪切りやチャンクにしてシロップに漬けました。デザートにはもちろん、酢豚やハワイアンピザ、カレーの隠し味にも活躍します。",
+   "image_brief": "A tall round can with a plain bright-yellow blank label beside a plate of pineapple rings in syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal パインアップル スライス 565g",
+     "brand": "Cymbal",
+     "size": "565g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal パインアップル スライス 227g",
+     "brand": "Cymbal",
+     "size": "227g",
+     "price_tax_excluded": 128,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal パインアップル チャンク 565g",
+     "brand": "Cymbal",
+     "size": "565g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal パインアップル 果汁づけ スライス 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 278,
+     "origin": "フィリピン製造"
+    },
+    {
+     "title": "サンオーチャード 沖縄県産 パインアップル 425g",
+     "brand": "サンオーチャード",
+     "size": "425g",
+     "price_tax_excluded": 498,
+     "origin": "沖縄県産パインアップル使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_pineapple_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_fruit_mix_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "フルーツミックス缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "もも"
+   ],
+   "season_months": [],
+   "dishes": [
+    "フルーツポンチ",
+    "フルーツサンド",
+    "杏仁豆腐",
+    "ゼリー"
+   ],
+   "tax_rate": 8,
+   "description": "黄桃・洋梨・パインアップル・ぶどう・チェリーなどを食べやすくカットしたフルーツミックス。フルーツポンチや杏仁豆腐、ゼリーなど手作りデザートに大活躍します。",
+   "image_brief": "A round can with a plain multicolored pastel blank label next to a glass bowl of mixed diced fruit with red cherries in syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal フルーツミックス 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 248,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal フルーツミックス 190g",
+     "brand": "Cymbal",
+     "size": "190g",
+     "price_tax_excluded": 148,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal フルーツミックス 190g×3缶",
+     "brand": "Cymbal",
+     "size": "190g×3缶",
+     "price_tax_excluded": 398,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "Cymbal トロピカルフルーツミックス 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 278,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード 国産 フルーツミックス 果汁づけ 295g",
+     "brand": "サンオーチャード",
+     "size": "295g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_fruit_mix_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_pear_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "洋梨缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "タルト",
+    "コンポート",
+    "ヨーグルトのせ",
+    "フルーツサンド"
+   ],
+   "tax_rate": 8,
+   "description": "なめらかな舌ざわりと上品な香りの洋梨をシロップ漬けにしました。そのまま冷やしてデザートに、タルトやコンポート、ヨーグルトのトッピングにもおすすめです。",
+   "image_brief": "A round can with a plain pale-green blank label beside a small plate of pear halves in syrup, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 洋梨 2つ割り シラップづけ 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 268,
+     "origin": "南アフリカ製造"
+    },
+    {
+     "title": "Cymbal 洋梨 ダイスカット 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 148,
+     "origin": "南アフリカ製造"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 ラ・フランス シラップづけ 425g",
+     "brand": "Cymbal セレクト",
+     "size": "425g",
+     "price_tax_excluded": 598,
+     "origin": "山形県産洋梨使用"
+    },
+    {
+     "title": "サンオーチャード 洋梨 果汁づけ 411g",
+     "brand": "サンオーチャード",
+     "size": "411g",
+     "price_tax_excluded": 298,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_pear_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_cherry_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "チェリー缶"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "クリームソーダ",
+    "パフェ",
+    "ショートケーキ",
+    "フルーツポンチ"
+   ],
+   "tax_rate": 8,
+   "description": "鮮やかな赤色のチェリーをシロップ漬けにしました。クリームソーダやパフェ、ケーキのトッピングに添えるだけで、懐かしい喫茶店風の華やかさに。ダークチェリーの缶もご用意。",
+   "image_brief": "A small clear glass jar full of bright red cherries with stems in syrup, a plain white blank label and red lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal レッドチェリー 軸付 瓶 170g",
+     "brand": "Cymbal",
+     "size": "170g",
+     "price_tax_excluded": 248,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal レッドチェリー 軸なし 瓶 330g",
+     "brand": "Cymbal",
+     "size": "330g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "サンオーチャード ダークチェリー シラップづけ 缶 425g",
+     "brand": "サンオーチャード",
+     "size": "425g",
+     "price_tax_excluded": 348,
+     "origin": "アメリカ製造"
+    },
+    {
+     "title": "Cymbal セレクト 山形県産 さくらんぼ シラップづけ 瓶 200g",
+     "brand": "Cymbal セレクト",
+     "size": "200g",
+     "price_tax_excluded": 698,
+     "origin": "山形県産さくらんぼ使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_cherry_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_nata_de_coco",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "ナタデココ・トロピカル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "フルーツポンチ",
+    "ヨーグルトのせ",
+    "ドリンク",
+    "杏仁豆腐"
+   ],
+   "tax_rate": 8,
+   "description": "独特のコリコリとした食感が楽しいナタデココ。シロップ漬けなのでそのままデザートに、ヨーグルトやドリンク、フルーツポンチに加えて食感のアクセントに。",
+   "image_brief": "A clear stand-up pouch of translucent white nata de coco cubes in syrup with a plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ナタデココ シラップづけ 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 158,
+     "origin": "フィリピン製造"
+    },
+    {
+     "title": "Cymbal ナタデココ シラップづけ 400g",
+     "brand": "Cymbal",
+     "size": "400g",
+     "price_tax_excluded": 248,
+     "origin": "フィリピン製造"
+    },
+    {
+     "title": "Cymbal ナタデココ 缶 425g",
+     "brand": "Cymbal",
+     "size": "425g",
+     "price_tax_excluded": 228,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード ナタデココ マンゴー風味 200g",
+     "brand": "サンオーチャード",
+     "size": "200g",
+     "price_tax_excluded": 178,
+     "origin": "フィリピン製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_nata_de_coco_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_mango_lychee_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "ナタデココ・トロピカル"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "マンゴープリン",
+    "パフェ",
+    "杏仁豆腐",
+    "スムージー"
+   ],
+   "tax_rate": 8,
+   "description": "とろりと甘いマンゴーと、みずみずしく香り高いライチなど南国フルーツのシロップ漬け。マンゴープリンや杏仁豆腐、パフェなど南国風のデザートが手軽に作れます。",
+   "image_brief": "Two round cans with plain orange and pale-pink blank labels next to a glass bowl of mango cubes and peeled lychees, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "サンオーチャード マンゴー スライス シラップづけ 425g",
+     "brand": "サンオーチャード",
+     "size": "425g",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード マンゴー ダイスカット 220g",
+     "brand": "サンオーチャード",
+     "size": "220g",
+     "price_tax_excluded": 178,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード ライチ シラップづけ 565g",
+     "brand": "サンオーチャード",
+     "size": "565g",
+     "price_tax_excluded": 298,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード ランブータン シラップづけ 565g",
+     "brand": "サンオーチャード",
+     "size": "565g",
+     "price_tax_excluded": 328,
+     "origin": "タイ製造"
+    },
+    {
+     "title": "サンオーチャード ロンガン シラップづけ 565g",
+     "brand": "サンオーチャード",
+     "size": "565g",
+     "price_tax_excluded": 328,
+     "origin": "タイ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_mango_lychee_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_apple_compote_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "フルーツ缶",
+    "りんご缶・コンポート"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "りんご"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "アップルパイ",
+    "タルトタタン",
+    "ヨーグルトのせ",
+    "パンケーキ"
+   ],
+   "tax_rate": 8,
+   "description": "国産りんごをやさしい甘さのシロップで煮たりんごのコンポート。シャキッとした食感が残り、アップルパイやタルト、パンケーキのトッピングにそのまま使えます。",
+   "image_brief": "A clear glass jar of pale golden apple slices in syrup with a plain white blank label and gold lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 国産 りんご コンポート スライス 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 248,
+     "origin": "国産りんご使用"
+    },
+    {
+     "title": "Cymbal 国産 りんご ダイスカット 220g",
+     "brand": "Cymbal",
+     "size": "220g",
+     "price_tax_excluded": 248,
+     "origin": "国産りんご使用"
+    },
+    {
+     "title": "Cymbal セレクト 青森県産 紅玉 コンポート 瓶 280g",
+     "brand": "Cymbal セレクト",
+     "size": "280g",
+     "price_tax_excluded": 498,
+     "origin": "青森県産りんご使用"
+    },
+    {
+     "title": "サンオーチャード アップルパイフィリング 缶 595g",
+     "brand": "サンオーチャード",
+     "size": "595g",
+     "price_tax_excluded": 498,
+     "origin": "アメリカ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_apple_compote_can_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_zha_cai",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "ごはんのお供",
+    "ザーサイ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "チャーハン",
+    "冷奴",
+    "中華粥"
+   ],
+   "tax_rate": 8,
+   "description": "コリコリとした歯ごたえの中華風漬物ザーサイ。ごま油の香りとほどよい辛みでご飯やお粥のお供に。刻んでチャーハンや冷奴、炒め物に加えると味のアクセントになります。",
+   "image_brief": "A small clear glass jar of shredded brown-green pickled mustard stem with a red metal lid and plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付ザーサイ 細切り 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 味付ザーサイ 細切り 袋 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 128,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 味付ザーサイ ピリ辛 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 188,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 四川 ザーサイ 厚切り 150g",
+     "brand": "Cymbal セレクト",
+     "size": "150g",
+     "price_tax_excluded": 298,
+     "origin": "中国製造"
+    },
+    {
+     "title": "かもめ食品 ごま油香る ザーサイ 90g",
+     "brand": "かもめ食品",
+     "size": "90g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_zha_cai_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_menma",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "ごはんのお供",
+    "メンマ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆",
+    "ごま"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ラーメンの具",
+    "おつまみ",
+    "チャーハン",
+    "ご飯のお供"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく煮て、しょうゆとごま油で味付けしたメンマ。ラーメンのトッピングはもちろん、おつまみやご飯のお供にも。ラー油で仕上げたピリ辛タイプも人気です。",
+   "image_brief": "A clear glass jar filled with amber-brown seasoned bamboo shoot strips with a gold metal lid and plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 味付メンマ 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 178,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 味付メンマ 袋 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 128,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal 穂先メンマ 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal ラー油メンマ 瓶 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 228,
+     "origin": "中国製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 孟宗竹 メンマ 100g",
+     "brand": "Cymbal セレクト",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "九州産たけのこ使用"
+    }
+   ],
+   "images": [
+    "w_dry_canned_menma_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_taberu_rayu",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "ごはんのお供",
+    "食べるラー油・具入り調味料"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "ごま",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "冷奴",
+    "餃子",
+    "ラーメン"
+   ],
+   "tax_rate": 8,
+   "description": "フライドガーリックやオニオンがたっぷり入った具入りラー油。ザクザク食感とほどよい辛さで、ご飯にのせるだけでも、冷奴や餃子、ラーメンのトッピングにも。",
+   "image_brief": "A small glass jar packed with crunchy red-brown chili oil with fried garlic, a red metal cap and plain white blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal 具だくさん 食べるラー油 瓶 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 具だくさん 食べるラー油 辛さひかえめ 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 フライドガーリック ラー油 瓶 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 きくらげラー油 瓶 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_taberu_rayu_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_kyuri_shoyuduke",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰・漬物",
+    "醤油漬"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "お茶漬け",
+    "おにぎり",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "パリパリ食感のきゅうりを甘辛いしょうゆ漬けにしました。しょうがの香りがきいて、ご飯がすすむ定番の漬物。刻んでおにぎりやチャーハンに混ぜても美味しいです。",
+   "image_brief": "A small clear plastic pouch of chopped brown soy-pickled cucumber slices with a plain green blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きゅうり しょうゆ漬 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal きゅうり しょうゆ漬 瓶 150g",
+     "brand": "Cymbal",
+     "size": "150g",
+     "price_tax_excluded": 228,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal 刻みしば漬 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 148,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 山くらげ しょうゆ漬 80g",
+     "brand": "かもめ食品",
+     "size": "80g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 なすとしそ 刻み漬 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 198,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_kyuri_shoyuduke_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_seafood_tsukudani",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "ごはんのお供",
+    "魚介の佃煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [],
+   "dishes": [
+    "ご飯のお供",
+    "おにぎり",
+    "お茶漬け",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "いかなごやあさり、かつおを甘辛く炊き上げた魚介の佃煮。昔ながらの濃いめの味わいで、少量でもご飯がすすみます。お茶漬けやおにぎりの具にもぴったりです。",
+   "image_brief": "A small clear glass jar of dark glossy simmered small fish tsukudani with a gold lid and plain blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "かもめ食品 いかなご くぎ煮 瓶 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 498,
+     "origin": "兵庫県産いかなご使用"
+    },
+    {
+     "title": "かもめ食品 あさり 佃煮 80g",
+     "brand": "かもめ食品",
+     "size": "80g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 かつお角煮 90g",
+     "brand": "かもめ食品",
+     "size": "90g",
+     "price_tax_excluded": 348,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal まぐろ しぐれ煮 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しじみ 佃煮 80g",
+     "brand": "Cymbal",
+     "size": "80g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_seafood_tsukudani_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_kinoko_tsukudani",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "瓶詰",
+    "きのこの佃煮"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [
+    "小麦",
+    "大豆"
+   ],
+   "season_months": [
+    10,
+    11,
+    12
+   ],
+   "dishes": [
+    "ご飯のお供",
+    "おろし和え",
+    "冷奴",
+    "パスタ"
+   ],
+   "tax_rate": 8,
+   "description": "しいたけやまいたけ、きくらげなど数種類のきのこをしょうゆで甘辛く炊いた瓶詰。なめたけとは違う、きのこの歯ごたえが楽しい一品です。和風パスタやおろし和えにも。",
+   "image_brief": "A clear glass jar of mixed soy-simmered mushrooms with a brown metal lid and plain kraft blank label, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal きのこ 佃煮 ミックス 瓶 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "Cymbal しいたけ 旨煮 瓶 110g",
+     "brand": "Cymbal",
+     "size": "110g",
+     "price_tax_excluded": 248,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 まいたけ しぐれ煮 瓶 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    },
+    {
+     "title": "かもめ食品 きくらげ 佃煮 瓶 100g",
+     "brand": "かもめ食品",
+     "size": "100g",
+     "price_tax_excluded": 298,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_kinoko_tsukudani_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_dill_pickles",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ピクルス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "ハンバーガー",
+    "サンドイッチ",
+    "タルタルソース",
+    "おつまみ"
+   ],
+   "tax_rate": 8,
+   "description": "ディルの香りをきかせた甘くないサワーピクルス。ハンバーガーやサンドイッチに挟んだり、刻んでタルタルソースに加えたり。ポリポリの食感でおつまみにもぴったりです。",
+   "image_brief": "A tall glass jar of whole small dill pickles with dill sprigs and garlic in brine, plain white blank label, green metal lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ディルピクルス ホール 瓶 350g",
+     "brand": "ボスコヴェルデ",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "ボスコヴェルデ ディルピクルス スライス 瓶 350g",
+     "brand": "ボスコヴェルデ",
+     "size": "350g",
+     "price_tax_excluded": 398,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "ボスコヴェルデ コルニッション 瓶 190g",
+     "brand": "ボスコヴェルデ",
+     "size": "190g",
+     "price_tax_excluded": 348,
+     "origin": "フランス製造"
+    },
+    {
+     "title": "Cymbal サワーピクルス ハンバーガースライス 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "インド製造"
+    },
+    {
+     "title": "Cymbal 刻みピクルス レリッシュ 瓶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 248,
+     "origin": "インド製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_dill_pickles_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_mixed_pickles",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ピクルス"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "オードブル",
+    "カレーの付け合わせ",
+    "サラダ",
+    "お弁当"
+   ],
+   "tax_rate": 8,
+   "description": "カリフラワー、パプリカ、にんじん、小玉ねぎなどを彩りよく漬けたミックス野菜ピクルス。程よい酸味で、オードブルや肉料理の付け合わせ、カレーのお供に。",
+   "image_brief": "A glass jar of colorful mixed vegetable pickles with cauliflower, carrots, red pepper and pearl onions, plain blank label and silver lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "Cymbal ミックスピクルス 瓶 300g",
+     "brand": "Cymbal",
+     "size": "300g",
+     "price_tax_excluded": 298,
+     "origin": "トルコ製造"
+    },
+    {
+     "title": "Cymbal パールオニオン ピクルス 瓶 200g",
+     "brand": "Cymbal",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "オランダ製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産野菜 彩りピクルス 瓶 180g",
+     "brand": "Cymbal セレクト",
+     "size": "180g",
+     "price_tax_excluded": 448,
+     "origin": "国産野菜使用"
+    },
+    {
+     "title": "ボスコヴェルデ カリフラワー ピクルス 瓶 300g",
+     "brand": "ボスコヴェルデ",
+     "size": "300g",
+     "price_tax_excluded": 348,
+     "origin": "トルコ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_mixed_pickles_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_stuffed_olive",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "オリーブ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "おつまみ",
+    "ピンチョス",
+    "サラダ",
+    "カクテル"
+   ],
+   "tax_rate": 8,
+   "description": "グリーンオリーブの種を抜き、パプリカやアンチョビ、ガーリックを詰めたスタッフドオリーブ。そのままピンチョスやおつまみに。カラマタやハーブマリネも揃え、前菜を華やかにします。",
+   "image_brief": "A small glass jar of green olives stuffed with red pimiento in brine, plain white blank label, gold lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ スタッフドオリーブ パプリカ入り 瓶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 298,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ スタッフドオリーブ アンチョビ入り 瓶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ スタッフドオリーブ ガーリック入り 瓶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ カラマタオリーブ 種あり 瓶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "ギリシャ製造"
+    },
+    {
+     "title": "ボスコヴェルデ オリーブ ハーブマリネ 瓶 180g",
+     "brand": "ボスコヴェルデ",
+     "size": "180g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_stuffed_olive_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_anchovy_paste",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "アンチョビ"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "パスタ",
+    "バーニャカウダ",
+    "シーザーサラダ",
+    "ピザ"
+   ],
+   "tax_rate": 8,
+   "description": "アンチョビをオリーブオイルとともにペースト状にしました。チューブや小瓶で必要な分だけ使え、パスタやバーニャカウダ、シーザードレッシングの旨み出しに便利です。",
+   "image_brief": "A small silver aluminum squeeze tube with a plain white blank label beside a tiny glass jar of brown anchovy paste, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ アンチョビペースト チューブ 60g",
+     "brand": "ボスコヴェルデ",
+     "size": "60g",
+     "price_tax_excluded": 348,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ アンチョビペースト 瓶 80g",
+     "brand": "ボスコヴェルデ",
+     "size": "80g",
+     "price_tax_excluded": 398,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ アンチョビ ロールケッパー入り 瓶 80g",
+     "brand": "ボスコヴェルデ",
+     "size": "80g",
+     "price_tax_excluded": 448,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "Cymbal アンチョビソース バーニャカウダ 瓶 100g",
+     "brand": "Cymbal",
+     "size": "100g",
+     "price_tax_excluded": 398,
+     "origin": "国内製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_anchovy_paste_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_roasted_paprika",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "野菜の洋風瓶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "マリネ",
+    "パスタ",
+    "ブルスケッタ",
+    "サンドイッチ"
+   ],
+   "tax_rate": 8,
+   "description": "直火でローストして皮をむいた赤パプリカの瓶詰。とろりとした甘みと香ばしさで、マリネやサンドイッチ、パスタに。オイル漬のアーティチョークやグリル野菜もご用意。",
+   "image_brief": "A tall glass jar of glossy roasted red pepper strips in oil with a plain blank label and a black lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ローストパプリカ 赤 瓶 290g",
+     "brand": "ボスコヴェルデ",
+     "size": "290g",
+     "price_tax_excluded": 398,
+     "origin": "スペイン製造"
+    },
+    {
+     "title": "ボスコヴェルデ アーティチョーク オイル漬 瓶 280g",
+     "brand": "ボスコヴェルデ",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ グリル野菜 オイル漬 瓶 280g",
+     "brand": "ボスコヴェルデ",
+     "size": "280g",
+     "price_tax_excluded": 498,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "ボスコヴェルデ セミドライトマト オイル漬 瓶 280g",
+     "brand": "ボスコヴェルデ",
+     "size": "280g",
+     "price_tax_excluded": 548,
+     "origin": "イタリア製造"
+    },
+    {
+     "title": "Cymbal ローストパプリカ 黄 瓶 290g",
+     "brand": "Cymbal",
+     "size": "290g",
+     "price_tax_excluded": 398,
+     "origin": "トルコ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_roasted_paprika_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_jalapeno",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "野菜の洋風瓶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [],
+   "dishes": [
+    "タコス",
+    "ピザ",
+    "ナチョス",
+    "ハンバーガー"
+   ],
+   "tax_rate": 8,
+   "description": "ピリッと辛いハラペーニョを輪切りにして酢漬けにしました。タコスやナチョス、ピザやハンバーガーにのせて刺激と酸味をプラス。辛いもの好きの方におすすめです。",
+   "image_brief": "A glass jar of sliced green jalapeno pepper rings in brine with a plain blank label and red lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ハラペーニョ スライス 瓶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 348,
+     "origin": "メキシコ製造"
+    },
+    {
+     "title": "ボスコヴェルデ ハラペーニョ スライス 缶 800g",
+     "brand": "ボスコヴェルデ",
+     "size": "800g",
+     "price_tax_excluded": 698,
+     "origin": "メキシコ製造"
+    },
+    {
+     "title": "ボスコヴェルデ グリーンチリ ダイスカット 缶 113g",
+     "brand": "ボスコヴェルデ",
+     "size": "113g",
+     "price_tax_excluded": 248,
+     "origin": "メキシコ製造"
+    },
+    {
+     "title": "ボスコヴェルデ チポトレ アドボソース漬 缶 200g",
+     "brand": "ボスコヴェルデ",
+     "size": "200g",
+     "price_tax_excluded": 398,
+     "origin": "メキシコ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_jalapeno_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_sauerkraut",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "ザワークラウト"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ソーセージ添え",
+    "シュークルート",
+    "ポトフ",
+    "ホットドッグ"
+   ],
+   "tax_rate": 8,
+   "description": "キャベツを乳酸発酵させたドイツの伝統的な漬物ザワークラウト。爽やかな酸味がソーセージや豚肉料理によく合い、ポトフやホットドッグのトッピングにもおすすめです。",
+   "image_brief": "A tall glass jar of pale shredded fermented cabbage with a plain white blank label and silver lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ザワークラウト 瓶 350g",
+     "brand": "ボスコヴェルデ",
+     "size": "350g",
+     "price_tax_excluded": 298,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "ボスコヴェルデ ザワークラウト 缶 520g",
+     "brand": "ボスコヴェルデ",
+     "size": "520g",
+     "price_tax_excluded": 348,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "ボスコヴェルデ 赤キャベツ 酢漬け 瓶 350g",
+     "brand": "ボスコヴェルデ",
+     "size": "350g",
+     "price_tax_excluded": 348,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "Cymbal オーガニック 有機 ザワークラウト 瓶 350g",
+     "brand": "Cymbal オーガニック",
+     "size": "350g",
+     "price_tax_excluded": 448,
+     "origin": "ドイツ製造"
+    }
+   ],
+   "images": [
+    "w_dry_canned_sauerkraut_p.jpg"
+   ],
+   "cc_images": []
+  },
+  {
+   "base_id": "w_dry_canned_beets_can",
+   "category_path": [
+    "缶詰・粉類・乾物",
+    "洋風缶詰・瓶詰",
+    "野菜の洋風瓶詰"
+   ],
+   "storage_type": "常温食品",
+   "allergens": [],
+   "season_months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "dishes": [
+    "ボルシチ",
+    "ビーツサラダ",
+    "ポテトサラダ",
+    "マリネ"
+   ],
+   "tax_rate": 8,
+   "description": "やわらかく下ゆでした赤ビーツの缶詰・瓶詰。鮮やかな色と土の甘みで、ボルシチやサラダに加えるだけで食卓がぱっと華やぎます。皮むきや下ゆでの手間がいりません。",
+   "image_brief": "A glass jar of deep magenta sliced beetroot in liquid with a plain blank label and gold lid, studio packshot.",
+   "labels": [],
+   "variants": [
+    {
+     "title": "ボスコヴェルデ ビーツ スライス 瓶 330g",
+     "brand": "ボスコヴェルデ",
+     "size": "330g",
+     "price_tax_excluded": 348,
+     "origin": "ドイツ製造"
+    },
+    {
+     "title": "ボスコヴェルデ ビーツ ホール 缶 425g",
+     "brand": "ボスコヴェルデ",
+     "size": "425g",
+     "price_tax_excluded": 298,
+     "origin": "ポーランド製造"
+    },
+    {
+     "title": "ボスコヴェルデ ビーツ ダイスカット 缶 400g",
+     "brand": "ボスコヴェルデ",
+     "size": "400g",
+     "price_tax_excluded": 298,
+     "origin": "ポーランド製造"
+    },
+    {
+     "title": "Cymbal セレクト 国産 蒸しビーツ 250g",
+     "brand": "Cymbal セレクト",
+     "size": "250g",
+     "price_tax_excluded": 398,
+     "origin": "北海道産"
+    }
+   ],
+   "images": [
+    "w_dry_canned_beets_can_p.jpg"
+   ],
+   "cc_images": []
+  }
+ ]
+}
