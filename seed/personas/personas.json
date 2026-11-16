@@ -1,0 +1,74 @@
+[
+  {
+    "customer_id": "CR-0001",
+    "name": "さくら",
+    "name_kana": "サクラ",
+    "age": 38,
+    "gender": "女性",
+    "occupation": "都内メーカー勤務（時短勤務）",
+    "residence": "神奈川県川崎市",
+    "household": [
+      {"relation": "本人", "name": "さくら", "age": 38},
+      {"relation": "夫", "name": "健太", "age": 40},
+      {"relation": "長男", "name": "蓮", "age": 10},
+      {"relation": "長女", "name": "陽菜", "age": 7}
+    ],
+    "household_size": 4,
+    "family_preferences": [
+      {"relation": "本人", "name": "さくら", "call_name": "さくらさん", "age": 38,
+       "likes": ["魚", "和食", "野菜多め"], "ng": [],
+       "like_keywords": [
+         {"label": "魚", "keywords": ["秋鮭", "銀鮭", "鮭", "さば", "ぶり", "さんま", "あじ", "たら", "さわら", "かれい"]},
+         {"label": "和食", "keywords": ["和風", "煮物", "みそ汁", "おひたし", "きんぴら", "ひじき", "白和え"]},
+         {"label": "野菜", "keywords": ["ほうれん草", "小松菜", "ブロッコリー", "しめじ", "まいたけ", "えのき", "きのこ", "白菜", "大根", "キャベツ", "野菜サラダ", "カット野菜"]}
+       ]},
+      {"relation": "夫", "name": "健太", "call_name": "健太さん", "age": 40,
+       "likes": ["肉料理", "焼き魚", "ビールに合うおかず"], "ng": [],
+       "like_keywords": [
+         {"label": "肉料理", "keywords": ["豚こま", "豚ロース", "豚バラ", "豚肉", "牛こま", "牛肉", "鶏もも", "生姜焼", "焼肉", "ステーキ", "とんかつ"]},
+         {"label": "焼き魚", "keywords": ["塩さば", "ほっけ", "開き", "干物", "焼魚", "塩鮭", "甘塩"]},
+         {"label": "ビールに合うおかず", "keywords": ["焼き鳥", "焼鳥", "餃子", "枝豆", "手羽", "チャーシュー", "焼豚"]}
+       ]},
+      {"relation": "長男", "name": "蓮", "call_name": "蓮くん", "age": 10,
+       "likes": ["ハンバーグ", "唐揚げ", "中辛カレー", "ご飯大盛り"], "ng": [],
+       "like_keywords": [
+         {"label": "ハンバーグ", "keywords": ["ハンバーグ"]},
+         {"label": "唐揚げ", "keywords": ["唐揚げ", "からあげ", "から揚げ"]},
+         {"label": "中辛カレー", "keywords": ["中辛"]},
+         {"label": "ご飯（大盛り）", "keywords": ["ごはん", "ご飯", "白米"]}
+       ]},
+      {"relation": "長女", "name": "陽菜", "call_name": "陽菜ちゃん", "age": 7,
+       "likes": ["甘い卵焼き", "コーン", "果物"], "ng": ["えび（アレルギー）"], "allergies": ["えび"],
+       "like_keywords": [
+         {"label": "甘い卵焼き", "keywords": ["甘い玉子焼き", "甘い卵焼き", "玉子焼き", "卵焼き", "だし巻"]},
+         {"label": "コーン", "keywords": ["コーン"]},
+         {"label": "果物", "keywords": ["みかん", "りんご", "柿", "ぶどう", "梨", "いちご", "バナナ", "キウイ", "シャインマスカット", "ラ・フランス", "フルーツ"]}
+       ]}
+    ],
+    "allergies": [
+      {"member": "長女", "allergen": "えび", "severity": "要除去", "note": "えび・えびエキスを含む商品は購入しない"}
+    ],
+    "exclude_keywords": ["えび", "エビ", "海老", "シュリンプ"],
+    "taste_preferences": {
+      "curry_spiciness": "中辛",
+      "cuisine": "和食中心",
+      "protein": "魚好き（鮭・さば・ぶり）、肉は豚こま・鶏もも",
+      "kids_friendly": true
+    },
+    "cooking_style": "平日は20分以内の時短料理（カット野菜・下味付き・ミールキットを活用）、週末は作り置き",
+    "shopping_style": "週末まとめ買い（土曜午前に注文）、お買い得品・セール品を必ずチェック",
+    "quality_preference": "鮮度＋（鮮度保証）商品を重視、国産野菜を優先",
+    "delivery_preference": {"weekday_slot": "19:00-20:00", "weekend_slot": "10:00-12:00", "frequency": "週1回（土曜）"},
+    "budget_per_week_jpy": 15000,
+    "avg_order_items": 12,
+    "loyalty": {"tier": "ゴールド", "member_since": "2022-04-01", "points_balance": 2840},
+    "favorite_categories": ["野菜・果物", "肉・魚", "卵・乳製品", "豆腐・納豆・練り物", "パン・シリアル", "調味料"],
+    "favorite_products_keywords": ["鮮度+", "国内産", "有機", "時短"],
+    "dislikes": ["激辛・麻辣系", "えびを含む商品（長女アレルギー）", "大容量すぎる業務用サイズ"],
+    "seasonal_interest": "旬の食材で季節感のある和食を作りたい（秋は鮭・さんま・きのこ・さつまいも、冬は鍋）",
+    "marketing_consent": {"email": true, "push": true},
+    "cookie": {"name": "cr_customer", "value": "CR-0001", "example_header": "Cookie: cr_customer=CR-0001; cr_visitor=v-7f3a9c21"},
+    "visitor_id": "v-7f3a9c21",
+    "note": "デモ用の架空ペルソナです（実在の人物・会員情報ではありません）"
+  }
+]

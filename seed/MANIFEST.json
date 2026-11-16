@@ -1,0 +1,585 @@
+{
+  "version": "1.0.0",
+  "catalog": {
+    "products_retail": {
+      "file": "catalog/products_retail.jsonl",
+      "schema_file": "catalog/products.schema.json",
+      "row_count": 21534,
+      "bytes": 45108019,
+      "schema_bytes": 5173,
+      "url_rewrite_fields": [
+        "uri",
+        "images[].uri"
+      ]
+    },
+    "autocomplete_suggestions": {
+      "file": "catalog/autocomplete_suggestions.jsonl",
+      "row_count": 7280,
+      "bytes": 442649
+    }
+  },
+  "personas": {
+    "personas_json": {
+      "file": "personas/personas.json",
+      "persona_count": 1,
+      "bytes": 5067
+    },
+    "purchase_history_jsonl": {
+      "file": "personas/purchase_history.jsonl",
+      "row_count": 685,
+      "bytes": 211515
+    },
+    "scripts": [
+      {
+        "file": "personas/generate_history.py",
+        "bytes": 11717
+      },
+      {
+        "file": "personas/load_to_bq.sh",
+        "bytes": 4100
+      }
+    ]
+  },
+  "bigquery": {
+    "cymbal": {
+      "customers": {
+        "data_file": "bigquery/cymbal/customers.jsonl.gz",
+        "schema_file": "bigquery/cymbal/customers.schema.json",
+        "row_count": 3,
+        "gzip_bytes": 4343,
+        "uncompressed_bytes": 14481,
+        "schema_bytes": 5770,
+        "top_level_fields": 29,
+        "has_nested_records": true,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "dislikes:STRING:REPEATED",
+          "allergies:RECORD:REPEATED",
+          "favorite_products_keywords:STRING:REPEATED",
+          "marketing_consent:RECORD:NULLABLE",
+          "delivery_preference:RECORD:NULLABLE",
+          "cookie:RECORD:NULLABLE",
+          "loyalty:RECORD:NULLABLE",
+          "loyalty.member_since:DATE:NULLABLE",
+          "taste_preferences:RECORD:NULLABLE",
+          "exclude_keywords:STRING:REPEATED",
+          "family_preferences:RECORD:REPEATED",
+          "family_preferences.allergies:STRING:REPEATED",
+          "family_preferences.likes:STRING:REPEATED",
+          "family_preferences.ng:STRING:REPEATED",
+          "family_preferences.like_keywords:RECORD:REPEATED",
+          "family_preferences.like_keywords.keywords:STRING:REPEATED",
+          "household:RECORD:REPEATED",
+          "favorite_categories:STRING:REPEATED"
+        ]
+      },
+      "purchase_history": {
+        "data_file": "bigquery/cymbal/purchase_history.jsonl.gz",
+        "schema_file": "bigquery/cymbal/purchase_history.schema.json",
+        "row_count": 808,
+        "gzip_bytes": 18399,
+        "uncompressed_bytes": 241309,
+        "schema_bytes": 731,
+        "top_level_fields": 9,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "order_date:DATE:NULLABLE"
+        ]
+      },
+      "autocomplete_suggestions": {
+        "data_file": "bigquery/cymbal/autocomplete_suggestions.jsonl.gz",
+        "schema_file": "bigquery/cymbal/autocomplete_suggestions.schema.json",
+        "row_count": 7280,
+        "gzip_bytes": 81774,
+        "uncompressed_bytes": 610089,
+        "schema_bytes": 325,
+        "top_level_fields": 4,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": []
+      },
+      "stores": {
+        "data_file": "bigquery/cymbal/stores.jsonl.gz",
+        "schema_file": "bigquery/cymbal/stores.schema.json",
+        "row_count": 3,
+        "gzip_bytes": 787,
+        "uncompressed_bytes": 1898,
+        "schema_bytes": 1515,
+        "top_level_fields": 13,
+        "has_nested_records": true,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "hours:RECORD:NULLABLE",
+          "pharmacy:RECORD:NULLABLE",
+          "services:STRING:REPEATED"
+        ]
+      },
+      "store_layouts": {
+        "data_file": "bigquery/cymbal/store_layouts.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_layouts.schema.json",
+        "row_count": 29,
+        "gzip_bytes": 432019,
+        "uncompressed_bytes": 5208767,
+        "schema_bytes": 235,
+        "top_level_fields": 3,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": []
+      },
+      "store_inventory": {
+        "data_file": "bigquery/cymbal/store_inventory.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_inventory.schema.json",
+        "row_count": 58418,
+        "gzip_bytes": 428881,
+        "uncompressed_bytes": 7239377,
+        "schema_bytes": 405,
+        "top_level_fields": 5,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "updated_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "store_inventory_events": {
+        "data_file": "bigquery/cymbal/store_inventory_events.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_inventory_events.schema.json",
+        "row_count": 16,
+        "gzip_bytes": 317,
+        "uncompressed_bytes": 1806,
+        "schema_bytes": 319,
+        "top_level_fields": 6,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "store_layout_changes": {
+        "data_file": "bigquery/cymbal/store_layout_changes.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_layout_changes.schema.json",
+        "row_count": 26,
+        "gzip_bytes": 894,
+        "uncompressed_bytes": 6090,
+        "schema_bytes": 562,
+        "top_level_fields": 7,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "published_at:TIMESTAMP:REQUIRED"
+        ]
+      },
+      "shelf_locations": {
+        "data_file": "bigquery/cymbal/shelf_locations.jsonl.gz",
+        "schema_file": "bigquery/cymbal/shelf_locations.schema.json",
+        "row_count": 59029,
+        "gzip_bytes": 608855,
+        "uncompressed_bytes": 15053751,
+        "schema_bytes": 1103,
+        "top_level_fields": 14,
+        "has_nested_records": false,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "slot_ids:STRING:REPEATED",
+          "registered_at:TIMESTAMP:NULLABLE"
+        ],
+        "rewrite_columns": [
+          "photo_uri"
+        ]
+      },
+      "shelf_slots": {
+        "data_file": "bigquery/cymbal/shelf_slots.jsonl.gz",
+        "schema_file": "bigquery/cymbal/shelf_slots.schema.json",
+        "row_count": 46938,
+        "gzip_bytes": 285251,
+        "uncompressed_bytes": 6415444,
+        "schema_bytes": 690,
+        "top_level_fields": 9,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": []
+      },
+      "store_coupons": {
+        "data_file": "bigquery/cymbal/store_coupons.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_coupons.schema.json",
+        "row_count": 14,
+        "gzip_bytes": 1771,
+        "uncompressed_bytes": 6739,
+        "schema_bytes": 1092,
+        "top_level_fields": 11,
+        "has_nested_records": true,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "target:RECORD:NULLABLE",
+          "target.categories:STRING:REPEATED",
+          "target.product_ids:STRING:REPEATED",
+          "valid_until:DATE:NULLABLE"
+        ]
+      },
+      "store_offers": {
+        "data_file": "bigquery/cymbal/store_offers.jsonl.gz",
+        "schema_file": "bigquery/cymbal/store_offers.schema.json",
+        "row_count": 36,
+        "gzip_bytes": 1988,
+        "uncompressed_bytes": 9528,
+        "schema_bytes": 706,
+        "top_level_fields": 9,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "start_date:DATE:NULLABLE",
+          "end_date:DATE:NULLABLE"
+        ]
+      }
+    },
+    "cymbal_enrichment": {
+      "source_products": {
+        "data_file": "bigquery/cymbal_enrichment/source_products.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/source_products.schema.json",
+        "row_count": 49,
+        "gzip_bytes": 13950,
+        "uncompressed_bytes": 68981,
+        "schema_bytes": 782,
+        "top_level_fields": 14,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "updated_at:TIMESTAMP:NULLABLE"
+        ],
+        "rewrite_columns": [
+          "doc_sources_json",
+          "image_url",
+          "product_url"
+        ]
+      },
+      "enriched_attributes": {
+        "data_file": "bigquery/cymbal_enrichment/enriched_attributes.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/enriched_attributes.schema.json",
+        "row_count": 512,
+        "gzip_bytes": 18710,
+        "uncompressed_bytes": 256577,
+        "schema_bytes": 1074,
+        "top_level_fields": 20,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "created_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "sku_extras": {
+        "data_file": "bigquery/cymbal_enrichment/sku_extras.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/sku_extras.schema.json",
+        "row_count": 61,
+        "gzip_bytes": 7921,
+        "uncompressed_bytes": 28835,
+        "schema_bytes": 304,
+        "top_level_fields": 5,
+        "has_nested_records": false,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "search_keywords:STRING:REPEATED",
+          "created_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "review_log": {
+        "data_file": "bigquery/cymbal_enrichment/review_log.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/review_log.schema.json",
+        "row_count": 1,
+        "gzip_bytes": 174,
+        "uncompressed_bytes": 188,
+        "schema_bytes": 440,
+        "top_level_fields": 8,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "reviewed_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "golden_records": {
+        "data_file": "bigquery/cymbal_enrichment/golden_records.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/golden_records.schema.json",
+        "row_count": 62,
+        "gzip_bytes": 12650,
+        "uncompressed_bytes": 76937,
+        "schema_bytes": 627,
+        "top_level_fields": 10,
+        "has_nested_records": false,
+        "has_repeated_fields": true,
+        "special_fields": [
+          "feature_tags:STRING:REPEATED",
+          "search_keywords:STRING:REPEATED",
+          "updated_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "batch_jobs": {
+        "data_file": "bigquery/cymbal_enrichment/batch_jobs.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/batch_jobs.schema.json",
+        "row_count": 6,
+        "gzip_bytes": 647,
+        "uncompressed_bytes": 3033,
+        "schema_bytes": 886,
+        "top_level_fields": 16,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "created_at:TIMESTAMP:NULLABLE",
+          "updated_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "gmc_conversational": {
+        "data_file": "bigquery/cymbal_enrichment/gmc_conversational.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/gmc_conversational.schema.json",
+        "row_count": 62,
+        "gzip_bytes": 31122,
+        "uncompressed_bytes": 292712,
+        "schema_bytes": 1059,
+        "top_level_fields": 18,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "updated_at:TIMESTAMP:NULLABLE"
+        ]
+      },
+      "product_images": {
+        "data_file": "bigquery/cymbal_enrichment/product_images.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/product_images.schema.json",
+        "row_count": 17,
+        "gzip_bytes": 2934,
+        "uncompressed_bytes": 43908,
+        "schema_bytes": 1254,
+        "top_level_fields": 23,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "created_at:TIMESTAMP:NULLABLE",
+          "updated_at:TIMESTAMP:NULLABLE"
+        ],
+        "rewrite_columns": [
+          "base_image_uri",
+          "gcs_uri"
+        ]
+      },
+      "doc_extractions": {
+        "data_file": "bigquery/cymbal_enrichment/doc_extractions.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/doc_extractions.schema.json",
+        "row_count": 1,
+        "gzip_bytes": 1676,
+        "uncompressed_bytes": 5883,
+        "schema_bytes": 728,
+        "top_level_fields": 13,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "created_at:TIMESTAMP:NULLABLE"
+        ],
+        "rewrite_columns": [
+          "extracted_json",
+          "file_uri"
+        ]
+      },
+      "token_usage": {
+        "data_file": "bigquery/cymbal_enrichment/token_usage.jsonl.gz",
+        "schema_file": "bigquery/cymbal_enrichment/token_usage.schema.json",
+        "row_count": 26,
+        "gzip_bytes": 1633,
+        "uncompressed_bytes": 13317,
+        "schema_bytes": 672,
+        "top_level_fields": 12,
+        "has_nested_records": false,
+        "has_repeated_fields": false,
+        "special_fields": [
+          "created_at:TIMESTAMP:NULLABLE"
+        ]
+      }
+    }
+  },
+  "gcs": {
+    "store-navi": {
+      "source_dir": "gcs/store-navi",
+      "target_bucket_env": "STORE_NAVI_BUCKET",
+      "object_count": 14,
+      "total_bytes": 1950960,
+      "objects": [
+        {
+          "object": "shelf_photos/S01/20261112-023708-b0f19d.jpg",
+          "bytes": 155331
+        },
+        {
+          "object": "shelf_photos/S01/20261112-041020-01d4e6.jpg",
+          "bytes": 137683
+        },
+        {
+          "object": "shelf_photos/S01/20261112-051916-b70580.jpg",
+          "bytes": 150138
+        },
+        {
+          "object": "shelf_photos/S01/20261112-053648-cccae7.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261112-055655-74abee.jpg",
+          "bytes": 150138
+        },
+        {
+          "object": "shelf_photos/S01/20261112-055755-88279c.jpg",
+          "bytes": 150138
+        },
+        {
+          "object": "shelf_photos/S01/20261112-055818-d984df.jpg",
+          "bytes": 150138
+        },
+        {
+          "object": "shelf_photos/S01/20261112-055840-5a686e.jpg",
+          "bytes": 150138
+        },
+        {
+          "object": "shelf_photos/S01/20261113-072500-ecda47.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261113-072920-ece8f4.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261113-073108-ad0119.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261113-073323-252915.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261116-000335-f17237.jpg",
+          "bytes": 129608
+        },
+        {
+          "object": "shelf_photos/S01/20261116-000615-aa927b.jpg",
+          "bytes": 129608
+        }
+      ]
+    },
+    "enrichment-images": {
+      "source_dir": "gcs/enrichment-images",
+      "target_bucket_env": "ENRICH_IMAGE_BUCKET",
+      "object_count": 21,
+      "total_bytes": 2453096,
+      "objects": [
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101259_1.jpg",
+          "bytes": 83896
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101259_2.jpg",
+          "bytes": 115475
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101259_3.jpg",
+          "bytes": 140408
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101352_1.jpg",
+          "bytes": 139075
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101352_2.jpg",
+          "bytes": 119112
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101352_3.jpg",
+          "bytes": 121216
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101432_1.jpg",
+          "bytes": 126954
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101432_2.jpg",
+          "bytes": 122614
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste-mix_20261111-101432_3.jpg",
+          "bytes": 117663
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261111-092216_1.jpg",
+          "bytes": 111155
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261111-092216_2.jpg",
+          "bytes": 97416
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261112-145438_1.jpg",
+          "bytes": 100801
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261112-145438_2.jpg",
+          "bytes": 127475
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261116-093310_1.jpg",
+          "bytes": 91340
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261116-093310_2.jpg",
+          "bytes": 112353
+        },
+        {
+          "object": "4925319234365/4925319234365_autumn-taste_20261116-093310_3.jpg",
+          "bytes": 131532
+        },
+        {
+          "object": "_docs_uploads/20261111/85276a18_label_cymbal_carbonara.png",
+          "bytes": 194945
+        },
+        {
+          "object": "_docs_uploads/20261111/af923b1a_label_cymbal_carbonara.png",
+          "bytes": 194945
+        },
+        {
+          "object": "_samples/label_cymbal_carbonara.png",
+          "bytes": 194945
+        },
+        {
+          "object": "_samples/price_list_2026winter_nabe.xlsx",
+          "bytes": 5878
+        },
+        {
+          "object": "_samples/spec_cymbal_frypan_20cm.pdf",
+          "bytes": 3898
+        }
+      ]
+    }
+  },
+  "summary": {
+    "bigquery_datasets": {
+      "cymbal": {
+        "table_count": 12,
+        "total_rows": 172600,
+        "total_gzip_bytes": 1865279,
+        "total_uncompressed_bytes": 34809279
+      },
+      "cymbal_enrichment": {
+        "table_count": 10,
+        "total_rows": 797,
+        "total_gzip_bytes": 91417,
+        "total_uncompressed_bytes": 790371
+      }
+    },
+    "gcs_buckets": {
+      "store-navi": {
+        "object_count": 14,
+        "total_bytes": 1950960
+      },
+      "enrichment-images": {
+        "object_count": 21,
+        "total_bytes": 2453096
+      }
+    },
+    "max_single_file": {
+      "file": "catalog/products_retail.jsonl",
+      "bytes": 45108019,
+      "under_50mb": true
+    }
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "store_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "version",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "base_version",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "action",
+    "type": "STRING"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "published_by",
+    "type": "STRING"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "published_at",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "summary",
+    "type": "STRING"
+  }
+]

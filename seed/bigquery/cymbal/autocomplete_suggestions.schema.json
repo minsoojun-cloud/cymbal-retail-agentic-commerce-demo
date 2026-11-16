@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "suggestion",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "globalScore",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "frequency",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "languageCode",
+    "type": "STRING"
+  }
+]
